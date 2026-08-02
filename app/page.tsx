@@ -366,8 +366,8 @@ export default function Home() {
     setPlatformImageStatus(boxLike ? "正在读取易金在线、赵涌在线的公开候选图片…" : "");
     try {
       const [response, platformResponse] = await Promise.all([
-        fetch(`/api/search?q=${encodeURIComponent(requestValue)}`),
-        fetch(`/api/platform-records?q=${encodeURIComponent(requestValue)}`),
+        fetch(`/api/search?q=${encodeURIComponent(requestValue)}`, { signal: AbortSignal.timeout(12000) }),
+        fetch(`/api/platform-records?q=${encodeURIComponent(requestValue)}`, { signal: AbortSignal.timeout(12000) }),
       ]);
       const data = await response.json() as { ok: boolean; error?: string; records?: RealRecord[]; sources?: { fetchedAt: string }[] };
       const platformData = await platformResponse.json() as { ok: boolean; records?: PlatformRecord[] };
@@ -388,7 +388,7 @@ export default function Home() {
           .catch(() => setPlatformImageStatus("平台图片读取超时，本次已停止，不影响普通查询"));
       }
     } catch (error) {
-      setRealError(error instanceof Error ? error.message : "暂时无法查询，请稍后重试");
+      setRealError(error instanceof DOMException && error.name === "TimeoutError" ? "平台响应超过12秒，本次查询已停止，请稍后重试" : error instanceof Error ? error.message : "暂时无法查询，请稍后重试");
     } finally {
       setRealLoading(false);
       setPlatformRecordsLoading(false);
