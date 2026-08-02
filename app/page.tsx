@@ -421,20 +421,20 @@ export default function Home() {
       </header>
 
       <section className="hero" id="top">
-        <div className="eyebrow"><span /> 钱币盒号查询</div>
-        <h1>查盒号，<br /><em>看清这枚币的来历与行情。</em></h1>
-        <p className="hero-copy">支持 NGC、PCGS 盒号和评级盒图片识别，也可以输入币名或关键词查询历史成交。</p>
+        <div className="eyebrow"><span /> 泉知</div>
+        <h1>查盒号，找成交。</h1>
+        <p className="hero-copy">输入 NGC、PCGS 盒号，或钱币关键词。</p>
 
         <form className="searchbox" id="search" onSubmit={search}>
           <span className="search-icon" aria-hidden="true" />
-          <input value={query} onChange={(e) => setQuery(e.target.value)} aria-label="搜索评级盒号或钱币" placeholder="优先输入 NGC 8616098-030 或 PCGS 47171501" />
-          <button type="submit">立即查询</button>
+          <input value={query} onChange={(e) => setQuery(e.target.value)} aria-label="搜索评级盒号或钱币" placeholder="盒号 / 币名 / 关键词" />
+          <button type="submit">查询</button>
         </form>
         <div className="examples"><span>查询示例：</span>{["NGC 8616098-030", "PCGS 47171501", "大熊猫国家公园纪念币"].map((item) => <button key={item} type="button" onClick={() => runExample(item)}>{item}</button>)}</div>
         {searchHistory.length > 0 && <div className="recent-searches"><span>最近搜索</span>{searchHistory.map((item) => <button key={item} type="button" onClick={() => runExample(item)}>{item}</button>)}<button className="clear-history" type="button" onClick={clearSearchHistory}>清除</button></div>}
         <div className="image-search">
-          <div className="image-search-copy"><span className="camera" aria-hidden="true">▣</span><div><b>上传评级盒照片，自动识别盒号</b><small>请使用清晰、完整的标签正面照片，识别后记得核对数字。</small></div></div>
-          <div className="image-actions"><button type="button" className="sample-button" onClick={useSampleImage}>用示例图体验</button><label className="upload-button">选择图片<input type="file" accept="image/*" onChange={chooseImage} /></label></div>
+          <div className="image-search-copy"><span className="camera" aria-hidden="true">▣</span><div><b>拍照识别盒号</b></div></div>
+          <div className="image-actions"><button type="button" className="sample-button" onClick={useSampleImage}>示例</button><label className="upload-button">上传图片<input type="file" accept="image/*" onChange={chooseImage} /></label></div>
         </div>
         {(imagePreview || ocrStatus) && <div className="ocr-panel">
           {/* Uploaded images use local blob URLs, so a native image element is required here. */}
@@ -442,7 +442,7 @@ export default function Home() {
           {imagePreview && <img src={imagePreview} alt="待识别的评级盒照片预览" />}
           <div className="ocr-content"><span className="kicker">识别结果</span><h3>{ocrStatus}</h3>{ocrResult && <div className="ocr-fields"><p><span>评级机构</span><b>{ocrResult.company}</b></p><p><span>盒号</span><b>{ocrResult.code || "未识别"}</b></p><p><span>评级</span><b>{ocrResult.grade}</b></p><p><span>币种标签</span><b>{ocrResult.coin}</b></p></div>}{ocrResult?.code && <button type="button" onClick={searchRecognizedCode}>号码正确，查询这枚币</button>}<small className="ocr-warning">请对照标签逐位核对盒号。</small></div>
         </div>}
-        <div className="data-note"><span>真</span> 每条成交记录都可查看来源；不同盒号、品种和计价单位不会混在一起。</div>
+        <div className="data-note"><span>源</span> 价格均附原始记录</div>
       </section>
 
       {submitted && (
@@ -523,25 +523,12 @@ export default function Home() {
         </section>
       )}
 
-      {!submitted && (
-        <section className="how" id="about">
-          <div><span className="step">01</span><h3>先识别完整盒号</h3><p>手动输入或上传评级盒正面照片，识别后必须逐位人工核对。</p></div>
-          <div><span className="step">02</span><h3>再去官方核验</h3><p>通过 NGC、PCGS 官方详情确认币种、年份、版别和评级标签。</p></div>
-          <div><span className="step">03</span><h3>最后核对精确成交</h3><p>只有成交详情出现同一完整盒号，才认定为这枚币的交易记录。</p></div>
-        </section>
-      )}
-
       <section className="platform-section" id="platforms">
-        <div className="platform-heading"><div><span className="kicker">更多平台</span><h2>继续查找这枚币</h2><p>前往常用钱币平台，查看更多成交、在售和拍卖信息。</p></div><div className="platform-legend"><span><i className="data" /> 网页</span><span><i className="link" /> APP/平台</span><span><i className="mini" /> 小程序</span></div></div>
-        <div className="platform-grid">{platforms.map((platform) => <article key={platform.name}>
-          <div className="platform-card-top"><span className={`platform-logo ${platform.kind}`}>{platform.name.slice(0,1)}</span><span className={`source-status ${platform.kind}`}>{platform.status}</span></div>
-          <h3>{platform.name}</h3><p>{platform.scope}</p>
-          {platform.href ? <a href={platformSearchUrl(platform.name, activeSearchTerm) || platform.href} target="_blank" rel="noreferrer">去{platform.name}继续搜索 <span>↗</span></a> : <button type="button" title="请在微信中搜索小程序">{platform.action}</button>}
-        </article>)}</div>
-        <div className="platform-footnote">平台按钮可能打开搜索、分类、APP或小程序入口，具体商品信息以平台页面为准。</div>
+        <div className="platform-heading compact"><div><span className="kicker">平台入口</span><h2>更多渠道</h2></div></div>
+        <div className="platform-pills">{platforms.map((platform) => platform.href ? <a key={platform.name} href={platformSearchUrl(platform.name, activeSearchTerm) || platform.href} target="_blank" rel="noreferrer">{platform.name}<span>↗</span></a> : <span key={platform.name} title={platform.action}>{platform.name}</span>)}</div>
       </section>
 
-      <footer><a className="brand muted" href="#top"><span className="brand-seal">泉</span><span>泉知</span></a><p>公开成交数据以原始交易页为准 · 无来源不展示价格</p><span>最后更新 2026-08-02</span></footer>
+      <footer><a className="brand muted" href="#top"><span className="brand-seal">泉</span><span>泉知</span></a><p>数据以原始交易页为准</p></footer>
     </main>
   );
 }

@@ -352,3 +352,24 @@ footer { background:white; }
   .searchbox button { width:100%; }
   .data-note { border-radius:14px; text-align:left; }
 }
+
+/* Minimal home: search first, supporting content second. */
+.hero { padding-top:58px; padding-bottom:40px; }
+.hero h1 { margin:18px auto 10px; font-size:52px; }
+.searchbox { margin-top:28px; }
+.image-search { max-width:640px; margin-top:18px; padding:10px 12px; }
+.data-note { margin-top:18px; }
+.platform-section { padding-top:42px; padding-bottom:46px; }
+.platform-heading.compact { margin-bottom:18px; }
+.platform-heading.compact h2 { margin-top:5px; font-size:24px; }
+.platform-pills { display:flex; flex-wrap:wrap; gap:10px; }
+.platform-pills a,.platform-pills>span { display:inline-flex; align-items:center; gap:7px; padding:10px 14px; border:1px solid #dfe5ee; border-radius:999px; background:#fff; color:#344054; font-size:13px; text-decoration:none; }
+.platform-pills a:hover { color:#155eef; border-color:#b8c8ee; }
+.platform-pills a span { color:#155eef; }
+.platform-pills>span { color:#98a2b3; background:#f7f8fa; }
+
+@media (max-width:800px) {
+  .hero { padding-top:42px; padding-bottom:30px; }
+  .hero h1 { font-size:38px; }
+  .platform-section { padding-top:36px; padding-bottom:38px; }
+}
