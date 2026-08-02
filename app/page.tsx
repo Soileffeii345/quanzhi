@@ -365,23 +365,28 @@ export default function Home() {
     setPlatformRecordsLoading(true);
     setPlatformImageStatus(boxLike ? "正在读取易金在线、赵涌在线的公开候选图片…" : "");
     try {
-      const [response, platformResponse, imageResponse] = await Promise.all([
+      const [response, platformResponse] = await Promise.all([
         fetch(`/api/search?q=${encodeURIComponent(requestValue)}`),
         fetch(`/api/platform-records?q=${encodeURIComponent(requestValue)}`),
-        boxLike ? fetch(`/api/platform-images?q=${encodeURIComponent(value)}`) : Promise.resolve(null),
       ]);
       const data = await response.json() as { ok: boolean; error?: string; records?: RealRecord[]; sources?: { fetchedAt: string }[] };
       const platformData = await platformResponse.json() as { ok: boolean; records?: PlatformRecord[] };
       const textRecords = platformResponse.ok && platformData.ok ? platformData.records ?? [] : [];
-      let imageMatches: PlatformRecord[] = [];
-      if (imageResponse?.ok) {
-        const imageData = await imageResponse.json() as { candidates?: PlatformImageCandidate[] };
-        imageMatches = await scanPlatformImages(value, imageData.candidates ?? []);
-      }
-      setPlatformRecords([...imageMatches, ...textRecords.filter((record) => !imageMatches.some((match) => match.url === record.url))]);
+      setPlatformRecords(textRecords);
       if (!response.ok || !data.ok) throw new Error(data.error || "查询失败");
       setRealRecords(data.records ?? []);
       setRealFetchedAt(data.sources?.[0]?.fetchedAt ?? "");
+      setRealLoading(false);
+      setPlatformRecordsLoading(false);
+      if (boxLike) {
+        void fetch(`/api/platform-images?q=${encodeURIComponent(value)}`, { signal: AbortSignal.timeout(12000) })
+          .then(async (imageResponse) => imageResponse.ok ? await imageResponse.json() as { candidates?: PlatformImageCandidate[] } : { candidates: [] })
+          .then(async (imageData) => await scanPlatformImages(value, imageData.candidates ?? []))
+          .then((imageMatches) => {
+            if (imageMatches.length > 0) setPlatformRecords((current) => [...imageMatches, ...current.filter((record) => !imageMatches.some((match) => match.url === record.url))]);
+          })
+          .catch(() => setPlatformImageStatus("平台图片读取超时，本次已停止，不影响普通查询"));
+      }
     } catch (error) {
       setRealError(error instanceof Error ? error.message : "暂时无法查询，请稍后重试");
     } finally {
@@ -392,20 +397,31 @@ export default function Home() {
 
   async function scanPlatformImages(value: string, candidates: PlatformImageCandidate[]) {
     const expected = value.replace(/^(NGC|PCGS)\s*/i, "").replace(/\D/g, "");
-    if (!expected || candidates.length === 0) {
+    const scannable = candidates.filter((candidate) => candidate.price !== null && candidate.price > 0).slice(0, 3);
+    if (!expected || scannable.length === 0) {
       setPlatformImageStatus("两站本次公开搜索没有返回可扫描的候选图片");
       return [];
     }
+    const timeout = <T,>(promise: Promise<T>, milliseconds: number) => Promise.race<T>([
+      promise,
+      new Promise<T>((_, reject) => window.setTimeout(() => reject(new Error("timeout")), milliseconds)),
+    ]);
     const { createWorker } = await import("tesseract.js");
-    const worker = await createWorker("eng");
+    let worker;
+    try {
+      worker = await timeout(createWorker("eng"), 15000);
+    } catch {
+      setPlatformImageStatus("图片识别服务加载超时，本次已停止，不影响普通查询");
+      return [];
+    }
     const matches: PlatformRecord[] = [];
     try {
-      for (let index = 0; index < candidates.length; index += 1) {
-        const candidate = candidates[index];
-        setPlatformImageStatus(`正在核对平台图片 ${index + 1}/${candidates.length}…`);
+      for (let index = 0; index < scannable.length; index += 1) {
+        const candidate = scannable[index];
+        setPlatformImageStatus(`正在核对平台图片 ${index + 1}/${scannable.length}…`);
         try {
           const proxyUrl = `/api/platform-images?image=${encodeURIComponent(candidate.imageUrl)}`;
-          const result = await worker.recognize(proxyUrl);
+          const result = await timeout(worker.recognize(proxyUrl), 10000);
           const recognizedDigits = result.data.text.replace(/\D/g, "");
           if (!recognizedDigits.includes(expected) || candidate.price === null || candidate.price <= 0) continue;
           matches.push({ id: `image-${candidate.id}`, source: candidate.source, title: candidate.title, price: candidate.price, priceLabel: candidate.priceLabel, time: candidate.time, timeLabel: candidate.timeLabel, status: "图片盒号已核对", url: candidate.url, match: "exact-box" });
@@ -416,7 +432,7 @@ export default function Home() {
     } finally {
       await worker.terminate();
     }
-    setPlatformImageStatus(matches.length > 0 ? `平台图片命中 ${matches.length} 个完整盒号` : "已扫描本次候选图片，未发现完整盒号一致的商品");
+    setPlatformImageStatus(matches.length > 0 ? `平台图片命中 ${matches.length} 个完整盒号` : `已核对 ${scannable.length} 张候选图片，未发现完整盒号一致的商品`);
     return matches;
   }
 
