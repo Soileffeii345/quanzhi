@@ -135,6 +135,7 @@ type OcrResult = {
   grade: string;
   coin: string;
   raw: string;
+  confidence: number;
 };
 
 type RealRecord = {
@@ -387,7 +388,18 @@ export default function Home() {
   }
 
   async function recognizeImage(file: File) {
-    setImagePreview(URL.createObjectURL(file));
+    if (!file.type.startsWith("image/")) {
+      setOcrStatus("请选择 JPG、PNG 等图片文件");
+      return;
+    }
+    if (file.size > 12 * 1024 * 1024) {
+      setOcrStatus("图片超过 12MB，请压缩后重新上传");
+      return;
+    }
+    setImagePreview((current) => {
+      if (current.startsWith("blob:")) URL.revokeObjectURL(current);
+      return URL.createObjectURL(file);
+    });
     setOcrResult(null);
     setOcrStatus("正在准备识别…");
     try {
@@ -397,11 +409,16 @@ export default function Home() {
           if (message.status === "recognizing text") setOcrStatus(`正在识别文字 ${Math.round((message.progress ?? 0) * 100)}%`);
         },
       });
-      const raw = output.data.text.replace(/\s+/g, " ").trim();
-      const code = raw.match(/\b\d{7}-\d{3}\b/)?.[0] ?? "";
+      const raw = output.data.text.replace(/[—–﹣]/g, "-").replace(/\s+/g, " ").trim();
+      const ngcMatch = raw.match(/\b\d{7}\s*[- ]\s*\d{3}\b/);
+      const pcgsMatch = raw.match(/\b\d{8}\b/);
+      const code = ngcMatch
+        ? ngcMatch[0].replace(/\s/g, "").replace(/^(\d{7})(\d{3})$/, "$1-$2")
+        : pcgsMatch?.[0] ?? "";
       const grade = raw.match(/\b(?:PF|MS|AU|XF|VF)\s*\d{2}(?:\s+ULTRA\s+CAMEO)?\b/i)?.[0] ?? "待人工确认";
       const yearAndCoin = raw.match(/\b20\d{2}\s+China[^\n]{0,60}/i)?.[0] ?? "待人工确认";
-      setOcrResult({ code, company: /\bNGC\b/i.test(raw) ? "NGC" : /\bPCGS\b/i.test(raw) ? "PCGS" : "待人工确认", grade, coin: yearAndCoin, raw });
+      const company = /\bNGC\b/i.test(raw) || ngcMatch ? "NGC" : /\bPCGS\b/i.test(raw) ? "PCGS" : "待人工确认";
+      setOcrResult({ code, company, grade, coin: yearAndCoin, raw, confidence: Math.round(output.data.confidence) });
       setOcrStatus(code ? "识别完成，请核对结果" : "未稳定识别出盒号，请换一张更清晰的正面照片");
     } catch {
       setOcrStatus("识别没有完成，请稍后重试或手动输入盒号");
@@ -422,6 +439,7 @@ export default function Home() {
       grade: "PF 70 ULTRA CAMEO",
       coin: "2026 China 30g S10Y Fortune · First Day of Issue",
       raw: "Auspicious Culture 2026 China 30g S10Y Fortune First Day of Issue PF 70 ULTRA CAMEO 8616098-030 NGC",
+      confidence: 98,
     });
   }
 
@@ -463,7 +481,7 @@ export default function Home() {
           {/* Uploaded images use local blob URLs, so a native image element is required here. */}
           {/* eslint-disable-next-line @next/next/no-img-element */}
           {imagePreview && <img src={imagePreview} alt="待识别的评级盒照片预览" />}
-          <div className="ocr-content"><span className="kicker">识别结果</span><h3>{ocrStatus}</h3>{ocrResult && <div className="ocr-fields"><p><span>评级机构</span><b>{ocrResult.company}</b></p><p><span>盒号</span><b>{ocrResult.code || "未识别"}</b></p><p><span>评级</span><b>{ocrResult.grade}</b></p><p><span>币种标签</span><b>{ocrResult.coin}</b></p></div>}{ocrResult?.code && <button type="button" onClick={searchRecognizedCode}>号码正确，查询这枚币</button>}<small className="ocr-warning">请对照标签逐位核对盒号。</small></div>
+          <div className="ocr-content"><span className="kicker">识别结果</span><h3>{ocrStatus}</h3>{ocrResult && <><div className="ocr-confidence"><span>文字识别可信度</span><b>{ocrResult.confidence}%</b><i style={{ width: `${ocrResult.confidence}%` }} /></div><div className="ocr-fields"><label><span>评级机构</span><select value={ocrResult.company} onChange={(event) => setOcrResult({ ...ocrResult, company: event.target.value })}><option>NGC</option><option>PCGS</option><option>待人工确认</option></select></label><label><span>盒号（请逐位核对）</span><input value={ocrResult.code} placeholder="例如 8616098-030" inputMode="numeric" onChange={(event) => setOcrResult({ ...ocrResult, code: event.target.value.toUpperCase().replace(/[^A-Z0-9-]/g, "") })} /></label><p><span>评级</span><b>{ocrResult.grade}</b></p><p><span>币种标签</span><b>{ocrResult.coin}</b></p></div></>}{ocrResult?.code && <button type="button" onClick={searchRecognizedCode}>已核对，查询这个盒号</button>}<small className="ocr-warning">图片识别可能看错数字；只有你确认后的盒号才会用于查询。</small></div>
         </div>}
         <div className="data-note"><span>源</span> 价格均附原始记录</div>
       </section>
