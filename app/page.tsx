@@ -388,8 +388,8 @@ export default function Home() {
       ]);
       const data = await response.json() as { ok: boolean; error?: string; records?: RealRecord[]; sources?: { fetchedAt: string }[] };
       const platformData = await platformResponse.json() as { ok: boolean; records?: PlatformRecord[] };
-      const databaseData = databaseResponse?.ok ? await databaseResponse.json() as { records?: BoxDatabaseRecord[] } : { records: [] };
-      const databaseRecords: PlatformRecord[] = (databaseData.records ?? []).map((record) => ({ id: `database-${record.platform}-${record.productCode}`, source: record.platform, title: `${record.coinName} · ${record.gradingCompany} ${record.grade} · 产品编号 ${record.productCode}`, price: record.price, priceLabel: `成交价（含佣¥${record.priceWithFee.toLocaleString()}）`, time: record.transactedAt, timeLabel: "成交时间", status: record.verificationStatus === "user_screenshot" ? "截图证据·原链接待复核" : "已核验", url: record.detailUrl, match: "exact-box" }));
+      const databaseData = databaseResponse?.ok ? await databaseResponse.json() as { match?: "exact" | "prefix"; records?: BoxDatabaseRecord[] } : { match: "exact" as const, records: [] };
+      const databaseRecords: PlatformRecord[] = (databaseData.records ?? []).map((record) => ({ id: `database-${record.platform}-${record.productCode}`, source: record.platform, title: `${record.coinName} · ${record.gradingCompany} ${record.grade} · 产品编号 ${record.productCode}`, price: record.price, priceLabel: `成交价（含佣¥${record.priceWithFee.toLocaleString()}）`, time: record.transactedAt, timeLabel: "成交时间", status: record.verificationStatus === "user_screenshot" ? "截图证据·原链接待复核" : "已核验", url: record.detailUrl, match: databaseData.match === "exact" ? "exact-box" : "keyword" }));
       const textRecords = [...databaseRecords, ...(platformResponse.ok && platformData.ok ? platformData.records ?? [] : [])];
       setPlatformRecords(textRecords);
       if (!response.ok || !data.ok) throw new Error(data.error || "查询失败");
