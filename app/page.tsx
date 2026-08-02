@@ -177,6 +177,22 @@ type PlatformImageCandidate = {
   timeLabel: string;
 };
 
+type BoxDatabaseRecord = {
+  normalizedBoxCode: string;
+  displayBoxCode: string;
+  gradingCompany: string;
+  grade: string;
+  coinName: string;
+  platform: string;
+  detailUrl: string;
+  price: number;
+  priceWithFee: number;
+  transactedAt: string;
+  productCode: string;
+  verificationStatus: "user_screenshot" | "page_text_exact" | "image_exact";
+  evidenceNote: string;
+};
+
 function readStoredList(key: string) {
   if (typeof window === "undefined") return [];
   try {
@@ -365,13 +381,16 @@ export default function Home() {
     setPlatformRecordsLoading(true);
     setPlatformImageStatus(boxLike ? "正在读取易金在线、赵涌在线的公开候选图片…" : "");
     try {
-      const [response, platformResponse] = await Promise.all([
+      const [response, platformResponse, databaseResponse] = await Promise.all([
         fetch(`/api/search?q=${encodeURIComponent(requestValue)}`, { signal: AbortSignal.timeout(12000) }),
         fetch(`/api/platform-records?q=${encodeURIComponent(requestValue)}`, { signal: AbortSignal.timeout(12000) }),
+        boxLike ? fetch(`/api/box-database?q=${encodeURIComponent(requestValue)}`, { signal: AbortSignal.timeout(5000) }) : Promise.resolve(null),
       ]);
       const data = await response.json() as { ok: boolean; error?: string; records?: RealRecord[]; sources?: { fetchedAt: string }[] };
       const platformData = await platformResponse.json() as { ok: boolean; records?: PlatformRecord[] };
-      const textRecords = platformResponse.ok && platformData.ok ? platformData.records ?? [] : [];
+      const databaseData = databaseResponse?.ok ? await databaseResponse.json() as { records?: BoxDatabaseRecord[] } : { records: [] };
+      const databaseRecords: PlatformRecord[] = (databaseData.records ?? []).map((record) => ({ id: `database-${record.platform}-${record.productCode}`, source: record.platform, title: `${record.coinName} · ${record.gradingCompany} ${record.grade} · 产品编号 ${record.productCode}`, price: record.price, priceLabel: `成交价（含佣¥${record.priceWithFee.toLocaleString()}）`, time: record.transactedAt, timeLabel: "成交时间", status: record.verificationStatus === "user_screenshot" ? "截图证据·原链接待复核" : "已核验", url: record.detailUrl, match: "exact-box" }));
+      const textRecords = [...databaseRecords, ...(platformResponse.ok && platformData.ok ? platformData.records ?? [] : [])];
       setPlatformRecords(textRecords);
       if (!response.ok || !data.ok) throw new Error(data.error || "查询失败");
       setRealRecords(data.records ?? []);
@@ -636,7 +655,7 @@ export default function Home() {
                 <div><span className={`record-match ${record.match}`}>{record.match === "exact-box" ? "同一盒号" : "关键词相关"}</span><b>{record.source}</b></div>
                 <h4>{record.title}</h4>
                 <dl><div><dt>{record.priceLabel}</dt><dd>¥{record.price.toLocaleString()}</dd></div><div><dt>{record.timeLabel}</dt><dd>{record.time}</dd></div></dl>
-                <a href={record.url} target="_blank" rel="noreferrer">查看商品详情 ↗</a>
+                {record.url ? <a href={record.url} target="_blank" rel="noreferrer">查看商品详情 ↗</a> : <span className="record-pending">{record.status}</span>}
               </article>)}
             </div> : <div className="platform-records-empty">暂未找到同时包含价格、时间和详情链接的公开记录。</div>}
             <div className="priority-platform-links">

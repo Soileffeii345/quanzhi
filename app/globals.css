@@ -393,6 +393,7 @@ footer { background:white; }
 .platform-records dt { color:#98a2b3; font-size:10px; }
 .platform-records dd { margin:0; color:#101828; font-size:13px; font-weight:700; }
 .platform-records a { color:#155eef; font-size:12px; text-decoration:none; }
+.record-pending { color:#b54708; font-size:11px; font-weight:700; }
 .platform-records-empty { margin:0 0 18px; padding:14px; border-radius:12px; color:#667085; background:#f8fafc; font-size:12px; }
 .image-scan-status { display:flex; align-items:center; gap:8px; margin:0 0 12px; padding:10px 12px; border:1px solid #d6e4ff; border-radius:10px; color:#344054; background:#f5f8ff; font-size:11px; }
 .image-scan-status span { width:7px; height:7px; border-radius:50%; background:#155eef; box-shadow:0 0 0 3px #dbe7ff; }
