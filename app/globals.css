@@ -367,9 +367,19 @@ footer { background:white; }
 .platform-pills a:hover { color:#155eef; border-color:#b8c8ee; }
 .platform-pills a span { color:#155eef; }
 .platform-pills>span { color:#98a2b3; background:#f7f8fa; }
+.priority-platforms { margin-top:24px; padding:22px; border:1px solid #e4e7ec; border-radius:16px; background:#fff; }
+.priority-platforms h3 { margin:5px 0 16px; font-size:20px; }
+.priority-platform-links { display:grid; grid-template-columns:repeat(4,1fr); gap:10px; }
+.priority-platform-links a { display:grid; grid-template-columns:1fr auto; gap:3px 8px; padding:14px; border:1px solid #e4e7ec; border-radius:12px; color:#344054; text-decoration:none; }
+.priority-platform-links a:hover { border-color:#b8c8ee; background:#f8faff; }
+.priority-platform-links b { font-size:14px; }
+.priority-platform-links small { color:#98a2b3; font-size:11px; }
+.priority-platform-links span { grid-column:2; grid-row:1 / span 2; align-self:center; color:#155eef; }
+.priority-platforms>p { margin:14px 0 0; color:#98a2b3; font-size:11px; }
 
 @media (max-width:800px) {
   .hero { padding-top:42px; padding-bottom:30px; }
   .hero h1 { font-size:38px; }
   .platform-section { padding-top:36px; padding-bottom:38px; }
+  .priority-platform-links { grid-template-columns:repeat(2,1fr); }
 }

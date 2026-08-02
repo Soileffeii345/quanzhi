@@ -520,6 +520,16 @@ export default function Home() {
               </div>
             </>
           )}
+          <div className="priority-platforms">
+            <div><span className="kicker">更多平台</span><h3>用“{submitted}”继续查询</h3></div>
+            <div className="priority-platform-links">
+              <a href={`/api/platform?name=zhao&q=${encodeURIComponent(submitted)}`} target="_blank" rel="noreferrer"><b>赵涌在线</b><small>关键词搜索</small><span>↗</span></a>
+              <a href={`/api/platform?name=yijin&q=${encodeURIComponent(submitted)}`} target="_blank" rel="noreferrer"><b>易金在线</b><small>关键词搜索</small><span>↗</span></a>
+              <a href={`/api/platform?name=jinbiyunji&q=${encodeURIComponent(submitted)}`} target="_blank" rel="noreferrer"><b>金币云集</b><small>平台入口</small><span>↗</span></a>
+              <a href={`/api/platform?name=maixiqi&q=${encodeURIComponent(submitted)}`} target="_blank" rel="noreferrer"><b>麦稀奇</b><small>拍品入口</small><span>↗</span></a>
+            </div>
+            <p>“关键词搜索”会携带当前内容；“平台入口”需在平台内再次搜索。只有完整盒号一致，才能确认是同一枚币。</p>
+          </div>
         </section>
       )}
 
