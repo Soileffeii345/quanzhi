@@ -376,10 +376,23 @@ footer { background:white; }
 .priority-platform-links small { color:#98a2b3; font-size:11px; }
 .priority-platform-links span { grid-column:2; grid-row:1 / span 2; align-self:center; color:#155eef; }
 .priority-platforms>p { margin:14px 0 0; color:#98a2b3; font-size:11px; }
+.platform-records { display:grid; grid-template-columns:repeat(2,1fr); gap:12px; margin:0 0 18px; }
+.platform-records article { padding:16px; border:1px solid #e4e7ec; border-radius:13px; background:#f9fafb; }
+.platform-records article>div:first-child { display:flex; align-items:center; gap:8px; color:#475467; font-size:12px; }
+.record-match { padding:4px 7px; border-radius:999px; color:#475467; background:#eaecf0; font-size:10px; }
+.record-match.exact-box { color:#067647; background:#ecfdf3; }
+.platform-records h4 { margin:11px 0 13px; font-size:14px; line-height:1.55; }
+.platform-records dl { display:flex; gap:28px; margin:0 0 13px; }
+.platform-records dl div { display:flex; flex-direction:column; gap:3px; }
+.platform-records dt { color:#98a2b3; font-size:10px; }
+.platform-records dd { margin:0; color:#101828; font-size:13px; font-weight:700; }
+.platform-records a { color:#155eef; font-size:12px; text-decoration:none; }
+.platform-records-empty { margin:0 0 18px; padding:14px; border-radius:12px; color:#667085; background:#f8fafc; font-size:12px; }
 
 @media (max-width:800px) {
   .hero { padding-top:42px; padding-bottom:30px; }
   .hero h1 { font-size:38px; }
   .platform-section { padding-top:36px; padding-bottom:38px; }
   .priority-platform-links { grid-template-columns:repeat(2,1fr); }
+  .platform-records { grid-template-columns:1fr; }
 }

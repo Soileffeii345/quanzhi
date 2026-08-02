@@ -151,6 +151,19 @@ type RealRecord = {
   fetchedAt: string;
 };
 
+type PlatformRecord = {
+  id: string;
+  source: string;
+  title: string;
+  price: number;
+  priceLabel: string;
+  time: string;
+  timeLabel: string;
+  status: string;
+  url: string;
+  match: "exact-box" | "keyword";
+};
+
 function readStoredList(key: string) {
   if (typeof window === "undefined") return [];
   try {
@@ -213,6 +226,8 @@ export default function Home() {
   const [realError, setRealError] = useState("");
   const [realSearched, setRealSearched] = useState(false);
   const [realFetchedAt, setRealFetchedAt] = useState("");
+  const [platformRecords, setPlatformRecords] = useState<PlatformRecord[]>([]);
+  const [platformRecordsLoading, setPlatformRecordsLoading] = useState(false);
   const [searchHistory, setSearchHistory] = useState<string[]>(() => readStoredList("quanzhi-search-history"));
   const [savedBoxes, setSavedBoxes] = useState<string[]>(() => readStoredList("quanzhi-saved-boxes"));
 
@@ -332,9 +347,16 @@ export default function Home() {
     setRealSearched(true);
     setRealError("");
     setRealRecords([]);
+    setPlatformRecords([]);
+    setPlatformRecordsLoading(true);
     try {
-      const response = await fetch(`/api/search?q=${encodeURIComponent(requestValue)}`);
+      const [response, platformResponse] = await Promise.all([
+        fetch(`/api/search?q=${encodeURIComponent(requestValue)}`),
+        fetch(`/api/platform-records?q=${encodeURIComponent(requestValue)}`),
+      ]);
       const data = await response.json() as { ok: boolean; error?: string; records?: RealRecord[]; sources?: { fetchedAt: string }[] };
+      const platformData = await platformResponse.json() as { ok: boolean; records?: PlatformRecord[] };
+      if (platformResponse.ok && platformData.ok) setPlatformRecords(platformData.records ?? []);
       if (!response.ok || !data.ok) throw new Error(data.error || "查询失败");
       setRealRecords(data.records ?? []);
       setRealFetchedAt(data.sources?.[0]?.fetchedAt ?? "");
@@ -342,6 +364,7 @@ export default function Home() {
       setRealError(error instanceof Error ? error.message : "暂时无法查询，请稍后重试");
     } finally {
       setRealLoading(false);
+      setPlatformRecordsLoading(false);
     }
   }
 
@@ -522,6 +545,14 @@ export default function Home() {
           )}
           <div className="priority-platforms">
             <div><span className="kicker">更多平台</span><h3>用“{submitted}”继续查询</h3></div>
+            {platformRecordsLoading ? <div className="platform-records-empty">正在核验公开商品页…</div> : platformRecords.length > 0 ? <div className="platform-records">
+              {platformRecords.map((record) => <article key={record.id}>
+                <div><span className={`record-match ${record.match}`}>{record.match === "exact-box" ? "同一盒号" : "关键词相关"}</span><b>{record.source}</b></div>
+                <h4>{record.title}</h4>
+                <dl><div><dt>{record.priceLabel}</dt><dd>¥{record.price.toLocaleString()}</dd></div><div><dt>{record.timeLabel}</dt><dd>{record.time}</dd></div></dl>
+                <a href={record.url} target="_blank" rel="noreferrer">查看商品详情 ↗</a>
+              </article>)}
+            </div> : <div className="platform-records-empty">暂未找到同时包含价格、时间和详情链接的公开记录。</div>}
             <div className="priority-platform-links">
               <a href={`/api/platform?name=zhao&q=${encodeURIComponent(submitted)}`} target="_blank" rel="noreferrer"><b>赵涌在线</b><small>关键词搜索</small><span>↗</span></a>
               <a href={`/api/platform?name=yijin&q=${encodeURIComponent(submitted)}`} target="_blank" rel="noreferrer"><b>易金在线</b><small>关键词搜索</small><span>↗</span></a>
