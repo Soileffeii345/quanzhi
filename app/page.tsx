@@ -165,6 +165,18 @@ type PlatformRecord = {
   match: "exact-box" | "keyword";
 };
 
+type PlatformImageCandidate = {
+  id: string;
+  source: "易金在线" | "赵涌在线";
+  title: string;
+  url: string;
+  imageUrl: string;
+  price: number | null;
+  priceLabel: string;
+  time: string;
+  timeLabel: string;
+};
+
 function readStoredList(key: string) {
   if (typeof window === "undefined") return [];
   try {
@@ -229,6 +241,7 @@ export default function Home() {
   const [realFetchedAt, setRealFetchedAt] = useState("");
   const [platformRecords, setPlatformRecords] = useState<PlatformRecord[]>([]);
   const [platformRecordsLoading, setPlatformRecordsLoading] = useState(false);
+  const [platformImageStatus, setPlatformImageStatus] = useState("");
   const [searchHistory, setSearchHistory] = useState<string[]>(() => readStoredList("quanzhi-search-history"));
   const [savedBoxes, setSavedBoxes] = useState<string[]>(() => readStoredList("quanzhi-saved-boxes"));
 
@@ -350,14 +363,22 @@ export default function Home() {
     setRealRecords([]);
     setPlatformRecords([]);
     setPlatformRecordsLoading(true);
+    setPlatformImageStatus(boxLike ? "正在读取易金在线、赵涌在线的公开候选图片…" : "");
     try {
-      const [response, platformResponse] = await Promise.all([
+      const [response, platformResponse, imageResponse] = await Promise.all([
         fetch(`/api/search?q=${encodeURIComponent(requestValue)}`),
         fetch(`/api/platform-records?q=${encodeURIComponent(requestValue)}`),
+        boxLike ? fetch(`/api/platform-images?q=${encodeURIComponent(value)}`) : Promise.resolve(null),
       ]);
       const data = await response.json() as { ok: boolean; error?: string; records?: RealRecord[]; sources?: { fetchedAt: string }[] };
       const platformData = await platformResponse.json() as { ok: boolean; records?: PlatformRecord[] };
-      if (platformResponse.ok && platformData.ok) setPlatformRecords(platformData.records ?? []);
+      const textRecords = platformResponse.ok && platformData.ok ? platformData.records ?? [] : [];
+      let imageMatches: PlatformRecord[] = [];
+      if (imageResponse?.ok) {
+        const imageData = await imageResponse.json() as { candidates?: PlatformImageCandidate[] };
+        imageMatches = await scanPlatformImages(value, imageData.candidates ?? []);
+      }
+      setPlatformRecords([...imageMatches, ...textRecords.filter((record) => !imageMatches.some((match) => match.url === record.url))]);
       if (!response.ok || !data.ok) throw new Error(data.error || "查询失败");
       setRealRecords(data.records ?? []);
       setRealFetchedAt(data.sources?.[0]?.fetchedAt ?? "");
@@ -367,6 +388,36 @@ export default function Home() {
       setRealLoading(false);
       setPlatformRecordsLoading(false);
     }
+  }
+
+  async function scanPlatformImages(value: string, candidates: PlatformImageCandidate[]) {
+    const expected = value.replace(/^(NGC|PCGS)\s*/i, "").replace(/\D/g, "");
+    if (!expected || candidates.length === 0) {
+      setPlatformImageStatus("两站本次公开搜索没有返回可扫描的候选图片");
+      return [];
+    }
+    const { createWorker } = await import("tesseract.js");
+    const worker = await createWorker("eng");
+    const matches: PlatformRecord[] = [];
+    try {
+      for (let index = 0; index < candidates.length; index += 1) {
+        const candidate = candidates[index];
+        setPlatformImageStatus(`正在核对平台图片 ${index + 1}/${candidates.length}…`);
+        try {
+          const proxyUrl = `/api/platform-images?image=${encodeURIComponent(candidate.imageUrl)}`;
+          const result = await worker.recognize(proxyUrl);
+          const recognizedDigits = result.data.text.replace(/\D/g, "");
+          if (!recognizedDigits.includes(expected) || candidate.price === null || candidate.price <= 0) continue;
+          matches.push({ id: `image-${candidate.id}`, source: candidate.source, title: candidate.title, price: candidate.price, priceLabel: candidate.priceLabel, time: candidate.time, timeLabel: candidate.timeLabel, status: "图片盒号已核对", url: candidate.url, match: "exact-box" });
+        } catch {
+          // A single unreadable image must not turn into a false match or stop the remaining checks.
+        }
+      }
+    } finally {
+      await worker.terminate();
+    }
+    setPlatformImageStatus(matches.length > 0 ? `平台图片命中 ${matches.length} 个完整盒号` : "已扫描本次候选图片，未发现完整盒号一致的商品");
+    return matches;
   }
 
   function search(event: FormEvent) {
@@ -563,7 +614,8 @@ export default function Home() {
           )}
           <div className="priority-platforms">
             <div><span className="kicker">更多平台</span><h3>用“{submitted}”继续查询</h3></div>
-            {platformRecordsLoading ? <div className="platform-records-empty">正在核验公开商品页…</div> : platformRecords.length > 0 ? <div className="platform-records">
+            {platformImageStatus && <div className="image-scan-status"><span />{platformImageStatus}</div>}
+            {platformRecordsLoading ? <div className="platform-records-empty">正在核验公开商品页和商品图片…</div> : platformRecords.length > 0 ? <div className="platform-records">
               {platformRecords.map((record) => <article key={record.id}>
                 <div><span className={`record-match ${record.match}`}>{record.match === "exact-box" ? "同一盒号" : "关键词相关"}</span><b>{record.source}</b></div>
                 <h4>{record.title}</h4>
