@@ -391,7 +391,8 @@ export default function Home() {
       let databaseData: { match?: "exact" | "prefix"; records?: BoxDatabaseRecord[] } = { match: "exact", records: [] };
       if (boxLike) {
         try {
-          const databaseResponse = await fetch(`/api/box-database?q=${encodeURIComponent(requestValue)}`, { signal: AbortSignal.timeout(3000) });
+          const normalizedRequest = requestValue.replace(/\D/g, "");
+          const databaseResponse = await fetch(`/box-data/${normalizedRequest.slice(0, 2)}/${normalizedRequest}.json`, { signal: AbortSignal.timeout(3000) });
           if (databaseResponse.ok) databaseData = await databaseResponse.json() as typeof databaseData;
         } catch {
           // The fast local database lookup must not block the remaining public-platform search.
