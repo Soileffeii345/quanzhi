@@ -255,6 +255,7 @@ export default function Home() {
   const [realError, setRealError] = useState("");
   const [realSearched, setRealSearched] = useState(false);
   const [realFetchedAt, setRealFetchedAt] = useState("");
+  const [boxDatabaseRecords, setBoxDatabaseRecords] = useState<BoxDatabaseRecord[]>([]);
   const [platformRecords, setPlatformRecords] = useState<PlatformRecord[]>([]);
   const [platformRecordsLoading, setPlatformRecordsLoading] = useState(false);
   const [platformImageStatus, setPlatformImageStatus] = useState("");
@@ -377,27 +378,40 @@ export default function Home() {
     setRealSearched(true);
     setRealError("");
     setRealRecords([]);
+    setBoxDatabaseRecords([]);
     setPlatformRecords([]);
     setPlatformRecordsLoading(true);
-    setPlatformImageStatus(boxLike ? "正在读取易金在线、赵涌在线的公开候选图片…" : "");
+    setPlatformImageStatus("");
     try {
-      const [response, platformResponse, databaseResponse] = await Promise.all([
-        fetch(`/api/search?q=${encodeURIComponent(requestValue)}`, { signal: AbortSignal.timeout(12000) }),
-        fetch(`/api/platform-records?q=${encodeURIComponent(requestValue)}`, { signal: AbortSignal.timeout(12000) }),
-        boxLike ? fetch(`/api/box-database?q=${encodeURIComponent(requestValue)}`, { signal: AbortSignal.timeout(5000) }) : Promise.resolve(null),
-      ]);
+      const searchRequest = fetch(`/api/search?q=${encodeURIComponent(requestValue)}`, { signal: AbortSignal.timeout(12000) });
+      const platformRequest = fetch(`/api/platform-records?q=${encodeURIComponent(requestValue)}`, { signal: AbortSignal.timeout(12000) });
+      let databaseData: { match?: "exact" | "prefix"; records?: BoxDatabaseRecord[] } = { match: "exact", records: [] };
+      if (boxLike) {
+        try {
+          const databaseResponse = await fetch(`/api/box-database?q=${encodeURIComponent(requestValue)}`, { signal: AbortSignal.timeout(3000) });
+          if (databaseResponse.ok) databaseData = await databaseResponse.json() as typeof databaseData;
+        } catch {
+          // The fast local database lookup must not block the remaining public-platform search.
+        }
+      }
+      const databaseBoxRecords = databaseData.records ?? [];
+      setBoxDatabaseRecords(databaseBoxRecords);
+      const databasePlatformRecords: PlatformRecord[] = databaseBoxRecords.map((record) => ({ id: `database-${record.platform}-${record.productCode}`, source: record.platform, title: `${record.coinName} · ${record.gradingCompany} ${record.grade} · 产品编号 ${record.productCode}`, price: record.price, priceLabel: `成交价（含佣¥${record.priceWithFee.toLocaleString()}）`, time: record.transactedAt, timeLabel: "成交时间", status: record.verificationStatus === "user_screenshot" ? "截图证据·原链接待复核" : "已核验", url: record.detailUrl, match: databaseData.match === "exact" ? "exact-box" : "keyword" }));
+      setPlatformRecords(databasePlatformRecords);
+      if (databaseBoxRecords.length > 0) setPlatformImageStatus("泉知数据库已命中，其他平台正在后台补充");
+
+      const [response, platformResponse] = await Promise.all([searchRequest, platformRequest]);
       const data = await response.json() as { ok: boolean; error?: string; records?: RealRecord[]; sources?: { fetchedAt: string }[] };
       const platformData = await platformResponse.json() as { ok: boolean; records?: PlatformRecord[] };
-      const databaseData = databaseResponse?.ok ? await databaseResponse.json() as { match?: "exact" | "prefix"; records?: BoxDatabaseRecord[] } : { match: "exact" as const, records: [] };
-      const databaseRecords: PlatformRecord[] = (databaseData.records ?? []).map((record) => ({ id: `database-${record.platform}-${record.productCode}`, source: record.platform, title: `${record.coinName} · ${record.gradingCompany} ${record.grade} · 产品编号 ${record.productCode}`, price: record.price, priceLabel: `成交价（含佣¥${record.priceWithFee.toLocaleString()}）`, time: record.transactedAt, timeLabel: "成交时间", status: record.verificationStatus === "user_screenshot" ? "截图证据·原链接待复核" : "已核验", url: record.detailUrl, match: databaseData.match === "exact" ? "exact-box" : "keyword" }));
-      const textRecords = [...databaseRecords, ...(platformResponse.ok && platformData.ok ? platformData.records ?? [] : [])];
+      const textRecords = [...databasePlatformRecords, ...(platformResponse.ok && platformData.ok ? platformData.records ?? [] : [])];
       setPlatformRecords(textRecords);
       if (!response.ok || !data.ok) throw new Error(data.error || "查询失败");
       setRealRecords(data.records ?? []);
       setRealFetchedAt(data.sources?.[0]?.fetchedAt ?? "");
       setRealLoading(false);
       setPlatformRecordsLoading(false);
-      if (boxLike) {
+      if (boxLike && databaseBoxRecords.length === 0) {
+        setPlatformImageStatus("正在读取易金在线、赵涌在线的公开候选图片…");
         void fetch(`/api/platform-images?q=${encodeURIComponent(value)}`, { signal: AbortSignal.timeout(12000) })
           .then(async (imageResponse) => imageResponse.ok ? await imageResponse.json() as { candidates?: PlatformImageCandidate[] } : { candidates: [] })
           .then(async (imageData) => await scanPlatformImages(value, imageData.candidates ?? []))
@@ -583,8 +597,13 @@ export default function Home() {
                 <div className="box-sale"><span>第一步</span><strong>核对评级信息</strong><p>确认标签与实物一致</p></div>
                 {officialCertUrl ? <a className="outline-link" href={officialCertUrl} target="_blank" rel="noreferrer">打开 {boxAgency} 官方详情 ↗</a> : <div className="official-options"><a href="https://www.ngccoin.com/certlookup/" target="_blank" rel="noreferrer">NGC核验 ↗</a><a href="https://cn.pcgs.com/cert" target="_blank" rel="noreferrer">PCGS核验 ↗</a></div>}
               </div>
-              <div className="box-trace-head"><div><span className="kicker">历史成交</span><h3>这枚评级币的成交记录</h3></div><span>{realLoading ? "查询中" : `${realRecords.length} 条`}</span></div>
-              {realLoading ? <div className="real-loading"><span /><b>正在查询这枚币的成交记录</b><p>请稍候。</p></div> : realError ? <div className="real-empty"><b>暂时无法完成查询</b><p>{realError}</p><button type="button" onClick={() => void loadRealData(submitted)}>重新查询</button></div> : realRecords.length > 0 ? <>
+              <div className="box-trace-head"><div><span className="kicker">历史成交</span><h3>这枚评级币的成交记录</h3></div><span>{boxDatabaseRecords.length > 0 ? `${boxDatabaseRecords.length + realRecords.length} 条` : realLoading ? "查询中" : `${realRecords.length} 条`}</span></div>
+              {boxDatabaseRecords.length > 0 ? <>
+                <div className="real-source-bar"><span><i /> 泉知数据库已命中完整盒号</span><span>其他平台在后台补充，不影响本条展示</span></div>
+                <div className="table-wrap real-table"><table><thead><tr><th>平台与商品</th><th>评级</th><th>成交时间</th><th>成交价</th><th>核验</th></tr></thead><tbody>{boxDatabaseRecords.map((record) => <tr key={`${record.platform}-${record.productCode}`}><td><span className="platform">易</span><div><b>{record.coinName}</b><small>{record.platform} · 产品编号 {record.productCode}</small></div></td><td><span className="grade">{record.gradingCompany} {record.grade}</span></td><td>{record.transactedAt}</td><td className="price-cell"><b>¥{record.price.toLocaleString()}</b><small>含佣价 ¥{record.priceWithFee.toLocaleString()}</small></td><td>{record.detailUrl ? <a href={record.detailUrl} target="_blank" rel="noreferrer">原始交易 ↗</a> : <span className="record-pending">截图证据 · 原链接待复核</span>}</td></tr>)}</tbody></table></div>
+                {realLoading && <div className="background-search-note">其他公开平台仍在后台查询，你可以先查看上面的已收录成交。</div>}
+                {realRecords.length > 0 && <div className="table-wrap real-table secondary-records"><table><thead><tr><th>补充平台记录</th><th>品相</th><th>成交时间</th><th>成交价</th><th>核验</th></tr></thead><tbody>{realRecords.map((record) => <tr key={record.id}><td><span className="platform">邮</span><div><b>{record.title}</b><small>邮宝 · 完整盒号匹配</small></div></td><td>{record.condition}</td><td>{record.completedAt}</td><td className="price-cell"><b>¥{record.price.toLocaleString()}/{record.unit}</b></td><td><a href={record.url} target="_blank" rel="noreferrer">原始交易 ↗</a></td></tr>)}</tbody></table></div>}
+              </> : realLoading ? <div className="real-loading"><span /><b>正在查询这枚币的成交记录</b><p>请稍候。</p></div> : realError ? <div className="real-empty"><b>暂时无法完成查询</b><p>{realError}</p><button type="button" onClick={() => void loadRealData(submitted)}>重新查询</button></div> : realRecords.length > 0 ? <>
                 <div className="real-source-bar"><span><i /> 精确匹配：标题包含完整盒号</span><span>抓取时间：{realFetchedAt ? new Date(realFetchedAt).toLocaleString("zh-CN") : "刚刚"}</span></div>
                 <div className="table-wrap real-table"><table><thead><tr><th>平台与原始标题</th><th>品相</th><th>成交时间</th><th>成交价</th><th>核验</th></tr></thead><tbody>{realRecords.map((record) => <tr key={record.id}><td><span className="platform">邮</span><div><b>{record.title}</b><small>邮宝 · 完整盒号匹配</small></div></td><td>{record.condition}</td><td>{record.completedAt}</td><td className="price-cell"><b>¥{record.price.toLocaleString()}/{record.unit}</b></td><td><a href={record.url} target="_blank" rel="noreferrer">原始交易 ↗</a></td></tr>)}</tbody></table></div>
               </> : <div className="real-empty box-no-sale"><b>暂未找到这枚评级币的公开成交</b><p>你可以继续使用完整盒号到常用平台查找。</p><div className="box-search-links"><a href={platformSearchUrl("邮宝", boxCode)} target="_blank" rel="noreferrer">去邮宝查找 ↗</a><a href={platformSearchUrl("闲鱼", boxCode)} target="_blank" rel="noreferrer">去闲鱼查找 ↗</a></div></div>}
