@@ -267,10 +267,13 @@ export default function Home() {
   const submittedUpper = submitted.trim().toUpperCase();
   const boxAgency = submittedUpper.startsWith("PCGS") ? "PCGS" : submittedUpper.startsWith("NGC") || /\d{7}-\d{3}/.test(submittedUpper) ? "NGC" : "待确认";
   const boxCode = submittedUpper.replace(/^(NGC|PCGS)\s*/i, "").trim();
+  const databaseNumericGrade = boxDatabaseRecords[0]?.grade.match(/\b\d{1,2}\b/)?.[0] ?? "";
   const officialCertUrl = boxAgency === "PCGS"
     ? `https://cn.pcgs.com/cert/${boxCode.replace(/\D/g, "")}`
     : boxAgency === "NGC"
-      ? `https://www.ngccoin.com/certlookup/${boxCode}/`
+      ? databaseNumericGrade
+        ? `https://www.ngccoin.com/certlookup/${boxCode}/${databaseNumericGrade}/`
+        : "https://www.ngccoin.com/certlookup/"
       : "";
   const results = useMemo(() => {
     if (!submitted || isBoxQuery) return coins;
