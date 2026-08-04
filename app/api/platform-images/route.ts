@@ -30,12 +30,7 @@ async function yijinCandidates(query: string): Promise<Candidate[]> {
   const response = await fetch(searchUrl, { headers: { "user-agent": "Quanzhi/0.3 (+public low-frequency image lookup)" } });
   if (!response.ok) throw new Error(`易金在线返回 ${response.status}`);
   const $ = load(await response.text());
-  let links = Array.from(new Set($("a[href*='/web2020/sell/detail/']").map((_, node) => new URL($(node).attr("href")!, searchUrl).toString()).get())).slice(0, 4);
-  if (links.length === 0) {
-    const recentResponse = await fetch("https://www.yjzx.com/web2020/material/list.html", { headers: { "user-agent": "Quanzhi/0.3 (+public low-frequency image lookup)" } });
-    const recent = load(await recentResponse.text());
-    links = Array.from(new Set(recent("a[href*='/web2020/sell/detail/']").map((_, node) => new URL(recent(node).attr("href")!, "https://www.yjzx.com").toString()).get())).slice(0, 4);
-  }
+  const links = Array.from(new Set($("a[href*='/web2020/sell/detail/']").map((_, node) => new URL($(node).attr("href")!, searchUrl).toString()).get())).slice(0, 4);
   const details = await Promise.allSettled(links.map(async (url) => {
     const detailResponse = await fetch(url, { headers: { "user-agent": "Quanzhi/0.3 (+public low-frequency image lookup)" } });
     if (!detailResponse.ok) throw new Error("detail unavailable");
