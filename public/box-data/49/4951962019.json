@@ -1,0 +1,24 @@
+{
+  "ok": true,
+  "query": "4951962019",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4951962019",
+      "displayBoxCode": "4951962-019",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2019年美国阿波罗11号登月50周年精制纪念币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/599003.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4951962-019/70/",
+      "price": 880,
+      "priceWithFee": null,
+      "transactedAt": "2026-07-22 18:45:04",
+      "productCode": "KH142547",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260721/large_sell_i76lcnjl82htctlj.jpg",
+      "ocrConfidence": 42,
+      "verificationStatus": "official_pending"
+    }
+  ]
+}

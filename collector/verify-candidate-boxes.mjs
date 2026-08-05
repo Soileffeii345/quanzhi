@@ -23,6 +23,7 @@ function allDigits(text) {
   return String(text ?? "").replace(/\D/g, "");
 }
 
+const recognitionModes = [PSM.SPARSE_TEXT, PSM.SINGLE_BLOCK, PSM.SINGLE_LINE, PSM.RAW_LINE];
 const result = { selected: candidates.length, matched: 0, mismatched: 0, timedOut: 0, failed: 0 };
 let cursor = 0;
 
@@ -38,18 +39,33 @@ async function runWorker() {
       const index = cursor;
       cursor += 1;
       const candidate = candidates[index];
-      let timer;
       try {
-        const recognized = await Promise.race([
-          worker.recognize(candidate.evidence_image_url),
-          new Promise((_, reject) => { timer = setTimeout(() => reject(new Error("OCR_TIMEOUT")), 25000); }),
-        ]);
-        const recognizedDigits = allDigits(recognized.data.text);
-        if (recognizedDigits.includes(candidate.normalized_box_code)) {
-          setStatus.run("ocr_double_match", `二次数字专用OCR逐位一致；二次可信度 ${Math.round(recognized.data.confidence)}。`, candidate.normalized_box_code, candidate.platform, candidate.detail_url);
+        const attempts = [];
+        let matchedAttempt = null;
+        for (const mode of recognitionModes) {
+          await worker.setParameters({ tessedit_pageseg_mode: mode });
+          let timer;
+          try {
+            const recognized = await Promise.race([
+              worker.recognize(candidate.evidence_image_url),
+              new Promise((_, reject) => { timer = setTimeout(() => reject(new Error("OCR_TIMEOUT")), 25000); }),
+            ]);
+            const recognizedDigits = allDigits(recognized.data.text);
+            const attempt = { mode, confidence: Math.round(recognized.data.confidence), recognizedDigits };
+            attempts.push(attempt);
+            if (recognizedDigits.includes(candidate.normalized_box_code)) {
+              matchedAttempt = attempt;
+              break;
+            }
+          } finally {
+            clearTimeout(timer);
+          }
+        }
+        if (matchedAttempt) {
+          setStatus.run("ocr_double_match", `首轮OCR与增强数字OCR逐位一致；模式 ${matchedAttempt.mode}，可信度 ${matchedAttempt.confidence}。`, candidate.normalized_box_code, candidate.platform, candidate.detail_url);
           result.matched += 1;
         } else {
-          setStatus.run("ocr_mismatch", `二次OCR未包含完整候选盒号；不得进入正式索引。`, candidate.normalized_box_code, candidate.platform, candidate.detail_url);
+          setStatus.run("ocr_mismatch", `四种版面模式均未包含完整候选盒号；不得进入正式索引。`, candidate.normalized_box_code, candidate.platform, candidate.detail_url);
           result.mismatched += 1;
         }
       } catch (error) {
@@ -61,8 +77,6 @@ async function runWorker() {
           worker = await createWorker("eng");
           await worker.setParameters({ tessedit_char_whitelist: "0123456789-", tessedit_pageseg_mode: PSM.SPARSE_TEXT, user_defined_dpi: "300" });
         }
-      } finally {
-        clearTimeout(timer);
       }
     }
   } finally {

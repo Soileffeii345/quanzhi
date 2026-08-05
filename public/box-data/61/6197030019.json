@@ -1,0 +1,24 @@
+{
+  "ok": true,
+  "query": "6197030019",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6197030019",
+      "displayBoxCode": "6197030-019",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1997年新加坡2盎司生肖牛银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/570861.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6197030-019/69/",
+      "price": 1500,
+      "priceWithFee": null,
+      "transactedAt": "2026-04-09 07:41:28",
+      "productCode": "KH129089",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260408/large_sell_gz1leuw8kgoydgnj.jpg",
+      "ocrConfidence": 40,
+      "verificationStatus": "official_pending"
+    }
+  ]
+}

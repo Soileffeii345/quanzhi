@@ -1,0 +1,24 @@
+{
+  "ok": true,
+  "query": "8163090030",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8163090030",
+      "displayBoxCode": "8163090-030",
+      "gradingCompany": "NGC",
+      "grade": "MS 70",
+      "coinName": "2024库克1盎司星空银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/562752.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8163090-030/70/",
+      "price": 1300,
+      "priceWithFee": null,
+      "transactedAt": "2026-04-04 15:06:31",
+      "productCode": "KH127641",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260315/large_sell_x75vuuoelgtlobjz.jpg",
+      "ocrConfidence": 38,
+      "verificationStatus": "official_pending"
+    }
+  ]
+}

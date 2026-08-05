@@ -1,0 +1,24 @@
+{
+  "ok": true,
+  "query": "8201467015",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8201467015",
+      "displayBoxCode": "8201467-015",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "coinName": "2020年15克熊猫金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/598245.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8201467-015/69/",
+      "price": 13435,
+      "priceWithFee": null,
+      "transactedAt": "2026-07-18 20:53:31",
+      "productCode": "KH142250",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260718/large_sell_yssorupkiwqilcnk.jpg",
+      "ocrConfidence": 45,
+      "verificationStatus": "official_pending"
+    }
+  ]
+}

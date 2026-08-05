@@ -1,0 +1,24 @@
+{
+  "ok": true,
+  "query": "5806454001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "5806454001",
+      "displayBoxCode": "5806454-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1990年龙凤1克精制金币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10441936.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/5806454-001/69/",
+      "price": 1780,
+      "priceWithFee": 1842.3,
+      "transactedAt": "2026-08-03 22:22:15",
+      "productCode": "880177005",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/31/880177005A.jpg",
+      "ocrConfidence": 31,
+      "verificationStatus": "official_pending"
+    }
+  ]
+}

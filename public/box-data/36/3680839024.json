@@ -1,0 +1,24 @@
+{
+  "ok": true,
+  "query": "3680839024",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "3680839024",
+      "displayBoxCode": "3680839-024",
+      "gradingCompany": "NGC",
+      "grade": "MS 70",
+      "coinName": "2012年澳大利亚1盎司生肖龙彩银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/563456.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3680839-024/70/",
+      "price": 800,
+      "priceWithFee": null,
+      "transactedAt": "2026-03-17 11:34:07",
+      "productCode": "KH125263",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260317/large_sell_z50h4c7uyvfvzopd.jpg",
+      "ocrConfidence": 42,
+      "verificationStatus": "official_pending"
+    }
+  ]
+}

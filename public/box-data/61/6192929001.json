@@ -1,0 +1,24 @@
+{
+  "ok": true,
+  "query": "6192929001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6192929001",
+      "displayBoxCode": "6192929-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2020年纽埃3盎司黄金眼泪彩银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/553096.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6192929-001/69/",
+      "price": 3000,
+      "priceWithFee": null,
+      "transactedAt": "2026-03-08 22:07:35",
+      "productCode": "KH123405",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260207/large_sell_gvnc5ir45ka0ekgk.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "ok": true,
+  "query": "6409444010",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6409444010",
+      "displayBoxCode": "6409444-010",
+      "gradingCompany": "NGC",
+      "grade": "MS 70",
+      "coinName": "2020年斐济1盎司敦煌藏经洞银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/573187.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6409444-010/70/",
+      "price": 790,
+      "priceWithFee": null,
+      "transactedAt": "2026-05-03 11:36:54",
+      "productCode": "KH130324",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260416/large_sell_v8klybxvf6jayfzq.jpg",
+      "ocrConfidence": 30,
+      "verificationStatus": "official_pending"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "ok": true,
+  "query": "6715020003",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6715020003",
+      "displayBoxCode": "6715020-003",
+      "gradingCompany": "NGC",
+      "grade": "MS 68",
+      "coinName": "2022年加拿大1/10盎司枫叶金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/587042.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6715020-003/68/",
+      "price": 2950,
+      "priceWithFee": null,
+      "transactedAt": "2026-06-21 20:15:12",
+      "productCode": "AA654510",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260605/large_sell_fpvl8hfqnxsob7bk.jpg",
+      "ocrConfidence": 38,
+      "verificationStatus": "official_pending"
+    }
+  ]
+}

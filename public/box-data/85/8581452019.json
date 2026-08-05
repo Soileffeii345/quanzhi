@@ -1,0 +1,24 @@
+{
+  "ok": true,
+  "query": "8581452019",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8581452019",
+      "displayBoxCode": "8581452-019",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2013澳大利亚AFL1盎司银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/557959.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8581452-019/69/",
+      "price": 940,
+      "priceWithFee": null,
+      "transactedAt": "2026-03-07 12:10:14",
+      "productCode": "KH122089",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260303/large_sell_ijjum5ql64gyzqxo.jpg",
+      "ocrConfidence": 50,
+      "verificationStatus": "official_pending"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "ok": true,
+  "query": "8189657002",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8189657002",
+      "displayBoxCode": "8189657-002",
+      "gradingCompany": "NGC",
+      "grade": "MS 70",
+      "coinName": "2025年30克熊猫金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/597935.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8189657-002/70/",
+      "price": 27040,
+      "priceWithFee": null,
+      "transactedAt": "2026-07-17 06:40:12",
+      "productCode": "KH142105",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260717/large_sell_aovqosaboqrus8sg.jpg",
+      "ocrConfidence": 47,
+      "verificationStatus": "official_pending"
+    }
+  ]
+}
