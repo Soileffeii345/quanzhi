@@ -83,6 +83,11 @@ database.exec(`
   );
 `);
 
+const boxSaleColumns = new Set(database.prepare("PRAGMA table_info(box_sales)").all().map((column) => column.name));
+if (!boxSaleColumns.has("evidence_note")) {
+  database.exec("ALTER TABLE box_sales ADD COLUMN evidence_note TEXT NOT NULL DEFAULT ''");
+}
+
 const upsertProduct = database.prepare(`
   INSERT INTO platform_products (
     platform, platform_product_id, title, detail_url, price, price_with_fee,
