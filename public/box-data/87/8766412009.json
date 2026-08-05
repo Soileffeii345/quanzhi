@@ -1,0 +1,24 @@
+{
+  "ok": true,
+  "query": "8766412009",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8766412009",
+      "displayBoxCode": "8766412-009",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "coinName": "1992年熊猫1/10盎司普制金币（小字版）",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-jiujin/10435480.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8766412-009/69/",
+      "price": 3200,
+      "priceWithFee": 3312,
+      "transactedAt": "2026-08-03 22:18:55",
+      "productCode": "879095002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/31/879095002A.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending"
+    }
+  ]
+}

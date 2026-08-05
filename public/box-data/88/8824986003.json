@@ -1,0 +1,24 @@
+{
+  "ok": true,
+  "query": "8824986003",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8824986003",
+      "displayBoxCode": "8824986-003",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "coinName": "2010年澳大利亚虎年生肖10盎司银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/wgjsbizhang/10432289.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8824986-003/69/",
+      "price": 4750,
+      "priceWithFee": 5035,
+      "transactedAt": "2026-07-31 20:00:55",
+      "productCode": "878625005",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/31/878625005A.jpg",
+      "ocrConfidence": 53,
+      "verificationStatus": "official_pending"
+    }
+  ]
+}

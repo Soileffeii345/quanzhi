@@ -1,0 +1,24 @@
+{
+  "ok": true,
+  "query": "8610578006",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8610578006",
+      "displayBoxCode": "8610578-006",
+      "gradingCompany": "NGC",
+      "grade": "MS 68",
+      "coinName": "1998年熊猫1盎司普制银币（小字版）",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-jiuyin/10433616.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8610578-006/68/",
+      "price": 1000,
+      "priceWithFee": 1035,
+      "transactedAt": "2026-08-03 22:03:05",
+      "productCode": "878668006",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/31/878668006A.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending"
+    }
+  ]
+}

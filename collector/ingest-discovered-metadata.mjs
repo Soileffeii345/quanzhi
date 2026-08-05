@@ -54,6 +54,9 @@ async function parseZhao(url) {
   const json = html.match(/var\s+auction\s*=\s*(\{.+?\});\s*$/m)?.[1];
   if (!json) throw new Error("页面缺少公开商品数据");
   const auction = JSON.parse(json);
+  if (platform === "zhao-sales" && String(auction.status) !== "3") {
+    throw new Error(`not a completed public sale (status ${auction.status})`);
+  }
   const sourceImageUrls = Array.from(new Set((auction.pictures ?? []).map((picture) => picture.src).filter((image) => /^https:\/\/img3\.zhaoonline\.com\//.test(image))));
   if (!auction.id || !auction.auctionName || sourceImageUrls.length === 0) throw new Error("页面没有商品标题或原图");
   return {
