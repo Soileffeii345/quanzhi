@@ -401,8 +401,8 @@ export default function Home() {
       const databaseBoxRecords = databaseData.records ?? [];
       setBoxDatabaseRecords(databaseBoxRecords);
       const databasePlatformRecords: PlatformRecord[] = databaseBoxRecords
-        .filter((record): record is BoxDatabaseRecord & { price: number; priceWithFee: number } => record.price !== null && record.priceWithFee !== null)
-        .map((record) => ({ id: `database-${record.platform}-${record.productCode}`, source: record.platform, title: `${record.coinName} · ${record.gradingCompany} ${record.grade} · 产品编号 ${record.productCode}`, price: record.price, priceLabel: `成交价（含佣¥${record.priceWithFee.toLocaleString()}）`, time: record.transactedAt, timeLabel: "成交时间", status: record.verificationStatus === "user_screenshot" ? "截图证据·原链接待复核" : "已核验", url: record.detailUrl, match: databaseData.match === "exact" ? "exact-box" : "keyword" }));
+        .filter((record): record is BoxDatabaseRecord & { price: number } => record.price !== null)
+        .map((record) => ({ id: `database-${record.platform}-${record.productCode}`, source: record.platform, title: `${record.coinName} · ${record.gradingCompany} ${record.grade} · 产品编号 ${record.productCode}`, price: record.price, priceLabel: record.priceWithFee === null ? "成交价" : `成交价（含佣¥${record.priceWithFee.toLocaleString()}）`, time: record.transactedAt, timeLabel: "成交时间", status: record.verificationStatus === "user_screenshot" ? "截图证据·原链接待复核" : record.verificationStatus === "official_pending" ? "平台详情已核验" : "已核验", url: record.detailUrl, match: databaseData.match === "exact" ? "exact-box" : "keyword" }));
       setPlatformRecords(databasePlatformRecords);
       if (databaseBoxRecords.length > 0) setPlatformImageStatus("泉知数据库已命中，其他平台正在后台补充");
 
