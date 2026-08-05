@@ -1,6 +1,6 @@
 "use client";
 
-import { ChangeEvent, FormEvent, useMemo, useState } from "react";
+import { ChangeEvent, FormEvent, useEffect, useMemo, useState } from "react";
 
 type Coin = {
   id: string;
@@ -259,8 +259,13 @@ export default function Home() {
   const [platformRecords, setPlatformRecords] = useState<PlatformRecord[]>([]);
   const [platformRecordsLoading, setPlatformRecordsLoading] = useState(false);
   const [platformImageStatus, setPlatformImageStatus] = useState("");
-  const [searchHistory, setSearchHistory] = useState<string[]>(() => readStoredList("quanzhi-search-history"));
-  const [savedBoxes, setSavedBoxes] = useState<string[]>(() => readStoredList("quanzhi-saved-boxes"));
+  const [searchHistory, setSearchHistory] = useState<string[]>([]);
+  const [savedBoxes, setSavedBoxes] = useState<string[]>([]);
+
+  useEffect(() => {
+    setSearchHistory(readStoredList("quanzhi-search-history"));
+    setSavedBoxes(readStoredList("quanzhi-saved-boxes"));
+  }, []);
 
   const normalizedBoxQuery = normalizeBoxCode(submitted);
   const isBoxQuery = /^(NGC|PCGS)?\d{7,12}$/.test(normalizedBoxQuery);
@@ -607,7 +612,7 @@ export default function Home() {
               <div className="box-trace-head"><div><span className="kicker">历史成交</span><h3>这枚评级币的成交记录</h3></div><span>{boxDatabaseRecords.some((record) => record.price !== null) ? `${boxDatabaseRecords.filter((record) => record.price !== null).length + realRecords.length} 条` : realLoading ? "查询中" : `${realRecords.length} 条`}</span></div>
               {boxDatabaseRecords.some((record) => record.price !== null) ? <>
                 <div className="real-source-bar"><span><i /> 泉知数据库已命中完整盒号</span><span>其他平台在后台补充，不影响本条展示</span></div>
-                <div className="table-wrap real-table"><table><thead><tr><th>平台与商品</th><th>评级</th><th>成交时间</th><th>成交价</th><th>核验</th></tr></thead><tbody>{boxDatabaseRecords.filter((record) => record.price !== null && record.priceWithFee !== null).map((record) => <tr key={`${record.platform}-${record.productCode}`}><td><span className="platform">易</span><div><b>{record.coinName}</b><small>{record.platform} · 产品编号 {record.productCode}</small></div></td><td><span className="grade">{record.gradingCompany} {record.grade}</span></td><td>{record.transactedAt}</td><td className="price-cell"><b>¥{record.price!.toLocaleString()}</b><small>含佣价 ¥{record.priceWithFee!.toLocaleString()}</small></td><td>{record.detailUrl ? <a href={record.detailUrl} target="_blank" rel="noreferrer">原始交易 ↗</a> : <span className="record-pending">截图证据 · 原链接待复核</span>}</td></tr>)}</tbody></table></div>
+                <div className="table-wrap real-table"><table><thead><tr><th>平台与商品</th><th>评级</th><th>成交时间</th><th>成交价</th><th>核验</th></tr></thead><tbody>{boxDatabaseRecords.filter((record) => record.price !== null).map((record) => <tr key={`${record.platform}-${record.productCode}`}><td><span className="platform">易</span><div><b>{record.coinName}</b><small>{record.platform} · 产品编号 {record.productCode}</small></div></td><td><span className="grade">{record.gradingCompany} {record.grade}</span></td><td>{record.transactedAt}</td><td className="price-cell"><b>¥{record.price!.toLocaleString()}</b>{record.priceWithFee !== null && <small>含佣价 ¥{record.priceWithFee.toLocaleString()}</small>}</td><td>{record.detailUrl ? <a href={record.detailUrl} target="_blank" rel="noreferrer">原始交易 ↗</a> : <span className="record-pending">截图证据 · 原链接待复核</span>}</td></tr>)}</tbody></table></div>
                 {realLoading && <div className="background-search-note">其他公开平台仍在后台查询，你可以先查看上面的已收录成交。</div>}
                 {realRecords.length > 0 && <div className="table-wrap real-table secondary-records"><table><thead><tr><th>补充平台记录</th><th>品相</th><th>成交时间</th><th>成交价</th><th>核验</th></tr></thead><tbody>{realRecords.map((record) => <tr key={record.id}><td><span className="platform">邮</span><div><b>{record.title}</b><small>邮宝 · 完整盒号匹配</small></div></td><td>{record.condition}</td><td>{record.completedAt}</td><td className="price-cell"><b>¥{record.price.toLocaleString()}/{record.unit}</b></td><td><a href={record.url} target="_blank" rel="noreferrer">原始交易 ↗</a></td></tr>)}</tbody></table></div>}
               </> : realLoading ? <div className="real-loading"><span /><b>正在查询这枚币的成交记录</b><p>请稍候。</p></div> : realError ? <div className="real-empty"><b>暂时无法完成查询</b><p>{realError}</p><button type="button" onClick={() => void loadRealData(submitted)}>重新查询</button></div> : realRecords.length > 0 ? <>
