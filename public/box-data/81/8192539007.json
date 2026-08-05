@@ -1,0 +1,24 @@
+{
+  "ok": true,
+  "query": "8192539007",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8192539007",
+      "displayBoxCode": "8192539-007",
+      "gradingCompany": "NGC",
+      "grade": "ms70",
+      "coinName": "2024年30克熊猫金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/597923.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8192539-007/70/",
+      "price": 26885,
+      "priceWithFee": null,
+      "transactedAt": "2026-07-16 21:18:58",
+      "productCode": "KH142088",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260716/large_sell_zb69hi2jprgsajdx.jpg",
+      "ocrConfidence": 42,
+      "verificationStatus": "official_pending"
+    }
+  ]
+}

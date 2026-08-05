@@ -1,0 +1,24 @@
+{
+  "ok": true,
+  "query": "8604696010",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8604696010",
+      "displayBoxCode": "8604696-010",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2009年法国1/4盎司古斯塔夫埃菲尔金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/510185.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8604696-010/69/",
+      "price": 10000,
+      "priceWithFee": null,
+      "transactedAt": "2026-03-17 13:22:47",
+      "productCode": "KH125271",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251103/large_sell_jqet3autf4nz9rcp.jpg",
+      "ocrConfidence": 59,
+      "verificationStatus": "official_pending"
+    }
+  ]
+}

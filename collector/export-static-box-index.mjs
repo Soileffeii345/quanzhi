@@ -12,7 +12,7 @@ const rows = database.prepare(`
          transacted_at, product_code, evidence_image_url, ocr_text,
          ocr_confidence, verification_status
   FROM box_sales
-  WHERE verification_status IN ('verified', 'image_exact')
+  WHERE verification_status IN ('verified', 'image_exact', 'official_pending')
   ORDER BY normalized_box_code, transacted_at DESC
 `).all();
 

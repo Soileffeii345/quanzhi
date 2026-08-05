@@ -189,7 +189,7 @@ type BoxDatabaseRecord = {
   priceWithFee: number | null;
   transactedAt: string;
   productCode: string;
-  verificationStatus: "user_screenshot" | "page_text_exact" | "image_exact";
+  verificationStatus: "user_screenshot" | "page_text_exact" | "image_exact" | "verified" | "official_pending";
   evidenceNote: string;
 };
 
@@ -272,8 +272,8 @@ export default function Home() {
     ? `https://cn.pcgs.com/cert/${boxCode.replace(/\D/g, "")}`
     : boxAgency === "NGC"
       ? databaseNumericGrade
-        ? `https://www.ngccoin.com/certlookup/${boxCode}/${databaseNumericGrade}/`
-        : "https://www.ngccoin.com/certlookup/"
+        ? `https://www.ngccoin.cn/certlookup/${boxCode}/${databaseNumericGrade}/`
+        : "https://www.ngccoin.cn/certlookup/"
       : "";
   const results = useMemo(() => {
     if (!submitted || isBoxQuery) return coins;
