@@ -19,7 +19,7 @@ import { execSync } from "node:child_process";
 import { resolve, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
 import { writeFile } from "node:fs/promises";
-import { existsSync, unlinkSync } from "node:fs";
+import { existsSync } from "node:fs";
 import { database } from "./database.mjs";
 
 const collectorDir = dirname(fileURLToPath(import.meta.url));
@@ -96,34 +96,6 @@ async function buildAndDeploy() {
     const elapsed = ((Date.now() - t0) / 1000).toFixed(1);
     log(`  ✓ 构建完成 (${elapsed}s)`);
 
-    // Clean up: remove index.html so Cloudflare Worker SSR handles /
-    try {
-      const indexPath = resolve(rootDir, "dist", "client", "index.html");
-      if (existsSync(indexPath)) {
-        unlinkSync(indexPath);
-        log("  ✓ 已移除 index.html (由 Worker SSR 接管)");
-      }
-    } catch {
-      // ignore
-    }
-
-    // Fix wrangler.json (vinext generates legacy fields that fail deploy)
-    try {
-      const wranglerCfg = JSON.stringify({
-        name: "quanzhi",
-        main: "index.js",
-        compatibility_date: "2026-05-15",
-        compatibility_flags: ["nodejs_compat"],
-        no_bundle: true,
-        assets: { directory: "../client", binding: "ASSETS" },
-        observability: { enabled: true },
-        rules: [{ type: "ESModule", globs: ["**/*.js", "**/*.mjs"] }],
-      });
-      await writeFile(resolve(rootDir, "dist", "server", "wrangler.json"), wranglerCfg);
-      log("  ✓ 已更新 wrangler.json");
-    } catch (e) {
-      log(`  ⚠ wrangler.json 更新失败: ${e.message}`);
-    }
   } catch (error) {
     const stderr = error.stderr?.toString().slice(-300) || error.message;
     log(`  ✗ 构建失败: ${stderr.replace(/\n/g, " ")}`);
@@ -134,7 +106,7 @@ async function buildAndDeploy() {
   log("▶ 部署到 Cloudflare Workers");
   try {
     const t0 = Date.now();
-    execSync("npx wrangler deploy", {
+    execSync("npx wrangler deploy --config wrangler.jsonc", {
       cwd: resolve(rootDir, "dist", "server"),
       stdio: "pipe",
       timeout: 300_000,
@@ -211,7 +183,7 @@ async function main() {
     results.push({ step: "HTML导出", ok: false });
   }
 
-  // Phase 6: 构建 + Vercel 部署
+  // Phase 6: 构建 + Cloudflare Workers 部署
   log("\n── Phase 6: 发布 ──");
   const deployed = auditOk ? await buildAndDeploy() : false;
   results.push({ step: "构建部署", ok: deployed });

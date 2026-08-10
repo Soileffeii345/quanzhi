@@ -31,6 +31,35 @@ type CoinData = {
   }>;
 };
 
+type CoinCandidate = {
+  coinName: string;
+  slug: string;
+  saleCount: number;
+  latestPrice?: number | null;
+  score: number;
+};
+
+function coinTags(name: string): string[] {
+  const tags: string[] = [];
+  const year = name.match(/(?:19|20)\d{2}年?/);
+  const weight = name.match(/\d+(?:\.\d+)?(?:克|公斤|盎司)/);
+  if (year) tags.push(year[0].replace(/年?$/, "年"));
+  if (name.includes("金币") || name.includes("金质")) tags.push("金");
+  else if (name.includes("银币") || name.includes("银质")) tags.push("银");
+  if (weight) tags.push(weight[0]);
+  if (name.includes("精制")) tags.push("精制");
+  else if (name.includes("普制")) tags.push("普制");
+  return [...new Set(tags)];
+}
+
+function tagValue(name: string, kind: "year" | "material" | "weight" | "finish"): string {
+  const tags = coinTags(name);
+  if (kind === "year") return tags.find((tag) => /^\d{4}年$/.test(tag)) ?? "";
+  if (kind === "material") return tags.find((tag) => tag === "金" || tag === "银") ?? "其他";
+  if (kind === "weight") return tags.find((tag) => /(?:克|公斤|盎司)$/.test(tag)) ?? "其他";
+  return tags.find((tag) => tag === "普制" || tag === "精制") ?? "其他";
+}
+
 function coinSlug(name: string): string {
   let hash = 5381;
   for (let i = 0; i < name.length; i++)
@@ -52,7 +81,16 @@ export default function CoinPage({ searchParams }: { searchParams?: { name?: str
   const [data, setData] = useState<CoinData | null>(null);
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState("");
+  const [candidates, setCandidates] = useState<CoinCandidate[]>([]);
   const [gradeFilter, setGradeFilter] = useState("全部");
+  const [minPrice, setMinPrice] = useState("");
+  const [maxPrice, setMaxPrice] = useState("");
+  const [yearFilter, setYearFilter] = useState("全部");
+  const [materialFilter, setMaterialFilter] = useState("全部");
+  const [weightFilter, setWeightFilter] = useState("全部");
+  const [finishFilter, setFinishFilter] = useState("全部");
+  const [candidateSort, setCandidateSort] = useState("relevance");
+  const [recordSort, setRecordSort] = useState("latest");
 
   const initialName = urlName;
   const didFetch = useRef(false);
@@ -60,18 +98,39 @@ export default function CoinPage({ searchParams }: { searchParams?: { name?: str
   const fetchCoin = useCallback(async function fetchCoin(coinName: string) {
     setLoading(true);
     setError("");
+    setCandidates([]);
+    setData(null);
     try {
       const indexResponse = await fetch("/coin-data/index.json", { signal: AbortSignal.timeout(5000) });
       const index = indexResponse.ok
-        ? await indexResponse.json() as { coins?: Array<{ coinName: string; slug: string; saleCount: number; keywords?: string }> }
+        ? await indexResponse.json() as { coins?: Array<{ coinName: string; slug: string; saleCount: number; latestPrice?: number | null; keywords?: string }> }
         : { coins: [] };
-      const bestMatch = (index.coins ?? [])
+      const matches = (index.coins ?? [])
         .map((coin) => ({ ...coin, score: scoreCoinSearch(coinName, coin) }))
         .filter((coin) => coin.score > 0)
-        .sort((a, b) => b.score - a.score || b.saleCount - a.saleCount)[0];
+        .sort((a, b) => b.score - a.score || b.saleCount - a.saleCount);
+      const normalizedQuery = coinName.trim().toLowerCase().replace(/\s+/g, "");
+      const exactMatch = matches.find(
+        (coin) => coin.coinName.trim().toLowerCase().replace(/\s+/g, "") === normalizedQuery
+      );
+      const bestMatch = exactMatch ?? matches[0];
       if (!bestMatch) {
         setData(null);
         setError("暂未找到相关币种，请尝试更短的名称、年份或系列名");
+        return;
+      }
+
+      // A series keyword such as “熊猫” can match many years and specifications.
+      // Do not silently turn it into whichever individual coin happens to rank first.
+      if (!exactMatch && matches.length > 1) {
+        setCandidates(matches.slice(0, 24));
+        setYearFilter("全部");
+        setMaterialFilter("全部");
+        setWeightFilter("全部");
+        setFinishFilter("全部");
+        setCandidateSort("relevance");
+        setName(coinName);
+        window.history.replaceState(null, "", `?name=${encodeURIComponent(coinName)}`);
         return;
       }
       const slug = bestMatch.slug || coinSlug(bestMatch.coinName);
@@ -130,6 +189,89 @@ export default function CoinPage({ searchParams }: { searchParams?: { name?: str
   const filteredRecords = gradeFilter === "全部"
     ? (data?.records ?? [])
     : (data?.records ?? []).filter((r) => r.grade === gradeFilter);
+  const parsedMinPrice = minPrice === "" ? null : Number(minPrice);
+  const parsedMaxPrice = maxPrice === "" ? null : Number(maxPrice);
+  const invalidPriceRange = parsedMinPrice !== null && parsedMaxPrice !== null && parsedMinPrice > parsedMaxPrice;
+  const inPriceRange = (price: number | null | undefined) => {
+    if (parsedMinPrice === null && parsedMaxPrice === null) return true;
+    if (price === null || price === undefined) return false;
+    if (parsedMinPrice !== null && price < parsedMinPrice) return false;
+    if (parsedMaxPrice !== null && price > parsedMaxPrice) return false;
+    return true;
+  };
+  const filterOptions = (kind: "year" | "material" | "weight" | "finish") =>
+    [...new Set(candidates.map((coin) => tagValue(coin.coinName, kind)).filter(Boolean))].sort((a, b) =>
+      kind === "year" ? b.localeCompare(a, "zh-CN", { numeric: true }) : a.localeCompare(b, "zh-CN", { numeric: true })
+    );
+  const candidatePriceValues = candidates.map((coin) => coin.latestPrice).filter((price): price is number => typeof price === "number");
+  const totalCandidateSales = candidates.reduce((sum, coin) => sum + coin.saleCount, 0);
+  const candidateYears = filterOptions("year").filter((item) => item !== "其他");
+  const visibleCandidates = candidates
+    .filter((coin) => !invalidPriceRange && inPriceRange(coin.latestPrice))
+    .filter((coin) => yearFilter === "全部" || tagValue(coin.coinName, "year") === yearFilter)
+    .filter((coin) => materialFilter === "全部" || tagValue(coin.coinName, "material") === materialFilter)
+    .filter((coin) => weightFilter === "全部" || tagValue(coin.coinName, "weight") === weightFilter)
+    .filter((coin) => finishFilter === "全部" || tagValue(coin.coinName, "finish") === finishFilter)
+    .sort((a, b) => {
+      if (candidateSort === "price-asc") return (a.latestPrice ?? Infinity) - (b.latestPrice ?? Infinity);
+      if (candidateSort === "price-desc") return (b.latestPrice ?? -1) - (a.latestPrice ?? -1);
+      if (candidateSort === "sales") return b.saleCount - a.saleCount;
+      if (candidateSort === "year") return tagValue(b.coinName, "year").localeCompare(tagValue(a.coinName, "year"), "zh-CN", { numeric: true });
+      return b.score - a.score || b.saleCount - a.saleCount;
+    });
+  const visibleRecords = filteredRecords
+    .filter((record) => !invalidPriceRange && inPriceRange(record.price))
+    .sort((a, b) => {
+      if (recordSort === "price-asc") return (a.price ?? Infinity) - (b.price ?? Infinity);
+      if (recordSort === "price-desc") return (b.price ?? -1) - (a.price ?? -1);
+      return (b.transactedAt || "").localeCompare(a.transactedAt || "");
+    });
+
+  const priceFilter = (
+    <div style={{ display: "flex", alignItems: "center", gap: 7, flexWrap: "wrap" }}>
+      <span style={{ fontSize: 12, fontWeight: 600, color: "#667085" }}>价格区间</span>
+      <input
+        type="number"
+        min="0"
+        inputMode="numeric"
+        value={minPrice}
+        onChange={(event) => setMinPrice(event.target.value)}
+        placeholder="最低价"
+        aria-label="最低价格"
+        style={{ width: 92, padding: "6px 9px", border: "1px solid #d0d5dd", borderRadius: 7, fontSize: 12 }}
+      />
+      <span style={{ color: "#98a2b3" }}>—</span>
+      <input
+        type="number"
+        min="0"
+        inputMode="numeric"
+        value={maxPrice}
+        onChange={(event) => setMaxPrice(event.target.value)}
+        placeholder="最高价"
+        aria-label="最高价格"
+        style={{ width: 92, padding: "6px 9px", border: "1px solid #d0d5dd", borderRadius: 7, fontSize: 12 }}
+      />
+      {(minPrice || maxPrice) && (
+        <button
+          type="button"
+          onClick={() => { setMinPrice(""); setMaxPrice(""); }}
+          style={{ padding: "6px 10px", border: 0, background: "transparent", color: "#155eef", cursor: "pointer", fontSize: 12 }}
+        >
+          清除
+        </button>
+      )}
+      {invalidPriceRange && <span style={{ color: "#dc2626", fontSize: 12 }}>最低价不能高于最高价</span>}
+    </div>
+  );
+
+  const selectStyle: React.CSSProperties = {
+    padding: "7px 28px 7px 10px",
+    border: "1px solid #d0d5dd",
+    borderRadius: 8,
+    background: "#fff",
+    color: "#344054",
+    fontSize: 12,
+  };
 
   return (
     <main>
@@ -201,6 +343,97 @@ export default function CoinPage({ searchParams }: { searchParams?: { name?: str
           }}>
             {error}
           </div>
+        )}
+
+        {!loading && candidates.length > 0 && (
+          <section style={{ marginBottom: 28 }}>
+            <div style={{ marginBottom: 14 }}>
+              <h1 style={{ margin: "0 0 6px", fontSize: 24, color: "#101828" }}>
+                “{name}”有多个相关币种
+              </h1>
+              <p style={{ margin: 0, color: "#667085", fontSize: 14 }}>
+                请选择年份和规格后查看行情，系统不会再自动跳到某一个年份。
+              </p>
+            </div>
+            <div style={{ display: "grid", gridTemplateColumns: "repeat(auto-fit, minmax(150px, 1fr))", gap: 10, marginBottom: 16 }}>
+              {[
+                ["相关币种", `${candidates.length} 种`],
+                ["年份覆盖", candidateYears.length > 1 ? `${candidateYears.at(-1)}—${candidateYears[0]}` : candidateYears[0] ?? "待识别"],
+                ["最新成交价范围", candidatePriceValues.length ? `¥${Math.min(...candidatePriceValues).toLocaleString()}—¥${Math.max(...candidatePriceValues).toLocaleString()}` : "暂无价格"],
+                ["成交样本", `${totalCandidateSales.toLocaleString()} 条`],
+              ].map(([label, value]) => (
+                <div key={label} style={{ padding: "12px 14px", background: "#f8faff", border: "1px solid #e4eaf5", borderRadius: 10 }}>
+                  <span style={{ display: "block", color: "#667085", fontSize: 11, marginBottom: 4 }}>{label}</span>
+                  <strong style={{ color: "#101828", fontSize: 14 }}>{value}</strong>
+                </div>
+              ))}
+            </div>
+            <div style={{ padding: 14, marginBottom: 14, background: "#f9fafb", border: "1px solid #e4e7ec", borderRadius: 12 }}>
+              <div style={{ display: "flex", gap: 8, flexWrap: "wrap", marginBottom: 10 }}>
+                <select aria-label="筛选年份" value={yearFilter} onChange={(event) => setYearFilter(event.target.value)} style={selectStyle}>
+                  <option value="全部">全部年份</option>
+                  {filterOptions("year").map((item) => <option key={item}>{item}</option>)}
+                </select>
+                <select aria-label="筛选材质" value={materialFilter} onChange={(event) => setMaterialFilter(event.target.value)} style={selectStyle}>
+                  <option value="全部">全部材质</option>
+                  {filterOptions("material").map((item) => <option key={item}>{item}</option>)}
+                </select>
+                <select aria-label="筛选重量" value={weightFilter} onChange={(event) => setWeightFilter(event.target.value)} style={selectStyle}>
+                  <option value="全部">全部重量</option>
+                  {filterOptions("weight").map((item) => <option key={item}>{item}</option>)}
+                </select>
+                <select aria-label="筛选工艺" value={finishFilter} onChange={(event) => setFinishFilter(event.target.value)} style={selectStyle}>
+                  <option value="全部">全部工艺</option>
+                  {filterOptions("finish").map((item) => <option key={item}>{item}</option>)}
+                </select>
+                <select aria-label="候选排序" value={candidateSort} onChange={(event) => setCandidateSort(event.target.value)} style={{ ...selectStyle, marginLeft: "auto" }}>
+                  <option value="relevance">相关度排序</option>
+                  <option value="year">年份从新到旧</option>
+                  <option value="sales">成交量最多</option>
+                  <option value="price-asc">价格从低到高</option>
+                  <option value="price-desc">价格从高到低</option>
+                </select>
+              </div>
+              {priceFilter}
+            </div>
+            <p style={{ margin: "0 0 10px", color: "#667085", fontSize: 12 }}>当前显示 {visibleCandidates.length} 个结果</p>
+            <div style={{ display: "grid", gridTemplateColumns: "repeat(auto-fit, minmax(260px, 1fr))", gap: 10 }}>
+              {visibleCandidates.map((coin) => (
+                <button
+                  key={coin.slug}
+                  type="button"
+                  onClick={() => void fetchCoin(coin.coinName)}
+                  style={{
+                    padding: "14px 16px",
+                    textAlign: "left",
+                    border: "1px solid #e4e7ec",
+                    borderRadius: 12,
+                    background: "#fff",
+                    color: "#101828",
+                    cursor: "pointer",
+                  }}
+                >
+                  <strong style={{ display: "block", marginBottom: 5, lineHeight: 1.45 }}>{coin.coinName}</strong>
+                  <span style={{ display: "flex", flexWrap: "wrap", gap: 5, marginBottom: 8 }}>
+                    {coinTags(coin.coinName).map((tag) => (
+                      <i key={tag} style={{ padding: "2px 7px", borderRadius: 999, background: "#eff4ff", color: "#175cd3", fontSize: 10, fontStyle: "normal", fontWeight: 600 }}>
+                        {tag}
+                      </i>
+                    ))}
+                  </span>
+                  <span style={{ color: "#667085", fontSize: 12 }}>
+                    {coin.latestPrice != null ? `最新成交 ¥${coin.latestPrice.toLocaleString()} · ` : ""}
+                    收录 {coin.saleCount} 条成交记录 →
+                  </span>
+                </button>
+              ))}
+            </div>
+            {visibleCandidates.length === 0 && (
+              <div style={{ padding: 28, textAlign: "center", color: "#667085", background: "#f9fafb", borderRadius: 12 }}>
+                该价格区间内暂无相关币种
+              </div>
+            )}
+          </section>
         )}
 
         {data && (
@@ -328,6 +561,22 @@ export default function CoinPage({ searchParams }: { searchParams?: { name?: str
                 ))}
               </div>
             )}
+            <div style={{ display: "flex", alignItems: "center", justifyContent: "space-between", gap: 10, flexWrap: "wrap", marginBottom: 16 }}>
+              {priceFilter}
+              <select aria-label="成交记录排序" value={recordSort} onChange={(event) => setRecordSort(event.target.value)} style={selectStyle}>
+                <option value="latest">最近成交优先</option>
+                <option value="price-asc">价格从低到高</option>
+                <option value="price-desc">价格从高到低</option>
+              </select>
+            </div>
+
+            <div style={{ display: "flex", gap: 8, flexWrap: "wrap", padding: "10px 13px", marginBottom: 12, borderRadius: 10, background: "#f8fafc", color: "#667085", fontSize: 11 }}>
+              <span>价格口径：成交价与含佣价分开展示</span>
+              <span>·</span>
+              <span>样本：{data.records.filter((record) => record.price !== null).length} 条有价成交</span>
+              <span>·</span>
+              <span>核验：可通过原始交易页复核</span>
+            </div>
 
             {/* Records table */}
             <div style={{
@@ -346,7 +595,7 @@ export default function CoinPage({ searchParams }: { searchParams?: { name?: str
                 justifyContent: "space-between",
                 alignItems: "center",
               }}>
-                <span>成交记录（{filteredRecords.length} 条）</span>
+                    <span>成交记录（{visibleRecords.length} 条）</span>
                 {gradeFilter !== "全部" && (
                   <span style={{ fontSize: 11, fontWeight: 400, color: "#155eef" }}>
                     已筛选：{gradeFilter}
@@ -370,7 +619,7 @@ export default function CoinPage({ searchParams }: { searchParams?: { name?: str
                     </tr>
                   </thead>
                   <tbody>
-                    {filteredRecords.map((r, i) => {
+                      {visibleRecords.map((r, i) => {
                       const platformCfg = PLATFORM_CONFIG[r.platform] ?? { color: "#6b7280", bg: "#f9fafb" };
                       return (
                         <tr
@@ -424,7 +673,16 @@ export default function CoinPage({ searchParams }: { searchParams?: { name?: str
                             fontSize: 15,
                             fontFamily: "Georgia, serif",
                           }}>
-                            {r.price !== null ? `¥${r.price.toLocaleString()}` : (
+                            {r.price !== null ? (
+                              <span>
+                                <span style={{ display: "block" }}>¥{r.price.toLocaleString()}</span>
+                                {r.priceWithFee !== null && r.priceWithFee !== r.price && (
+                                  <small style={{ display: "block", marginTop: 2, color: "#667085", fontFamily: "inherit", fontSize: 10, fontWeight: 400 }}>
+                                    含佣 ¥{r.priceWithFee.toLocaleString()}
+                                  </small>
+                                )}
+                              </span>
+                            ) : (
                               <span style={{ color: "#059669", fontSize: 12, fontWeight: 600 }}>在售</span>
                             )}
                           </td>
@@ -449,6 +707,9 @@ export default function CoinPage({ searchParams }: { searchParams?: { name?: str
                             ) : (
                               <span style={{ color: "#c0c7d0", fontSize: 12 }}>—</span>
                             )}
+                            <span style={{ display: "block", marginTop: 5, color: r.verificationStatus === "official_pending" ? "#b54708" : "#027a48", fontSize: 9, whiteSpace: "nowrap" }}>
+                              {r.verificationStatus === "official_pending" ? "交易页已核验 · 官方待确认" : "交易记录已核验"}
+                            </span>
                           </td>
                         </tr>
                       );
@@ -456,9 +717,9 @@ export default function CoinPage({ searchParams }: { searchParams?: { name?: str
                   </tbody>
                 </table>
               </div>
-              {filteredRecords.length === 0 && (
-                <div style={{ textAlign: "center", padding: 36, color: "#98a2b3", fontSize: 13 }}>
-                  该评级暂无记录
+                {visibleRecords.length === 0 && (
+                  <div style={{ textAlign: "center", padding: 36, color: "#98a2b3", fontSize: 13 }}>
+                    当前评级或价格区间内暂无记录
                 </div>
               )}
             </div>
