@@ -19,6 +19,8 @@
     "data:export": "node collector/audit-data.mjs && node collector/export-static-box-index.mjs && node collector/export-database-html.mjs",
     "data:update": "node collector/daily-lightweight.mjs",
     "data:status": "node collector/check-progress.mjs",
+    "db:backup": "node scripts/database-backup.mjs pack",
+    "db:restore": "node scripts/database-backup.mjs unpack",
     "db:generate": "drizzle-kit generate"
   },
   "dependencies": {

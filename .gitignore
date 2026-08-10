@@ -44,5 +44,6 @@ next-env.d.ts
 /collector/output/
 /collector/data/
 /collector/public/
+/collector/data/quanzhi.sqlite.gz
 /.tmp/
 /eng.traineddata

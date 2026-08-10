@@ -1,0 +1,84 @@
+name: Daily verified-data update
+
+on:
+  schedule:
+    # Beijing time 08:00
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-verified-data-update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    env:
+      GH_TOKEN: ${{ github.token }}
+      VERCEL_ORG_ID: ${{ secrets.VERCEL_ORG_ID }}
+      VERCEL_PROJECT_ID: ${{ secrets.VERCEL_PROJECT_ID }}
+      VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: npm
+
+      - run: npm ci
+
+      - name: Download private database backup
+        run: gh release download database-backup --pattern quanzhi.sqlite.gz --dir collector/data --clobber
+
+      - name: Restore and validate SQLite
+        run: |
+          npm run db:restore
+          npm run data:audit
+
+      - name: Collect, verify, and export new data
+        run: npm run data:update -- --no-deploy
+
+      - name: Block publication when evidence checks fail
+        run: |
+          npm run data:audit
+          npm run data:audit:links
+          npm test
+
+      - name: Refresh private database backup
+        run: |
+          npm run db:backup
+          gh release upload database-backup collector/data/quanzhi.sqlite.gz --clobber
+
+      - name: Commit verified public data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add public
+          if git diff --cached --quiet; then
+            echo "No verified public-data changes"
+          else
+            git commit -m "data: publish verified daily update"
+            git push origin HEAD:main
+          fi
+
+      - name: Validate Vercel credentials
+        shell: bash
+        run: |
+          test -n "$VERCEL_ORG_ID"
+          test -n "$VERCEL_PROJECT_ID"
+          test -n "$VERCEL_TOKEN"
+
+      - name: Deploy verified version to Vercel
+        run: |
+          npm install --global vercel@58.9.0
+          vercel pull --yes --environment=production --token="$VERCEL_TOKEN"
+          vercel build --prod --token="$VERCEL_TOKEN"
+          vercel deploy --prebuilt --prod --token="$VERCEL_TOKEN"

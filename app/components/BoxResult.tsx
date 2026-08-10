@@ -182,7 +182,7 @@ export default function BoxResult({
         <div className="real-loading">
           <span />
           <b>正在查询这枚币的成交记录与同款行情</b>
-          <p>请稍候，正在搜索多平台数据…</p>
+          <p>请稍候，正在查询当前可用的数据来源…</p>
         </div>
       )}
 

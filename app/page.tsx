@@ -686,7 +686,7 @@ export default function Home() {
             <button className="home-feature-card" type="button" onClick={() => { document.getElementById("search")?.querySelector("input")?.focus(); }}>
               <div className="hf-icon hf-icon-search" />
               <h3>盒号追踪</h3>
-              <p>输 NGC/PCGS 盒号，查全平台交易历史</p>
+              <p>输 NGC/PCGS 盒号，查当前已收录的交易历史</p>
             </button>
             <button className="home-feature-card" type="button" onClick={() => { document.querySelector<HTMLDetailsElement>(".image-search")?.setAttribute("open", ""); document.querySelector<HTMLElement>(".image-search")?.scrollIntoView({ behavior: "smooth", block: "center" }); }}>
               <div className="hf-icon hf-icon-ocr" />

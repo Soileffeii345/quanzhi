@@ -254,7 +254,7 @@ export default function Hero({
       </details>
 
       <div className="data-note">
-        <span>✓</span> 可验证成交记录 · 跨平台聚合 · 持续更新
+        <span>✓</span> 可验证成交记录 · 多来源汇总 · 持续更新
       </div>
     </section>
   );

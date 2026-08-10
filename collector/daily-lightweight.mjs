@@ -140,7 +140,10 @@ async function main() {
 
   const before = {
     products: database.prepare("SELECT COUNT(*) c FROM platform_products").get().c,
-    sales: database.prepare("SELECT COUNT(*) c FROM box_sales").get().c,
+    sales: database.prepare(`
+      SELECT COUNT(*) c FROM box_sales
+      WHERE verification_status IN ('verified','image_exact','official_pending','youbao_trade')
+    `).get().c,
     pending: database.prepare("SELECT COUNT(*) c FROM product_images WHERE ocr_text IS NULL").get().c,
     unverified: database.prepare("SELECT COUNT(*) c FROM box_sales WHERE verification_status IN ('ocr_pending_review','ocr_mismatch')").get().c,
   };
@@ -191,7 +194,10 @@ async function main() {
   // ── Summary ──
   const after = {
     products: database.prepare("SELECT COUNT(*) c FROM platform_products").get().c,
-    sales: database.prepare("SELECT COUNT(*) c FROM box_sales WHERE verification_status='ocr_double_match'").get().c,
+    sales: database.prepare(`
+      SELECT COUNT(*) c FROM box_sales
+      WHERE verification_status IN ('verified','image_exact','official_pending','youbao_trade')
+    `).get().c,
     pending: database.prepare("SELECT COUNT(*) c FROM product_images WHERE ocr_text IS NULL").get().c,
   };
 
