@@ -5,6 +5,7 @@ import Link from "next/link";
 import TopBar from "../components/TopBar";
 import PriceTrend from "../components/PriceTrend";
 import { scoreCoinSearch } from "../lib/search-ranking";
+import { platformSearchUrl } from "../lib/platform-urls";
 
 type CoinData = {
   coinName: string;
@@ -244,6 +245,11 @@ export default function CoinPage({ searchParams }: { searchParams?: { name?: str
       if (recordSort === "price-desc") return (b.price ?? -1) - (a.price ?? -1);
       return (b.transactedAt || "").localeCompare(a.transactedAt || "");
     });
+  const platformCoverage = ["赵涌在线", "易金在线", "邮宝"].map((platform) => ({
+    platform,
+    count: data?.records.filter((record) => record.platform === platform).length ?? 0,
+    url: data ? platformSearchUrl(platform, data.coinName) : "",
+  }));
 
   const priceFilter = (
     <div style={{ display: "flex", alignItems: "center", gap: 7, flexWrap: "wrap" }}>
@@ -599,6 +605,34 @@ export default function CoinPage({ searchParams }: { searchParams?: { name?: str
               <span>·</span>
               <span>核验：可通过原始交易页复核</span>
             </div>
+
+            <section style={{ padding: 16, marginBottom: 16, border: "1px solid #e4e7ec", borderRadius: 12, background: "#fff" }}>
+              <div style={{ display: "flex", justifyContent: "space-between", alignItems: "baseline", gap: 10, flexWrap: "wrap", marginBottom: 10 }}>
+                <h2 style={{ margin: 0, fontSize: 14, color: "#101828" }}>平台覆盖</h2>
+                <span style={{ color: "#98a2b3", fontSize: 10 }}>暂无已核验数据不代表该平台没有成交</span>
+              </div>
+              <div style={{ display: "grid", gridTemplateColumns: "repeat(auto-fit, minmax(180px, 1fr))", gap: 8 }}>
+                {platformCoverage.map((item) => {
+                  const config = PLATFORM_CONFIG[item.platform] ?? { color: "#6b7280", bg: "#f9fafb" };
+                  return (
+                    <div key={item.platform} style={{ padding: "11px 12px", border: "1px solid #eef0f3", borderRadius: 9, background: config.bg }}>
+                      <span style={{ display: "flex", alignItems: "center", gap: 6, color: "#344054", fontSize: 12, fontWeight: 600 }}>
+                        <i style={{ width: 7, height: 7, borderRadius: "50%", background: config.color }} />
+                        {item.platform}
+                      </span>
+                      <strong style={{ display: "block", margin: "6px 0 5px", color: item.count > 0 ? "#101828" : "#98a2b3", fontSize: 14 }}>
+                        {item.count > 0 ? `${item.count} 条已核验成交` : "暂无已核验数据"}
+                      </strong>
+                      {item.url && (
+                        <a href={item.url} target="_blank" rel="noreferrer" style={{ color: "#155eef", fontSize: 10, textDecoration: "none" }}>
+                          去平台继续搜索 ↗
+                        </a>
+                      )}
+                    </div>
+                  );
+                })}
+              </div>
+            </section>
 
             {/* Records table */}
             <div style={{
