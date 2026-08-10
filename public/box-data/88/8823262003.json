@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8823262003",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8823262003",
+      "displayBoxCode": "8823262-003",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1999年国色天香天堂鸟1盎司精制彩银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10424123.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8823262-003/",
+      "price": 540,
+      "priceWithFee": 558.9,
+      "transactedAt": "2026-07-27 21:03:10",
+      "productCode": "877773024",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/877773024A.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1999年,1盎司,年国,国色,色天,天香,香天,天堂,堂鸟,鸟盎,盎司,司精,精制,制彩,彩银,银币,评级"
+    }
+  ]
+}

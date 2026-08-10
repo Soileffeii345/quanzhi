@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6715119002",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6715119002",
+      "displayBoxCode": "6715119-002",
+      "gradingCompany": "NGC",
+      "grade": "PF 66 ULTRA CAMEO",
+      "coinName": "1995年15克古代科技第4组太极图银币(UC)",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/517787.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6715119-002/66/",
+      "price": 400,
+      "priceWithFee": null,
+      "transactedAt": "2025-12-11 11:08:57",
+      "productCode": "KH094333",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251211/large_sell_kaqobpu2atskqv2p.jpg",
+      "ocrConfidence": 40,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1995年,15克,年克,克古,古代,代科,科技,技第,第组,组太,太极,极图,图银,银币"
+    }
+  ]
+}

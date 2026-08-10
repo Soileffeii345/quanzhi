@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4635900050",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4635900050",
+      "displayBoxCode": "4635900-050",
+      "gradingCompany": "NGC",
+      "grade": "PF69 ULTRA CAMEO",
+      "coinName": "1998年1/2盎司万象更新彩银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/526117.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4635900-050/69/",
+      "price": 500,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-01 20:55:38",
+      "productCode": "AA606355",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251230/large_sell_honlxwr1t1i9jae8.jpg",
+      "ocrConfidence": 28,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1998年,2盎司,年盎,盎司,司万,万象,象更,更新,新彩,彩银,银币"
+    }
+  ]
+}

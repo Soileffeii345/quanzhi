@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4639829008",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4639829008",
+      "displayBoxCode": "4639829-008",
+      "gradingCompany": "NGC",
+      "grade": "PF 60 ULTRA CAMEO",
+      "coinName": "2009年5盎司方形水浒传第1组彩金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/492728.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4639829-008/60/",
+      "price": 123730,
+      "priceWithFee": null,
+      "transactedAt": "2025-08-04 22:25:36",
+      "productCode": "KH077823",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250804/large_sell_akpv6j3dnaoi2dpu.jpg",
+      "ocrConfidence": 49,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2009年,5盎司,年盎,盎司,司方,方形,形水,水浒,浒传,传第,第组,组彩,彩金,金币"
+    }
+  ]
+}

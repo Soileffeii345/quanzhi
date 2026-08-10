@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4287730012",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4287730012",
+      "displayBoxCode": "4287730-012",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2014年1/4盎司青铜器第3组金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/556520.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4287730-012/",
+      "price": 9435,
+      "priceWithFee": null,
+      "transactedAt": "2026-03-02 10:32:14",
+      "productCode": "AA623641",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260226/large_sell_3uqugruscwiczdhg.jpg",
+      "ocrConfidence": 29,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,铜,币,2014年,4盎司,年盎,盎司,司青,青铜,铜器,器第,第组,组金,金币"
+    }
+  ]
+}

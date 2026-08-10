@@ -1,0 +1,48 @@
+{
+  "coinName": "2009年28.28克银币",
+  "slug": "173a6338",
+  "saleCount": 2,
+  "keywords": "银,币,2009年,28.28克,年吉,吉尔,尔吉,吉斯,斯斯,斯坦,坦钦,钦吉,斯艾,艾特,特玛,玛托,托夫,夫查,查米,米莉,莉亚,亚克,克银,银币,夫永,永别,别了,了古,古利,利萨,萨雷,雷克",
+  "priceStats": {
+    "low": 690,
+    "high": 830,
+    "avg": 760,
+    "latest": 830
+  },
+  "records": [
+    {
+      "coinName": "2009年吉尔吉斯斯坦钦吉斯·艾特玛托夫《查米莉亚》28.28克银币",
+      "normalizedBoxCode": "8504637038",
+      "displayBoxCode": "8504637-038",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianbi/10385580.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8504637-038/",
+      "price": 830,
+      "priceWithFee": 921.3,
+      "transactedAt": "2026-07-10 21:00:55",
+      "productCode": "873385016",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2009年,28.28克,年吉,吉尔,尔吉,吉斯,斯斯,斯坦,坦钦,钦吉,斯艾,艾特,特玛,玛托,托夫,夫查,查米,米莉,莉亚,亚克,克银,银币"
+    },
+    {
+      "coinName": "2009年吉尔吉斯斯坦钦吉斯·艾特玛托夫《永别了，古利萨雷》28.28克银币",
+      "normalizedBoxCode": "8504637039",
+      "displayBoxCode": "8504637-039",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianbi/10385581.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8504637-039/69/",
+      "price": 690,
+      "priceWithFee": 765.9,
+      "transactedAt": "2026-07-10 20:30:55",
+      "productCode": "873385017",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2009年,28.28克,年吉,吉尔,尔吉,吉斯,斯斯,斯坦,坦钦,钦吉,斯艾,艾特,特玛,玛托,托夫,夫永,永别,别了,了古,古利,利萨,萨雷,雷克,克银,银币"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6402611010",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6402611010",
+      "displayBoxCode": "6402611-010",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "coinName": "1998年1盎司熊猫银币(异字版2)",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/422542.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6402611-010/69/",
+      "price": 3100,
+      "priceWithFee": null,
+      "transactedAt": "2024-03-27 08:39:48",
+      "productCode": "AA469270",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20240321/large_sell_ejhftqb1nwtdmhqg.jpg",
+      "ocrConfidence": 29,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1998年,1盎司,熊猫,年盎,盎司,司熊,猫银,银币,币异,异字,字版"
+    }
+  ]
+}

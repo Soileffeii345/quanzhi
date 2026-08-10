@@ -1,11 +1,28 @@
 import { load } from "cheerio";
 import { database } from "./database.mjs";
 
+const options = Object.fromEntries(process.argv.slice(2).map((entry) => {
+  const [key, value = "true"] = entry.replace(/^--/, "").split("=");
+  return [key, value];
+}));
+const limit = Math.max(1, Number(options.limit ?? 200));
+const concurrency = Math.max(1, Math.min(6, Number(options.concurrency ?? 3)));
+// NGC/PCGS currently reject automated checks. Transaction verification is
+// still authoritative for publication; run with --skip-official=false only
+// when an approved official lookup channel is available.
+const skipOfficial = options["skip-official"] !== "false";
+const verbose = options.verbose === "true";
+
 const candidates = database.prepare(`
   SELECT * FROM box_sales
   WHERE verification_status IN ('ocr_double_match', 'transaction_check_failed', 'official_pending')
-  ORDER BY collected_at
-`).all();
+  ORDER BY CASE verification_status
+    WHEN 'ocr_double_match' THEN 0
+    WHEN 'official_pending' THEN 1
+    ELSE 2
+  END, collected_at
+  LIMIT ?
+`).all(limit);
 
 const setStatus = database.prepare(`
   UPDATE box_sales SET verification_status=?, evidence_note=?
@@ -109,8 +126,14 @@ async function verifyTransaction(record) {
 }
 
 const results = [];
-for (const record of candidates) {
-  const [official, transaction] = await Promise.all([verifyOfficial(record), verifyTransaction(record)]);
+let cursor = 0;
+async function runWorker() {
+  while (cursor < candidates.length) {
+    const record = candidates[cursor++];
+  const [official, transaction] = await Promise.all([
+    skipOfficial ? Promise.resolve({ ok: false, reason: "official check deferred" }) : verifyOfficial(record),
+    verifyTransaction(record),
+  ]);
   const status = transaction.active
     ? "active_listing"
     : official.ok && transaction.ok
@@ -129,7 +152,11 @@ for (const record of candidates) {
     detailUrl: record.detail_url,
     officialUrl: record.official_cert_url,
   });
+  }
 }
+await Promise.all(Array.from({ length: concurrency }, () => runWorker()));
 
 const statusCounts = database.prepare("SELECT verification_status status, COUNT(1) count FROM box_sales GROUP BY verification_status ORDER BY status").all();
-process.stdout.write(`${JSON.stringify({ checked: candidates.length, results, statusCounts, finishedAt: new Date().toISOString() }, null, 2)}\n`);
+const resultCounts = Object.groupBy(results, (result) => result.status);
+const summary = Object.fromEntries(Object.entries(resultCounts).map(([status, rows]) => [status, rows.length]));
+process.stdout.write(`${JSON.stringify({ checked: candidates.length, limit, concurrency, skipOfficial, summary, ...(verbose ? { results } : {}), statusCounts, finishedAt: new Date().toISOString() }, null, 2)}\n`);

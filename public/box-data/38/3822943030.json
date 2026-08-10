@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "3822943030",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "3822943030",
+      "displayBoxCode": "3822943-030",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2003年1/2盎司武陵源金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/503354.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3822943-030/70/",
+      "price": 13550,
+      "priceWithFee": null,
+      "transactedAt": "2025-09-29 10:53:15",
+      "productCode": "KH085372",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250929/large_sell_2vhqjime1zloprbv.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2003年,2盎司,年盎,盎司,司武,武陵,陵源,源金,金币"
+    }
+  ]
+}

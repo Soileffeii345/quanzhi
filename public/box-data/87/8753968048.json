@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8753968048",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8753968048",
+      "displayBoxCode": "8753968-048",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1989年第14届世界杯足球赛-铲球27克精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10395438.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8753968-048/",
+      "price": 550,
+      "priceWithFee": 569.25,
+      "transactedAt": "2026-07-20 21:00:40",
+      "productCode": "873968002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/873968002A.jpg",
+      "ocrConfidence": 48,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1989年,27克,年第,第届,届世,世界,界杯,杯足,足球,球赛,赛铲,铲球,球克,克精,精制,制银,银币,评级"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6173999023",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6173999023",
+      "displayBoxCode": "6173999-023",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2001年1/2盎司西藏解放50周年金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/484807.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6173999-023/70/",
+      "price": 12375,
+      "priceWithFee": null,
+      "transactedAt": "2025-06-21 02:39:50",
+      "productCode": "KH071289",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250621/large_sell_wxrjb2ve8fsvmixn.jpg",
+      "ocrConfidence": 42,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2001年,2盎司,年盎,盎司,司西,西藏,藏解,解放,放周,周年,年金,金币"
+    }
+  ]
+}

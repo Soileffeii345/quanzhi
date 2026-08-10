@@ -1,5 +1,12 @@
 {
-  "generatedAt": "2026-08-05T05:49:31.179Z",
-  "verifiedBoxes": 78,
-  "verifiedSales": 78
+  "generatedAt": "2026-08-10T07:53:25.841Z",
+  "publishedStatuses": [
+    "verified",
+    "image_exact",
+    "official_pending",
+    "youbao_trade"
+  ],
+  "verifiedBoxes": 7817,
+  "verifiedSales": 8097,
+  "activeListings": 917
 }

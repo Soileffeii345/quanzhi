@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8764710050",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8764710050",
+      "displayBoxCode": "8764710-050",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2012年中国佛教圣地-五台山2盎司精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10356016.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8764710-050/69/",
+      "price": 1740,
+      "priceWithFee": 1800.9,
+      "transactedAt": "2026-06-29 20:17:40",
+      "productCode": "869943005",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/869943005A.jpg",
+      "ocrConfidence": 37,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2012年,2盎司,宗教,年中,中国,国佛,佛教,教圣,圣地,地五,五台,台山,山盎,盎司,司精,精制,制银,银币,评级"
+    }
+  ]
+}

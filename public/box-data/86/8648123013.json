@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8648123013",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8648123013",
+      "displayBoxCode": "8648123-013",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1995年麒麟1/4盎司精制金币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10360171.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8648123-013/69/",
+      "price": 9500,
+      "priceWithFee": 9832.5,
+      "transactedAt": "2026-06-25 21:28:35",
+      "productCode": "870428003",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/870428003A.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1995年,4盎司,年麒,麒麟,麟盎,盎司,司精,精制,制金,金币,评级"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2159346020",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2159346020",
+      "displayBoxCode": "2159346-020",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "香港政府拾分",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xianggangzhichao/10410438.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2159346-020/",
+      "price": 350,
+      "priceWithFee": 388.5,
+      "transactedAt": "2026-07-21 19:13:20",
+      "productCode": "876073001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/876073001B.jpg",
+      "ocrConfidence": 37,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "香港,港政,政府,府拾,拾分,外国/特区"
+    }
+  ]
+}

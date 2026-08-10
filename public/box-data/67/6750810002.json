@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6750810002",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6750810002",
+      "displayBoxCode": "6750810-002",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1996年1/2盎司熊猫金币(大字版)",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/409736.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6750810-002/",
+      "price": 26000,
+      "priceWithFee": null,
+      "transactedAt": "2024-01-03 00:21:55",
+      "productCode": "AA454735",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20231231/large_sell_ugwsdgnp2831kpgt.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1996年,2盎司,熊猫,年盎,盎司,司熊,猫金,金币,币大,大字,字版"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8611239004",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8611239004",
+      "displayBoxCode": "8611239-004",
+      "gradingCompany": "NGC",
+      "grade": "MS69",
+      "coinName": "2000年1/2盎司扇形生肖龙金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/514024.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8611239-004/69/",
+      "price": 16200,
+      "priceWithFee": null,
+      "transactedAt": "2025-11-25 16:08:56",
+      "productCode": "AA597873",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251121/large_sell_proarukxfsjzznee.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2000年,2盎司,生肖,年盎,盎司,司扇,扇形,形生,肖龙,龙金,金币"
+    }
+  ]
+}

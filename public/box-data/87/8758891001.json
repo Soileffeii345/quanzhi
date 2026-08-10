@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8758891001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8758891001",
+      "displayBoxCode": "8758891-001",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1993年熊猫1/2盎司普制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-jiuyin/10350707.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8758891-001/",
+      "price": 390,
+      "priceWithFee": 403.65,
+      "transactedAt": "2026-06-22 20:51:40",
+      "productCode": "869211001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/869211001A.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1993年,2盎司,熊猫,年熊,猫盎,盎司,司普,普制,制银,银币"
+    }
+  ]
+}

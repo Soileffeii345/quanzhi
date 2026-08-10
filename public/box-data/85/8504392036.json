@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8504392036",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8504392036",
+      "displayBoxCode": "8504392-036",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2018年帕劳弥勒笑佛高浮雕2盎司镀金银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/wgjsbizhang/10415190.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8504392-036/69/",
+      "price": 1840,
+      "priceWithFee": 1950.4,
+      "transactedAt": "2026-07-24 21:05:55",
+      "productCode": "876743018",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/876743018A.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,2018年,2盎司,宗教,年帕,帕劳,劳弥,弥勒,勒笑,笑佛,佛高,高浮,浮雕,雕盎,盎司,司镀,镀金,金银,银币"
+    }
+  ]
+}

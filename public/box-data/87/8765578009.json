@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8765578009",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8765578009",
+      "displayBoxCode": "8765578-009",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1990年1克龙凤呈祥金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/602090.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8765578-009/",
+      "price": 2050,
+      "priceWithFee": null,
+      "transactedAt": "2026-08-07 13:17:21",
+      "productCode": "KH143917",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260807/large_sell_cs1vyk5c8rayw2o9.jpg",
+      "ocrConfidence": 43,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1990年,1克,年克,克龙,龙凤,凤呈,呈祥,祥金,金币"
+    }
+  ]
+}

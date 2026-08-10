@@ -1,0 +1,31 @@
+{
+  "coinName": "2009年建国1公斤银币",
+  "slug": "0065946d",
+  "saleCount": 1,
+  "keywords": "银,币,2009年,1公斤,重大事件,年公,公斤,斤建,建国,国周,周年,年银,银币",
+  "priceStats": {
+    "low": 9120,
+    "high": 9120,
+    "avg": 9120,
+    "latest": 9120
+  },
+  "records": [
+    {
+      "coinName": "2009年1公斤建国60周年银币",
+      "normalizedBoxCode": "5814269001",
+      "displayBoxCode": "5814269-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/487379.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/5814269-001/69/",
+      "price": 9120,
+      "priceWithFee": null,
+      "transactedAt": "2025-07-11 18:03:54",
+      "productCode": "DB200979",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2009年,1公斤,重大事件,年公,公斤,斤建,建国,国周,周年,年银,银币"
+    }
+  ]
+}

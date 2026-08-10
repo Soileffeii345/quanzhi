@@ -1,0 +1,31 @@
+{
+  "coinName": "2022年3.11克金币",
+  "slug": "74106cdf",
+  "saleCount": 1,
+  "keywords": "金,币,2022年,10盎司,年加,加拿,拿大,大盎,盎司,司枫,枫叶,叶金,金币,外国/特区",
+  "priceStats": {
+    "low": 2950,
+    "high": 2950,
+    "avg": 2950,
+    "latest": 2950
+  },
+  "records": [
+    {
+      "coinName": "2022年加拿大1/10盎司枫叶金币",
+      "normalizedBoxCode": "6715020003",
+      "displayBoxCode": "6715020-003",
+      "gradingCompany": "NGC",
+      "grade": "MS 68",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/587042.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6715020-003/68/",
+      "price": 2950,
+      "priceWithFee": null,
+      "transactedAt": "2026-06-21 20:15:12",
+      "productCode": "AA654510",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2022年,10盎司,年加,加拿,拿大,大盎,盎司,司枫,枫叶,叶金,金币,外国/特区"
+    }
+  ]
+}

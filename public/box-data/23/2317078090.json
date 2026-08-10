@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2317078090",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2317078090",
+      "displayBoxCode": "2317078-090",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2015年航天纪念钞100元二枚",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/liantichao-jinianchao/10415842.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2317078-090/",
+      "price": 260,
+      "priceWithFee": 280.8,
+      "transactedAt": "2026-07-21 20:14:50",
+      "productCode": "876871001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/876871001B.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,2015年,年航,航天,天纪,纪念,念钞,钞元,元二,二枚"
+    }
+  ]
+}

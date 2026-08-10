@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2133293085",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2133293085",
+      "displayBoxCode": "2133293-085",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "民国三十八年广东省银行大洋票壹佰圆",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/minguoshengshigejiyinhangzhichao/10380123.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2133293-085/",
+      "price": 370,
+      "priceWithFee": 410.7,
+      "transactedAt": "2026-07-23 21:18:40",
+      "productCode": "871531020",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/27/871531020B.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,钞,历史币,民国,国三,三十,十八,八年,年广,广东,东省,省银,银行,行大,大洋,洋票,票壹,壹佰,佰圆"
+    }
+  ]
+}

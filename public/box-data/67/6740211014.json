@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6740211014",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6740211014",
+      "displayBoxCode": "6740211-014",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2023年吉祥文化-前程似锦30克如意形精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10429743.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6740211-014/70/",
+      "price": 1420,
+      "priceWithFee": 1469.7,
+      "transactedAt": "2026-07-27 19:51:40",
+      "productCode": "878496003",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/878496003A.jpg",
+      "ocrConfidence": 39,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2023年,30克,吉祥文化,年吉,吉祥,祥文,文化,化前,前程,程似,似锦,锦克,克如,如意,意形,形精,精制,制银,银币,评级"
+    }
+  ]
+}

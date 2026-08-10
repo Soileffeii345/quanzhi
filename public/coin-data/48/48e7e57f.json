@@ -1,0 +1,65 @@
+{
+  "coinName": "2009年建国7.776克金币",
+  "slug": "48e7e57f",
+  "saleCount": 3,
+  "keywords": "金,币,2009年,4盎司,重大事件,年盎,盎司,司建,建国,国周,周年,年金,金币",
+  "priceStats": {
+    "low": 5490,
+    "high": 7645,
+    "avg": 6740,
+    "latest": 7645
+  },
+  "records": [
+    {
+      "coinName": "2009年1/4盎司建国60周年金币",
+      "normalizedBoxCode": "4802850009",
+      "displayBoxCode": "4802850-009",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/520292.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4802850-009/",
+      "price": 7645,
+      "priceWithFee": null,
+      "transactedAt": "2025-12-12 21:04:52",
+      "productCode": "KH094906",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2009年,4盎司,重大事件,年盎,盎司,司建,建国,国周,周年,年金,金币"
+    },
+    {
+      "coinName": "2009年1/4盎司建国60周年金币",
+      "normalizedBoxCode": "4802850009",
+      "displayBoxCode": "4802850-009",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/504633.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4802850-009/69/",
+      "price": 7085,
+      "priceWithFee": null,
+      "transactedAt": "2025-10-10 21:45:40",
+      "productCode": "KH086641",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2009年,4盎司,重大事件,年盎,盎司,司建,建国,国周,周年,年金,金币"
+    },
+    {
+      "coinName": "2009年1/4盎司建国60周年金币",
+      "normalizedBoxCode": "6406198002",
+      "displayBoxCode": "6406198-002",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/467930.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6406198-002/",
+      "price": 5490,
+      "priceWithFee": null,
+      "transactedAt": "2025-03-13 13:17:09",
+      "productCode": "AA554440",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2009年,4盎司,重大事件,年盎,盎司,司建,建国,国周,周年,年金,金币"
+    }
+  ]
+}

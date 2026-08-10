@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4410320001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4410320001",
+      "displayBoxCode": "4410320-001",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1992年1/4盎司珍稀动物第3组羚牛金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/467366.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4410320-001/",
+      "price": 5565,
+      "priceWithFee": null,
+      "transactedAt": "2025-03-07 17:56:15",
+      "productCode": "AA553857",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250307/large_sell_pbagdo0qab71wfsu.jpg",
+      "ocrConfidence": 29,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1992年,4盎司,年盎,盎司,司珍,珍稀,稀动,动物,物第,第组,组羚,羚牛,牛金,金币"
+    }
+  ]
+}

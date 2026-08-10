@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "1836235064",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "1836235064",
+      "displayBoxCode": "1836235-064",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "民国二十四年广东省银行银毫券贰毫",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/minguoshengshigejiyinhangzhichao/10361808.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1836235-064/",
+      "price": 200,
+      "priceWithFee": 222,
+      "transactedAt": "2026-07-07 21:13:20",
+      "productCode": "870325018",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/870325018B.jpg",
+      "ocrConfidence": 40,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国二,二十,十四,四年,年广,广东,东省,省银,银行,行银,银毫,毫券,券贰,贰毫"
+    }
+  ]
+}

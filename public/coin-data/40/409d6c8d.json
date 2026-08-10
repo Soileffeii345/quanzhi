@@ -1,0 +1,65 @@
+{
+  "coinName": "1997年麒麟31.104克银币",
+  "slug": "409d6c8d",
+  "saleCount": 3,
+  "keywords": "银,币,1997年,1盎司,年盎,盎司,司麒,麒麟,麟银,银币,币版,币空,空云,币卷,卷云",
+  "priceStats": {
+    "low": 1000,
+    "high": 1600,
+    "avg": 1267,
+    "latest": 1600
+  },
+  "records": [
+    {
+      "coinName": "1997年1盎司麒麟银币(P版)",
+      "normalizedBoxCode": "3567286013",
+      "displayBoxCode": "3567286-013",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/529373.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3567286-013/69/",
+      "price": 1600,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-26 16:53:40",
+      "productCode": "KH111057",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1997年,1盎司,年盎,盎司,司麒,麒麟,麟银,银币,币版"
+    },
+    {
+      "coinName": "1997年1盎司麒麟银币(空云)",
+      "normalizedBoxCode": "6179330072",
+      "displayBoxCode": "6179330-072",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/562363.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6179330-072/",
+      "price": 1000,
+      "priceWithFee": null,
+      "transactedAt": "2026-04-13 00:58:36",
+      "productCode": "KH127623",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1997年,1盎司,年盎,盎司,司麒,麒麟,麟银,银币,币空,空云"
+    },
+    {
+      "coinName": "1997年1盎司麒麟银币(卷云)",
+      "normalizedBoxCode": "6405767002",
+      "displayBoxCode": "6405767-002",
+      "gradingCompany": "NGC",
+      "grade": "Ms69",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/555782.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6405767-002/69/",
+      "price": 1200,
+      "priceWithFee": null,
+      "transactedAt": "2026-02-23 21:37:10",
+      "productCode": "KH120318",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1997年,1盎司,年盎,盎司,司麒,麒麟,麟银,银币,币卷,卷云"
+    }
+  ]
+}

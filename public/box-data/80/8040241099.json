@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8040241099",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8040241099",
+      "displayBoxCode": "8040241-099",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "第三版人民币2角红冠3罗马平版、1元五星水印各一枚",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/disanbanrenminbi/10416938.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8040241-099/",
+      "price": 260,
+      "priceWithFee": 280.8,
+      "transactedAt": "2026-07-28 20:43:50",
+      "productCode": "876928001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/876928001B.jpg",
+      "ocrConfidence": 32,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,第三,三版,版人,人民,民币,币角,角红,红冠,冠罗,罗马,马平,平版,版元,元五,五星,星水,水印,印各,各一,一枚"
+    }
+  ]
+}

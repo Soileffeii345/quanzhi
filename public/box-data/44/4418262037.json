@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4418262037",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4418262037",
+      "displayBoxCode": "4418262-037",
+      "gradingCompany": "NGC",
+      "grade": "Pr65 CAMEO",
+      "coinName": "1995年中国精制硬币1角",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10395610.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4418262-037/65/",
+      "price": 70,
+      "priceWithFee": 75.6,
+      "transactedAt": "2026-07-15 20:54:30",
+      "productCode": "873836006",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/873836006A.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1995年,年中,中国,国精,精制,制硬,硬币,币角,评级"
+    }
+  ]
+}

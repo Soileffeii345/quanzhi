@@ -1,0 +1,48 @@
+{
+  "coinName": "1988年珍稀动物27克银币",
+  "slug": "38e96104",
+  "saleCount": 2,
+  "keywords": "银,币,1988年,27克,年克,克珍,珍稀,稀动,动物,物第,第组,组朱,朱鹮,鹮银,银币,组银",
+  "priceStats": {
+    "low": 800,
+    "high": 1250,
+    "avg": 1025,
+    "latest": 1250
+  },
+  "records": [
+    {
+      "coinName": "1988年27克珍稀动物第1组朱鹮银币 X2",
+      "normalizedBoxCode": "0740500002",
+      "displayBoxCode": "0740500-002",
+      "gradingCompany": "NGC",
+      "grade": "PF 68 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/570446.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/0740500-002/68/",
+      "price": 1250,
+      "priceWithFee": null,
+      "transactedAt": "2026-04-22 08:24:27",
+      "productCode": "AA631709.10A",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1988年,27克,年克,克珍,珍稀,稀动,动物,物第,第组,组朱,朱鹮,鹮银,银币"
+    },
+    {
+      "coinName": "1988年27克珍稀动物第1组银币",
+      "normalizedBoxCode": "4531628062",
+      "displayBoxCode": "4531628-062",
+      "gradingCompany": "NGC",
+      "grade": "PF68 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/497584.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4531628-062/68/",
+      "price": 800,
+      "priceWithFee": null,
+      "transactedAt": "2025-09-10 22:16:43",
+      "productCode": "AA582587.88",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1988年,27克,年克,克珍,珍稀,稀动,动物,物第,第组,组银,银币"
+    }
+  ]
+}

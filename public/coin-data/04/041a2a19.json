@@ -1,0 +1,31 @@
+{
+  "coinName": "民国三十七年中央银行关金贰仟伍佰圆",
+  "slug": "041a2a19",
+  "saleCount": 1,
+  "keywords": "金,银,历史币,民国,国三,三十,十七,七年,年中,中央,央银,银行,行关,关金,金贰,贰仟,仟伍,伍佰,佰圆",
+  "priceStats": {
+    "low": 350,
+    "high": 350,
+    "avg": 350,
+    "latest": 350
+  },
+  "records": [
+    {
+      "coinName": "民国三十七年中央银行关金贰仟伍佰圆",
+      "normalizedBoxCode": "3242634000",
+      "displayBoxCode": "3242634-000",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10367307.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3242634-000/",
+      "price": 350,
+      "priceWithFee": 388.5,
+      "transactedAt": "2026-07-21 21:57:20",
+      "productCode": "870332008",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,历史币,民国,国三,三十,十七,七年,年中,中央,央银,银行,行关,关金,金贰,贰仟,仟伍,伍佰,佰圆"
+    }
+  ]
+}

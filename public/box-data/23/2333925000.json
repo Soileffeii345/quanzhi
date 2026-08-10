@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2333925000",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2333925000",
+      "displayBoxCode": "2333925-000",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "第四套/第四版人民币1980年版10元（火凤凰荧光版）",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/disibanrenminbi/10422315.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2333925-000/",
+      "price": 120,
+      "priceWithFee": 129.6,
+      "transactedAt": "2026-07-25 21:11:10",
+      "productCode": "877804016",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/877804016B.jpg",
+      "ocrConfidence": 24,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1980年,第四,四套,套第,四版,版人,人民,民币,币年,年版,版元,元火,火凤,凤凰,凰荧,荧光,光版"
+    }
+  ]
+}

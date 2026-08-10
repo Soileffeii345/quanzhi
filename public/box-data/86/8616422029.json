@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8616422029",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8616422029",
+      "displayBoxCode": "8616422-029",
+      "gradingCompany": "NGC",
+      "grade": "PF 68 ULTRA CAMEO",
+      "coinName": "2003年中国宝岛台湾-朝天宫精制流通纪念币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10376520.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8616422-029/68/",
+      "price": 140,
+      "priceWithFee": 151.2,
+      "transactedAt": "2026-07-01 19:16:05",
+      "productCode": "871769003",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/26/871769003A.jpg",
+      "ocrConfidence": 38,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2003年,年中,中国,国宝,宝岛,岛台,台湾,湾朝,朝天,天宫,宫精,精制,制流,流通,通纪,纪念,念币,评级"
+    }
+  ]
+}

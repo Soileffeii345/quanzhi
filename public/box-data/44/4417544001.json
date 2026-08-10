@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4417544001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4417544001",
+      "displayBoxCode": "4417544-001",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "coinName": "2015年1/4盎司熊猫金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/526896.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4417544-001/69/",
+      "price": 7620,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-02 00:45:06",
+      "productCode": "KH101073",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260102/large_sell_jud5cy9a89xoy8ge.jpg",
+      "ocrConfidence": 51,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2015年,4盎司,熊猫,年盎,盎司,司熊,猫金,金币"
+    }
+  ]
+}

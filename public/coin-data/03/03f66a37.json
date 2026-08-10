@@ -1,0 +1,48 @@
+{
+  "coinName": "1996年生肖3盎司银币",
+  "slug": "03f66a37",
+  "saleCount": 2,
+  "keywords": "银,币,1996年,3盎司,生肖,年盎,盎司,司梅,梅花,花形,形生,肖鼠,鼠银,银币,年丙,丙子,子鼠,鼠年,年生,肖盎,形银",
+  "priceStats": {
+    "low": 1340,
+    "high": 1400,
+    "avg": 1370,
+    "latest": 1400
+  },
+  "records": [
+    {
+      "coinName": "1996年2/3盎司梅花形生肖鼠银币",
+      "normalizedBoxCode": "4620139061",
+      "displayBoxCode": "4620139-061",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/502736.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4620139-061/69/",
+      "price": 1400,
+      "priceWithFee": null,
+      "transactedAt": "2025-10-07 14:09:04",
+      "productCode": "AA587881",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1996年,3盎司,生肖,年盎,盎司,司梅,梅花,花形,形生,肖鼠,鼠银,银币"
+    },
+    {
+      "coinName": "1996年丙子鼠年生肖2/3盎司梅花形银币",
+      "normalizedBoxCode": "6400031010",
+      "displayBoxCode": "6400031-010",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10376704.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6400031-010/69/",
+      "price": 1340,
+      "priceWithFee": 1386.9,
+      "transactedAt": "2026-07-06 20:38:25",
+      "productCode": "872086010",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1996年,3盎司,生肖,年丙,丙子,子鼠,鼠年,年生,肖盎,盎司,司梅,梅花,花形,形银,银币"
+    }
+  ]
+}

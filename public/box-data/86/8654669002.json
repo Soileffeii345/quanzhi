@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8654669002",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8654669002",
+      "displayBoxCode": "8654669-002",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1997年中国近代国画大师齐白石-大利图5盎司精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10361124.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8654669-002/69/",
+      "price": 32000,
+      "priceWithFee": 33120,
+      "transactedAt": "2026-06-25 20:04:35",
+      "productCode": "870518014",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/870518014A.jpg",
+      "ocrConfidence": 46,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1997年,5盎司,年中,中国,国近,近代,代国,国画,画大,大师,师齐,齐白,白石,石大,大利,利图,图盎,盎司,司精,精制,制银,银币,评级"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8652007002",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8652007002",
+      "displayBoxCode": "8652007-002",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2013年1公斤生肖蛇银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/515478.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8652007-002/69/",
+      "price": 17000,
+      "priceWithFee": null,
+      "transactedAt": "2025-12-17 22:23:33",
+      "productCode": "KH092774",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251129/large_sell_ko60wzdlhfyhsiab.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2013年,1公斤,生肖,年公,公斤,斤生,肖蛇,蛇银,银币"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8762227112",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8762227112",
+      "displayBoxCode": "8762227-112",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "coinName": "1986年美国“中国皇后”号帆船首航中国24克银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10410398.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8762227-112/69/",
+      "price": 620,
+      "priceWithFee": 641.7,
+      "transactedAt": "2026-07-27 21:35:10",
+      "productCode": "876421001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/876421001A.jpg",
+      "ocrConfidence": 39,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1986年,24克,年美,美国,国中,中国,国皇,皇后,后号,号帆,帆船,船首,首航,航中,国克,克银,银币,外国/特区"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6720526005",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6720526005",
+      "displayBoxCode": "6720526-005",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2003年中国古典文学名著《西游记》第（1）组-猴王出世1/2盎司精制彩金币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10419126.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6720526-005/69/",
+      "price": 15200,
+      "priceWithFee": 15732,
+      "transactedAt": "2026-07-23 21:03:25",
+      "productCode": "877325004",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/877325004A.jpg",
+      "ocrConfidence": 40,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2003年,2盎司,年中,中国,国古,古典,典文,文学,学名,名著,著西,西游,游记,记第,第组,组猴,猴王,王出,出世,世盎,盎司,司精,精制,制彩,彩金,金币,评级"
+    }
+  ]
+}

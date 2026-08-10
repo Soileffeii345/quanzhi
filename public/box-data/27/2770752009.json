@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2770752009",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2770752009",
+      "displayBoxCode": "2770752-009",
+      "gradingCompany": "NGC",
+      "grade": "MS 64",
+      "coinName": "民国三年广东省造贰毫银元",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguojindaijizhibi/10395080.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2770752-009/64/",
+      "price": 370,
+      "priceWithFee": 399.6,
+      "transactedAt": "2026-07-27 19:56:05",
+      "productCode": "874323004",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/874323004A.jpg",
+      "ocrConfidence": 37,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,广东,粤造,民国,国三,三年,年广,东省,省造,造贰,贰毫,毫银,银元"
+    }
+  ]
+}

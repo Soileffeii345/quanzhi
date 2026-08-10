@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "80923642",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "80923642",
+      "displayBoxCode": "80923642",
+      "gradingCompany": "PCGS",
+      "grade": "待复核",
+      "coinName": "2013年中国佛教圣地-普陀山5盎司精制金币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10360183.shtml",
+      "officialCertUrl": "https://cn.pcgs.com/cert/80923642",
+      "price": 185000,
+      "priceWithFee": 191475,
+      "transactedAt": "2026-06-25 21:29:35",
+      "productCode": "870428015",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/870428015A.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2013年,5盎司,宗教,年中,中国,国佛,佛教,教圣,圣地,地普,普陀,陀山,山盎,盎司,司精,精制,制金,金币,评级"
+    }
+  ]
+}

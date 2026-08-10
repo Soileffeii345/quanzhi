@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8556340049",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8556340049",
+      "displayBoxCode": "8556340-049",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1993年宋庆龄诞辰100周年8克精制金币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10401689.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8556340-049/",
+      "price": 16000,
+      "priceWithFee": 16560,
+      "transactedAt": "2026-07-16 21:39:15",
+      "productCode": "875311004",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/875311004A.jpg",
+      "ocrConfidence": 47,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1993年,8克,年宋,宋庆,庆龄,龄诞,诞辰,辰周,周年,年克,克精,精制,制金,金币,评级"
+    }
+  ]
+}

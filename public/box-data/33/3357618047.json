@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "3357618047",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "3357618047",
+      "displayBoxCode": "3357618-047",
+      "gradingCompany": "NGC",
+      "grade": "PF 67 ULTRA CAMEO",
+      "coinName": "1998年1/2盎司梅花形生肖虎金币(UC)",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/465212.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3357618-047/67/",
+      "price": 10680,
+      "priceWithFee": null,
+      "transactedAt": "2025-02-20 13:01:34",
+      "productCode": "KH059495",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250220/large_sell_hjpif17wecuiepxt.jpg",
+      "ocrConfidence": 60,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1998年,2盎司,生肖,年盎,盎司,司梅,梅花,花形,形生,肖虎,虎金,金币"
+    }
+  ]
+}

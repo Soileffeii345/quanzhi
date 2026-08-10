@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6756326043",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6756326043",
+      "displayBoxCode": "6756326-043",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2024年30克熊猫银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/500265.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6756326-043/",
+      "price": 600,
+      "priceWithFee": null,
+      "transactedAt": "2025-09-14 09:33:08",
+      "productCode": "KH083445",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250913/large_sell_4xhpa8lnigttpzje.jpg",
+      "ocrConfidence": 28,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2024年,30克,熊猫,年克,克熊,猫银,银币"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4421921009",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4421921009",
+      "displayBoxCode": "4421921-009",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2010年1/2盎司云冈石窟金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/475440.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4421921-009/",
+      "price": 12390,
+      "priceWithFee": null,
+      "transactedAt": "2025-06-19 11:17:02",
+      "productCode": "AA560529",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250426/large_sell_gd3glt2ig2sxwr56.jpg",
+      "ocrConfidence": 39,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2010年,2盎司,年盎,盎司,司云,云冈,冈石,石窟,窟金,金币"
+    }
+  ]
+}

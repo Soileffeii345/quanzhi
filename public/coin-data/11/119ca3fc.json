@@ -1,0 +1,65 @@
+{
+  "coinName": "1996年熊猫31.104克精制银币",
+  "slug": "119ca3fc",
+  "saleCount": 3,
+  "keywords": "银,币,1996年,1盎司,熊猫,年熊,猫盎,盎司,司精,精制,制银,银币,评级",
+  "priceStats": {
+    "low": 1460,
+    "high": 1640,
+    "avg": 1520,
+    "latest": 1640
+  },
+  "records": [
+    {
+      "coinName": "1996年熊猫1盎司精制银币",
+      "normalizedBoxCode": "6377056034",
+      "displayBoxCode": "6377056-034",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-jiuyin/10376857.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6377056-034/",
+      "price": 1640,
+      "priceWithFee": 1697.4,
+      "transactedAt": "2026-07-06 21:11:45",
+      "productCode": "872113018",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1996年,1盎司,熊猫,年熊,猫盎,盎司,司精,精制,制银,银币,评级"
+    },
+    {
+      "coinName": "1996年熊猫1盎司精制银币",
+      "normalizedBoxCode": "6377056036",
+      "displayBoxCode": "6377056-036",
+      "gradingCompany": "NGC",
+      "grade": "PF 68 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-jiuyin/10415019.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6377056-036/68/",
+      "price": 1460,
+      "priceWithFee": 1511.1,
+      "transactedAt": "2026-07-20 22:15:40",
+      "productCode": "876728015",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1996年,1盎司,熊猫,年熊,猫盎,盎司,司精,精制,制银,银币,评级"
+    },
+    {
+      "coinName": "1996年熊猫1盎司精制银币",
+      "normalizedBoxCode": "6377056044",
+      "displayBoxCode": "6377056-044",
+      "gradingCompany": "NGC",
+      "grade": "PF 68",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-jiuyin/10397620.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6377056-044/68/",
+      "price": 1460,
+      "priceWithFee": 1511.1,
+      "transactedAt": "2026-07-13 21:30:35",
+      "productCode": "874841010",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1996年,1盎司,熊猫,年熊,猫盎,盎司,司精,精制,制银,银币,评级"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "80104899",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "80104899",
+      "displayBoxCode": "80104899",
+      "gradingCompany": "PCGS",
+      "grade": "待复核",
+      "coinName": "2014年第1届澳门国际钱币-贵金属展销会官方纪念1盎司银章",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10353953.shtml",
+      "officialCertUrl": "https://cn.pcgs.com/cert/80104899",
+      "price": 620,
+      "priceWithFee": 641.7,
+      "transactedAt": "2026-06-22 20:53:40",
+      "productCode": "869167010",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/869167010A.jpg",
+      "ocrConfidence": 38,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,章,2014年,1盎司,年第,第届,届澳,澳门,门国,国际,际钱,钱币,币贵,贵金,金属,属展,展销,销会,会官,官方,方纪,纪念,念盎,盎司,司银,银章,外国/特区"
+    }
+  ]
+}

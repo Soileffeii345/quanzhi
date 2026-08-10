@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8755058010",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8755058010",
+      "displayBoxCode": "8755058-010",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1984年甲子鼠年生肖15克精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10351223.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8755058-010/69/",
+      "price": 5200,
+      "priceWithFee": 5382,
+      "transactedAt": "2026-06-18 19:57:40",
+      "productCode": "869398007",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/869398007A.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1984年,15克,生肖,年甲,甲子,子鼠,鼠年,年生,肖克,克精,精制,制银,银币,评级"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8199601055",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8199601055",
+      "displayBoxCode": "8199601-055",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1997年1/2盎司12边企鹅金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/512593.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8199601-055/",
+      "price": 15130,
+      "priceWithFee": null,
+      "transactedAt": "2025-12-12 07:57:10",
+      "productCode": "KH094662",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251113/large_sell_epzchibkrft8nfka.jpg",
+      "ocrConfidence": 56,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1997年,2盎司,年盎,盎司,司边,边企,企鹅,鹅金,金币"
+    }
+  ]
+}

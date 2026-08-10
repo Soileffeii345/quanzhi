@@ -1,0 +1,31 @@
+{
+  "coinName": "民国二十四年中央银行四川兑换券重庆地名拾圆",
+  "slug": "0afec863",
+  "saleCount": 1,
+  "keywords": "银,历史币,民国,国二,二十,十四,四年,年中,中央,央银,银行,行四,四川,川兑,兑换,换券,券重,重庆,庆地,地名,名拾,拾圆",
+  "priceStats": {
+    "low": 7900,
+    "high": 7900,
+    "avg": 7900,
+    "latest": 7900
+  },
+  "records": [
+    {
+      "coinName": "民国二十四年中央银行四川兑换券重庆地名拾圆",
+      "normalizedBoxCode": "2277872019",
+      "displayBoxCode": "2277872-019",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10369544.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2277872-019/",
+      "price": 7900,
+      "priceWithFee": 8769,
+      "transactedAt": "2026-07-16 21:21:40",
+      "productCode": "871031009",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国二,二十,十四,四年,年中,中央,央银,银行,行四,四川,川兑,兑换,换券,券重,重庆,庆地,地名,名拾,拾圆"
+    }
+  ]
+}

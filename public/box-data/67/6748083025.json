@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6748083025",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6748083025",
+      "displayBoxCode": "6748083-025",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2019年30克世界集邮展览银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/510948.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6748083-025/",
+      "price": 650,
+      "priceWithFee": null,
+      "transactedAt": "2025-12-14 14:35:04",
+      "productCode": "AA595112",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251106/large_sell_ki4vsivzohi7atx6.jpg",
+      "ocrConfidence": 32,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2019年,30克,年克,克世,世界,界集,集邮,邮展,展览,览银,银币"
+    }
+  ]
+}

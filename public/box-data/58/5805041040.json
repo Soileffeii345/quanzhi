@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "5805041040",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "5805041040",
+      "displayBoxCode": "5805041-040",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2000年滴水观音1/10盎司精制幻彩金币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10350685.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/5805041-040/70/",
+      "price": 3900,
+      "priceWithFee": 4036.5,
+      "transactedAt": "2026-06-25 21:14:05",
+      "productCode": "869116015",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/869116015A.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2000年,10盎司,宗教,年滴,滴水,水观,观音,音盎,盎司,司精,精制,制幻,幻彩,彩金,金币,评级"
+    }
+  ]
+}

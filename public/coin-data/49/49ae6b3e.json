@@ -1,0 +1,48 @@
+{
+  "coinName": "2005年生肖31.104克普制银币",
+  "slug": "49ae6b3e",
+  "saleCount": 2,
+  "keywords": "银,币,2005年,1盎司,生肖,年乙,乙酉,酉鸡,鸡年,年生,肖盎,盎司,司普,普制,制银,银币",
+  "priceStats": {
+    "low": 650,
+    "high": 720,
+    "avg": 685,
+    "latest": 650
+  },
+  "records": [
+    {
+      "coinName": "2005年乙酉鸡年生肖1盎司普制银币",
+      "normalizedBoxCode": "8752222057",
+      "displayBoxCode": "8752222-057",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10417134.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8752222-057/",
+      "price": 650,
+      "priceWithFee": 672.75,
+      "transactedAt": "2026-07-27 19:35:10",
+      "productCode": "877161003",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2005年,1盎司,生肖,年乙,乙酉,酉鸡,鸡年,年生,肖盎,盎司,司普,普制,制银,银币"
+    },
+    {
+      "coinName": "2005年乙酉鸡年生肖1盎司普制银币",
+      "normalizedBoxCode": "8752222059",
+      "displayBoxCode": "8752222-059",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10417135.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8752222-059/69/",
+      "price": 720,
+      "priceWithFee": 745.2,
+      "transactedAt": "2026-07-27 22:01:40",
+      "productCode": "877161004",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2005年,1盎司,生肖,年乙,乙酉,酉鸡,鸡年,年生,肖盎,盎司,司普,普制,制银,银币"
+    }
+  ]
+}

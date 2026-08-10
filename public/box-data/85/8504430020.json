@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8504430020",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8504430020",
+      "displayBoxCode": "8504430-020",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2004年乌克兰雅典奥运圣火62.2克幻彩银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/wgjsbizhang/10415180.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8504430-020/69/",
+      "price": 2050,
+      "priceWithFee": 2173,
+      "transactedAt": "2026-07-24 20:40:55",
+      "productCode": "876743008",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/876743008A.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2004年,62.2克,奥运,年乌,乌克,克兰,兰雅,雅典,典奥,运圣,圣火,火克,克幻,幻彩,彩银,银币"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "coinName": "2013年155.5克银币",
+  "slug": "6d438aa1",
+  "saleCount": 1,
+  "keywords": "银,币,2013年,155.5克,年白,白俄,俄罗,罗斯,斯芭,芭蕾,蕾舞,舞克,克银,银币,外国/特区",
+  "priceStats": {
+    "low": 5100,
+    "high": 5100,
+    "avg": 5100,
+    "latest": 5100
+  },
+  "records": [
+    {
+      "coinName": "2013年白俄罗斯芭蕾舞155.5克银币",
+      "normalizedBoxCode": "8504430018",
+      "displayBoxCode": "8504430-018",
+      "gradingCompany": "NGC",
+      "grade": "PF 68 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/wgjsbizhang/10415176.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8504430-018/68/",
+      "price": 5100,
+      "priceWithFee": 5406,
+      "transactedAt": "2026-07-24 20:40:05",
+      "productCode": "876743004",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2013年,155.5克,年白,白俄,俄罗,罗斯,斯芭,芭蕾,蕾舞,舞克,克银,银币,外国/特区"
+    }
+  ]
+}

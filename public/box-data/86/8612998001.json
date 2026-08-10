@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8612998001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8612998001",
+      "displayBoxCode": "8612998-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2025年国家宝藏（统一气象）15克长方形精制金币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10354369.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8612998-001/70/",
+      "price": 34000,
+      "priceWithFee": 35190,
+      "transactedAt": "2026-06-20 21:37:05",
+      "productCode": "869813002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/869813002A.jpg",
+      "ocrConfidence": 44,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2025年,15克,年国,国家,家宝,宝藏,藏统,统一,一气,气象,象克,克长,长方,方形,形精,精制,制金,金币,评级"
+    }
+  ]
+}

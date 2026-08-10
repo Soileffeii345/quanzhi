@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6190888079",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6190888079",
+      "displayBoxCode": "6190888-079",
+      "gradingCompany": "NGC",
+      "grade": "MS 70",
+      "coinName": "2022年3克熊猫金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/526441.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6190888-079/70/",
+      "price": 3600,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-05 08:09:45",
+      "productCode": "KH100832",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251231/large_sell_kibvuh6qrtjwppos.jpg",
+      "ocrConfidence": 44,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2022年,3克,熊猫,年克,克熊,猫金,金币"
+    }
+  ]
+}

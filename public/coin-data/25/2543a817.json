@@ -1,0 +1,65 @@
+{
+  "coinName": "2007年生肖3.11克金币",
+  "slug": "2543a817",
+  "saleCount": 3,
+  "keywords": "金,币,2007年,10盎司,生肖,年盎,盎司,司生,肖猪,猪彩,彩金,金币,猪金",
+  "priceStats": {
+    "low": 2120,
+    "high": 2165,
+    "avg": 2142,
+    "latest": 2165
+  },
+  "records": [
+    {
+      "coinName": "2007年1/10盎司生肖猪彩金币",
+      "normalizedBoxCode": "4418975002",
+      "displayBoxCode": "4418975-002",
+      "gradingCompany": "NGC",
+      "grade": "PF 68 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/468227.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4418975-002/68/",
+      "price": 2165,
+      "priceWithFee": null,
+      "transactedAt": "2025-03-14 12:04:57",
+      "productCode": "KH061041",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2007年,10盎司,生肖,年盎,盎司,司生,肖猪,猪彩,彩金,金币"
+    },
+    {
+      "coinName": "2007年1/10盎司生肖猪金币",
+      "normalizedBoxCode": "6334928006",
+      "displayBoxCode": "6334928-006",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/465026.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6334928-006/",
+      "price": 2120,
+      "priceWithFee": null,
+      "transactedAt": "2025-02-18 22:30:54",
+      "productCode": "KH059434",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2007年,10盎司,生肖,年盎,盎司,司生,肖猪,猪金,金币"
+    },
+    {
+      "coinName": "2007年1/10盎司生肖猪彩金币",
+      "normalizedBoxCode": "6335257055",
+      "displayBoxCode": "6335257-055",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/463793.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6335257-055/69/",
+      "price": 2140,
+      "priceWithFee": null,
+      "transactedAt": "2025-02-11 17:12:19",
+      "productCode": "AA550401",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2007年,10盎司,生肖,年盎,盎司,司生,肖猪,猪彩,彩金,金币"
+    }
+  ]
+}

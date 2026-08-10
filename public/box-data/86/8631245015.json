@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8631245015",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8631245015",
+      "displayBoxCode": "8631245-015",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1996年丙子鼠年生肖2/3盎司梅花形精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10360146.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8631245-015/69/",
+      "price": 1400,
+      "priceWithFee": 1449,
+      "transactedAt": "2026-06-29 21:00:35",
+      "productCode": "870148005",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/870148005A.jpg",
+      "ocrConfidence": 37,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1996年,3盎司,生肖,年丙,丙子,子鼠,鼠年,年生,肖盎,盎司,司梅,梅花,花形,形精,精制,制银,银币,评级"
+    }
+  ]
+}

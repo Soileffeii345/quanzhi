@@ -1,0 +1,45 @@
+{
+  "ok": true,
+  "query": "8619351047",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8619351047",
+      "displayBoxCode": "8619351-047",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2010年庚寅虎年生肖1盎司精制彩银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10394379.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8619351-047/69/",
+      "price": 770,
+      "priceWithFee": 796.95,
+      "transactedAt": "2026-07-20 19:34:40",
+      "productCode": "874570001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/874570001A.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2010年,1盎司,生肖,年庚,庚寅,寅虎,虎年,年生,肖盎,盎司,司精,精制,制彩,彩银,银币,评级"
+    },
+    {
+      "normalizedBoxCode": "8619351047",
+      "displayBoxCode": "8619351-047",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2010年庚寅虎年生肖1盎司精制彩银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10350689.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8619351-047/69/",
+      "price": 850,
+      "priceWithFee": 879.75,
+      "transactedAt": "2026-06-22 19:18:40",
+      "productCode": "869116019",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/869116019A.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2010年,1盎司,生肖,年庚,庚寅,寅虎,虎年,年生,肖盎,盎司,司精,精制,制彩,彩银,银币,评级"
+    }
+  ]
+}

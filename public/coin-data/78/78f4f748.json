@@ -1,0 +1,31 @@
+{
+  "coinName": "1996年15.552克精制银币",
+  "slug": "78f4f748",
+  "saleCount": 1,
+  "keywords": "银,币,1996年,2盎司,宗教,年观,观音,音盎,盎司,司精,精制,制银,银币,币二,二枚,枚一,一套,评级",
+  "priceStats": {
+    "low": 5800,
+    "high": 5800,
+    "avg": 5800,
+    "latest": 5800
+  },
+  "records": [
+    {
+      "coinName": "1996年观音1/2盎司精制银币二枚一套",
+      "normalizedBoxCode": "8757933005",
+      "displayBoxCode": "8757933-005",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10351235.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8757933-005/70/",
+      "price": 5800,
+      "priceWithFee": 6003,
+      "transactedAt": "2026-06-18 20:44:40",
+      "productCode": "869398019",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1996年,2盎司,宗教,年观,观音,音盎,盎司,司精,精制,制银,银币,币二,二枚,枚一,一套,评级"
+    }
+  ]
+}

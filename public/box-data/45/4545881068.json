@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4545881068",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4545881068",
+      "displayBoxCode": "4545881-068",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "coinName": "2009年1盎司熊猫银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/557621.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4545881-068/69/",
+      "price": 860,
+      "priceWithFee": null,
+      "transactedAt": "2026-03-05 16:56:55",
+      "productCode": "KH121786",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260301/large_sell_rrf7vteqameflmuz.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2009年,1盎司,熊猫,年盎,盎司,司熊,猫银,银币"
+    }
+  ]
+}

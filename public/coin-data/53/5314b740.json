@@ -1,0 +1,31 @@
+{
+  "coinName": "2016年生肖2盎司加厚银币",
+  "slug": "5314b740",
+  "saleCount": 1,
+  "keywords": "银,章,2016年,2盎司,生肖,年盎,盎司,司生,肖猴,猴加,加厚,厚银,银章",
+  "priceStats": {
+    "low": 1950,
+    "high": 1950,
+    "avg": 1950,
+    "latest": 1950
+  },
+  "records": [
+    {
+      "coinName": "2016年2盎司生肖猴加厚银章",
+      "normalizedBoxCode": "4314008027",
+      "displayBoxCode": "4314008-027",
+      "gradingCompany": "NGC",
+      "grade": "PF70",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/447613.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4314008-027/70/",
+      "price": 1950,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-31 07:30:28",
+      "productCode": "KH113871",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,章,2016年,2盎司,生肖,年盎,盎司,司生,肖猴,猴加,加厚,厚银,银章"
+    }
+  ]
+}

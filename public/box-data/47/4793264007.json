@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4793264007",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4793264007",
+      "displayBoxCode": "4793264-007",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1990年1/2盎司德国慕尼黑国际硬币展金章",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/464242.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4793264-007/69/",
+      "price": 10740,
+      "priceWithFee": null,
+      "transactedAt": "2025-02-13 23:24:23",
+      "productCode": "KH059165",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250213/large_sell_m2vs37of8helweef.jpg",
+      "ocrConfidence": 46,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,章,1990年,2盎司,年盎,盎司,司德,德国,国慕,慕尼,尼黑,黑国,国际,际硬,硬币,币展,展金,金章,外国/特区"
+    }
+  ]
+}

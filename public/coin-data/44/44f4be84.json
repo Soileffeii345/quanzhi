@@ -1,0 +1,31 @@
+{
+  "coinName": "2023年生肖150克精制金币",
+  "slug": "44f4be84",
+  "saleCount": 1,
+  "keywords": "金,币,2023年,150克,生肖,年癸,癸卯,卯兔,兔年,年生,肖克,克长,长方,方形,形精,精制,制金,金币,评级",
+  "priceStats": {
+    "low": 173000,
+    "high": 173000,
+    "avg": 173000,
+    "latest": 173000
+  },
+  "records": [
+    {
+      "coinName": "2023年癸卯兔年生肖150克长方形精制金币",
+      "normalizedBoxCode": "6728950001",
+      "displayBoxCode": "6728950-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-jin/10418885.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6728950-001/70/",
+      "price": 173000,
+      "priceWithFee": 179055,
+      "transactedAt": "2026-07-23 20:50:55",
+      "productCode": "877329002",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2023年,150克,生肖,年癸,癸卯,卯兔,兔年,年生,肖克,克长,长方,方形,形精,精制,制金,金币,评级"
+    }
+  ]
+}

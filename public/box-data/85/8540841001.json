@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8540841001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8540841001",
+      "displayBoxCode": "8540841-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 68 CAMEO",
+      "coinName": "1980年中国奥林匹克委员会-古代射艺12克加厚精制铜币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-tong/10397268.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8540841-001/68/",
+      "price": 3000,
+      "priceWithFee": 3105,
+      "transactedAt": "2026-07-16 20:24:15",
+      "productCode": "864771002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/864771002A.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "铜,币,1980年,12克,年中,中国,国奥,奥林,林匹,匹克,克委,委员,员会,会古,古代,代射,射艺,艺克,克加,加厚,厚精,精制,制铜,铜币,评级"
+    }
+  ]
+}

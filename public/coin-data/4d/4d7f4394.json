@@ -1,0 +1,31 @@
+{
+  "coinName": "1990年15克银币",
+  "slug": "4d7f4394",
+  "saleCount": 1,
+  "keywords": "银,币,1990年,15克,年克,克出,出土,土文,文物,物第,第组,组银,银币",
+  "priceStats": {
+    "low": 4500,
+    "high": 4500,
+    "avg": 4500,
+    "latest": 4500
+  },
+  "records": [
+    {
+      "coinName": "1990年15克出土文物第1组银币",
+      "normalizedBoxCode": "3549455002",
+      "displayBoxCode": "3549455-002",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/473141.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3549455-002/69/",
+      "price": 4500,
+      "priceWithFee": null,
+      "transactedAt": "2025-04-14 21:29:05",
+      "productCode": "AA558824.25.26.27",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1990年,15克,年克,克出,出土,土文,文物,物第,第组,组银,银币"
+    }
+  ]
+}

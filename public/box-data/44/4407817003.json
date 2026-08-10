@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4407817003",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4407817003",
+      "displayBoxCode": "4407817-003",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2011年1/4盎司清华大学建校100周年金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/482992.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4407817-003/",
+      "price": 6205,
+      "priceWithFee": null,
+      "transactedAt": "2025-06-12 08:48:46",
+      "productCode": "KH069136",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250612/large_sell_c9efjatz2kkqsgrp.jpg",
+      "ocrConfidence": 47,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2011年,4盎司,年盎,盎司,司清,清华,华大,大学,学建,建校,校周,周年,年金,金币"
+    }
+  ]
+}

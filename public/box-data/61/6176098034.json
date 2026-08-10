@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6176098034",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6176098034",
+      "displayBoxCode": "6176098-034",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1995年1盎司台湾光复50周年银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/537135.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6176098-034/69/",
+      "price": 8200,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-23 15:33:24",
+      "productCode": "AA614758.59",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260123/large_sell_umnqgd3zsbteoydx.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1995年,1盎司,年盎,盎司,司台,台湾,湾光,光复,复周,周年,年银,银币"
+    }
+  ]
+}

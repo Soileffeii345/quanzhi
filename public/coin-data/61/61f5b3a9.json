@@ -1,0 +1,31 @@
+{
+  "coinName": "民国二十年中国实业银行上海地名伍圆",
+  "slug": "61f5b3a9",
+  "saleCount": 1,
+  "keywords": "银,历史币,民国,国二,二十,十年,年中,中国,国实,实业,业银,银行,行上,上海,海地,地名,名伍,伍圆",
+  "priceStats": {
+    "low": 85,
+    "high": 85,
+    "avg": 85,
+    "latest": 85
+  },
+  "records": [
+    {
+      "coinName": "民国二十年中国实业银行上海地名伍圆",
+      "normalizedBoxCode": "2555277003",
+      "displayBoxCode": "2555277-003",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shangyeyinhangzhichao/10369699.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2555277-003/",
+      "price": 85,
+      "priceWithFee": 94.35,
+      "transactedAt": "2026-07-14 21:44:50",
+      "productCode": "866629002",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国二,二十,十年,年中,中国,国实,实业,业银,银行,行上,上海,海地,地名,名伍,伍圆"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "coinName": "香港政府拾分",
+  "slug": "550aceec",
+  "saleCount": 1,
+  "keywords": "香港,港政,政府,府拾,拾分,外国/特区",
+  "priceStats": {
+    "low": 350,
+    "high": 350,
+    "avg": 350,
+    "latest": 350
+  },
+  "records": [
+    {
+      "coinName": "香港政府拾分",
+      "normalizedBoxCode": "2159346020",
+      "displayBoxCode": "2159346-020",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xianggangzhichao/10410438.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2159346-020/",
+      "price": 350,
+      "priceWithFee": 388.5,
+      "transactedAt": "2026-07-21 19:13:20",
+      "productCode": "876073001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "香港,港政,政府,府拾,拾分,外国/特区"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4416091007",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4416091007",
+      "displayBoxCode": "4416091-007",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1995年27克徐悲鸿诞辰100周年银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/555508.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4416091-007/69/",
+      "price": 4400,
+      "priceWithFee": null,
+      "transactedAt": "2026-03-02 07:58:06",
+      "productCode": "KH121734",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260222/large_sell_ehqh8vnlghok2irg.jpg",
+      "ocrConfidence": 45,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1995年,27克,年克,克徐,徐悲,悲鸿,鸿诞,诞辰,辰周,周年,年银,银币"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6182168046",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6182168046",
+      "displayBoxCode": "6182168-046",
+      "gradingCompany": "NGC",
+      "grade": "PF 68 ULTRA CAMEO",
+      "coinName": "1999年中国精制硬币壹圆",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10358280.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6182168-046/68/",
+      "price": 540,
+      "priceWithFee": 583.2,
+      "transactedAt": "2026-06-24 20:42:05",
+      "productCode": "869724003",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/869724003A.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1999年,年中,中国,国精,精制,制硬,硬币,币壹,壹圆,评级"
+    }
+  ]
+}

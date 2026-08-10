@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8188209004",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8188209004",
+      "displayBoxCode": "8188209-004",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1996年1/2盎司观音银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/450176.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8188209-004/",
+      "price": 6500,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-12 16:21:27",
+      "productCode": "AA502677.78A",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20240926/large_sell_fszrbr9jh7oaypb4.jpg",
+      "ocrConfidence": 32,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1996年,2盎司,宗教,年盎,盎司,司观,观音,音银,银币"
+    }
+  ]
+}

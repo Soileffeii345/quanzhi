@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6202208058",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6202208058",
+      "displayBoxCode": "6202208-058",
+      "gradingCompany": "NGC",
+      "grade": "PF70 ULTRA CAMEO",
+      "coinName": "2003年1/3盎司春节金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/497785.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6202208-058/70/",
+      "price": 8500,
+      "priceWithFee": null,
+      "transactedAt": "2025-09-02 01:21:30",
+      "productCode": "KH080591",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250902/large_sell_flufreydr7qt9th5.jpg",
+      "ocrConfidence": 45,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2003年,3盎司,年盎,盎司,司春,春节,节金,金币"
+    }
+  ]
+}

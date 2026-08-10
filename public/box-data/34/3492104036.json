@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "3492104036",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "3492104036",
+      "displayBoxCode": "3492104-036",
+      "gradingCompany": "NGC",
+      "grade": "PF70",
+      "coinName": "2003年1/10盎司观音幻彩金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/538136.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3492104-036/70/",
+      "price": 3950,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-25 21:28:40",
+      "productCode": "KH113338",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260125/large_sell_ekvcpebuwvxar47c.jpg",
+      "ocrConfidence": 30,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2003年,10盎司,宗教,年盎,盎司,司观,观音,音幻,幻彩,彩金,金币"
+    }
+  ]
+}

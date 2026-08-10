@@ -1,0 +1,65 @@
+{
+  "coinName": "1990年生肖31.104克精制金币",
+  "slug": "3b996159",
+  "saleCount": 3,
+  "keywords": "金,币,1990年,1盎司,生肖,年庚,庚午,午马,马年,年生,肖盎,盎司,司精,精制,制金,金币,评级",
+  "priceStats": {
+    "low": 35000,
+    "high": 35500,
+    "avg": 35167,
+    "latest": 35500
+  },
+  "records": [
+    {
+      "coinName": "1990年庚午马年生肖1盎司精制金币",
+      "normalizedBoxCode": "4380164021",
+      "displayBoxCode": "4380164-021",
+      "gradingCompany": "NGC",
+      "grade": "PF69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-jin/10423020.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4380164-021/69/",
+      "price": 35500,
+      "priceWithFee": 36742.5,
+      "transactedAt": "2026-07-23 20:38:25",
+      "productCode": "877835005",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1990年,1盎司,生肖,年庚,庚午,午马,马年,年生,肖盎,盎司,司精,精制,制金,金币,评级"
+    },
+    {
+      "coinName": "1990年庚午马年生肖1盎司精制金币",
+      "normalizedBoxCode": "6149669015",
+      "displayBoxCode": "6149669-015",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-jin/10397601.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6149669-015/69/",
+      "price": 35000,
+      "priceWithFee": 36225,
+      "transactedAt": "2026-07-16 21:08:25",
+      "productCode": "874813007",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1990年,1盎司,生肖,年庚,庚午,午马,马年,年生,肖盎,盎司,司精,精制,制金,金币,评级"
+    },
+    {
+      "coinName": "1990年庚午马年生肖1盎司精制金币",
+      "normalizedBoxCode": "6194549006",
+      "displayBoxCode": "6194549-006",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-jin/10423021.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6194549-006/69/",
+      "price": 35000,
+      "priceWithFee": 36225,
+      "transactedAt": "2026-07-23 21:05:05",
+      "productCode": "877835006",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1990年,1盎司,生肖,年庚,庚午,午马,马年,年生,肖盎,盎司,司精,精制,制金,金币,评级"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2240914057",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2240914057",
+      "displayBoxCode": "2240914-057",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1920年希腊纸钞",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10371411.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2240914-057/",
+      "price": 100,
+      "priceWithFee": 111,
+      "transactedAt": "2026-07-07 21:37:05",
+      "productCode": "871451014",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/26/871451014B.jpg",
+      "ocrConfidence": 24,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,1920年,年希,希腊,腊纸,纸钞"
+    }
+  ]
+}

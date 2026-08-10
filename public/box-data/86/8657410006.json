@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8657410006",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8657410006",
+      "displayBoxCode": "8657410-006",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1974年澳门18克银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10416992.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8657410-006/",
+      "price": 130,
+      "priceWithFee": 134.55,
+      "transactedAt": "2026-07-27 21:24:40",
+      "productCode": "877160001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/877160001A.jpg",
+      "ocrConfidence": 44,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1974年,18克,年澳,澳门,门克,克银,银币,外国/特区"
+    }
+  ]
+}

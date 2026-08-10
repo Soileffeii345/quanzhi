@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8205688047",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8205688047",
+      "displayBoxCode": "8205688-047",
+      "gradingCompany": "NGC",
+      "grade": "MS 70",
+      "coinName": "2023年1克熊猫金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/498691.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8205688-047/70/",
+      "price": 1000,
+      "priceWithFee": null,
+      "transactedAt": "2025-09-09 08:12:32",
+      "productCode": "KH082431",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250906/large_sell_xy5k2dzfwycz6g82.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2023年,1克,熊猫,年克,克熊,猫金,金币"
+    }
+  ]
+}

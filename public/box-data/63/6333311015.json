@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6333311015",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6333311015",
+      "displayBoxCode": "6333311-015",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2015年5盎司伦敦奥运飞马银章",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/524597.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6333311-015/",
+      "price": 2965,
+      "priceWithFee": null,
+      "transactedAt": "2025-12-26 13:46:51",
+      "productCode": "KH098576",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251226/large_sell_9wnhexv1yujmablq.jpg",
+      "ocrConfidence": 32,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,章,2015年,5盎司,奥运,年盎,盎司,司伦,伦敦,敦奥,运飞,飞马,马银,银章"
+    }
+  ]
+}

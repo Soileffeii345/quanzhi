@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "87943280",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "87943280",
+      "displayBoxCode": "87943280",
+      "gradingCompany": "PCGS",
+      "grade": "MS70",
+      "coinName": "2022年30克熊猫银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/514352.html",
+      "officialCertUrl": "https://cn.pcgs.com/cert/87943280",
+      "price": 500,
+      "priceWithFee": null,
+      "transactedAt": "2025-12-20 17:02:12",
+      "productCode": "KH093899",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251123/large_sell_r0v3bygjkgx6bpuj.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2022年,30克,熊猫,年克,克熊,猫银,银币"
+    }
+  ]
+}

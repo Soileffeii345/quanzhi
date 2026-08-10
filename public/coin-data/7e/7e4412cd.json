@@ -1,0 +1,31 @@
+{
+  "coinName": "2001年银币",
+  "slug": "7e4412cd",
+  "saleCount": 1,
+  "keywords": "银,2001年,年香,香港,港渣,渣打,打银,银行,行伍,伍拾,拾圆,外国/特区",
+  "priceStats": {
+    "low": 160,
+    "high": 160,
+    "avg": 160,
+    "latest": 160
+  },
+  "records": [
+    {
+      "coinName": "2001年香港渣打银行伍拾圆",
+      "normalizedBoxCode": "2105409024",
+      "displayBoxCode": "2105409-024",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/liantichao-jinianchao/10395229.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2105409-024/",
+      "price": 160,
+      "priceWithFee": 172.8,
+      "transactedAt": "2026-07-14 20:00:35",
+      "productCode": "874351004",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,2001年,年香,香港,港渣,渣打,打银,银行,行伍,伍拾,拾圆,外国/特区"
+    }
+  ]
+}

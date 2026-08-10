@@ -1,0 +1,31 @@
+{
+  "coinName": "2024年吉祥文化15克银币",
+  "slug": "44ac9774",
+  "saleCount": 1,
+  "keywords": "银,币,2024年,15克,吉祥文化,年克,克吉,吉祥,祥文,文化,化十,十全,全十,十美,美银,银币",
+  "priceStats": {
+    "low": 380,
+    "high": 380,
+    "avg": 380,
+    "latest": 380
+  },
+  "records": [
+    {
+      "coinName": "2024年15克吉祥文化十全十美银币",
+      "normalizedBoxCode": "8180282002",
+      "displayBoxCode": "8180282-002",
+      "gradingCompany": "NGC",
+      "grade": "PF70",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/464160.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8180282-002/70/",
+      "price": 380,
+      "priceWithFee": null,
+      "transactedAt": "2025-03-17 09:57:37",
+      "productCode": "AA550741",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2024年,15克,吉祥文化,年克,克吉,吉祥,祥文,文化,化十,十全,全十,十美,美银,银币"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8659677026",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8659677026",
+      "displayBoxCode": "8659677-026",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2006年世界文化遗产-颐和园精制流通纪念币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10359853.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8659677-026/",
+      "price": 170,
+      "priceWithFee": 183.6,
+      "transactedAt": "2026-06-24 19:58:45",
+      "productCode": "869854039",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/26/869854039A.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2006年,年世,世界,界文,文化,化遗,遗产,产颐,颐和,和园,园精,精制,制流,流通,通纪,纪念,念币,评级"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2187076047",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2187076047",
+      "displayBoxCode": "2187076-047",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2000年中国珍禽-戴胜鸟1盎司精制彩银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10415020.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2187076-047/",
+      "price": 650,
+      "priceWithFee": 672.75,
+      "transactedAt": "2026-07-20 20:56:10",
+      "productCode": "876728016",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/876728016A.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2000年,1盎司,年中,中国,国珍,珍禽,禽戴,戴胜,胜鸟,鸟盎,盎司,司精,精制,制彩,彩银,银币,评级"
+    }
+  ]
+}

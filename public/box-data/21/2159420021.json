@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2159420021",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2159420021",
+      "displayBoxCode": "2159420-021",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "中央银行壹角",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10361810.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2159420-021/",
+      "price": 130,
+      "priceWithFee": 144.3,
+      "transactedAt": "2026-07-07 21:13:35",
+      "productCode": "870325020",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/870325020B.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,中央,央银,银行,行壹,壹角"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4316460012",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4316460012",
+      "displayBoxCode": "4316460-012",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2007年1盎司无锡锡山建筑鲁班奖金章",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/497123.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4316460-012/",
+      "price": 24535,
+      "priceWithFee": null,
+      "transactedAt": "2025-08-28 21:41:19",
+      "productCode": "KH080077",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250828/large_sell_wdqqeiz5fngcnor6.jpg",
+      "ocrConfidence": 39,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,章,2007年,1盎司,年盎,盎司,司无,无锡,锡锡,锡山,山建,建筑,筑鲁,鲁班,班奖,奖金,金章"
+    }
+  ]
+}

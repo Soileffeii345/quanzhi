@@ -1,0 +1,45 @@
+{
+  "ok": true,
+  "query": "5818652063",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "5818652063",
+      "displayBoxCode": "5818652-063",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2003年中国宝岛台湾-朝天宫精制流通纪念币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10387995.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/5818652-063/",
+      "price": 95,
+      "priceWithFee": 102.6,
+      "transactedAt": "2026-07-08 19:46:45",
+      "productCode": "873773003",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/869127011A.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2003年,年中,中国,国宝,宝岛,岛台,台湾,湾朝,朝天,天宫,宫精,精制,制流,流通,通纪,纪念,念币,评级"
+    },
+    {
+      "normalizedBoxCode": "5818652063",
+      "displayBoxCode": "5818652-063",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2003年中国宝岛台湾-朝天宫精制流通纪念币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10355204.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/5818652-063/",
+      "price": 130,
+      "priceWithFee": 140.4,
+      "transactedAt": "2026-06-24 20:12:05",
+      "productCode": "869127011",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/869127011A.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2003年,年中,中国,国宝,宝岛,岛台,台湾,湾朝,朝天,天宫,宫精,精制,制流,流通,通纪,纪念,念币,评级"
+    }
+  ]
+}

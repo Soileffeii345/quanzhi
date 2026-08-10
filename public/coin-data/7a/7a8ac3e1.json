@@ -1,0 +1,31 @@
+{
+  "coinName": "1987年熊猫31.104克精制金币",
+  "slug": "7a8ac3e1",
+  "saleCount": 1,
+  "keywords": "金,银,币,1987年,1盎司,熊猫,年熊,猫金,金币,币发,发行,行周,周年,年盎,盎司,司精,精制,制银,银币,评级",
+  "priceStats": {
+    "low": 3800,
+    "high": 3800,
+    "avg": 3800,
+    "latest": 3800
+  },
+  "records": [
+    {
+      "coinName": "1987年熊猫金币发行5周年1盎司精制银币",
+      "normalizedBoxCode": "8544088029",
+      "displayBoxCode": "8544088-029",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-jiuyin/10407542.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8544088-029/69/",
+      "price": 3800,
+      "priceWithFee": 3933,
+      "transactedAt": "2026-07-23 19:45:05",
+      "productCode": "875918017",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,1987年,1盎司,熊猫,年熊,猫金,金币,币发,发行,行周,周年,年盎,盎司,司精,精制,制银,银币,评级"
+    }
+  ]
+}

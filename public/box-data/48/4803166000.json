@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4803166000",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4803166000",
+      "displayBoxCode": "4803166-000",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2011年1/4盎司登封&quot;天地之中&quot;金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/531769.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4803166-000/70/",
+      "price": 8185,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-15 08:36:50",
+      "productCode": "KH106098",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260115/large_sell_oat5cbidksu63ebm.jpg",
+      "ocrConfidence": 49,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2011年,4盎司,年盎,盎司,司登,登封,封天,天地,地之,之中,中金,金币"
+    }
+  ]
+}

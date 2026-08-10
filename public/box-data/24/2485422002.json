@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2485422002",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2485422002",
+      "displayBoxCode": "2485422-002",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "第三版人民币10元",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/disanbanrenminbi/10379597.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2485422-002/",
+      "price": 800,
+      "priceWithFee": 864,
+      "transactedAt": "2026-07-14 20:13:50",
+      "productCode": "871530007",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/27/871530007B.jpg",
+      "ocrConfidence": 27,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,第三,三版,版人,人民,民币,币元"
+    }
+  ]
+}

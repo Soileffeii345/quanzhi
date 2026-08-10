@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6185728013",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6185728013",
+      "displayBoxCode": "6185728-013",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2003年中国宝岛台湾-朝天宫精制流通纪念币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10402702.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6185728-013/",
+      "price": 380,
+      "priceWithFee": 410.4,
+      "transactedAt": "2026-07-22 20:44:15",
+      "productCode": "875481004",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/16/855195005A.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2003年,年中,中国,国宝,宝岛,岛台,台湾,湾朝,朝天,天宫,宫精,精制,制流,流通,通纪,纪念,念币,评级"
+    }
+  ]
+}

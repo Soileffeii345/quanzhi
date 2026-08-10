@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2486161009",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2486161009",
+      "displayBoxCode": "2486161-009",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "民国三十一年中央银行贰拾圆",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10374655.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2486161-009/",
+      "price": 240,
+      "priceWithFee": 266.4,
+      "transactedAt": "2026-07-14 21:17:35",
+      "productCode": "871426003",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/26/871426003B.jpg",
+      "ocrConfidence": 31,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国三,三十,十一,一年,年中,中央,央银,银行,行贰,贰拾,拾圆"
+    }
+  ]
+}

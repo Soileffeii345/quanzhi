@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8180897035",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8180897035",
+      "displayBoxCode": "8180897-035",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2019年8克建国70周年金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/470388.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8180897-035/",
+      "price": 6105,
+      "priceWithFee": null,
+      "transactedAt": "2025-04-03 14:10:58",
+      "productCode": "AA556518",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250327/large_sell_5dmnxsbdtf9jidae.jpg",
+      "ocrConfidence": 39,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2019年,8克,重大事件,年克,克建,建国,国周,周年,年金,金币"
+    }
+  ]
+}

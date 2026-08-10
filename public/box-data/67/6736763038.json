@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6736763038",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6736763038",
+      "displayBoxCode": "6736763-038",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1999年1/2盎司澳门回归第3组金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/523736.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6736763-038/",
+      "price": 15850,
+      "priceWithFee": null,
+      "transactedAt": "2025-12-23 11:36:18",
+      "productCode": "KH097340",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251223/large_sell_fwdvuqhjhm7ax971.jpg",
+      "ocrConfidence": 51,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1999年,2盎司,年盎,盎司,司澳,澳门,门回,回归,归第,第组,组金,金币,外国/特区"
+    }
+  ]
+}

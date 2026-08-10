@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6202823045",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6202823045",
+      "displayBoxCode": "6202823-045",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1992年27克世界文化名人第3组柴科夫斯基银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/476090.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6202823-045/69/",
+      "price": 480,
+      "priceWithFee": null,
+      "transactedAt": "2025-08-02 23:46:54",
+      "productCode": "KH077487",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250501/large_sell_tknykpb0mesv6gst.jpg",
+      "ocrConfidence": 56,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1992年,27克,年克,克世,世界,界文,文化,化名,名人,人第,第组,组柴,柴科,科夫,夫斯,斯基,基银,银币"
+    }
+  ]
+}

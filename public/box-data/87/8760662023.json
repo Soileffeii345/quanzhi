@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8760662023",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8760662023",
+      "displayBoxCode": "8760662-023",
+      "gradingCompany": "NGC",
+      "grade": "PF67 ULTRA CAMEO",
+      "coinName": "1997年中国传统文化第（2）组-成吉思汗22克精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10351425.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8760662-023/67/",
+      "price": 670,
+      "priceWithFee": 693.45,
+      "transactedAt": "2026-06-22 20:20:40",
+      "productCode": "869274003",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/869274003A.jpg",
+      "ocrConfidence": 37,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1997年,22克,年中,中国,国传,传统,统文,文化,化第,第组,组成,成吉,吉思,思汗,汗克,克精,精制,制银,银币,评级"
+    }
+  ]
+}

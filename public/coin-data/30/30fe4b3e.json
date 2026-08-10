@@ -1,0 +1,31 @@
+{
+  "coinName": "1994年希望工程流通纪念币",
+  "slug": "30fe4b3e",
+  "saleCount": 1,
+  "keywords": "币,1994年,年希,希望,望工,工程,程流,流通,通纪,纪念,念币",
+  "priceStats": {
+    "low": 50,
+    "high": 50,
+    "avg": 50,
+    "latest": 50
+  },
+  "records": [
+    {
+      "coinName": "1994年希望工程流通纪念币",
+      "normalizedBoxCode": "6394848030",
+      "displayBoxCode": "6394848-030",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10417594.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6394848-030/",
+      "price": 50,
+      "priceWithFee": 54,
+      "transactedAt": "2026-07-22 20:18:25",
+      "productCode": "877052006",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1994年,年希,希望,望工,工程,程流,流通,通纪,纪念,念币"
+    }
+  ]
+}

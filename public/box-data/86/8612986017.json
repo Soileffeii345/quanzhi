@@ -1,0 +1,45 @@
+{
+  "ok": true,
+  "query": "8612986017",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8612986017",
+      "displayBoxCode": "8612986-017",
+      "gradingCompany": "NGC",
+      "grade": "PF70 ULTRA CAMEO",
+      "coinName": "2025年乙巳蛇年生肖15克精制铂金币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-bojin/10405588.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8612986-017/70/",
+      "price": 7100,
+      "priceWithFee": 7348.5,
+      "transactedAt": "2026-07-16 21:26:45",
+      "productCode": "875858001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/870081003A.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,贵金属,币,2025年,15克,生肖,年乙,乙巳,巳蛇,蛇年,年生,肖克,克精,精制,制铂,铂金,金币,评级"
+    },
+    {
+      "normalizedBoxCode": "8612986017",
+      "displayBoxCode": "8612986-017",
+      "gradingCompany": "NGC",
+      "grade": "PF70 ULTRA CAMEO",
+      "coinName": "2025年乙巳蛇年生肖15克精制铂金币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-bojin/10358636.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8612986-017/70/",
+      "price": 8000,
+      "priceWithFee": 8280,
+      "transactedAt": "2026-06-25 20:31:05",
+      "productCode": "870081003",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/870081003A.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,贵金属,币,2025年,15克,生肖,年乙,乙巳,巳蛇,蛇年,年生,肖克,克精,精制,制铂,铂金,金币,评级"
+    }
+  ]
+}

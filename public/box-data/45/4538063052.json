@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4538063052",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4538063052",
+      "displayBoxCode": "4538063-052",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2016年丙申猴年生肖精制彩金银币二枚一套（含1/10盎司金、1盎司银）",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-jin/10398827.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4538063-052/70/",
+      "price": 3650,
+      "priceWithFee": 3777.75,
+      "transactedAt": "2026-07-16 21:01:45",
+      "productCode": "874356017",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/874356017A.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,2016年,10盎司,生肖,年丙,丙申,申猴,猴年,年生,肖精,精制,制彩,彩金,金银,银币,币二,二枚,枚一,一套,套含,含盎,盎司,司金,金盎,司银,评级"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6755778015",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6755778015",
+      "displayBoxCode": "6755778-015",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2004年1/3盎司元宵节彩金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/469087.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6755778-015/",
+      "price": 7480,
+      "priceWithFee": null,
+      "transactedAt": "2025-03-19 15:24:51",
+      "productCode": "KH061589",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250319/large_sell_6dtnigpwecgrjgs1.jpg",
+      "ocrConfidence": 47,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2004年,3盎司,年盎,盎司,司元,元宵,宵节,节彩,彩金,金币"
+    }
+  ]
+}

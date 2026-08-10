@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2151183067",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2151183067",
+      "displayBoxCode": "2151183-067",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "第三版人民币1元五星水印、1角红冠3罗马凸版各一枚，共二枚",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/disanbanrenminbi/10425740.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2151183-067/",
+      "price": 260,
+      "priceWithFee": 280.8,
+      "transactedAt": "2026-07-25 21:21:40",
+      "productCode": "877881001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/877881001B.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,第三,三版,版人,人民,民币,币元,元五,五星,星水,水印,印角,角红,红冠,冠罗,罗马,马凸,凸版,版各,各一,一枚,枚共,共二,二枚"
+    }
+  ]
+}

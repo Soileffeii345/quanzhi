@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8657596049",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8657596049",
+      "displayBoxCode": "8657596-049",
+      "gradingCompany": "NGC",
+      "grade": "PF 68 ULTRA CAMEO",
+      "coinName": "2006年世界文化遗产-龙门石窟、颐和园精制流通纪念币各一枚",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10376521.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8657596-049/68/",
+      "price": 290,
+      "priceWithFee": 313.2,
+      "transactedAt": "2026-07-01 20:09:35",
+      "productCode": "871769004",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/26/871769004A.jpg",
+      "ocrConfidence": 42,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2006年,年世,世界,界文,文化,化遗,遗产,产龙,龙门,门石,石窟,窟颐,颐和,和园,园精,精制,制流,流通,通纪,纪念,念币,币各,各一,一枚,评级"
+    }
+  ]
+}

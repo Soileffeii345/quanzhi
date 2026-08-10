@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4317800006",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4317800006",
+      "displayBoxCode": "4317800-006",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1992年20克历史人物第9组郑成功银币(UC)",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/515156.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4317800-006/69/",
+      "price": 880,
+      "priceWithFee": null,
+      "transactedAt": "2025-12-28 22:51:02",
+      "productCode": "AA598911",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251127/large_sell_btzqbssxzjow5kym.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1992年,20克,年克,克历,历史,史人,人物,物第,第组,组郑,郑成,成功,功银,银币"
+    }
+  ]
+}

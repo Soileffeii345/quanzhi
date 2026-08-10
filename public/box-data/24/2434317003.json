@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2434317003",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2434317003",
+      "displayBoxCode": "2434317-003",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "民国三十七年北海银行伍佰圆",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jiefangquzhichao/10371387.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2434317-003/",
+      "price": 1240,
+      "priceWithFee": 1376.4,
+      "transactedAt": "2026-07-23 20:41:10",
+      "productCode": "871162004",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/26/871162004B.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国三,三十,十七,七年,年北,北海,海银,银行,行伍,伍佰,佰圆"
+    }
+  ]
+}

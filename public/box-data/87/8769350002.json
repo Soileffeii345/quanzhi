@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8769350002",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8769350002",
+      "displayBoxCode": "8769350-002",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2026年吉祥文化30克心形精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10353200.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8769350-002/69/",
+      "price": 920,
+      "priceWithFee": 952.2,
+      "transactedAt": "2026-06-20 20:09:35",
+      "productCode": "869141004",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/869141004A.jpg",
+      "ocrConfidence": 47,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2026年,30克,吉祥文化,年吉,吉祥,祥文,文化,化克,克心,心形,形精,精制,制银,银币,评级"
+    }
+  ]
+}

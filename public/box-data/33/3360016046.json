@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "3360016046",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "3360016046",
+      "displayBoxCode": "3360016-046",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2000年1盎司熊猫金币(光圈版)",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/485171.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3360016-046/",
+      "price": 28800,
+      "priceWithFee": null,
+      "transactedAt": "2025-06-25 21:58:30",
+      "productCode": "AA569651",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250624/large_sell_clmgok5lrqyisldl.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2000年,1盎司,熊猫,年盎,盎司,司熊,猫金,金币,币光,光圈,圈版"
+    }
+  ]
+}

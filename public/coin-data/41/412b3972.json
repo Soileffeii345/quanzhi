@@ -1,0 +1,31 @@
+{
+  "coinName": "1990年熊猫15.552克普制金币",
+  "slug": "412b3972",
+  "saleCount": 1,
+  "keywords": "金,币,1990年,2盎司,熊猫,年熊,猫盎,盎司,司普,普制,制金,金币,币大,大字,字版",
+  "priceStats": {
+    "low": 14200,
+    "high": 14200,
+    "avg": 14200,
+    "latest": 14200
+  },
+  "records": [
+    {
+      "coinName": "1990年熊猫1/2盎司普制金币（大字版）",
+      "normalizedBoxCode": "8757500002",
+      "displayBoxCode": "8757500-002",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-jiujin/10407534.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8757500-002/",
+      "price": 14200,
+      "priceWithFee": 14697,
+      "transactedAt": "2026-07-23 20:23:25",
+      "productCode": "875918009",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1990年,2盎司,熊猫,年熊,猫盎,盎司,司普,普制,制金,金币,币大,大字,字版"
+    }
+  ]
+}

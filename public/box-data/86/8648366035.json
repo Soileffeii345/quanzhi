@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8648366035",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8648366035",
+      "displayBoxCode": "8648366-035",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2011年1/4盎司辛亥革命100周年金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/537502.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8648366-035/",
+      "price": 8860,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-24 09:48:26",
+      "productCode": "KH112195",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260124/large_sell_bghcwi6bacbp34uf.jpg",
+      "ocrConfidence": 51,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2011年,4盎司,年盎,盎司,司辛,辛亥,亥革,革命,命周,周年,年金,金币"
+    }
+  ]
+}

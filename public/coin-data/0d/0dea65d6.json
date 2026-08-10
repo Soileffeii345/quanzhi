@@ -1,0 +1,31 @@
+{
+  "coinName": "江南省造甲辰光绪元宝库平七钱二分银元",
+  "slug": "0dea65d6",
+  "saleCount": 1,
+  "keywords": "银,历史币,龙洋,龙,元宝,江南,江南造,南省,省造,造甲,甲辰,辰光,光绪,绪元,宝库,库平,平七,七钱,钱二,二分,分银,银元",
+  "priceStats": {
+    "low": 3650,
+    "high": 3650,
+    "avg": 3650,
+    "latest": 3650
+  },
+  "records": [
+    {
+      "coinName": "江南省造甲辰光绪元宝库平七钱二分银元",
+      "normalizedBoxCode": "89733201",
+      "displayBoxCode": "89733201",
+      "gradingCompany": "PCGS",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguojindaijizhibi/10373599.shtml",
+      "officialCertUrl": "https://cn.pcgs.com/cert/89733201",
+      "price": 3650,
+      "priceWithFee": 3942,
+      "transactedAt": "2026-07-20 20:50:05",
+      "productCode": "871433018",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,龙洋,龙,元宝,江南,江南造,南省,省造,造甲,甲辰,辰光,光绪,绪元,宝库,库平,平七,七钱,钱二,二分,分银,银元"
+    }
+  ]
+}

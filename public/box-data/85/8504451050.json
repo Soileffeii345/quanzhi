@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8504451050",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8504451050",
+      "displayBoxCode": "8504451-050",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1988年中国人民银行成立40周年精制流通纪念币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10401070.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8504451-050/",
+      "price": 4250,
+      "priceWithFee": 4590,
+      "transactedAt": "2026-07-15 22:13:15",
+      "productCode": "875135001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/875135001A.jpg",
+      "ocrConfidence": 38,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1988年,年中,中国,国人,人民,民银,银行,行成,成立,立周,周年,年精,精制,制流,流通,通纪,纪念,念币,评级"
+    }
+  ]
+}

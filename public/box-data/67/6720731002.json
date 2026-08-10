@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6720731002",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6720731002",
+      "displayBoxCode": "6720731-002",
+      "gradingCompany": "NGC",
+      "grade": "PF 67 ULTRA CAMEO",
+      "coinName": "2000年5盎司扇形红楼梦第1组彩银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/538010.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6720731-002/67/",
+      "price": 4600,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-27 00:57:48",
+      "productCode": "KH113027",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260125/large_sell_utztmxhijj80pgrn.jpg",
+      "ocrConfidence": 39,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2000年,5盎司,年盎,盎司,司扇,扇形,形红,红楼,楼梦,梦第,第组,组彩,彩银,银币"
+    }
+  ]
+}

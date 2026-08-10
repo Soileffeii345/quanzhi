@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2400758013",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2400758013",
+      "displayBoxCode": "2400758-013",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1989年毛里塔尼亚纸币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10372893.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2400758-013/",
+      "price": 190,
+      "priceWithFee": 210.9,
+      "transactedAt": "2026-06-30 22:42:05",
+      "productCode": "871226067",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/26/871226067B.JPG",
+      "ocrConfidence": 28,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1989年,年毛,毛里,里塔,塔尼,尼亚,亚纸,纸币"
+    }
+  ]
+}

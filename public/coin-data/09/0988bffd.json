@@ -1,0 +1,65 @@
+{
+  "coinName": "1998年2盎司银币",
+  "slug": "0988bffd",
+  "saleCount": 3,
+  "keywords": "银,币,1998年,2盎司,年盎,盎司,司方,方形,形香,香港,港新,新貌,貌银,银币,外国/特区",
+  "priceStats": {
+    "low": 4300,
+    "high": 4300,
+    "avg": 4300,
+    "latest": 4300
+  },
+  "records": [
+    {
+      "coinName": "1998年2盎司方形香港新貌银币",
+      "normalizedBoxCode": "6716333014",
+      "displayBoxCode": "6716333-014",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/451514.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6716333-014/",
+      "price": 4300,
+      "priceWithFee": null,
+      "transactedAt": "2024-10-26 12:16:38",
+      "productCode": "AA505216.17.18.19",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1998年,2盎司,年盎,盎司,司方,方形,形香,香港,港新,新貌,貌银,银币,外国/特区"
+    },
+    {
+      "coinName": "1998年2盎司方形香港新貌银币",
+      "normalizedBoxCode": "6716335016",
+      "displayBoxCode": "6716335-016",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/451514.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6716335-016/69/",
+      "price": 4300,
+      "priceWithFee": null,
+      "transactedAt": "2024-10-26 12:16:38",
+      "productCode": "AA505216.17.18.19",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1998年,2盎司,年盎,盎司,司方,方形,形香,香港,港新,新貌,貌银,银币,外国/特区"
+    },
+    {
+      "coinName": "1998年2盎司方形香港新貌银币",
+      "normalizedBoxCode": "6719170018",
+      "displayBoxCode": "6719170-018",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/451514.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6719170-018/69/",
+      "price": 4300,
+      "priceWithFee": null,
+      "transactedAt": "2024-10-26 12:16:38",
+      "productCode": "AA505216.17.18.19",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1998年,2盎司,年盎,盎司,司方,方形,形香,香港,港新,新貌,貌银,银币,外国/特区"
+    }
+  ]
+}

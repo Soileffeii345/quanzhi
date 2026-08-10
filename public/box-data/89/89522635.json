@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "89522635",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "89522635",
+      "displayBoxCode": "89522635",
+      "gradingCompany": "PCGS",
+      "grade": "MS63",
+      "coinName": "机制光绪通宝（宝福）",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguojindaijizhibi/10361721.shtml",
+      "officialCertUrl": "https://cn.pcgs.com/cert/89522635",
+      "price": 480,
+      "priceWithFee": 518.4,
+      "transactedAt": "2026-07-13 21:08:45",
+      "productCode": "870156025",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/870156025A.JPG",
+      "ocrConfidence": 32,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "历史币,机制,制光,光绪,绪通,通宝,宝宝,宝福"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "ok": true,
+  "query": "8509768016",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8509768016",
+      "displayBoxCode": "8509768-016",
+      "gradingCompany": "NGC",
+      "grade": "PF 69",
+      "coinName": "2021年8克建党100周年天安门金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/523597.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8509768-016/69/",
+      "price": 8010,
+      "priceWithFee": null,
+      "transactedAt": "2025-12-22 17:58:14",
+      "productCode": "KH097209",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251222/large_sell_3dbdxk2bmvspzf7h.jpg",
+      "ocrConfidence": 50,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2021年,8克,重大事件,年克,克建,建党,党周,周年,年天,天安,安门,门金,金币"
+    },
+    {
+      "normalizedBoxCode": "8509768016",
+      "displayBoxCode": "8509768-016",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2021年8克建党100周年天安门金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/502250.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8509768-016/69/",
+      "price": 6870,
+      "priceWithFee": null,
+      "transactedAt": "2025-09-24 00:23:06",
+      "productCode": "KH084760",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250924/large_sell_5cmywutg3z4ncpci.jpg",
+      "ocrConfidence": 49,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2021年,8克,重大事件,年克,克建,建党,党周,周年,年天,天安,安门,门金,金币"
+    }
+  ]
+}

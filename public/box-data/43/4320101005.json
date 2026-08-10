@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4320101005",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4320101005",
+      "displayBoxCode": "4320101-005",
+      "gradingCompany": "NGC",
+      "grade": "MS 67",
+      "coinName": "1987年六运会流通纪念币三枚一套",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10383406.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4320101-005/67/",
+      "price": 1040,
+      "priceWithFee": 1123.2,
+      "transactedAt": "2026-07-08 19:42:45",
+      "productCode": "871833005",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/27/871833005A.jpg",
+      "ocrConfidence": 40,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1987年,年六,六运,运会,会流,流通,通纪,纪念,念币,币三,三枚,枚一,一套"
+    }
+  ]
+}

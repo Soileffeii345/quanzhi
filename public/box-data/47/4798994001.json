@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4798994001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4798994001",
+      "displayBoxCode": "4798994-001",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "coinName": "2018年貔貅镶嵌铜章(80)",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/586798.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4798994-001/69/",
+      "price": 700,
+      "priceWithFee": null,
+      "transactedAt": "2026-06-03 20:42:21",
+      "productCode": "KH137478",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260603/large_sell_snujrwtcy3xs2r2y.jpg",
+      "ocrConfidence": 41,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "铜,章,2018年,年貔,貔貅,貅镶,镶嵌,嵌铜,铜章"
+    }
+  ]
+}

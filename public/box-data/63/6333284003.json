@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6333284003",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6333284003",
+      "displayBoxCode": "6333284-003",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2016年1公斤大足石刻银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/493546.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6333284-003/70/",
+      "price": 11400,
+      "priceWithFee": null,
+      "transactedAt": "2025-08-14 13:39:31",
+      "productCode": "DB201115",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250808/large_sell_aw2xmjuizvinrlcg.jpg",
+      "ocrConfidence": 31,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2016年,1公斤,年公,公斤,斤大,大足,足石,石刻,刻银,银币"
+    }
+  ]
+}

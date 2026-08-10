@@ -1,0 +1,45 @@
+{
+  "ok": true,
+  "query": "8819628003",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8819628003",
+      "displayBoxCode": "8819628-003",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2026年武夷山国家公园流通纪念币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10416479.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8819628-003/",
+      "price": 1400,
+      "priceWithFee": 1512,
+      "transactedAt": "2026-07-22 19:03:25",
+      "productCode": "877133001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/27/872422001A.jpg",
+      "ocrConfidence": 37,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2026年,名山,年武,武夷,夷山,山国,国家,家公,公园,园流,流通,通纪,纪念,念币"
+    },
+    {
+      "normalizedBoxCode": "8819628003",
+      "displayBoxCode": "8819628-003",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2026年武夷山国家公园流通纪念币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10383408.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8819628-003/",
+      "price": 2800,
+      "priceWithFee": 3024,
+      "transactedAt": "2026-07-08 19:14:45",
+      "productCode": "872422001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/27/872422001A.jpg",
+      "ocrConfidence": 37,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2026年,名山,年武,武夷,夷山,山国,国家,家公,公园,园流,流通,通纪,纪念,念币"
+    }
+  ]
+}

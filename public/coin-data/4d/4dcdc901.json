@@ -1,0 +1,31 @@
+{
+  "coinName": "2011年28.28克银币",
+  "slug": "4dcdc901",
+  "saleCount": 1,
+  "keywords": "银,币,2011年,28.28克,年吉,吉尔,尔吉,吉斯,斯斯,斯坦,坦历,历史,史事,事件,件波,波别,别达,达峰,峰克,克银,银币",
+  "priceStats": {
+    "low": 830,
+    "high": 830,
+    "avg": 830,
+    "latest": 830
+  },
+  "records": [
+    {
+      "coinName": "2011年吉尔吉斯斯坦历史事件波别达峰28.28克银币",
+      "normalizedBoxCode": "8504637041",
+      "displayBoxCode": "8504637-041",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/wgjsbizhang/10365719.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8504637-041/69/",
+      "price": 830,
+      "priceWithFee": 879.8,
+      "transactedAt": "2026-06-26 20:17:15",
+      "productCode": "870452025",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2011年,28.28克,年吉,吉尔,尔吉,吉斯,斯斯,斯坦,坦历,历史,史事,事件,件波,波别,别达,达峰,峰克,克银,银币"
+    }
+  ]
+}

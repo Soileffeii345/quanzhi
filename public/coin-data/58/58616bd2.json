@@ -1,0 +1,31 @@
+{
+  "coinName": "民国30年交通银行拾圆",
+  "slug": "58616bd2",
+  "saleCount": 1,
+  "keywords": "银,历史币,民国,国年,年交,交通,通银,银行,行拾,拾圆",
+  "priceStats": {
+    "low": 2450,
+    "high": 2450,
+    "avg": 2450,
+    "latest": 2450
+  },
+  "records": [
+    {
+      "coinName": "民国30年交通银行拾圆",
+      "normalizedBoxCode": "2487306003",
+      "displayBoxCode": "2487306-003",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10361785.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2487306-003/",
+      "price": 2450,
+      "priceWithFee": 2719.5,
+      "transactedAt": "2026-07-09 19:44:40",
+      "productCode": "869632005",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国年,年交,交通,通银,银行,行拾,拾圆"
+    }
+  ]
+}

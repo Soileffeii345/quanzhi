@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6743769005",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6743769005",
+      "displayBoxCode": "6743769-005",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1998年1/2盎司方形桂林山水南溪山金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/426137.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6743769-005/",
+      "price": 18800,
+      "priceWithFee": null,
+      "transactedAt": "2024-04-24 21:46:32",
+      "productCode": "AA472864",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20240411/large_sell_ffevtavxpc2yasrr.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1998年,2盎司,年盎,盎司,司方,方形,形桂,桂林,林山,山水,水南,南溪,溪山,山金,金币"
+    }
+  ]
+}

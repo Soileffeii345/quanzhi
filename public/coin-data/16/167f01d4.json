@@ -1,0 +1,31 @@
+{
+  "coinName": "2013年熊猫1公斤银币",
+  "slug": "167f01d4",
+  "saleCount": 1,
+  "keywords": "银,币,2013年,1公斤,熊猫,年公,公斤,斤熊,猫银,银币",
+  "priceStats": {
+    "low": 11000,
+    "high": 11000,
+    "avg": 11000,
+    "latest": 11000
+  },
+  "records": [
+    {
+      "coinName": "2013年1公斤熊猫银币",
+      "normalizedBoxCode": "3806008001",
+      "displayBoxCode": "3806008-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/477804.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3806008-001/70/",
+      "price": 11000,
+      "priceWithFee": null,
+      "transactedAt": "2025-05-15 23:24:30",
+      "productCode": "KH066578",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2013年,1公斤,熊猫,年公,公斤,斤熊,猫银,银币"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "coinName": "1993年20盎司金币",
+  "slug": "2853af37",
+  "saleCount": 2,
+  "keywords": "金,币,1993年,20盎司,宗教,年盎,盎司,司观,观音,音金,金币",
+  "priceStats": {
+    "low": 1405,
+    "high": 1650,
+    "avg": 1528,
+    "latest": 1650
+  },
+  "records": [
+    {
+      "coinName": "1993年1/20盎司观音金币",
+      "normalizedBoxCode": "6755732056",
+      "displayBoxCode": "6755732-056",
+      "gradingCompany": "NGC",
+      "grade": "MS 68",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/522879.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6755732-056/68/",
+      "price": 1650,
+      "priceWithFee": null,
+      "transactedAt": "2025-12-20 02:24:35",
+      "productCode": "AA593259A",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1993年,20盎司,宗教,年盎,盎司,司观,观音,音金,金币"
+    },
+    {
+      "coinName": "1993年1/20盎司观音金币",
+      "normalizedBoxCode": "6755732056",
+      "displayBoxCode": "6755732-056",
+      "gradingCompany": "NGC",
+      "grade": "MS 68",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/509116.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6755732-056/68/",
+      "price": 1405,
+      "priceWithFee": null,
+      "transactedAt": "2025-10-29 14:13:08",
+      "productCode": "AA593259",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1993年,20盎司,宗教,年盎,盎司,司观,观音,音金,金币"
+    }
+  ]
+}

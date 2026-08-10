@@ -1,0 +1,31 @@
+{
+  "coinName": "2013年31.104克精制铜币",
+  "slug": "2512a61e",
+  "saleCount": 1,
+  "keywords": "银,铜,币,2013年,1盎司,年中,中国,国青,青铜,铜器,器第,第组,组盎,盎司,司精,精制,制银,银币,评级",
+  "priceStats": {
+    "low": 900,
+    "high": 900,
+    "avg": 900,
+    "latest": 900
+  },
+  "records": [
+    {
+      "coinName": "2013年中国青铜器第（2）组1盎司精制银币",
+      "normalizedBoxCode": "6163290006",
+      "displayBoxCode": "6163290-006",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10383398.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6163290-006/70/",
+      "price": 900,
+      "priceWithFee": 931.5,
+      "transactedAt": "2026-07-06 19:46:20",
+      "productCode": "871831017",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,铜,币,2013年,1盎司,年中,中国,国青,青铜,铜器,器第,第组,组盎,盎司,司精,精制,制银,银币,评级"
+    }
+  ]
+}

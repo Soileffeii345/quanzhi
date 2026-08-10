@@ -1,0 +1,31 @@
+{
+  "coinName": "1927年铜币",
+  "slug": "49e79609",
+  "saleCount": 1,
+  "keywords": "铜,章,1927年,年比,比利,利时,时克,克莱,莱顿,顿船,船舶,舶海,海事,事方,方形,形铜,铜章,外国/特区",
+  "priceStats": {
+    "low": 480,
+    "high": 480,
+    "avg": 480,
+    "latest": 480
+  },
+  "records": [
+    {
+      "coinName": "1927年比利时克莱顿船舶海事方形铜章",
+      "normalizedBoxCode": "8619194010",
+      "displayBoxCode": "8619194-010",
+      "gradingCompany": "NGC",
+      "grade": "MS 62",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianbi/10424733.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8619194-010/62/",
+      "price": 480,
+      "priceWithFee": 532.8,
+      "transactedAt": "2026-07-24 20:26:45",
+      "productCode": "877433009",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "铜,章,1927年,年比,比利,利时,时克,克莱,莱顿,顿船,船舶,舶海,海事,事方,方形,形铜,铜章,外国/特区"
+    }
+  ]
+}

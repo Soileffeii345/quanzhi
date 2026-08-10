@@ -1,0 +1,31 @@
+{
+  "coinName": "2026年20克银币",
+  "slug": "6eb62f59",
+  "saleCount": 1,
+  "keywords": "银,币,2026年,20克,年库,库克,克群,群岛,岛克,克银,银币",
+  "priceStats": {
+    "low": 1060,
+    "high": 1060,
+    "avg": 1060,
+    "latest": 1060
+  },
+  "records": [
+    {
+      "coinName": "2026年库克群岛20克银币",
+      "normalizedBoxCode": "8823192008",
+      "displayBoxCode": "8823192-008",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/wgjsbizhang/10377228.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8823192-008/70/",
+      "price": 1060,
+      "priceWithFee": 1123.6,
+      "transactedAt": "2026-07-03 19:03:25",
+      "productCode": "872275001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2026年,20克,年库,库克,克群,群岛,岛克,克银,银币"
+    }
+  ]
+}

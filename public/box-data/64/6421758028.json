@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6421758028",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6421758028",
+      "displayBoxCode": "6421758-028",
+      "gradingCompany": "NGC",
+      "grade": "MS 66",
+      "coinName": "毛主席异形像章",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiangzhang/10354841.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6421758-028/66/",
+      "price": 200,
+      "priceWithFee": 224,
+      "transactedAt": "2026-06-26 20:21:50",
+      "productCode": "869975001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/869975001A.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "章,毛主,主席,席异,异形,形像,像章"
+    }
+  ]
+}

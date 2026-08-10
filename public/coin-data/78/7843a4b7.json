@@ -1,0 +1,31 @@
+{
+  "coinName": "1995年黄河15.552克精制金币",
+  "slug": "7843a4b7",
+  "saleCount": 1,
+  "keywords": "金,币,1995年,2盎司,年黄,黄河,河文,文化,化第,第组,组女,女娲,娲补,补天,天盎,盎司,司精,精制,制金,金币,评级",
+  "priceStats": {
+    "low": 22000,
+    "high": 22000,
+    "avg": 22000,
+    "latest": 22000
+  },
+  "records": [
+    {
+      "coinName": "1995年黄河文化第（1）组-女娲补天1/2盎司精制金币",
+      "normalizedBoxCode": "8192491014",
+      "displayBoxCode": "8192491-014",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10376784.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8192491-014/",
+      "price": 22000,
+      "priceWithFee": 22770,
+      "transactedAt": "2026-07-02 21:15:30",
+      "productCode": "872119002",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1995年,2盎司,年黄,黄河,河文,文化,化第,第组,组女,女娲,娲补,补天,天盎,盎司,司精,精制,制金,金币,评级"
+    }
+  ]
+}

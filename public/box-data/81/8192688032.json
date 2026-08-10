@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8192688032",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8192688032",
+      "displayBoxCode": "8192688-032",
+      "gradingCompany": "NGC",
+      "grade": "ms70",
+      "coinName": "2023年8克熊猫金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/498696.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8192688-032/70/",
+      "price": 7200,
+      "priceWithFee": null,
+      "transactedAt": "2025-09-22 17:54:11",
+      "productCode": "KH084290",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250906/large_sell_qvmu8cbimkncpwsa.jpg",
+      "ocrConfidence": 30,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2023年,8克,熊猫,年克,克熊,猫金,金币"
+    }
+  ]
+}

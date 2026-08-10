@@ -1,0 +1,65 @@
+{
+  "coinName": "2024年应县佛宫寺释迦塔金银币",
+  "slug": "26e066a0",
+  "saleCount": 3,
+  "keywords": "金,银,币,2024年,宗教,年应,应县,县佛,佛宫,宫寺,寺释,释迦,迦塔,塔金,金银,银币",
+  "priceStats": {
+    "low": 6100,
+    "high": 10800,
+    "avg": 8367,
+    "latest": 6100
+  },
+  "records": [
+    {
+      "coinName": "2024年应县佛宫寺释迦塔金银币",
+      "normalizedBoxCode": "8172713001",
+      "displayBoxCode": "8172713-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/448526.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8172713-001/70/",
+      "price": 6100,
+      "priceWithFee": null,
+      "transactedAt": "2024-09-20 15:21:51",
+      "productCode": "KH056652",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,2024年,宗教,年应,应县,县佛,佛宫,宫寺,寺释,释迦,迦塔,塔金,金银,银币"
+    },
+    {
+      "coinName": "2024年应县佛宫寺释迦塔金银币",
+      "normalizedBoxCode": "8193281002",
+      "displayBoxCode": "8193281-002",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/514538.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8193281-002/70/",
+      "price": 10800,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-11 00:11:33",
+      "productCode": "KH101031",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,2024年,宗教,年应,应县,县佛,佛宫,宫寺,寺释,释迦,迦塔,塔金,金银,银币"
+    },
+    {
+      "coinName": "2024年应县佛宫寺释迦塔金银币",
+      "normalizedBoxCode": "8621579002",
+      "displayBoxCode": "8621579-002",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/524281.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8621579-002/70/",
+      "price": 8200,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-23 07:15:13",
+      "productCode": "KH107245",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,2024年,宗教,年应,应县,县佛,佛宫,宫寺,寺释,释迦,迦塔,塔金,金银,银币"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "1760091019",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "1760091019",
+      "displayBoxCode": "1760091-019",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1979年中国银行外汇兑换券1角火炬水印票样",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waihuiduihuanquan/10355774.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1760091-019/",
+      "price": 870,
+      "priceWithFee": 939.6,
+      "transactedAt": "2026-06-25 19:43:10",
+      "productCode": "869562007",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/869562007B.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,钞,1979年,年中,中国,国银,银行,行外,外汇,汇兑,兑换,换券,券角,角火,火炬,炬水,水印,印票,票样"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6189213008",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6189213008",
+      "displayBoxCode": "6189213-008",
+      "gradingCompany": "NGC",
+      "grade": "PF69 ULTRA CAMEO",
+      "coinName": "1994年27克珍稀动物第4组野骆驼银币(低年版)",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/480127.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6189213-008/69/",
+      "price": 820,
+      "priceWithFee": null,
+      "transactedAt": "2025-05-28 21:28:17",
+      "productCode": "AA564298",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250528/large_sell_pyulc5hxh3ohynon.jpg",
+      "ocrConfidence": 31,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1994年,27克,年克,克珍,珍稀,稀动,动物,物第,第组,组野,野骆,骆驼,驼银,银币,币低,低年,年版"
+    }
+  ]
+}

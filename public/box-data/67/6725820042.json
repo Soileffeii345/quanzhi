@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6725820042",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6725820042",
+      "displayBoxCode": "6725820-042",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2000年迎接新实际精制流通纪念币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10395498.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6725820-042/69/",
+      "price": 370,
+      "priceWithFee": 399.6,
+      "transactedAt": "2026-07-15 20:26:35",
+      "productCode": "874330006",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/874330006A.jpg",
+      "ocrConfidence": 29,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2000年,年迎,迎接,接新,新实,实际,际精,精制,制流,流通,通纪,纪念,念币,评级"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "coinName": "2004年1公斤银币",
+  "slug": "4ba1bb37",
+  "saleCount": 1,
+  "keywords": "银,币,2004年,1公斤,宗教,年公,公斤,斤观,观音,音银,银币",
+  "priceStats": {
+    "low": 44000,
+    "high": 44000,
+    "avg": 44000,
+    "latest": 44000
+  },
+  "records": [
+    {
+      "coinName": "2004年1公斤观音银币",
+      "normalizedBoxCode": "6188353001",
+      "displayBoxCode": "6188353-001",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/565788.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6188353-001/",
+      "price": 44000,
+      "priceWithFee": null,
+      "transactedAt": "2026-04-02 08:21:36",
+      "productCode": "KH126211",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2004年,1公斤,宗教,年公,公斤,斤观,观音,音银,银币"
+    }
+  ]
+}

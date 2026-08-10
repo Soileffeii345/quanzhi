@@ -10,6 +10,25 @@
       "grade": "MS 70",
       "coinName": "2026年30克熊猫金币",
       "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/601932.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8752460-014/70/",
+      "price": 28585,
+      "priceWithFee": null,
+      "transactedAt": "2026-08-06 21:41:29",
+      "productCode": "KH143873",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260806/large_sell_kpav8xm9z7fukarx.jpg",
+      "ocrConfidence": 43,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2026年,30克,熊猫,年克,克熊,猫金,金币"
+    },
+    {
+      "normalizedBoxCode": "8752460014",
+      "displayBoxCode": "8752460-014",
+      "gradingCompany": "NGC",
+      "grade": "MS 70",
+      "coinName": "2026年30克熊猫金币",
+      "platform": "易金在线",
       "detailUrl": "https://www.yjzx.com/web2020/sell/detail/597926.html",
       "officialCertUrl": "https://www.ngccoin.com/certlookup/8752460-014/70/",
       "price": 26915,
@@ -18,7 +37,9 @@
       "productCode": "KH142091",
       "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260716/large_sell_av0u0met6rmivkgf.jpg",
       "ocrConfidence": 48,
-      "verificationStatus": "official_pending"
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2026年,30克,熊猫,年克,克熊,猫金,金币"
     }
   ]
 }

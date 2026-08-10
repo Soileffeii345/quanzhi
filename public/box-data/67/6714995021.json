@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6714995021",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6714995021",
+      "displayBoxCode": "6714995-021",
+      "gradingCompany": "NGC",
+      "grade": "PF69 ULTRA CAMEO",
+      "coinName": "2013年1/10盎司生肖蛇金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/481295.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6714995-021/69/",
+      "price": 2480,
+      "priceWithFee": null,
+      "transactedAt": "2025-06-04 09:52:01",
+      "productCode": "KH068145",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250604/large_sell_4nwzitfnvghti0a7.jpg",
+      "ocrConfidence": 56,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2013年,10盎司,生肖,年盎,盎司,司生,肖蛇,蛇金,金币"
+    }
+  ]
+}

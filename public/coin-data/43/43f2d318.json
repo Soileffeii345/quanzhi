@@ -1,0 +1,31 @@
+{
+  "coinName": "民国二十九年西北农民银行贰角",
+  "slug": "43f2d318",
+  "saleCount": 1,
+  "keywords": "银,历史币,民国,国二,二十,十九,九年,年西,西北,北农,农民,民银,银行,行贰,贰角",
+  "priceStats": {
+    "low": 1080,
+    "high": 1080,
+    "avg": 1080,
+    "latest": 1080
+  },
+  "records": [
+    {
+      "coinName": "民国二十九年西北农民银行贰角",
+      "normalizedBoxCode": "2486155022",
+      "displayBoxCode": "2486155-022",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jiefangquzhichao/10373125.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2486155-022/",
+      "price": 1080,
+      "priceWithFee": 1198.8,
+      "transactedAt": "2026-07-16 21:24:40",
+      "productCode": "870981001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国二,二十,十九,九年,年西,西北,北农,农民,民银,银行,行贰,贰角"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6408288012",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6408288012",
+      "displayBoxCode": "6408288-012",
+      "gradingCompany": "NGC",
+      "grade": "PF 68 ULTRA CAMEO",
+      "coinName": "1989年1/4盎司珍稀动物第2组华南虎金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/463433.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6408288-012/68/",
+      "price": 5210,
+      "priceWithFee": null,
+      "transactedAt": "2025-02-09 11:23:01",
+      "productCode": "KH058833",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250209/large_sell_v86ie23lpmyi0fxt.jpg",
+      "ocrConfidence": 52,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1989年,4盎司,年盎,盎司,司珍,珍稀,稀动,动物,物第,第组,组华,华南,南虎,虎金,金币"
+    }
+  ]
+}

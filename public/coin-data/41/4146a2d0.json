@@ -1,0 +1,31 @@
+{
+  "coinName": "1985年熊猫27克银币",
+  "slug": "4146a2d0",
+  "saleCount": 1,
+  "keywords": "银,币,1985年,27克,熊猫,年克,克熊,猫银,银币",
+  "priceStats": {
+    "low": 15600,
+    "high": 15600,
+    "avg": 15600,
+    "latest": 15600
+  },
+  "records": [
+    {
+      "coinName": "1985年27克熊猫银币",
+      "normalizedBoxCode": "4905335004",
+      "displayBoxCode": "4905335-004",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/482017.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4905335-004/",
+      "price": 15600,
+      "priceWithFee": null,
+      "transactedAt": "2025-09-24 19:32:12",
+      "productCode": "KH083859",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1985年,27克,熊猫,年克,克熊,猫银,银币"
+    }
+  ]
+}

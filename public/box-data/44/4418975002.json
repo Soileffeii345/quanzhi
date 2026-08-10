@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4418975002",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4418975002",
+      "displayBoxCode": "4418975-002",
+      "gradingCompany": "NGC",
+      "grade": "PF 68 ULTRA CAMEO",
+      "coinName": "2007年1/10盎司生肖猪彩金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/468227.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4418975-002/68/",
+      "price": 2165,
+      "priceWithFee": null,
+      "transactedAt": "2025-03-14 12:04:57",
+      "productCode": "KH061041",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250314/large_sell_jz5eogf717lzqh9g.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2007年,10盎司,生肖,年盎,盎司,司生,肖猪,猪彩,彩金,金币"
+    }
+  ]
+}

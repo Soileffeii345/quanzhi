@@ -1,0 +1,31 @@
+{
+  "coinName": "2014年熊猫7.776克金币",
+  "slug": "5f6b5025",
+  "saleCount": 1,
+  "keywords": "金,币,2014年,4盎司,熊猫,年盎,盎司,司熊,猫金,金币",
+  "priceStats": {
+    "low": 7700,
+    "high": 7700,
+    "avg": 7700,
+    "latest": 7700
+  },
+  "records": [
+    {
+      "coinName": "2014年1/4盎司熊猫金币",
+      "normalizedBoxCode": "3649312006",
+      "displayBoxCode": "3649312-006",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/482019.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3649312-006/",
+      "price": 7700,
+      "priceWithFee": null,
+      "transactedAt": "2025-10-05 03:01:07",
+      "productCode": "KH085094",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2014年,4盎司,熊猫,年盎,盎司,司熊,猫金,金币"
+    }
+  ]
+}

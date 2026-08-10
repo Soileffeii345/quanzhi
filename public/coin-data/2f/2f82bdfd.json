@@ -1,0 +1,31 @@
+{
+  "coinName": "2018年30克精制银币",
+  "slug": "2f82bdfd",
+  "saleCount": 1,
+  "keywords": "银,币,2018年,30克,年港,港珠,珠澳,澳大,大桥,桥通,通车,车克,克精,精制,制银,银币,评级",
+  "priceStats": {
+    "low": 1000,
+    "high": 1000,
+    "avg": 1000,
+    "latest": 1000
+  },
+  "records": [
+    {
+      "coinName": "2018年港珠澳大桥通车30克精制银币",
+      "normalizedBoxCode": "8765016024",
+      "displayBoxCode": "8765016-024",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10379258.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8765016-024/",
+      "price": 1000,
+      "priceWithFee": 1035,
+      "transactedAt": "2026-07-06 20:09:15",
+      "productCode": "872231001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2018年,30克,年港,港珠,珠澳,澳大,大桥,桥通,通车,车克,克精,精制,制银,银币,评级"
+    }
+  ]
+}

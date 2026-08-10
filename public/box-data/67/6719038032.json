@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6719038032",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6719038032",
+      "displayBoxCode": "6719038-032",
+      "gradingCompany": "NGC",
+      "grade": "PF69",
+      "coinName": "2002年1盎司乒乓球建队50周年彩银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/518393.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6719038-032/",
+      "price": 750,
+      "priceWithFee": null,
+      "transactedAt": "2025-12-13 16:29:32",
+      "productCode": "KH093715",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251207/large_sell_6bnfjvkqomvtndri.jpg",
+      "ocrConfidence": 28,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2002年,1盎司,年盎,盎司,司乒,乒乓,乓球,球建,建队,队周,周年,年彩,彩银,银币"
+    }
+  ]
+}

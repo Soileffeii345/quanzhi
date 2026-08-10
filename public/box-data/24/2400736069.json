@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2400736069",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2400736069",
+      "displayBoxCode": "2400736-069",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1939年希腊纸币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10371354.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2400736-069/",
+      "price": 210,
+      "priceWithFee": 233.1,
+      "transactedAt": "2026-06-30 22:47:50",
+      "productCode": "871227035",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/26/871227035B.jpg",
+      "ocrConfidence": 30,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1939年,年希,希腊,腊纸,纸币"
+    }
+  ]
+}

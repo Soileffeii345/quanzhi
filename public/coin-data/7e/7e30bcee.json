@@ -1,0 +1,48 @@
+{
+  "coinName": "2014年金币",
+  "slug": "7e30bcee",
+  "saleCount": 2,
+  "keywords": "金,章,2014年,年南,南京,京青,青奥,奥会,会金,金章",
+  "priceStats": {
+    "low": 4900,
+    "high": 5275,
+    "avg": 5088,
+    "latest": 5275
+  },
+  "records": [
+    {
+      "coinName": "2014年南京青奥会金章",
+      "normalizedBoxCode": "4638078002",
+      "displayBoxCode": "4638078-002",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/527343.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4638078-002/69/",
+      "price": 5275,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-14 12:25:34",
+      "productCode": "KH101072A",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,章,2014年,年南,南京,京青,青奥,奥会,会金,金章"
+    },
+    {
+      "coinName": "2014年南京青奥会金章",
+      "normalizedBoxCode": "4638078002",
+      "displayBoxCode": "4638078-002",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/503896.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4638078-002/69/",
+      "price": 4900,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-02 00:37:03",
+      "productCode": "KH101072",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,章,2014年,年南,南京,京青,青奥,奥会,会金,金章"
+    }
+  ]
+}

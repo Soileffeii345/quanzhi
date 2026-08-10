@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8502340027",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8502340027",
+      "displayBoxCode": "8502340-027",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2002年1盎司熊猫银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/551343.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8502340-027/",
+      "price": 1050,
+      "priceWithFee": null,
+      "transactedAt": "2026-02-02 19:37:37",
+      "productCode": "KH117294",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260202/large_sell_paonzqgf5vgk6hw3.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2002年,1盎司,熊猫,年盎,盎司,司熊,猫银,银币"
+    }
+  ]
+}

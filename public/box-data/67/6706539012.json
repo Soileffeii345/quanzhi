@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6706539012",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6706539012",
+      "displayBoxCode": "6706539-012",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1986年1/4盎司熊猫金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/487556.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6706539-012/",
+      "price": 22800,
+      "priceWithFee": null,
+      "transactedAt": "2025-07-22 15:43:33",
+      "productCode": "AA571916",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250707/large_sell_exjpckok9ndzmnxw.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1986年,4盎司,熊猫,年盎,盎司,司熊,猫金,金币"
+    }
+  ]
+}

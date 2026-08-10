@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8813176011",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8813176011",
+      "displayBoxCode": "8813176-011",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1992年中国古代科技发明发现第（1）组-航海造船22克精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10386639.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8813176-011/",
+      "price": 670,
+      "priceWithFee": 693.45,
+      "transactedAt": "2026-07-13 20:41:25",
+      "productCode": "873397008",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/27/873397008A.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1992年,22克,年中,中国,国古,古代,代科,科技,技发,发明,明发,发现,现第,第组,组航,航海,海造,造船,船克,克精,精制,制银,银币,评级"
+    }
+  ]
+}

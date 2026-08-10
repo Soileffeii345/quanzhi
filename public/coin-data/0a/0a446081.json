@@ -1,0 +1,31 @@
+{
+  "coinName": "第二版人民币轮船5分、飞机2分、汽车1分",
+  "slug": "0a446081",
+  "saleCount": 1,
+  "keywords": "币,第二,二版,版人,人民,民币,币轮,轮船,船分,分飞,飞机,机分,分汽,汽车,车分,分各,各一,一枚",
+  "priceStats": {
+    "low": 1400,
+    "high": 1400,
+    "avg": 1400,
+    "latest": 1400
+  },
+  "records": [
+    {
+      "coinName": "第二版人民币轮船5分、飞机2分、汽车1分各一枚",
+      "normalizedBoxCode": "2252932079",
+      "displayBoxCode": "2252932-079",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/dierbanrenminbi/10381401.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2252932-079/",
+      "price": 1400,
+      "priceWithFee": 1512,
+      "transactedAt": "2026-07-07 20:59:50",
+      "productCode": "872765003",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,第二,二版,版人,人民,民币,币轮,轮船,船分,分飞,飞机,机分,分汽,汽车,车分,分各,各一,一枚"
+    }
+  ]
+}

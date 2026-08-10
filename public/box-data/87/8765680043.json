@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8765680043",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8765680043",
+      "displayBoxCode": "8765680-043",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1999年中华人民共和国成立50周年精制流通纪念币三枚",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10417401.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8765680-043/",
+      "price": 370,
+      "priceWithFee": 399.6,
+      "transactedAt": "2026-07-22 19:28:25",
+      "productCode": "877003003",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/877003003A.jpg",
+      "ocrConfidence": 39,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1999年,年中,中华,华人,人民,民共,共和,和国,国成,成立,立周,周年,年精,精制,制流,流通,通纪,纪念,念币,币三,三枚,评级"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "86744175",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "86744175",
+      "displayBoxCode": "86744175",
+      "gradingCompany": "PCGS",
+      "grade": "待复核",
+      "coinName": "2020年庚子鼠年生肖流通纪念币二枚",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10394172.shtml",
+      "officialCertUrl": "https://cn.pcgs.com/cert/86744175",
+      "price": 120,
+      "priceWithFee": 129.6,
+      "transactedAt": "2026-07-15 22:08:40",
+      "productCode": "874547013",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/20/860050014A.jpg",
+      "ocrConfidence": 28,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2020年,生肖,年庚,庚子,子鼠,鼠年,年生,肖流,流通,通纪,纪念,念币,币二,二枚"
+    }
+  ]
+}

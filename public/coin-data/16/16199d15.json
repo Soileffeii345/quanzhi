@@ -1,0 +1,48 @@
+{
+  "coinName": "1989年22克金币",
+  "slug": "16199d15",
+  "saleCount": 2,
+  "keywords": "金,银,币,1989年,22克,年克,克儿,儿童,童基,基金,金会,会周,周年,年银,银币,币精,精制,评级,币普,普制",
+  "priceStats": {
+    "low": 1700,
+    "high": 3500,
+    "avg": 2600,
+    "latest": 3500
+  },
+  "records": [
+    {
+      "coinName": "1989年22克儿童基金会70周年银币(精制)",
+      "normalizedBoxCode": "6760899079",
+      "displayBoxCode": "6760899-079",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/400640.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6760899-079/",
+      "price": 3500,
+      "priceWithFee": null,
+      "transactedAt": "2023-11-30 21:12:10",
+      "productCode": "AA443557",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,1989年,22克,年克,克儿,儿童,童基,基金,金会,会周,周年,年银,银币,币精,精制,评级"
+    },
+    {
+      "coinName": "1989年22克儿童基金会70周年银币(普制)",
+      "normalizedBoxCode": "8657513005",
+      "displayBoxCode": "8657513-005",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/555872.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8657513-005/69/",
+      "price": 1700,
+      "priceWithFee": null,
+      "transactedAt": "2026-02-24 18:06:27",
+      "productCode": "KH120508",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,1989年,22克,年克,克儿,儿童,童基,基金,金会,会周,周年,年银,银币,币普,普制"
+    }
+  ]
+}

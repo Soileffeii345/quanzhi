@@ -1,0 +1,48 @@
+{
+  "coinName": "2021年30克银币",
+  "slug": "1078b963",
+  "saleCount": 2,
+  "keywords": "银,币,2021年,30克,年克,克中,中巴,巴建,建交,交周,周年,年银,银币,章,年成,成立,立周,克银,银章,评级",
+  "priceStats": {
+    "low": 580,
+    "high": 920,
+    "avg": 750,
+    "latest": 920
+  },
+  "records": [
+    {
+      "coinName": "2021年30克中巴建交70周年银币",
+      "normalizedBoxCode": "6200300012",
+      "displayBoxCode": "6200300-012",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/536331.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6200300-012/",
+      "price": 920,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-26 23:22:52",
+      "productCode": "AA614137",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2021年,30克,年克,克中,中巴,巴建,建交,交周,周年,年银,银币"
+    },
+    {
+      "coinName": "2021年PCGS成立35周年30克银章",
+      "normalizedBoxCode": "87814040",
+      "displayBoxCode": "87814040",
+      "gradingCompany": "PCGS",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10353952.shtml",
+      "officialCertUrl": "https://cn.pcgs.com/cert/87814040",
+      "price": 580,
+      "priceWithFee": 600.3,
+      "transactedAt": "2026-06-22 21:37:10",
+      "productCode": "869167009",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,章,2021年,30克,年成,成立,立周,周年,年克,克银,银章,评级"
+    }
+  ]
+}

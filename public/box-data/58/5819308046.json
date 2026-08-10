@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "5819308046",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "5819308046",
+      "displayBoxCode": "5819308-046",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2013年黄山金银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/422917.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/5819308-046/70/",
+      "price": 6700,
+      "priceWithFee": null,
+      "transactedAt": "2024-04-09 17:50:12",
+      "productCode": "KH052850",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20240323/large_sell_dsurncrjyncybppk.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,2013年,名山,年黄,黄山,山金,金银,银币"
+    }
+  ]
+}

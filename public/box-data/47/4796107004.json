@@ -1,0 +1,45 @@
+{
+  "ok": true,
+  "query": "4796107004",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4796107004",
+      "displayBoxCode": "4796107-004",
+      "gradingCompany": "NGC",
+      "grade": "PF69 ULTRA CAMEO",
+      "coinName": "2002年1/2盎司上海申博成功金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/486277.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4796107-004/69/",
+      "price": 12200,
+      "priceWithFee": null,
+      "transactedAt": "2025-07-10 10:41:01",
+      "productCode": "AA570406",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250630/large_sell_y2pklpwkq53a1of6.jpg",
+      "ocrConfidence": 30,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2002年,2盎司,年盎,盎司,司上,上海,海申,申博,博成,成功,功金,金币"
+    },
+    {
+      "normalizedBoxCode": "4796107004",
+      "displayBoxCode": "4796107-004",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2002年1/2盎司上海申博成功金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/476747.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4796107-004/69/",
+      "price": 12710,
+      "priceWithFee": null,
+      "transactedAt": "2025-05-08 09:45:50",
+      "productCode": "KH066063",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250508/large_sell_liijpmkljwppqcq1.jpg",
+      "ocrConfidence": 57,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2002年,2盎司,年盎,盎司,司上,上海,海申,申博,博成,成功,功金,金币"
+    }
+  ]
+}

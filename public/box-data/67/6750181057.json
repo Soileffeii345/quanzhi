@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6750181057",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6750181057",
+      "displayBoxCode": "6750181-057",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1995年1/2盎司联合国成立50周年金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/505672.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6750181-057/69/",
+      "price": 15190,
+      "priceWithFee": null,
+      "transactedAt": "2025-10-17 22:43:03",
+      "productCode": "KH087853",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251015/large_sell_hsfhgtit2ovqizfq.jpg",
+      "ocrConfidence": 37,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1995年,2盎司,年盎,盎司,司联,联合,合国,国成,成立,立周,周年,年金,金币"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8197071007",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8197071007",
+      "displayBoxCode": "8197071-007",
+      "gradingCompany": "NGC",
+      "grade": "PF 68 ULTRA CAMEO",
+      "coinName": "1989年第二届香港钱币展览会-长城1盎司银章",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10360909.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8197071-007/68/",
+      "price": 2100,
+      "priceWithFee": 2173.5,
+      "transactedAt": "2026-06-22 20:36:10",
+      "productCode": "870406005",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/870406005A.jpg",
+      "ocrConfidence": 37,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,章,1989年,1盎司,年第,第二,二届,届香,香港,港钱,钱币,币展,展览,览会,会长,长城,城盎,盎司,司银,银章,外国/特区"
+    }
+  ]
+}

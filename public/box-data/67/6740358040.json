@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6740358040",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6740358040",
+      "displayBoxCode": "6740358-040",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2015年1/4盎司吉祥文化瓜瓞绵绵金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/465145.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6740358-040/",
+      "price": 5460,
+      "priceWithFee": null,
+      "transactedAt": "2025-02-20 09:37:45",
+      "productCode": "KH059488",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250220/large_sell_nsi00icwnhen7qxd.jpg",
+      "ocrConfidence": 54,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2015年,4盎司,吉祥文化,年盎,盎司,司吉,吉祥,祥文,文化,化瓜,瓜瓞,瓞绵,绵绵,绵金,金币"
+    }
+  ]
+}

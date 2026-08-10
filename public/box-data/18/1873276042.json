@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "1873276042",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "1873276042",
+      "displayBoxCode": "1873276-042",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1998年香港渣打银行伍佰圆",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/liantichao-jinianchao/10368262.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1873276-042/",
+      "price": 1240,
+      "priceWithFee": 1339.2,
+      "transactedAt": "2026-06-27 20:28:40",
+      "productCode": "871302007",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/26/871302007B.jpg",
+      "ocrConfidence": 32,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,1998年,年香,香港,港渣,渣打,打银,银行,行伍,伍佰,佰圆,外国/特区"
+    }
+  ]
+}

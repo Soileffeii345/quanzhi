@@ -1,0 +1,31 @@
+{
+  "coinName": "2015年20克金银币",
+  "slug": "59bfb2d6",
+  "saleCount": 1,
+  "keywords": "金,银,币,2015年,20克,年基,基里,里巴,巴斯,斯红,红鼻,鼻子,子驯,驯鹿,鹿鲁,鲁道,道夫,夫镶,镶嵌,嵌红,红水,水晶,晶克,克镀,镀金,金银,银币",
+  "priceStats": {
+    "low": 1400,
+    "high": 1400,
+    "avg": 1400,
+    "latest": 1400
+  },
+  "records": [
+    {
+      "coinName": "2015年基里巴斯红鼻子驯鹿鲁道夫镶嵌红水晶20克镀金银币",
+      "normalizedBoxCode": "8504392024",
+      "displayBoxCode": "8504392-024",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/wgjsbizhang/10365707.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8504392-024/69/",
+      "price": 1400,
+      "priceWithFee": 1484,
+      "transactedAt": "2026-06-26 20:32:15",
+      "productCode": "870452013",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,2015年,20克,年基,基里,里巴,巴斯,斯红,红鼻,鼻子,子驯,驯鹿,鹿鲁,鲁道,道夫,夫镶,镶嵌,嵌红,红水,水晶,晶克,克镀,镀金,金银,银币"
+    }
+  ]
+}

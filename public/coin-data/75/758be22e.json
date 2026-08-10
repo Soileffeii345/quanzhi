@@ -1,0 +1,31 @@
+{
+  "coinName": "2002年生肖3.11克金币",
+  "slug": "758be22e",
+  "saleCount": 1,
+  "keywords": "金,币,2002年,10盎司,生肖,年盎,盎司,司生,肖马,马金,金币",
+  "priceStats": {
+    "low": 2400,
+    "high": 2400,
+    "avg": 2400,
+    "latest": 2400
+  },
+  "records": [
+    {
+      "coinName": "2002年1/10盎司生肖马金币",
+      "normalizedBoxCode": "6718685046",
+      "displayBoxCode": "6718685-046",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/460688.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6718685-046/",
+      "price": 2400,
+      "priceWithFee": null,
+      "transactedAt": "2025-02-19 23:10:57",
+      "productCode": "AA539048A",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2002年,10盎司,生肖,年盎,盎司,司生,肖马,马金,金币"
+    }
+  ]
+}

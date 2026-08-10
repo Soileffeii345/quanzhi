@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6180156050",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6180156050",
+      "displayBoxCode": "6180156-050",
+      "gradingCompany": "NGC",
+      "grade": "PF70 ULTRA CAMEO",
+      "coinName": "2004年甲申猴年生肖1盎司梅花形精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10376695.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6180156-050/70/",
+      "price": 3100,
+      "priceWithFee": 3208.5,
+      "transactedAt": "2026-07-06 21:09:40",
+      "productCode": "872086001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/26/872086001A.jpg",
+      "ocrConfidence": 38,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2004年,1盎司,生肖,年甲,甲申,申猴,猴年,年生,肖盎,盎司,司梅,梅花,花形,形精,精制,制银,银币,评级"
+    }
+  ]
+}

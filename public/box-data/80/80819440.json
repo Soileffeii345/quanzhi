@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "80819440",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "80819440",
+      "displayBoxCode": "80819440",
+      "gradingCompany": "PCGS",
+      "grade": "待复核",
+      "coinName": "蒙古二蒙戈铜币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguojindaijizhibi/10361723.shtml",
+      "officialCertUrl": "https://cn.pcgs.com/cert/80819440",
+      "price": 1460,
+      "priceWithFee": 1576.8,
+      "transactedAt": "2026-07-13 20:04:25",
+      "productCode": "870156027",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/870156027A.JPG",
+      "ocrConfidence": 37,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "铜,币,蒙古,古二,二蒙,蒙戈,戈铜,铜币"
+    }
+  ]
+}

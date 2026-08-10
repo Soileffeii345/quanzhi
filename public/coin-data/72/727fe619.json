@@ -1,0 +1,48 @@
+{
+  "coinName": "2006年7.776克金币",
+  "slug": "727fe619",
+  "saleCount": 2,
+  "keywords": "金,币,2006年,4盎司,年盎,盎司,司青,青藏,藏铁,铁路,路通,通车,车金,金币",
+  "priceStats": {
+    "low": 6130,
+    "high": 7870,
+    "avg": 7000,
+    "latest": 7870
+  },
+  "records": [
+    {
+      "coinName": "2006年1/4盎司青藏铁路通车金币",
+      "normalizedBoxCode": "5193500010",
+      "displayBoxCode": "5193500-010",
+      "gradingCompany": "NGC",
+      "grade": "PF70",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/523593.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/5193500-010/70/",
+      "price": 7870,
+      "priceWithFee": null,
+      "transactedAt": "2025-12-22 18:12:14",
+      "productCode": "KH097208",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2006年,4盎司,年盎,盎司,司青,青藏,藏铁,铁路,路通,通车,车金,金币"
+    },
+    {
+      "coinName": "2006年1/4盎司青藏铁路通车金币",
+      "normalizedBoxCode": "8499761045",
+      "displayBoxCode": "8499761-045",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/495279.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8499761-045/69/",
+      "price": 6130,
+      "priceWithFee": null,
+      "transactedAt": "2025-08-18 21:18:40",
+      "productCode": "KH079283",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2006年,4盎司,年盎,盎司,司青,青藏,藏铁,铁路,路通,通车,车金,金币"
+    }
+  ]
+}

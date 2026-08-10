@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4637080003",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4637080003",
+      "displayBoxCode": "4637080-003",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1988年中国人民银行成立40周年纪念币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/487279.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4637080-003/",
+      "price": 1700,
+      "priceWithFee": null,
+      "transactedAt": "2025-09-06 23:23:49",
+      "productCode": "KH078438",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250705/large_sell_yxgflnwycfzwfpww.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1988年,年中,中国,国人,人民,民银,银行,行成,成立,立周,周年,年纪,纪念,念币"
+    }
+  ]
+}

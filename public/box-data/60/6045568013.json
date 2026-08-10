@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6045568013",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6045568013",
+      "displayBoxCode": "6045568-013",
+      "gradingCompany": "NGC",
+      "grade": "PF70 ULTRA CAMEO",
+      "coinName": "2019年5克第七届世界军人运动会金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/491795.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6045568-013/70/",
+      "price": 3970,
+      "priceWithFee": null,
+      "transactedAt": "2025-07-30 20:26:16",
+      "productCode": "KH077346",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250730/large_sell_xilgjx2nnitkalcs.jpg",
+      "ocrConfidence": 48,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2019年,5克,年克,克第,第七,七届,届世,世界,界军,军人,人运,运动,动会,会金,金币"
+    }
+  ]
+}

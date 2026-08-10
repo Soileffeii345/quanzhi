@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2058825051",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2058825051",
+      "displayBoxCode": "2058825-051",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1979年中国银行外汇兑换券伍圆",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waihuiduihuanquan/10395976.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2058825-051/",
+      "price": 700,
+      "priceWithFee": 756,
+      "transactedAt": "2026-07-14 20:27:05",
+      "productCode": "874454002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/874454002B.jpg",
+      "ocrConfidence": 44,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,1979年,年中,中国,国银,银行,行外,外汇,汇兑,兑换,换券,券伍,伍圆"
+    }
+  ]
+}

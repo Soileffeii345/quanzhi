@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4287816002",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4287816002",
+      "displayBoxCode": "4287816-002",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 CAMEO",
+      "coinName": "1979年1/2盎司建国30周年人民英雄纪念碑金币(CA/无标)",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/505781.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4287816-002/69/",
+      "price": 15000,
+      "priceWithFee": null,
+      "transactedAt": "2025-10-15 15:08:38",
+      "productCode": "KH087400",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251015/large_sell_i4upj2fsrq6goupi.jpg",
+      "ocrConfidence": 45,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1979年,2盎司,重大事件,年盎,盎司,司建,建国,国周,周年,年人,人民,民英,英雄,雄纪,纪念,念碑,碑金,金币,币无,无标"
+    }
+  ]
+}

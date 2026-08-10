@@ -1,0 +1,65 @@
+{
+  "coinName": "1985年22克银币",
+  "slug": "1dceee2a",
+  "saleCount": 3,
+  "keywords": "银,币,1985年,22克,年克,克历,历史,史人,人物,物第,第组,组陈,陈胜,胜吴,吴广,广银,银币,币短,短披,披风,组老,老子,子银",
+  "priceStats": {
+    "low": 600,
+    "high": 1950,
+    "avg": 1350,
+    "latest": 1500
+  },
+  "records": [
+    {
+      "coinName": "1985年22克历史人物第2组陈胜吴广银币(短披风)",
+      "normalizedBoxCode": "6745701029",
+      "displayBoxCode": "6745701-029",
+      "gradingCompany": "NGC",
+      "grade": "PF 68 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/574512.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6745701-029/68/",
+      "price": 1500,
+      "priceWithFee": null,
+      "transactedAt": "2026-05-06 21:53:00",
+      "productCode": "KH133450",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1985年,22克,年克,克历,历史,史人,人物,物第,第组,组陈,陈胜,胜吴,吴广,广银,银币,币短,短披,披风"
+    },
+    {
+      "coinName": "1985年22克历史人物第2组老子银币(UC)",
+      "normalizedBoxCode": "8497210030",
+      "displayBoxCode": "8497210-030",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/487382.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8497210-030/",
+      "price": 600,
+      "priceWithFee": null,
+      "transactedAt": "2025-07-06 20:47:19",
+      "productCode": "AA571769",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1985年,22克,年克,克历,历史,史人,人物,物第,第组,组老,老子,子银,银币"
+    },
+    {
+      "coinName": "1985年22克历史人物第2组老子银币",
+      "normalizedBoxCode": "88432008",
+      "displayBoxCode": "88432008",
+      "gradingCompany": "PCGS",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/537914.html",
+      "officialCertUrl": "https://cn.pcgs.com/cert/88432008",
+      "price": 1950,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-29 17:06:20",
+      "productCode": "KH112967",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1985年,22克,年克,克历,历史,史人,人物,物第,第组,组老,老子,子银,银币"
+    }
+  ]
+}

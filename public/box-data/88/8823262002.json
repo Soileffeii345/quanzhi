@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8823262002",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8823262002",
+      "displayBoxCode": "8823262-002",
+      "gradingCompany": "NGC",
+      "grade": "PF 67 ULTRA CAMEO",
+      "coinName": "1997年中国传统吉祥图-吉庆有余1盎司精制彩银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10424136.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8823262-002/67/",
+      "price": 510,
+      "priceWithFee": 527.85,
+      "transactedAt": "2026-07-27 21:48:40",
+      "productCode": "877773037",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/877773037A.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1997年,1盎司,吉祥文化,年中,中国,国传,传统,统吉,吉祥,祥图,图吉,吉庆,庆有,有余,余盎,盎司,司精,精制,制彩,彩银,银币,评级"
+    }
+  ]
+}

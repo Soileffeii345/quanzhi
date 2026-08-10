@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4321280008",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4321280008",
+      "displayBoxCode": "4321280-008",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2008年1/3盎司第29届奥运会第3组金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/486621.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4321280-008/",
+      "price": 16435,
+      "priceWithFee": null,
+      "transactedAt": "2025-07-03 14:36:43",
+      "productCode": "AA571006.07",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250702/large_sell_fp6yj8cvmylbhipw.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2008年,3盎司,奥运,年盎,盎司,司第,第届,届奥,运会,会第,第组,组金,金币"
+    }
+  ]
+}

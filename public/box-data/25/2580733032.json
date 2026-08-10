@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2580733032",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2580733032",
+      "displayBoxCode": "2580733-032",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2020年黎巴嫩塑料钞",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10399169.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2580733-032/",
+      "price": 120,
+      "priceWithFee": 133.2,
+      "transactedAt": "2026-07-21 22:20:05",
+      "productCode": "875054008",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/875054008B.jpg",
+      "ocrConfidence": 28,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,2020年,年黎,黎巴,巴嫩,嫩塑,塑料,料钞"
+    }
+  ]
+}

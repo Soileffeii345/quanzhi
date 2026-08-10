@@ -1,0 +1,31 @@
+{
+  "coinName": "2018年书法8克金币",
+  "slug": "0aaab954",
+  "saleCount": 1,
+  "keywords": "金,币,2018年,8克,书法,年克,克书,法艺,艺术,术第,第组,组金,金币",
+  "priceStats": {
+    "low": 11000,
+    "high": 11000,
+    "avg": 11000,
+    "latest": 11000
+  },
+  "records": [
+    {
+      "coinName": "2018年8克书法艺术第1组金币",
+      "normalizedBoxCode": "8649796001",
+      "displayBoxCode": "8649796-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/555158.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8649796-001/69/",
+      "price": 11000,
+      "priceWithFee": null,
+      "transactedAt": "2026-02-13 20:00:29",
+      "productCode": "KH119238",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2018年,8克,书法,年克,克书,法艺,艺术,术第,第组,组金,金币"
+    }
+  ]
+}

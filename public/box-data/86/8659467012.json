@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8659467012",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8659467012",
+      "displayBoxCode": "8659467-012",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1922年美国和平女神26.73克银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/wgjsbizhang/10416994.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8659467-012/",
+      "price": 420,
+      "priceWithFee": 445.2,
+      "transactedAt": "2026-07-24 20:48:25",
+      "productCode": "877048002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/877048002A.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1922年,26.73克,年美,美国,国和,和平,平女,女神,神克,克银,银币,外国/特区"
+    }
+  ]
+}

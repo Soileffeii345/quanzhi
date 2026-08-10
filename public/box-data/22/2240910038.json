@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2240910038",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2240910038",
+      "displayBoxCode": "2240910-038",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1943年希腊纸币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10371352.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2240910-038/",
+      "price": 130,
+      "priceWithFee": 144.3,
+      "transactedAt": "2026-06-30 22:16:50",
+      "productCode": "871227033",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/26/871227033B.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1943年,年希,希腊,腊纸,纸币"
+    }
+  ]
+}

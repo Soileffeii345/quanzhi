@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4287738018",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4287738018",
+      "displayBoxCode": "4287738-018",
+      "gradingCompany": "NGC",
+      "grade": "PF70",
+      "coinName": "2010年1/3盎司水浒传第2组彩金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/557613.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4287738-018/70/",
+      "price": 12430,
+      "priceWithFee": null,
+      "transactedAt": "2026-03-01 21:58:41",
+      "productCode": "KH121777",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260301/large_sell_rbebxfrjvpks9zxt.jpg",
+      "ocrConfidence": 39,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2010年,3盎司,年盎,盎司,司水,水浒,浒传,传第,第组,组彩,彩金,金币"
+    }
+  ]
+}

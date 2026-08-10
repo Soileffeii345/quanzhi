@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8660839043",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8660839043",
+      "displayBoxCode": "8660839-043",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2002年中国古典文学名著《红楼梦》第（2）组-群芳夜宴5盎司扇形精制彩银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10350375.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8660839-043/69/",
+      "price": 3500,
+      "priceWithFee": 3622.5,
+      "transactedAt": "2026-06-18 20:22:10",
+      "productCode": "869329002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/869329002A.jpg",
+      "ocrConfidence": 48,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2002年,5盎司,年中,中国,国古,古典,典文,文学,学名,名著,著红,红楼,楼梦,梦第,第组,组群,群芳,芳夜,夜宴,宴盎,盎司,司扇,扇形,形精,精制,制彩,彩银,银币,评级"
+    }
+  ]
+}

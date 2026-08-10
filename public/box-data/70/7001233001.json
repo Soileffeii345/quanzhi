@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "7001233001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "7001233001",
+      "displayBoxCode": "7001233-001",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "第一版人民币农民与小桥500元票样",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/diyibanrenminbi/10387111.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/7001233-001/",
+      "price": 3000,
+      "priceWithFee": 3300,
+      "transactedAt": "2026-07-09 20:03:20",
+      "productCode": "873622003",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/27/873622003B.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,钞,第一,一版,版人,人民,民币,币农,农民,民与,与小,小桥,桥元,元票,票样"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6150386004",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6150386004",
+      "displayBoxCode": "6150386-004",
+      "gradingCompany": "NGC",
+      "grade": "PF70 ULTRA CAMEO",
+      "coinName": "30克+1盎司纪念银币若干",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/553639.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6150386-004/70/",
+      "price": 7100,
+      "priceWithFee": null,
+      "transactedAt": "2026-02-18 20:52:13",
+      "productCode": "KH118529",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260209/large_sell_tzzd6nimmorf0spk.jpg",
+      "ocrConfidence": 42,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,30克,克盎,盎司,司纪,纪念,念银,银币,币若,若干"
+    }
+  ]
+}

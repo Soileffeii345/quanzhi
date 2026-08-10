@@ -1,0 +1,31 @@
+{
+  "coinName": "2025年15.552克金币",
+  "slug": "121cd8d1",
+  "saleCount": 1,
+  "keywords": "金,币,2025年,2盎司,年奥,奥地,地利,利盎,盎司,司维,维也,也纳,纳爱,爱乐,乐乐,乐团,团金,金币",
+  "priceStats": {
+    "low": 15720,
+    "high": 15720,
+    "avg": 15720,
+    "latest": 15720
+  },
+  "records": [
+    {
+      "coinName": "2025年奥地利1/2盎司维也纳爱乐乐团金币",
+      "normalizedBoxCode": "8613332001",
+      "displayBoxCode": "8613332-001",
+      "gradingCompany": "NGC",
+      "grade": "MS 70",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/523536.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8613332-001/70/",
+      "price": 15720,
+      "priceWithFee": null,
+      "transactedAt": "2025-12-22 17:36:47",
+      "productCode": "KH097189",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2025年,2盎司,年奥,奥地,地利,利盎,盎司,司维,维也,也纳,纳爱,爱乐,乐乐,乐团,团金,金币"
+    }
+  ]
+}

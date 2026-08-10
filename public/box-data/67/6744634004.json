@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6744634004",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6744634004",
+      "displayBoxCode": "6744634-004",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1998年1盎司熊猫银币(大字版)",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/420918.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6744634-004/",
+      "price": 1300,
+      "priceWithFee": null,
+      "transactedAt": "2024-03-23 11:42:38",
+      "productCode": "AA467468",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20240311/large_sell_dkiahq5wrkqq5tb3.jpg",
+      "ocrConfidence": 31,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1998年,1盎司,熊猫,年盎,盎司,司熊,猫银,银币,币大,大字,字版"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8765515016",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8765515016",
+      "displayBoxCode": "8765515-016",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1994年中国-新加坡友好1盎司精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10407556.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8765515-016/",
+      "price": 540,
+      "priceWithFee": 558.9,
+      "transactedAt": "2026-07-20 20:35:40",
+      "productCode": "875918031",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/875918031A.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1994年,1盎司,年中,中国,国新,新加,加坡,坡友,友好,好盎,盎司,司精,精制,制银,银币,评级"
+    }
+  ]
+}

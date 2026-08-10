@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8619194009",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8619194009",
+      "displayBoxCode": "8619194-009",
+      "gradingCompany": "NGC",
+      "grade": "AU 58",
+      "coinName": "1889年法国玛丽安娜巴黎世界博览会埃菲尔铁塔铜章",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianbi/10424727.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8619194-009/58/",
+      "price": 470,
+      "priceWithFee": 521.7,
+      "transactedAt": "2026-07-24 21:22:35",
+      "productCode": "877433003",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/877433003A.jpg",
+      "ocrConfidence": 41,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "铜,章,1889年,年法,法国,国玛,玛丽,丽安,安娜,娜巴,巴黎,黎世,世界,界博,博览,览会,会埃,埃菲,菲尔,尔铁,铁塔,塔铜,铜章,外国/特区"
+    }
+  ]
+}

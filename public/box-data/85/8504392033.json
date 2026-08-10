@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8504392033",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8504392033",
+      "displayBoxCode": "8504392-033",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2018年纽埃航天飞机镶嵌太空飞船隔热片1盎司彩色银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/wgjsbizhang/10365703.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8504392-033/",
+      "price": 950,
+      "priceWithFee": 1007,
+      "transactedAt": "2026-06-26 20:14:45",
+      "productCode": "870452009",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/26/870452009A.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2018年,1盎司,年纽,纽埃,埃航,航天,天飞,飞机,机镶,镶嵌,嵌太,太空,空飞,飞船,船隔,隔热,热片,片盎,盎司,司彩,彩色,色银,银币"
+    }
+  ]
+}

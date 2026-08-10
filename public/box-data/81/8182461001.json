@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8182461001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8182461001",
+      "displayBoxCode": "8182461-001",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2021年3克联合国生物多样性大会金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/523766.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8182461-001/",
+      "price": 3090,
+      "priceWithFee": null,
+      "transactedAt": "2025-12-23 10:52:21",
+      "productCode": "KH097350",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251223/large_sell_9mav152w36udxt6o.jpg",
+      "ocrConfidence": 54,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2021年,3克,年克,克联,联合,合国,国生,生物,物多,多样,样性,性大,大会,会金,金币"
+    }
+  ]
+}

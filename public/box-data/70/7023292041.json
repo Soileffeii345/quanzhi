@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "7023292041",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "7023292041",
+      "displayBoxCode": "7023292-041",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "第三版人民币1元古币水印",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/disanbanrenminbi/10389088.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/7023292-041/",
+      "price": 600,
+      "priceWithFee": 648,
+      "transactedAt": "2026-07-14 20:10:05",
+      "productCode": "873589002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/27/873589002B.jpg",
+      "ocrConfidence": 31,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,第三,三版,版人,人民,民币,币元,元古,古币,币水,水印"
+    }
+  ]
+}

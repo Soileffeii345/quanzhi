@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8754820001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8754820001",
+      "displayBoxCode": "8754820-001",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "coinName": "1986年世界野生动物基金会成立25年-熊猫22克普制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10411295.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8754820-001/69/",
+      "price": 1160,
+      "priceWithFee": 1200.6,
+      "transactedAt": "2026-07-20 21:50:40",
+      "productCode": "876390001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/876390001A.jpg",
+      "ocrConfidence": 32,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,1986年,22克,熊猫,年世,世界,界野,野生,生动,动物,物基,基金,金会,会成,成立,立年,年熊,猫克,克普,普制,制银,银币"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6338385067",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6338385067",
+      "displayBoxCode": "6338385-067",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1996年1/20盎司熊猫金币(小字版)",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/540363.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6338385-067/",
+      "price": 2250,
+      "priceWithFee": null,
+      "transactedAt": "2026-02-15 13:48:49",
+      "productCode": "KH114879",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260128/large_sell_esrb6dbn3yn0wmps.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1996年,20盎司,熊猫,年盎,盎司,司熊,猫金,金币,币小,小字,字版"
+    }
+  ]
+}

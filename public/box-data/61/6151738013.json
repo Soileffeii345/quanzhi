@@ -1,0 +1,45 @@
+{
+  "ok": true,
+  "query": "6151738013",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6151738013",
+      "displayBoxCode": "6151738-013",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2019年8克南开大学建校100周年金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/523983.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6151738-013/",
+      "price": 8210,
+      "priceWithFee": null,
+      "transactedAt": "2025-12-23 19:29:54",
+      "productCode": "KH097481",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251223/large_sell_ksyd171akx9rcfl5.jpg",
+      "ocrConfidence": 60,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2019年,8克,年克,克南,南开,开大,大学,学建,建校,校周,周年,年金,金币"
+    },
+    {
+      "normalizedBoxCode": "6151738013",
+      "displayBoxCode": "6151738-013",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2019年8克南开大学建校100周年金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/523706.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6151738-013/",
+      "price": 8245,
+      "priceWithFee": null,
+      "transactedAt": "2025-12-23 09:58:15",
+      "productCode": "KH097326",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251223/large_sell_87kuiaeclyhg3ss3.jpg",
+      "ocrConfidence": 48,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2019年,8克,年克,克南,南开,开大,大学,学建,建校,校周,周年,年金,金币"
+    }
+  ]
+}

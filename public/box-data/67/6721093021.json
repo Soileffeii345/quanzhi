@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6721093021",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6721093021",
+      "displayBoxCode": "6721093-021",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2014年甲午马年生肖贺岁精制流通纪念币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10362253.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6721093-021/",
+      "price": 140,
+      "priceWithFee": 151.2,
+      "transactedAt": "2026-06-24 19:11:25",
+      "productCode": "869714004",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/869714004A.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2014年,生肖,吉祥文化,年甲,甲午,午马,马年,年生,肖贺,贺岁,岁精,精制,制流,流通,通纪,纪念,念币,评级"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8659971003",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8659971003",
+      "displayBoxCode": "8659971-003",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2008年戊子鼠年生肖1盎司精制彩银币（无须版）",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10415023.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8659971-003/",
+      "price": 990,
+      "priceWithFee": 1024.65,
+      "transactedAt": "2026-07-20 20:56:40",
+      "productCode": "876728019",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/876728019A.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2008年,1盎司,生肖,年戊,戊子,子鼠,鼠年,年生,肖盎,盎司,司精,精制,制彩,彩银,银币,币无,无须,须版,评级"
+    }
+  ]
+}

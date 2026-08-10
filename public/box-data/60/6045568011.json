@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6045568011",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6045568011",
+      "displayBoxCode": "6045568-011",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2017年8克世界遗产曲阜“三孔”金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/503778.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6045568-011/70/",
+      "price": 7125,
+      "priceWithFee": null,
+      "transactedAt": "2025-10-02 10:15:42",
+      "productCode": "KH085633",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251002/large_sell_dlkkqpvfrgagyxi9.jpg",
+      "ocrConfidence": 46,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2017年,8克,年克,克世,世界,界遗,遗产,产曲,曲阜,阜三,三孔,孔金,金币"
+    }
+  ]
+}

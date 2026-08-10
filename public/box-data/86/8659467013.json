@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8659467013",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8659467013",
+      "displayBoxCode": "8659467-013",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1929年荷兰25克银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/wgjsbizhang/10416996.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8659467-013/",
+      "price": 260,
+      "priceWithFee": 275.6,
+      "transactedAt": "2026-07-24 21:09:15",
+      "productCode": "877048004",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/877048004A.jpg",
+      "ocrConfidence": 31,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1929年,25克,年荷,荷兰,兰克,克银,银币"
+    }
+  ]
+}

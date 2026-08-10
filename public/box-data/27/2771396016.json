@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2771396016",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2771396016",
+      "displayBoxCode": "2771396-016",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2007年1/2盎司扇形生肖猪金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/506992.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2771396-016/",
+      "price": 16000,
+      "priceWithFee": null,
+      "transactedAt": "2025-10-22 18:39:57",
+      "productCode": "AA591374",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251020/large_sell_fjjclorookipl7xa.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2007年,2盎司,生肖,年盎,盎司,司扇,扇形,形生,肖猪,猪金,金币"
+    }
+  ]
+}

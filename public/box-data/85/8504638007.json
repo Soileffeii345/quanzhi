@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8504638007",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8504638007",
+      "displayBoxCode": "8504638-007",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2016年喀麦隆阿佛洛狄忒17.5克长方形银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/wgjsbizhang/10395090.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8504638-007/69/",
+      "price": 630,
+      "priceWithFee": 667.8,
+      "transactedAt": "2026-07-10 21:04:15",
+      "productCode": "874112008",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/874112008A.jpg",
+      "ocrConfidence": 37,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2016年,17.5克,宗教,年喀,喀麦,麦隆,隆阿,阿佛,佛洛,洛狄,狄忒,忒克,克长,长方,方形,形银,银币"
+    }
+  ]
+}

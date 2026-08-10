@@ -1,0 +1,31 @@
+{
+  "coinName": "奉天省造甲辰光绪元宝十文铜币",
+  "slug": "515f8412",
+  "saleCount": 1,
+  "keywords": "铜,币,历史币,龙洋,龙,元宝,奉天,天省,省造,造甲,甲辰,辰光,光绪,绪元,宝十,十文,文铜,铜币",
+  "priceStats": {
+    "low": 3100,
+    "high": 3100,
+    "avg": 3100,
+    "latest": 3100
+  },
+  "records": [
+    {
+      "coinName": "奉天省造甲辰光绪元宝十文铜币",
+      "normalizedBoxCode": "43643820",
+      "displayBoxCode": "43643820",
+      "gradingCompany": "PCGS",
+      "grade": "MS62",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguojindaijizhibi/10377566.shtml",
+      "officialCertUrl": "https://cn.pcgs.com/cert/43643820",
+      "price": 3100,
+      "priceWithFee": 3348,
+      "transactedAt": "2026-07-27 20:47:05",
+      "productCode": "872396001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "铜,币,历史币,龙洋,龙,元宝,奉天,天省,省造,造甲,甲辰,辰光,光绪,绪元,宝十,十文,文铜,铜币"
+    }
+  ]
+}

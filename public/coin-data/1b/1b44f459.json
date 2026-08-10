@@ -1,0 +1,31 @@
+{
+  "coinName": "2008年28.28克银币",
+  "slug": "1b44f459",
+  "saleCount": 1,
+  "keywords": "银,币,2008年,28.28克,年安,安道,道尔,尔世,世界,界画,画家,家系,系列,列雷,雷诺,诺阿,阿长,长方,方形,形克,克彩,彩银,银币",
+  "priceStats": {
+    "low": 610,
+    "high": 610,
+    "avg": 610,
+    "latest": 610
+  },
+  "records": [
+    {
+      "coinName": "2008年安道尔世界画家系列雷诺阿长方形28.28克彩银币",
+      "normalizedBoxCode": "8504636039",
+      "displayBoxCode": "8504636-039",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/wgjsbizhang/10354153.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8504636-039/",
+      "price": 610,
+      "priceWithFee": 646.6,
+      "transactedAt": "2026-06-19 20:31:25",
+      "productCode": "869380014",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2008年,28.28克,年安,安道,道尔,尔世,世界,界画,画家,家系,系列,列雷,雷诺,诺阿,阿长,长方,方形,形克,克彩,彩银,银币"
+    }
+  ]
+}

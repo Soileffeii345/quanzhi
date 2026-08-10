@@ -1,0 +1,48 @@
+{
+  "coinName": "1993年熊猫15.552克普制银币",
+  "slug": "2b01ea7a",
+  "saleCount": 2,
+  "keywords": "银,币,1993年,2盎司,熊猫,年熊,猫盎,盎司,司普,普制,制银,银币",
+  "priceStats": {
+    "low": 390,
+    "high": 480,
+    "avg": 435,
+    "latest": 480
+  },
+  "records": [
+    {
+      "coinName": "1993年熊猫1/2盎司普制银币",
+      "normalizedBoxCode": "8659973040",
+      "displayBoxCode": "8659973-040",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-jiujin/10390808.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8659973-040/",
+      "price": 480,
+      "priceWithFee": 496.8,
+      "transactedAt": "2026-07-13 22:09:20",
+      "productCode": "873930003",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1993年,2盎司,熊猫,年熊,猫盎,盎司,司普,普制,制银,银币"
+    },
+    {
+      "coinName": "1993年熊猫1/2盎司普制银币",
+      "normalizedBoxCode": "8758891001",
+      "displayBoxCode": "8758891-001",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-jiuyin/10350707.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8758891-001/",
+      "price": 390,
+      "priceWithFee": 403.65,
+      "transactedAt": "2026-06-22 20:51:40",
+      "productCode": "869211001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1993年,2盎司,熊猫,年熊,猫盎,盎司,司普,普制,制银,银币"
+    }
+  ]
+}

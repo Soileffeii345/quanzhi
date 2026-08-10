@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4317324042",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4317324042",
+      "displayBoxCode": "4317324-042",
+      "gradingCompany": "NGC",
+      "grade": "MS 70",
+      "coinName": "2016年熊猫1克普制金币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-xinjin/10362483.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4317324-042/70/",
+      "price": 1120,
+      "priceWithFee": 1159.2,
+      "transactedAt": "2026-07-06 22:35:20",
+      "productCode": "870696001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/26/870696001A.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2016年,1克,熊猫,年熊,猫克,克普,普制,制金,金币"
+    }
+  ]
+}

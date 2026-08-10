@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8614695014",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8614695014",
+      "displayBoxCode": "8614695-014",
+      "gradingCompany": "NGC",
+      "grade": "PF70 ULTRA CAMEO",
+      "coinName": "2003年1/2盎司佛指舍利金币(开光证)",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/568275.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8614695-014/70/",
+      "price": 37000,
+      "priceWithFee": null,
+      "transactedAt": "2026-03-30 11:26:16",
+      "productCode": "KH127431",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260330/large_sell_dgxd0czi8gbmekqo.jpg",
+      "ocrConfidence": 39,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2003年,2盎司,宗教,年盎,盎司,司佛,佛指,指舍,舍利,利金,金币,币开,开光,光证"
+    }
+  ]
+}

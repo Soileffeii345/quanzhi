@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8619770053",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8619770053",
+      "displayBoxCode": "8619770-053",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1997年1盎司生肖牛银币(精)",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/538585.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8619770-053/69/",
+      "price": 2050,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-28 12:49:53",
+      "productCode": "KH114849",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260127/large_sell_fokoppir0kckgpkm.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1997年,1盎司,生肖,年盎,盎司,司生,肖牛,牛银,银币,币精"
+    }
+  ]
+}

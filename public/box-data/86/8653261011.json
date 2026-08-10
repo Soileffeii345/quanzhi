@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8653261011",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8653261011",
+      "displayBoxCode": "8653261-011",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2003年1盎司生肖羊彩银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/559490.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8653261-011/70/",
+      "price": 1300,
+      "priceWithFee": null,
+      "transactedAt": "2026-03-07 23:37:01",
+      "productCode": "KH122952",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260306/large_sell_jnn8bvalgehpdmiz.jpg",
+      "ocrConfidence": 46,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2003年,1盎司,生肖,年盎,盎司,司生,肖羊,羊彩,彩银,银币"
+    }
+  ]
+}

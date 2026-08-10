@@ -1,0 +1,65 @@
+{
+  "coinName": "2008年生肖31.104克银币",
+  "slug": "59a113df",
+  "saleCount": 3,
+  "keywords": "银,币,2008年,1盎司,生肖,年盎,盎司,司梅,梅花,花形,形生,肖鼠,鼠银,银币,司扇,扇形,司生",
+  "priceStats": {
+    "low": 400,
+    "high": 860,
+    "avg": 583,
+    "latest": 490
+  },
+  "records": [
+    {
+      "coinName": "2008年1盎司梅花形生肖鼠银币",
+      "normalizedBoxCode": "2782350011",
+      "displayBoxCode": "2782350-011",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/518879.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2782350-011/",
+      "price": 490,
+      "priceWithFee": null,
+      "transactedAt": "2025-12-10 10:45:35",
+      "productCode": "AA601528",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2008年,1盎司,生肖,年盎,盎司,司梅,梅花,花形,形生,肖鼠,鼠银,银币"
+    },
+    {
+      "coinName": "2008年1盎司扇形生肖鼠银币",
+      "normalizedBoxCode": "4321235001",
+      "displayBoxCode": "4321235-001",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/529306.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4321235-001/69/",
+      "price": 860,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-24 07:40:49",
+      "productCode": "KH109203",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2008年,1盎司,生肖,年盎,盎司,司扇,扇形,形生,肖鼠,鼠银,银币"
+    },
+    {
+      "coinName": "2008年1盎司生肖鼠银币",
+      "normalizedBoxCode": "8498632001",
+      "displayBoxCode": "8498632-001",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/506127.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8498632-001/",
+      "price": 400,
+      "priceWithFee": null,
+      "transactedAt": "2025-10-16 17:30:42",
+      "productCode": "AA590738",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2008年,1盎司,生肖,年盎,盎司,司生,肖鼠,鼠银,银币"
+    }
+  ]
+}

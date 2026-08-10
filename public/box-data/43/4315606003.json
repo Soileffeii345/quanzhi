@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4315606003",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4315606003",
+      "displayBoxCode": "4315606-003",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2016年8克宁波会馆设立90周年金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/471547.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4315606-003/69/",
+      "price": 6075,
+      "priceWithFee": null,
+      "transactedAt": "2025-04-03 10:00:04",
+      "productCode": "KH063591",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250403/large_sell_spegnollmtk1rete.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2016年,8克,年克,克宁,宁波,波会,会馆,馆设,设立,立周,周年,年金,金币"
+    }
+  ]
+}

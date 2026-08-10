@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6046688005",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6046688005",
+      "displayBoxCode": "6046688-005",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2021年释迦摩尼三色纪念章",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/tongzhang/10365744.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6046688-005/",
+      "price": 160,
+      "priceWithFee": 177.6,
+      "transactedAt": "2026-07-03 19:01:00",
+      "productCode": "870340001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/26/870340001A.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "章,2021年,年释,释迦,迦摩,摩尼,尼三,三色,色纪,纪念,念章"
+    }
+  ]
+}

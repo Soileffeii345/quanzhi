@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2493684031",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2493684031",
+      "displayBoxCode": "2493684-031",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2014年香港上海汇丰银行壹佰元",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/liantichao-jinianchao/10409174.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2493684-031/",
+      "price": 250,
+      "priceWithFee": 270,
+      "transactedAt": "2026-07-18 22:00:50",
+      "productCode": "876072010",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/876072010B.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,2014年,年香,香港,港上,上海,海汇,汇丰,丰银,银行,行壹,壹佰,佰元,外国/特区"
+    }
+  ]
+}

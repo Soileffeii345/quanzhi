@@ -1,0 +1,31 @@
+{
+  "coinName": "1998年航天31.104克普制金币",
+  "slug": "64aef8b1",
+  "saleCount": 1,
+  "keywords": "金,银,币,1998年,1盎司,年中,中国,国国,国际,际航,航空,空航,航天,天博,博览,览会,会盎,盎司,司镶,镶金,金普,普制,制银,银币",
+  "priceStats": {
+    "low": 820,
+    "high": 820,
+    "avg": 820,
+    "latest": 820
+  },
+  "records": [
+    {
+      "coinName": "1998年中国国际航空航天博览会1盎司镶金普制银币",
+      "normalizedBoxCode": "8610701006",
+      "displayBoxCode": "8610701-006",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10377236.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8610701-006/69/",
+      "price": 820,
+      "priceWithFee": 848.7,
+      "transactedAt": "2026-07-06 21:10:30",
+      "productCode": "871787006",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,1998年,1盎司,年中,中国,国国,国际,际航,航空,空航,航天,天博,博览,览会,会盎,盎司,司镶,镶金,金普,普制,制银,银币"
+    }
+  ]
+}

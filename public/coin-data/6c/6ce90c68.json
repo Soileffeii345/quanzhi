@@ -1,0 +1,48 @@
+{
+  "coinName": "1997年生肖3.11克金币",
+  "slug": "6ce90c68",
+  "saleCount": 2,
+  "keywords": "金,币,1997年,10盎司,生肖,年盎,盎司,司生,肖牛,牛金,金币",
+  "priceStats": {
+    "low": 2675,
+    "high": 2675,
+    "avg": 2675,
+    "latest": 2675
+  },
+  "records": [
+    {
+      "coinName": "1997年1/10盎司生肖牛金币",
+      "normalizedBoxCode": "8612710046",
+      "displayBoxCode": "8612710-046",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/502556.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8612710-046/69/",
+      "price": 2675,
+      "priceWithFee": null,
+      "transactedAt": "2025-09-25 18:05:08",
+      "productCode": "AA587639",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1997年,10盎司,生肖,年盎,盎司,司生,肖牛,牛金,金币"
+    },
+    {
+      "coinName": "1997年1/10盎司生肖牛金币",
+      "normalizedBoxCode": "8612710047",
+      "displayBoxCode": "8612710-047",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/502557.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8612710-047/",
+      "price": 2675,
+      "priceWithFee": null,
+      "transactedAt": "2025-09-25 18:04:49",
+      "productCode": "AA587640",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1997年,10盎司,生肖,年盎,盎司,司生,肖牛,牛金,金币"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2260687016",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2260687016",
+      "displayBoxCode": "2260687-016",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "民国二十五年中央银行伍拾圆",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10379492.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2260687-016/",
+      "price": 810,
+      "priceWithFee": 899.1,
+      "transactedAt": "2026-07-23 21:27:10",
+      "productCode": "872384004",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/27/872384004B.jpg",
+      "ocrConfidence": 31,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国二,二十,十五,五年,年中,中央,央银,银行,行伍,伍拾,拾圆"
+    }
+  ]
+}

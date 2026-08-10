@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8503900015",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8503900015",
+      "displayBoxCode": "8503900-015",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2024年15克国家宝藏何尊金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/550010.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8503900-015/70/",
+      "price": 22000,
+      "priceWithFee": null,
+      "transactedAt": "2026-02-05 21:29:41",
+      "productCode": "KH117186",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260129/large_sell_ejksveclhmokicvk.jpg",
+      "ocrConfidence": 38,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2024年,15克,年克,克国,国家,家宝,宝藏,藏何,何尊,尊金,金币"
+    }
+  ]
+}

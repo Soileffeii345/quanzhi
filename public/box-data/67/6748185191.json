@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6748185191",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6748185191",
+      "displayBoxCode": "6748185-191",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2013年中国佛教圣地-普陀山2盎司精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10415021.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6748185-191/69/",
+      "price": 1100,
+      "priceWithFee": 1138.5,
+      "transactedAt": "2026-07-20 21:25:40",
+      "productCode": "876728017",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/876728017A.jpg",
+      "ocrConfidence": 32,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2013年,2盎司,宗教,年中,中国,国佛,佛教,教圣,圣地,地普,普陀,陀山,山盎,盎司,司精,精制,制银,银币,评级"
+    }
+  ]
+}

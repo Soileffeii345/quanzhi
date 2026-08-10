@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6337326023",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6337326023",
+      "displayBoxCode": "6337326-023",
+      "gradingCompany": "NGC",
+      "grade": "PF70 ULTRA CAMEO",
+      "coinName": "2016年1盎司梅花形生肖猴银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/579867.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6337326-023/70/",
+      "price": 980,
+      "priceWithFee": null,
+      "transactedAt": "2026-05-19 21:27:18",
+      "productCode": "AA647136",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260513/large_sell_tgokr7p3grkln3f0.jpg",
+      "ocrConfidence": 28,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2016年,1盎司,生肖,年盎,盎司,司梅,梅花,花形,形生,肖猴,猴银,银币"
+    }
+  ]
+}

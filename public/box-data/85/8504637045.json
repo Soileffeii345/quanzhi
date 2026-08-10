@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8504637045",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8504637045",
+      "displayBoxCode": "8504637-045",
+      "gradingCompany": "NGC",
+      "grade": "PF69 ULTRA CAMEO",
+      "coinName": "2013年吉尔吉斯斯坦塞马卢塔什史前岩画28.28克彩色银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/wgjsbizhang/10415196.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8504637-045/69/",
+      "price": 890,
+      "priceWithFee": 943.4,
+      "transactedAt": "2026-07-24 20:45:05",
+      "productCode": "876743024",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/876743024A.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2013年,28.28克,年吉,吉尔,尔吉,吉斯,斯斯,斯坦,坦塞,塞马,马卢,卢塔,塔什,什史,史前,前岩,岩画,画克,克彩,彩色,色银,银币"
+    }
+  ]
+}

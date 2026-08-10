@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6194549001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6194549001",
+      "displayBoxCode": "6194549-001",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1993年癸酉鸡年生肖1盎司精制金币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-jin/10423018.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6194549-001/",
+      "price": 43000,
+      "priceWithFee": 44505,
+      "transactedAt": "2026-07-23 20:52:35",
+      "productCode": "877835003",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/877835003A.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1993年,1盎司,生肖,年癸,癸酉,酉鸡,鸡年,年生,肖盎,盎司,司精,精制,制金,金币,评级"
+    }
+  ]
+}

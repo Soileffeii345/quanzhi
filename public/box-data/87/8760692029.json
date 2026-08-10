@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8760692029",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8760692029",
+      "displayBoxCode": "8760692-029",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2016年30克大足石刻银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/574276.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8760692-029/69/",
+      "price": 730,
+      "priceWithFee": null,
+      "transactedAt": "2026-04-24 12:29:58",
+      "productCode": "KH131372",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260420/large_sell_0mps2b3h4eh64d14.jpg",
+      "ocrConfidence": 45,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2016年,30克,年克,克大,大足,足石,石刻,刻银,银币"
+    }
+  ]
+}

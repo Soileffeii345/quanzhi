@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4289008039",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4289008039",
+      "displayBoxCode": "4289008-039",
+      "gradingCompany": "NGC",
+      "grade": "MS69",
+      "coinName": "2015年1/4盎司熊猫金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/455042.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4289008-039/69/",
+      "price": 5260,
+      "priceWithFee": null,
+      "transactedAt": "2025-02-09 10:04:21",
+      "productCode": "AA532365A",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20241109/large_sell_nn6fvzrrvhez1sqc.jpg",
+      "ocrConfidence": 31,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2015年,4盎司,熊猫,年盎,盎司,司熊,猫金,金币"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2585858048",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2585858048",
+      "displayBoxCode": "2585858-048",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "第一版人民币大帆船100元",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/diyibanrenminbi/10401730.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2585858-048/",
+      "price": 50000,
+      "priceWithFee": 55000,
+      "transactedAt": "2026-07-23 20:17:10",
+      "productCode": "875289005",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/875289005B.jpg",
+      "ocrConfidence": 29,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,第一,一版,版人,人民,民币,币大,大帆,帆船,船元"
+    }
+  ]
+}

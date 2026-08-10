@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8579955002",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8579955002",
+      "displayBoxCode": "8579955-002",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2025年西南财经大学建校100周年30克精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10423936.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8579955-002/70/",
+      "price": 950,
+      "priceWithFee": 983.25,
+      "transactedAt": "2026-07-25 20:50:05",
+      "productCode": "877834002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/877834002A.jpg",
+      "ocrConfidence": 39,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2025年,30克,年西,西南,南财,财经,经大,大学,学建,建校,校周,周年,年克,克精,精制,制银,银币,评级"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6179988051",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6179988051",
+      "displayBoxCode": "6179988-051",
+      "gradingCompany": "NGC",
+      "grade": "PF69",
+      "coinName": "2008年第29届奥林匹克运动会-乒乓球精制流通纪念币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10357524.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6179988-051/69/",
+      "price": 170,
+      "priceWithFee": 183.6,
+      "transactedAt": "2026-06-24 20:56:45",
+      "productCode": "869735005",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/869735005A.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2008年,年第,第届,届奥,奥林,林匹,匹克,克运,运动,动会,会乒,乒乓,乓球,球精,精制,制流,流通,通纪,纪念,念币,评级"
+    }
+  ]
+}

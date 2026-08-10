@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2049737003",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2049737003",
+      "displayBoxCode": "2049737-003",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2011年1/2盎司扇形生肖兔金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/506994.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2049737-003/",
+      "price": 15315,
+      "priceWithFee": null,
+      "transactedAt": "2025-10-21 16:59:28",
+      "productCode": "AA591376",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251020/large_sell_t6agzrnma9koix8o.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2011年,2盎司,生肖,年盎,盎司,司扇,扇形,形生,肖兔,兔金,金币"
+    }
+  ]
+}

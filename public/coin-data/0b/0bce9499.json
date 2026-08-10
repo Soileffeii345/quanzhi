@@ -1,0 +1,31 @@
+{
+  "coinName": "1989年熊猫20盎司普制金币",
+  "slug": "0bce9499",
+  "saleCount": 1,
+  "keywords": "金,币,1989年,20盎司,熊猫,年熊,猫盎,盎司,司普,普制,制金,金币,币小,小字,字版",
+  "priceStats": {
+    "low": 1880,
+    "high": 1880,
+    "avg": 1880,
+    "latest": 1880
+  },
+  "records": [
+    {
+      "coinName": "1989年熊猫1/20盎司普制金币（小字版）",
+      "normalizedBoxCode": "8819595005",
+      "displayBoxCode": "8819595-005",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-jiujin/10390816.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8819595-005/",
+      "price": 1880,
+      "priceWithFee": 1945.8,
+      "transactedAt": "2026-07-09 21:22:05",
+      "productCode": "873930011",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1989年,20盎司,熊猫,年熊,猫盎,盎司,司普,普制,制金,金币,币小,小字,字版"
+    }
+  ]
+}

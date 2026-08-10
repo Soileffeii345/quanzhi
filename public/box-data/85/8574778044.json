@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8574778044",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8574778044",
+      "displayBoxCode": "8574778-044",
+      "gradingCompany": "NGC",
+      "grade": "PF 68 ULTRA CAMEO",
+      "coinName": "2004年邓小平诞辰100周年精制流通纪念币二枚",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10396430.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8574778-044/68/",
+      "price": 610,
+      "priceWithFee": 658.8,
+      "transactedAt": "2026-07-15 20:30:45",
+      "productCode": "874407018",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/874407018A.jpg",
+      "ocrConfidence": 48,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2004年,年邓,邓小,小平,平诞,诞辰,辰周,周年,年精,精制,制流,流通,通纪,纪念,念币,币二,二枚,评级"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "coinName": "2026年生肖150克精制金币",
+  "slug": "4de5599f",
+  "saleCount": 1,
+  "keywords": "金,币,2026年,150克,生肖,年丙,丙午,午马,马年,年生,肖克,克精,精制,制金,金币,评级",
+  "priceStats": {
+    "low": 181000,
+    "high": 181000,
+    "avg": 181000,
+    "latest": 181000
+  },
+  "records": [
+    {
+      "coinName": "2026年丙午马年生肖150克精制金币",
+      "normalizedBoxCode": "8650695001",
+      "displayBoxCode": "8650695-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-jin/10417577.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8650695-001/70/",
+      "price": 181000,
+      "priceWithFee": 187335,
+      "transactedAt": "2026-07-23 20:59:15",
+      "productCode": "877170002",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2026年,150克,生肖,年丙,丙午,午马,马年,年生,肖克,克精,精制,制金,金币,评级"
+    }
+  ]
+}

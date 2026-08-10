@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2156313027",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2156313027",
+      "displayBoxCode": "2156313-027",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "民国二十九年中央储备银行伍圆连号二枚",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/difangsipiao/10383820.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2156313-027/",
+      "price": 370,
+      "priceWithFee": 410.7,
+      "transactedAt": "2026-07-28 21:29:50",
+      "productCode": "872677003",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/27/872677003B.jpg",
+      "ocrConfidence": 27,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国二,二十,十九,九年,年中,中央,央储,储备,备银,银行,行伍,伍圆,圆连,连号,号二,二枚"
+    }
+  ]
+}

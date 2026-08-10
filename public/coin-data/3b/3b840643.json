@@ -1,0 +1,31 @@
+{
+  "coinName": "2008年14.14克银币",
+  "slug": "3b840643",
+  "saleCount": 1,
+  "keywords": "银,币,2008年,14.14克,年波,波兰,兰詹,詹姆,姆斯,斯敦,敦波,兰移,移民,民周,周年,年镶,镶嵌,嵌玻,玻璃,璃克,克银,银币,币仿,仿古,古银",
+  "priceStats": {
+    "low": 530,
+    "high": 530,
+    "avg": 530,
+    "latest": 530
+  },
+  "records": [
+    {
+      "coinName": "2008年波兰詹姆斯敦波兰移民400周年镶嵌玻璃14.14克银币仿古银币",
+      "normalizedBoxCode": "8504392019",
+      "displayBoxCode": "8504392-019",
+      "gradingCompany": "NGC",
+      "grade": "MS 70",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianbi/10385570.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8504392-019/70/",
+      "price": 530,
+      "priceWithFee": 588.3,
+      "transactedAt": "2026-07-10 20:07:35",
+      "productCode": "873385006",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2008年,14.14克,年波,波兰,兰詹,詹姆,姆斯,斯敦,敦波,兰移,移民,民周,周年,年镶,镶嵌,嵌玻,玻璃,璃克,克银,银币,币仿,仿古,古银"
+    }
+  ]
+}

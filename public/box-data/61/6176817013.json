@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6176817013",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6176817013",
+      "displayBoxCode": "6176817-013",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2001年1/2盎司京剧艺术第3组彩金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/525066.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6176817-013/",
+      "price": 18400,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-20 17:27:52",
+      "productCode": "AA605408",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251227/large_sell_tfeg4tktiueb8qd3.jpg",
+      "ocrConfidence": 29,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2001年,2盎司,戏曲,年盎,盎司,司京,京剧,剧艺,艺术,术第,第组,组彩,彩金,金币"
+    }
+  ]
+}

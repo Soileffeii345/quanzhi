@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4313458014",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4313458014",
+      "displayBoxCode": "4313458-014",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2016年8克吉祥文化瓜瓞绵绵金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/469384.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4313458-014/69/",
+      "price": 5760,
+      "priceWithFee": null,
+      "transactedAt": "2025-03-21 11:14:43",
+      "productCode": "KH061990",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250321/large_sell_neunbe6rsvcpqxjk.jpg",
+      "ocrConfidence": 48,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2016年,8克,吉祥文化,年克,克吉,吉祥,祥文,文化,化瓜,瓜瓞,瓞绵,绵绵,绵金,金币"
+    }
+  ]
+}

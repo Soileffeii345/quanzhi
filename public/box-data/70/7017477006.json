@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "7017477006",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "7017477006",
+      "displayBoxCode": "7017477-006",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "第一版人民币渭河桥5000元",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/diyibanrenminbi/10395168.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/7017477-006/",
+      "price": 3500,
+      "priceWithFee": 3850,
+      "transactedAt": "2026-07-23 20:14:40",
+      "productCode": "874274002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/874274002B.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,第一,一版,版人,人民,民币,币渭,渭河,河桥,桥元"
+    }
+  ]
+}

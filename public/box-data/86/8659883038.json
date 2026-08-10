@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8659883038",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8659883038",
+      "displayBoxCode": "8659883-038",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2021年中国书法艺术-楷书8克精制金币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10360186.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8659883-038/70/",
+      "price": 8700,
+      "priceWithFee": 9004.5,
+      "transactedAt": "2026-06-25 21:57:35",
+      "productCode": "870428018",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/870428018A.jpg",
+      "ocrConfidence": 39,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2021年,8克,书法,年中,中国,国书,法艺,艺术,术楷,楷书,书克,克精,精制,制金,金币,评级"
+    }
+  ]
+}

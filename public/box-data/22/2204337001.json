@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2204337001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2204337001",
+      "displayBoxCode": "2204337-001",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "coinName": "2004年熊猫金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/428175.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2204337-001/69/",
+      "price": 35000,
+      "priceWithFee": null,
+      "transactedAt": "2024-05-08 14:30:31",
+      "productCode": "AA475426.....30",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20240420/large_sell_jwexu6dl60n3uroi.jpg",
+      "ocrConfidence": 39,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2004年,熊猫,年熊,猫金,金币"
+    }
+  ]
+}

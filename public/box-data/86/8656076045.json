@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8656076045",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8656076045",
+      "displayBoxCode": "8656076-045",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2007年丁亥猪年生肖1盎司精制彩银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10390833.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8656076-045/70/",
+      "price": 900,
+      "priceWithFee": 931.5,
+      "transactedAt": "2026-07-13 20:17:40",
+      "productCode": "873930028",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/27/873930028A.jpg",
+      "ocrConfidence": 38,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2007年,1盎司,生肖,年丁,丁亥,亥猪,猪年,年生,肖盎,盎司,司精,精制,制彩,彩银,银币,评级"
+    }
+  ]
+}

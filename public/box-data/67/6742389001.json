@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6742389001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6742389001",
+      "displayBoxCode": "6742389-001",
+      "gradingCompany": "NGC",
+      "grade": "Pr69 ULTRA CAMEO",
+      "coinName": "1990年龙凤2盎司精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10410188.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6742389-001/69/",
+      "price": 8300,
+      "priceWithFee": 8590.5,
+      "transactedAt": "2026-07-23 20:01:45",
+      "productCode": "876281001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/876281001A.jpg",
+      "ocrConfidence": 38,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1990年,2盎司,年龙,龙凤,凤盎,盎司,司精,精制,制银,银币,评级"
+    }
+  ]
+}

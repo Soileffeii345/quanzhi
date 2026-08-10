@@ -1,0 +1,48 @@
+{
+  "coinName": "1984年奥运会15.552克精制银币",
+  "slug": "25e13e1c",
+  "saleCount": 2,
+  "keywords": "银,币,1984年,2盎司,奥运,年第,第届,届冬,冬季,季奥,运会,会男,男子,子速,速滑,滑盎,盎司,司精,精制,制银,银币,评级",
+  "priceStats": {
+    "low": 470,
+    "high": 880,
+    "avg": 675,
+    "latest": 470
+  },
+  "records": [
+    {
+      "coinName": "1984年第14届冬季奥运会-男子速滑1/2盎司精制银币",
+      "normalizedBoxCode": "2771390005",
+      "displayBoxCode": "2771390-005",
+      "gradingCompany": "NGC",
+      "grade": "PF 67 CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10412795.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2771390-005/67/",
+      "price": 470,
+      "priceWithFee": 486.45,
+      "transactedAt": "2026-07-20 20:15:10",
+      "productCode": "876670002",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1984年,2盎司,奥运,年第,第届,届冬,冬季,季奥,运会,会男,男子,子速,速滑,滑盎,盎司,司精,精制,制银,银币,评级"
+    },
+    {
+      "coinName": "1984年第14届冬季奥运会-男子速滑1/2盎司精制银币",
+      "normalizedBoxCode": "6715258004",
+      "displayBoxCode": "6715258-004",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10419100.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6715258-004/69/",
+      "price": 880,
+      "priceWithFee": 910.8,
+      "transactedAt": "2026-07-27 21:24:10",
+      "productCode": "877213003",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1984年,2盎司,奥运,年第,第届,届冬,冬季,季奥,运会,会男,男子,子速,速滑,滑盎,盎司,司精,精制,制银,银币,评级"
+    }
+  ]
+}

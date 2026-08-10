@@ -1,0 +1,31 @@
+{
+  "coinName": "2009年25克银币",
+  "slug": "604864f3",
+  "saleCount": 1,
+  "keywords": "银,币,2009年,25克,年帕,帕劳,劳爱,爱心,心天,天使,使镶,镶嵌,嵌水,水晶,晶心,心形,形克,克彩,彩银,银币",
+  "priceStats": {
+    "low": 660,
+    "high": 660,
+    "avg": 660,
+    "latest": 660
+  },
+  "records": [
+    {
+      "coinName": "2009年帕劳爱心天使镶嵌水晶心形25克彩银币",
+      "normalizedBoxCode": "3504636028",
+      "displayBoxCode": "3504636-028",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/wgjsbizhang/10354140.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3504636-028/",
+      "price": 660,
+      "priceWithFee": 699.6,
+      "transactedAt": "2026-06-19 20:24:05",
+      "productCode": "869380001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2009年,25克,年帕,帕劳,劳爱,爱心,心天,天使,使镶,镶嵌,嵌水,水晶,晶心,心形,形克,克彩,彩银,银币"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "88432008",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "88432008",
+      "displayBoxCode": "88432008",
+      "gradingCompany": "PCGS",
+      "grade": "待复核",
+      "coinName": "1985年22克历史人物第2组老子银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/537914.html",
+      "officialCertUrl": "https://cn.pcgs.com/cert/88432008",
+      "price": 1950,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-29 17:06:20",
+      "productCode": "KH112967",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260125/large_sell_i20zpcguzzn5arbi.jpg",
+      "ocrConfidence": 38,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1985年,22克,年克,克历,历史,史人,人物,物第,第组,组老,老子,子银,银币"
+    }
+  ]
+}

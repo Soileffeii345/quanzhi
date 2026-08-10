@@ -1,0 +1,31 @@
+{
+  "coinName": "1986年3盎司精制金币",
+  "slug": "3c28b770",
+  "saleCount": 1,
+  "keywords": "金,币,1986年,3盎司,年国,国际,际和,和平,平年,年盎,盎司,司精,精制,制金,金币,评级",
+  "priceStats": {
+    "low": 39500,
+    "high": 39500,
+    "avg": 39500,
+    "latest": 39500
+  },
+  "records": [
+    {
+      "coinName": "1986年国际和平年1/3盎司精制金币",
+      "normalizedBoxCode": "8825205001",
+      "displayBoxCode": "8825205-001",
+      "gradingCompany": "NGC",
+      "grade": "PF69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10378892.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8825205-001/69/",
+      "price": 39500,
+      "priceWithFee": 40882.5,
+      "transactedAt": "2026-07-02 20:57:30",
+      "productCode": "872399003",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1986年,3盎司,年国,国际,际和,和平,平年,年盎,盎司,司精,精制,制金,金币,评级"
+    }
+  ]
+}

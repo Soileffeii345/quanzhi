@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8648845004",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8648845004",
+      "displayBoxCode": "8648845-004",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1990年第25届奥运会-跳水27克精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10397405.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8648845-004/69/",
+      "price": 530,
+      "priceWithFee": 548.55,
+      "transactedAt": "2026-07-13 21:45:10",
+      "productCode": "874839004",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/874839004A.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1990年,27克,奥运,年第,第届,届奥,运会,会跳,跳水,水克,克精,精制,制银,银币,评级"
+    }
+  ]
+}

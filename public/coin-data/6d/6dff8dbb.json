@@ -1,0 +1,31 @@
+{
+  "coinName": "民国三年袁像贰角银元",
+  "slug": "6dff8dbb",
+  "saleCount": 1,
+  "keywords": "银,历史币,袁大头,大头,袁头,民国,国三,三年,年袁,袁像,像贰,贰角,角银,银元,元福,福建,建版",
+  "priceStats": {
+    "low": 510,
+    "high": 510,
+    "avg": 510,
+    "latest": 510
+  },
+  "records": [
+    {
+      "coinName": "民国三年袁像贰角银元（福建版）",
+      "normalizedBoxCode": "5805624004",
+      "displayBoxCode": "5805624-004",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguojindaijizhibi/10351841.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/5805624-004/",
+      "price": 510,
+      "priceWithFee": 550.8,
+      "transactedAt": "2026-07-13 21:02:45",
+      "productCode": "869263003",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,袁大头,大头,袁头,民国,国三,三年,年袁,袁像,像贰,贰角,角银,银元,元福,福建,建版"
+    }
+  ]
+}

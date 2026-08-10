@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8499452012",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8499452012",
+      "displayBoxCode": "8499452-012",
+      "gradingCompany": "NGC",
+      "grade": "PF69 ULTRA CAMEO",
+      "coinName": "2002年1/2盎司上海申博成功金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/497606.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8499452-012/69/",
+      "price": 14830,
+      "priceWithFee": null,
+      "transactedAt": "2025-11-11 07:59:49",
+      "productCode": "KH090634",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250901/large_sell_maggv8lte3gypq4z.jpg",
+      "ocrConfidence": 52,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2002年,2盎司,年盎,盎司,司上,上海,海申,申博,博成,成功,功金,金币"
+    }
+  ]
+}

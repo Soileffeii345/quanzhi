@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6409350017",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6409350017",
+      "displayBoxCode": "6409350-017",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2023年3克熊猫铂币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/510255.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6409350-017/",
+      "price": 1550,
+      "priceWithFee": null,
+      "transactedAt": "2025-11-03 17:46:44",
+      "productCode": "AA594362",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251103/large_sell_gnrspbcy20gr3k9g.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "贵金属,币,2023年,3克,熊猫,年克,克熊,猫铂,铂币"
+    }
+  ]
+}

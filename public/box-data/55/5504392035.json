@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "5504392035",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "5504392035",
+      "displayBoxCode": "5504392-035",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2002年朝鲜奥地利最后的先令1盎司银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/wgjsbizhang/10395092.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/5504392-035/",
+      "price": 480,
+      "priceWithFee": 508.8,
+      "transactedAt": "2026-07-10 20:34:15",
+      "productCode": "874112010",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/874112010A.jpg",
+      "ocrConfidence": 38,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2002年,1盎司,年朝,朝鲜,鲜奥,奥地,地利,利最,最后,后的,的先,先令,令盎,盎司,司银,银币"
+    }
+  ]
+}

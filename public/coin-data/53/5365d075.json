@@ -1,0 +1,82 @@
+{
+  "coinName": "1995年3盎司精制银币",
+  "slug": "5365d075",
+  "saleCount": 4,
+  "keywords": "银,币,1995年,3盎司,年中,中国,国近,近代,代名,名画,画飞,飞禽,禽鹰,鹰盎,盎司,司十,十二,二边,边形,形精,精制,制银,银币,评级",
+  "priceStats": {
+    "low": 2300,
+    "high": 2500,
+    "avg": 2400,
+    "latest": 2450
+  },
+  "records": [
+    {
+      "coinName": "1995年中国近代名画飞禽-鹰2/3盎司十二边形精制银币",
+      "normalizedBoxCode": "6765283011",
+      "displayBoxCode": "6765283-011",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10389109.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6765283-011/",
+      "price": 2450,
+      "priceWithFee": 2535.75,
+      "transactedAt": "2026-07-09 20:44:45",
+      "productCode": "873690007",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1995年,3盎司,年中,中国,国近,近代,代名,名画,画飞,飞禽,禽鹰,鹰盎,盎司,司十,十二,二边,边形,形精,精制,制银,银币,评级"
+    },
+    {
+      "coinName": "1995年中国近代名画飞禽-鹰2/3盎司十二边形精制银币",
+      "normalizedBoxCode": "6765283012",
+      "displayBoxCode": "6765283-012",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10389104.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6765283-012/69/",
+      "price": 2500,
+      "priceWithFee": 2587.5,
+      "transactedAt": "2026-07-09 20:12:45",
+      "productCode": "873690002",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1995年,3盎司,年中,中国,国近,近代,代名,名画,画飞,飞禽,禽鹰,鹰盎,盎司,司十,十二,二边,边形,形精,精制,制银,银币,评级"
+    },
+    {
+      "coinName": "1995年中国近代名画飞禽-鹰2/3盎司十二边形精制银币",
+      "normalizedBoxCode": "8610302034",
+      "displayBoxCode": "8610302-034",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10405294.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8610302-034/69/",
+      "price": 2300,
+      "priceWithFee": 2380.5,
+      "transactedAt": "2026-07-16 20:20:05",
+      "productCode": "875580001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1995年,3盎司,年中,中国,国近,近代,代名,名画,画飞,飞禽,禽鹰,鹰盎,盎司,司十,十二,二边,边形,形精,精制,制银,银币,评级"
+    },
+    {
+      "coinName": "1995年中国近代名画飞禽-鹰2/3盎司十二边形精制银币",
+      "normalizedBoxCode": "8610302034",
+      "displayBoxCode": "8610302-034",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10389108.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8610302-034/69/",
+      "price": 2350,
+      "priceWithFee": 2432.25,
+      "transactedAt": "2026-07-09 20:30:45",
+      "productCode": "873690006",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1995年,3盎司,年中,中国,国近,近代,代名,名画,画飞,飞禽,禽鹰,鹰盎,盎司,司十,十二,二边,边形,形精,精制,制银,银币,评级"
+    }
+  ]
+}

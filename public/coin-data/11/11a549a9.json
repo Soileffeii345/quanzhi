@@ -1,0 +1,65 @@
+{
+  "coinName": "2019年5克金币",
+  "slug": "11a549a9",
+  "saleCount": 3,
+  "keywords": "金,币,2019年,5克,年克,克第,第七,七届,届世,世界,界军,军人,人运,运动,动会,会金,金币,克北,北京,京世,世园,园会",
+  "priceStats": {
+    "low": 3950,
+    "high": 5155,
+    "avg": 4358,
+    "latest": 3970
+  },
+  "records": [
+    {
+      "coinName": "2019年5克第七届世界军人运动会金币",
+      "normalizedBoxCode": "6045568013",
+      "displayBoxCode": "6045568-013",
+      "gradingCompany": "NGC",
+      "grade": "PF70 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/491795.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6045568-013/70/",
+      "price": 3970,
+      "priceWithFee": null,
+      "transactedAt": "2025-07-30 20:26:16",
+      "productCode": "KH077346",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2019年,5克,年克,克第,第七,七届,届世,世界,界军,军人,人运,运动,动会,会金,金币"
+    },
+    {
+      "coinName": "2019年5克北京世园会金币",
+      "normalizedBoxCode": "6151823012",
+      "displayBoxCode": "6151823-012",
+      "gradingCompany": "NGC",
+      "grade": "PF70 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/523758.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6151823-012/70/",
+      "price": 5155,
+      "priceWithFee": null,
+      "transactedAt": "2025-12-23 10:37:39",
+      "productCode": "KH097347",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2019年,5克,年克,克北,北京,京世,世园,园会,会金,金币"
+    },
+    {
+      "coinName": "2019年5克第七届世界军人运动会金币",
+      "normalizedBoxCode": "8501616005",
+      "displayBoxCode": "8501616-005",
+      "gradingCompany": "NGC",
+      "grade": "PF 69",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/485100.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8501616-005/69/",
+      "price": 3950,
+      "priceWithFee": null,
+      "transactedAt": "2025-06-24 09:46:51",
+      "productCode": "KH071511",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2019年,5克,年克,克第,第七,七届,届世,世界,界军,军人,人运,运动,动会,会金,金币"
+    }
+  ]
+}

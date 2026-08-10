@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4564327098",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4564327098",
+      "displayBoxCode": "4564327-098",
+      "gradingCompany": "NGC",
+      "grade": "PF69",
+      "coinName": "2017年1盎司中德友好高浮雕银章",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/573056.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4564327-098/69/",
+      "price": 700,
+      "priceWithFee": null,
+      "transactedAt": "2026-05-05 12:35:13",
+      "productCode": "KH132886",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260416/large_sell_ptri9ldzfwokkess.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,章,2017年,1盎司,年盎,盎司,司中,中德,德友,友好,好高,高浮,浮雕,雕银,银章"
+    }
+  ]
+}

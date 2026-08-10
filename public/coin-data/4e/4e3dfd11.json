@@ -1,0 +1,48 @@
+{
+  "coinName": "1991年熊猫31.104克普制银币",
+  "slug": "4e3dfd11",
+  "saleCount": 2,
+  "keywords": "银,币,1991年,1盎司,熊猫,年熊,猫盎,盎司,司普,普制,制银,银币,币小,小字,字版",
+  "priceStats": {
+    "low": 790,
+    "high": 930,
+    "avg": 860,
+    "latest": 930
+  },
+  "records": [
+    {
+      "coinName": "1991年熊猫1盎司普制银币（小字版）",
+      "normalizedBoxCode": "8631199002",
+      "displayBoxCode": "8631199-002",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-jiuyin/10421083.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8631199-002/",
+      "price": 930,
+      "priceWithFee": 962.55,
+      "transactedAt": "2026-07-27 21:25:10",
+      "productCode": "877234003",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1991年,1盎司,熊猫,年熊,猫盎,盎司,司普,普制,制银,银币,币小,小字,字版"
+    },
+    {
+      "coinName": "1991年熊猫1盎司普制银币（小字版）",
+      "normalizedBoxCode": "8631199003",
+      "displayBoxCode": "8631199-003",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-jiuyin/10395469.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8631199-003/",
+      "price": 790,
+      "priceWithFee": 817.65,
+      "transactedAt": "2026-07-13 20:58:05",
+      "productCode": "874285007",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1991年,1盎司,熊猫,年熊,猫盎,盎司,司普,普制,制银,银币,币小,小字,字版"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "coinName": "1907年银币",
+  "slug": "49c36861",
+  "saleCount": 1,
+  "keywords": "银,币,1907年,年日,日本,本明,明治,治四,四十,十年,年五,五十,十钱,钱银,银币,外国/特区",
+  "priceStats": {
+    "low": 260,
+    "high": 260,
+    "avg": 260,
+    "latest": 260
+  },
+  "records": [
+    {
+      "coinName": "1907年日本明治四十年五十钱银币",
+      "normalizedBoxCode": "8651031003",
+      "displayBoxCode": "8651031-003",
+      "gradingCompany": "NGC",
+      "grade": "XF40",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/512007.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8651031-003/40/",
+      "price": 260,
+      "priceWithFee": null,
+      "transactedAt": "2025-11-12 19:33:36",
+      "productCode": "AA596056",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1907年,年日,日本,本明,明治,治四,四十,十年,年五,五十,十钱,钱银,银币,外国/特区"
+    }
+  ]
+}

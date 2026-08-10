@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "1941616089",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "1941616089",
+      "displayBoxCode": "1941616-089",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1990年斯里兰卡纸钞",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10358296.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1941616-089/",
+      "price": 320,
+      "priceWithFee": 355.2,
+      "transactedAt": "2026-06-30 22:01:50",
+      "productCode": "869980001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/869980001B.jpg",
+      "ocrConfidence": 28,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,1990年,年斯,斯里,里兰,兰卡,卡纸,纸钞"
+    }
+  ]
+}

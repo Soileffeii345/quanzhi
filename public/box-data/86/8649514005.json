@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8649514005",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8649514005",
+      "displayBoxCode": "8649514-005",
+      "gradingCompany": "NGC",
+      "grade": "MS 63",
+      "coinName": "1897年英国维多利亚女王加冕大铜章",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianbi/10357420.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8649514-005/63/",
+      "price": 810,
+      "priceWithFee": 899.1,
+      "transactedAt": "2026-06-26 19:05:55",
+      "productCode": "869622001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/869622001A.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "铜,章,1897年,年英,英国,国维,维多,多利,利亚,亚女,女王,王加,加冕,冕大,大铜,铜章,外国/特区"
+    }
+  ]
+}

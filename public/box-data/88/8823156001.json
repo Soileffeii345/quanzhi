@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8823156001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8823156001",
+      "displayBoxCode": "8823156-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2026年吉祥文化3克心形精制金币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10365123.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8823156-001/70/",
+      "price": 3350,
+      "priceWithFee": 3467.25,
+      "transactedAt": "2026-06-25 20:37:05",
+      "productCode": "870950001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/26/870950001A.jpg",
+      "ocrConfidence": 45,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2026年,3克,吉祥文化,年吉,吉祥,祥文,文化,化克,克心,心形,形精,精制,制金,金币,评级"
+    }
+  ]
+}

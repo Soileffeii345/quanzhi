@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8604908005",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8604908005",
+      "displayBoxCode": "8604908-005",
+      "gradingCompany": "NGC",
+      "grade": "PF68 ULTRA CAMEO",
+      "coinName": "1991年中华民国建国80年纪念1盎司银章",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10393007.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8604908-005/68/",
+      "price": 610,
+      "priceWithFee": 631.35,
+      "transactedAt": "2026-07-13 21:28:30",
+      "productCode": "874056001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/874056001A.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,章,1991年,1盎司,重大事件,历史币,年中,中华,华民,民国,国建,建国,国年,年纪,纪念,念盎,盎司,司银,银章"
+    }
+  ]
+}

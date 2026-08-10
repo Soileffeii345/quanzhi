@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4418395017",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4418395017",
+      "displayBoxCode": "4418395-017",
+      "gradingCompany": "NGC",
+      "grade": "PF70 ULTRA CAMEO",
+      "coinName": "2015年1/4盎司曹雪芹诞辰300周年金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/469698.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4418395-017/70/",
+      "price": 5705,
+      "priceWithFee": null,
+      "transactedAt": "2025-03-27 19:29:21",
+      "productCode": "AA555915",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250323/large_sell_xtcjqeih0plqm98d.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2015年,4盎司,年盎,盎司,司曹,曹雪,雪芹,芹诞,诞辰,辰周,周年,年金,金币"
+    }
+  ]
+}

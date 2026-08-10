@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6002124003",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6002124003",
+      "displayBoxCode": "6002124-003",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2004年1/3盎司元宵节彩金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/505358.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6002124-003/70/",
+      "price": 9775,
+      "priceWithFee": null,
+      "transactedAt": "2025-10-13 21:08:16",
+      "productCode": "KH086989",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251013/large_sell_z5qavoywfc5wprsu.jpg",
+      "ocrConfidence": 52,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2004年,3盎司,年盎,盎司,司元,元宵,宵节,节彩,彩金,金币"
+    }
+  ]
+}

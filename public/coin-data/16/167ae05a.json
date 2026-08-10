@@ -1,0 +1,31 @@
+{
+  "coinName": "2016年150克银币",
+  "slug": "167ae05a",
+  "saleCount": 1,
+  "keywords": "银,币,2016年,150克,年克,克汤,汤显,显祖,祖银,银币",
+  "priceStats": {
+    "low": 9000,
+    "high": 9000,
+    "avg": 9000,
+    "latest": 9000
+  },
+  "records": [
+    {
+      "coinName": "2016年150克汤显祖银币",
+      "normalizedBoxCode": "4421766005",
+      "displayBoxCode": "4421766-005",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/558901.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4421766-005/70/",
+      "price": 9000,
+      "priceWithFee": null,
+      "transactedAt": "2026-04-24 21:09:35",
+      "productCode": "DB202925",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2016年,150克,年克,克汤,汤显,显祖,祖银,银币"
+    }
+  ]
+}

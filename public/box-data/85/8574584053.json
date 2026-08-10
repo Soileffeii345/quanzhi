@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8574584053",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8574584053",
+      "displayBoxCode": "8574584-053",
+      "gradingCompany": "NGC",
+      "grade": "PF 67 ULTRA CAMEO",
+      "coinName": "2010年庚寅虎年生肖贺岁精制流通纪念币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10404588.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8574584-053/67/",
+      "price": 140,
+      "priceWithFee": 151.2,
+      "transactedAt": "2026-07-15 19:15:30",
+      "productCode": "875541004",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/875541004A.jpg",
+      "ocrConfidence": 31,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2010年,生肖,吉祥文化,年庚,庚寅,寅虎,虎年,年生,肖贺,贺岁,岁精,精制,制流,流通,通纪,纪念,念币,评级"
+    }
+  ]
+}

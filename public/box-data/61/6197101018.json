@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6197101018",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6197101018",
+      "displayBoxCode": "6197101-018",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2003年中国古典文学名著《西游记》第（1）组1盎司精制彩银币二枚一套",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10356535.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6197101-018/69/",
+      "price": 2550,
+      "priceWithFee": 2639.25,
+      "transactedAt": "2026-06-29 20:21:00",
+      "productCode": "869685008",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/869685008A.jpg",
+      "ocrConfidence": 47,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2003年,1盎司,年中,中国,国古,古典,典文,文学,学名,名著,著西,西游,游记,记第,第组,组盎,盎司,司精,精制,制彩,彩银,银币,币二,二枚,枚一,一套,评级"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "coinName": "1997年麒麟20克普制银币",
+  "slug": "5f879dec",
+  "saleCount": 1,
+  "keywords": "银,币,1997年,20克,年麒,麒麟,麟克,克普,普制,制银,银币",
+  "priceStats": {
+    "low": 580,
+    "high": 580,
+    "avg": 580,
+    "latest": 580
+  },
+  "records": [
+    {
+      "coinName": "1997年麒麟20克普制银币",
+      "normalizedBoxCode": "3307702018",
+      "displayBoxCode": "3307702-018",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10360192.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3307702-018/69/",
+      "price": 580,
+      "priceWithFee": 600.3,
+      "transactedAt": "2026-06-29 20:59:45",
+      "productCode": "869699003",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1997年,20克,年麒,麒麟,麟克,克普,普制,制银,银币"
+    }
+  ]
+}

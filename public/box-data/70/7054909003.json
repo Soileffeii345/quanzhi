@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "7054909003",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "7054909003",
+      "displayBoxCode": "7054909-003",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "第一版人民币军舰10000元五星水印",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/diyibanrenminbi/10395167.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/7054909-003/",
+      "price": 5300,
+      "priceWithFee": 5830,
+      "transactedAt": "2026-07-23 21:22:40",
+      "productCode": "874274001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/874274001B.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,第一,一版,版人,人民,民币,币军,军舰,舰元,元五,五星,星水,水印"
+    }
+  ]
+}

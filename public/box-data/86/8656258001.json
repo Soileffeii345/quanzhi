@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8656258001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8656258001",
+      "displayBoxCode": "8656258-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2013年中国佛教圣地-普陀山5盎司精制金币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10379031.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8656258-001/69/",
+      "price": 182000,
+      "priceWithFee": 188370,
+      "transactedAt": "2026-07-02 20:43:00",
+      "productCode": "872402005",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/27/872402005A.jpg",
+      "ocrConfidence": 37,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2013年,5盎司,宗教,年中,中国,国佛,佛教,教圣,圣地,地普,普陀,陀山,山盎,盎司,司精,精制,制金,金币,评级"
+    }
+  ]
+}

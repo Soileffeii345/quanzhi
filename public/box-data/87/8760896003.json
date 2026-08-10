@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8760896003",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8760896003",
+      "displayBoxCode": "8760896-003",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1991年辛未羊年生肖8克精制金币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-jin/10398449.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8760896-003/",
+      "price": 8200,
+      "priceWithFee": 8487,
+      "transactedAt": "2026-07-16 20:52:35",
+      "productCode": "874842008",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/874842008A.jpg",
+      "ocrConfidence": 31,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1991年,8克,生肖,年辛,辛未,未羊,羊年,年生,肖克,克精,精制,制金,金币,评级"
+    }
+  ]
+}

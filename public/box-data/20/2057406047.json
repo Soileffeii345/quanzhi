@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2057406047",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2057406047",
+      "displayBoxCode": "2057406-047",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "民国二十八年中央银行伍分",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10366733.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2057406-047/",
+      "price": 120,
+      "priceWithFee": 133.2,
+      "transactedAt": "2026-07-14 21:05:35",
+      "productCode": "870327003",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/26/870327003B.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国二,二十,十八,八年,年中,中央,央银,银行,行伍,伍分"
+    }
+  ]
+}

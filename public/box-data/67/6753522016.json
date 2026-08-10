@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6753522016",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6753522016",
+      "displayBoxCode": "6753522-016",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2000年1/4盎司戴胜鸟彩金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/408477.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6753522-016/69/",
+      "price": 4000,
+      "priceWithFee": null,
+      "transactedAt": "2024-01-01 12:06:11",
+      "productCode": "AA453030",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20231225/large_sell_nadckhle1nnamkbl.jpg",
+      "ocrConfidence": 38,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2000年,4盎司,年盎,盎司,司戴,戴胜,胜鸟,鸟彩,彩金,金币"
+    }
+  ]
+}

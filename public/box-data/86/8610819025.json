@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8610819025",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8610819025",
+      "displayBoxCode": "8610819-025",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "coinName": "2002年壬午马年生肖1盎司扇形普制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10350676.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8610819-025/69/",
+      "price": 980,
+      "priceWithFee": 1014.3,
+      "transactedAt": "2026-06-22 19:18:10",
+      "productCode": "869116006",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/869116006A.jpg",
+      "ocrConfidence": 40,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2002年,1盎司,生肖,年壬,壬午,午马,马年,年生,肖盎,盎司,司扇,扇形,形普,普制,制银,银币"
+    }
+  ]
+}

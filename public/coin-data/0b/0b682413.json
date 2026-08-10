@@ -1,0 +1,65 @@
+{
+  "coinName": "2002年生肖15.552克精制金币",
+  "slug": "0b682413",
+  "saleCount": 3,
+  "keywords": "金,币,2002年,2盎司,生肖,年壬,壬午,午马,马年,年生,肖盎,盎司,司梅,梅花,花形,形精,精制,制金,金币,评级,司扇,扇形",
+  "priceStats": {
+    "low": 16600,
+    "high": 30500,
+    "avg": 25200,
+    "latest": 28500
+  },
+  "records": [
+    {
+      "coinName": "2002年壬午马年生肖1/2盎司梅花形精制金币",
+      "normalizedBoxCode": "6656472016",
+      "displayBoxCode": "6656472-016",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-jin/10401687.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6656472-016/",
+      "price": 28500,
+      "priceWithFee": 29497.5,
+      "transactedAt": "2026-07-16 21:12:35",
+      "productCode": "875311002",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2002年,2盎司,生肖,年壬,壬午,午马,马年,年生,肖盎,盎司,司梅,梅花,花形,形精,精制,制金,金币,评级"
+    },
+    {
+      "coinName": "2002年壬午马年生肖1/2盎司梅花形精制金币",
+      "normalizedBoxCode": "8202785002",
+      "displayBoxCode": "8202785-002",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-jin/10359919.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8202785-002/",
+      "price": 30500,
+      "priceWithFee": 31567.5,
+      "transactedAt": "2026-06-25 21:21:35",
+      "productCode": "869589003",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2002年,2盎司,生肖,年壬,壬午,午马,马年,年生,肖盎,盎司,司梅,梅花,花形,形精,精制,制金,金币,评级"
+    },
+    {
+      "coinName": "2002年壬午马年生肖1/2盎司扇形精制金币",
+      "normalizedBoxCode": "8752087003",
+      "displayBoxCode": "8752087-003",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-jin/10390829.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8752087-003/69/",
+      "price": 16600,
+      "priceWithFee": 17181,
+      "transactedAt": "2026-07-09 21:24:45",
+      "productCode": "873930024",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2002年,2盎司,生肖,年壬,壬午,午马,马年,年生,肖盎,盎司,司扇,扇形,形精,精制,制金,金币,评级"
+    }
+  ]
+}

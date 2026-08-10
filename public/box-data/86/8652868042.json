@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8652868042",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8652868042",
+      "displayBoxCode": "8652868-042",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1995年徐悲鸿诞辰100周年27克精制银币二枚一套",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10362465.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8652868-042/69/",
+      "price": 3600,
+      "priceWithFee": 3726,
+      "transactedAt": "2026-06-25 19:55:35",
+      "productCode": "869605002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/869605002A.jpg",
+      "ocrConfidence": 39,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1995年,27克,年徐,徐悲,悲鸿,鸿诞,诞辰,辰周,周年,年克,克精,精制,制银,银币,币二,二枚,枚一,一套,评级"
+    }
+  ]
+}

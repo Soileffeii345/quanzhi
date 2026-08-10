@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2262383086",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2262383086",
+      "displayBoxCode": "2262383-086",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "民国24年交通银行拾圆",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10364112.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2262383-086/",
+      "price": 3100,
+      "priceWithFee": 3441,
+      "transactedAt": "2026-07-09 21:46:40",
+      "productCode": "869951011",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/869951011B.jpg",
+      "ocrConfidence": 25,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国年,年交,交通,通银,银行,行拾,拾圆"
+    }
+  ]
+}

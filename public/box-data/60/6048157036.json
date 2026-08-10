@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6048157036",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6048157036",
+      "displayBoxCode": "6048157-036",
+      "gradingCompany": "NGC",
+      "grade": "PF69 ULTRA CAMEO",
+      "coinName": "1999年1盎司方形洛神赋银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/562677.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6048157-036/69/",
+      "price": 9000,
+      "priceWithFee": null,
+      "transactedAt": "2026-04-02 16:51:08",
+      "productCode": "KH125918",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260314/large_sell_nopu8fcohqxcylr5.jpg",
+      "ocrConfidence": 43,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1999年,1盎司,年盎,盎司,司方,方形,形洛,洛神,神赋,赋银,银币"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "coinName": "2014年5盎司铜币",
+  "slug": "4c608438",
+  "saleCount": 1,
+  "keywords": "金,铜,币,2014年,5盎司,年盎,盎司,司青,青铜,铜器,器第,第组,组金,金币",
+  "priceStats": {
+    "low": 156565,
+    "high": 156565,
+    "avg": 156565,
+    "latest": 156565
+  },
+  "records": [
+    {
+      "coinName": "2014年5盎司青铜器第3组金币",
+      "normalizedBoxCode": "4410338002",
+      "displayBoxCode": "4410338-002",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/575589.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4410338-002/69/",
+      "price": 156565,
+      "priceWithFee": null,
+      "transactedAt": "2026-05-29 09:25:40",
+      "productCode": "KH136774",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,铜,币,2014年,5盎司,年盎,盎司,司青,青铜,铜器,器第,第组,组金,金币"
+    }
+  ]
+}

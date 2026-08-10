@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8611723018",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8611723018",
+      "displayBoxCode": "8611723-018",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "coinName": "1998年迎春1/10盎司普制金币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10359980.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8611723-018/69/",
+      "price": 15000,
+      "priceWithFee": 15525,
+      "transactedAt": "2026-06-25 21:48:35",
+      "productCode": "869598003",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/869598003A.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1998年,10盎司,年迎,迎春,春盎,盎司,司普,普制,制金,金币"
+    }
+  ]
+}

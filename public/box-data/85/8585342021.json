@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8585342021",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8585342021",
+      "displayBoxCode": "8585342-021",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1997年中泰友谊-四川乐山大佛 泰国玉佛1盎司精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10390754.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8585342-021/",
+      "price": 760,
+      "priceWithFee": 786.6,
+      "transactedAt": "2026-07-13 21:25:10",
+      "productCode": "873948013",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/27/873948013A.jpg",
+      "ocrConfidence": 43,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1997年,1盎司,宗教,年中,中泰,泰友,友谊,谊四,四川,川乐,乐山,山大,大佛,佛泰,泰国,国玉,玉佛,佛盎,盎司,司精,精制,制银,银币,评级"
+    }
+  ]
+}

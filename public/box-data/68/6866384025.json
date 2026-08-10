@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6866384025",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6866384025",
+      "displayBoxCode": "6866384-025",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 CAMEO",
+      "coinName": "1981年1盎司辛亥革命70周年银币(CA/无标)",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/479475.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6866384-025/69/",
+      "price": 7500,
+      "priceWithFee": null,
+      "transactedAt": "2025-08-22 14:54:59",
+      "productCode": "AA563701",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250525/large_sell_ibbvxi83pvk5yppn.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1981年,1盎司,年盎,盎司,司辛,辛亥,亥革,革命,命周,周年,年银,银币,币无,无标"
+    }
+  ]
+}

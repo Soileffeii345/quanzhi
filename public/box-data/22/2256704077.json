@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2256704077",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2256704077",
+      "displayBoxCode": "2256704-077",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2018年中国银行港币100元",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/liantichao-jinianchao/10420628.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2256704-077/",
+      "price": 200,
+      "priceWithFee": 216,
+      "transactedAt": "2026-07-25 19:39:40",
+      "productCode": "877014013",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/877014013B.jpg",
+      "ocrConfidence": 32,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2018年,年中,中国,国银,银行,行港,港币,币元"
+    }
+  ]
+}

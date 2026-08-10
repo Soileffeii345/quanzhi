@@ -1,0 +1,31 @@
+{
+  "coinName": "1995年5盎司精制银币",
+  "slug": "12a5b609",
+  "saleCount": 1,
+  "keywords": "银,币,1995年,5盎司,年中,中国,国古,古典,典文,文学,学名,名著,著三,三国,国演,演义,义第,第组,组桃,桃园,园三,三结,结义,义盎,盎司,司精,精制,制银,银币,评级",
+  "priceStats": {
+    "low": 33000,
+    "high": 33000,
+    "avg": 33000,
+    "latest": 33000
+  },
+  "records": [
+    {
+      "coinName": "1995年中国古典文学名著《三国演义》第（1）组-桃园三结义5盎司精制银币",
+      "normalizedBoxCode": "6744299001",
+      "displayBoxCode": "6744299-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10384046.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6744299-001/69/",
+      "price": 33000,
+      "priceWithFee": 34155,
+      "transactedAt": "2026-07-09 20:36:45",
+      "productCode": "873144001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1995年,5盎司,年中,中国,国古,古典,典文,文学,学名,名著,著三,三国,国演,演义,义第,第组,组桃,桃园,园三,三结,结义,义盎,盎司,司精,精制,制银,银币,评级"
+    }
+  ]
+}

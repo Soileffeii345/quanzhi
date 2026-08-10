@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4896569010",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4896569010",
+      "displayBoxCode": "4896569-010",
+      "gradingCompany": "NGC",
+      "grade": "PF69 CAMEO",
+      "coinName": "1980年中国奥林匹克委员会-古代角力9克精制铜币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-tong/10350826.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4896569-010/69/",
+      "price": 620,
+      "priceWithFee": 641.7,
+      "transactedAt": "2026-06-22 20:50:10",
+      "productCode": "868336006",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/868336006A.jpg",
+      "ocrConfidence": 39,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "铜,币,1980年,9克,年中,中国,国奥,奥林,林匹,匹克,克委,委员,员会,会古,古代,代角,角力,力克,克精,精制,制铜,铜币,评级"
+    }
+  ]
+}

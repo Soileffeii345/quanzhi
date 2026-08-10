@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6718989027",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6718989027",
+      "displayBoxCode": "6718989-027",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1992年中国古代科技发明发现第（1）组-最早造纸术15克精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10356017.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6718989-027/69/",
+      "price": 500,
+      "priceWithFee": 517.5,
+      "transactedAt": "2026-06-22 20:32:40",
+      "productCode": "869946001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/869946001A.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1992年,15克,年中,中国,国古,古代,代科,科技,技发,发明,明发,发现,现第,第组,组最,最早,早造,造纸,纸术,术克,克精,精制,制银,银币,评级"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6877199012",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6877199012",
+      "displayBoxCode": "6877199-012",
+      "gradingCompany": "NGC",
+      "grade": "PF 67 CAMEO",
+      "coinName": "1980年中国奥林匹克委员会-古代蹴鞠、古代马术15克精制银币各一枚，共二枚",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10357816.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6877199-012/67/",
+      "price": 1180,
+      "priceWithFee": 1221.3,
+      "transactedAt": "2026-06-22 21:31:10",
+      "productCode": "869778004",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/869778004A.jpg",
+      "ocrConfidence": 37,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1980年,15克,年中,中国,国奥,奥林,林匹,匹克,克委,委员,员会,会古,古代,代蹴,蹴鞠,鞠古,代马,马术,术克,克精,精制,制银,银币,币各,各一,一枚,枚共,共二,二枚,评级"
+    }
+  ]
+}

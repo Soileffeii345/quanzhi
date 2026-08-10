@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "0184506054",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "0184506054",
+      "displayBoxCode": "0184506-054",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2017年8克内蒙古自治区成立70周年金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/495439.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/0184506-054/",
+      "price": 6365,
+      "priceWithFee": null,
+      "transactedAt": "2025-08-19 20:41:22",
+      "productCode": "KH079339",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250819/large_sell_e31vteunabadawio.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2017年,8克,年克,克内,内蒙,蒙古,古自,自治,治区,区成,成立,立周,周年,年金,金币"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8181695034",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8181695034",
+      "displayBoxCode": "8181695-034",
+      "gradingCompany": "NGC",
+      "grade": "PF70 ULTRA CAMEO",
+      "coinName": "2018年8克广西壮族自治区成立60周年金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/495585.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8181695-034/70/",
+      "price": 6355,
+      "priceWithFee": null,
+      "transactedAt": "2025-08-20 15:53:30",
+      "productCode": "KH079397",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250820/large_sell_jtxe0gstk0zx0fid.jpg",
+      "ocrConfidence": 53,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2018年,8克,年克,克广,广西,西壮,壮族,族自,自治,治区,区成,成立,立周,周年,年金,金币"
+    }
+  ]
+}

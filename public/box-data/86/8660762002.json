@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8660762002",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8660762002",
+      "displayBoxCode": "8660762-002",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2024年30克应县佛宫寺释迦塔银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/559625.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8660762-002/69/",
+      "price": 1850,
+      "priceWithFee": null,
+      "transactedAt": "2026-03-07 16:29:15",
+      "productCode": "KH123042",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260307/large_sell_dj2pzovs5bl6pmct.jpg",
+      "ocrConfidence": 38,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2024年,30克,宗教,年克,克应,应县,县佛,佛宫,宫寺,寺释,释迦,迦塔,塔银,银币"
+    }
+  ]
+}

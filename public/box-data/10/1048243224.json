@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "1048243224",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "1048243224",
+      "displayBoxCode": "1048243-224",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2024年龙钞20元连号三枚",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/liantichao-jinianchao/10377578.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1048243-224/",
+      "price": 520,
+      "priceWithFee": 561.6,
+      "transactedAt": "2026-07-04 19:57:05",
+      "productCode": "871949001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/27/871949001A.jpg",
+      "ocrConfidence": 32,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,2024年,年龙,龙钞,钞元,元连,连号,号三,三枚"
+    }
+  ]
+}

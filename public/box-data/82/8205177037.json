@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8205177037",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8205177037",
+      "displayBoxCode": "8205177-037",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1995年1/3盎司第26届奥运会彩带操金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/469881.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8205177-037/",
+      "price": 7310,
+      "priceWithFee": null,
+      "transactedAt": "2025-03-24 15:42:36",
+      "productCode": "AA556079",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250324/large_sell_zwbzwfffdb6ob2cc.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1995年,3盎司,奥运,年盎,盎司,司第,第届,届奥,运会,会彩,彩带,带操,操金,金币"
+    }
+  ]
+}

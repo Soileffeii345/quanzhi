@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "88982868",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "88982868",
+      "displayBoxCode": "88982868",
+      "gradingCompany": "PCGS",
+      "grade": "待复核",
+      "coinName": "2025年30克熊猫银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/511210.html",
+      "officialCertUrl": "https://cn.pcgs.com/cert/88982868",
+      "price": 2000,
+      "priceWithFee": null,
+      "transactedAt": "2025-12-11 09:31:07",
+      "productCode": "KH093236",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251107/large_sell_5zd6zes9iihgagom.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2025年,30克,熊猫,年克,克熊,猫银,银币"
+    }
+  ]
+}

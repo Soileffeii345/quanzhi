@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4311948019",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4311948019",
+      "displayBoxCode": "4311948-019",
+      "gradingCompany": "NGC",
+      "grade": "PF70 ULTRA CAMEO",
+      "coinName": "2010年1/4盎司京剧脸谱第1组包拯彩金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/488330.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4311948-019/70/",
+      "price": 6195,
+      "priceWithFee": null,
+      "transactedAt": "2025-07-12 10:31:02",
+      "productCode": "KH073651",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250712/large_sell_lp81dubmyhlvqekr.jpg",
+      "ocrConfidence": 57,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2010年,4盎司,戏曲,年盎,盎司,司京,京剧,剧脸,脸谱,谱第,第组,组包,包拯,拯彩,彩金,金币"
+    }
+  ]
+}

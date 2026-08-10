@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4565644002",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4565644002",
+      "displayBoxCode": "4565644-002",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1994年熊猫双金属金银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/442916.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4565644-002/",
+      "price": 12000,
+      "priceWithFee": null,
+      "transactedAt": "2024-08-28 21:19:01",
+      "productCode": "AA493899.900",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20240727/large_sell_shk7xqv4iovmfcne.jpg",
+      "ocrConfidence": 32,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,1994年,熊猫,年熊,猫双,双金,金属,属金,金银,银币"
+    }
+  ]
+}

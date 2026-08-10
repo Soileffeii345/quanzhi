@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6421328014",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6421328014",
+      "displayBoxCode": "6421328-014",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2022年奥地利海洋生物纪念币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianbi/10391001.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6421328-014/",
+      "price": 140,
+      "priceWithFee": 155.4,
+      "transactedAt": "2026-07-10 19:29:15",
+      "productCode": "873819011",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/27/873819011A.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2022年,年奥,奥地,地利,利海,海洋,洋生,生物,物纪,纪念,念币"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6412633062",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6412633062",
+      "displayBoxCode": "6412633-062",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1992年1/20盎司熊猫金币(小字版)",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/462877.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6412633-062/",
+      "price": 1750,
+      "priceWithFee": null,
+      "transactedAt": "2025-02-25 09:32:31",
+      "productCode": "AA545257",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250127/large_sell_1h7uvbtfys32kemz.jpg",
+      "ocrConfidence": 29,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1992年,20盎司,熊猫,年盎,盎司,司熊,猫金,金币,币小,小字,字版"
+    }
+  ]
+}

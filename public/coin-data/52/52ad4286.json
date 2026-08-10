@@ -1,0 +1,31 @@
+{
+  "coinName": "1988年直布罗陀纸币",
+  "slug": "52ad4286",
+  "saleCount": 1,
+  "keywords": "币,1988年,年直,直布,布罗,罗陀,陀纸,纸币",
+  "priceStats": {
+    "low": 130,
+    "high": 130,
+    "avg": 130,
+    "latest": 130
+  },
+  "records": [
+    {
+      "coinName": "1988年直布罗陀纸币",
+      "normalizedBoxCode": "2400734066",
+      "displayBoxCode": "2400734-066",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10372870.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2400734-066/",
+      "price": 130,
+      "priceWithFee": 144.3,
+      "transactedAt": "2026-06-30 22:38:50",
+      "productCode": "871226044",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1988年,年直,直布,布罗,罗陀,陀纸,纸币"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8203342041",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8203342041",
+      "displayBoxCode": "8203342-041",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2022年孔雀明王镀金、镀银纪念章各一枚，共二枚",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/tongzhang/10378245.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8203342-041/70/",
+      "price": 390,
+      "priceWithFee": 432.9,
+      "transactedAt": "2026-07-03 20:16:50",
+      "productCode": "872546004",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/15/853207037A.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,章,2022年,年孔,孔雀,雀明,明王,王镀,镀金,金镀,镀银,银纪,纪念,念章,章各,各一,一枚,枚共,共二,二枚"
+    }
+  ]
+}

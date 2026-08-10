@@ -1,0 +1,65 @@
+{
+  "coinName": "2026年贺岁普制金银币",
+  "slug": "0759e236",
+  "saleCount": 3,
+  "keywords": "金,银,币,2026年,1克,吉祥文化,年福,福字,字贺,贺岁,岁普,普制,制金,金银,银币,币二,二枚,枚一,一套,套含,含克,克金,金克,克银",
+  "priceStats": {
+    "low": 1600,
+    "high": 2150,
+    "avg": 1810,
+    "latest": 1680
+  },
+  "records": [
+    {
+      "coinName": "2026年福字贺岁普制金银币二枚一套（含1克金、8克银）",
+      "normalizedBoxCode": "8606106105",
+      "displayBoxCode": "8606106-105",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10360859.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8606106-105/",
+      "price": 1680,
+      "priceWithFee": 1738.8,
+      "transactedAt": "2026-06-27 21:50:05",
+      "productCode": "870375001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,2026年,1克,吉祥文化,年福,福字,字贺,贺岁,岁普,普制,制金,金银,银币,币二,二枚,枚一,一套,套含,含克,克金,金克,克银"
+    },
+    {
+      "coinName": "2026年福字贺岁普制金银币二枚一套（含1克金、8克银）",
+      "normalizedBoxCode": "8656517001",
+      "displayBoxCode": "8656517-001",
+      "gradingCompany": "NGC",
+      "grade": "Ms70",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10430396.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8656517-001/70/",
+      "price": 2150,
+      "priceWithFee": 2225.25,
+      "transactedAt": "2026-07-27 22:18:10",
+      "productCode": "878516032",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,2026年,1克,吉祥文化,年福,福字,字贺,贺岁,岁普,普制,制金,金银,银币,币二,二枚,枚一,一套,套含,含克,克金,金克,克银"
+    },
+    {
+      "coinName": "2026年福字贺岁普制金银币二枚一套（含1克金、8克银）",
+      "normalizedBoxCode": "8656568005",
+      "displayBoxCode": "8656568-005",
+      "gradingCompany": "NGC",
+      "grade": "ms70",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10430397.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8656568-005/70/",
+      "price": 1600,
+      "priceWithFee": 1656,
+      "transactedAt": "2026-07-27 22:13:40",
+      "productCode": "878516033",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,2026年,1克,吉祥文化,年福,福字,字贺,贺岁,岁普,普制,制金,金银,银币,币二,二枚,枚一,一套,套含,含克,克金,金克,克银"
+    }
+  ]
+}

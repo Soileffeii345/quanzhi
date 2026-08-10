@@ -1,0 +1,31 @@
+{
+  "coinName": "2025年大运河30克银币",
+  "slug": "3f7674d1",
+  "saleCount": 1,
+  "keywords": "银,币,2025年,30克,年克,克方,方形,形大,大运,运河,河银,银币",
+  "priceStats": {
+    "low": 6200,
+    "high": 6200,
+    "avg": 6200,
+    "latest": 6200
+  },
+  "records": [
+    {
+      "coinName": "2025年30克方形大运河银币",
+      "normalizedBoxCode": "8616251003",
+      "displayBoxCode": "8616251-003",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/498168.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8616251-003/69/",
+      "price": 6200,
+      "priceWithFee": null,
+      "transactedAt": "2025-09-04 21:54:30",
+      "productCode": "KH080927",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2025年,30克,年克,克方,方形,形大,大运,运河,河银,银币"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8178119052",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8178119052",
+      "displayBoxCode": "8178119-052",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1994年1盎司婴戏图银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/446400.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8178119-052/",
+      "price": 3700,
+      "priceWithFee": null,
+      "transactedAt": "2025-12-29 20:19:43",
+      "productCode": "AA494259.60A",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20240728/large_sell_6goegxpjfphik6v9.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1994年,1盎司,年盎,盎司,司婴,婴戏,戏图,图银,银币"
+    }
+  ]
+}

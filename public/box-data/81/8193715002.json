@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8193715002",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8193715002",
+      "displayBoxCode": "8193715-002",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2024年30克方形纸币千年银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/550806.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8193715-002/70/",
+      "price": 2400,
+      "priceWithFee": null,
+      "transactedAt": "2026-02-01 20:10:24",
+      "productCode": "KH116897",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260131/large_sell_hxoz5xcak9lgxkwv.jpg",
+      "ocrConfidence": 46,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2024年,30克,年克,克方,方形,形纸,纸币,币千,千年,年银,银币"
+    }
+  ]
+}

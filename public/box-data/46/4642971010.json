@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4642971010",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4642971010",
+      "displayBoxCode": "4642971-010",
+      "gradingCompany": "NGC",
+      "grade": "PF69 ULTRA CAMEO",
+      "coinName": "2017年2盎司中国古典园林水绘园银章",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/489180.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4642971-010/69/",
+      "price": 880,
+      "priceWithFee": null,
+      "transactedAt": "2025-07-18 16:57:57",
+      "productCode": "AA573253",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250717/large_sell_4gxfjyuom3coyl78.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,章,2017年,2盎司,年盎,盎司,司中,中国,国古,古典,典园,园林,林水,水绘,绘园,园银,银章"
+    }
+  ]
+}

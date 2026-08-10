@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8504511049",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8504511049",
+      "displayBoxCode": "8504511-049",
+      "gradingCompany": "NGC",
+      "grade": "MS 66",
+      "coinName": "1993年毛泽东诞辰100周年流通纪念币三枚",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10397584.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8504511-049/66/",
+      "price": 270,
+      "priceWithFee": 291.6,
+      "transactedAt": "2026-07-15 21:58:15",
+      "productCode": "874506006",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/874506006A.jpg",
+      "ocrConfidence": 44,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1993年,年毛,毛泽,泽东,东诞,诞辰,辰周,周年,年流,流通,通纪,纪念,念币,币三,三枚"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8202286036",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8202286036",
+      "displayBoxCode": "8202286-036",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2014年1盎司中法建交50周年银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/473452.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8202286-036/",
+      "price": 500,
+      "priceWithFee": null,
+      "transactedAt": "2025-04-19 20:02:29",
+      "productCode": "AA558993",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250416/large_sell_uoeadzxcchqgt8ae.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2014年,1盎司,年盎,盎司,司中,中法,法建,建交,交周,周年,年银,银币"
+    }
+  ]
+}

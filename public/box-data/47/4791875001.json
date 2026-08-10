@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4791875001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4791875001",
+      "displayBoxCode": "4791875-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 67 ULTRA CAMEO",
+      "coinName": "1991年5盎司第25届奥运会女子短跑银币(大星版-UC)",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/527293.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4791875-001/67/",
+      "price": 3400,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-10 20:20:11",
+      "productCode": "KH102442",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260103/large_sell_1tnhwjzutmwh6hzd.jpg",
+      "ocrConfidence": 41,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1991年,5盎司,奥运,年盎,盎司,司第,第届,届奥,运会,会女,女子,子短,短跑,跑银,银币,币大,大星,星版"
+    }
+  ]
+}

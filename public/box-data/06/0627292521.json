@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "0627292521",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "0627292521",
+      "displayBoxCode": "0627292-521",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2024年龙钞20元",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/liantichao-jinianchao/10383517.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/0627292-521/",
+      "price": 150,
+      "priceWithFee": 162,
+      "transactedAt": "2026-07-04 22:40:45",
+      "productCode": "873109020",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/27/873109020A.jpg",
+      "ocrConfidence": 30,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,2024年,年龙,龙钞,钞元"
+    }
+  ]
+}

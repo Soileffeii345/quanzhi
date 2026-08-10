@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2485426041",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2485426041",
+      "displayBoxCode": "2485426-041",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2003年香港渣打银行港币100元",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/liantichao-jinianchao/10374840.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2485426-041/",
+      "price": 180,
+      "priceWithFee": 194.4,
+      "transactedAt": "2026-06-30 18:39:35",
+      "productCode": "870896005",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/26/870896005B.jpg",
+      "ocrConfidence": 30,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2003年,年香,香港,港渣,渣打,打银,银行,行港,港币,币元,外国/特区"
+    }
+  ]
+}

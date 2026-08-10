@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8547617003",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8547617003",
+      "displayBoxCode": "8547617-003",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1983年熊猫铜币(CA/无标)",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/540313.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8547617-003/",
+      "price": 1600,
+      "priceWithFee": null,
+      "transactedAt": "2026-03-16 19:40:36",
+      "productCode": "AA614373A",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260122/large_sell_yud9q4ozskrlozre.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "铜,币,1983年,熊猫,年熊,猫铜,铜币,币无,无标"
+    }
+  ]
+}

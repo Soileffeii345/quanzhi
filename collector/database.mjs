@@ -4,7 +4,7 @@ import { fileURLToPath } from "node:url";
 import { DatabaseSync } from "node:sqlite";
 
 const collectorDir = dirname(fileURLToPath(import.meta.url));
-const databasePath = resolve(collectorDir, "data", "quanzhi.sqlite");
+const databasePath = process.env.QUANZHI_DB_PATH || resolve(collectorDir, "data", "quanzhi.sqlite");
 mkdirSync(dirname(databasePath), { recursive: true });
 
 export const database = new DatabaseSync(databasePath);
@@ -72,6 +72,12 @@ database.exec(`
   CREATE INDEX IF NOT EXISTS box_sales_lookup_idx
     ON box_sales(normalized_box_code, transacted_at DESC);
 
+  CREATE INDEX IF NOT EXISTS box_sales_status_date_idx
+    ON box_sales(verification_status, transacted_at DESC);
+
+  CREATE INDEX IF NOT EXISTS platform_products_platform_date_idx
+    ON platform_products(platform, transacted_at DESC);
+
   CREATE TABLE IF NOT EXISTS crawl_state (
     platform TEXT PRIMARY KEY,
     cursor TEXT,
@@ -86,6 +92,9 @@ database.exec(`
 const boxSaleColumns = new Set(database.prepare("PRAGMA table_info(box_sales)").all().map((column) => column.name));
 if (!boxSaleColumns.has("evidence_note")) {
   database.exec("ALTER TABLE box_sales ADD COLUMN evidence_note TEXT NOT NULL DEFAULT ''");
+}
+if (!boxSaleColumns.has("keywords")) {
+  database.exec("ALTER TABLE box_sales ADD COLUMN keywords TEXT NOT NULL DEFAULT ''");
 }
 
 const upsertProduct = database.prepare(`

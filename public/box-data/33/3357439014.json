@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "3357439014",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "3357439014",
+      "displayBoxCode": "3357439-014",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1993年5盎司孔雀开屏银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/540328.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3357439-014/69/",
+      "price": 30800,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-27 21:37:26",
+      "productCode": "KH114803",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260127/large_sell_zpjz4zrhync5d1ws.jpg",
+      "ocrConfidence": 39,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1993年,5盎司,年盎,盎司,司孔,孔雀,雀开,开屏,屏银,银币"
+    }
+  ]
+}

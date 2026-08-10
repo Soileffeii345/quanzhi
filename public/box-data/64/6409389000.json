@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6409389000",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6409389000",
+      "displayBoxCode": "6409389-000",
+      "gradingCompany": "NGC",
+      "grade": "PF70 ULTRA CAMEO",
+      "coinName": "2023年3克熊猫铂币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/517804.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6409389-000/70/",
+      "price": 1800,
+      "priceWithFee": null,
+      "transactedAt": "2025-12-15 14:31:51",
+      "productCode": "AA596830A",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251116/large_sell_czl7d2qpwgq7kbzb.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "贵金属,币,2023年,3克,熊猫,年克,克熊,猫铂,铂币"
+    }
+  ]
+}

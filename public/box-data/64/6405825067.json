@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6405825067",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6405825067",
+      "displayBoxCode": "6405825-067",
+      "gradingCompany": "NGC",
+      "grade": "MS 66",
+      "coinName": "1980年长城币伍角",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10397607.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6405825-067/66/",
+      "price": 220,
+      "priceWithFee": 237.6,
+      "transactedAt": "2026-07-15 21:54:05",
+      "productCode": "874845006",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/874845006A.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1980年,年长,长城,城币,币伍,伍角"
+    }
+  ]
+}

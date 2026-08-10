@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6197074001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6197074001",
+      "displayBoxCode": "6197074-001",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2021年8克建党100周年天安门金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/486893.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6197074-001/",
+      "price": 6315,
+      "priceWithFee": null,
+      "transactedAt": "2025-07-03 17:40:52",
+      "productCode": "AA571315",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250703/large_sell_yuebjfo7msvv98y4.jpg",
+      "ocrConfidence": 30,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2021年,8克,重大事件,年克,克建,建党,党周,周年,年天,天安,安门,门金,金币"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4405681014",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4405681014",
+      "displayBoxCode": "4405681-014",
+      "gradingCompany": "NGC",
+      "grade": "MS 70",
+      "coinName": "2017年1克熊猫金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/488413.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4405681-014/70/",
+      "price": 910,
+      "priceWithFee": null,
+      "transactedAt": "2025-07-22 21:48:00",
+      "productCode": "KH073760",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250713/large_sell_lzujkdbqdcfujamb.jpg",
+      "ocrConfidence": 44,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2017年,1克,熊猫,年克,克熊,猫金,金币"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "coinName": "1934年美国20美元纸币",
+  "slug": "05eb6abf",
+  "saleCount": 1,
+  "keywords": "币,1934年,年美,美国,国美,美元,元纸,纸币,外国/特区",
+  "priceStats": {
+    "low": 840,
+    "high": 840,
+    "avg": 840,
+    "latest": 840
+  },
+  "records": [
+    {
+      "coinName": "1934年美国20美元纸币",
+      "normalizedBoxCode": "8020848003",
+      "displayBoxCode": "8020848-003",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10387943.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8020848-003/",
+      "price": 840,
+      "priceWithFee": 932.4,
+      "transactedAt": "2026-07-14 22:10:05",
+      "productCode": "873172011",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1934年,年美,美国,国美,美元,元纸,纸币,外国/特区"
+    }
+  ]
+}

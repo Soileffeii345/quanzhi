@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6634509008",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6634509008",
+      "displayBoxCode": "6634509-008",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1990年1/3盎司第25届奥运会女子篮球金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/471973.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6634509-008/",
+      "price": 7585,
+      "priceWithFee": null,
+      "transactedAt": "2025-04-07 18:23:26",
+      "productCode": "AA557946",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250407/large_sell_h9pzljgyswjsuidn.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1990年,3盎司,奥运,年盎,盎司,司第,第届,届奥,运会,会女,女子,子篮,篮球,球金,金币"
+    }
+  ]
+}

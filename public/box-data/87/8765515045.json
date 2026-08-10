@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8765515045",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8765515045",
+      "displayBoxCode": "8765515-045",
+      "gradingCompany": "NGC",
+      "grade": "PF 68 ULTRA CAMEO",
+      "coinName": "1992年中国杰出历史人物第（9）组-郑成功20克精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10407551.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8765515-045/68/",
+      "price": 530,
+      "priceWithFee": 548.55,
+      "transactedAt": "2026-07-20 21:40:10",
+      "productCode": "875918026",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/875918026A.jpg",
+      "ocrConfidence": 42,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1992年,20克,年中,中国,国杰,杰出,出历,历史,史人,人物,物第,第组,组郑,郑成,成功,功克,克精,精制,制银,银币,评级"
+    }
+  ]
+}

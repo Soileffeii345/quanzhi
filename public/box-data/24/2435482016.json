@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2435482016",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2435482016",
+      "displayBoxCode": "2435482-016",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2021年伯利兹纸钞",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10392457.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2435482-016/",
+      "price": 85,
+      "priceWithFee": 94.35,
+      "transactedAt": "2026-07-14 21:57:35",
+      "productCode": "873792039",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/873792039B.jpg",
+      "ocrConfidence": 30,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,2021年,年伯,伯利,利兹,兹纸,纸钞"
+    }
+  ]
+}

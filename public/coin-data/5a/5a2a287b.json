@@ -1,0 +1,48 @@
+{
+  "coinName": "第四套/第四版人民币1990年版2元、1996年版1元",
+  "slug": "5a2a287b",
+  "saleCount": 2,
+  "keywords": "币,1990年,第四,四套,套第,四版,版人,人民,民币,币年,年版,版元,元年,元各,各一,一枚,枚共,共二,二枚",
+  "priceStats": {
+    "low": 210,
+    "high": 400,
+    "avg": 305,
+    "latest": 210
+  },
+  "records": [
+    {
+      "coinName": "第四套/第四版人民币1990年版2元、1996年版1元各一枚，共二枚",
+      "normalizedBoxCode": "1950835036",
+      "displayBoxCode": "1950835-036",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/disibanrenminbi/10416448.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1950835-036/",
+      "price": 210,
+      "priceWithFee": 226.8,
+      "transactedAt": "2026-07-28 20:18:35",
+      "productCode": "876288006",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1990年,第四,四套,套第,四版,版人,人民,民币,币年,年版,版元,元年,元各,各一,一枚,枚共,共二,二枚"
+    },
+    {
+      "coinName": "第四套/第四版人民币1990年版2元、1996年版1元各一枚，共二枚",
+      "normalizedBoxCode": "2013038066",
+      "displayBoxCode": "2013038-066",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/disibanrenminbi/10416439.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2013038-066/",
+      "price": 400,
+      "priceWithFee": 432,
+      "transactedAt": "2026-07-21 19:49:20",
+      "productCode": "876285007",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1990年,第四,四套,套第,四版,版人,人民,民币,币年,年版,版元,元年,元各,各一,一枚,枚共,共二,二枚"
+    }
+  ]
+}

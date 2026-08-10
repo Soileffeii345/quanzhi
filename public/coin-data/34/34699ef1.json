@@ -1,0 +1,48 @@
+{
+  "coinName": "1920年希腊纸钞",
+  "slug": "34699ef1",
+  "saleCount": 2,
+  "keywords": "钞,1920年,年希,希腊,腊纸,纸钞",
+  "priceStats": {
+    "low": 100,
+    "high": 110,
+    "avg": 105,
+    "latest": 110
+  },
+  "records": [
+    {
+      "coinName": "1920年希腊纸钞",
+      "normalizedBoxCode": "2240914032",
+      "displayBoxCode": "2240914-032",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10371412.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2240914-032/",
+      "price": 110,
+      "priceWithFee": 122.1,
+      "transactedAt": "2026-07-07 21:58:05",
+      "productCode": "871451015",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,1920年,年希,希腊,腊纸,纸钞"
+    },
+    {
+      "coinName": "1920年希腊纸钞",
+      "normalizedBoxCode": "2240914057",
+      "displayBoxCode": "2240914-057",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10371411.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2240914-057/",
+      "price": 100,
+      "priceWithFee": 111,
+      "transactedAt": "2026-07-07 21:37:05",
+      "productCode": "871451014",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,1920年,年希,希腊,腊纸,纸钞"
+    }
+  ]
+}

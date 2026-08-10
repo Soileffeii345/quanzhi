@@ -1,0 +1,31 @@
+{
+  "coinName": "2019年精制",
+  "slug": "7e30c247",
+  "saleCount": 1,
+  "keywords": "币,2019年,年美,美国,国阿,阿波,波罗,罗号,号登,登月,月周,周年,年精,精制,制纪,纪念,念币,评级,外国/特区",
+  "priceStats": {
+    "low": 880,
+    "high": 880,
+    "avg": 880,
+    "latest": 880
+  },
+  "records": [
+    {
+      "coinName": "2019年美国阿波罗11号登月50周年精制纪念币",
+      "normalizedBoxCode": "4951962019",
+      "displayBoxCode": "4951962-019",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/599003.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4951962-019/70/",
+      "price": 880,
+      "priceWithFee": null,
+      "transactedAt": "2026-07-22 18:45:04",
+      "productCode": "KH142547",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2019年,年美,美国,国阿,阿波,波罗,罗号,号登,登月,月周,周年,年精,精制,制纪,纪念,念币,评级,外国/特区"
+    }
+  ]
+}

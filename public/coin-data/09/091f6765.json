@@ -1,0 +1,31 @@
+{
+  "coinName": "民国三十六年东北银行地方流通券壹佰元",
+  "slug": "091f6765",
+  "saleCount": 1,
+  "keywords": "银,历史币,民国,国三,三十,十六,六年,年东,东北,北银,银行,行地,地方,方流,流通,通券,券壹,壹佰,佰元",
+  "priceStats": {
+    "low": 250,
+    "high": 250,
+    "avg": 250,
+    "latest": 250
+  },
+  "records": [
+    {
+      "coinName": "民国三十六年东北银行地方流通券壹佰元",
+      "normalizedBoxCode": "2277872047",
+      "displayBoxCode": "2277872-047",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jiefangquzhichao/10369540.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2277872-047/",
+      "price": 250,
+      "priceWithFee": 277.5,
+      "transactedAt": "2026-07-16 20:52:10",
+      "productCode": "871031005",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国三,三十,十六,六年,年东,东北,北银,银行,行地,地方,方流,流通,通券,券壹,壹佰,佰元"
+    }
+  ]
+}

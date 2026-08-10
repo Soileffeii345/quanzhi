@@ -1,0 +1,31 @@
+{
+  "coinName": "2015年生肖3盎司精制金币",
+  "slug": "31c449f5",
+  "saleCount": 1,
+  "keywords": "金,币,2015年,3盎司,生肖,年乙,乙未,未羊,羊年,年生,肖盎,盎司,司扇,扇形,形精,精制,制金,金币,评级",
+  "priceStats": {
+    "low": 9700,
+    "high": 9700,
+    "avg": 9700,
+    "latest": 9700
+  },
+  "records": [
+    {
+      "coinName": "2015年乙未羊年生肖1/3盎司扇形精制金币",
+      "normalizedBoxCode": "4568531006",
+      "displayBoxCode": "4568531-006",
+      "gradingCompany": "NGC",
+      "grade": "PF70 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-jin/10398825.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4568531-006/70/",
+      "price": 9700,
+      "priceWithFee": 10039.5,
+      "transactedAt": "2026-07-16 21:00:55",
+      "productCode": "874356015",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2015年,3盎司,生肖,年乙,乙未,未羊,羊年,年生,肖盎,盎司,司扇,扇形,形精,精制,制金,金币,评级"
+    }
+  ]
+}

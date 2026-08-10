@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6716883001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6716883001",
+      "displayBoxCode": "6716883-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2000年1/2盎司京剧艺术第2组彩金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/468914.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6716883-001/69/",
+      "price": 11105,
+      "priceWithFee": null,
+      "transactedAt": "2025-03-18 15:05:34",
+      "productCode": "KH061506",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250318/large_sell_5a8cisl6ikhew8mh.jpg",
+      "ocrConfidence": 54,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2000年,2盎司,戏曲,年盎,盎司,司京,京剧,剧艺,艺术,术第,第组,组彩,彩金,金币"
+    }
+  ]
+}

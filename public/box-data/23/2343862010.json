@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2343862010",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2343862010",
+      "displayBoxCode": "2343862-010",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "第三版人民币2元五星水印",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/disanbanrenminbi/10412357.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2343862-010/",
+      "price": 1660,
+      "priceWithFee": 1792.8,
+      "transactedAt": "2026-07-21 20:49:05",
+      "productCode": "876495001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/876495001B.jpg",
+      "ocrConfidence": 26,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,第三,三版,版人,人民,民币,币元,元五,五星,星水,水印"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8757903002",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8757903002",
+      "displayBoxCode": "8757903-002",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1993年中国古代名画-孔雀开屏5盎司精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10361125.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8757903-002/69/",
+      "price": 27500,
+      "priceWithFee": 28462.5,
+      "transactedAt": "2026-06-25 20:13:35",
+      "productCode": "870518015",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/870518015A.jpg",
+      "ocrConfidence": 42,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1993年,5盎司,年中,中国,国古,古代,代名,名画,画孔,孔雀,雀开,开屏,屏盎,盎司,司精,精制,制银,银币,评级"
+    }
+  ]
+}

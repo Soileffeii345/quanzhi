@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6718167013",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6718167013",
+      "displayBoxCode": "6718167-013",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1990年2克龙凤呈祥银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/494387.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6718167-013/",
+      "price": 800,
+      "priceWithFee": null,
+      "transactedAt": "2025-12-17 12:46:44",
+      "productCode": "KH093937",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250813/large_sell_8jt6tgzdqzpyfnld.jpg",
+      "ocrConfidence": 46,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1990年,2克,年克,克龙,龙凤,凤呈,呈祥,祥银,银币"
+    }
+  ]
+}

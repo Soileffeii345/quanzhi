@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2580731090",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2580731090",
+      "displayBoxCode": "2580731-090",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1988年波兰纸币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10372905.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2580731-090/",
+      "price": 100,
+      "priceWithFee": 111,
+      "transactedAt": "2026-06-30 22:43:35",
+      "productCode": "871226079",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/26/871226079B.JPG",
+      "ocrConfidence": 42,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1988年,年波,波兰,兰纸,纸币"
+    }
+  ]
+}

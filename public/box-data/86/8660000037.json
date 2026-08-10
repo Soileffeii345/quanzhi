@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8660000037",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8660000037",
+      "displayBoxCode": "8660000-037",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2026年1盎司中国龙银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/581569.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8660000-037/",
+      "price": 850,
+      "priceWithFee": null,
+      "transactedAt": "2026-06-16 10:08:32",
+      "productCode": "AA648844",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260518/large_sell_ws7kmqfwkdqqwksz.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2026年,1盎司,年盎,盎司,司中,中国,国龙,龙银,银币"
+    }
+  ]
+}

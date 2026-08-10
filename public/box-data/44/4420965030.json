@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4420965030",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4420965030",
+      "displayBoxCode": "4420965-030",
+      "gradingCompany": "NGC",
+      "grade": "PF70 ULTRA CAMEO",
+      "coinName": "2017年30克梅花形生肖鸡银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/571640.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4420965-030/70/",
+      "price": 990,
+      "priceWithFee": null,
+      "transactedAt": "2026-04-17 13:35:37",
+      "productCode": "AA638892",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260410/large_sell_pqozedrqzcvaiq14.jpg",
+      "ocrConfidence": 31,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2017年,30克,生肖,年克,克梅,梅花,花形,形生,肖鸡,鸡银,银币"
+    }
+  ]
+}

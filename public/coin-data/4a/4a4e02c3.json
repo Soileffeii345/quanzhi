@@ -1,0 +1,48 @@
+{
+  "coinName": "1983年生肖",
+  "slug": "4a4e02c3",
+  "saleCount": 2,
+  "keywords": "章,1983年,生肖,年癸,癸亥,亥猪,猪年,年生,肖纪,纪念,念章,年猪",
+  "priceStats": {
+    "low": 110,
+    "high": 860,
+    "avg": 485,
+    "latest": 110
+  },
+  "records": [
+    {
+      "coinName": "1983年癸亥猪年生肖纪念章",
+      "normalizedBoxCode": "3803640015",
+      "displayBoxCode": "3803640-015",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/tongzhang/10361057.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3803640-015/69/",
+      "price": 110,
+      "priceWithFee": 122.1,
+      "transactedAt": "2026-07-10 19:29:10",
+      "productCode": "870582010",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "章,1983年,生肖,年癸,癸亥,亥猪,猪年,年生,肖纪,纪念,念章"
+    },
+    {
+      "coinName": "1983年猪年生肖纪念章",
+      "normalizedBoxCode": "8618500055",
+      "displayBoxCode": "8618500-055",
+      "gradingCompany": "NGC",
+      "grade": "PF 69",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10402328.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8618500-055/69/",
+      "price": 860,
+      "priceWithFee": 928.8,
+      "transactedAt": "2026-07-15 19:41:45",
+      "productCode": "875161007",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "章,1983年,生肖,年猪,猪年,年生,肖纪,纪念,念章"
+    }
+  ]
+}

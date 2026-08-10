@@ -1,0 +1,31 @@
+{
+  "coinName": "2016年1公斤银币",
+  "slug": "2e27f666",
+  "saleCount": 1,
+  "keywords": "银,币,2016年,1公斤,年公,公斤,斤大,大足,足石,石刻,刻银,银币",
+  "priceStats": {
+    "low": 11400,
+    "high": 11400,
+    "avg": 11400,
+    "latest": 11400
+  },
+  "records": [
+    {
+      "coinName": "2016年1公斤大足石刻银币",
+      "normalizedBoxCode": "6333284003",
+      "displayBoxCode": "6333284-003",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/493546.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6333284-003/70/",
+      "price": 11400,
+      "priceWithFee": null,
+      "transactedAt": "2025-08-14 13:39:31",
+      "productCode": "DB201115",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2016年,1公斤,年公,公斤,斤大,大足,足石,石刻,刻银,银币"
+    }
+  ]
+}

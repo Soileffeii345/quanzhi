@@ -1,0 +1,82 @@
+{
+  "coinName": "2002年金币",
+  "slug": "7e43ee31",
+  "saleCount": 4,
+  "keywords": "金,币,2002年,年边,边红,红楼,楼梦,梦第,第组,组彩,彩金,金币",
+  "priceStats": {
+    "low": 13495,
+    "high": 18975,
+    "avg": 16496,
+    "latest": 18975
+  },
+  "records": [
+    {
+      "coinName": "2002年8边红楼梦第2组彩金币",
+      "normalizedBoxCode": "5793692003",
+      "displayBoxCode": "5793692-003",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/557909.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/5793692-003/69/",
+      "price": 18975,
+      "priceWithFee": null,
+      "transactedAt": "2026-03-02 20:53:46",
+      "productCode": "KH121984",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2002年,年边,边红,红楼,楼梦,梦第,第组,组彩,彩金,金币"
+    },
+    {
+      "coinName": "2002年8边红楼梦第2组彩金币",
+      "normalizedBoxCode": "5793692003",
+      "displayBoxCode": "5793692-003",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/538229.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/5793692-003/69/",
+      "price": 18055,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-26 10:41:12",
+      "productCode": "KH113534",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2002年,年边,边红,红楼,楼梦,梦第,第组,组彩,彩金,金币"
+    },
+    {
+      "coinName": "2002年8边红楼梦第2组彩金币",
+      "normalizedBoxCode": "5793860003",
+      "displayBoxCode": "5793860-003",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/506305.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/5793860-003/69/",
+      "price": 15460,
+      "priceWithFee": null,
+      "transactedAt": "2025-10-17 05:55:40",
+      "productCode": "KH087799",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2002年,年边,边红,红楼,楼梦,梦第,第组,组彩,彩金,金币"
+    },
+    {
+      "coinName": "2002年8边红楼梦第2组彩金币",
+      "normalizedBoxCode": "6043382003",
+      "displayBoxCode": "6043382-003",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/503459.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6043382-003/69/",
+      "price": 13495,
+      "priceWithFee": null,
+      "transactedAt": "2025-09-29 14:36:58",
+      "productCode": "KH085404",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2002年,年边,边红,红楼,楼梦,梦第,第组,组彩,彩金,金币"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "coinName": "第一版人民币工厂1元",
+  "slug": "3bf78a00",
+  "saleCount": 1,
+  "keywords": "币,第一,一版,版人,人民,民币,币工,工厂,厂元",
+  "priceStats": {
+    "low": 4150,
+    "high": 4150,
+    "avg": 4150,
+    "latest": 4150
+  },
+  "records": [
+    {
+      "coinName": "第一版人民币工厂1元",
+      "normalizedBoxCode": "2228000003",
+      "displayBoxCode": "2228000-003",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/diyibanrenminbi/10402826.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2228000-003/",
+      "price": 4150,
+      "priceWithFee": 4565,
+      "transactedAt": "2026-07-23 20:26:10",
+      "productCode": "875132005",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,第一,一版,版人,人民,民币,币工,工厂,厂元"
+    }
+  ]
+}

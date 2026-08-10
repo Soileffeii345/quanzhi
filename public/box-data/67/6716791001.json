@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6716791001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6716791001",
+      "displayBoxCode": "6716791-001",
+      "gradingCompany": "NGC",
+      "grade": "MS 66",
+      "coinName": "1993年中国珍稀野生动物-大熊猫流通纪念币一枚、1995年中国珍稀野生动物-金丝猴流通纪念币一枚",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10373840.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6716791-001/66/",
+      "price": 170,
+      "priceWithFee": 183.6,
+      "transactedAt": "2026-07-01 20:02:05",
+      "productCode": "871771009",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/26/871771009A.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1993年,熊猫,年中,中国,国珍,珍稀,稀野,野生,生动,动物,物大,大熊,猫流,流通,通纪,纪念,念币,币一,一枚,枚年,物金,金丝,丝猴,猴流"
+    }
+  ]
+}

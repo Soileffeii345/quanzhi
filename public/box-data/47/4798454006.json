@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4798454006",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4798454006",
+      "displayBoxCode": "4798454-006",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2011年1/2盎司梅花形生肖兔金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/495169.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4798454-006/70/",
+      "price": 12415,
+      "priceWithFee": null,
+      "transactedAt": "2025-08-18 14:24:40",
+      "productCode": "KH079250",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250818/large_sell_mbabpihc5xf89btk.jpg",
+      "ocrConfidence": 49,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2011年,2盎司,生肖,年盎,盎司,司梅,梅花,花形,形生,肖兔,兔金,金币"
+    }
+  ]
+}

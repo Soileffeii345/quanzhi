@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8044905006",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8044905006",
+      "displayBoxCode": "8044905-006",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "第一版人民币驮运100元",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/diyibanrenminbi/10419101.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8044905-006/",
+      "price": 8500,
+      "priceWithFee": 9350,
+      "transactedAt": "2026-07-23 20:38:40",
+      "productCode": "877236001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/877236001B.jpg",
+      "ocrConfidence": 31,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,第一,一版,版人,人民,民币,币驮,驮运,运元"
+    }
+  ]
+}

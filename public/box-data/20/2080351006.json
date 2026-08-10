@@ -1,0 +1,45 @@
+{
+  "ok": true,
+  "query": "2080351006",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2080351006",
+      "displayBoxCode": "2080351-006",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2011年中国古典文学名著《水浒传》第（3）组-智多星吴用1/3盎司精制彩金币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10360167.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2080351-006/",
+      "price": 9500,
+      "priceWithFee": 9832.5,
+      "transactedAt": "2026-06-25 20:56:35",
+      "productCode": "870451020",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/870451020A.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2011年,3盎司,年中,中国,国古,古典,典文,文学,学名,名著,著水,水浒,浒传,传第,第组,组智,智多,多星,星吴,吴用,用盎,盎司,司精,精制,制彩,彩金,金币,评级"
+    },
+    {
+      "normalizedBoxCode": "2080351006",
+      "displayBoxCode": "2080351-006",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2011年1/3盎司水浒传第3组彩金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/488408.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2080351-006/",
+      "price": 8175,
+      "priceWithFee": null,
+      "transactedAt": "2025-07-18 16:35:41",
+      "productCode": "AA572638",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250713/large_sell_jt5kzdanceclssst.jpg",
+      "ocrConfidence": 30,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2011年,3盎司,年盎,盎司,司水,水浒,浒传,传第,第组,组彩,彩金,金币"
+    }
+  ]
+}

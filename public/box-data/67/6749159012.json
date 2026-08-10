@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6749159012",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6749159012",
+      "displayBoxCode": "6749159-012",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1997年1/2盎司澳门回归第1组金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/523731.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6749159-012/",
+      "price": 15615,
+      "priceWithFee": null,
+      "transactedAt": "2025-12-23 23:14:16",
+      "productCode": "KH097336",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251223/large_sell_vlxgejjvkssrpohy.jpg",
+      "ocrConfidence": 51,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1997年,2盎司,年盎,盎司,司澳,澳门,门回,回归,归第,第组,组金,金币,外国/特区"
+    }
+  ]
+}

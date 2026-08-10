@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6761256031",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6761256031",
+      "displayBoxCode": "6761256-031",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2023年中华传统瑞兽龟金银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/453979.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6761256-031/70/",
+      "price": 2000,
+      "priceWithFee": null,
+      "transactedAt": "2025-02-21 00:11:52",
+      "productCode": "AA532567.68",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20241111/large_sell_kcuf5h0ptuplrn9m.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,2023年,年中,中华,华传,传统,统瑞,瑞兽,兽龟,龟金,金银,银币"
+    }
+  ]
+}

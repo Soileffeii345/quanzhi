@@ -1,0 +1,65 @@
+{
+  "coinName": "第三版人民币背绿1角连号",
+  "slug": "16747a71",
+  "saleCount": 3,
+  "keywords": "币,第三,三版,版人,人民,民币,币背,背绿,绿角,角连,连号,号三,三枚,号二,二枚",
+  "priceStats": {
+    "low": 6200,
+    "high": 7700,
+    "avg": 6700,
+    "latest": 6200
+  },
+  "records": [
+    {
+      "coinName": "第三版人民币背绿1角连号三枚",
+      "normalizedBoxCode": "1111383275",
+      "displayBoxCode": "1111383-275",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/disanbanrenminbi/10399480.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1111383-275/",
+      "price": 6200,
+      "priceWithFee": 6696,
+      "transactedAt": "2026-07-23 20:43:40",
+      "productCode": "875007008",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,第三,三版,版人,人民,民币,币背,背绿,绿角,角连,连号,号三,三枚"
+    },
+    {
+      "coinName": "第三版人民币背绿1角连号三枚",
+      "normalizedBoxCode": "2325192005",
+      "displayBoxCode": "2325192-005",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/disanbanrenminbi/10399480.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2325192-005/",
+      "price": 6200,
+      "priceWithFee": 6696,
+      "transactedAt": "2026-07-23 20:43:40",
+      "productCode": "875007008",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,第三,三版,版人,人民,民币,币背,背绿,绿角,角连,连号,号三,三枚"
+    },
+    {
+      "coinName": "第三版人民币背绿1角连号二枚",
+      "normalizedBoxCode": "2325192009",
+      "displayBoxCode": "2325192-009",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/disanbanrenminbi/10365889.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2325192-009/",
+      "price": 7700,
+      "priceWithFee": 8316,
+      "transactedAt": "2026-07-07 20:04:50",
+      "productCode": "870331001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,第三,三版,版人,人民,民币,币背,背绿,绿角,角连,连号,号二,二枚"
+    }
+  ]
+}

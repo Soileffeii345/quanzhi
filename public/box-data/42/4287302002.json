@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4287302002",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4287302002",
+      "displayBoxCode": "4287302-002",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2007年1盎司中国歼10飞机银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/520249.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4287302-002/69/",
+      "price": 990,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-09 15:20:18",
+      "productCode": "AA598144A",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251122/large_sell_noolleddob0k5aab.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2007年,1盎司,年盎,盎司,司中,中国,国歼,歼飞,飞机,机银,银币"
+    }
+  ]
+}

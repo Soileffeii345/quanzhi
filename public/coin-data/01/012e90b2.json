@@ -1,0 +1,31 @@
+{
+  "coinName": "1994年生肖15.552克金币",
+  "slug": "012e90b2",
+  "saleCount": 1,
+  "keywords": "金,币,1994年,2盎司,生肖,年盎,盎司,司梅,梅花,花形,形生,肖狗,狗金,金币",
+  "priceStats": {
+    "low": 16800,
+    "high": 16800,
+    "avg": 16800,
+    "latest": 16800
+  },
+  "records": [
+    {
+      "coinName": "1994年1/2盎司梅花形生肖狗金币",
+      "normalizedBoxCode": "3943949003",
+      "displayBoxCode": "3943949-003",
+      "gradingCompany": "NGC",
+      "grade": "PF69 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/512560.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3943949-003/69/",
+      "price": 16800,
+      "priceWithFee": null,
+      "transactedAt": "2025-11-14 09:19:31",
+      "productCode": "KH091053",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1994年,2盎司,生肖,年盎,盎司,司梅,梅花,花形,形生,肖狗,狗金,金币"
+    }
+  ]
+}

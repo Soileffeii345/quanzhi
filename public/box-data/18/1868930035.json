@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "1868930035",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "1868930035",
+      "displayBoxCode": "1868930-035",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "民国十年震义银行拾圆",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/yangshangkechao/10373855.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1868930-035/",
+      "price": 810,
+      "priceWithFee": 899.1,
+      "transactedAt": "2026-07-16 20:48:40",
+      "productCode": "871682003",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/26/871682003B.jpg",
+      "ocrConfidence": 32,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国十,十年,年震,震义,义银,银行,行拾,拾圆"
+    }
+  ]
+}

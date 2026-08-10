@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8504636031",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8504636031",
+      "displayBoxCode": "8504636-031",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1990年法国查理曼大帝22.2克银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/wgjsbizhang/10354146.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8504636-031/69/",
+      "price": 660,
+      "priceWithFee": 699.6,
+      "transactedAt": "2026-06-19 20:25:25",
+      "productCode": "869380007",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/869380007A.jpg",
+      "ocrConfidence": 38,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1990年,22.2克,年法,法国,国查,查理,理曼,曼大,大帝,帝克,克银,银币,外国/特区"
+    }
+  ]
+}

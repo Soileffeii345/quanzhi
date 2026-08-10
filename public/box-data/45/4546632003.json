@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4546632003",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4546632003",
+      "displayBoxCode": "4546632-003",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1990年2克龙凤呈祥银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/523416.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4546632-003/69/",
+      "price": 780,
+      "priceWithFee": null,
+      "transactedAt": "2025-12-24 08:46:00",
+      "productCode": "KH097077",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251222/large_sell_k7qmt3bigpqlxjtw.jpg",
+      "ocrConfidence": 56,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1990年,2克,年克,克龙,龙凤,凤呈,呈祥,祥银,银币"
+    }
+  ]
+}

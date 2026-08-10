@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8579062005",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8579062005",
+      "displayBoxCode": "8579062-005",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2026年30克熊猫银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/571077.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8579062-005/",
+      "price": 860,
+      "priceWithFee": null,
+      "transactedAt": "2026-04-19 03:40:45",
+      "productCode": "KH129175",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260408/large_sell_kiuuvzv0sambavu7.jpg",
+      "ocrConfidence": 43,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2026年,30克,熊猫,年克,克熊,猫银,银币"
+    }
+  ]
+}

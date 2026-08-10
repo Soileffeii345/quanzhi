@@ -1,0 +1,31 @@
+{
+  "coinName": "2010年书法精制",
+  "slug": "04af180b",
+  "saleCount": 1,
+  "keywords": "币,2010年,书法,年和,和字,字书,法精,精制,制流,流通,通纪,纪念,念币,评级",
+  "priceStats": {
+    "low": 140,
+    "high": 140,
+    "avg": 140,
+    "latest": 140
+  },
+  "records": [
+    {
+      "coinName": "2010年和字书法精制流通纪念币",
+      "normalizedBoxCode": "8754271004",
+      "displayBoxCode": "8754271-004",
+      "gradingCompany": "NGC",
+      "grade": "PF 68 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10394173.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8754271-004/68/",
+      "price": 140,
+      "priceWithFee": 151.2,
+      "transactedAt": "2026-07-15 19:46:45",
+      "productCode": "874547014",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2010年,书法,年和,和字,字书,法精,精制,制流,流通,通纪,纪念,念币,评级"
+    }
+  ]
+}

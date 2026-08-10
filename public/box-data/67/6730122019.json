@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6730122019",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6730122019",
+      "displayBoxCode": "6730122-019",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2023年3克三江源国家公园金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/492705.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6730122-019/",
+      "price": 2400,
+      "priceWithFee": null,
+      "transactedAt": "2025-08-04 18:41:06",
+      "productCode": "KH077804",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250804/large_sell_mfaccn6mqkhobt1e.jpg",
+      "ocrConfidence": 48,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2023年,3克,年克,克三,三江,江源,源国,国家,家公,公园,园金,金币"
+    }
+  ]
+}

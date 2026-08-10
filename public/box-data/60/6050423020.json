@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6050423020",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6050423020",
+      "displayBoxCode": "6050423-020",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1989年1/4盎司珍稀动物第2组华南虎金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/491087.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6050423-020/",
+      "price": 6115,
+      "priceWithFee": null,
+      "transactedAt": "2025-07-27 20:08:06",
+      "productCode": "AA575021",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250727/large_sell_u4udwnkxxlqizzk5.jpg",
+      "ocrConfidence": 38,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1989年,4盎司,年盎,盎司,司珍,珍稀,稀动,动物,物第,第组,组华,华南,南虎,虎金,金币"
+    }
+  ]
+}

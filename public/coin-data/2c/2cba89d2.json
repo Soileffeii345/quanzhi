@@ -1,0 +1,31 @@
+{
+  "coinName": "1977年奥运会金币",
+  "slug": "2cba89d2",
+  "saleCount": 1,
+  "keywords": "金,币,1977年,奥运,年苏,苏联,联莫,莫斯,斯科,科奥,运会,会会,会徽,徽金,金币,外国/特区",
+  "priceStats": {
+    "low": 11970,
+    "high": 11970,
+    "avg": 11970,
+    "latest": 11970
+  },
+  "records": [
+    {
+      "coinName": "1977年苏联莫斯科奥运会会徽金币",
+      "normalizedBoxCode": "3896478072",
+      "displayBoxCode": "3896478-072",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/473393.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3896478-072/69/",
+      "price": 11970,
+      "priceWithFee": null,
+      "transactedAt": "2025-04-15 21:44:30",
+      "productCode": "KH064475",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1977年,奥运,年苏,苏联,联莫,莫斯,斯科,科奥,运会,会会,会徽,徽金,金币,外国/特区"
+    }
+  ]
+}

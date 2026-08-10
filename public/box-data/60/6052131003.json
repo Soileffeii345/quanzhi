@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6052131003",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6052131003",
+      "displayBoxCode": "6052131-003",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "coinName": "1987年1/10盎司熊猫金币(Y版)",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/459470.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6052131-003/69/",
+      "price": 2450,
+      "priceWithFee": null,
+      "transactedAt": "2025-02-21 13:25:38",
+      "productCode": "AA539106",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20241229/large_sell_jucircwk8y5o8a9g.jpg",
+      "ocrConfidence": 28,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1987年,10盎司,熊猫,年盎,盎司,司熊,猫金,金币,币版"
+    }
+  ]
+}

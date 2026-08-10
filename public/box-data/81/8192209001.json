@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8192209001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8192209001",
+      "displayBoxCode": "8192209-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2011年5盎司生肖兔彩金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/481079.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8192209-001/69/",
+      "price": 124405,
+      "priceWithFee": null,
+      "transactedAt": "2025-06-13 14:14:55",
+      "productCode": "KH069257",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250603/large_sell_g6aiter6qstxjjiq.jpg",
+      "ocrConfidence": 45,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2011年,5盎司,生肖,年盎,盎司,司生,肖兔,兔彩,彩金,金币"
+    }
+  ]
+}

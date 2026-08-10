@@ -1,0 +1,48 @@
+{
+  "coinName": "1983年熊猫12.7克精制铜币",
+  "slug": "38cb7e39",
+  "saleCount": 2,
+  "keywords": "铜,币,1983年,12.7克,熊猫,年熊,猫克,克精,精制,制铜,铜币,评级",
+  "priceStats": {
+    "low": 1740,
+    "high": 2900,
+    "avg": 2320,
+    "latest": 2900
+  },
+  "records": [
+    {
+      "coinName": "1983年熊猫12.7克精制铜币",
+      "normalizedBoxCode": "8545370006",
+      "displayBoxCode": "8545370-006",
+      "gradingCompany": "NGC",
+      "grade": "PF 69",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-tong/10424237.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8545370-006/69/",
+      "price": 2900,
+      "priceWithFee": 3001.5,
+      "transactedAt": "2026-07-27 22:21:40",
+      "productCode": "877966002",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "铜,币,1983年,12.7克,熊猫,年熊,猫克,克精,精制,制铜,铜币,评级"
+    },
+    {
+      "coinName": "1983年熊猫12.7克精制铜币",
+      "normalizedBoxCode": "8545372012",
+      "displayBoxCode": "8545372-012",
+      "gradingCompany": "NGC",
+      "grade": "PF 68 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-tong/10402318.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8545372-012/68/",
+      "price": 1740,
+      "priceWithFee": 1800.9,
+      "transactedAt": "2026-07-16 20:20:55",
+      "productCode": "875342002",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "铜,币,1983年,12.7克,熊猫,年熊,猫克,克精,精制,制铜,铜币,评级"
+    }
+  ]
+}

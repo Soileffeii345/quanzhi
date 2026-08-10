@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8659760034",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8659760034",
+      "displayBoxCode": "8659760-034",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2012年壬辰龙年生肖1盎司精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10376848.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8659760-034/",
+      "price": 780,
+      "priceWithFee": 807.3,
+      "transactedAt": "2026-07-06 20:20:05",
+      "productCode": "872113009",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/26/872113009A.jpg",
+      "ocrConfidence": 37,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2012年,1盎司,生肖,年壬,壬辰,辰龙,龙年,年生,肖盎,盎司,司精,精制,制银,银币,评级"
+    }
+  ]
+}

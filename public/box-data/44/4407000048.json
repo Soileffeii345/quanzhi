@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4407000048",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4407000048",
+      "displayBoxCode": "4407000-048",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "coinName": "2019年8克贺岁银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/477522.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4407000-048/69/",
+      "price": 520,
+      "priceWithFee": null,
+      "transactedAt": "2025-05-21 22:07:50",
+      "productCode": "KH067045",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250514/large_sell_z6uhryloopgbxwiq.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2019年,8克,吉祥文化,年克,克贺,贺岁,岁银,银币"
+    }
+  ]
+}

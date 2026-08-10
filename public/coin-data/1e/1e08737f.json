@@ -1,0 +1,31 @@
+{
+  "coinName": "2011年生肖5盎司金币",
+  "slug": "1e08737f",
+  "saleCount": 1,
+  "keywords": "金,币,2011年,5盎司,生肖,年盎,盎司,司生,肖兔,兔彩,彩金,金币",
+  "priceStats": {
+    "low": 124405,
+    "high": 124405,
+    "avg": 124405,
+    "latest": 124405
+  },
+  "records": [
+    {
+      "coinName": "2011年5盎司生肖兔彩金币",
+      "normalizedBoxCode": "8192209001",
+      "displayBoxCode": "8192209-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/481079.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8192209-001/69/",
+      "price": 124405,
+      "priceWithFee": null,
+      "transactedAt": "2025-06-13 14:14:55",
+      "productCode": "KH069257",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2011年,5盎司,生肖,年盎,盎司,司生,肖兔,兔彩,彩金,金币"
+    }
+  ]
+}

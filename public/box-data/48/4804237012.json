@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4804237012",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4804237012",
+      "displayBoxCode": "4804237-012",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2000年1/4盎司戴胜鸟彩金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/502208.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4804237-012/",
+      "price": 6715,
+      "priceWithFee": null,
+      "transactedAt": "2025-09-27 01:07:24",
+      "productCode": "KH085074",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250923/large_sell_ujh2tgcfgjdpakvi.jpg",
+      "ocrConfidence": 37,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2000年,4盎司,年盎,盎司,司戴,戴胜,胜鸟,鸟彩,彩金,金币"
+    }
+  ]
+}

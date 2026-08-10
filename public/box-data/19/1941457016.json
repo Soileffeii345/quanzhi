@@ -1,0 +1,45 @@
+{
+  "ok": true,
+  "query": "1941457016",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "1941457016",
+      "displayBoxCode": "1941457-016",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "第四套/第四版人民币1980年版100元",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/disibanrenminbi/10416490.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1941457-016/",
+      "price": 370,
+      "priceWithFee": 399.6,
+      "transactedAt": "2026-07-21 19:39:05",
+      "productCode": "877136001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/874896002B.jpg",
+      "ocrConfidence": 29,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1980年,第四,四套,套第,四版,版人,人民,民币,币年,年版,版元"
+    },
+    {
+      "normalizedBoxCode": "1941457016",
+      "displayBoxCode": "1941457-016",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "第四套/第四版人民币1980年版100元",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/disibanrenminbi/10398796.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1941457-016/",
+      "price": 370,
+      "priceWithFee": 399.6,
+      "transactedAt": "2026-07-14 19:16:05",
+      "productCode": "874896002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/874896002B.jpg",
+      "ocrConfidence": 29,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1980年,第四,四套,套第,四版,版人,人民,民币,币年,年版,版元"
+    }
+  ]
+}

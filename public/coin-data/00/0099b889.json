@@ -1,0 +1,31 @@
+{
+  "coinName": "2013年5盎司铜币",
+  "slug": "0099b889",
+  "saleCount": 1,
+  "keywords": "金,铜,币,2013年,5盎司,年盎,盎司,司青,青铜,铜器,器第,第组,组金,金币",
+  "priceStats": {
+    "low": 195590,
+    "high": 195590,
+    "avg": 195590,
+    "latest": 195590
+  },
+  "records": [
+    {
+      "coinName": "2013年5盎司青铜器第2组金币",
+      "normalizedBoxCode": "4421069002",
+      "displayBoxCode": "4421069-002",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/545859.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4421069-002/69/",
+      "price": 195590,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-29 08:45:39",
+      "productCode": "KH115755",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,铜,币,2013年,5盎司,年盎,盎司,司青,青铜,铜器,器第,第组,组金,金币"
+    }
+  ]
+}

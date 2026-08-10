@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "1180747009",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "1180747009",
+      "displayBoxCode": "1180747-009",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1929年美国10美元纸币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10387940.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1180747-009/",
+      "price": 2800,
+      "priceWithFee": 3108,
+      "transactedAt": "2026-07-14 22:09:50",
+      "productCode": "873172008",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/27/873172008B.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1929年,年美,美国,国美,美元,元纸,纸币,外国/特区"
+    }
+  ]
+}

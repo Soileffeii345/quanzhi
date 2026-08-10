@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2400705013",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2400705013",
+      "displayBoxCode": "2400705-013",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2020年印度尼西亚纸钞",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10371483.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2400705-013/",
+      "price": 130,
+      "priceWithFee": 144.3,
+      "transactedAt": "2026-07-07 22:07:20",
+      "productCode": "871453067",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/26/871453067B.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,2020年,年印,印度,度尼,尼西,西亚,亚纸,纸钞"
+    }
+  ]
+}

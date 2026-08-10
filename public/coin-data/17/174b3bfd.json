@@ -1,0 +1,48 @@
+{
+  "coinName": "1955年中国硬币壹分",
+  "slug": "174b3bfd",
+  "saleCount": 2,
+  "keywords": "币,1955年,年中,中国,国硬,硬币,币壹,壹分",
+  "priceStats": {
+    "low": 270,
+    "high": 290,
+    "avg": 280,
+    "latest": 270
+  },
+  "records": [
+    {
+      "coinName": "1955年中国硬币壹分",
+      "normalizedBoxCode": "81587560",
+      "displayBoxCode": "81587560",
+      "gradingCompany": "PCGS",
+      "grade": "MS66",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10357536.shtml",
+      "officialCertUrl": "https://cn.pcgs.com/cert/81587560",
+      "price": 270,
+      "priceWithFee": 291.6,
+      "transactedAt": "2026-06-24 21:18:05",
+      "productCode": "869744001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1955年,年中,中国,国硬,硬币,币壹,壹分"
+    },
+    {
+      "coinName": "1955年中国硬币壹分",
+      "normalizedBoxCode": "81588323",
+      "displayBoxCode": "81588323",
+      "gradingCompany": "PCGS",
+      "grade": "MS66",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10394779.shtml",
+      "officialCertUrl": "https://cn.pcgs.com/cert/81588323",
+      "price": 290,
+      "priceWithFee": 313.2,
+      "transactedAt": "2026-07-15 20:58:15",
+      "productCode": "874317001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1955年,年中,中国,国硬,硬币,币壹,壹分"
+    }
+  ]
+}

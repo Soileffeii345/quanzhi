@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "3153041012",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "3153041012",
+      "displayBoxCode": "3153041-012",
+      "gradingCompany": "NGC",
+      "grade": "PF 69",
+      "coinName": "1988年汤加1/2盎司汉城奥运会拳击金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/473396.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3153041-012/69/",
+      "price": 11955,
+      "priceWithFee": null,
+      "transactedAt": "2025-04-15 20:30:59",
+      "productCode": "KH064479",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250415/large_sell_xsplz15db0ej5a4p.jpg",
+      "ocrConfidence": 45,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1988年,2盎司,奥运,年汤,汤加,加盎,盎司,司汉,汉城,城奥,运会,会拳,拳击,击金,金币"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "88896489",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "88896489",
+      "displayBoxCode": "88896489",
+      "gradingCompany": "PCGS",
+      "grade": "AU55",
+      "coinName": "民国三年袁像壹圆银元",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguojindaijizhibi/10373605.shtml",
+      "officialCertUrl": "https://cn.pcgs.com/cert/88896489",
+      "price": 3150,
+      "priceWithFee": 3402,
+      "transactedAt": "2026-07-20 20:51:05",
+      "productCode": "871433024",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/26/871433024A.jpg",
+      "ocrConfidence": 29,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,袁大头,大头,袁头,民国,国三,三年,年袁,袁像,像壹,壹圆,圆银,银元"
+    }
+  ]
+}

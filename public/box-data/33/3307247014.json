@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "3307247014",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "3307247014",
+      "displayBoxCode": "3307247-014",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1988年中国杰出历史人物第（5）组-岳飞22克精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10412804.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3307247-014/69/",
+      "price": 730,
+      "priceWithFee": 755.55,
+      "transactedAt": "2026-07-20 20:45:40",
+      "productCode": "876670011",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/876670011A.jpg",
+      "ocrConfidence": 32,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1988年,22克,年中,中国,国杰,杰出,出历,历史,史人,人物,物第,第组,组岳,岳飞,飞克,克精,精制,制银,银币,评级"
+    }
+  ]
+}

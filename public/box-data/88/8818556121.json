@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8818556121",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8818556121",
+      "displayBoxCode": "8818556-121",
+      "gradingCompany": "NGC",
+      "grade": "PF69 ULTRA CAMEO",
+      "coinName": "2024年国家宝藏（启蒙奠基）-太阳神鸟金饰3克精制金币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10401681.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8818556-121/69/",
+      "price": 3450,
+      "priceWithFee": 3570.75,
+      "transactedAt": "2026-07-16 21:34:15",
+      "productCode": "875310001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/875310001A.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2024年,3克,年国,国家,家宝,宝藏,藏启,启蒙,蒙奠,奠基,基太,太阳,阳神,神鸟,鸟金,金饰,饰克,克精,精制,制金,金币,评级"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6729827012",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6729827012",
+      "displayBoxCode": "6729827-012",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2002年1盎司端午节银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/518394.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6729827-012/69/",
+      "price": 780,
+      "priceWithFee": null,
+      "transactedAt": "2025-12-27 19:36:57",
+      "productCode": "KH099726",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251207/large_sell_ewvpkcs06wkonb2k.jpg",
+      "ocrConfidence": 48,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2002年,1盎司,年盎,盎司,司端,端午,午节,节银,银币"
+    }
+  ]
+}

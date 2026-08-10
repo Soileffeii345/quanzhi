@@ -1,0 +1,45 @@
+{
+  "ok": true,
+  "query": "2135011006",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2135011006",
+      "displayBoxCode": "2135011-006",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "第三版人民币5角平版水印",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/disanbanrenminbi/10378142.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2135011-006/",
+      "price": 510,
+      "priceWithFee": 550.8,
+      "transactedAt": "2026-07-04 21:09:25",
+      "productCode": "872494001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/869682029B.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,第三,三版,版人,人民,民币,币角,角平,平版,版水,水印"
+    },
+    {
+      "normalizedBoxCode": "2135011006",
+      "displayBoxCode": "2135011-006",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "第三版人民币5角平版水印",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/disanbanrenminbi/10355278.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2135011-006/",
+      "price": 470,
+      "priceWithFee": 507.6,
+      "transactedAt": "2026-06-27 20:35:10",
+      "productCode": "869682029",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/869682029B.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,第三,三版,版人,人民,民币,币角,角平,平版,版水,水印"
+    }
+  ]
+}

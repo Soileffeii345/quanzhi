@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8612344001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8612344001",
+      "displayBoxCode": "8612344-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 68 ULTRA CAMEO",
+      "coinName": "1988年5盎司生肖龙银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/569080.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8612344-001/68/",
+      "price": 10000,
+      "priceWithFee": null,
+      "transactedAt": "2026-04-04 18:40:25",
+      "productCode": "KH127816",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260401/large_sell_heje5bzkwhxxu2df.jpg",
+      "ocrConfidence": 38,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1988年,5盎司,生肖,年盎,盎司,司生,肖龙,龙银,银币"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6753307006",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6753307006",
+      "displayBoxCode": "6753307-006",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1987年内蒙古自治区成立40周年纪念币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/423480.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6753307-006/66/",
+      "price": 280,
+      "priceWithFee": null,
+      "transactedAt": "2024-03-29 00:06:14",
+      "productCode": "KH053195",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20240326/large_sell_amdzha7i6lzjc8zh.jpg",
+      "ocrConfidence": 44,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1987年,年内,内蒙,蒙古,古自,自治,治区,区成,成立,立周,周年,年纪,纪念,念币"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6334928006",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6334928006",
+      "displayBoxCode": "6334928-006",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2007年1/10盎司生肖猪金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/465026.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6334928-006/",
+      "price": 2120,
+      "priceWithFee": null,
+      "transactedAt": "2025-02-18 22:30:54",
+      "productCode": "KH059434",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250218/large_sell_1joihxwnkexdtti4.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2007年,10盎司,生肖,年盎,盎司,司生,肖猪,猪金,金币"
+    }
+  ]
+}

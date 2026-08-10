@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2638190003",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2638190003",
+      "displayBoxCode": "2638190-003",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2010年1/4盎司武当山金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/523580.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2638190-003/",
+      "price": 7785,
+      "priceWithFee": null,
+      "transactedAt": "2025-12-22 17:16:05",
+      "productCode": "KH097199",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251222/large_sell_jjq3jahnipn2ahzj.jpg",
+      "ocrConfidence": 47,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2010年,4盎司,年盎,盎司,司武,武当,当山,山金,金币"
+    }
+  ]
+}

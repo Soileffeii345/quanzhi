@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8201188014",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8201188014",
+      "displayBoxCode": "8201188-014",
+      "gradingCompany": "NGC",
+      "grade": "MS 70",
+      "coinName": "2023年15克熊猫金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/559965.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8201188-014/70/",
+      "price": 19000,
+      "priceWithFee": null,
+      "transactedAt": "2026-03-10 06:53:55",
+      "productCode": "KH123551",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260308/large_sell_oq6yuwpw5lpe0xt1.jpg",
+      "ocrConfidence": 52,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2023年,15克,熊猫,年克,克熊,猫金,金币"
+    }
+  ]
+}

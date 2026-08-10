@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6186843002",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6186843002",
+      "displayBoxCode": "6186843-002",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1996年1/2盎司古代科技第5组船舵金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/490215.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6186843-002/69/",
+      "price": 28600,
+      "priceWithFee": null,
+      "transactedAt": "2025-08-17 22:46:40",
+      "productCode": "AA574196",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250722/large_sell_dniqtwcdjwdofbbs.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1996年,2盎司,年盎,盎司,司古,古代,代科,科技,技第,第组,组船,船舵,舵金,金币"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "3756925001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "3756925001",
+      "displayBoxCode": "3756925-001",
+      "gradingCompany": "NGC",
+      "grade": "PF70 ULTRA CAMEO",
+      "coinName": "1980年中国奥委会古代射艺金币(UC)",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/416709.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3756925-001/70/",
+      "price": 18800,
+      "priceWithFee": null,
+      "transactedAt": "2024-02-05 08:12:58",
+      "productCode": "AA462992",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20240203/large_sell_uezhepl5na5u7dna.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1980年,年中,中国,国奥,奥委,委会,会古,古代,代射,射艺,艺金,金币"
+    }
+  ]
+}

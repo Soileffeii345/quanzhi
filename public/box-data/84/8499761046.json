@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8499761046",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8499761046",
+      "displayBoxCode": "8499761-046",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2010年1/4盎司深圳经济特区建立30周年金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/492510.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8499761-046/69/",
+      "price": 6180,
+      "priceWithFee": null,
+      "transactedAt": "2025-08-03 21:17:07",
+      "productCode": "KH077677",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250803/large_sell_yvm28uqcbfrla5xf.jpg",
+      "ocrConfidence": 53,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2010年,4盎司,年盎,盎司,司深,深圳,圳经,经济,济特,特区,区建,建立,立周,周年,年金,金币"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2584612042",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2584612042",
+      "displayBoxCode": "2584612-042",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "第一版人民币颐和园200元",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/diyibanrenminbi/10399483.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2584612-042/",
+      "price": 4500,
+      "priceWithFee": 4950,
+      "transactedAt": "2026-07-16 20:38:40",
+      "productCode": "875008003",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/875008003B.jpg",
+      "ocrConfidence": 25,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,第一,一版,版人,人民,民币,币颐,颐和,和园,园元"
+    }
+  ]
+}

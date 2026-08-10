@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6715258010",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6715258010",
+      "displayBoxCode": "6715258-010",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 CAMEO",
+      "coinName": "1982年第12届世界杯足球赛-射门12克精制铜币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-tong/10419099.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6715258-010/69/",
+      "price": 880,
+      "priceWithFee": 910.8,
+      "transactedAt": "2026-07-27 21:44:40",
+      "productCode": "877213002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/877213002A.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "铜,币,1982年,12克,年第,第届,届世,世界,界杯,杯足,足球,球赛,赛射,射门,门克,克精,精制,制铜,铜币,评级"
+    }
+  ]
+}

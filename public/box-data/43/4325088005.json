@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4325088005",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4325088005",
+      "displayBoxCode": "4325088-005",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2016年30克吉祥文化瓜瓞绵绵银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/527728.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4325088-005/69/",
+      "price": 700,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-05 12:54:17",
+      "productCode": "KH101335",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260104/large_sell_afi1nsynxn3okgvi.jpg",
+      "ocrConfidence": 42,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2016年,30克,吉祥文化,年克,克吉,吉祥,祥文,文化,化瓜,瓜瓞,瓞绵,绵绵,绵银,银币"
+    }
+  ]
+}

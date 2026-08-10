@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8819728004",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8819728004",
+      "displayBoxCode": "8819728-004",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2005年乙酉鸡年生肖贺岁精制流通纪念币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10416891.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8819728-004/",
+      "price": 1440,
+      "priceWithFee": 1555.2,
+      "transactedAt": "2026-07-22 19:19:15",
+      "productCode": "877062006",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/877062006A.jpg",
+      "ocrConfidence": 38,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2005年,生肖,吉祥文化,年乙,乙酉,酉鸡,鸡年,年生,肖贺,贺岁,岁精,精制,制流,流通,通纪,纪念,念币,评级"
+    }
+  ]
+}

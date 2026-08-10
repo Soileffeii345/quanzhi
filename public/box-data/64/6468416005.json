@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6468416005",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6468416005",
+      "displayBoxCode": "6468416-005",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 CAMEO",
+      "coinName": "1979年1/2盎司建国30周年金币(CA/无标)",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/527811.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6468416-005/69/",
+      "price": 66000,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-05 22:02:15",
+      "productCode": "KH101398",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260105/large_sell_zbvhvddl1f8nipy6.jpg",
+      "ocrConfidence": 55,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1979年,2盎司,重大事件,年盎,盎司,司建,建国,国周,周年,年金,金币,币无,无标"
+    }
+  ]
+}

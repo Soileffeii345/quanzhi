@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4533823019",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4533823019",
+      "displayBoxCode": "4533823-019",
+      "gradingCompany": "NGC",
+      "grade": "PF70 ULTRA CAMEO",
+      "coinName": "2003年1盎司植树节银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/347910.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4533823-019/70/",
+      "price": 1800,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-23 08:16:24",
+      "productCode": "KH111190",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20230509/large_sell_sovpzje1voz6ivdo.jpg",
+      "ocrConfidence": 43,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2003年,1盎司,年盎,盎司,司植,植树,树节,节银,银币"
+    }
+  ]
+}

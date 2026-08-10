@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4315132066",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4315132066",
+      "displayBoxCode": "4315132-066",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "coinName": "2015年乙未羊年生肖流通纪念币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10390680.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4315132-066/69/",
+      "price": 60,
+      "priceWithFee": 64.8,
+      "transactedAt": "2026-07-15 19:52:10",
+      "productCode": "873820096",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/873820096A.jpg",
+      "ocrConfidence": 32,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2015年,生肖,年乙,乙未,未羊,羊年,年生,肖流,流通,通纪,纪念,念币"
+    }
+  ]
+}

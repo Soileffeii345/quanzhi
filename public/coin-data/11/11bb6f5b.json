@@ -1,0 +1,31 @@
+{
+  "coinName": "澳大利亚纸币",
+  "slug": "11bb6f5b",
+  "saleCount": 1,
+  "keywords": "币,澳大,大利,利亚,亚纸,纸币,外国/特区",
+  "priceStats": {
+    "low": 90,
+    "high": 90,
+    "avg": 90,
+    "latest": 90
+  },
+  "records": [
+    {
+      "coinName": "澳大利亚纸币",
+      "normalizedBoxCode": "2400739042",
+      "displayBoxCode": "2400739-042",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10372912.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2400739-042/",
+      "price": 90,
+      "priceWithFee": 99.9,
+      "transactedAt": "2026-06-30 22:14:35",
+      "productCode": "871226086",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,澳大,大利,利亚,亚纸,纸币,外国/特区"
+    }
+  ]
+}

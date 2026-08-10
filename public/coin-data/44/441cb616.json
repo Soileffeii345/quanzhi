@@ -1,0 +1,65 @@
+{
+  "coinName": "2016年金银币",
+  "slug": "441cb616",
+  "saleCount": 3,
+  "keywords": "金,银,币,2016年,年宁,宁波,波会,会馆,馆设,设立,立周,周年,年金,金银,银币",
+  "priceStats": {
+    "low": 4800,
+    "high": 7500,
+    "avg": 6600,
+    "latest": 4800
+  },
+  "records": [
+    {
+      "coinName": "2016年宁波会馆设立90周年金银币",
+      "normalizedBoxCode": "4317539006",
+      "displayBoxCode": "4317539-006",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/422920.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4317539-006/",
+      "price": 4800,
+      "priceWithFee": null,
+      "transactedAt": "2024-04-01 10:53:07",
+      "productCode": "KH052808",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,2016年,年宁,宁波,波会,会馆,馆设,设立,立周,周年,年金,金银,银币"
+    },
+    {
+      "coinName": "2016年宁波会馆设立90周年金银币",
+      "normalizedBoxCode": "4319569056",
+      "displayBoxCode": "4319569-056",
+      "gradingCompany": "NGC",
+      "grade": "PF 70",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/532143.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4319569-056/70/",
+      "price": 7500,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-16 18:56:53",
+      "productCode": "KH107240",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,2016年,年宁,宁波,波会,会馆,馆设,设立,立周,周年,年金,金银,银币"
+    },
+    {
+      "coinName": "2016年宁波会馆设立90周年金银币",
+      "normalizedBoxCode": "4319569086",
+      "displayBoxCode": "4319569-086",
+      "gradingCompany": "NGC",
+      "grade": "PF 70",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/532143.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4319569-086/70/",
+      "price": 7500,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-16 18:56:53",
+      "productCode": "KH107240",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,2016年,年宁,宁波,波会,会馆,馆设,设立,立周,周年,年金,金银,银币"
+    }
+  ]
+}

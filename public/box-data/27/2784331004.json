@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2784331004",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2784331004",
+      "displayBoxCode": "2784331-004",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2012年1/4盎司五台山金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/506298.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2784331-004/69/",
+      "price": 7735,
+      "priceWithFee": null,
+      "transactedAt": "2025-10-17 20:19:21",
+      "productCode": "KH087782",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251016/large_sell_qn4ehxar49yyxglh.jpg",
+      "ocrConfidence": 48,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2012年,4盎司,年盎,盎司,司五,五台,台山,山金,金币"
+    }
+  ]
+}

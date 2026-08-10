@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8817239007",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8817239007",
+      "displayBoxCode": "8817239-007",
+      "gradingCompany": "NGC",
+      "grade": "MS 68",
+      "coinName": "2004年熊猫1盎司普制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-jiuyin/10417570.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8817239-007/68/",
+      "price": 550,
+      "priceWithFee": 569.25,
+      "transactedAt": "2026-07-20 19:56:40",
+      "productCode": "877004005",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/877004005A.jpg",
+      "ocrConfidence": 29,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2004年,1盎司,熊猫,年熊,猫盎,盎司,司普,普制,制银,银币"
+    }
+  ]
+}

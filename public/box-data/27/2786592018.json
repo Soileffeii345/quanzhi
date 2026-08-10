@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2786592018",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2786592018",
+      "displayBoxCode": "2786592-018",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "1995年1/10盎司传统文化第1组金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/473041.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2786592-018/70/",
+      "price": 22600,
+      "priceWithFee": null,
+      "transactedAt": "2025-04-17 00:25:22",
+      "productCode": "AA558761.....65",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250414/large_sell_yafktfc6mu10cx3a.jpg",
+      "ocrConfidence": 31,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1995年,10盎司,年盎,盎司,司传,传统,统文,文化,化第,第组,组金,金币"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6739075019",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6739075019",
+      "displayBoxCode": "6739075-019",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1921年美国摩根26.73克银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguojindaijizhibi/10386736.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6739075-019/",
+      "price": 820,
+      "priceWithFee": 885.6,
+      "transactedAt": "2026-07-27 20:44:05",
+      "productCode": "873376047",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/27/873376047A.jpg",
+      "ocrConfidence": 28,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1921年,26.73克,年美,美国,国摩,摩根,根克,克银,银币,外国/特区"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8820306037",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8820306037",
+      "displayBoxCode": "8820306-037",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1990年龙凤1克精制金币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10427005.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8820306-037/",
+      "price": 1720,
+      "priceWithFee": 1780.2,
+      "transactedAt": "2026-07-27 22:20:40",
+      "productCode": "878107010",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/878107010A.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1990年,1克,年龙,龙凤,凤克,克精,精制,制金,金币,评级"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4315463020",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4315463020",
+      "displayBoxCode": "4315463-020",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2011年1/4盎司世界自然基金会成立50周年金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/487791.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4315463-020/70/",
+      "price": 6130,
+      "priceWithFee": null,
+      "transactedAt": "2025-07-09 10:48:43",
+      "productCode": "KH073111",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250709/large_sell_7c6rezmxekvd2ak0.jpg",
+      "ocrConfidence": 47,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2011年,4盎司,年盎,盎司,司世,世界,界自,自然,然基,基金,金会,会成,成立,立周,周年,年金,金币"
+    }
+  ]
+}

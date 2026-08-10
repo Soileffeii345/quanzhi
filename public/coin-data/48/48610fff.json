@@ -1,0 +1,31 @@
+{
+  "coinName": "1992年生肖15克精制银币",
+  "slug": "48610fff",
+  "saleCount": 1,
+  "keywords": "银,币,1992年,15克,生肖,年壬,壬申,申猴,猴年,年生,肖克,克精,精制,制银,银币,评级",
+  "priceStats": {
+    "low": 870,
+    "high": 870,
+    "avg": 870,
+    "latest": 870
+  },
+  "records": [
+    {
+      "coinName": "1992年壬申猴年生肖15克精制银币",
+      "normalizedBoxCode": "8768111012",
+      "displayBoxCode": "8768111-012",
+      "gradingCompany": "NGC",
+      "grade": "PF 67 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10350328.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8768111-012/67/",
+      "price": 870,
+      "priceWithFee": 900.45,
+      "transactedAt": "2026-06-22 20:16:40",
+      "productCode": "869323008",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1992年,15克,生肖,年壬,壬申,申猴,猴年,年生,肖克,克精,精制,制银,银币,评级"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2122114008",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2122114008",
+      "displayBoxCode": "2122114-008",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1950年新疆省银行银圆券拾圆",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/minguoshengshigejiyinhangzhichao/10412693.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2122114-008/",
+      "price": 500,
+      "priceWithFee": 555,
+      "transactedAt": "2026-07-23 19:48:40",
+      "productCode": "876422004",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/876422004B.jpg",
+      "ocrConfidence": 25,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,1950年,新疆版,年新,新疆,疆省,省银,银行,行银,银圆,圆券,券拾,拾圆"
+    }
+  ]
+}

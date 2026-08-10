@@ -1,0 +1,48 @@
+{
+  "coinName": "1897年铜币",
+  "slug": "481118ef",
+  "saleCount": 2,
+  "keywords": "铜,章,1897年,年英,英国,国维,维多,多利,利亚,亚女,女王,王加,加冕,冕大,大铜,铜章,外国/特区,王登,登基,基周,周年,年钻,钻石,石禧,禧年,年铜",
+  "priceStats": {
+    "low": 510,
+    "high": 810,
+    "avg": 660,
+    "latest": 810
+  },
+  "records": [
+    {
+      "coinName": "1897年英国维多利亚女王加冕大铜章",
+      "normalizedBoxCode": "8649514005",
+      "displayBoxCode": "8649514-005",
+      "gradingCompany": "NGC",
+      "grade": "MS 63",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianbi/10357420.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8649514-005/63/",
+      "price": 810,
+      "priceWithFee": 899.1,
+      "transactedAt": "2026-06-26 19:05:55",
+      "productCode": "869622001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "铜,章,1897年,年英,英国,国维,维多,多利,利亚,亚女,女王,王加,加冕,冕大,大铜,铜章,外国/特区"
+    },
+    {
+      "coinName": "1897年英国维多利亚女王登基60周年钻石禧年铜章",
+      "normalizedBoxCode": "8655274005",
+      "displayBoxCode": "8655274-005",
+      "gradingCompany": "NGC",
+      "grade": "MS 62",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianbi/10424728.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8655274-005/62/",
+      "price": 510,
+      "priceWithFee": 566.1,
+      "transactedAt": "2026-07-24 20:54:15",
+      "productCode": "877433004",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "铜,章,1897年,年英,英国,国维,维多,多利,利亚,亚女,女王,王登,登基,基周,周年,年钻,钻石,石禧,禧年,年铜,铜章,外国/特区"
+    }
+  ]
+}

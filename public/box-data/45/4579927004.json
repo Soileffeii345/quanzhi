@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4579927004",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4579927004",
+      "displayBoxCode": "4579927-004",
+      "gradingCompany": "NGC",
+      "grade": "Pr69 ULTRA CAMEO",
+      "coinName": "1994年中国古代科技发明发现第（3）组-编钟22克精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10388788.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4579927-004/69/",
+      "price": 700,
+      "priceWithFee": 724.5,
+      "transactedAt": "2026-07-06 21:37:10",
+      "productCode": "873740011",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/27/873740011A.jpg",
+      "ocrConfidence": 41,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1994年,22克,年中,中国,国古,古代,代科,科技,技发,发明,明发,发现,现第,第组,组编,编钟,钟克,克精,精制,制银,银币,评级"
+    }
+  ]
+}

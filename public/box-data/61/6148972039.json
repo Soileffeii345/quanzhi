@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6148972039",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6148972039",
+      "displayBoxCode": "6148972-039",
+      "gradingCompany": "NGC",
+      "grade": "PF70",
+      "coinName": "1996年1/2盎司红军长征胜利60周年金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/471383.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6148972-039/70/",
+      "price": 25600,
+      "priceWithFee": null,
+      "transactedAt": "2025-04-09 19:58:59",
+      "productCode": "AA557361",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250402/large_sell_celptq3zmcagevas.jpg",
+      "ocrConfidence": 39,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1996年,2盎司,年盎,盎司,司红,红军,军长,长征,征胜,胜利,利周,周年,年金,金币"
+    }
+  ]
+}

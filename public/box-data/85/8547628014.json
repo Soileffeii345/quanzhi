@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8547628014",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8547628014",
+      "displayBoxCode": "8547628-014",
+      "gradingCompany": "NGC",
+      "grade": "PF 67",
+      "coinName": "1991年中国精制硬币贰分",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10359825.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8547628-014/67/",
+      "price": 330,
+      "priceWithFee": 356.4,
+      "transactedAt": "2026-06-24 21:46:05",
+      "productCode": "869854011",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/869854011A.jpg",
+      "ocrConfidence": 37,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1991年,年中,中国,国精,精制,制硬,硬币,币贰,贰分,评级"
+    }
+  ]
+}

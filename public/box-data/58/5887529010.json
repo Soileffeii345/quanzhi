@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "5887529010",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "5887529010",
+      "displayBoxCode": "5887529-010",
+      "gradingCompany": "NGC",
+      "grade": "MS 70",
+      "coinName": "2019年熊猫金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/496891.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/5887529-010/70/",
+      "price": 45855,
+      "priceWithFee": null,
+      "transactedAt": "2025-08-29 17:02:47",
+      "productCode": "KH080030",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250828/large_sell_yxomtqulieznonop.jpg",
+      "ocrConfidence": 67,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2019年,熊猫,年熊,猫金,金币"
+    }
+  ]
+}

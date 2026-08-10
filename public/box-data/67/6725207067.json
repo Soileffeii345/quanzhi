@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6725207067",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6725207067",
+      "displayBoxCode": "6725207-067",
+      "gradingCompany": "NGC",
+      "grade": "PF70 ULTRA CAMEO",
+      "coinName": "2015年吉祥文化-并蒂同心1盎司精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10356338.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6725207-067/70/",
+      "price": 1040,
+      "priceWithFee": 1076.4,
+      "transactedAt": "2026-06-22 21:36:40",
+      "productCode": "870228001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/24/868599013A.jpg",
+      "ocrConfidence": 37,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2015年,1盎司,吉祥文化,年吉,吉祥,祥文,文化,化并,并蒂,蒂同,同心,心盎,盎司,司精,精制,制银,银币,评级"
+    }
+  ]
+}

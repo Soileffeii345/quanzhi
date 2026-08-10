@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8776144009",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8776144009",
+      "displayBoxCode": "8776144-009",
+      "gradingCompany": "NGC",
+      "grade": "PF 65 ULTRA CAMEO",
+      "coinName": "1992年宪法颁布十周年精制流通纪念币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10412616.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8776144-009/65/",
+      "price": 90,
+      "priceWithFee": 97.2,
+      "transactedAt": "2026-07-22 21:20:55",
+      "productCode": "876313003",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/876313003A.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1992年,年宪,宪法,法颁,颁布,布十,十周,周年,年精,精制,制流,流通,通纪,纪念,念币,评级"
+    }
+  ]
+}

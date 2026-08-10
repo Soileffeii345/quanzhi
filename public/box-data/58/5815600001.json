@@ -1,0 +1,45 @@
+{
+  "ok": true,
+  "query": "5815600001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "5815600001",
+      "displayBoxCode": "5815600-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2019年8克书法艺术第2组金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/474647.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/5815600-001/70/",
+      "price": 6815,
+      "priceWithFee": null,
+      "transactedAt": "2025-04-22 16:13:45",
+      "productCode": "KH064893A",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250420/large_sell_rcvd1xc4zudynpip.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2019年,8克,书法,年克,克书,法艺,艺术,术第,第组,组金,金币"
+    },
+    {
+      "normalizedBoxCode": "5815600001",
+      "displayBoxCode": "5815600-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2019年8克书法艺术第2组金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/474143.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/5815600-001/70/",
+      "price": 6495,
+      "priceWithFee": null,
+      "transactedAt": "2025-04-20 14:51:53",
+      "productCode": "KH064893",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250420/large_sell_rcvd1xc4zudynpip.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2019年,8克,书法,年克,克书,法艺,艺术,术第,第组,组金,金币"
+    }
+  ]
+}

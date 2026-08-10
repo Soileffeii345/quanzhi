@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6202108043",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6202108043",
+      "displayBoxCode": "6202108-043",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2000年1盎司扇形生肖龙银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/555152.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6202108-043/",
+      "price": 1550,
+      "priceWithFee": null,
+      "transactedAt": "2026-02-27 15:44:24",
+      "productCode": "AA618782A",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260204/large_sell_s5mkw5tcv66lueyz.jpg",
+      "ocrConfidence": 31,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2000年,1盎司,生肖,年盎,盎司,司扇,扇形,形生,肖龙,龙银,银币"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "coinName": "2018年生肖银币",
+  "slug": "2ceb6830",
+  "saleCount": 1,
+  "keywords": "银,币,2018年,生肖,年大,大西,西洋,洋银,银行,行中,中国,国银,行戊,戊戌,戌狗,狗年,年生,肖澳,澳门,门币,币拾,拾圆,圆各,各一,一枚,枚共,共二,二枚,枚豹,豹子,子号,外国/特区",
+  "priceStats": {
+    "low": 330,
+    "high": 330,
+    "avg": 330,
+    "latest": 330
+  },
+  "records": [
+    {
+      "coinName": "2018年大西洋银行、中国银行戊戌狗年生肖澳门币拾圆各一枚，共二枚（豹子号）",
+      "normalizedBoxCode": "2217584028",
+      "displayBoxCode": "2217584-028",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/liantichao-jinianchao/10358530.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2217584-028/",
+      "price": 330,
+      "priceWithFee": 356.4,
+      "transactedAt": "2026-06-27 18:47:10",
+      "productCode": "869918001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2018年,生肖,年大,大西,西洋,洋银,银行,行中,中国,国银,行戊,戊戌,戌狗,狗年,年生,肖澳,澳门,门币,币拾,拾圆,圆各,各一,一枚,枚共,共二,二枚,枚豹,豹子,子号,外国/特区"
+    }
+  ]
+}

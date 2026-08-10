@@ -1,0 +1,31 @@
+{
+  "coinName": "2000年熊猫31.104克普制银币",
+  "slug": "6509705d",
+  "saleCount": 1,
+  "keywords": "银,币,2000年,1盎司,熊猫,年熊,猫盎,盎司,司普,普制,制银,银币",
+  "priceStats": {
+    "low": 2200,
+    "high": 2200,
+    "avg": 2200,
+    "latest": 2200
+  },
+  "records": [
+    {
+      "coinName": "2000年熊猫1盎司普制银币",
+      "normalizedBoxCode": "8504318041",
+      "displayBoxCode": "8504318-041",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-jiuyin/10392192.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8504318-041/",
+      "price": 2200,
+      "priceWithFee": 2277,
+      "transactedAt": "2026-07-09 19:34:05",
+      "productCode": "873591001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2000年,1盎司,熊猫,年熊,猫盎,盎司,司普,普制,制银,银币"
+    }
+  ]
+}

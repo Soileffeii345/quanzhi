@@ -1,0 +1,48 @@
+{
+  "coinName": "1984年中华人民共和国成立35周年-民族团结流通纪念币",
+  "slug": "4d979b35",
+  "saleCount": 2,
+  "keywords": "币,1984年,年中,中华,华人,人民,民共,共和,和国,国成,成立,立周,周年,年民,民族,族团,团结,结流,流通,通纪,纪念,念币",
+  "priceStats": {
+    "low": 140,
+    "high": 180,
+    "avg": 160,
+    "latest": 140
+  },
+  "records": [
+    {
+      "coinName": "1984年中华人民共和国成立35周年-民族团结流通纪念币",
+      "normalizedBoxCode": "8618500024",
+      "displayBoxCode": "8618500-024",
+      "gradingCompany": "NGC",
+      "grade": "MS 67",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10402286.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8618500-024/67/",
+      "price": 140,
+      "priceWithFee": 151.2,
+      "transactedAt": "2026-07-15 20:35:45",
+      "productCode": "875258013",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1984年,年中,中华,华人,人民,民共,共和,和国,国成,成立,立周,周年,年民,民族,族团,团结,结流,流通,通纪,纪念,念币"
+    },
+    {
+      "coinName": "1984年中华人民共和国成立35周年-民族团结流通纪念币",
+      "normalizedBoxCode": "8618500025",
+      "displayBoxCode": "8618500-025",
+      "gradingCompany": "NGC",
+      "grade": "MS 67",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10402285.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8618500-025/67/",
+      "price": 180,
+      "priceWithFee": 194.4,
+      "transactedAt": "2026-07-15 19:40:55",
+      "productCode": "875258012",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1984年,年中,中华,华人,人民,民共,共和,和国,国成,成立,立周,周年,年民,民族,族团,团结,结流,流通,通纪,纪念,念币"
+    }
+  ]
+}

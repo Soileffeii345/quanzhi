@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8761355008",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8761355008",
+      "displayBoxCode": "8761355-008",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1999年中国传统吉祥图-富贵有余1盎司精制彩银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10376852.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8761355-008/69/",
+      "price": 730,
+      "priceWithFee": 755.55,
+      "transactedAt": "2026-07-06 21:11:20",
+      "productCode": "872113013",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/26/872113013A.jpg",
+      "ocrConfidence": 39,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1999年,1盎司,吉祥文化,年中,中国,国传,传统,统吉,吉祥,祥图,图富,富贵,贵有,有余,余盎,盎司,司精,精制,制彩,彩银,银币,评级"
+    }
+  ]
+}

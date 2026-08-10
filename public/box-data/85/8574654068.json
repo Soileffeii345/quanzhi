@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8574654068",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8574654068",
+      "displayBoxCode": "8574654-068",
+      "gradingCompany": "NGC",
+      "grade": "PF66 CAMEO",
+      "coinName": "1992年中国精制硬币伍角",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10397230.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8574654-068/66/",
+      "price": 150,
+      "priceWithFee": 162,
+      "transactedAt": "2026-07-15 21:09:30",
+      "productCode": "874719003",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/874719003A.jpg",
+      "ocrConfidence": 37,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1992年,年中,中国,国精,精制,制硬,硬币,币伍,伍角,评级"
+    }
+  ]
+}

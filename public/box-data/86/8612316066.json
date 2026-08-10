@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8612316066",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8612316066",
+      "displayBoxCode": "8612316-066",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1997年1/2盎司12边企鹅金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/506045.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8612316-066/",
+      "price": 15630,
+      "priceWithFee": null,
+      "transactedAt": "2025-10-17 15:06:40",
+      "productCode": "KH087708",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251016/large_sell_4oc4rwxumuhglqlj.jpg",
+      "ocrConfidence": 55,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1997年,2盎司,年盎,盎司,司边,边企,企鹅,鹅金,金币"
+    }
+  ]
+}

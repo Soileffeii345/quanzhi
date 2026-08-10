@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8501616009",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8501616009",
+      "displayBoxCode": "8501616-009",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2021年3克联合国生物多样性大会金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/469423.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8501616-009/",
+      "price": 2120,
+      "priceWithFee": null,
+      "transactedAt": "2025-03-21 12:27:58",
+      "productCode": "AA555704",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250321/large_sell_mqjfjgrv86ukogfd.jpg",
+      "ocrConfidence": 37,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2021年,3克,年克,克联,联合,合国,国生,生物,物多,多样,样性,性大,大会,会金,金币"
+    }
+  ]
+}

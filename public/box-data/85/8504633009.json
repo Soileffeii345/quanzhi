@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8504633009",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8504633009",
+      "displayBoxCode": "8504633-009",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2013年癸巳蛇年生肖5盎司精制彩银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10415304.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8504633-009/69/",
+      "price": 2850,
+      "priceWithFee": 2949.75,
+      "transactedAt": "2026-07-20 21:55:40",
+      "productCode": "876524003",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/876524003A.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2013年,5盎司,生肖,年癸,癸巳,巳蛇,蛇年,年生,肖盎,盎司,司精,精制,制彩,彩银,银币,评级"
+    }
+  ]
+}

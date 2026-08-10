@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6755029010",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6755029010",
+      "displayBoxCode": "6755029-010",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2007年1/4盎司熊猫金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/469098.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6755029-010/",
+      "price": 5500,
+      "priceWithFee": null,
+      "transactedAt": "2025-03-19 15:21:28",
+      "productCode": "KH061598",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250319/large_sell_abrt1bczqi6x5enq.jpg",
+      "ocrConfidence": 45,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2007年,4盎司,熊猫,年盎,盎司,司熊,猫金,金币"
+    }
+  ]
+}

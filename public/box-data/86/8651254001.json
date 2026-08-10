@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8651254001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8651254001",
+      "displayBoxCode": "8651254-001",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2025年澳大利亚1盎司婚礼银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/601883.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8651254-001/",
+      "price": 1500,
+      "priceWithFee": null,
+      "transactedAt": "2026-08-07 10:29:22",
+      "productCode": "KH143901",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260806/large_sell_shb7vwytbdyg2irx.jpg",
+      "ocrConfidence": 47,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2025年,1盎司,年澳,澳大,大利,利亚,亚盎,盎司,司婚,婚礼,礼银,银币,外国/特区"
+    }
+  ]
+}

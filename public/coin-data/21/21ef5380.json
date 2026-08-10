@@ -1,0 +1,48 @@
+{
+  "coinName": "2008年生肖金银币",
+  "slug": "21ef5380",
+  "saleCount": 2,
+  "keywords": "金,银,币,2008年,生肖,年梅,梅花,花形,形生,肖鼠,鼠金,金银,银币",
+  "priceStats": {
+    "low": 17000,
+    "high": 17000,
+    "avg": 17000,
+    "latest": 17000
+  },
+  "records": [
+    {
+      "coinName": "2008年梅花形生肖鼠金银币",
+      "normalizedBoxCode": "6047178005",
+      "displayBoxCode": "6047178-005",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/520514.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6047178-005/70/",
+      "price": 17000,
+      "priceWithFee": null,
+      "transactedAt": "2025-12-17 10:02:27",
+      "productCode": "KH095043",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,2008年,生肖,年梅,梅花,花形,形生,肖鼠,鼠金,金银,银币"
+    },
+    {
+      "coinName": "2008年梅花形生肖鼠金银币",
+      "normalizedBoxCode": "6047178017",
+      "displayBoxCode": "6047178-017",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/520514.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6047178-017/69/",
+      "price": 17000,
+      "priceWithFee": null,
+      "transactedAt": "2025-12-17 10:02:27",
+      "productCode": "KH095043",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,2008年,生肖,年梅,梅花,花形,形生,肖鼠,鼠金,金银,银币"
+    }
+  ]
+}

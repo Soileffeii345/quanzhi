@@ -1,0 +1,31 @@
+{
+  "coinName": "2009年生肖15.552克普制金币",
+  "slug": "761ff00a",
+  "saleCount": 1,
+  "keywords": "金,币,2009年,2盎司,生肖,年己,己丑,丑牛,牛年,年生,肖盎,盎司,司扇,扇形,形普,普制,制金,金币",
+  "priceStats": {
+    "low": 16200,
+    "high": 16200,
+    "avg": 16200,
+    "latest": 16200
+  },
+  "records": [
+    {
+      "coinName": "2009年己丑牛年生肖1/2盎司扇形普制金币",
+      "normalizedBoxCode": "6752109026",
+      "displayBoxCode": "6752109-026",
+      "gradingCompany": "NGC",
+      "grade": "MS 70",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-jin/10373739.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6752109-026/70/",
+      "price": 16200,
+      "priceWithFee": 16767,
+      "transactedAt": "2026-07-02 21:20:50",
+      "productCode": "871843003",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2009年,2盎司,生肖,年己,己丑,丑牛,牛年,年生,肖盎,盎司,司扇,扇形,形普,普制,制金,金币"
+    }
+  ]
+}

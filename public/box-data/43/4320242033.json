@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4320242033",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4320242033",
+      "displayBoxCode": "4320242-033",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2016年吉祥文化-并蒂同心30克精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10378139.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4320242-033/",
+      "price": 700,
+      "priceWithFee": 724.5,
+      "transactedAt": "2026-07-06 19:36:45",
+      "productCode": "872491003",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/10/843585001A.jpg",
+      "ocrConfidence": 38,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2016年,30克,吉祥文化,年吉,吉祥,祥文,文化,化并,并蒂,蒂同,同心,心克,克精,精制,制银,银币,评级"
+    }
+  ]
+}

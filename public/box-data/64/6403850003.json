@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6403850003",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6403850003",
+      "displayBoxCode": "6403850-003",
+      "gradingCompany": "NGC",
+      "grade": "MS 70",
+      "coinName": "2012年500克海洋银章",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/530201.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6403850-003/70/",
+      "price": 11340,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-15 10:34:53",
+      "productCode": "KH105965",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260111/large_sell_t60xqowcuhidsvfr.jpg",
+      "ocrConfidence": 32,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,章,2012年,500克,年克,克海,海洋,洋银,银章"
+    }
+  ]
+}

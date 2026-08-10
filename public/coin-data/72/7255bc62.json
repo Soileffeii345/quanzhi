@@ -1,0 +1,65 @@
+{
+  "coinName": "1980年冬奥7.776克金币",
+  "slug": "7255bc62",
+  "saleCount": 3,
+  "keywords": "金,币,1980年,4盎司,奥运,年盎,盎司,司第,第届,届冬,冬奥,奥会,会男,男子,子滑,滑降,降金,金币,币无,无标",
+  "priceStats": {
+    "low": 5330,
+    "high": 6200,
+    "avg": 5622,
+    "latest": 5330
+  },
+  "records": [
+    {
+      "coinName": "1980年1/4盎司第13届冬奥会男子滑降金币",
+      "normalizedBoxCode": "11496595",
+      "displayBoxCode": "11496595",
+      "gradingCompany": "PCGS",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/465666.html",
+      "officialCertUrl": "https://cn.pcgs.com/cert/11496595",
+      "price": 5330,
+      "priceWithFee": null,
+      "transactedAt": "2025-02-24 11:03:48",
+      "productCode": "KH059636",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1980年,4盎司,奥运,年盎,盎司,司第,第届,届冬,冬奥,奥会,会男,男子,子滑,滑降,降金,金币"
+    },
+    {
+      "coinName": "1980年1/4盎司第13届冬奥会男子滑降金币(UC)",
+      "normalizedBoxCode": "4801219002",
+      "displayBoxCode": "4801219-002",
+      "gradingCompany": "NGC",
+      "grade": "PF 67 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/467427.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4801219-002/67/",
+      "price": 5335,
+      "priceWithFee": null,
+      "transactedAt": "2025-03-08 19:08:53",
+      "productCode": "KH060173",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1980年,4盎司,奥运,年盎,盎司,司第,第届,届冬,冬奥,奥会,会男,男子,子滑,滑降,降金,金币"
+    },
+    {
+      "coinName": "1980年1/4盎司第13届冬奥会男子滑降金币(CA/无标)",
+      "normalizedBoxCode": "8184263001",
+      "displayBoxCode": "8184263-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/458972.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8184263-001/69/",
+      "price": 6200,
+      "priceWithFee": null,
+      "transactedAt": "2025-02-23 09:03:19",
+      "productCode": "KH059555",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1980年,4盎司,奥运,年盎,盎司,司第,第届,届冬,冬奥,奥会,会男,男子,子滑,滑降,降金,金币,币无,无标"
+    }
+  ]
+}

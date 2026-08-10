@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8763682039",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8763682039",
+      "displayBoxCode": "8763682-039",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1997年15克野生动物基金会大熊猫银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/593862.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8763682-039/",
+      "price": 900,
+      "priceWithFee": null,
+      "transactedAt": "2026-07-06 11:51:57",
+      "productCode": "AA661604",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260629/large_sell_f74nmbq3xtllnkfy.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,1997年,15克,熊猫,年克,克野,野生,生动,动物,物基,基金,金会,会大,大熊,猫银,银币"
+    }
+  ]
+}

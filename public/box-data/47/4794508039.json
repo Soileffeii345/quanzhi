@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4794508039",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4794508039",
+      "displayBoxCode": "4794508-039",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2018年30克吉祥文化喜上眉梢银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/556462.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4794508-039/70/",
+      "price": 2100,
+      "priceWithFee": null,
+      "transactedAt": "2026-02-28 23:07:13",
+      "productCode": "AA623553",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260227/large_sell_nhe1rh4nib6shqyg.jpg",
+      "ocrConfidence": 37,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2018年,30克,吉祥文化,年克,克吉,吉祥,祥文,文化,化喜,喜上,上眉,眉梢,梢银,银币"
+    }
+  ]
+}

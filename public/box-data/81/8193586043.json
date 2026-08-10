@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8193586043",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8193586043",
+      "displayBoxCode": "8193586-043",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1999年建国50周年精制纪念币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/436902.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8193586-043/",
+      "price": 380,
+      "priceWithFee": null,
+      "transactedAt": "2024-11-16 13:07:59",
+      "productCode": "AA485469A",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20240612/large_sell_ezdylhrj3rhy9acu.jpg",
+      "ocrConfidence": 30,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1999年,重大事件,年建,建国,国周,周年,年精,精制,制纪,纪念,念币,评级"
+    }
+  ]
+}

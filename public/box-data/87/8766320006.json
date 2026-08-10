@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8766320006",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8766320006",
+      "displayBoxCode": "8766320-006",
+      "gradingCompany": "NGC",
+      "grade": "PF70 ULTRA CAMEO",
+      "coinName": "1998年周恩来诞辰100周年1盎司精制银币二枚一套",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10351451.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8766320-006/70/",
+      "price": 1900,
+      "priceWithFee": 1966.5,
+      "transactedAt": "2026-06-25 19:34:35",
+      "productCode": "869365007",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/869365007A.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1998年,1盎司,年周,周恩,恩来,来诞,诞辰,辰周,周年,年盎,盎司,司精,精制,制银,银币,币二,二枚,枚一,一套,评级"
+    }
+  ]
+}

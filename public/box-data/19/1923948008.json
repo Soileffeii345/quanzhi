@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "1923948008",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "1923948008",
+      "displayBoxCode": "1923948-008",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "第一版人民币收割机500元",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/diyibanrenminbi/10405296.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1923948-008/",
+      "price": 2350,
+      "priceWithFee": 2585,
+      "transactedAt": "2026-07-18 21:36:05",
+      "productCode": "875553001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/875553001B.jpg",
+      "ocrConfidence": 30,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,第一,一版,版人,人民,民币,币收,收割,割机,机元"
+    }
+  ]
+}

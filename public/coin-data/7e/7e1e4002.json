@@ -1,0 +1,31 @@
+{
+  "coinName": "2024年铜币",
+  "slug": "7e1e4002",
+  "saleCount": 1,
+  "keywords": "铜,章,2024年,宗教,年千,千手,手观,观音,音铜,铜章",
+  "priceStats": {
+    "low": 350,
+    "high": 350,
+    "avg": 350,
+    "latest": 350
+  },
+  "records": [
+    {
+      "coinName": "2024年千手观音铜章(45)",
+      "normalizedBoxCode": "8203408110",
+      "displayBoxCode": "8203408-110",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/478456.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8203408-110/70/",
+      "price": 350,
+      "priceWithFee": null,
+      "transactedAt": "2025-05-27 08:08:42",
+      "productCode": "KH066894",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "铜,章,2024年,宗教,年千,千手,手观,观音,音铜,铜章"
+    }
+  ]
+}

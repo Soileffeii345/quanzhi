@@ -1,0 +1,31 @@
+{
+  "coinName": "1996年香港回归31.104克银币",
+  "slug": "3e09352d",
+  "saleCount": 1,
+  "keywords": "银,币,1996年,1盎司,年盎,盎司,司香,香港,港回,回归,归第,第组,组银,银币,外国/特区",
+  "priceStats": {
+    "low": 1450,
+    "high": 1450,
+    "avg": 1450,
+    "latest": 1450
+  },
+  "records": [
+    {
+      "coinName": "1996年1盎司香港回归第2组银币",
+      "normalizedBoxCode": "6751536055",
+      "displayBoxCode": "6751536-055",
+      "gradingCompany": "NGC",
+      "grade": "PF70 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/600087.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6751536-055/70/",
+      "price": 1450,
+      "priceWithFee": null,
+      "transactedAt": "2026-08-03 18:59:06",
+      "productCode": "KH143570",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1996年,1盎司,年盎,盎司,司香,香港,港回,回归,归第,第组,组银,银币,外国/特区"
+    }
+  ]
+}

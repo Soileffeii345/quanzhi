@@ -1,0 +1,31 @@
+{
+  "coinName": "2021年建党",
+  "slug": "7e26e3ee",
+  "saleCount": 1,
+  "keywords": "币,2021年,重大事件,年建,建党,党周,周年,年纪,纪念,念币",
+  "priceStats": {
+    "low": 200,
+    "high": 200,
+    "avg": 200,
+    "latest": 200
+  },
+  "records": [
+    {
+      "coinName": "2021年建党100周年纪念币",
+      "normalizedBoxCode": "6191096046",
+      "displayBoxCode": "6191096-046",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/479029.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6191096-046/",
+      "price": 200,
+      "priceWithFee": null,
+      "transactedAt": "2026-02-03 17:01:54",
+      "productCode": "KH116840",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2021年,重大事件,年建,建党,党周,周年,年纪,纪念,念币"
+    }
+  ]
+}

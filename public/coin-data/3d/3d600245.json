@@ -1,0 +1,48 @@
+{
+  "coinName": "1994年3盎司金币",
+  "slug": "3d600245",
+  "saleCount": 2,
+  "keywords": "金,币,1994年,3盎司,年盎,盎司,司周,周文,文王,王金,金币,章,司梅,梅兰,兰芳,芳诞,诞辰,辰周,周年,年金,金章",
+  "priceStats": {
+    "low": 7310,
+    "high": 21600,
+    "avg": 14455,
+    "latest": 21600
+  },
+  "records": [
+    {
+      "coinName": "1994年1/3盎司周文王金币(UC)",
+      "normalizedBoxCode": "8188789006",
+      "displayBoxCode": "8188789-006",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/449707.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8188789-006/70/",
+      "price": 21600,
+      "priceWithFee": null,
+      "transactedAt": "2025-04-08 09:42:42",
+      "productCode": "AA501839A",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1994年,3盎司,年盎,盎司,司周,周文,文王,王金,金币"
+    },
+    {
+      "coinName": "1994年1/3盎司梅兰芳诞辰100周年金章",
+      "normalizedBoxCode": "8205177048",
+      "displayBoxCode": "8205177-048",
+      "gradingCompany": "NGC",
+      "grade": "PF 67 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/469886.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8205177-048/67/",
+      "price": 7310,
+      "priceWithFee": null,
+      "transactedAt": "2025-03-24 15:10:10",
+      "productCode": "AA556083",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,章,1994年,3盎司,年盎,盎司,司梅,梅兰,兰芳,芳诞,诞辰,辰周,周年,年金,金章"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2400755023",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2400755023",
+      "displayBoxCode": "2400755-023",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "韩国纸钞",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10399173.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2400755-023/",
+      "price": 90,
+      "priceWithFee": 99.9,
+      "transactedAt": "2026-07-21 22:05:35",
+      "productCode": "875054012",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/875054012B.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,韩国,国纸,纸钞"
+    }
+  ]
+}

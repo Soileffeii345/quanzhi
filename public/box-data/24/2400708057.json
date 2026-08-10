@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2400708057",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2400708057",
+      "displayBoxCode": "2400708-057",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1988年黎巴嫩纸钞",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10392434.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2400708-057/",
+      "price": 120,
+      "priceWithFee": 133.2,
+      "transactedAt": "2026-07-14 21:55:05",
+      "productCode": "873792016",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/873792016B.jpg",
+      "ocrConfidence": 27,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,1988年,年黎,黎巴,巴嫩,嫩纸,纸钞"
+    }
+  ]
+}

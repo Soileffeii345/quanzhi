@@ -1,0 +1,48 @@
+{
+  "coinName": "2002年5盎司精制银币",
+  "slug": "13c9251d",
+  "saleCount": 2,
+  "keywords": "银,币,2002年,5盎司,年中,中国,国石,石窟,窟艺,艺术,术龙,龙门,门石,窟天,天王,王图,图盎,盎司,司精,精制,制银,银币,评级,国古,古典,典文,文学,学名,名著,著红,红楼,楼梦,梦第,第组,组群,群芳,芳夜,夜宴,宴盎,司扇,扇形,形精,制彩,彩银",
+  "priceStats": {
+    "low": 3500,
+    "high": 4750,
+    "avg": 4125,
+    "latest": 4750
+  },
+  "records": [
+    {
+      "coinName": "2002年中国石窟艺术-龙门石窟-天王图5盎司精制银币",
+      "normalizedBoxCode": "8500177002",
+      "displayBoxCode": "8500177-002",
+      "gradingCompany": "NGC",
+      "grade": "PF 68 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10356885.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8500177-002/68/",
+      "price": 4750,
+      "priceWithFee": 4916.25,
+      "transactedAt": "2026-06-25 19:54:05",
+      "productCode": "869828001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2002年,5盎司,年中,中国,国石,石窟,窟艺,艺术,术龙,龙门,门石,窟天,天王,王图,图盎,盎司,司精,精制,制银,银币,评级"
+    },
+    {
+      "coinName": "2002年中国古典文学名著《红楼梦》第（2）组-群芳夜宴5盎司扇形精制彩银币",
+      "normalizedBoxCode": "8660839043",
+      "displayBoxCode": "8660839-043",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10350375.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8660839-043/69/",
+      "price": 3500,
+      "priceWithFee": 3622.5,
+      "transactedAt": "2026-06-18 20:22:10",
+      "productCode": "869329002",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2002年,5盎司,年中,中国,国古,古典,典文,文学,学名,名著,著红,红楼,楼梦,梦第,第组,组群,群芳,芳夜,夜宴,宴盎,盎司,司扇,扇形,形精,精制,制彩,彩银,银币,评级"
+    }
+  ]
+}

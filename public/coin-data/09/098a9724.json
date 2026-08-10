@@ -1,0 +1,31 @@
+{
+  "coinName": "2017年贺岁8克普制银币",
+  "slug": "098a9724",
+  "saleCount": 1,
+  "keywords": "银,币,2017年,8克,吉祥文化,年福,福字,字贺,贺岁,岁克,克普,普制,制银,银币",
+  "priceStats": {
+    "low": 150,
+    "high": 150,
+    "avg": 150,
+    "latest": 150
+  },
+  "records": [
+    {
+      "coinName": "2017年福字贺岁8克普制银币",
+      "normalizedBoxCode": "4415889051",
+      "displayBoxCode": "4415889-051",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10425116.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4415889-051/",
+      "price": 150,
+      "priceWithFee": 155.25,
+      "transactedAt": "2026-07-27 20:04:10",
+      "productCode": "877934003",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2017年,8克,吉祥文化,年福,福字,字贺,贺岁,岁克,克普,普制,制银,银币"
+    }
+  ]
+}

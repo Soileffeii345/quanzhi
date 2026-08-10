@@ -1,0 +1,48 @@
+{
+  "coinName": "2015年抗战5盎司银币",
+  "slug": "5217e982",
+  "saleCount": 2,
+  "keywords": "银,币,2015年,5盎司,重大事件,年盎,盎司,司抗,抗战,战胜,胜利,利周,周年,年银,银币",
+  "priceStats": {
+    "low": 2900,
+    "high": 4000,
+    "avg": 3450,
+    "latest": 2900
+  },
+  "records": [
+    {
+      "coinName": "2015年5盎司抗战胜利70周年银币",
+      "normalizedBoxCode": "4312892005",
+      "displayBoxCode": "4312892-005",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/492228.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4312892-005/69/",
+      "price": 2900,
+      "priceWithFee": null,
+      "transactedAt": "2025-08-13 18:48:06",
+      "productCode": "DB201096",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2015年,5盎司,重大事件,年盎,盎司,司抗,抗战,战胜,胜利,利周,周年,年银,银币"
+    },
+    {
+      "coinName": "2015年5盎司抗战胜利70周年银币",
+      "normalizedBoxCode": "6428533015",
+      "displayBoxCode": "6428533-015",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/526942.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6428533-015/69/",
+      "price": 4000,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-07 20:28:39",
+      "productCode": "KH101137",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2015年,5盎司,重大事件,年盎,盎司,司抗,抗战,战胜,胜利,利周,周年,年银,银币"
+    }
+  ]
+}

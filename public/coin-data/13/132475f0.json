@@ -1,0 +1,31 @@
+{
+  "coinName": "2003年5盎司银币",
+  "slug": "132475f0",
+  "saleCount": 1,
+  "keywords": "银,币,2003年,5盎司,年盎,盎司,司方,方形,形西,西游,游记,记第,第组,组彩,彩银,银币",
+  "priceStats": {
+    "low": 4050,
+    "high": 4050,
+    "avg": 4050,
+    "latest": 4050
+  },
+  "records": [
+    {
+      "coinName": "2003年5盎司方形西游记第1组彩银币",
+      "normalizedBoxCode": "2018264081",
+      "displayBoxCode": "2018264-081",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/477901.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2018264-081/69/",
+      "price": 4050,
+      "priceWithFee": null,
+      "transactedAt": "2025-10-08 20:42:28",
+      "productCode": "KH085686",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2003年,5盎司,年盎,盎司,司方,方形,形西,西游,游记,记第,第组,组彩,彩银,银币"
+    }
+  ]
+}

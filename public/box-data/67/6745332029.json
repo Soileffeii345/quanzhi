@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6745332029",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6745332029",
+      "displayBoxCode": "6745332-029",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1995年1/3盎司丝绸之路第1组张骞出使西域金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/425717.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6745332-029/",
+      "price": 6400,
+      "priceWithFee": null,
+      "transactedAt": "2024-04-09 17:47:00",
+      "productCode": "KH053965",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20240408/large_sell_jjwdoy3pwjuh7rum.jpg",
+      "ocrConfidence": 49,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1995年,3盎司,年盎,盎司,司丝,丝绸,绸之,之路,路第,第组,组张,张骞,骞出,出使,使西,西域,域金,金币"
+    }
+  ]
+}

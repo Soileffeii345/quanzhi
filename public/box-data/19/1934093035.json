@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "1934093035",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "1934093035",
+      "displayBoxCode": "1934093-035",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1982年中华人民共和国国库券壹圆",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/gupiao-zhaiquan/10356556.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1934093-035/",
+      "price": 95,
+      "priceWithFee": 105.45,
+      "transactedAt": "2026-06-27 21:22:10",
+      "productCode": "869687009",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/869687009B.jpg",
+      "ocrConfidence": 27,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "1982年,年中,中华,华人,人民,民共,共和,和国,国国,国库,库券,券壹,壹圆"
+    }
+  ]
+}

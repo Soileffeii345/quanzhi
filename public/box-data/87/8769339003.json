@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8769339003",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8769339003",
+      "displayBoxCode": "8769339-003",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2026年吉祥文化30克心形精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10353201.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8769339-003/",
+      "price": 1040,
+      "priceWithFee": 1076.4,
+      "transactedAt": "2026-06-20 20:59:05",
+      "productCode": "869141005",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/869141005A.jpg",
+      "ocrConfidence": 46,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2026年,30克,吉祥文化,年吉,吉祥,祥文,文化,化克,克心,心形,形精,精制,制银,银币,评级"
+    }
+  ]
+}

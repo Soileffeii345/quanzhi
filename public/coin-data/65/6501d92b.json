@@ -1,0 +1,31 @@
+{
+  "coinName": "2016年生肖3.11克精制金币",
+  "slug": "6501d92b",
+  "saleCount": 1,
+  "keywords": "金,币,2016年,10盎司,生肖,年丙,丙申,申猴,猴年,年生,肖盎,盎司,司精,精制,制彩,彩金,金币,评级",
+  "priceStats": {
+    "low": 3250,
+    "high": 3250,
+    "avg": 3250,
+    "latest": 3250
+  },
+  "records": [
+    {
+      "coinName": "2016年丙申猴年生肖1/10盎司精制彩金币",
+      "normalizedBoxCode": "2803006008",
+      "displayBoxCode": "2803006-008",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-jin/10390869.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2803006-008/70/",
+      "price": 3250,
+      "priceWithFee": 3363.75,
+      "transactedAt": "2026-07-09 21:19:25",
+      "productCode": "873714012",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2016年,10盎司,生肖,年丙,丙申,申猴,猴年,年生,肖盎,盎司,司精,精制,制彩,彩金,金币,评级"
+    }
+  ]
+}

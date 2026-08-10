@@ -1,0 +1,31 @@
+{
+  "coinName": "2005年熊猫5盎司金币",
+  "slug": "1d14213e",
+  "saleCount": 1,
+  "keywords": "金,币,2005年,5盎司,熊猫,年盎,盎司,司熊,猫金,金币",
+  "priceStats": {
+    "low": 130395,
+    "high": 130395,
+    "avg": 130395,
+    "latest": 130395
+  },
+  "records": [
+    {
+      "coinName": "2005年5盎司熊猫金币",
+      "normalizedBoxCode": "4480723001",
+      "displayBoxCode": "4480723-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/499268.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4480723-001/70/",
+      "price": 130395,
+      "priceWithFee": null,
+      "transactedAt": "2025-09-11 21:43:17",
+      "productCode": "KH083066",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2005年,5盎司,熊猫,年盎,盎司,司熊,猫金,金币"
+    }
+  ]
+}

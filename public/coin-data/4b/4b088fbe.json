@@ -1,0 +1,48 @@
+{
+  "coinName": "2021年吉祥文化30克精制银币",
+  "slug": "4b088fbe",
+  "saleCount": 2,
+  "keywords": "银,币,2021年,30克,吉祥文化,年吉,吉祥,祥文,文化,化琴,琴瑟,瑟和,和鸣,鸣克,克精,精制,制银,银币,评级",
+  "priceStats": {
+    "low": 900,
+    "high": 1220,
+    "avg": 1060,
+    "latest": 1220
+  },
+  "records": [
+    {
+      "coinName": "2021年吉祥文化-琴瑟和鸣30克精制银币",
+      "normalizedBoxCode": "8501018002",
+      "displayBoxCode": "8501018-002",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10362486.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8501018-002/",
+      "price": 1220,
+      "priceWithFee": 1262.7,
+      "transactedAt": "2026-06-27 20:59:05",
+      "productCode": "870699001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2021年,30克,吉祥文化,年吉,吉祥,祥文,文化,化琴,琴瑟,瑟和,和鸣,鸣克,克精,精制,制银,银币,评级"
+    },
+    {
+      "coinName": "2021年吉祥文化-琴瑟和鸣30克精制银币",
+      "normalizedBoxCode": "8611578001",
+      "displayBoxCode": "8611578-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10376696.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8611578-001/69/",
+      "price": 900,
+      "priceWithFee": 931.5,
+      "transactedAt": "2026-07-04 20:10:35",
+      "productCode": "872086002",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2021年,30克,吉祥文化,年吉,吉祥,祥文,文化,化琴,琴瑟,瑟和,和鸣,鸣克,克精,精制,制银,银币,评级"
+    }
+  ]
+}

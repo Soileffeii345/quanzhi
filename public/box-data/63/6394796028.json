@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6394796028",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6394796028",
+      "displayBoxCode": "6394796-028",
+      "gradingCompany": "NGC",
+      "grade": "MS 70",
+      "coinName": "2022年奥地利夜光恐龙纪念币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianbi/10391008.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6394796-028/70/",
+      "price": 200,
+      "priceWithFee": 222,
+      "transactedAt": "2026-07-10 21:23:25",
+      "productCode": "873819018",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/27/873819018A.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2022年,年奥,奥地,地利,利夜,夜光,光恐,恐龙,龙纪,纪念,念币"
+    }
+  ]
+}

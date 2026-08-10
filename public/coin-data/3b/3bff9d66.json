@@ -1,0 +1,31 @@
+{
+  "coinName": "第一版人民币工农1元",
+  "slug": "3bff9d66",
+  "saleCount": 1,
+  "keywords": "币,第一,一版,版人,人民,民币,币工,工农,农元",
+  "priceStats": {
+    "low": 4400,
+    "high": 4400,
+    "avg": 4400,
+    "latest": 4400
+  },
+  "records": [
+    {
+      "coinName": "第一版人民币工农1元",
+      "normalizedBoxCode": "2403323001",
+      "displayBoxCode": "2403323-001",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/diyibanrenminbi/10414503.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2403323-001/",
+      "price": 4400,
+      "priceWithFee": 4840,
+      "transactedAt": "2026-07-21 21:11:20",
+      "productCode": "876637018",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,第一,一版,版人,人民,民币,币工,工农,农元"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "coinName": "1997年香港回归31.104克精制银币",
+  "slug": "5fb7b878",
+  "saleCount": 1,
+  "keywords": "银,币,1997年,1盎司,年香,香港,港回,回归,归祖,祖国,国第,第组,组区,区旗,旗盎,盎司,司精,精制,制银,银币,评级,外国/特区",
+  "priceStats": {
+    "low": 610,
+    "high": 610,
+    "avg": 610,
+    "latest": 610
+  },
+  "records": [
+    {
+      "coinName": "1997年香港回归祖国第（3）组-区旗1盎司精制银币",
+      "normalizedBoxCode": "8816703012",
+      "displayBoxCode": "8816703-012",
+      "gradingCompany": "NGC",
+      "grade": "PF 68 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10408875.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8816703-012/68/",
+      "price": 610,
+      "priceWithFee": 631.35,
+      "transactedAt": "2026-07-20 22:12:40",
+      "productCode": "876064004",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1997年,1盎司,年香,香港,港回,回归,归祖,祖国,国第,第组,组区,区旗,旗盎,盎司,司精,精制,制银,银币,评级,外国/特区"
+    }
+  ]
+}

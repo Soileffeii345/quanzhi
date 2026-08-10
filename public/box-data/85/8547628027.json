@@ -1,0 +1,45 @@
+{
+  "ok": true,
+  "query": "8547628027",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8547628027",
+      "displayBoxCode": "8547628-027",
+      "gradingCompany": "NGC",
+      "grade": "PF 68 ULTRA CAMEO",
+      "coinName": "2004年邓小平诞辰100周年精制流通纪念币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10378207.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8547628-027/68/",
+      "price": 290,
+      "priceWithFee": 313.2,
+      "transactedAt": "2026-07-01 19:19:35",
+      "productCode": "872528001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/26/869854018A.jpg",
+      "ocrConfidence": 38,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2004年,年邓,邓小,小平,平诞,诞辰,辰周,周年,年精,精制,制流,流通,通纪,纪念,念币,评级"
+    },
+    {
+      "normalizedBoxCode": "8547628027",
+      "displayBoxCode": "8547628-027",
+      "gradingCompany": "NGC",
+      "grade": "PF 68 ULTRA CAMEO",
+      "coinName": "2004年邓小平诞辰100周年精制流通纪念币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10359832.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8547628-027/68/",
+      "price": 280,
+      "priceWithFee": 302.4,
+      "transactedAt": "2026-06-24 19:06:45",
+      "productCode": "869854018",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/26/869854018A.jpg",
+      "ocrConfidence": 38,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2004年,年邓,邓小,小平,平诞,诞辰,辰周,周年,年精,精制,制流,流通,通纪,纪念,念币,评级"
+    }
+  ]
+}

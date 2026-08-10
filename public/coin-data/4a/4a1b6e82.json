@@ -1,0 +1,48 @@
+{
+  "coinName": "2024年吉祥文化5克金币",
+  "slug": "4a1b6e82",
+  "saleCount": 2,
+  "keywords": "金,银,币,2024年,5克,吉祥文化,年克,克吉,吉祥,祥文,文化,化心,心心,心相,相印,印双,双金,金属,属金,金银,银币,化一,一岁,岁一,一礼,礼金,金币",
+  "priceStats": {
+    "low": 5500,
+    "high": 8400,
+    "avg": 6950,
+    "latest": 5500
+  },
+  "records": [
+    {
+      "coinName": "2024年5克吉祥文化心心相印双金属金银币",
+      "normalizedBoxCode": "6728282002",
+      "displayBoxCode": "6728282-002",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/504895.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6728282-002/70/",
+      "price": 5500,
+      "priceWithFee": null,
+      "transactedAt": "2025-10-12 20:42:44",
+      "productCode": "KH086795",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,2024年,5克,吉祥文化,年克,克吉,吉祥,祥文,文化,化心,心心,心相,相印,印双,双金,金属,属金,金银,银币"
+    },
+    {
+      "coinName": "2024年5克吉祥文化一岁一礼金币",
+      "normalizedBoxCode": "8176223001",
+      "displayBoxCode": "8176223-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/568903.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8176223-001/70/",
+      "price": 8400,
+      "priceWithFee": null,
+      "transactedAt": "2026-04-25 23:15:10",
+      "productCode": "KH130962",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2024年,5克,吉祥文化,年克,克吉,吉祥,祥文,文化,化一,一岁,岁一,一礼,礼金,金币"
+    }
+  ]
+}

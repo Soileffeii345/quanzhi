@@ -1,0 +1,45 @@
+{
+  "ok": true,
+  "query": "5809790030",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "5809790030",
+      "displayBoxCode": "5809790-030",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1995年1/20盎司熊猫金币(小字版)",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/555435.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/5809790-030/",
+      "price": 2500,
+      "priceWithFee": null,
+      "transactedAt": "2026-02-27 21:46:17",
+      "productCode": "AA615484B",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260125/large_sell_zzrtnmkoz3j8gswj.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1995年,20盎司,熊猫,年盎,盎司,司熊,猫金,金币,币小,小字,字版"
+    },
+    {
+      "normalizedBoxCode": "5809790030",
+      "displayBoxCode": "5809790-030",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "coinName": "1995年1/20盎司熊猫金币(小字版)",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/474044.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/5809790-030/69/",
+      "price": 1600,
+      "priceWithFee": null,
+      "transactedAt": "2025-06-02 22:09:33",
+      "productCode": "KH067921",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250419/large_sell_phkba5klakznvts5.jpg",
+      "ocrConfidence": 40,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1995年,20盎司,熊猫,年盎,盎司,司熊,猫金,金币,币小,小字,字版"
+    }
+  ]
+}

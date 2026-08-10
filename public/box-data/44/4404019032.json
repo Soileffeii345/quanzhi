@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4404019032",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4404019032",
+      "displayBoxCode": "4404019-032",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2016年丙申猴年生肖1盎司精制彩银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10417367.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4404019-032/69/",
+      "price": 610,
+      "priceWithFee": 631.35,
+      "transactedAt": "2026-07-27 20:24:40",
+      "productCode": "876913002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/876913002A.jpg",
+      "ocrConfidence": 42,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2016年,1盎司,生肖,年丙,丙申,申猴,猴年,年生,肖盎,盎司,司精,精制,制彩,彩银,银币,评级"
+    }
+  ]
+}

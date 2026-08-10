@@ -1,0 +1,45 @@
+{
+  "ok": true,
+  "query": "8499576001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8499576001",
+      "displayBoxCode": "8499576-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2019年8克建国70周年金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/503834.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8499576-001/69/",
+      "price": 7095,
+      "priceWithFee": null,
+      "transactedAt": "2025-10-04 22:57:04",
+      "productCode": "KH085822",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251004/large_sell_xhl0wk8achwr9swa.jpg",
+      "ocrConfidence": 45,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2019年,8克,重大事件,年克,克建,建国,国周,周年,年金,金币"
+    },
+    {
+      "normalizedBoxCode": "8499576001",
+      "displayBoxCode": "8499576-001",
+      "gradingCompany": "NGC",
+      "grade": "PF69 ULTRA CAMEO",
+      "coinName": "2019年8克建国70周年金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/488633.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8499576-001/69/",
+      "price": 6335,
+      "priceWithFee": null,
+      "transactedAt": "2025-07-14 19:04:44",
+      "productCode": "KH073975",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250714/large_sell_ilus4dvkwysabxlz.jpg",
+      "ocrConfidence": 59,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2019年,8克,重大事件,年克,克建,建国,国周,周年,年金,金币"
+    }
+  ]
+}

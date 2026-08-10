@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8504637044",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8504637044",
+      "displayBoxCode": "8504637-044",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2011年吉尔吉斯斯坦独立主权纪念28.28克彩色银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/wgjsbizhang/10365718.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8504637-044/69/",
+      "price": 1040,
+      "priceWithFee": 1102.4,
+      "transactedAt": "2026-06-26 20:24:45",
+      "productCode": "870452024",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/26/870452024A.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2011年,28.28克,年吉,吉尔,尔吉,吉斯,斯斯,斯坦,坦独,独立,立主,主权,权纪,纪念,念克,克彩,彩色,色银,银币"
+    }
+  ]
+}

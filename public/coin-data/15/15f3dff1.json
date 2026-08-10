@@ -1,0 +1,31 @@
+{
+  "coinName": "2008年25.5克银币",
+  "slug": "15f3dff1",
+  "saleCount": 1,
+  "keywords": "银,币,2008年,25.5克,年芬,芬兰,兰国,国旗,旗诞,诞生,生周,周年,年克,克银,银币",
+  "priceStats": {
+    "low": 700,
+    "high": 700,
+    "avg": 700,
+    "latest": 700
+  },
+  "records": [
+    {
+      "coinName": "2008年芬兰国旗诞生90周年25.5克银币",
+      "normalizedBoxCode": "8504636042",
+      "displayBoxCode": "8504636-042",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/wgjsbizhang/10365701.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8504636-042/69/",
+      "price": 700,
+      "priceWithFee": 742,
+      "transactedAt": "2026-06-26 20:31:25",
+      "productCode": "870452007",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2008年,25.5克,年芬,芬兰,兰国,国旗,旗诞,诞生,生周,周年,年克,克银,银币"
+    }
+  ]
+}

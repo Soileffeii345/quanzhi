@@ -1,0 +1,31 @@
+{
+  "coinName": "2022年生肖3克金币",
+  "slug": "515e423c",
+  "saleCount": 1,
+  "keywords": "金,币,2022年,3克,生肖,年克,克生,肖虎,虎金,金币",
+  "priceStats": {
+    "low": 3835,
+    "high": 3835,
+    "avg": 3835,
+    "latest": 3835
+  },
+  "records": [
+    {
+      "coinName": "2022年3克生肖虎金币",
+      "normalizedBoxCode": "6410037002",
+      "displayBoxCode": "6410037-002",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/548654.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6410037-002/70/",
+      "price": 3835,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-29 11:33:55",
+      "productCode": "KH115949",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2022年,3克,生肖,年克,克生,肖虎,虎金,金币"
+    }
+  ]
+}

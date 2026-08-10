@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "1938154001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "1938154001",
+      "displayBoxCode": "1938154-001",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1935年美国1美元纸币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10396511.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1938154-001/",
+      "price": 260,
+      "priceWithFee": 288.6,
+      "transactedAt": "2026-07-14 21:51:35",
+      "productCode": "873346002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/873346002B.jpg",
+      "ocrConfidence": 26,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1935年,年美,美国,国美,美元,元纸,纸币,外国/特区"
+    }
+  ]
+}

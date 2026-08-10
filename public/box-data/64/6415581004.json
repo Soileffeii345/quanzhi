@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6415581004",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6415581004",
+      "displayBoxCode": "6415581-004",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2013年1/4盎司黄山金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/474605.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6415581-004/69/",
+      "price": 6520,
+      "priceWithFee": null,
+      "transactedAt": "2025-04-22 14:53:47",
+      "productCode": "KH065153",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250422/large_sell_ttoh1aqtekdrbsmt.jpg",
+      "ocrConfidence": 45,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2013年,4盎司,名山,年盎,盎司,司黄,黄山,山金,金币"
+    }
+  ]
+}

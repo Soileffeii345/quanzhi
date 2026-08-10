@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6729455033",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6729455033",
+      "displayBoxCode": "6729455-033",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1991年中国共产党成立70周年流通纪念币三枚",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10373846.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6729455-033/",
+      "price": 210,
+      "priceWithFee": 226.8,
+      "transactedAt": "2026-07-01 21:08:05",
+      "productCode": "871771015",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/26/871771015A.jpg",
+      "ocrConfidence": 41,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1991年,年中,中国,国共,共产,产党,党成,成立,立周,周年,年流,流通,通纪,纪念,念币,币三,三枚"
+    }
+  ]
+}

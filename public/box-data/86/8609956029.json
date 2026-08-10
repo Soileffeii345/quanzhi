@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8609956029",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8609956029",
+      "displayBoxCode": "8609956-029",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1974年中国硬币伍分",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10415747.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8609956-029/",
+      "price": 110,
+      "priceWithFee": 118.8,
+      "transactedAt": "2026-07-22 21:09:15",
+      "productCode": "876760007",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/876760007A.jpg",
+      "ocrConfidence": 32,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1974年,年中,中国,国硬,硬币,币伍,伍分"
+    }
+  ]
+}

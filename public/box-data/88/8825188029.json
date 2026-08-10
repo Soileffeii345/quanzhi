@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8825188029",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8825188029",
+      "displayBoxCode": "8825188-029",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2026年国家宝藏（融合交流）15克精制银币三枚一套",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10389818.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8825188-029/70/",
+      "price": 2900,
+      "priceWithFee": 3001.5,
+      "transactedAt": "2026-07-06 21:30:05",
+      "productCode": "873744009",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/27/873744009A.jpg",
+      "ocrConfidence": 48,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2026年,15克,年国,国家,家宝,宝藏,藏融,融合,合交,交流,流克,克精,精制,制银,银币,币三,三枚,枚一,一套,评级"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8193025004",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8193025004",
+      "displayBoxCode": "8193025-004",
+      "gradingCompany": "NGC",
+      "grade": "MS 67",
+      "coinName": "1990年熊猫1盎司普制银币（大字版）",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-jiuyin/10393008.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8193025-004/67/",
+      "price": 890,
+      "priceWithFee": 921.15,
+      "transactedAt": "2026-07-13 20:26:00",
+      "productCode": "874056002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/874056002A.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1990年,1盎司,熊猫,年熊,猫盎,盎司,司普,普制,制银,银币,币大,大字,字版"
+    }
+  ]
+}

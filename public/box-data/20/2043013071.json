@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2043013071",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2043013071",
+      "displayBoxCode": "2043013-071",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "第三版人民币汽车1分、飞机2分、轮船5分各一枚，共三枚",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/disanbanrenminbi/10380498.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2043013-071/",
+      "price": 510,
+      "priceWithFee": 550.8,
+      "transactedAt": "2026-07-09 19:33:30",
+      "productCode": "872588002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/27/872588002B.jpg",
+      "ocrConfidence": 37,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,第三,三版,版人,人民,民币,币汽,汽车,车分,分飞,飞机,机分,分轮,轮船,船分,分各,各一,一枚,枚共,共三,三枚"
+    }
+  ]
+}

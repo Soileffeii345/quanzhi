@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "1534229001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "1534229001",
+      "displayBoxCode": "1534229-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2006年美国内华达州银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/476372.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1534229-001/70/",
+      "price": 270,
+      "priceWithFee": null,
+      "transactedAt": "2025-05-08 20:39:16",
+      "productCode": "AA561298",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250505/large_sell_jlq29dfagbfj9sgf.jpg",
+      "ocrConfidence": 38,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2006年,年美,美国,国内,内华,华达,达州,州银,银币,外国/特区"
+    }
+  ]
+}

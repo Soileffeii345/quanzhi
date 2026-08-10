@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8817041004",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8817041004",
+      "displayBoxCode": "8817041-004",
+      "gradingCompany": "NGC",
+      "grade": "PF 70",
+      "coinName": "2026年水月观音镀银纪念章",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/tongzhang/10414732.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8817041-004/70/",
+      "price": 250,
+      "priceWithFee": 277.5,
+      "transactedAt": "2026-07-24 20:44:50",
+      "productCode": "876755003",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/876755003A.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,章,2026年,宗教,年水,水月,月观,观音,音镀,镀银,银纪,纪念,念章"
+    }
+  ]
+}

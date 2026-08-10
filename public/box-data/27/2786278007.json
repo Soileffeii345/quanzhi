@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2786278007",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2786278007",
+      "displayBoxCode": "2786278-007",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1992年1/4盎司龙马精神金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/558369.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2786278-007/69/",
+      "price": 13400,
+      "priceWithFee": null,
+      "transactedAt": "2026-04-11 11:35:34",
+      "productCode": "KH129391",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260304/large_sell_qk6guqbzgyhtq2f2.jpg",
+      "ocrConfidence": 57,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1992年,4盎司,年盎,盎司,司龙,龙马,马精,精神,神金,金币"
+    }
+  ]
+}

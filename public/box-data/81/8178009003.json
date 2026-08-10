@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8178009003",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8178009003",
+      "displayBoxCode": "8178009-003",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2004年5盎司方形生肖猴银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/572219.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8178009-003/69/",
+      "price": 6200,
+      "priceWithFee": null,
+      "transactedAt": "2026-05-14 20:56:33",
+      "productCode": "KH133721",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260412/large_sell_epy1sx2vxa6tqxzl.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2004年,5盎司,生肖,年盎,盎司,司方,方形,形生,肖猴,猴银,银币"
+    }
+  ]
+}

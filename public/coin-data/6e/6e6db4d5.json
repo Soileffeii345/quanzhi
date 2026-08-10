@@ -1,0 +1,31 @@
+{
+  "coinName": "2012年500克银币",
+  "slug": "6e6db4d5",
+  "saleCount": 1,
+  "keywords": "银,章,2012年,500克,年克,克海,海洋,洋银,银章",
+  "priceStats": {
+    "low": 11340,
+    "high": 11340,
+    "avg": 11340,
+    "latest": 11340
+  },
+  "records": [
+    {
+      "coinName": "2012年500克海洋银章",
+      "normalizedBoxCode": "6403850003",
+      "displayBoxCode": "6403850-003",
+      "gradingCompany": "NGC",
+      "grade": "MS 70",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/530201.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6403850-003/70/",
+      "price": 11340,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-15 10:34:53",
+      "productCode": "KH105965",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,章,2012年,500克,年克,克海,海洋,洋银,银章"
+    }
+  ]
+}

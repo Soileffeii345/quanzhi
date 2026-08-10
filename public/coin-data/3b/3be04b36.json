@@ -1,0 +1,31 @@
+{
+  "coinName": "1980年33.63克银币",
+  "slug": "3be04b36",
+  "saleCount": 1,
+  "keywords": "银,币,1980年,33.63克,年墨,墨西,西哥,哥克,克银,银币,外国/特区",
+  "priceStats": {
+    "low": 480,
+    "high": 480,
+    "avg": 480,
+    "latest": 480
+  },
+  "records": [
+    {
+      "coinName": "1980年墨西哥33.63克银币",
+      "normalizedBoxCode": "8657410023",
+      "displayBoxCode": "8657410-023",
+      "gradingCompany": "NGC",
+      "grade": "MS 62",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/wgjsbizhang/10417002.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8657410-023/62/",
+      "price": 480,
+      "priceWithFee": 508.8,
+      "transactedAt": "2026-07-24 19:45:55",
+      "productCode": "877048010",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1980年,33.63克,年墨,墨西,西哥,哥克,克银,银币,外国/特区"
+    }
+  ]
+}

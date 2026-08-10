@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "3776449333",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "3776449333",
+      "displayBoxCode": "3776449-333",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2013年熊猫1盎司普制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-xinyin/10431694.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3776449-333/",
+      "price": 530,
+      "priceWithFee": 548.55,
+      "transactedAt": "2026-07-27 21:36:10",
+      "productCode": "878702002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/878702002A.jpg",
+      "ocrConfidence": 29,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2013年,1盎司,熊猫,年熊,猫盎,盎司,司普,普制,制银,银币"
+    }
+  ]
+}

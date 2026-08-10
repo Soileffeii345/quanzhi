@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8617877056",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8617877056",
+      "displayBoxCode": "8617877-056",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2008年第29届奥林匹克运动会-游泳精制流通纪念币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10414727.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8617877-056/",
+      "price": 190,
+      "priceWithFee": 205.2,
+      "transactedAt": "2026-07-22 19:16:45",
+      "productCode": "876750008",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/876750008A.jpg",
+      "ocrConfidence": 32,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2008年,年第,第届,届奥,奥林,林匹,匹克,克运,运动,动会,会游,游泳,泳精,精制,制流,流通,通纪,纪念,念币,评级"
+    }
+  ]
+}

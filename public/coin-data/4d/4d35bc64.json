@@ -1,0 +1,65 @@
+{
+  "coinName": "2025年生肖30克银币",
+  "slug": "4d35bc64",
+  "saleCount": 3,
+  "keywords": "银,币,2025年,30克,生肖,年克,克梅,梅花,花形,形生,肖蛇,蛇彩,彩银,银币",
+  "priceStats": {
+    "low": 730,
+    "high": 1050,
+    "avg": 893,
+    "latest": 900
+  },
+  "records": [
+    {
+      "coinName": "2025年30克梅花形生肖蛇彩银币",
+      "normalizedBoxCode": "8182218004",
+      "displayBoxCode": "8182218-004",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/457698.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8182218-004/70/",
+      "price": 900,
+      "priceWithFee": null,
+      "transactedAt": "2024-12-16 20:56:22",
+      "productCode": "AA536811",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2025年,30克,生肖,年克,克梅,梅花,花形,形生,肖蛇,蛇彩,彩银,银币"
+    },
+    {
+      "coinName": "2025年30克梅花形生肖蛇彩银币",
+      "normalizedBoxCode": "8581044002",
+      "displayBoxCode": "8581044-002",
+      "gradingCompany": "NGC",
+      "grade": "PF 69",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/557607.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8581044-002/69/",
+      "price": 1050,
+      "priceWithFee": null,
+      "transactedAt": "2026-03-02 16:52:00",
+      "productCode": "KH121754",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2025年,30克,生肖,年克,克梅,梅花,花形,形生,肖蛇,蛇彩,彩银,银币"
+    },
+    {
+      "coinName": "2025年30克梅花形生肖蛇彩银币",
+      "normalizedBoxCode": "8607786041",
+      "displayBoxCode": "8607786-041",
+      "gradingCompany": "NGC",
+      "grade": "PF70",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/512257.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8607786-041/70/",
+      "price": 730,
+      "priceWithFee": null,
+      "transactedAt": "2025-11-14 09:16:57",
+      "productCode": "AA593512A",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2025年,30克,生肖,年克,克梅,梅花,花形,形生,肖蛇,蛇彩,彩银,银币"
+    }
+  ]
+}

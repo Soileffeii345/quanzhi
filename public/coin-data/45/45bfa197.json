@@ -1,0 +1,82 @@
+{
+  "coinName": "2005年31.104克银币",
+  "slug": "45bfa197",
+  "saleCount": 4,
+  "keywords": "银,币,2005年,1盎司,年盎,盎司,司西,西游,游记,记第,第组,组棒,棒打,打蜘,蜘蛛,蛛精,精彩,彩银,银币,司上,上海,海银,银行,行成,成立,立周,周年,年银,司郑,郑和,和下,下西,西洋,洋彩",
+  "priceStats": {
+    "low": 490,
+    "high": 950,
+    "avg": 810,
+    "latest": 900
+  },
+  "records": [
+    {
+      "coinName": "2005年1盎司西游记第3组棒打蜘蛛精彩银币",
+      "normalizedBoxCode": "6738513033",
+      "displayBoxCode": "6738513-033",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/467149.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6738513-033/70/",
+      "price": 900,
+      "priceWithFee": null,
+      "transactedAt": "2025-03-20 13:18:00",
+      "productCode": "KH061715",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2005年,1盎司,年盎,盎司,司西,西游,游记,记第,第组,组棒,棒打,打蜘,蜘蛛,蛛精,精彩,彩银,银币"
+    },
+    {
+      "coinName": "2005年1盎司上海银行成立10周年银币",
+      "normalizedBoxCode": "6742990029",
+      "displayBoxCode": "6742990-029",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/517556.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6742990-029/69/",
+      "price": 490,
+      "priceWithFee": null,
+      "transactedAt": "2025-12-12 01:18:54",
+      "productCode": "KH093197",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2005年,1盎司,年盎,盎司,司上,上海,海银,银行,行成,成立,立周,周年,年银,银币"
+    },
+    {
+      "coinName": "2005年1盎司郑和下西洋彩银币",
+      "normalizedBoxCode": "8188485047",
+      "displayBoxCode": "8188485-047",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/538463.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8188485-047/",
+      "price": 950,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-29 04:48:48",
+      "productCode": "AA605903A",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2005年,1盎司,年盎,盎司,司郑,郑和,和下,下西,西洋,洋彩,彩银,银币"
+    },
+    {
+      "coinName": "2005年1盎司郑和下西洋彩银币",
+      "normalizedBoxCode": "8188485047",
+      "displayBoxCode": "8188485-047",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/525690.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8188485-047/",
+      "price": 900,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-26 16:53:46",
+      "productCode": "AA605903",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2005年,1盎司,年盎,盎司,司郑,郑和,和下,下西,西洋,洋彩,彩银,银币"
+    }
+  ]
+}

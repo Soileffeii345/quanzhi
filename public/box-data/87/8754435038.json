@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8754435038",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8754435038",
+      "displayBoxCode": "8754435-038",
+      "gradingCompany": "NGC",
+      "grade": "PF 68 ULTRA CAMEO",
+      "coinName": "2004年中国宝岛台湾-日月潭精制流通纪念币二枚",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10396420.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8754435-038/68/",
+      "price": 320,
+      "priceWithFee": 345.6,
+      "transactedAt": "2026-07-15 21:01:10",
+      "productCode": "874407008",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/874407008A.jpg",
+      "ocrConfidence": 39,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2004年,年中,中国,国宝,宝岛,岛台,台湾,湾日,日月,月潭,潭精,精制,制流,流通,通纪,纪念,念币,币二,二枚,评级"
+    }
+  ]
+}

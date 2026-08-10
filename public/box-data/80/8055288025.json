@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8055288025",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8055288025",
+      "displayBoxCode": "8055288-025",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1956年苏格兰纸钞",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10388378.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8055288-025/",
+      "price": 380,
+      "priceWithFee": 421.8,
+      "transactedAt": "2026-07-14 21:48:05",
+      "productCode": "873701001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/27/873701001B.jpg",
+      "ocrConfidence": 26,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,1956年,年苏,苏格,格兰,兰纸,纸钞"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8618500042",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8618500042",
+      "displayBoxCode": "8618500-042",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1980年长城币壹角",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10402322.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8618500-042/",
+      "price": 130,
+      "priceWithFee": 140.4,
+      "transactedAt": "2026-07-15 20:37:25",
+      "productCode": "875161001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/875161001A.jpg",
+      "ocrConfidence": 32,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1980年,年长,长城,城币,币壹,壹角"
+    }
+  ]
+}

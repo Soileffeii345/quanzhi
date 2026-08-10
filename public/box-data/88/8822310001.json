@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8822310001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8822310001",
+      "displayBoxCode": "8822310-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2019年8克世界遗产平遥古城金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/599962.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8822310-001/70/",
+      "price": 9200,
+      "priceWithFee": null,
+      "transactedAt": "2026-07-27 10:05:25",
+      "productCode": "KH142962",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260727/large_sell_q1a5rjsal4cl2hev.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2019年,8克,年克,克世,世界,界遗,遗产,产平,平遥,遥古,古城,城金,金币"
+    }
+  ]
+}

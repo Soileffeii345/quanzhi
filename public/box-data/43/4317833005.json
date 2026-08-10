@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4317833005",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4317833005",
+      "displayBoxCode": "4317833-005",
+      "gradingCompany": "NGC",
+      "grade": "PF69 ULTRA CAMEO",
+      "coinName": "2002年2盎司三星堆银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/575925.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4317833-005/69/",
+      "price": 1500,
+      "priceWithFee": null,
+      "transactedAt": "2026-05-03 18:01:41",
+      "productCode": "KH132965",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260427/large_sell_epqk2u2jpbocxdfx.jpg",
+      "ocrConfidence": 46,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2002年,2盎司,年盎,盎司,司三,三星,星堆,堆银,银币"
+    }
+  ]
+}

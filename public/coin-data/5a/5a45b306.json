@@ -1,0 +1,31 @@
+{
+  "coinName": "2020年吉祥文化5克金币",
+  "slug": "5a45b306",
+  "saleCount": 1,
+  "keywords": "金,币,2020年,5克,吉祥文化,年克,克吉,吉祥,祥文,文化,化松,松鹤,鹤延,延年,年金,金币",
+  "priceStats": {
+    "low": 5500,
+    "high": 5500,
+    "avg": 5500,
+    "latest": 5500
+  },
+  "records": [
+    {
+      "coinName": "2020年5克吉祥文化松鹤延年金币",
+      "normalizedBoxCode": "8616233002",
+      "displayBoxCode": "8616233-002",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/504733.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8616233-002/",
+      "price": 5500,
+      "priceWithFee": null,
+      "transactedAt": "2025-10-17 19:49:07",
+      "productCode": "AA589673",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2020年,5克,吉祥文化,年克,克吉,吉祥,祥文,文化,化松,松鹤,鹤延,延年,年金,金币"
+    }
+  ]
+}

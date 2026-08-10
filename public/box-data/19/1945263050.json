@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "1945263050",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "1945263050",
+      "displayBoxCode": "1945263-050",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "第一版人民币耕地机5000元（单拖）正反面票样各一枚",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/diyibanrenminbi/10355768.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1945263-050/",
+      "price": 3400,
+      "priceWithFee": 3740,
+      "transactedAt": "2026-06-25 20:31:40",
+      "productCode": "869562001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/869562001B.jpg",
+      "ocrConfidence": 50,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,钞,第一,一版,版人,人民,民币,币耕,耕地,地机,机元,元单,单拖,拖正,正反,反面,面票,票样,样各,各一,一枚"
+    }
+  ]
+}

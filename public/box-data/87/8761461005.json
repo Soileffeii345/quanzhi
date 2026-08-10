@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8761461005",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8761461005",
+      "displayBoxCode": "8761461-005",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1993年宋庆龄诞辰100周年精制流通纪念币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10369260.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8761461-005/",
+      "price": 270,
+      "priceWithFee": 291.6,
+      "transactedAt": "2026-07-01 19:26:05",
+      "productCode": "871225003",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/26/871225003A.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1993年,年宋,宋庆,庆龄,龄诞,诞辰,辰周,周年,年精,精制,制流,流通,通纪,纪念,念币,评级"
+    }
+  ]
+}

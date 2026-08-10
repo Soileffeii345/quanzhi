@@ -1,0 +1,31 @@
+{
+  "coinName": "2012年京剧7.776克精制金币",
+  "slug": "1f3d7cab",
+  "saleCount": 1,
+  "keywords": "金,币,2012年,4盎司,戏曲,年中,中国,国京,京剧,剧脸,脸谱,谱第,第组,组孙,孙悟,悟空,空盎,盎司,司精,精制,制彩,彩金,金币,评级",
+  "priceStats": {
+    "low": 7800,
+    "high": 7800,
+    "avg": 7800,
+    "latest": 7800
+  },
+  "records": [
+    {
+      "coinName": "2012年中国京剧脸谱第（3）组-孙悟空1/4盎司精制彩金币",
+      "normalizedBoxCode": "8581409071",
+      "displayBoxCode": "8581409-071",
+      "gradingCompany": "NGC",
+      "grade": "PF70 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10360168.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8581409-071/70/",
+      "price": 7800,
+      "priceWithFee": 8073,
+      "transactedAt": "2026-06-25 21:51:05",
+      "productCode": "870451021",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2012年,4盎司,戏曲,年中,中国,国京,京剧,剧脸,脸谱,谱第,第组,组孙,孙悟,悟空,空盎,盎司,司精,精制,制彩,彩金,金币,评级"
+    }
+  ]
+}

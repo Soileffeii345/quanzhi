@@ -1,0 +1,48 @@
+{
+  "coinName": "1983年1克精制金币",
+  "slug": "1fbe2370",
+  "saleCount": 2,
+  "keywords": "金,币,1983年,1克,年马,马可,可波,波罗,罗克,克精,精制,制金,金币,评级",
+  "priceStats": {
+    "low": 1720,
+    "high": 1780,
+    "avg": 1750,
+    "latest": 1780
+  },
+  "records": [
+    {
+      "coinName": "1983年马可波罗1克精制金币",
+      "normalizedBoxCode": "6724280051",
+      "displayBoxCode": "6724280-051",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10377222.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6724280-051/",
+      "price": 1780,
+      "priceWithFee": 1842.3,
+      "transactedAt": "2026-07-06 22:42:50",
+      "productCode": "872273008",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1983年,1克,年马,马可,可波,波罗,罗克,克精,精制,制金,金币,评级"
+    },
+    {
+      "coinName": "1983年马可波罗1克精制金币",
+      "normalizedBoxCode": "8320306033",
+      "displayBoxCode": "8320306-033",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10426998.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8320306-033/",
+      "price": 1720,
+      "priceWithFee": 1780.2,
+      "transactedAt": "2026-07-27 22:17:40",
+      "productCode": "878107003",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1983年,1克,年马,马可,可波,波罗,罗克,克精,精制,制金,金币,评级"
+    }
+  ]
+}

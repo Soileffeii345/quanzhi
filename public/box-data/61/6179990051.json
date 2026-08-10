@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6179990051",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6179990051",
+      "displayBoxCode": "6179990-051",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2008年第29届奥林匹克运动会-马术精制流通纪念币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10373708.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6179990-051/",
+      "price": 120,
+      "priceWithFee": 129.6,
+      "transactedAt": "2026-07-01 20:06:05",
+      "productCode": "871385004",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/26/871385004A.jpg",
+      "ocrConfidence": 40,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2008年,年第,第届,届奥,奥林,林匹,匹克,克运,运动,动会,会马,马术,术精,精制,制流,流通,通纪,纪念,念币,评级"
+    }
+  ]
+}

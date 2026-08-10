@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2277872016",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2277872016",
+      "displayBoxCode": "2277872-016",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "民国十四年西北银行丰镇地名壹圆",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/junyongpiao/10369537.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2277872-016/",
+      "price": 560,
+      "priceWithFee": 621.6,
+      "transactedAt": "2026-07-16 21:09:10",
+      "productCode": "871031002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/26/871031002B.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国十,十四,四年,年西,西北,北银,银行,行丰,丰镇,镇地,地名,名壹,壹圆"
+    }
+  ]
+}

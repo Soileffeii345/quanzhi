@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "1937936004",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "1937936004",
+      "displayBoxCode": "1937936-004",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "第一版人民币牧羊5000元",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/diyibanrenminbi/10358663.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1937936-004/",
+      "price": 19200,
+      "priceWithFee": 21120,
+      "transactedAt": "2026-06-25 20:33:40",
+      "productCode": "870138010",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/870138010B.jpg",
+      "ocrConfidence": 29,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,第一,一版,版人,人民,民币,币牧,牧羊,羊元"
+    }
+  ]
+}

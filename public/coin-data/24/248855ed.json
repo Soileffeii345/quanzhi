@@ -1,0 +1,31 @@
+{
+  "coinName": "1996年熊猫精制金币",
+  "slug": "248855ed",
+  "saleCount": 1,
+  "keywords": "金,银,币,1996年,10盎司,熊猫,年熊,猫精,精制,制双,双金,金属,属币,币三,三枚,枚一,一套,套含,含盎,盎司,司金,金盎,司银,银盎,评级",
+  "priceStats": {
+    "low": 35000,
+    "high": 35000,
+    "avg": 35000,
+    "latest": 35000
+  },
+  "records": [
+    {
+      "coinName": "1996年熊猫精制双金属币三枚一套（含1/10盎司金+1/28盎司银、1/4盎司金+1/8盎司银、1/2盎司金+1/5盎司银）",
+      "normalizedBoxCode": "8755058001",
+      "displayBoxCode": "8755058-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-shuangjinshu/10350863.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8755058-001/69/",
+      "price": 35000,
+      "priceWithFee": 36225,
+      "transactedAt": "2026-06-18 21:12:40",
+      "productCode": "869588001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,1996年,10盎司,熊猫,年熊,猫精,精制,制双,双金,金属,属币,币三,三枚,枚一,一套,套含,含盎,盎司,司金,金盎,司银,银盎,评级"
+    }
+  ]
+}

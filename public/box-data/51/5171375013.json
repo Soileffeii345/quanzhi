@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "5171375013",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "5171375013",
+      "displayBoxCode": "5171375-013",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1991年1盎司辛亥革命80周年金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/458440.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/5171375-013/",
+      "price": 59000,
+      "priceWithFee": null,
+      "transactedAt": "2025-04-04 22:23:11",
+      "productCode": "AA537833",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20241219/large_sell_foj082bmvsr92byp.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1991年,1盎司,年盎,盎司,司辛,辛亥,亥革,革命,命周,周年,年金,金币"
+    }
+  ]
+}

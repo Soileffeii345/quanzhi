@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8818532016",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8818532016",
+      "displayBoxCode": "8818532-016",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1993年熊猫1盎司普制金币（小字版）",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-jiujin/10401685.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8818532-016/",
+      "price": 32000,
+      "priceWithFee": 33120,
+      "transactedAt": "2026-07-16 20:42:35",
+      "productCode": "875310005",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/875310005A.jpg",
+      "ocrConfidence": 32,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1993年,1盎司,熊猫,年熊,猫盎,盎司,司普,普制,制金,金币,币小,小字,字版"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8819661006",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8819661006",
+      "displayBoxCode": "8819661-006",
+      "gradingCompany": "NGC",
+      "grade": "PF 68 ULTRA CAMEO",
+      "coinName": "1988年戊辰龙年生肖1盎司精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10390893.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8819661-006/68/",
+      "price": 2100,
+      "priceWithFee": 2173.5,
+      "transactedAt": "2026-07-09 20:11:25",
+      "productCode": "873939007",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/27/873939007A.jpg",
+      "ocrConfidence": 44,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1988年,1盎司,生肖,年戊,戊辰,辰龙,龙年,年生,肖盎,盎司,司精,精制,制银,银币,评级"
+    }
+  ]
+}

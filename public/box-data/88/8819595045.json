@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8819595045",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8819595045",
+      "displayBoxCode": "8819595-045",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2009年熊猫1/10盎司普制金币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-jiujin/10390810.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8819595-045/",
+      "price": 3250,
+      "priceWithFee": 3363.75,
+      "transactedAt": "2026-07-09 21:32:05",
+      "productCode": "873930005",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/27/873930005A.jpg",
+      "ocrConfidence": 32,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2009年,10盎司,熊猫,年熊,猫盎,盎司,司普,普制,制金,金币"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2003051074",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2003051074",
+      "displayBoxCode": "2003051-074",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2005年中国古典文学名著《西游记》第（3）组1盎司精制彩银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10424854.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2003051-074/",
+      "price": 1760,
+      "priceWithFee": 1821.6,
+      "transactedAt": "2026-07-27 21:50:10",
+      "productCode": "877755003",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/877755003A.jpg",
+      "ocrConfidence": 39,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2005年,1盎司,年中,中国,国古,古典,典文,文学,学名,名著,著西,西游,游记,记第,第组,组盎,盎司,司精,精制,制彩,彩银,银币,评级"
+    }
+  ]
+}

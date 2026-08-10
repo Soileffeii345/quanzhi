@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2288235882",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2288235882",
+      "displayBoxCode": "2288235-882",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2024年15克生肖龙彩铂币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/529185.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2288235-882/",
+      "price": 16400,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-08 17:48:40",
+      "productCode": "KH102065",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260108/large_sell_lejygmz4xwnu4kgq.jpg",
+      "ocrConfidence": 30,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "贵金属,币,2024年,15克,生肖,年克,克生,肖龙,龙彩,彩铂,铂币"
+    }
+  ]
+}

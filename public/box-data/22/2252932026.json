@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2252932026",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2252932026",
+      "displayBoxCode": "2252932-026",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "民国三十四年晋察冀边区银行伍圆",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jiefangquzhichao/10377205.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2252932-026/",
+      "price": 550,
+      "priceWithFee": 610.5,
+      "transactedAt": "2026-07-23 19:34:10",
+      "productCode": "871359002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/26/871359002B.jpg",
+      "ocrConfidence": 27,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国三,三十,十四,四年,年晋,晋察,察冀,冀边,边区,区银,银行,行伍,伍圆"
+    }
+  ]
+}

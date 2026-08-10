@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4803192001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4803192001",
+      "displayBoxCode": "4803192-001",
+      "gradingCompany": "NGC",
+      "grade": "MS 70",
+      "coinName": "2005年5克第三套人民币微缩壹角金章",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/476968.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4803192-001/70/",
+      "price": 4000,
+      "priceWithFee": null,
+      "transactedAt": "2025-05-10 12:27:04",
+      "productCode": "KH066172",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250509/large_sell_jyup33zv5t7qtidd.jpg",
+      "ocrConfidence": 55,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,章,2005年,5克,年克,克第,第三,三套,套人,人民,民币,币微,微缩,缩壹,壹角,角金,金章"
+    }
+  ]
+}

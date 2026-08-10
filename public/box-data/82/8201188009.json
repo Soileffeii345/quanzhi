@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8201188009",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8201188009",
+      "displayBoxCode": "8201188-009",
+      "gradingCompany": "NGC",
+      "grade": "Ms70",
+      "coinName": "2023年30克熊猫金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/520287.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8201188-009/70/",
+      "price": 29900,
+      "priceWithFee": null,
+      "transactedAt": "2025-12-12 21:25:47",
+      "productCode": "KH094912",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251212/large_sell_kh0qeyr2i0ktmzos.jpg",
+      "ocrConfidence": 37,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2023年,30克,熊猫,年克,克熊,猫金,金币"
+    }
+  ]
+}

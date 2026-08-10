@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "3393394101",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "3393394101",
+      "displayBoxCode": "3393394-101",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1989年1/4盎司第11届亚运会第1组艺术体操金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/491084.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3393394-101/69/",
+      "price": 6115,
+      "priceWithFee": null,
+      "transactedAt": "2025-07-28 13:06:16",
+      "productCode": "AA575018",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250727/large_sell_qduteyn9rksxkgl5.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1989年,4盎司,年盎,盎司,司第,第届,届亚,亚运,运会,会第,第组,组艺,艺术,术体,体操,操金,金币"
+    }
+  ]
+}

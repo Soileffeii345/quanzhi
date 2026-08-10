@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6150799006",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6150799006",
+      "displayBoxCode": "6150799-006",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1985年沈阳造币厂40周年铜章(沈币40)",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/423954.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6150799-006/69/",
+      "price": 2500,
+      "priceWithFee": null,
+      "transactedAt": "2025-04-27 19:17:30",
+      "productCode": "KH065425",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20240329/large_sell_4i9leidjgytbhaki.jpg",
+      "ocrConfidence": 40,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "铜,币,章,1985年,年沈,沈阳,阳造,造币,币厂,厂周,周年,年铜,铜章,章沈,沈币"
+    }
+  ]
+}

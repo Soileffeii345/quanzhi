@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2222040002",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2222040002",
+      "displayBoxCode": "2222040-002",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "第一版人民币轮船100元(8位数)",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/diyibanrenminbi/10409391.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2222040-002/",
+      "price": 1480,
+      "priceWithFee": 1628,
+      "transactedAt": "2026-07-21 20:59:20",
+      "productCode": "876020001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/876020001B.jpg",
+      "ocrConfidence": 30,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,第一,一版,版人,人民,民币,币轮,轮船,船元,元位,位数"
+    }
+  ]
+}

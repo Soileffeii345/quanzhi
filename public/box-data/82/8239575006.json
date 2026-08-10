@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8239575006",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8239575006",
+      "displayBoxCode": "8239575-006",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2009年中国古典文学名著《水浒传》第（1）组-张顺活捉黄文炳5盎司长方形精制彩银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10405307.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8239575-006/69/",
+      "price": 3300,
+      "priceWithFee": 3415.5,
+      "transactedAt": "2026-07-16 20:00:55",
+      "productCode": "875665001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/875665001A.jpg",
+      "ocrConfidence": 51,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2009年,5盎司,年中,中国,国古,古典,典文,文学,学名,名著,著水,水浒,浒传,传第,第组,组张,张顺,顺活,活捉,捉黄,黄文,文炳,炳盎,盎司,司长,长方,方形,形精,精制,制彩,彩银,银币,评级"
+    }
+  ]
+}

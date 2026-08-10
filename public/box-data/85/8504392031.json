@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8504392031",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8504392031",
+      "displayBoxCode": "8504392-031",
+      "gradingCompany": "NGC",
+      "grade": "PF70 ULTRA CAMEO",
+      "coinName": "2012年斯里兰卡斯日建交60周年20克彩银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/wgjsbizhang/10354159.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8504392-031/70/",
+      "price": 1100,
+      "priceWithFee": 1166,
+      "transactedAt": "2026-06-19 20:32:05",
+      "productCode": "869380020",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/869380020A.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2012年,20克,年斯,斯里,里兰,兰卡,卡斯,斯日,日建,建交,交周,周年,年克,克彩,彩银,银币"
+    }
+  ]
+}

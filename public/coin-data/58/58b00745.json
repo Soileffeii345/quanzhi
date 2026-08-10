@@ -1,0 +1,48 @@
+{
+  "coinName": "2006年奥运会3盎司金币",
+  "slug": "58b00745",
+  "saleCount": 2,
+  "keywords": "金,币,2006年,3盎司,奥运,年盎,盎司,司第,第届,届奥,运会,会第,第组,组马,马术,术金,金币,组射,射箭,箭金",
+  "priceStats": {
+    "low": 7180,
+    "high": 8195,
+    "avg": 7688,
+    "latest": 8195
+  },
+  "records": [
+    {
+      "coinName": "2006年1/3盎司第29届奥运会第1组马术金币",
+      "normalizedBoxCode": "4407933002",
+      "displayBoxCode": "4407933-002",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/485088.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4407933-002/69/",
+      "price": 8195,
+      "priceWithFee": null,
+      "transactedAt": "2025-06-24 06:54:16",
+      "productCode": "KH071498",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2006年,3盎司,奥运,年盎,盎司,司第,第届,届奥,运会,会第,第组,组马,马术,术金,金币"
+    },
+    {
+      "coinName": "2006年1/3盎司第29届奥运会第1组射箭金币",
+      "normalizedBoxCode": "6003566018",
+      "displayBoxCode": "6003566-018",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/467402.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6003566-018/69/",
+      "price": 7180,
+      "priceWithFee": null,
+      "transactedAt": "2025-03-08 10:05:52",
+      "productCode": "KH060164",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2006年,3盎司,奥运,年盎,盎司,司第,第届,届奥,运会,会第,第组,组射,射箭,箭金,金币"
+    }
+  ]
+}

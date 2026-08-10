@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8754345054",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8754345054",
+      "displayBoxCode": "8754345-054",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2005年中国宝岛台湾-敬字亭精制流通纪念币二枚",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10396423.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8754345-054/",
+      "price": 380,
+      "priceWithFee": 410.4,
+      "transactedAt": "2026-07-15 20:29:55",
+      "productCode": "874407011",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/874407011A.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2005年,年中,中国,国宝,宝岛,岛台,台湾,湾敬,敬字,字亭,亭精,精制,制流,流通,通纪,纪念,念币,币二,二枚,评级"
+    }
+  ]
+}

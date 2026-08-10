@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8179788015",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8179788015",
+      "displayBoxCode": "8179788-015",
+      "gradingCompany": "NGC",
+      "grade": "MS 67",
+      "coinName": "1984年中华人民共和国成立35周年-开国大典流通纪念币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10392977.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8179788-015/67/",
+      "price": 800,
+      "priceWithFee": 864,
+      "transactedAt": "2026-07-15 21:59:30",
+      "productCode": "874009013",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/874009013A.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1984年,年中,中华,华人,人民,民共,共和,和国,国成,成立,立周,周年,年开,开国,国大,大典,典流,流通,通纪,纪念,念币"
+    }
+  ]
+}

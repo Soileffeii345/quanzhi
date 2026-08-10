@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2580682009",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2580682009",
+      "displayBoxCode": "2580682-009",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "民国二十四年福建省银行壹角正反面票样各一枚",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/minguoshengshigejiyinhangzhichao/10377602.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2580682-009/",
+      "price": 11000,
+      "priceWithFee": 12210,
+      "transactedAt": "2026-07-16 20:57:40",
+      "productCode": "871863003",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/26/871863003B.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,钞,历史币,民国,国二,二十,十四,四年,年福,福建,建省,省银,银行,行壹,壹角,角正,正反,反面,面票,票样,样各,各一,一枚"
+    }
+  ]
+}

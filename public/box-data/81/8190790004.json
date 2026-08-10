@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8190790004",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8190790004",
+      "displayBoxCode": "8190790-004",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2001年5盎司方形京剧艺术第3组彩银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/584607.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8190790-004/69/",
+      "price": 3450,
+      "priceWithFee": null,
+      "transactedAt": "2026-05-31 00:00:43",
+      "productCode": "DB203825",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260528/large_sell_t0jpzzhlgdkqjvpx.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2001年,5盎司,戏曲,年盎,盎司,司方,方形,形京,京剧,剧艺,艺术,术第,第组,组彩,彩银,银币"
+    }
+  ]
+}

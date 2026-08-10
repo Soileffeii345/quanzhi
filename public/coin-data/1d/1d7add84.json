@@ -1,0 +1,31 @@
+{
+  "coinName": "2026年生肖3克精制金币",
+  "slug": "1d7add84",
+  "saleCount": 1,
+  "keywords": "金,币,2026年,3克,生肖,年丙,丙午,午马,马年,年生,肖克,克精,精制,制金,金币,评级",
+  "priceStats": {
+    "low": 3000,
+    "high": 3000,
+    "avg": 3000,
+    "latest": 3000
+  },
+  "records": [
+    {
+      "coinName": "2026年丙午马年生肖3克精制金币",
+      "normalizedBoxCode": "8819508027",
+      "displayBoxCode": "8819508-027",
+      "gradingCompany": "NGC",
+      "grade": "PF69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-jin/10370931.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8819508-027/69/",
+      "price": 3000,
+      "priceWithFee": 3105,
+      "transactedAt": "2026-06-27 21:52:35",
+      "productCode": "871555003",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2026年,3克,生肖,年丙,丙午,午马,马年,年生,肖克,克精,精制,制金,金币,评级"
+    }
+  ]
+}

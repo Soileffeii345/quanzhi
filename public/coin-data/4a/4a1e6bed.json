@@ -1,0 +1,31 @@
+{
+  "coinName": "1958年铜币",
+  "slug": "4a1e6bed",
+  "saleCount": 1,
+  "keywords": "铜,章,1958年,年法,法国,国全,全国,国建,建筑,筑行,行业,业联,联合,合会,会矩,矩形,形铜,铜章,外国/特区",
+  "priceStats": {
+    "low": 1240,
+    "high": 1240,
+    "avg": 1240,
+    "latest": 1240
+  },
+  "records": [
+    {
+      "coinName": "1958年法国全国建筑行业联合会矩形铜章",
+      "normalizedBoxCode": "8655274004",
+      "displayBoxCode": "8655274-004",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianbi/10424740.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8655274-004/",
+      "price": 1240,
+      "priceWithFee": 1376.4,
+      "transactedAt": "2026-07-24 21:13:25",
+      "productCode": "877433016",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "铜,章,1958年,年法,法国,国全,全国,国建,建筑,筑行,行业,业联,联合,合会,会矩,矩形,形铜,铜章,外国/特区"
+    }
+  ]
+}

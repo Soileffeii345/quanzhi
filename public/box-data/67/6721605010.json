@@ -1,0 +1,45 @@
+{
+  "ok": true,
+  "query": "6721605010",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6721605010",
+      "displayBoxCode": "6721605-010",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2007年1/4盎司内蒙古自治区成立60周年金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/471349.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6721605-010/",
+      "price": 5920,
+      "priceWithFee": null,
+      "transactedAt": "2025-04-03 15:35:54",
+      "productCode": "AA556519A",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250327/large_sell_gzwqrrd6y8mnl8h0.jpg",
+      "ocrConfidence": 38,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2007年,4盎司,年盎,盎司,司内,内蒙,蒙古,古自,自治,治区,区成,成立,立周,周年,年金,金币"
+    },
+    {
+      "normalizedBoxCode": "6721605010",
+      "displayBoxCode": "6721605-010",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2007年1/4盎司内蒙古自治区成立60周年金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/470389.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6721605-010/",
+      "price": 5855,
+      "priceWithFee": null,
+      "transactedAt": "2025-04-01 05:17:11",
+      "productCode": "AA556519",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250327/large_sell_gzwqrrd6y8mnl8h0.jpg",
+      "ocrConfidence": 38,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2007年,4盎司,年盎,盎司,司内,内蒙,蒙古,古自,自治,治区,区成,成立,立周,周年,年金,金币"
+    }
+  ]
+}

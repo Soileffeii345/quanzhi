@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8191216002",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8191216002",
+      "displayBoxCode": "8191216-002",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2024年100克吉祥文化一岁一礼彩银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/467548.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8191216-002/70/",
+      "price": 2000,
+      "priceWithFee": null,
+      "transactedAt": "2025-03-13 15:12:19",
+      "productCode": "AA554026",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250309/large_sell_uaiw7smk2khxy4dr.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2024年,100克,吉祥文化,年克,克吉,吉祥,祥文,文化,化一,一岁,岁一,一礼,礼彩,彩银,银币"
+    }
+  ]
+}

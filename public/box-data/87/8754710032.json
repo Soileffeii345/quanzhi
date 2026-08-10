@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8754710032",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8754710032",
+      "displayBoxCode": "8754710-032",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2000年庚辰龙年生肖1盎司精制彩银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10429456.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8754710-032/70/",
+      "price": 1920,
+      "priceWithFee": 1987.2,
+      "transactedAt": "2026-07-27 21:32:10",
+      "productCode": "878311006",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/878311006A.jpg",
+      "ocrConfidence": 31,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2000年,1盎司,生肖,年庚,庚辰,辰龙,龙年,年生,肖盎,盎司,司精,精制,制彩,彩银,银币,评级"
+    }
+  ]
+}

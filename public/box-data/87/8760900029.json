@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8760900029",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8760900029",
+      "displayBoxCode": "8760900-029",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2011年清华大学建校100周年1盎司精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10398691.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8760900-029/69/",
+      "price": 840,
+      "priceWithFee": 869.4,
+      "transactedAt": "2026-07-20 20:26:10",
+      "productCode": "874510007",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/874510007A.jpg",
+      "ocrConfidence": 42,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2011年,1盎司,年清,清华,华大,大学,学建,建校,校周,周年,年盎,盎司,司精,精制,制银,银币,评级"
+    }
+  ]
+}

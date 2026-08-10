@@ -1,0 +1,31 @@
+{
+  "coinName": "民国三十五年中央银行东北九省流通券伍百圆",
+  "slug": "73f21b17",
+  "saleCount": 1,
+  "keywords": "银,历史币,民国,国三,三十,十五,五年,年中,中央,央银,银行,行东,东北,北九,九省,省流,流通,通券,券伍,伍百,百圆",
+  "priceStats": {
+    "low": 1160,
+    "high": 1160,
+    "avg": 1160,
+    "latest": 1160
+  },
+  "records": [
+    {
+      "coinName": "民国三十五年中央银行东北九省流通券伍百圆",
+      "normalizedBoxCode": "2132721050",
+      "displayBoxCode": "2132721-050",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10377858.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2132721-050/",
+      "price": 1160,
+      "priceWithFee": 1287.6,
+      "transactedAt": "2026-07-21 21:28:05",
+      "productCode": "872472001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国三,三十,十五,五年,年中,中央,央银,银行,行东,东北,北九,九省,省流,流通,通券,券伍,伍百,百圆"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "coinName": "2023年书法8克金币",
+  "slug": "1e21fe10",
+  "saleCount": 2,
+  "keywords": "金,币,2023年,8克,书法,年克,克书,法艺,艺术,术第,第组,组金,金币",
+  "priceStats": {
+    "low": 10800,
+    "high": 13200,
+    "avg": 12000,
+    "latest": 13200
+  },
+  "records": [
+    {
+      "coinName": "2023年8克书法艺术第5组金币",
+      "normalizedBoxCode": "6742146001",
+      "displayBoxCode": "6742146-001",
+      "gradingCompany": "NGC",
+      "grade": "PF70 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/529318.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6742146-001/70/",
+      "price": 13200,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-11 20:57:05",
+      "productCode": "KH102095",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2023年,8克,书法,年克,克书,法艺,艺术,术第,第组,组金,金币"
+    },
+    {
+      "coinName": "2023年8克书法艺术第5组金币",
+      "normalizedBoxCode": "6761388034",
+      "displayBoxCode": "6761388-034",
+      "gradingCompany": "NGC",
+      "grade": "PF70 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/503144.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6761388-034/70/",
+      "price": 10800,
+      "priceWithFee": null,
+      "transactedAt": "2025-10-26 09:44:47",
+      "productCode": "AA588286",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2023年,8克,书法,年克,克书,法艺,艺术,术第,第组,组金,金币"
+    }
+  ]
+}

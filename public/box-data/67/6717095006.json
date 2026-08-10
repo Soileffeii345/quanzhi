@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6717095006",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6717095006",
+      "displayBoxCode": "6717095-006",
+      "gradingCompany": "NGC",
+      "grade": "ms70",
+      "coinName": "1993年1/10盎司孔雀开屏金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/419910.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6717095-006/70/",
+      "price": 2250,
+      "priceWithFee": null,
+      "transactedAt": "2024-04-06 11:26:46",
+      "productCode": "KH052082",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20240305/large_sell_fivn79koajfpomk9.jpg",
+      "ocrConfidence": 41,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1993年,10盎司,年盎,盎司,司孔,孔雀,雀开,开屏,屏金,金币"
+    }
+  ]
+}

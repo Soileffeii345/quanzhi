@@ -1,0 +1,48 @@
+{
+  "coinName": "1929年美国50美元纸币",
+  "slug": "7013d078",
+  "saleCount": 2,
+  "keywords": "币,1929年,年美,美国,国美,美元,元纸,纸币,外国/特区",
+  "priceStats": {
+    "low": 3850,
+    "high": 3850,
+    "avg": 3850,
+    "latest": 3850
+  },
+  "records": [
+    {
+      "coinName": "1929年美国50美元纸币",
+      "normalizedBoxCode": "8003888300",
+      "displayBoxCode": "8003888-300",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10387944.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8003888-300/",
+      "price": 3850,
+      "priceWithFee": 4273.5,
+      "transactedAt": "2026-07-14 22:00:05",
+      "productCode": "873172012",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1929年,年美,美国,国美,美元,元纸,纸币,外国/特区"
+    },
+    {
+      "coinName": "1929年美国50美元纸币",
+      "normalizedBoxCode": "8043540007",
+      "displayBoxCode": "8043540-007",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10387944.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8043540-007/",
+      "price": 3850,
+      "priceWithFee": 4273.5,
+      "transactedAt": "2026-07-14 22:00:05",
+      "productCode": "873172012",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1929年,年美,美国,国美,美元,元纸,纸币,外国/特区"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "coinName": "1992年生肖1公斤精制银币",
+  "slug": "2abc546f",
+  "saleCount": 1,
+  "keywords": "银,币,1992年,1公斤,生肖,年生,肖发,发行,行周,周年,年大,大转,转盘,盘公,公斤,斤精,精制,制银,银币,币波,波纹,纹班,评级",
+  "priceStats": {
+    "low": 232000,
+    "high": 232000,
+    "avg": 232000,
+    "latest": 232000
+  },
+  "records": [
+    {
+      "coinName": "1992年生肖发行12周年-大转盘1公斤精制银币（8波纹班）",
+      "normalizedBoxCode": "3307660002",
+      "displayBoxCode": "3307660-002",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10360182.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3307660-002/69/",
+      "price": 232000,
+      "priceWithFee": 240120,
+      "transactedAt": "2026-06-25 20:15:35",
+      "productCode": "870428014",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1992年,1公斤,生肖,年生,肖发,发行,行周,周年,年大,大转,转盘,盘公,公斤,斤精,精制,制银,银币,币波,波纹,纹班,评级"
+    }
+  ]
+}

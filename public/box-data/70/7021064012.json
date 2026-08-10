@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "7021064012",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "7021064012",
+      "displayBoxCode": "7021064-012",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "民国二十九年中央银行贰角",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10366737.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/7021064-012/",
+      "price": 130,
+      "priceWithFee": 144.3,
+      "transactedAt": "2026-07-14 20:54:35",
+      "productCode": "870327007",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/26/870327007B.jpg",
+      "ocrConfidence": 32,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国二,二十,十九,九年,年中,中央,央银,银行,行贰,贰角"
+    }
+  ]
+}

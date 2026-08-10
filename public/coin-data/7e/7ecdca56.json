@@ -1,0 +1,31 @@
+{
+  "coinName": "清 顺治通宝东一厘",
+  "slug": "7ecdca56",
+  "saleCount": 1,
+  "keywords": "清顺,顺治,治通,通宝,宝东,东一,一厘",
+  "priceStats": {
+    "low": 900,
+    "high": 900,
+    "avg": 900,
+    "latest": 900
+  },
+  "records": [
+    {
+      "coinName": "清 顺治通宝东一厘",
+      "normalizedBoxCode": "89702763",
+      "displayBoxCode": "89702763",
+      "gradingCompany": "PCGS",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/guqian/10361587.shtml",
+      "officialCertUrl": "https://cn.pcgs.com/cert/89702763",
+      "price": 900,
+      "priceWithFee": 990,
+      "transactedAt": "2026-07-13 21:33:25",
+      "productCode": "870157009",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "清顺,顺治,治通,通宝,宝东,东一,一厘"
+    }
+  ]
+}

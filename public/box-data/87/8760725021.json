@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8760725021",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8760725021",
+      "displayBoxCode": "8760725-021",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2006年世界文化遗产-龙门石窟精制流通纪念币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10376527.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8760725-021/69/",
+      "price": 290,
+      "priceWithFee": 313.2,
+      "transactedAt": "2026-07-01 19:17:05",
+      "productCode": "871769010",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/26/871769010A.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2006年,年世,世界,界文,文化,化遗,遗产,产龙,龙门,门石,石窟,窟精,精制,制流,流通,通纪,纪念,念币,评级"
+    }
+  ]
+}

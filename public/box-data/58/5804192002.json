@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "5804192002",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "5804192002",
+      "displayBoxCode": "5804192-002",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1996年1盎司熊猫金币发行15周年金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/458354.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/5804192-002/",
+      "price": 21200,
+      "priceWithFee": null,
+      "transactedAt": "2024-12-27 13:32:15",
+      "productCode": "AA537648",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20241218/large_sell_kghgtgtaj97imhon.jpg",
+      "ocrConfidence": 31,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1996年,1盎司,熊猫,年盎,盎司,司熊,猫金,金币,币发,发行,行周,周年,年金"
+    }
+  ]
+}

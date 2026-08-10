@@ -1,0 +1,31 @@
+{
+  "coinName": "1994年3盎司银币",
+  "slug": "3d5f9a80",
+  "saleCount": 1,
+  "keywords": "银,币,1994年,3盎司,年盎,盎司,司边,边喜,喜鹊,鹊银,银币",
+  "priceStats": {
+    "low": 3450,
+    "high": 3450,
+    "avg": 3450,
+    "latest": 3450
+  },
+  "records": [
+    {
+      "coinName": "1994年2/3盎司12边喜鹊银币",
+      "normalizedBoxCode": "6745985119",
+      "displayBoxCode": "6745985-119",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/555802.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6745985-119/",
+      "price": 3450,
+      "priceWithFee": null,
+      "transactedAt": "2026-03-02 07:22:43",
+      "productCode": "KH121684",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1994年,3盎司,年盎,盎司,司边,边喜,喜鹊,鹊银,银币"
+    }
+  ]
+}

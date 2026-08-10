@@ -1,0 +1,31 @@
+{
+  "coinName": "2019年吉祥文化5克金币",
+  "slug": "44bcb1e2",
+  "saleCount": 1,
+  "keywords": "金,币,2019年,5克,吉祥文化,年克,克吉,吉祥,祥文,文化,化寿,寿居,居耄,耄耋,耋金,金币",
+  "priceStats": {
+    "low": 4455,
+    "high": 4455,
+    "avg": 4455,
+    "latest": 4455
+  },
+  "records": [
+    {
+      "coinName": "2019年5克吉祥文化寿居耄耋金币",
+      "normalizedBoxCode": "6730122016",
+      "displayBoxCode": "6730122-016",
+      "gradingCompany": "NGC",
+      "grade": "PF70 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/503776.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6730122-016/70/",
+      "price": 4455,
+      "priceWithFee": null,
+      "transactedAt": "2025-10-02 10:15:30",
+      "productCode": "KH085631",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2019年,5克,吉祥文化,年克,克吉,吉祥,祥文,文化,化寿,寿居,居耄,耄耋,耋金,金币"
+    }
+  ]
+}

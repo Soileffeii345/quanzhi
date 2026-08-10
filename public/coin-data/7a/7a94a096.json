@@ -1,0 +1,31 @@
+{
+  "coinName": "2004年7.776克银币",
+  "slug": "7a94a096",
+  "saleCount": 1,
+  "keywords": "金,银,币,2004年,4盎司,年盎,盎司,司工,工商,商银,银行,行成,成立,立周,周年,年金,金币",
+  "priceStats": {
+    "low": 6420,
+    "high": 6420,
+    "avg": 6420,
+    "latest": 6420
+  },
+  "records": [
+    {
+      "coinName": "2004年1/4盎司工商银行成立20周年金币",
+      "normalizedBoxCode": "4324483002",
+      "displayBoxCode": "4324483-002",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/497604.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4324483-002/69/",
+      "price": 6420,
+      "priceWithFee": null,
+      "transactedAt": "2025-09-05 08:52:12",
+      "productCode": "KH082229",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,2004年,4盎司,年盎,盎司,司工,工商,商银,银行,行成,成立,立周,周年,年金,金币"
+    }
+  ]
+}

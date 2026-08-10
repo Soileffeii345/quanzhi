@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4573280003",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4573280003",
+      "displayBoxCode": "4573280-003",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2011年1/10盎司生肖兔彩金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/498279.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4573280-003/69/",
+      "price": 2580,
+      "priceWithFee": null,
+      "transactedAt": "2025-09-03 22:39:07",
+      "productCode": "KH080989",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250903/large_sell_a93ndwtex8ylxcdj.jpg",
+      "ocrConfidence": 44,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2011年,10盎司,生肖,年盎,盎司,司生,肖兔,兔彩,彩金,金币"
+    }
+  ]
+}

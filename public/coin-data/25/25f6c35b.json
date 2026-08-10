@@ -1,0 +1,48 @@
+{
+  "coinName": "第一版人民币工人和农民50元",
+  "slug": "25f6c35b",
+  "saleCount": 2,
+  "keywords": "币,第一,一版,版人,人民,民币,币工,工人,人和,和农,农民,民元,元六,六位,位数",
+  "priceStats": {
+    "low": 2400,
+    "high": 9000,
+    "avg": 5700,
+    "latest": 2400
+  },
+  "records": [
+    {
+      "coinName": "第一版人民币工人和农民50元（六位数）",
+      "normalizedBoxCode": "2098369038",
+      "displayBoxCode": "2098369-038",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/diyibanrenminbi/10354832.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2098369-038/",
+      "price": 2400,
+      "priceWithFee": 2640,
+      "transactedAt": "2026-06-25 20:55:40",
+      "productCode": "869262004",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,第一,一版,版人,人民,民币,币工,工人,人和,和农,农民,民元,元六,六位,位数"
+    },
+    {
+      "coinName": "第一版人民币工人和农民50元",
+      "normalizedBoxCode": "2566587001",
+      "displayBoxCode": "2566587-001",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/diyibanrenminbi/10409162.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2566587-001/",
+      "price": 9000,
+      "priceWithFee": 9900,
+      "transactedAt": "2026-07-23 20:57:40",
+      "productCode": "876089001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,第一,一版,版人,人民,民币,币工,工人,人和,和农,农民,民元"
+    }
+  ]
+}

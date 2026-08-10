@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4415458019",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4415458019",
+      "displayBoxCode": "4415458-019",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2015年1盎司徐悲鸿银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/509022.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4415458-019/70/",
+      "price": 780,
+      "priceWithFee": null,
+      "transactedAt": "2025-12-12 22:05:03",
+      "productCode": "AA590294A",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251014/large_sell_zw6ld6ztrxv7fpoe.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2015年,1盎司,年盎,盎司,司徐,徐悲,悲鸿,鸿银,银币"
+    }
+  ]
+}

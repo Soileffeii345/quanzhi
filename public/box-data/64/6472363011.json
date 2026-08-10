@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6472363011",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6472363011",
+      "displayBoxCode": "6472363-011",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "coinName": "1984年1/10盎司熊猫金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/566606.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6472363-011/69/",
+      "price": 4800,
+      "priceWithFee": null,
+      "transactedAt": "2026-03-26 10:21:52",
+      "productCode": "KH126615",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260324/large_sell_ovfbgxjr0vkzscmu.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1984年,10盎司,熊猫,年盎,盎司,司熊,猫金,金币"
+    }
+  ]
+}

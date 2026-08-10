@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8054205059",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8054205059",
+      "displayBoxCode": "8054205-059",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1996年香港渣打银行壹佰圆",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xianggangzhichao/10410439.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8054205-059/",
+      "price": 430,
+      "priceWithFee": 477.3,
+      "transactedAt": "2026-07-21 21:05:50",
+      "productCode": "876073002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/876073002B.jpg",
+      "ocrConfidence": 28,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,1996年,年香,香港,港渣,渣打,打银,银行,行壹,壹佰,佰圆,外国/特区"
+    }
+  ]
+}

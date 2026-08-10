@@ -1,0 +1,48 @@
+{
+  "coinName": "2012年1公斤银币",
+  "slug": "6210e96a",
+  "saleCount": 2,
+  "keywords": "银,币,2012年,1公斤,年英,英国,国公,公斤,斤伦,伦敦,敦奥,奥林,林匹,匹克,克银,银币,外国/特区",
+  "priceStats": {
+    "low": 15055,
+    "high": 15585,
+    "avg": 15320,
+    "latest": 15585
+  },
+  "records": [
+    {
+      "coinName": "2012年英国1公斤伦敦奥林匹克银币",
+      "normalizedBoxCode": "6400169018",
+      "displayBoxCode": "6400169-018",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/521360.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6400169-018/69/",
+      "price": 15585,
+      "priceWithFee": null,
+      "transactedAt": "2025-12-17 13:07:38",
+      "productCode": "KH095479",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2012年,1公斤,年英,英国,国公,公斤,斤伦,伦敦,敦奥,奥林,林匹,匹克,克银,银币,外国/特区"
+    },
+    {
+      "coinName": "2012年英国1公斤伦敦奥林匹克银币",
+      "normalizedBoxCode": "6400169030",
+      "displayBoxCode": "6400169-030",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/521140.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6400169-030/",
+      "price": 15055,
+      "priceWithFee": null,
+      "transactedAt": "2025-12-16 14:52:10",
+      "productCode": "KH095374",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2012年,1公斤,年英,英国,国公,公斤,斤伦,伦敦,敦奥,奥林,林匹,匹克,克银,银币,外国/特区"
+    }
+  ]
+}

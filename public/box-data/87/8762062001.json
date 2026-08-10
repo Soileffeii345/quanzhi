@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8762062001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8762062001",
+      "displayBoxCode": "8762062-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1991年辛亥革命80周年-孙中山坐像8克精制金币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10350865.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8762062-001/69/",
+      "price": 13000,
+      "priceWithFee": 13455,
+      "transactedAt": "2026-06-18 21:13:10",
+      "productCode": "869588003",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/869588003A.jpg",
+      "ocrConfidence": 43,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1991年,8克,孙小头,孙中山,小头,年辛,辛亥,亥革,革命,命周,周年,年孙,孙中,中山,山坐,坐像,像克,克精,精制,制金,金币,评级"
+    }
+  ]
+}

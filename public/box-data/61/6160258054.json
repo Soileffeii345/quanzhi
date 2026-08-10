@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6160258054",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6160258054",
+      "displayBoxCode": "6160258-054",
+      "gradingCompany": "NGC",
+      "grade": "PF70 ULTRA CAMEO",
+      "coinName": "2021年能工巧匠第2组金银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/552274.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6160258-054/70/",
+      "price": 7700,
+      "priceWithFee": null,
+      "transactedAt": "2026-02-19 08:20:28",
+      "productCode": "KH119591",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260204/large_sell_we9usgnqdxlj5bbd.jpg",
+      "ocrConfidence": 40,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,2021年,年能,能工,工巧,巧匠,匠第,第组,组金,金银,银币"
+    }
+  ]
+}

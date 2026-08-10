@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8187572009",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8187572009",
+      "displayBoxCode": "8187572-009",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1979年1/2盎司第4届全运会女子舞剑金章(UC)",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/479547.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8187572-009/69/",
+      "price": 14600,
+      "priceWithFee": null,
+      "transactedAt": "2025-05-28 10:06:23",
+      "productCode": "KH067561",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250525/large_sell_csno5eb1oofwfiny.jpg",
+      "ocrConfidence": 41,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,章,1979年,2盎司,年盎,盎司,司第,第届,届全,全运,运会,会女,女子,子舞,舞剑,剑金,金章"
+    }
+  ]
+}

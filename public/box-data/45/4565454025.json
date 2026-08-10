@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4565454025",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4565454025",
+      "displayBoxCode": "4565454-025",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "coinName": "2007年1/2盎司扇形生肖猪金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/469167.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4565454-025/69/",
+      "price": 11230,
+      "priceWithFee": null,
+      "transactedAt": "2025-03-20 09:57:33",
+      "productCode": "KH061669",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250320/large_sell_xy2m0pp83xtt8tkf.jpg",
+      "ocrConfidence": 52,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2007年,2盎司,生肖,年盎,盎司,司扇,扇形,形生,肖猪,猪金,金币"
+    }
+  ]
+}

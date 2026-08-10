@@ -1,0 +1,31 @@
+{
+  "coinName": "2009年31.1克金银币",
+  "slug": "185ab9e6",
+  "saleCount": 1,
+  "keywords": "金,银,币,2009年,31.1克,年哈,哈萨,萨克,克斯,斯坦,坦老,老虎,虎镶,镶嵌,嵌钻,钻石,石克,克镀,镀金,金银,银币",
+  "priceStats": {
+    "low": 910,
+    "high": 910,
+    "avg": 910,
+    "latest": 910
+  },
+  "records": [
+    {
+      "coinName": "2009年哈萨克斯坦老虎镶嵌钻石31.1克镀金银币",
+      "normalizedBoxCode": "8504392013",
+      "displayBoxCode": "8504392-013",
+      "gradingCompany": "NGC",
+      "grade": "PF 68 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/wgjsbizhang/10365710.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8504392-013/68/",
+      "price": 910,
+      "priceWithFee": 964.6,
+      "transactedAt": "2026-06-26 20:22:15",
+      "productCode": "870452016",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,2009年,31.1克,年哈,哈萨,萨克,克斯,斯坦,坦老,老虎,虎镶,镶嵌,嵌钻,钻石,石克,克镀,镀金,金银,银币"
+    }
+  ]
+}

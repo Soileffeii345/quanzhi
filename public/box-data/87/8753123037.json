@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8753123037",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8753123037",
+      "displayBoxCode": "8753123-037",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2002年中国石窟艺术-龙门石窟2盎司精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10362463.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8753123-037/70/",
+      "price": 3900,
+      "priceWithFee": 4036.5,
+      "transactedAt": "2026-06-25 19:57:05",
+      "productCode": "869587003",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/869587003A.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2002年,2盎司,年中,中国,国石,石窟,窟艺,艺术,术龙,龙门,门石,窟盎,盎司,司精,精制,制银,银币,评级"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "coinName": "1997年熊猫15克精制金币",
+  "slug": "75e3fd21",
+  "saleCount": 1,
+  "keywords": "金,银,币,1997年,15克,熊猫,年世,世界,界野,野生,生动,动物,物基,基金,金会,会大,大熊,猫克,克精,精制,制银,银币,评级",
+  "priceStats": {
+    "low": 910,
+    "high": 910,
+    "avg": 910,
+    "latest": 910
+  },
+  "records": [
+    {
+      "coinName": "1997年世界野生动物基金会-大熊猫15克精制银币",
+      "normalizedBoxCode": "8648288016",
+      "displayBoxCode": "8648288-016",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10387965.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8648288-016/69/",
+      "price": 910,
+      "priceWithFee": 941.85,
+      "transactedAt": "2026-07-13 20:19:45",
+      "productCode": "873755002",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,1997年,15克,熊猫,年世,世界,界野,野生,生动,动物,物基,基金,金会,会大,大熊,猫克,克精,精制,制银,银币,评级"
+    }
+  ]
+}

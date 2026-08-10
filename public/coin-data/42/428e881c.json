@@ -1,0 +1,31 @@
+{
+  "coinName": "1987年5盎司银币",
+  "slug": "428e881c",
+  "saleCount": 1,
+  "keywords": "银,币,钞,章,1987年,5盎司,年盎,盎司,司美,美国,国长,长滩,滩钱,钱币,币邮,邮票,票展,展银,银章,外国/特区",
+  "priceStats": {
+    "low": 4850,
+    "high": 4850,
+    "avg": 4850,
+    "latest": 4850
+  },
+  "records": [
+    {
+      "coinName": "1987年5盎司美国长滩钱币邮票展银章",
+      "normalizedBoxCode": "8543665043",
+      "displayBoxCode": "8543665-043",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/576509.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8543665-043/69/",
+      "price": 4850,
+      "priceWithFee": null,
+      "transactedAt": "2026-05-15 21:27:42",
+      "productCode": "KH133391",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,钞,章,1987年,5盎司,年盎,盎司,司美,美国,国长,长滩,滩钱,钱币,币邮,邮票,票展,展银,银章,外国/特区"
+    }
+  ]
+}

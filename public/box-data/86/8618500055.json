@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8618500055",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8618500055",
+      "displayBoxCode": "8618500-055",
+      "gradingCompany": "NGC",
+      "grade": "PF 69",
+      "coinName": "1983年猪年生肖纪念章",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10402328.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8618500-055/69/",
+      "price": 860,
+      "priceWithFee": 928.8,
+      "transactedAt": "2026-07-15 19:41:45",
+      "productCode": "875161007",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/875161007A.jpg",
+      "ocrConfidence": 37,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "章,1983年,生肖,年猪,猪年,年生,肖纪,纪念,念章"
+    }
+  ]
+}

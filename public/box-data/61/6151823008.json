@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6151823008",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6151823008",
+      "displayBoxCode": "6151823-008",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2017年3克中国黄梅戏女驸马金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/491794.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6151823-008/69/",
+      "price": 2360,
+      "priceWithFee": null,
+      "transactedAt": "2025-07-30 20:31:34",
+      "productCode": "KH077345",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250730/large_sell_i689vkiezkln9uxv.jpg",
+      "ocrConfidence": 45,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2017年,3克,戏曲,年克,克中,中国,国黄,黄梅,梅戏,戏女,女驸,驸马,马金,金币"
+    }
+  ]
+}

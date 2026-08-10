@@ -1,0 +1,48 @@
+{
+  "coinName": "1997年毛泽东15.552克精制金币",
+  "slug": "36cf0d98",
+  "saleCount": 2,
+  "keywords": "金,币,1997年,2盎司,年中,中国,国人,人民,民解,解放,放军,军建,建军,军周,周年,年毛,毛泽,泽东,东盎,盎司,司精,精制,制金,金币,评级",
+  "priceStats": {
+    "low": 16800,
+    "high": 21000,
+    "avg": 18900,
+    "latest": 21000
+  },
+  "records": [
+    {
+      "coinName": "1997年中国人民解放军建军70周年-毛泽东1/2盎司精制金币",
+      "normalizedBoxCode": "8615491018",
+      "displayBoxCode": "8615491-018",
+      "gradingCompany": "NGC",
+      "grade": "PF70 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10379363.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8615491-018/70/",
+      "price": 21000,
+      "priceWithFee": 21735,
+      "transactedAt": "2026-07-02 20:49:30",
+      "productCode": "872407015",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1997年,2盎司,年中,中国,国人,人民,民解,解放,放军,军建,建军,军周,周年,年毛,毛泽,泽东,东盎,盎司,司精,精制,制金,金币,评级"
+    },
+    {
+      "coinName": "1997年中国人民解放军建军70周年-毛泽东1/2盎司精制金币",
+      "normalizedBoxCode": "8761369022",
+      "displayBoxCode": "8761369-022",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10360173.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8761369-022/69/",
+      "price": 16800,
+      "priceWithFee": 17388,
+      "transactedAt": "2026-06-25 21:03:05",
+      "productCode": "870428005",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1997年,2盎司,年中,中国,国人,人民,民解,解放,放军,军建,建军,军周,周年,年毛,毛泽,泽东,东盎,盎司,司精,精制,制金,金币,评级"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "coinName": "2014年生肖15.552克金币",
+  "slug": "75df0dc2",
+  "saleCount": 1,
+  "keywords": "金,币,2014年,2盎司,生肖,年盎,盎司,司梅,梅花,花形,形生,肖马,马金,金币",
+  "priceStats": {
+    "low": 12375,
+    "high": 12375,
+    "avg": 12375,
+    "latest": 12375
+  },
+  "records": [
+    {
+      "coinName": "2014年1/2盎司梅花形生肖马金币",
+      "normalizedBoxCode": "6042805053",
+      "displayBoxCode": "6042805-053",
+      "gradingCompany": "NGC",
+      "grade": "PF70 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/484803.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6042805-053/70/",
+      "price": 12375,
+      "priceWithFee": null,
+      "transactedAt": "2025-06-20 22:40:24",
+      "productCode": "KH071280",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2014年,2盎司,生肖,年盎,盎司,司梅,梅花,花形,形生,肖马,马金,金币"
+    }
+  ]
+}

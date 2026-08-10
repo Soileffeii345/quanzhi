@@ -1,0 +1,31 @@
+{
+  "coinName": "1987年熊猫3.11克普制金币",
+  "slug": "0955600b",
+  "saleCount": 1,
+  "keywords": "金,币,1987年,10盎司,熊猫,年熊,猫盎,盎司,司普,普制,制金,金币,币版",
+  "priceStats": {
+    "low": 3350,
+    "high": 3350,
+    "avg": 3350,
+    "latest": 3350
+  },
+  "records": [
+    {
+      "coinName": "1987年熊猫1/10盎司普制金币（S版）",
+      "normalizedBoxCode": "8819595013",
+      "displayBoxCode": "8819595-013",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-jiujin/10390811.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8819595-013/",
+      "price": 3350,
+      "priceWithFee": 3467.25,
+      "transactedAt": "2026-07-09 21:42:45",
+      "productCode": "873930006",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1987年,10盎司,熊猫,年熊,猫盎,盎司,司普,普制,制金,金币,币版"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "coinName": "第一版人民币红火车50元正反面票样",
+  "slug": "357d47af",
+  "saleCount": 2,
+  "keywords": "币,钞,第一,一版,版人,人民,民币,币红,红火,火车,车元,元正,正反,反面,面票,票样,样各,各一,一枚",
+  "priceStats": {
+    "low": 4300,
+    "high": 6500,
+    "avg": 5400,
+    "latest": 4300
+  },
+  "records": [
+    {
+      "coinName": "第一版人民币红火车50元正反面票样各一枚",
+      "normalizedBoxCode": "1879181067",
+      "displayBoxCode": "1879181-067",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/diyibanrenminbi/10355770.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1879181-067/",
+      "price": 4300,
+      "priceWithFee": 4730,
+      "transactedAt": "2026-06-25 21:05:40",
+      "productCode": "869562003",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,钞,第一,一版,版人,人民,民币,币红,红火,火车,车元,元正,正反,反面,面票,票样,样各,各一,一枚"
+    },
+    {
+      "coinName": "第一版人民币红火车50元正反面票样各一枚",
+      "normalizedBoxCode": "2140799002",
+      "displayBoxCode": "2140799-002",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/diyibanrenminbi/10378927.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2140799-002/",
+      "price": 6500,
+      "priceWithFee": 7150,
+      "transactedAt": "2026-07-23 20:11:10",
+      "productCode": "871980001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,钞,第一,一版,版人,人民,民币,币红,红火,火车,车元,元正,正反,反面,面票,票样,样各,各一,一枚"
+    }
+  ]
+}

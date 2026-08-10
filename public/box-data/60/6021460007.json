@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6021460007",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6021460007",
+      "displayBoxCode": "6021460-007",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "民国十一年陕西富秦银行壹圆",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/minguoshengshigejiyinhangzhichao/10374622.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6021460-007/",
+      "price": 1180,
+      "priceWithFee": 1309.8,
+      "transactedAt": "2026-07-16 21:11:10",
+      "productCode": "871167002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/26/871167002B.jpg",
+      "ocrConfidence": 28,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国十,十一,一年,年陕,陕西,西富,富秦,秦银,银行,行壹,壹圆"
+    }
+  ]
+}

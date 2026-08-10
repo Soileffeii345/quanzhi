@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8619194005",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8619194005",
+      "displayBoxCode": "8619194-005",
+      "gradingCompany": "NGC",
+      "grade": "MS 62",
+      "coinName": "1911年法国国防备战铜章",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianbi/10424739.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8619194-005/62/",
+      "price": 410,
+      "priceWithFee": 455.1,
+      "transactedAt": "2026-07-24 20:29:15",
+      "productCode": "877433015",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/877433015A.jpg",
+      "ocrConfidence": 38,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "铜,章,1911年,年法,法国,国国,国防,防备,备战,战铜,铜章,外国/特区"
+    }
+  ]
+}

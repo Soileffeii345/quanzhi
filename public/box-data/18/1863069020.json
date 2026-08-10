@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "1863069020",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "1863069020",
+      "displayBoxCode": "1863069-020",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2005年美国加利福尼亚州银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/476057.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1863069-020/70/",
+      "price": 260,
+      "priceWithFee": null,
+      "transactedAt": "2025-05-01 07:12:38",
+      "productCode": "AA561052",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250430/large_sell_wduhcycxxxdh84nm.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2005年,年美,美国,国加,加利,利福,福尼,尼亚,亚州,州银,银币,外国/特区"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4580439018",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4580439018",
+      "displayBoxCode": "4580439-018",
+      "gradingCompany": "NGC",
+      "grade": "PF68 ULTRA CAMEO",
+      "coinName": "1992年中国古代科技发明发现第（1）组-风筝22克精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10388789.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4580439-018/68/",
+      "price": 640,
+      "priceWithFee": 662.4,
+      "transactedAt": "2026-07-06 21:37:35",
+      "productCode": "873740012",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/27/873740012A.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1992年,22克,年中,中国,国古,古代,代科,科技,技发,发明,明发,发现,现第,第组,组风,风筝,筝克,克精,精制,制银,银币,评级"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "coinName": "1996年熊猫15.552克普制银币",
+  "slug": "14d833bd",
+  "saleCount": 2,
+  "keywords": "银,币,1996年,2盎司,熊猫,年熊,猫盎,盎司,司普,普制,制银,银币",
+  "priceStats": {
+    "low": 420,
+    "high": 470,
+    "avg": 445,
+    "latest": 420
+  },
+  "records": [
+    {
+      "coinName": "1996年熊猫1/2盎司普制银币",
+      "normalizedBoxCode": "5062947027",
+      "displayBoxCode": "5062947-027",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-jiuyin/10422994.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/5062947-027/69/",
+      "price": 420,
+      "priceWithFee": 434.7,
+      "transactedAt": "2026-07-27 19:39:10",
+      "productCode": "877342015",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1996年,2盎司,熊猫,年熊,猫盎,盎司,司普,普制,制银,银币"
+    },
+    {
+      "coinName": "1996年熊猫1/2盎司普制银币",
+      "normalizedBoxCode": "8758891003",
+      "displayBoxCode": "8758891-003",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-jiuyin/10350709.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8758891-003/",
+      "price": 470,
+      "priceWithFee": 486.45,
+      "transactedAt": "2026-06-22 20:21:40",
+      "productCode": "869211003",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1996年,2盎司,熊猫,年熊,猫盎,盎司,司普,普制,制银,银币"
+    }
+  ]
+}

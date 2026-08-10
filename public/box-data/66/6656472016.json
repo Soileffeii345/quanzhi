@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6656472016",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6656472016",
+      "displayBoxCode": "6656472-016",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2002年壬午马年生肖1/2盎司梅花形精制金币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-jin/10401687.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6656472-016/",
+      "price": 28500,
+      "priceWithFee": 29497.5,
+      "transactedAt": "2026-07-16 21:12:35",
+      "productCode": "875311002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/875311002A.jpg",
+      "ocrConfidence": 38,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2002年,2盎司,生肖,年壬,壬午,午马,马年,年生,肖盎,盎司,司梅,梅花,花形,形精,精制,制金,金币,评级"
+    }
+  ]
+}

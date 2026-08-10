@@ -1,0 +1,45 @@
+{
+  "ok": true,
+  "query": "4406553009",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4406553009",
+      "displayBoxCode": "4406553-009",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2011年1/2盎司梅花形生肖兔金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/536469.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4406553-009/69/",
+      "price": 17245,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-21 19:55:09",
+      "productCode": "KH110542",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260121/large_sell_xatakz4f0emzvywt.jpg",
+      "ocrConfidence": 41,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2011年,2盎司,生肖,年盎,盎司,司梅,梅花,花形,形生,肖兔,兔金,金币"
+    },
+    {
+      "normalizedBoxCode": "4406553009",
+      "displayBoxCode": "4406553-009",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2011年1/2盎司梅花形生肖兔金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/499731.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4406553-009/69/",
+      "price": 13025,
+      "priceWithFee": null,
+      "transactedAt": "2025-09-11 09:48:21",
+      "productCode": "KH083146",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250911/large_sell_lxeaencuhltzr2dv.jpg",
+      "ocrConfidence": 40,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2011年,2盎司,生肖,年盎,盎司,司梅,梅花,花形,形生,肖兔,兔金,金币"
+    }
+  ]
+}

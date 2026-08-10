@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6189839010",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6189839010",
+      "displayBoxCode": "6189839-010",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "coinName": "2022年第24届冬季奥林匹克运动会流通纪念币二枚一套",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10390907.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6189839-010/69/",
+      "price": 260,
+      "priceWithFee": 280.8,
+      "transactedAt": "2026-07-08 19:16:45",
+      "productCode": "873586008",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/27/873586008A.jpg",
+      "ocrConfidence": 43,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2022年,年第,第届,届冬,冬季,季奥,奥林,林匹,匹克,克运,运动,动会,会流,流通,通纪,纪念,念币,币二,二枚,枚一,一套"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6186938006",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6186938006",
+      "displayBoxCode": "6186938-006",
+      "gradingCompany": "NGC",
+      "grade": "Ms70",
+      "coinName": "2021年奥地利夜光恐龙纪念币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianbi/10390996.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6186938-006/70/",
+      "price": 190,
+      "priceWithFee": 210.9,
+      "transactedAt": "2026-07-10 19:49:15",
+      "productCode": "873819006",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/27/873819006A.jpg",
+      "ocrConfidence": 37,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2021年,年奥,奥地,地利,利夜,夜光,光恐,恐龙,龙纪,纪念,念币"
+    }
+  ]
+}

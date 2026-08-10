@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2277763073",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2277763073",
+      "displayBoxCode": "2277763-073",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "第二版人民币天安门红1元（老假票）",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/dierbanrenminbi/10399467.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2277763-073/",
+      "price": 2050,
+      "priceWithFee": 2214,
+      "transactedAt": "2026-07-28 20:42:35",
+      "productCode": "874824028",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/874824028B.jpg",
+      "ocrConfidence": 28,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,钞,第二,二版,版人,人民,民币,币天,天安,安门,门红,红元,元老,老假,假票"
+    }
+  ]
+}

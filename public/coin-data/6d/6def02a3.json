@@ -1,0 +1,48 @@
+{
+  "coinName": "1981年生肖15克精制银币",
+  "slug": "6def02a3",
+  "saleCount": 2,
+  "keywords": "银,币,1981年,15克,生肖,年辛,辛酉,酉鸡,鸡年,年生,肖克,克精,精制,制银,银币,评级",
+  "priceStats": {
+    "low": 2750,
+    "high": 4800,
+    "avg": 3775,
+    "latest": 4800
+  },
+  "records": [
+    {
+      "coinName": "1981年辛酉鸡年生肖15克精制银币",
+      "normalizedBoxCode": "8757933008",
+      "displayBoxCode": "8757933-008",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10351224.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8757933-008/69/",
+      "price": 4800,
+      "priceWithFee": 4968,
+      "transactedAt": "2026-06-18 20:17:40",
+      "productCode": "869398008",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1981年,15克,生肖,年辛,辛酉,酉鸡,鸡年,年生,肖克,克精,精制,制银,银币,评级"
+    },
+    {
+      "coinName": "1981年辛酉鸡年生肖15克精制银币",
+      "normalizedBoxCode": "8781312002",
+      "displayBoxCode": "8781312-002",
+      "gradingCompany": "NGC",
+      "grade": "Pr68 CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10389543.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8781312-002/68/",
+      "price": 2750,
+      "priceWithFee": 2846.25,
+      "transactedAt": "2026-07-09 20:26:45",
+      "productCode": "873692003",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1981年,15克,生肖,年辛,辛酉,酉鸡,鸡年,年生,肖克,克精,精制,制银,银币,评级"
+    }
+  ]
+}

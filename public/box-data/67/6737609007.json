@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6737609007",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6737609007",
+      "displayBoxCode": "6737609-007",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1996年1盎司观音银币(加厚)",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/517925.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6737609-007/",
+      "price": 2900,
+      "priceWithFee": null,
+      "transactedAt": "2025-12-26 22:57:39",
+      "productCode": "AA600455.56",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251205/large_sell_btczth95nektwqiz.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1996年,1盎司,宗教,年盎,盎司,司观,观音,音银,银币,币加,加厚"
+    }
+  ]
+}

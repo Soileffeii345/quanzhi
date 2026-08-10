@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2056820023",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2056820023",
+      "displayBoxCode": "2056820-023",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "第二版人民币水库5角浅版有水印、第三版人民币5元、1元五星水印各一枚，共三枚",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/disanbanrenminbi/10426475.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2056820-023/",
+      "price": 850,
+      "priceWithFee": 918,
+      "transactedAt": "2026-07-28 21:14:05",
+      "productCode": "878098005",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/878098005B.jpg",
+      "ocrConfidence": 31,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,第二,二版,版人,人民,民币,币水,水库,库角,角浅,浅版,版有,有水,水印,印第,第三,三版,币元,元元,元五,五星,星水,印各,各一,一枚,枚共,共三,三枚"
+    }
+  ]
+}

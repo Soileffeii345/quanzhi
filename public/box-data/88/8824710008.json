@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8824710008",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8824710008",
+      "displayBoxCode": "8824710-008",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1992年中国精制硬币壹角二枚",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10360949.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8824710-008/",
+      "price": 130,
+      "priceWithFee": 140.4,
+      "transactedAt": "2026-06-24 20:50:45",
+      "productCode": "870464013",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/870464013A.jpg",
+      "ocrConfidence": 39,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1992年,年中,中国,国精,精制,制硬,硬币,币壹,壹角,角二,二枚,评级"
+    }
+  ]
+}

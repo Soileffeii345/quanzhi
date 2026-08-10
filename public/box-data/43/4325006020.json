@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4325006020",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4325006020",
+      "displayBoxCode": "4325006-020",
+      "gradingCompany": "NGC",
+      "grade": "MS 70",
+      "coinName": "2016年8克贺岁银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/563047.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4325006-020/70/",
+      "price": 360,
+      "priceWithFee": null,
+      "transactedAt": "2026-04-08 17:31:50",
+      "productCode": "KH128798",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260315/large_sell_b5itu897yak7oujb.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2016年,8克,吉祥文化,年克,克贺,贺岁,岁银,银币"
+    }
+  ]
+}

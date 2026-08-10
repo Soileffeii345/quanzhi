@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8025796027",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8025796027",
+      "displayBoxCode": "8025796-027",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1949年中央银行金圆券壹萬圆",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10361804.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8025796-027/",
+      "price": 570,
+      "priceWithFee": 632.7,
+      "transactedAt": "2026-07-07 21:18:35",
+      "productCode": "870325014",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/870325014B.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,1949年,年中,中央,央银,银行,行金,金圆,圆券,券壹,壹萬,萬圆"
+    }
+  ]
+}

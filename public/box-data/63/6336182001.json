@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6336182001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6336182001",
+      "displayBoxCode": "6336182-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2021年帕劳3盎司赛博朋克外星人彩银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/549658.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6336182-001/70/",
+      "price": 2800,
+      "priceWithFee": null,
+      "transactedAt": "2026-02-07 11:37:23",
+      "productCode": "DB202476",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260129/large_sell_fyj2srx6klycvij5.jpg",
+      "ocrConfidence": 28,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2021年,3盎司,年帕,帕劳,劳盎,盎司,司赛,赛博,博朋,朋克,克外,外星,星人,人彩,彩银,银币"
+    }
+  ]
+}

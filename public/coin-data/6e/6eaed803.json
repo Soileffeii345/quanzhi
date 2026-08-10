@@ -1,0 +1,31 @@
+{
+  "coinName": "民国三十八年云南省造大会堂贰角银元",
+  "slug": "6eaed803",
+  "saleCount": 1,
+  "keywords": "银,历史币,云南,滇造,民国,国三,三十,十八,八年,年云,南省,省造,造大,大会,会堂,堂贰,贰角,角银,银元",
+  "priceStats": {
+    "low": 2050,
+    "high": 2050,
+    "avg": 2050,
+    "latest": 2050
+  },
+  "records": [
+    {
+      "coinName": "民国三十八年云南省造大会堂贰角银元",
+      "normalizedBoxCode": "89746437",
+      "displayBoxCode": "89746437",
+      "gradingCompany": "PCGS",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguojindaijizhibi/10361699.shtml",
+      "officialCertUrl": "https://cn.pcgs.com/cert/89746437",
+      "price": 2050,
+      "priceWithFee": 2214,
+      "transactedAt": "2026-07-13 20:01:45",
+      "productCode": "870156003",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,云南,滇造,民国,国三,三十,十八,八年,年云,南省,省造,造大,大会,会堂,堂贰,贰角,角银,银元"
+    }
+  ]
+}

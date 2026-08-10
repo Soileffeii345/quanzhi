@@ -1,0 +1,31 @@
+{
+  "coinName": "2007年31.104克精制银币",
+  "slug": "22d6b661",
+  "saleCount": 1,
+  "keywords": "银,币,2007年,1盎司,年北,北京,京国,国际,际钱,钱币,币博,博览,览会,会盎,盎司,司精,精制,制银,银币,币二,二枚,评级",
+  "priceStats": {
+    "low": 1280,
+    "high": 1280,
+    "avg": 1280,
+    "latest": 1280
+  },
+  "records": [
+    {
+      "coinName": "2007年北京国际钱币博览会1盎司精制银币二枚",
+      "normalizedBoxCode": "6153210040",
+      "displayBoxCode": "6153210-040",
+      "gradingCompany": "NGC",
+      "grade": "PF70 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10383383.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6153210-040/70/",
+      "price": 1280,
+      "priceWithFee": 1324.8,
+      "transactedAt": "2026-07-06 20:27:10",
+      "productCode": "871831002",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2007年,1盎司,年北,北京,京国,国际,际钱,钱币,币博,博览,览会,会盎,盎司,司精,精制,制银,银币,币二,二枚,评级"
+    }
+  ]
+}

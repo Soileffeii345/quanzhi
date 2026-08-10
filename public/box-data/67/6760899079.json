@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6760899079",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6760899079",
+      "displayBoxCode": "6760899-079",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1989年22克儿童基金会70周年银币(精制)",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/400640.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6760899-079/",
+      "price": 3500,
+      "priceWithFee": null,
+      "transactedAt": "2023-11-30 21:12:10",
+      "productCode": "AA443557",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20231117/large_sell_xl7t2xmvuwgrqowg.jpg",
+      "ocrConfidence": 29,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,1989年,22克,年克,克儿,儿童,童基,基金,金会,会周,周年,年银,银币,币精,精制,评级"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "coinName": "2015年摩尔多瓦纸钞",
+  "slug": "5f77824c",
+  "saleCount": 1,
+  "keywords": "钞,2015年,年摩,摩尔,尔多,多瓦,瓦纸,纸钞",
+  "priceStats": {
+    "low": 110,
+    "high": 110,
+    "avg": 110,
+    "latest": 110
+  },
+  "records": [
+    {
+      "coinName": "2015年摩尔多瓦纸钞",
+      "normalizedBoxCode": "2053382081",
+      "displayBoxCode": "2053382-081",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10373886.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2053382-081/",
+      "price": 110,
+      "priceWithFee": 122.1,
+      "transactedAt": "2026-06-30 22:50:50",
+      "productCode": "871685016",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,2015年,年摩,摩尔,尔多,多瓦,瓦纸,纸钞"
+    }
+  ]
+}

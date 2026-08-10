@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8180438001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8180438001",
+      "displayBoxCode": "8180438-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2018年8克宁夏回族自治区成立60周年金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/474539.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8180438-001/70/",
+      "price": 6840,
+      "priceWithFee": null,
+      "transactedAt": "2025-04-22 13:34:46",
+      "productCode": "KH065122",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250422/large_sell_i9qvc6qthzbfnhlg.jpg",
+      "ocrConfidence": 51,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2018年,8克,年克,克宁,宁夏,夏回,回族,族自,自治,治区,区成,成立,立周,周年,年金,金币"
+    }
+  ]
+}

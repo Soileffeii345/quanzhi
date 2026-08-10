@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8180958001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8180958001",
+      "displayBoxCode": "8180958-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1991年1盎司生肖羊铂币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/489512.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8180958-001/69/",
+      "price": 36800,
+      "priceWithFee": null,
+      "transactedAt": "2025-11-18 21:47:20",
+      "productCode": "KH090690",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250718/large_sell_b8nu650i5lfdkorb.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "贵金属,币,1991年,1盎司,生肖,年盎,盎司,司生,肖羊,羊铂,铂币"
+    }
+  ]
+}

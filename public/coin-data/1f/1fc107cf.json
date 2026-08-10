@@ -1,0 +1,31 @@
+{
+  "coinName": "19世纪法国菲尔曼.迪多铜章",
+  "slug": "1fc107cf",
+  "saleCount": 1,
+  "keywords": "铜,章,世纪,纪法,法国,国菲,菲尔,尔曼,曼迪,迪多,多铜,铜章,外国/特区",
+  "priceStats": {
+    "low": 500,
+    "high": 500,
+    "avg": 500,
+    "latest": 500
+  },
+  "records": [
+    {
+      "coinName": "19世纪法国菲尔曼.迪多铜章",
+      "normalizedBoxCode": "8655274010",
+      "displayBoxCode": "8655274-010",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianbi/10424736.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8655274-010/",
+      "price": 500,
+      "priceWithFee": 555,
+      "transactedAt": "2026-07-24 21:24:15",
+      "productCode": "877433012",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "铜,章,世纪,纪法,法国,国菲,菲尔,尔曼,曼迪,迪多,多铜,铜章,外国/特区"
+    }
+  ]
+}

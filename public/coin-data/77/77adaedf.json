@@ -1,0 +1,65 @@
+{
+  "coinName": "2019年熊猫30克银币",
+  "slug": "77adaedf",
+  "saleCount": 3,
+  "keywords": "银,币,2019年,30克,熊猫,年克,克熊,猫银,银币",
+  "priceStats": {
+    "low": 420,
+    "high": 580,
+    "avg": 493,
+    "latest": 480
+  },
+  "records": [
+    {
+      "coinName": "2019年30克熊猫银币",
+      "normalizedBoxCode": "4803114010",
+      "displayBoxCode": "4803114-010",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/425252.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4803114-010/",
+      "price": 480,
+      "priceWithFee": null,
+      "transactedAt": "2024-10-30 11:47:29",
+      "productCode": "KH053863",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2019年,30克,熊猫,年克,克熊,猫银,银币"
+    },
+    {
+      "coinName": "2019年30克熊猫银币",
+      "normalizedBoxCode": "4803119008",
+      "displayBoxCode": "4803119-008",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/489199.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4803119-008/",
+      "price": 580,
+      "priceWithFee": null,
+      "transactedAt": "2025-07-19 15:06:55",
+      "productCode": "KH074439",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2019年,30克,熊猫,年克,克熊,猫银,银币"
+    },
+    {
+      "coinName": "2019年30克熊猫银币",
+      "normalizedBoxCode": "6051453024",
+      "displayBoxCode": "6051453-024",
+      "gradingCompany": "NGC",
+      "grade": "MS 70",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/469499.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6051453-024/70/",
+      "price": 420,
+      "priceWithFee": null,
+      "transactedAt": "2025-06-20 10:16:40",
+      "productCode": "KH069889",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2019年,30克,熊猫,年克,克熊,猫银,银币"
+    }
+  ]
+}

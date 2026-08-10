@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6406198020",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6406198020",
+      "displayBoxCode": "6406198-020",
+      "gradingCompany": "NGC",
+      "grade": "PF70 ULTRA CAMEO",
+      "coinName": "2016年1盎司生肖猴彩银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/551838.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6406198-020/70/",
+      "price": 1000,
+      "priceWithFee": null,
+      "transactedAt": "2026-02-04 21:59:08",
+      "productCode": "AA618632",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260203/large_sell_kqmvfe0tur7omvpw.jpg",
+      "ocrConfidence": 30,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2016年,1盎司,生肖,年盎,盎司,司生,肖猴,猴彩,彩银,银币"
+    }
+  ]
+}

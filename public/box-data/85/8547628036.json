@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8547628036",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8547628036",
+      "displayBoxCode": "8547628-036",
+      "gradingCompany": "NGC",
+      "grade": "PF67 ULTRA CAMEO",
+      "coinName": "1998年中国精制硬币伍角",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10359836.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8547628-036/67/",
+      "price": 1220,
+      "priceWithFee": 1317.6,
+      "transactedAt": "2026-06-24 21:11:25",
+      "productCode": "869854022",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/869854022A.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1998年,年中,中国,国精,精制,制硬,硬币,币伍,伍角,评级"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "coinName": "1999年27克金币",
+  "slug": "025e2fdb",
+  "saleCount": 1,
+  "keywords": "金,银,币,1999年,27克,年安,安道,道尔,尔环,环球,球世,世界,界克,克双,双金,金属,属银,银币",
+  "priceStats": {
+    "low": 810,
+    "high": 810,
+    "avg": 810,
+    "latest": 810
+  },
+  "records": [
+    {
+      "coinName": "1999年安道尔环球世界27克双金属银币",
+      "normalizedBoxCode": "8504392041",
+      "displayBoxCode": "8504392-041",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/wgjsbizhang/10354158.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8504392-041/69/",
+      "price": 810,
+      "priceWithFee": 858.6,
+      "transactedAt": "2026-06-19 21:00:45",
+      "productCode": "869380019",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,1999年,27克,年安,安道,道尔,尔环,环球,球世,世界,界克,克双,双金,金属,属银,银币"
+    }
+  ]
+}

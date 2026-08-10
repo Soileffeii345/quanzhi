@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6052650035",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6052650035",
+      "displayBoxCode": "6052650-035",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1996年1盎司德国慕尼黑国际硬币展银章",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/550936.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6052650-035/69/",
+      "price": 2150,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-31 16:31:37",
+      "productCode": "KH116996",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260131/large_sell_dntx4cewq5cnaebk.jpg",
+      "ocrConfidence": 37,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,章,1996年,1盎司,年盎,盎司,司德,德国,国慕,慕尼,尼黑,黑国,国际,际硬,硬币,币展,展银,银章,外国/特区"
+    }
+  ]
+}

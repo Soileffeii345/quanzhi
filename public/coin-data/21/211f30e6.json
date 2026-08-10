@@ -1,0 +1,65 @@
+{
+  "coinName": "1991年生肖31.104克精制金币",
+  "slug": "211f30e6",
+  "saleCount": 3,
+  "keywords": "金,币,1991年,1盎司,生肖,年辛,辛未,未羊,羊年,年生,肖盎,盎司,司精,精制,制金,金币,评级",
+  "priceStats": {
+    "low": 41000,
+    "high": 45000,
+    "avg": 42833,
+    "latest": 41000
+  },
+  "records": [
+    {
+      "coinName": "1991年辛未羊年生肖1盎司精制金币",
+      "normalizedBoxCode": "6045129007",
+      "displayBoxCode": "6045129-007",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-jin/10397599.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6045129-007/",
+      "price": 41000,
+      "priceWithFee": 42435,
+      "transactedAt": "2026-07-16 21:07:35",
+      "productCode": "874813005",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1991年,1盎司,生肖,年辛,辛未,未羊,羊年,年生,肖盎,盎司,司精,精制,制金,金币,评级"
+    },
+    {
+      "coinName": "1991年辛未羊年生肖1盎司精制金币",
+      "normalizedBoxCode": "8545521025",
+      "displayBoxCode": "8545521-025",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-jin/10360906.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8545521-025/",
+      "price": 45000,
+      "priceWithFee": 46575,
+      "transactedAt": "2026-06-22 22:12:40",
+      "productCode": "870406002",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1991年,1盎司,生肖,年辛,辛未,未羊,羊年,年生,肖盎,盎司,司精,精制,制金,金币,评级"
+    },
+    {
+      "coinName": "1991年辛未羊年生肖1盎司精制金币",
+      "normalizedBoxCode": "8764066001",
+      "displayBoxCode": "8764066-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-jin/10350869.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8764066-001/69/",
+      "price": 42500,
+      "priceWithFee": 43987.5,
+      "transactedAt": "2026-06-18 21:13:40",
+      "productCode": "869588007",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1991年,1盎司,生肖,年辛,辛未,未羊,羊年,年生,肖盎,盎司,司精,精制,制金,金币,评级"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8768111011",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8768111011",
+      "displayBoxCode": "8768111-011",
+      "gradingCompany": "NGC",
+      "grade": "PF 68 ULTRA CAMEO",
+      "coinName": "1985年乙丑牛年生肖15克精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10350322.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8768111-011/68/",
+      "price": 1200,
+      "priceWithFee": 1242,
+      "transactedAt": "2026-06-22 21:35:10",
+      "productCode": "869323002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/869323002A.jpg",
+      "ocrConfidence": 37,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1985年,15克,生肖,年乙,乙丑,丑牛,牛年,年生,肖克,克精,精制,制银,银币,评级"
+    }
+  ]
+}

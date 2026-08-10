@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "5796717001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "5796717001",
+      "displayBoxCode": "5796717-001",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1994年1/2盎司经济特区建设成就金章",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/525179.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/5796717-001/",
+      "price": 15895,
+      "priceWithFee": null,
+      "transactedAt": "2025-12-27 16:44:18",
+      "productCode": "KH099722",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251227/large_sell_nqzzkgzqwwjz3qbr.jpg",
+      "ocrConfidence": 48,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,章,1994年,2盎司,年盎,盎司,司经,经济,济特,特区,区建,建设,设成,成就,就金,金章"
+    }
+  ]
+}

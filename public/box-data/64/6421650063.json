@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6421650063",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6421650063",
+      "displayBoxCode": "6421650-063",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1990年1/4盎司第11届亚运会第2组女子游泳金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/486349.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6421650-063/69/",
+      "price": 6110,
+      "priceWithFee": null,
+      "transactedAt": "2025-07-01 13:45:26",
+      "productCode": "KH072046",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250701/large_sell_sr30eswgnne5z6yb.jpg",
+      "ocrConfidence": 55,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1990年,4盎司,年盎,盎司,司第,第届,届亚,亚运,运会,会第,第组,组女,女子,子游,游泳,泳金,金币"
+    }
+  ]
+}

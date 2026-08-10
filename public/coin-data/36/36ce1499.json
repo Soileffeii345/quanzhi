@@ -1,0 +1,31 @@
+{
+  "coinName": "第三版人民币2元五星水印票样",
+  "slug": "36ce1499",
+  "saleCount": 1,
+  "keywords": "币,钞,第三,三版,版人,人民,民币,币元,元五,五星,星水,水印,印票,票样",
+  "priceStats": {
+    "low": 32000,
+    "high": 32000,
+    "avg": 32000,
+    "latest": 32000
+  },
+  "records": [
+    {
+      "coinName": "第三版人民币2元五星水印票样",
+      "normalizedBoxCode": "2102002063",
+      "displayBoxCode": "2102002-063",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/disanbanrenminbi/10400766.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2102002-063/",
+      "price": 32000,
+      "priceWithFee": 34560,
+      "transactedAt": "2026-07-18 20:45:05",
+      "productCode": "875019003",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,钞,第三,三版,版人,人民,民币,币元,元五,五星,星水,水印,印票,票样"
+    }
+  ]
+}

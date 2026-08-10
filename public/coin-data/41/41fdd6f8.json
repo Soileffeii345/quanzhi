@@ -1,0 +1,31 @@
+{
+  "coinName": "2023年金银币",
+  "slug": "41fdd6f8",
+  "saleCount": 1,
+  "keywords": "金,银,币,2023年,年中,中华,华传,传统,统瑞,瑞兽,兽龟,龟金,金银,银币",
+  "priceStats": {
+    "low": 2000,
+    "high": 2000,
+    "avg": 2000,
+    "latest": 2000
+  },
+  "records": [
+    {
+      "coinName": "2023年中华传统瑞兽龟金银币",
+      "normalizedBoxCode": "6761256031",
+      "displayBoxCode": "6761256-031",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/453979.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6761256-031/70/",
+      "price": 2000,
+      "priceWithFee": null,
+      "transactedAt": "2025-02-21 00:11:52",
+      "productCode": "AA532567.68",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,2023年,年中,中华,华传,传统,统瑞,瑞兽,兽龟,龟金,金银,银币"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6176138067",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6176138067",
+      "displayBoxCode": "6176138-067",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2004年元宵节彩金银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/506548.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6176138-067/70/",
+      "price": 14200,
+      "priceWithFee": null,
+      "transactedAt": "2025-12-12 02:48:28",
+      "productCode": "KH093923",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251017/large_sell_zfftu0s4lyywx3a3.jpg",
+      "ocrConfidence": 46,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,2004年,年元,元宵,宵节,节彩,彩金,金银,银币"
+    }
+  ]
+}

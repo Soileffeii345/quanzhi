@@ -1,0 +1,31 @@
+{
+  "coinName": "2000年熊猫7.776克金币",
+  "slug": "7297cf2a",
+  "saleCount": 1,
+  "keywords": "金,币,2000年,4盎司,熊猫,年盎,盎司,司熊,猫金,金币,币光,光圈,圈版",
+  "priceStats": {
+    "low": 8800,
+    "high": 8800,
+    "avg": 8800,
+    "latest": 8800
+  },
+  "records": [
+    {
+      "coinName": "2000年1/4盎司熊猫金币(光圈版)",
+      "normalizedBoxCode": "4404107005",
+      "displayBoxCode": "4404107-005",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/484556.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4404107-005/",
+      "price": 8800,
+      "priceWithFee": null,
+      "transactedAt": "2025-06-21 23:50:23",
+      "productCode": "AA569177",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2000年,4盎司,熊猫,年盎,盎司,司熊,猫金,金币,币光,光圈,圈版"
+    }
+  ]
+}

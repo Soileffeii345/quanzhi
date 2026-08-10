@@ -1,0 +1,31 @@
+{
+  "coinName": "法国会计师行业协会方形铜章",
+  "slug": "390509e0",
+  "saleCount": 1,
+  "keywords": "铜,章,法国,国会,会计,计师,师行,行业,业协,协会,会方,方形,形铜,铜章,外国/特区",
+  "priceStats": {
+    "low": 460,
+    "high": 460,
+    "avg": 460,
+    "latest": 460
+  },
+  "records": [
+    {
+      "coinName": "法国会计师行业协会方形铜章",
+      "normalizedBoxCode": "8619194013",
+      "displayBoxCode": "8619194-013",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianbi/10424734.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8619194-013/",
+      "price": 460,
+      "priceWithFee": 510.6,
+      "transactedAt": "2026-07-24 20:27:35",
+      "productCode": "877433010",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "铜,章,法国,国会,会计,计师,师行,行业,业协,协会,会方,方形,形铜,铜章,外国/特区"
+    }
+  ]
+}

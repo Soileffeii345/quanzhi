@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2240910083",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2240910083",
+      "displayBoxCode": "2240910-083",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1942年希腊纸币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10371355.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2240910-083/",
+      "price": 130,
+      "priceWithFee": 144.3,
+      "transactedAt": "2026-06-30 22:17:05",
+      "productCode": "871227036",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/26/871227036B.jpg",
+      "ocrConfidence": 25,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1942年,年希,希腊,腊纸,纸币"
+    }
+  ]
+}

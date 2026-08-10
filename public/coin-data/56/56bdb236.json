@@ -1,0 +1,31 @@
+{
+  "coinName": "咸丰柒年大清宝钞壹千",
+  "slug": "56bdb236",
+  "saleCount": 1,
+  "keywords": "钞,历史币,咸丰,丰柒,柒年,年大,大清,清宝,宝钞,钞壹,壹千",
+  "priceStats": {
+    "low": 5300,
+    "high": 5300,
+    "avg": 5300,
+    "latest": 5300
+  },
+  "records": [
+    {
+      "coinName": "咸丰柒年大清宝钞壹千",
+      "normalizedBoxCode": "2399738002",
+      "displayBoxCode": "2399738-002",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/mingqingzhichao/10379468.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2399738-002/",
+      "price": 5300,
+      "priceWithFee": 5883,
+      "transactedAt": "2026-07-23 19:54:40",
+      "productCode": "871871001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,历史币,咸丰,丰柒,柒年,年大,大清,清宝,宝钞,钞壹,壹千"
+    }
+  ]
+}

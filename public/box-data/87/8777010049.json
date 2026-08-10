@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8777010049",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8777010049",
+      "displayBoxCode": "8777010-049",
+      "gradingCompany": "NGC",
+      "grade": "MS 68",
+      "coinName": "1998年中国珍稀野生动物-褐马鸡流通纪念币二枚",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10396438.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8777010-049/68/",
+      "price": 410,
+      "priceWithFee": 442.8,
+      "transactedAt": "2026-07-15 19:32:35",
+      "productCode": "874407026",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/874407026A.jpg",
+      "ocrConfidence": 40,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1998年,年中,中国,国珍,珍稀,稀野,野生,生动,动物,物褐,褐马,马鸡,鸡流,流通,通纪,纪念,念币,币二,二枚"
+    }
+  ]
+}

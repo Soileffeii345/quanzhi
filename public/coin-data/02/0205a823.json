@@ -1,0 +1,31 @@
+{
+  "coinName": "1980年奥运会8克精制金币",
+  "slug": "0205a823",
+  "saleCount": 1,
+  "keywords": "金,币,1980年,8克,奥运,年第,第届,届冬,冬季,季奥,运会,会男,男子,子滑,滑降,降克,克精,精制,制金,金币,评级",
+  "priceStats": {
+    "low": 7900,
+    "high": 7900,
+    "avg": 7900,
+    "latest": 7900
+  },
+  "records": [
+    {
+      "coinName": "1980年第13届冬季奥运会-男子滑降8克精制金币",
+      "normalizedBoxCode": "8817480034",
+      "displayBoxCode": "8817480-034",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10405212.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8817480-034/",
+      "price": 7900,
+      "priceWithFee": 8176.5,
+      "transactedAt": "2026-07-16 20:53:25",
+      "productCode": "875609006",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1980年,8克,奥运,年第,第届,届冬,冬季,季奥,运会,会男,男子,子滑,滑降,降克,克精,精制,制金,金币,评级"
+    }
+  ]
+}

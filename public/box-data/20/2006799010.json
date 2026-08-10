@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2006799010",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2006799010",
+      "displayBoxCode": "2006799-010",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "第二版人民币轮船5分",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/dierbanrenminbi/10398326.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2006799-010/",
+      "price": 1640,
+      "priceWithFee": 1771.2,
+      "transactedAt": "2026-07-18 21:25:05",
+      "productCode": "874765001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/874765001B.jpg",
+      "ocrConfidence": 27,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,第二,二版,版人,人民,民币,币轮,轮船,船分"
+    }
+  ]
+}

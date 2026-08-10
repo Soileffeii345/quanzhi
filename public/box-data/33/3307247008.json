@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "3307247008",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "3307247008",
+      "displayBoxCode": "3307247-008",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1989年中国杰出历史人物第（6）组-关汉卿22克精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10412799.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3307247-008/69/",
+      "price": 730,
+      "priceWithFee": 755.55,
+      "transactedAt": "2026-07-20 21:17:10",
+      "productCode": "876670006",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/876670006A.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1989年,22克,年中,中国,国杰,杰出,出历,历史,史人,人物,物第,第组,组关,关汉,汉卿,卿克,克精,精制,制银,银币,评级"
+    }
+  ]
+}

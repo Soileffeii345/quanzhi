@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8659260011",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8659260011",
+      "displayBoxCode": "8659260-011",
+      "gradingCompany": "NGC",
+      "grade": "MS 70",
+      "coinName": "2025年1盎司中国龙银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/561402.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8659260-011/70/",
+      "price": 2800,
+      "priceWithFee": null,
+      "transactedAt": "2026-03-12 09:41:14",
+      "productCode": "KH124084",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260311/large_sell_jlopyvqach6lb1vb.jpg",
+      "ocrConfidence": 38,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2025年,1盎司,年盎,盎司,司中,中国,国龙,龙银,银币"
+    }
+  ]
+}

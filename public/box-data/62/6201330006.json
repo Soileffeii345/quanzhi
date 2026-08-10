@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6201330006",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6201330006",
+      "displayBoxCode": "6201330-006",
+      "gradingCompany": "NGC",
+      "grade": "PF 68 ULTRA CAMEO",
+      "coinName": "2013年5盎司方形生肖蛇银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/521526.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6201330-006/68/",
+      "price": 2500,
+      "priceWithFee": null,
+      "transactedAt": "2025-12-17 23:11:57",
+      "productCode": "KH095531",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251217/large_sell_go6mubfiwlxhry8i.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2013年,5盎司,生肖,年盎,盎司,司方,方形,形生,肖蛇,蛇银,银币"
+    }
+  ]
+}

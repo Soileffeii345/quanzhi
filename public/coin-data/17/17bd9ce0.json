@@ -1,0 +1,31 @@
+{
+  "coinName": "2012年熊猫15.552克金币",
+  "slug": "17bd9ce0",
+  "saleCount": 1,
+  "keywords": "金,币,2012年,2盎司,熊猫,年盎,盎司,司熊,猫金,金币",
+  "priceStats": {
+    "low": 12345,
+    "high": 12345,
+    "avg": 12345,
+    "latest": 12345
+  },
+  "records": [
+    {
+      "coinName": "2012年1/2盎司熊猫金币",
+      "normalizedBoxCode": "24488997",
+      "displayBoxCode": "24488997",
+      "gradingCompany": "PCGS",
+      "grade": "MS69",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/485030.html",
+      "officialCertUrl": "https://cn.pcgs.com/cert/24488997",
+      "price": 12345,
+      "priceWithFee": null,
+      "transactedAt": "2025-06-23 13:54:12",
+      "productCode": "KH071458",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2012年,2盎司,熊猫,年盎,盎司,司熊,猫金,金币"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4418861077",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4418861077",
+      "displayBoxCode": "4418861-077",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2015年乙未羊年生肖1盎司精制彩银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10381111.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4418861-077/69/",
+      "price": 600,
+      "priceWithFee": 621,
+      "transactedAt": "2026-07-06 20:05:30",
+      "productCode": "872386016",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/27/872386016A.jpg",
+      "ocrConfidence": 38,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2015年,1盎司,生肖,年乙,乙未,未羊,羊年,年生,肖盎,盎司,司精,精制,制彩,彩银,银币,评级"
+    }
+  ]
+}

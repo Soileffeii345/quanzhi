@@ -1,0 +1,31 @@
+{
+  "coinName": "1994年麒麟5盎司精制银币",
+  "slug": "5baebcb9",
+  "saleCount": 1,
+  "keywords": "银,币,1994年,5盎司,年麒,麒麟,麟盎,盎司,司精,精制,制银,银币,评级",
+  "priceStats": {
+    "low": 8100,
+    "high": 8100,
+    "avg": 8100,
+    "latest": 8100
+  },
+  "records": [
+    {
+      "coinName": "1994年麒麟5盎司精制银币",
+      "normalizedBoxCode": "8757322002",
+      "displayBoxCode": "8757322-002",
+      "gradingCompany": "NGC",
+      "grade": "PF 68 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10387356.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8757322-002/68/",
+      "price": 8100,
+      "priceWithFee": 8383.5,
+      "transactedAt": "2026-07-09 20:52:45",
+      "productCode": "873643002",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1994年,5盎司,年麒,麒麟,麟盎,盎司,司精,精制,制银,银币,评级"
+    }
+  ]
+}

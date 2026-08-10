@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8176189001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8176189001",
+      "displayBoxCode": "8176189-001",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2024年吉祥文化-十全十美15克精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10369680.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8176189-001/",
+      "price": 490,
+      "priceWithFee": 507.15,
+      "transactedAt": "2026-06-27 20:55:05",
+      "productCode": "871206009",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/26/871206009A.jpg",
+      "ocrConfidence": 42,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2024年,15克,吉祥文化,年吉,吉祥,祥文,文化,化十,十全,全十,十美,美克,克精,精制,制银,银币,评级"
+    }
+  ]
+}

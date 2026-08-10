@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8505700048",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8505700048",
+      "displayBoxCode": "8505700-048",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2002年中国京剧艺术第（4）组-挑滑车5盎司精制彩银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10397624.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8505700-048/69/",
+      "price": 3000,
+      "priceWithFee": 3105,
+      "transactedAt": "2026-07-16 20:15:05",
+      "productCode": "874841014",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/874841014A.jpg",
+      "ocrConfidence": 39,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2002年,5盎司,戏曲,年中,中国,国京,京剧,剧艺,艺术,术第,第组,组挑,挑滑,滑车,车盎,盎司,司精,精制,制彩,彩银,银币,评级"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8519505003",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8519505003",
+      "displayBoxCode": "8519505-003",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1987年熊猫1/20盎司普制金币（S版）",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-jiujin/10390815.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8519505-003/",
+      "price": 1740,
+      "priceWithFee": 1800.9,
+      "transactedAt": "2026-07-09 21:43:25",
+      "productCode": "873930010",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/27/873930010A.jpg",
+      "ocrConfidence": 30,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1987年,20盎司,熊猫,年熊,猫盎,盎司,司普,普制,制金,金币,币版"
+    }
+  ]
+}

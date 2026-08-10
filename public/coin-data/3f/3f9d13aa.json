@@ -1,0 +1,48 @@
+{
+  "coinName": "2006年31.104克银币",
+  "slug": "3f9d13aa",
+  "saleCount": 2,
+  "keywords": "银,币,2006年,1盎司,年盎,盎司,司岳,岳麓,麓书,书院,院银,银币",
+  "priceStats": {
+    "low": 660,
+    "high": 660,
+    "avg": 660,
+    "latest": 660
+  },
+  "records": [
+    {
+      "coinName": "2006年1盎司岳麓书院银币",
+      "normalizedBoxCode": "81831200",
+      "displayBoxCode": "81831200",
+      "gradingCompany": "PCGS",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/518409.html",
+      "officialCertUrl": "https://cn.pcgs.com/cert/81831200",
+      "price": 660,
+      "priceWithFee": null,
+      "transactedAt": "2025-12-23 18:12:37",
+      "productCode": "KH095220",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2006年,1盎司,年盎,盎司,司岳,岳麓,麓书,书院,院银,银币"
+    },
+    {
+      "coinName": "2006年1盎司岳麓书院银币",
+      "normalizedBoxCode": "8183127032",
+      "displayBoxCode": "8183127-032",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/518409.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8183127-032/69/",
+      "price": 660,
+      "priceWithFee": null,
+      "transactedAt": "2025-12-23 18:12:37",
+      "productCode": "KH095220",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2006年,1盎司,年盎,盎司,司岳,岳麓,麓书,书院,院银,银币"
+    }
+  ]
+}

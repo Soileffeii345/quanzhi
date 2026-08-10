@@ -1,0 +1,31 @@
+{
+  "coinName": "1988年20克银币",
+  "slug": "36e150a9",
+  "saleCount": 1,
+  "keywords": "银,币,1988年,20克,年澳,澳大,大利,利亚,亚菲,菲利,利普,普总,总督,督登,登陆,陆帆,帆船,船克,克银,银币,外国/特区",
+  "priceStats": {
+    "low": 490,
+    "high": 490,
+    "avg": 490,
+    "latest": 490
+  },
+  "records": [
+    {
+      "coinName": "1988年澳大利亚菲利普总督登陆帆船20克银币",
+      "normalizedBoxCode": "8504637035",
+      "displayBoxCode": "8504637-035",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/wgjsbizhang/10354148.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8504637-035/",
+      "price": 490,
+      "priceWithFee": 519.4,
+      "transactedAt": "2026-06-19 20:30:45",
+      "productCode": "869380009",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1988年,20克,年澳,澳大,大利,利亚,亚菲,菲利,利普,普总,总督,督登,登陆,陆帆,帆船,船克,克银,银币,外国/特区"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "coinName": "1993年银币",
+  "slug": "4a641366",
+  "saleCount": 2,
+  "keywords": "银,1993年,年香,香港,港渣,渣打,打银,银行,行拾,拾圆,外国/特区,币,宗教,年美,美国,国托,托马,马斯,斯杰,杰佛,佛逊,逊银,银币",
+  "priceStats": {
+    "low": 130,
+    "high": 580,
+    "avg": 355,
+    "latest": 130
+  },
+  "records": [
+    {
+      "coinName": "1993年香港渣打银行拾圆",
+      "normalizedBoxCode": "1874356038",
+      "displayBoxCode": "1874356-038",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xianggangzhichao/10420621.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1874356-038/",
+      "price": 130,
+      "priceWithFee": 144.3,
+      "transactedAt": "2026-07-25 19:15:10",
+      "productCode": "877014006",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,1993年,年香,香港,港渣,渣打,打银,银行,行拾,拾圆,外国/特区"
+    },
+    {
+      "coinName": "1993年美国托马斯杰佛逊银币",
+      "normalizedBoxCode": "1974702018",
+      "displayBoxCode": "1974702-018",
+      "gradingCompany": "NGC",
+      "grade": "MS 70",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/424636.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1974702-018/70/",
+      "price": 580,
+      "priceWithFee": null,
+      "transactedAt": "2024-04-05 15:26:49",
+      "productCode": "AA471384",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1993年,宗教,年美,美国,国托,托马,马斯,斯杰,杰佛,佛逊,逊银,银币,外国/特区"
+    }
+  ]
+}

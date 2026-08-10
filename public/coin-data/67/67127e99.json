@@ -1,0 +1,65 @@
+{
+  "coinName": "1980年15克精制银币",
+  "slug": "67127e99",
+  "saleCount": 3,
+  "keywords": "银,币,1980年,15克,年中,中国,国奥,奥林,林匹,匹克,克委,委员,员会,会古,古代,代蹴,蹴鞠,鞠克,克精,精制,制银,银币,评级,鞠古,代马,马术,术克,币各,各一,一枚,枚共,共二,二枚",
+  "priceStats": {
+    "low": 580,
+    "high": 1180,
+    "avg": 797,
+    "latest": 630
+  },
+  "records": [
+    {
+      "coinName": "1980年中国奥林匹克委员会-古代蹴鞠15克精制银币",
+      "normalizedBoxCode": "4417353014",
+      "displayBoxCode": "4417353-014",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10358648.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4417353-014/",
+      "price": 630,
+      "priceWithFee": 652.05,
+      "transactedAt": "2026-06-22 21:59:40",
+      "productCode": "870090003",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1980年,15克,年中,中国,国奥,奥林,林匹,匹克,克委,委员,员会,会古,古代,代蹴,蹴鞠,鞠克,克精,精制,制银,银币,评级"
+    },
+    {
+      "coinName": "1980年中国奥林匹克委员会-古代蹴鞠、古代马术15克精制银币各一枚，共二枚",
+      "normalizedBoxCode": "6877199012",
+      "displayBoxCode": "6877199-012",
+      "gradingCompany": "NGC",
+      "grade": "PF 67 CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10357816.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6877199-012/67/",
+      "price": 1180,
+      "priceWithFee": 1221.3,
+      "transactedAt": "2026-06-22 21:31:10",
+      "productCode": "869778004",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1980年,15克,年中,中国,国奥,奥林,林匹,匹克,克委,委员,员会,会古,古代,代蹴,蹴鞠,鞠古,代马,马术,术克,克精,精制,制银,银币,币各,各一,一枚,枚共,共二,二枚,评级"
+    },
+    {
+      "coinName": "1980年中国奥林匹克委员会-古代蹴鞠15克精制银币",
+      "normalizedBoxCode": "8776012003",
+      "displayBoxCode": "8776012-003",
+      "gradingCompany": "NGC",
+      "grade": "PF 67 CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10356893.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8776012-003/67/",
+      "price": 580,
+      "priceWithFee": 600.3,
+      "transactedAt": "2026-06-29 21:18:05",
+      "productCode": "869817001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1980年,15克,年中,中国,国奥,奥林,林匹,匹克,克委,委员,员会,会古,古代,代蹴,蹴鞠,鞠克,克精,精制,制银,银币,评级"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "3805390013",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "3805390013",
+      "displayBoxCode": "3805390-013",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1998年1/4盎司熊猫金币(小字版)",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/476032.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3805390-013/",
+      "price": 23400,
+      "priceWithFee": null,
+      "transactedAt": "2025-05-01 08:41:22",
+      "productCode": "KH065613",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250430/large_sell_w3nbxcyzq2dq7dpf.jpg",
+      "ocrConfidence": 49,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1998年,4盎司,熊猫,年盎,盎司,司熊,猫金,金币,币小,小字,字版"
+    }
+  ]
+}

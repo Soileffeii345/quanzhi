@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8179699009",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8179699009",
+      "displayBoxCode": "8179699-009",
+      "gradingCompany": "NGC",
+      "grade": "PF 67 ULTRA CAMEO",
+      "coinName": "1985年乙丑牛年-福牛银章",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10431423.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8179699-009/67/",
+      "price": 790,
+      "priceWithFee": 817.65,
+      "transactedAt": "2026-07-27 20:16:10",
+      "productCode": "878757017",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/878757017A.jpg",
+      "ocrConfidence": 45,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,章,1985年,生肖,年乙,乙丑,丑牛,牛年,年福,福牛,牛银,银章"
+    }
+  ]
+}

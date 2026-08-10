@@ -1,0 +1,48 @@
+{
+  "coinName": "2021年3克金币",
+  "slug": "28aa954e",
+  "saleCount": 2,
+  "keywords": "金,币,2021年,3克,年克,克联,联合,合国,国生,生物,物多,多样,样性,性大,大会,会金,金币",
+  "priceStats": {
+    "low": 2120,
+    "high": 3090,
+    "avg": 2605,
+    "latest": 3090
+  },
+  "records": [
+    {
+      "coinName": "2021年3克联合国生物多样性大会金币",
+      "normalizedBoxCode": "8182461001",
+      "displayBoxCode": "8182461-001",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/523766.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8182461-001/",
+      "price": 3090,
+      "priceWithFee": null,
+      "transactedAt": "2025-12-23 10:52:21",
+      "productCode": "KH097350",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2021年,3克,年克,克联,联合,合国,国生,生物,物多,多样,样性,性大,大会,会金,金币"
+    },
+    {
+      "coinName": "2021年3克联合国生物多样性大会金币",
+      "normalizedBoxCode": "8501616009",
+      "displayBoxCode": "8501616-009",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/469423.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8501616-009/",
+      "price": 2120,
+      "priceWithFee": null,
+      "transactedAt": "2025-03-21 12:27:58",
+      "productCode": "AA555704",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2021年,3克,年克,克联,联合,合国,国生,生物,物多,多样,样性,性大,大会,会金,金币"
+    }
+  ]
+}

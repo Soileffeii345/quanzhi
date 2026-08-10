@@ -1,100 +1,73 @@
-# vinext-starter
+# 泉知 Quanzhi
 
-A clean full-stack starter running on
-[vinext](https://github.com/cloudflare/vinext), with optional Cloudflare D1 and
-Drizzle support.
+泉知是一款面向评级币收藏者的跨平台成交查询产品。用户可以输入钱币名称或 NGC / PCGS 评级盒号，也可以上传评级盒标签照片，查看经过核验的历史成交、价格趋势、评级差异和原始交易证据。
 
-## Prerequisites
+## 产品能力
 
-- Node.js `>=22.13.0`
+- 评级盒号精确查询与官方证书入口
+- 币名关键词、模糊匹配和搜索建议
+- 图片 OCR 识别盒号，并要求用户逐位确认
+- 历史成交、价格趋势、评级和平台对比
+- 日期、价格及交易状态筛选
+- CSV 导出、搜索历史和本地收藏
+- 首页、币种详情、收藏和数据库浏览页面
+- 静态数据优先加载，API 后台补充
 
-## Quick Start
+## 数据口径
+
+公开成交必须通过发布规则，并包含完整盒号、成交时间和可回溯证据链接。首页统计由生成后的数据清单读取，不在页面中写死。
+
+截至 2026-08-10 的本地审计结果：
+
+- 8,097 条经原交易页复核的成交
+- 7,817 个唯一评级盒号
+- 2,136 个归一化币种
+- 917 条在售记录（单独统计，不计入已成交）
+
+数据来自平台公开页面，仅用于信息检索和历史比较，不构成投资建议。
+
+## 本地运行
 
 ```bash
 npm install
 npm run dev
-npm run build
 ```
 
-This starter does not use `wrangler.jsonc`.
+## 质量检查
 
-## Included Shape
-
-- edit site code under `app/`
-- `.openai/hosting.json` declares optional Sites D1 and R2 bindings
-- `vite.config.ts` simulates declared bindings for local development
-- `db/schema.ts` starts intentionally empty
-- `examples/d1/` contains an optional D1 example surface
-- `drizzle.config.ts` supports local migration generation when needed
-
-## Workspace Auth Headers
-
-Signed-in visitors receive both `oai-authenticated-user-id` and `oai-authenticated-user-email`. Private Sites require every visitor to sign in; public Sites may also have anonymous visitors, for whom neither header is present.
-
-The user ID is stable for the same user on the same Site and different across Sites. Email and name are intended for display or contact purposes.
-
-SIWC-authenticated workspace sites may also receive
-`oai-authenticated-user-full-name` when the user's SIWC profile has a non-empty
-`name` claim. The full-name value is percent-encoded UTF-8 and is accompanied by
-`oai-authenticated-user-full-name-encoding: percent-encoded-utf-8`.
-
-Treat the full name as optional and fall back to email when it is absent:
-
-```tsx
-import { headers } from "next/headers";
-
-export default async function Home() {
-  const requestHeaders = await headers();
-  const userId = requestHeaders.get("oai-authenticated-user-id");
-  const email = requestHeaders.get("oai-authenticated-user-email");
-  const encodedFullName = requestHeaders.get("oai-authenticated-user-full-name");
-  const fullName =
-    encodedFullName &&
-    requestHeaders.get("oai-authenticated-user-full-name-encoding") ===
-      "percent-encoded-utf-8"
-      ? decodeURIComponent(encodedFullName)
-      : null;
-
-  const displayName = fullName ?? email;
-  // ...
-}
+```bash
+npm run data:audit
+npm run lint
+npm test
 ```
 
-## Optional Dispatch-Owned ChatGPT Sign-In
+`npm test` 会先执行生产构建，再验证首页服务端渲染和发布数据清单的一致性。
 
-Import the ready-to-use helpers from `app/chatgpt-auth.ts` when the site needs
-optional or required ChatGPT sign-in:
+## 数据更新
 
-- Use `getChatGPTUser()` for optional signed-in UI.
-- Use `requireChatGPTUser(returnTo)` for server-rendered pages that should send
-  anonymous visitors through Sign in with ChatGPT.
-- Use `chatGPTSignInPath(returnTo)` and `chatGPTSignOutPath(returnTo)` for
-  browser links or actions.
-- Pass a same-origin relative `returnTo` path for the destination after sign-in
-  or sign-out. The helper validates and safely encodes it.
-- Mark protected pages with `export const dynamic = "force-dynamic"` because
-  they depend on per-request identity headers.
+```bash
+npm run data:update
+```
 
-Dispatch owns `/signin-with-chatgpt`, `/signout-with-chatgpt`, `/callback`, the
-OAuth cookies, and identity header injection. Do not implement app routes for
-those reserved paths. Routes that do not import and call the helper remain
-anonymous-compatible.
+完整静态导出可运行：
 
-SIWC establishes identity only; it does not prove workspace membership. Use the
-Sites hosting platform's access policy controls for workspace-wide restrictions,
-or enforce explicit server-side membership or allowlist checks.
+```bash
+npm run data:export
+```
 
-Use SIWC for account pages, user-specific dashboards, saved records, and write
-actions tied to the current ChatGPT user. Leave public content anonymous.
+该命令先审计 SQLite 数据，再重新生成盒号索引、币种索引和数据库浏览页。
 
-## Useful Commands
+## 技术结构
 
-- `npm run dev`: start local development
-- `npm run build`: verify the vinext build output
-- `npm test`: build the starter and verify its rendered loading skeleton
-- `npm run db:generate`: generate Drizzle migrations after schema changes
+- Next.js 16、React 19、Vinext
+- SQLite 数据处理与静态 JSON 发布层
+- Tesseract.js 浏览器端 OCR
+- GitHub Actions 自动化
+- Cloudflare Workers / R2 数据备份与部署链路
 
-## Learn More
+## 项目原则
 
-- [vinext Documentation](https://github.com/cloudflare/vinext)
-- [Drizzle D1 Guide](https://orm.drizzle.team/docs/get-started/d1-new)
+1. 证据优先：没有可回溯证据的记录不进入可信成交统计。
+2. 口径一致：首页、详情、导出与数据库页使用同一发布规则。
+3. 不制造估值：展示历史样本、时间和样本量，不用单一价格替代用户判断。
+4. 失败可恢复：数据更新失败时保留上一版可用数据和运行记录。

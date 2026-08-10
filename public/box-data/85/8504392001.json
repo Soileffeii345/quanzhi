@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8504392001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8504392001",
+      "displayBoxCode": "8504392-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2015年纽埃招财金蟾镶嵌水晶立体彩印1盎司镀金银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/wgjsbizhang/10365715.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8504392-001/69/",
+      "price": 1200,
+      "priceWithFee": 1272,
+      "transactedAt": "2026-06-26 20:23:55",
+      "productCode": "870452021",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/26/870452021A.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,2015年,1盎司,年纽,纽埃,埃招,招财,财金,金蟾,蟾镶,镶嵌,嵌水,水晶,晶立,立体,体彩,彩印,印盎,盎司,司镀,镀金,金银,银币"
+    }
+  ]
+}

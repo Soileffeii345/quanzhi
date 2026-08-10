@@ -1,0 +1,31 @@
+{
+  "coinName": "咸丰八年大清宝钞贰千",
+  "slug": "60038f3a",
+  "saleCount": 1,
+  "keywords": "钞,历史币,咸丰,丰八,八年,年大,大清,清宝,宝钞,钞贰,贰千",
+  "priceStats": {
+    "low": 4500,
+    "high": 4500,
+    "avg": 4500,
+    "latest": 4500
+  },
+  "records": [
+    {
+      "coinName": "咸丰八年大清宝钞贰千",
+      "normalizedBoxCode": "2399738001",
+      "displayBoxCode": "2399738-001",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/mingqingzhichao/10379469.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2399738-001/",
+      "price": 4500,
+      "priceWithFee": 4995,
+      "transactedAt": "2026-07-23 20:50:10",
+      "productCode": "871871002",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,历史币,咸丰,丰八,八年,年大,大清,清宝,宝钞,钞贰,贰千"
+    }
+  ]
+}

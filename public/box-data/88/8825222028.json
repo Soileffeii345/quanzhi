@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8825222028",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8825222028",
+      "displayBoxCode": "8825222-028",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2026年国家宝藏（融合交流）3克精制金币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10389822.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8825222-028/",
+      "price": 4450,
+      "priceWithFee": 4605.75,
+      "transactedAt": "2026-07-06 22:40:45",
+      "productCode": "873744013",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/27/873744013A.jpg",
+      "ocrConfidence": 45,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2026年,3克,年国,国家,家宝,宝藏,藏融,融合,合交,交流,流克,克精,精制,制金,金币,评级"
+    }
+  ]
+}

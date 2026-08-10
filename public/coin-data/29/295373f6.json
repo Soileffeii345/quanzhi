@@ -1,0 +1,31 @@
+{
+  "coinName": "1994年中国古代名画15.552克精制金币",
+  "slug": "295373f6",
+  "saleCount": 1,
+  "keywords": "金,币,1994年,2盎司,年中,中国,国古,古代,代名,名画,画婴,婴戏,戏图,图盎,盎司,司精,精制,制金,金币,币二,二枚,枚一,一套,评级",
+  "priceStats": {
+    "low": 82000,
+    "high": 82000,
+    "avg": 82000,
+    "latest": 82000
+  },
+  "records": [
+    {
+      "coinName": "1994年中国古代名画婴戏图1/2盎司精制金币二枚一套",
+      "normalizedBoxCode": "6741659007",
+      "displayBoxCode": "6741659-007",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10390828.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6741659-007/69/",
+      "price": 82000,
+      "priceWithFee": 84870,
+      "transactedAt": "2026-07-09 21:34:45",
+      "productCode": "873930023",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1994年,2盎司,年中,中国,国古,古代,代名,名画,画婴,婴戏,戏图,图盎,盎司,司精,精制,制金,金币,币二,二枚,枚一,一套,评级"
+    }
+  ]
+}

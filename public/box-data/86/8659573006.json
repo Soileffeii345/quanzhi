@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8659573006",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8659573006",
+      "displayBoxCode": "8659573-006",
+      "gradingCompany": "NGC",
+      "grade": "MS 68",
+      "coinName": "1964年中国硬币贰分",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10359581.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8659573-006/68/",
+      "price": 75,
+      "priceWithFee": 81,
+      "transactedAt": "2026-06-24 21:49:25",
+      "productCode": "870469006",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/870469006A.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1964年,年中,中国,国硬,硬币,币贰,贰分"
+    }
+  ]
+}

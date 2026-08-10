@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8197758005",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8197758005",
+      "displayBoxCode": "8197758-005",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2003年1/2盎司西游记第1组彩金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/495933.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8197758-005/69/",
+      "price": 12230,
+      "priceWithFee": null,
+      "transactedAt": "2025-08-22 18:01:40",
+      "productCode": "KH079623",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250822/large_sell_zifdcfjaqfzz9wpo.jpg",
+      "ocrConfidence": 57,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2003年,2盎司,年盎,盎司,司西,西游,游记,记第,第组,组彩,彩金,金币"
+    }
+  ]
+}

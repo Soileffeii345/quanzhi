@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6723551039",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6723551039",
+      "displayBoxCode": "6723551-039",
+      "gradingCompany": "NGC",
+      "grade": "MS 67",
+      "coinName": "1974年中国硬币壹分",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10415741.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6723551-039/67/",
+      "price": 95,
+      "priceWithFee": 102.6,
+      "transactedAt": "2026-07-22 20:01:45",
+      "productCode": "876760001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/876760001A.jpg",
+      "ocrConfidence": 29,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1974年,年中,中国,国硬,硬币,币壹,壹分"
+    }
+  ]
+}

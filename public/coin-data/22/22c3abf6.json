@@ -1,0 +1,31 @@
+{
+  "coinName": "湖南省造光绪元宝十文铜币、民国河南省造十文铜币、民国当十铜币",
+  "slug": "22c3abf6",
+  "saleCount": 1,
+  "keywords": "铜,币,历史币,龙洋,龙,元宝,湖南,南省,省造,造光,光绪,绪元,宝十,十文,文铜,铜币,币民,民国,国河,河南,造十,国当,当十,十铜,币各,各一,一枚,枚共,共三,三枚",
+  "priceStats": {
+    "low": 210,
+    "high": 210,
+    "avg": 210,
+    "latest": 210
+  },
+  "records": [
+    {
+      "coinName": "湖南省造光绪元宝十文铜币、民国河南省造十文铜币、民国当十铜币各一枚，共三枚",
+      "normalizedBoxCode": "6616193019",
+      "displayBoxCode": "6616193-019",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguojindaijizhibi/10379268.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6616193-019/",
+      "price": 210,
+      "priceWithFee": 226.8,
+      "transactedAt": "2026-07-20 19:38:05",
+      "productCode": "871965001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "铜,币,历史币,龙洋,龙,元宝,湖南,南省,省造,造光,光绪,绪元,宝十,十文,文铜,铜币,币民,民国,国河,河南,造十,国当,当十,十铜,币各,各一,一枚,枚共,共三,三枚"
+    }
+  ]
+}

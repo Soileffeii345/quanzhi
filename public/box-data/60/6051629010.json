@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6051629010",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6051629010",
+      "displayBoxCode": "6051629-010",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2001年西藏和平解放50周年1/2盎司精制金币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10379360.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6051629-010/70/",
+      "price": 15000,
+      "priceWithFee": 15525,
+      "transactedAt": "2026-07-02 20:54:50",
+      "productCode": "872407012",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/27/872407012A.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2001年,2盎司,年西,西藏,藏和,和平,平解,解放,放周,周年,年盎,盎司,司精,精制,制金,金币,评级"
+    }
+  ]
+}

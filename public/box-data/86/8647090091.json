@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8647090091",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8647090091",
+      "displayBoxCode": "8647090-091",
+      "gradingCompany": "NGC",
+      "grade": "PF 68 ULTRA CAMEO",
+      "coinName": "1986年中国杰出历史人物第（3）组-蔡伦22克精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10397409.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8647090-091/68/",
+      "price": 510,
+      "priceWithFee": 527.85,
+      "transactedAt": "2026-07-13 21:17:15",
+      "productCode": "874839008",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/874839008A.jpg",
+      "ocrConfidence": 40,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1986年,22克,年中,中国,国杰,杰出,出历,历史,史人,人物,物第,第组,组蔡,蔡伦,伦克,克精,精制,制银,银币,评级"
+    }
+  ]
+}

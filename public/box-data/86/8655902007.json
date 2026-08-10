@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8655902007",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8655902007",
+      "displayBoxCode": "8655902-007",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2025年中国电影诞生120周年30克精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10354365.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8655902-007/70/",
+      "price": 980,
+      "priceWithFee": 1014.3,
+      "transactedAt": "2026-06-20 21:20:05",
+      "productCode": "869814007",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/869814007A.jpg",
+      "ocrConfidence": 40,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2025年,30克,年中,中国,国电,电影,影诞,诞生,生周,周年,年克,克精,精制,制银,银币,评级"
+    }
+  ]
+}

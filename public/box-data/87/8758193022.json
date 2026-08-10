@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8758193022",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8758193022",
+      "displayBoxCode": "8758193-022",
+      "gradingCompany": "NGC",
+      "grade": "PF 68 ULTRA CAMEO",
+      "coinName": "1995年中国传统文化第（1）组-六合塔1/10盎司精制金币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10356008.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8758193-022/68/",
+      "price": 3550,
+      "priceWithFee": 3674.25,
+      "transactedAt": "2026-06-25 20:49:35",
+      "productCode": "869853009",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/869853009A.jpg",
+      "ocrConfidence": 38,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1995年,10盎司,年中,中国,国传,传统,统文,文化,化第,第组,组六,六合,合塔,塔盎,盎司,司精,精制,制金,金币,评级"
+    }
+  ]
+}

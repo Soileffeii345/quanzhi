@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8656825004",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8656825004",
+      "displayBoxCode": "8656825-004",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2025年国家宝藏（统一气象）15克长方形精制金币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10379037.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8656825-004/",
+      "price": 24500,
+      "priceWithFee": 25357.5,
+      "transactedAt": "2026-07-02 20:44:10",
+      "productCode": "872401004",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/27/872401004A.jpg",
+      "ocrConfidence": 39,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2025年,15克,年国,国家,家宝,宝藏,藏统,统一,一气,气象,象克,克长,长方,方形,形精,精制,制金,金币,评级"
+    }
+  ]
+}

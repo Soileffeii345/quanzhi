@@ -1,0 +1,31 @@
+{
+  "coinName": "1990年熊猫15.552克精制铂金币",
+  "slug": "05974afc",
+  "saleCount": 1,
+  "keywords": "金,贵金属,币,1990年,2盎司,熊猫,年熊,猫盎,盎司,司盎,司精,精制,制铂,铂金,金币,币各,各一,一枚,枚共,共三,三枚,评级",
+  "priceStats": {
+    "low": 16600,
+    "high": 16600,
+    "avg": 16600,
+    "latest": 16600
+  },
+  "records": [
+    {
+      "coinName": "1990年熊猫1/2盎司、1/4盎司、1/10盎司精制铂金币各一枚，共三枚",
+      "normalizedBoxCode": "8817036042",
+      "displayBoxCode": "8817036-042",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-nianjiyiqian/10376844.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8817036-042/69/",
+      "price": 16600,
+      "priceWithFee": 17181,
+      "transactedAt": "2026-07-02 21:22:10",
+      "productCode": "872113005",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,贵金属,币,1990年,2盎司,熊猫,年熊,猫盎,盎司,司盎,司精,精制,制铂,铂金,金币,币各,各一,一枚,枚共,共三,三枚,评级"
+    }
+  ]
+}

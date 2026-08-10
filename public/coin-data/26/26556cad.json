@@ -1,0 +1,31 @@
+{
+  "coinName": "2020年3克金币",
+  "slug": "26556cad",
+  "saleCount": 1,
+  "keywords": "金,币,2020年,3克,年克,克紫,紫禁,禁城,城建,建成,成年,年金,金币",
+  "priceStats": {
+    "low": 2530,
+    "high": 2530,
+    "avg": 2530,
+    "latest": 2530
+  },
+  "records": [
+    {
+      "coinName": "2020年3克紫禁城建成600年金币",
+      "normalizedBoxCode": "6003497005",
+      "displayBoxCode": "6003497-005",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/500320.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6003497-005/70/",
+      "price": 2530,
+      "priceWithFee": null,
+      "transactedAt": "2025-09-14 16:02:33",
+      "productCode": "KH083557",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2020年,3克,年克,克紫,紫禁,禁城,城建,建成,成年,年金,金币"
+    }
+  ]
+}

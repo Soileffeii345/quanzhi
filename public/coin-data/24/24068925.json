@@ -1,0 +1,65 @@
+{
+  "coinName": "1995年3.11克精制金币",
+  "slug": "24068925",
+  "saleCount": 3,
+  "keywords": "金,币,1995年,10盎司,年中,中国,国传,传统,统文,文化,化第,第组,组孟,孟子,子盎,盎司,司精,精制,制金,金币,评级,组唐,唐太,太宗,宗盎,组六,六合,合塔,塔盎",
+  "priceStats": {
+    "low": 3550,
+    "high": 4200,
+    "avg": 3933,
+    "latest": 4200
+  },
+  "records": [
+    {
+      "coinName": "1995年中国传统文化第（1）组-孟子1/10盎司精制金币",
+      "normalizedBoxCode": "8758193018",
+      "displayBoxCode": "8758193-018",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10356010.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8758193-018/",
+      "price": 4200,
+      "priceWithFee": 4347,
+      "transactedAt": "2026-06-25 20:50:35",
+      "productCode": "869853011",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1995年,10盎司,年中,中国,国传,传统,统文,文化,化第,第组,组孟,孟子,子盎,盎司,司精,精制,制金,金币,评级"
+    },
+    {
+      "coinName": "1995年中国传统文化第（1）组-唐太宗1/10盎司精制金币",
+      "normalizedBoxCode": "8758193021",
+      "displayBoxCode": "8758193-021",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10356009.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8758193-021/69/",
+      "price": 4050,
+      "priceWithFee": 4191.75,
+      "transactedAt": "2026-06-25 20:50:05",
+      "productCode": "869853010",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1995年,10盎司,年中,中国,国传,传统,统文,文化,化第,第组,组唐,唐太,太宗,宗盎,盎司,司精,精制,制金,金币,评级"
+    },
+    {
+      "coinName": "1995年中国传统文化第（1）组-六合塔1/10盎司精制金币",
+      "normalizedBoxCode": "8758193022",
+      "displayBoxCode": "8758193-022",
+      "gradingCompany": "NGC",
+      "grade": "PF 68 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10356008.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8758193-022/68/",
+      "price": 3550,
+      "priceWithFee": 3674.25,
+      "transactedAt": "2026-06-25 20:49:35",
+      "productCode": "869853009",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1995年,10盎司,年中,中国,国传,传统,统文,文化,化第,第组,组六,六合,合塔,塔盎,盎司,司精,精制,制金,金币,评级"
+    }
+  ]
+}

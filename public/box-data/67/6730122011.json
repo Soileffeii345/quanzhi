@@ -1,0 +1,45 @@
+{
+  "ok": true,
+  "query": "6730122011",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6730122011",
+      "displayBoxCode": "6730122-011",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2016年8克吉祥文化五福拱寿金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/523795.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6730122-011/",
+      "price": 8235,
+      "priceWithFee": null,
+      "transactedAt": "2025-12-23 11:26:56",
+      "productCode": "KH097358",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251223/large_sell_5eux4g5p1kbo8guk.jpg",
+      "ocrConfidence": 51,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2016年,8克,吉祥文化,年克,克吉,吉祥,祥文,文化,化五,五福,福拱,拱寿,寿金,金币"
+    },
+    {
+      "normalizedBoxCode": "6730122011",
+      "displayBoxCode": "6730122-011",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2016年8克吉祥文化金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/502362.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6730122-011/70/",
+      "price": 27345,
+      "priceWithFee": null,
+      "transactedAt": "2025-09-25 21:45:45",
+      "productCode": "KH084819",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250924/large_sell_1ibj8pjfygxz2lkn.jpg",
+      "ocrConfidence": 48,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2016年,8克,吉祥文化,年克,克吉,吉祥,祥文,文化,化金,金币"
+    }
+  ]
+}

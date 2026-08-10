@@ -1,0 +1,65 @@
+{
+  "coinName": "第一版人民币立交桥20元",
+  "slug": "30aa389e",
+  "saleCount": 3,
+  "keywords": "币,第一,一版,版人,人民,民币,币立,立交,交桥,桥元",
+  "priceStats": {
+    "low": 5100,
+    "high": 10200,
+    "avg": 7100,
+    "latest": 5100
+  },
+  "records": [
+    {
+      "coinName": "第一版人民币立交桥20元",
+      "normalizedBoxCode": "1989549003",
+      "displayBoxCode": "1989549-003",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/diyibanrenminbi/10358665.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1989549-003/",
+      "price": 5100,
+      "priceWithFee": 5610,
+      "transactedAt": "2026-06-27 20:53:55",
+      "productCode": "870138012",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,第一,一版,版人,人民,民币,币立,立交,交桥,桥元"
+    },
+    {
+      "coinName": "第一版人民币立交桥20元",
+      "normalizedBoxCode": "2120742001",
+      "displayBoxCode": "2120742-001",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/diyibanrenminbi/10402824.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2120742-001/",
+      "price": 10200,
+      "priceWithFee": 11220,
+      "transactedAt": "2026-07-23 20:25:40",
+      "productCode": "875132003",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,第一,一版,版人,人民,民币,币立,立交,交桥,桥元"
+    },
+    {
+      "coinName": "第一版人民币立交桥20元",
+      "normalizedBoxCode": "8036624012",
+      "displayBoxCode": "8036624-012",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/diyibanrenminbi/10350389.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8036624-012/",
+      "price": 6000,
+      "priceWithFee": 6600,
+      "transactedAt": "2026-06-23 21:16:25",
+      "productCode": "869422001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,第一,一版,版人,人民,民币,币立,立交,交桥,桥元"
+    }
+  ]
+}

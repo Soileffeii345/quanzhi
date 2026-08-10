@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2018228087",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2018228087",
+      "displayBoxCode": "2018228-087",
+      "gradingCompany": "NGC",
+      "grade": "PF 69",
+      "coinName": "1993年1/3盎司第15届世界杯足球赛金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/537877.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2018228-087/69/",
+      "price": 11815,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-25 10:15:58",
+      "productCode": "KH112898",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260125/large_sell_v2lrpfwo7lbehiht.jpg",
+      "ocrConfidence": 48,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1993年,3盎司,年盎,盎司,司第,第届,届世,世界,界杯,杯足,足球,球赛,赛金,金币"
+    }
+  ]
+}

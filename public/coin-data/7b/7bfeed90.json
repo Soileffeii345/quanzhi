@@ -1,0 +1,31 @@
+{
+  "coinName": "2003年生肖31.104克精制银币",
+  "slug": "7bfeed90",
+  "saleCount": 1,
+  "keywords": "银,币,2003年,1盎司,生肖,年癸,癸未,未羊,羊年,年生,肖盎,盎司,司精,精制,制彩,彩银,银币,评级",
+  "priceStats": {
+    "low": 1120,
+    "high": 1120,
+    "avg": 1120,
+    "latest": 1120
+  },
+  "records": [
+    {
+      "coinName": "2003年癸未羊年生肖1盎司精制彩银币",
+      "normalizedBoxCode": "6233300008",
+      "displayBoxCode": "6233300-008",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10377231.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6233300-008/70/",
+      "price": 1120,
+      "priceWithFee": 1159.2,
+      "transactedAt": "2026-07-06 19:34:40",
+      "productCode": "871787001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2003年,1盎司,生肖,年癸,癸未,未羊,羊年,年生,肖盎,盎司,司精,精制,制彩,彩银,银币,评级"
+    }
+  ]
+}

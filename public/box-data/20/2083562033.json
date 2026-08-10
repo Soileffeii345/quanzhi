@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2083562033",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2083562033",
+      "displayBoxCode": "2083562-033",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1999年建国50周年纪念钞50元",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/liantichao-jinianchao/10396879.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2083562-033/",
+      "price": 360,
+      "priceWithFee": 388.8,
+      "transactedAt": "2026-07-16 19:37:40",
+      "productCode": "874439002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/874439002B.jpg",
+      "ocrConfidence": 30,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,1999年,重大事件,年建,建国,国周,周年,年纪,纪念,念钞,钞元"
+    }
+  ]
+}

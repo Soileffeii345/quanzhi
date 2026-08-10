@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6400833050",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6400833050",
+      "displayBoxCode": "6400833-050",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1995年1盎司香港回归第1组银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/554718.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6400833-050/",
+      "price": 1000,
+      "priceWithFee": null,
+      "transactedAt": "2026-02-13 09:21:37",
+      "productCode": "AA622306",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260212/large_sell_nvt6j3x5umqx4stw.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1995年,1盎司,年盎,盎司,司香,香港,港回,回归,归第,第组,组银,银币,外国/特区"
+    }
+  ]
+}

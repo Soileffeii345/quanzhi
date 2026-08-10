@@ -1,0 +1,31 @@
+{
+  "coinName": "2024年生肖20克金币",
+  "slug": "3e3b5255",
+  "saleCount": 1,
+  "keywords": "金,章,2024年,20克,生肖,年克,克生,肖龙,龙仿,仿古,古方,方孔,孔金,金章",
+  "priceStats": {
+    "low": 12600,
+    "high": 12600,
+    "avg": 12600,
+    "latest": 12600
+  },
+  "records": [
+    {
+      "coinName": "2024年20克生肖龙仿古方孔金章",
+      "normalizedBoxCode": "8175789003",
+      "displayBoxCode": "8175789-003",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/455647.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8175789-003/70/",
+      "price": 12600,
+      "priceWithFee": null,
+      "transactedAt": "2024-12-02 22:19:09",
+      "productCode": "KH057727",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,章,2024年,20克,生肖,年克,克生,肖龙,龙仿,仿古,古方,方孔,孔金,金章"
+    }
+  ]
+}

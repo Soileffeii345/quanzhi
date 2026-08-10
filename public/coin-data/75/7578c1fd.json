@@ -1,0 +1,31 @@
+{
+  "coinName": "第四套/第四版人民币1980年版10元、第三版人民币1元",
+  "slug": "7578c1fd",
+  "saleCount": 1,
+  "keywords": "币,1980年,第四,四套,套第,四版,版人,人民,民币,币年,年版,版元,元第,第三,三版,币元,元各,各一,一枚,枚共,共二,二枚",
+  "priceStats": {
+    "low": 150,
+    "high": 150,
+    "avg": 150,
+    "latest": 150
+  },
+  "records": [
+    {
+      "coinName": "第四套/第四版人民币1980年版10元、第三版人民币1元各一枚，共二枚",
+      "normalizedBoxCode": "2328927046",
+      "displayBoxCode": "2328927-046",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/disibanrenminbi/10377586.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2328927-046/",
+      "price": 150,
+      "priceWithFee": 162,
+      "transactedAt": "2026-07-04 19:56:45",
+      "productCode": "871951006",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1980年,第四,四套,套第,四版,版人,人民,民币,币年,年版,版元,元第,第三,三版,币元,元各,各一,一枚,枚共,共二,二枚"
+    }
+  ]
+}

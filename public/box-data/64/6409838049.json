@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6409838049",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6409838049",
+      "displayBoxCode": "6409838-049",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2022年吉祥文化-龙凤呈祥30克精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10429744.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6409838-049/70/",
+      "price": 1020,
+      "priceWithFee": 1055.7,
+      "transactedAt": "2026-07-27 19:52:10",
+      "productCode": "878496004",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/878496004A.jpg",
+      "ocrConfidence": 40,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2022年,30克,吉祥文化,年吉,吉祥,祥文,文化,化龙,龙凤,凤呈,呈祥,祥克,克精,精制,制银,银币,评级"
+    }
+  ]
+}

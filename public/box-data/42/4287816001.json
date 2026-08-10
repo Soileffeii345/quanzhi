@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4287816001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4287816001",
+      "displayBoxCode": "4287816-001",
+      "gradingCompany": "NGC",
+      "grade": "PF69 CAMEO",
+      "coinName": "1979年1/2盎司建国30周年毛主席纪念堂金币(CA/无标)",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/505743.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4287816-001/69/",
+      "price": 14970,
+      "priceWithFee": null,
+      "transactedAt": "2025-10-15 14:49:47",
+      "productCode": "KH087361",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251015/large_sell_airio3jm1smlhach.jpg",
+      "ocrConfidence": 46,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1979年,2盎司,重大事件,年盎,盎司,司建,建国,国周,周年,年毛,毛主,主席,席纪,纪念,念堂,堂金,金币,币无,无标"
+    }
+  ]
+}

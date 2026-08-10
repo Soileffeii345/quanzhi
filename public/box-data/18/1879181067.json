@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "1879181067",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "1879181067",
+      "displayBoxCode": "1879181-067",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "第一版人民币红火车50元正反面票样各一枚",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/diyibanrenminbi/10355770.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1879181-067/",
+      "price": 4300,
+      "priceWithFee": 4730,
+      "transactedAt": "2026-06-25 21:05:40",
+      "productCode": "869562003",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/869562003B.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,钞,第一,一版,版人,人民,民币,币红,红火,火车,车元,元正,正反,反面,面票,票样,样各,各一,一枚"
+    }
+  ]
+}

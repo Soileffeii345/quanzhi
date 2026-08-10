@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2034641021",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2034641021",
+      "displayBoxCode": "2034641-021",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1981年香港渣打银行拾圆",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xianggangzhichao/10420619.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2034641-021/",
+      "price": 140,
+      "priceWithFee": 155.4,
+      "transactedAt": "2026-07-25 20:35:40",
+      "productCode": "877014004",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/877014004B.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,1981年,年香,香港,港渣,渣打,打银,银行,行拾,拾圆,外国/特区"
+    }
+  ]
+}

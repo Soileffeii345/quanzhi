@@ -1,0 +1,31 @@
+{
+  "coinName": "1991年熊猫31.104克金币",
+  "slug": "527666c6",
+  "saleCount": 1,
+  "keywords": "金,币,1991年,1盎司,熊猫,年盎,盎司,司熊,猫金,金币,币发,发行,行周,周年,年金",
+  "priceStats": {
+    "low": 39600,
+    "high": 39600,
+    "avg": 39600,
+    "latest": 39600
+  },
+  "records": [
+    {
+      "coinName": "1991年1盎司熊猫金币发行10周年金币",
+      "normalizedBoxCode": "4802333001",
+      "displayBoxCode": "4802333-001",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/520506.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4802333-001/",
+      "price": 39600,
+      "priceWithFee": null,
+      "transactedAt": "2026-02-28 21:00:30",
+      "productCode": "KH120734",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1991年,1盎司,熊猫,年盎,盎司,司熊,猫金,金币,币发,发行,行周,周年,年金"
+    }
+  ]
+}

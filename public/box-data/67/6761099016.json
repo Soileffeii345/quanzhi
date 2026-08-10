@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6761099016",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6761099016",
+      "displayBoxCode": "6761099-016",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2023年乍得2盎司灵山大佛&quot;镀金&quot;银币(镜佛版)",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/518112.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6761099-016/",
+      "price": 1350,
+      "priceWithFee": null,
+      "transactedAt": "2025-12-28 17:49:20",
+      "productCode": "AA600673",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251206/large_sell_m6kjjlcgetqin5jj.jpg",
+      "ocrConfidence": 32,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,2023年,2盎司,宗教,年乍,乍得,得盎,盎司,司灵,灵山,山大,大佛,佛镀,镀金,金银,银币,币镜,镜佛,佛版"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "coinName": "1987年内蒙古自治区成立40周年纪念币",
+  "slug": "5f32e3ee",
+  "saleCount": 4,
+  "keywords": "币,1987年,年内,内蒙,蒙古,古自,自治,治区,区成,成立,立周,周年,年纪,纪念,念币",
+  "priceStats": {
+    "low": 240,
+    "high": 290,
+    "avg": 273,
+    "latest": 240
+  },
+  "records": [
+    {
+      "coinName": "1987年内蒙古自治区成立40周年纪念币",
+      "normalizedBoxCode": "6334072031",
+      "displayBoxCode": "6334072-031",
+      "gradingCompany": "NGC",
+      "grade": "MS 66",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/423479.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6334072-031/66/",
+      "price": 240,
+      "priceWithFee": null,
+      "transactedAt": "2024-03-30 06:01:17",
+      "productCode": "KH053194",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1987年,年内,内蒙,蒙古,古自,自治,治区,区成,成立,立周,周年,年纪,纪念,念币"
+    },
+    {
+      "coinName": "1987年内蒙古自治区成立40周年纪念币",
+      "normalizedBoxCode": "6403809039",
+      "displayBoxCode": "6403809-039",
+      "gradingCompany": "NGC",
+      "grade": "MS 66",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/421688.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6403809-039/66/",
+      "price": 290,
+      "priceWithFee": null,
+      "transactedAt": "2024-03-16 19:57:35",
+      "productCode": "KH052618",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1987年,年内,内蒙,蒙古,古自,自治,治区,区成,成立,立周,周年,年纪,纪念,念币"
+    },
+    {
+      "coinName": "1987年内蒙古自治区成立40周年纪念币",
+      "normalizedBoxCode": "6753307006",
+      "displayBoxCode": "6753307-006",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/423480.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6753307-006/66/",
+      "price": 280,
+      "priceWithFee": null,
+      "transactedAt": "2024-03-29 00:06:14",
+      "productCode": "KH053195",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1987年,年内,内蒙,蒙古,古自,自治,治区,区成,成立,立周,周年,年纪,纪念,念币"
+    },
+    {
+      "coinName": "1987年内蒙古自治区成立40周年纪念币",
+      "normalizedBoxCode": "6753307908",
+      "displayBoxCode": "6753307-908",
+      "gradingCompany": "NGC",
+      "grade": "MS 66",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/423480.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6753307-908/66/",
+      "price": 280,
+      "priceWithFee": null,
+      "transactedAt": "2024-03-29 00:06:14",
+      "productCode": "KH053195",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1987年,年内,内蒙,蒙古,古自,自治,治区,区成,成立,立周,周年,年纪,纪念,念币"
+    }
+  ]
+}

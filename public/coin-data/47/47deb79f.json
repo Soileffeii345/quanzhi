@@ -1,0 +1,31 @@
+{
+  "coinName": "1989年15.552克金币",
+  "slug": "47deb79f",
+  "saleCount": 1,
+  "keywords": "金,币,章,1989年,2盎司,年盎,盎司,司香,香港,港钱,钱币,币展,展销,销会,会金,金章,外国/特区",
+  "priceStats": {
+    "low": 13355,
+    "high": 13355,
+    "avg": 13355,
+    "latest": 13355
+  },
+  "records": [
+    {
+      "coinName": "1989年1/2盎司香港钱币展销会金章",
+      "normalizedBoxCode": "4290758001",
+      "displayBoxCode": "4290758-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/502223.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4290758-001/69/",
+      "price": 13355,
+      "priceWithFee": null,
+      "transactedAt": "2025-09-25 17:20:28",
+      "productCode": "KH084957",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,章,1989年,2盎司,年盎,盎司,司香,香港,港钱,钱币,币展,展销,销会,会金,金章,外国/特区"
+    }
+  ]
+}

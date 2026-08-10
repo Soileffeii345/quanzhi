@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6394848034",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6394848034",
+      "displayBoxCode": "6394848-034",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1995年联合国成立50周年流通纪念币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10417595.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6394848-034/",
+      "price": 40,
+      "priceWithFee": 43.2,
+      "transactedAt": "2026-07-22 19:37:35",
+      "productCode": "877052007",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/877052007A.jpg",
+      "ocrConfidence": 43,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1995年,年联,联合,合国,国成,成立,立周,周年,年流,流通,通纪,纪念,念币"
+    }
+  ]
+}

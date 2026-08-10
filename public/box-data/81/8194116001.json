@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8194116001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8194116001",
+      "displayBoxCode": "8194116-001",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2002年1/2盎司龙门石窟金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/581443.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8194116-001/",
+      "price": 32200,
+      "priceWithFee": null,
+      "transactedAt": "2026-05-17 20:32:38",
+      "productCode": "KH135116",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260517/large_sell_taiqevbq1rgfzbrl.jpg",
+      "ocrConfidence": 30,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2002年,2盎司,年盎,盎司,司龙,龙门,门石,石窟,窟金,金币"
+    }
+  ]
+}

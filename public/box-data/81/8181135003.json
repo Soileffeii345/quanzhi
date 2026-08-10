@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8181135003",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8181135003",
+      "displayBoxCode": "8181135-003",
+      "gradingCompany": "NGC",
+      "grade": "PF70 ULTRA CAMEO",
+      "coinName": "2024年8克方形纸币千年金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/500978.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8181135-003/70/",
+      "price": 10200,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-05 13:53:46",
+      "productCode": "KH101264",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250917/large_sell_cwvd9xbfzrrw83gc.jpg",
+      "ocrConfidence": 58,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2024年,8克,年克,克方,方形,形纸,纸币,币千,千年,年金,金币"
+    }
+  ]
+}

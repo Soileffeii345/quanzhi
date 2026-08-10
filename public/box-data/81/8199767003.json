@@ -1,0 +1,45 @@
+{
+  "ok": true,
+  "query": "8199767003",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8199767003",
+      "displayBoxCode": "8199767-003",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2021年5克第24届冬奥会第2组剪纸喜鹊金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/505100.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8199767-003/70/",
+      "price": 4970,
+      "priceWithFee": null,
+      "transactedAt": "2025-10-17 19:58:40",
+      "productCode": "KH084795A",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250907/large_sell_mak8owcwhrbqhrcy.jpg",
+      "ocrConfidence": 45,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2021年,5克,奥运,年克,克第,第届,届冬,冬奥,奥会,会第,第组,组剪,剪纸,纸喜,喜鹊,鹊金,金币"
+    },
+    {
+      "normalizedBoxCode": "8199767003",
+      "displayBoxCode": "8199767-003",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2021年5克第24届冬奥会第2组剪纸喜鹊金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/498962.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8199767-003/70/",
+      "price": 4345,
+      "priceWithFee": null,
+      "transactedAt": "2025-09-24 20:37:10",
+      "productCode": "KH084795",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250907/large_sell_mak8owcwhrbqhrcy.jpg",
+      "ocrConfidence": 45,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2021年,5克,奥运,年克,克第,第届,届冬,冬奥,奥会,会第,第组,组剪,剪纸,纸喜,喜鹊,鹊金,金币"
+    }
+  ]
+}

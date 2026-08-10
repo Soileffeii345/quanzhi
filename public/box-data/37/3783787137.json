@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "3783787137",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "3783787137",
+      "displayBoxCode": "3783787-137",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "coinName": "2007年1盎司熊猫银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/508528.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3783787-137/69/",
+      "price": 390,
+      "priceWithFee": null,
+      "transactedAt": "2025-11-02 20:06:11",
+      "productCode": "KH089589",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251025/large_sell_ldbqilrnzovr4rgw.jpg",
+      "ocrConfidence": 47,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2007年,1盎司,熊猫,年盎,盎司,司熊,猫银,银币"
+    }
+  ]
+}

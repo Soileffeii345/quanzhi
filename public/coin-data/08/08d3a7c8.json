@@ -1,0 +1,31 @@
+{
+  "coinName": "1993年31.104克银币",
+  "slug": "08d3a7c8",
+  "saleCount": 1,
+  "keywords": "银,币,1993年,1盎司,年盎,盎司,司孔,孔雀,雀开,开屏,屏银,银币",
+  "priceStats": {
+    "low": 2950,
+    "high": 2950,
+    "avg": 2950,
+    "latest": 2950
+  },
+  "records": [
+    {
+      "coinName": "1993年1盎司孔雀开屏银币",
+      "normalizedBoxCode": "4290461007",
+      "displayBoxCode": "4290461-007",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/308359.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4290461-007/69/",
+      "price": 2950,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-26 11:56:28",
+      "productCode": "KH109278",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1993年,1盎司,年盎,盎司,司孔,孔雀,雀开,开屏,屏银,银币"
+    }
+  ]
+}

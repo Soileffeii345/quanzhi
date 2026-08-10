@@ -1,0 +1,65 @@
+{
+  "coinName": "2011年31.104克银币",
+  "slug": "2a3f193a",
+  "saleCount": 3,
+  "keywords": "银,币,2011年,1盎司,年盎,盎司,司登,登封,封天,天地,地之,之中,中银,银币,司辛,辛亥,亥革,革命,命周,周年,年银",
+  "priceStats": {
+    "low": 350,
+    "high": 780,
+    "avg": 510,
+    "latest": 350
+  },
+  "records": [
+    {
+      "coinName": "2011年1盎司登封&quot;天地之中&quot;银币",
+      "normalizedBoxCode": "3362303024",
+      "displayBoxCode": "3362303-024",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/480144.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3362303-024/69/",
+      "price": 350,
+      "priceWithFee": null,
+      "transactedAt": "2025-06-19 11:57:00",
+      "productCode": "AA564307",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2011年,1盎司,年盎,盎司,司登,登封,封天,天地,地之,之中,中银,银币"
+    },
+    {
+      "coinName": "2011年1盎司登封&quot;天地之中&quot;银币",
+      "normalizedBoxCode": "8240358065",
+      "displayBoxCode": "8240358-065",
+      "gradingCompany": "NGC",
+      "grade": "PF69 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/506962.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8240358-065/69/",
+      "price": 400,
+      "priceWithFee": null,
+      "transactedAt": "2025-10-27 13:37:50",
+      "productCode": "AA591354",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2011年,1盎司,年盎,盎司,司登,登封,封天,天地,地之,之中,中银,银币"
+    },
+    {
+      "coinName": "2011年1盎司辛亥革命100周年银币",
+      "normalizedBoxCode": "8761122068",
+      "displayBoxCode": "8761122-068",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/590932.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8761122-068/69/",
+      "price": 780,
+      "priceWithFee": null,
+      "transactedAt": "2026-06-19 09:39:18",
+      "productCode": "KH139333",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2011年,1盎司,年盎,盎司,司辛,辛亥,亥革,革命,命周,周年,年银,银币"
+    }
+  ]
+}

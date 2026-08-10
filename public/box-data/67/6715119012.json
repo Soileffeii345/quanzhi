@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6715119012",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6715119012",
+      "displayBoxCode": "6715119-012",
+      "gradingCompany": "NGC",
+      "grade": "PF70",
+      "coinName": "2013年生肖蛇金银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/518902.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6715119-012/70/",
+      "price": 3800,
+      "priceWithFee": null,
+      "transactedAt": "2025-12-12 01:21:59",
+      "productCode": "KH094330",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251210/large_sell_bsxuehmj4f4cmbqx.jpg",
+      "ocrConfidence": 47,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,2013年,生肖,年生,肖蛇,蛇金,金银,银币"
+    }
+  ]
+}

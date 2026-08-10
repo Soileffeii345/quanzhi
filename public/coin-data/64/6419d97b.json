@@ -1,0 +1,31 @@
+{
+  "coinName": "2021年吉祥文化60克精制银币",
+  "slug": "6419d97b",
+  "saleCount": 1,
+  "keywords": "银,币,2021年,60克,吉祥文化,年吉,吉祥,祥文,文化,化寸,寸草,草春,春晖,晖克,克精,精制,制银,银币,评级",
+  "priceStats": {
+    "low": 1560,
+    "high": 1560,
+    "avg": 1560,
+    "latest": 1560
+  },
+  "records": [
+    {
+      "coinName": "2021年吉祥文化-寸草春晖60克精制银币",
+      "normalizedBoxCode": "8761123005",
+      "displayBoxCode": "8761123-005",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10363182.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8761123-005/69/",
+      "price": 1560,
+      "priceWithFee": 1614.6,
+      "transactedAt": "2026-06-27 21:18:05",
+      "productCode": "870614011",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2021年,60克,吉祥文化,年吉,吉祥,祥文,文化,化寸,寸草,草春,春晖,晖克,克精,精制,制银,银币,评级"
+    }
+  ]
+}

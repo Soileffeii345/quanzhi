@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6044862007",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6044862007",
+      "displayBoxCode": "6044862-007",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2007年1公斤第29届奥运会第2组赛龙舟彩银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/486045.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6044862-007/69/",
+      "price": 9000,
+      "priceWithFee": null,
+      "transactedAt": "2025-07-14 12:59:50",
+      "productCode": "DB200927",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250629/large_sell_ax7nctrif3we6k4s.jpg",
+      "ocrConfidence": 32,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2007年,1公斤,奥运,年公,公斤,斤第,第届,届奥,运会,会第,第组,组赛,赛龙,龙舟,舟彩,彩银,银币"
+    }
+  ]
+}

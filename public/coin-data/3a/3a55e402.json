@@ -1,0 +1,31 @@
+{
+  "coinName": "1980年奥运会24克加厚铜币",
+  "slug": "3a55e402",
+  "saleCount": 1,
+  "keywords": "铜,币,1980年,24克,奥运,年第,第届,届冬,冬季,季奥,运会,会男,男子,子现,现代,代冬,季两,两项,项克,克加,加厚,厚铜,铜币",
+  "priceStats": {
+    "low": 1520,
+    "high": 1520,
+    "avg": 1520,
+    "latest": 1520
+  },
+  "records": [
+    {
+      "coinName": "1980年第13届冬季奥运会-男子现代冬季两项24克加厚铜币",
+      "normalizedBoxCode": "4637185001",
+      "displayBoxCode": "4637185-001",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-tong/10396046.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4637185-001/",
+      "price": 1520,
+      "priceWithFee": 1573.2,
+      "transactedAt": "2026-07-13 20:05:35",
+      "productCode": "874693001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "铜,币,1980年,24克,奥运,年第,第届,届冬,冬季,季奥,运会,会男,男子,子现,现代,代冬,季两,两项,项克,克加,加厚,厚铜,铜币"
+    }
+  ]
+}

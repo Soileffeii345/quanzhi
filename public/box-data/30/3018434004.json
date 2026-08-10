@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "3018434004",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "3018434004",
+      "displayBoxCode": "3018434-004",
+      "gradingCompany": "NGC",
+      "grade": "PF 67 ULTRA CAMEO",
+      "coinName": "1979年国际儿童年-儿童浇花1/2盎司精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10386212.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3018434-004/67/",
+      "price": 3650,
+      "priceWithFee": 3777.75,
+      "transactedAt": "2026-07-09 20:05:25",
+      "productCode": "873355001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/27/873355001A.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1979年,2盎司,年国,国际,际儿,儿童,童年,年儿,童浇,浇花,花盎,盎司,司精,精制,制银,银币,评级"
+    }
+  ]
+}

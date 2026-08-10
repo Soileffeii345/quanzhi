@@ -1,0 +1,31 @@
+{
+  "coinName": "2007年生肖31.104克银币",
+  "slug": "56ffe2a0",
+  "saleCount": 1,
+  "keywords": "银,币,2007年,1盎司,生肖,年盎,盎司,司梅,梅花,花形,形生,肖猪,猪银,银币",
+  "priceStats": {
+    "low": 900,
+    "high": 900,
+    "avg": 900,
+    "latest": 900
+  },
+  "records": [
+    {
+      "coinName": "2007年1盎司梅花形生肖猪银币",
+      "normalizedBoxCode": "8653296019",
+      "displayBoxCode": "8653296-019",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/566599.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8653296-019/69/",
+      "price": 900,
+      "priceWithFee": null,
+      "transactedAt": "2026-03-26 12:36:15",
+      "productCode": "KH126598",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2007年,1盎司,生肖,年盎,盎司,司梅,梅花,花形,形生,肖猪,猪银,银币"
+    }
+  ]
+}

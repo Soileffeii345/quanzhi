@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "3777265013",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "3777265013",
+      "displayBoxCode": "3777265-013",
+      "gradingCompany": "NGC",
+      "grade": "PF70 ULTRA CAMEO",
+      "coinName": "1986年22克历史人物第3组张衡银币(UC)",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/480155.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3777265-013/70/",
+      "price": 800,
+      "priceWithFee": null,
+      "transactedAt": "2025-05-30 17:44:25",
+      "productCode": "AA564313",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250528/large_sell_af6ime198lk8zivs.jpg",
+      "ocrConfidence": 32,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1986年,22克,年克,克历,历史,史人,人物,物第,第组,组张,张衡,衡银,银币"
+    }
+  ]
+}

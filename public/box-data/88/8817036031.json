@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8817036031",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8817036031",
+      "displayBoxCode": "8817036-031",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2018年戊戌狗年生肖30克精制彩银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10372455.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8817036-031/69/",
+      "price": 570,
+      "priceWithFee": 589.95,
+      "transactedAt": "2026-06-29 20:55:35",
+      "productCode": "871489008",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/26/871489008A.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2018年,30克,生肖,年戊,戊戌,戌狗,狗年,年生,肖克,克精,精制,制彩,彩银,银币,评级"
+    }
+  ]
+}

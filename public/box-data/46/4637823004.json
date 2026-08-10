@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4637823004",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4637823004",
+      "displayBoxCode": "4637823-004",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2019年英国24克加厚银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/wgjsbizhang/10377796.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4637823-004/69/",
+      "price": 1020,
+      "priceWithFee": 1081.2,
+      "transactedAt": "2026-07-03 19:35:55",
+      "productCode": "871997002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/26/871997002A.jpg",
+      "ocrConfidence": 47,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2019年,24克,年英,英国,国克,克加,加厚,厚银,银币,外国/特区"
+    }
+  ]
+}

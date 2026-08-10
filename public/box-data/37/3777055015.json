@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "3777055015",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "3777055015",
+      "displayBoxCode": "3777055-015",
+      "gradingCompany": "NGC",
+      "grade": "MS 70",
+      "coinName": "2013年1盎司熊猫银币 X5",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/524152.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3777055-015/70/",
+      "price": 2910,
+      "priceWithFee": null,
+      "transactedAt": "2025-12-24 16:14:20",
+      "productCode": "KH097835.....97839",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251224/large_sell_wyjt3dv5fvtawfcw.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2013年,1盎司,熊猫,年盎,盎司,司熊,猫银,银币"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "ok": true,
+  "query": "8188485047",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8188485047",
+      "displayBoxCode": "8188485-047",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2005年1盎司郑和下西洋彩银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/538463.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8188485-047/",
+      "price": 950,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-29 04:48:48",
+      "productCode": "AA605903A",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251229/large_sell_yeopyoyfuaj5pkaf.jpg",
+      "ocrConfidence": 29,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2005年,1盎司,年盎,盎司,司郑,郑和,和下,下西,西洋,洋彩,彩银,银币"
+    },
+    {
+      "normalizedBoxCode": "8188485047",
+      "displayBoxCode": "8188485-047",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2005年1盎司郑和下西洋彩银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/525690.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8188485-047/",
+      "price": 900,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-26 16:53:46",
+      "productCode": "AA605903",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251229/large_sell_yeopyoyfuaj5pkaf.jpg",
+      "ocrConfidence": 29,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2005年,1盎司,年盎,盎司,司郑,郑和,和下,下西,西洋,洋彩,彩银,银币"
+    }
+  ]
+}

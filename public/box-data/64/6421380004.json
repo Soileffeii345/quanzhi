@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6421380004",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6421380004",
+      "displayBoxCode": "6421380-004",
+      "gradingCompany": "NGC",
+      "grade": "PF69 ULTRA CAMEO",
+      "coinName": "1999年中华人民共和国成立50周年精制流通纪念币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10357825.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6421380-004/69/",
+      "price": 340,
+      "priceWithFee": 367.2,
+      "transactedAt": "2026-06-24 21:06:45",
+      "productCode": "869767009",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/869767009A.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1999年,年中,中华,华人,人民,民共,共和,和国,国成,成立,立周,周年,年精,精制,制流,流通,通纪,纪念,念币,评级"
+    }
+  ]
+}

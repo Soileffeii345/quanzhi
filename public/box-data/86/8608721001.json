@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8608721001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8608721001",
+      "displayBoxCode": "8608721-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2005年乙酉鸡年生肖1/10盎司精制彩金币（错版）",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-jin/10350379.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8608721-001/69/",
+      "price": 17800,
+      "priceWithFee": 18423,
+      "transactedAt": "2026-06-18 21:16:10",
+      "productCode": "869329006",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/869329006A.jpg",
+      "ocrConfidence": 56,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2005年,10盎司,生肖,年乙,乙酉,酉鸡,鸡年,年生,肖盎,盎司,司精,精制,制彩,彩金,金币,币错,错版,评级"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "coinName": "1999年熊猫31.104克普制金币",
+  "slug": "3402f6ce",
+  "saleCount": 1,
+  "keywords": "金,币,1999年,1盎司,熊猫,年熊,猫盎,盎司,司普,普制,制金,金币,币大,大字,字版",
+  "priceStats": {
+    "low": 33000,
+    "high": 33000,
+    "avg": 33000,
+    "latest": 33000
+  },
+  "records": [
+    {
+      "coinName": "1999年熊猫1盎司普制金币（大字版PLAIN1）",
+      "normalizedBoxCode": "8759006005",
+      "displayBoxCode": "8759006-005",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-jiujin/10405178.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8759006-005/69/",
+      "price": 33000,
+      "priceWithFee": 34155,
+      "transactedAt": "2026-07-16 21:17:35",
+      "productCode": "875605006",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1999年,1盎司,熊猫,年熊,猫盎,盎司,司普,普制,制金,金币,币大,大字,字版"
+    }
+  ]
+}

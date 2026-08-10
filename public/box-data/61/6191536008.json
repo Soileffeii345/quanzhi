@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6191536008",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6191536008",
+      "displayBoxCode": "6191536-008",
+      "gradingCompany": "NGC",
+      "grade": "PF 68 ULTRA CAMEO",
+      "coinName": "1995年中国古代科技发明发现第（4）组-瓷器22克精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10388787.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6191536-008/68/",
+      "price": 710,
+      "priceWithFee": 734.85,
+      "transactedAt": "2026-07-06 21:36:45",
+      "productCode": "873740010",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/27/873740010A.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1995年,22克,年中,中国,国古,古代,代科,科技,技发,发明,明发,发现,现第,第组,组瓷,瓷器,器克,克精,精制,制银,银币,评级"
+    }
+  ]
+}

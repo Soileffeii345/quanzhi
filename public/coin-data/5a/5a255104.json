@@ -1,0 +1,31 @@
+{
+  "coinName": "1987年生肖8克金币",
+  "slug": "5a255104",
+  "saleCount": 1,
+  "keywords": "金,币,1987年,8克,生肖,年克,克生,肖兔,兔金,金币",
+  "priceStats": {
+    "low": 16600,
+    "high": 16600,
+    "avg": 16600,
+    "latest": 16600
+  },
+  "records": [
+    {
+      "coinName": "1987年8克生肖兔金币",
+      "normalizedBoxCode": "6725221043",
+      "displayBoxCode": "6725221-043",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/493069.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6725221-043/",
+      "price": 16600,
+      "priceWithFee": null,
+      "transactedAt": "2025-08-24 15:03:41",
+      "productCode": "AA577160",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1987年,8克,生肖,年克,克生,肖兔,兔金,金币"
+    }
+  ]
+}

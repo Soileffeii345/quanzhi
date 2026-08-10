@@ -1,0 +1,45 @@
+{
+  "ok": true,
+  "query": "4315869043",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4315869043",
+      "displayBoxCode": "4315869-043",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2013年1/3盎司扇形生肖蛇金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/498072.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4315869-043/70/",
+      "price": 8600,
+      "priceWithFee": null,
+      "transactedAt": "2025-09-03 07:31:03",
+      "productCode": "KH080791",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250903/large_sell_anpm53zrdbue5ukl.jpg",
+      "ocrConfidence": 53,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2013年,3盎司,生肖,年盎,盎司,司扇,扇形,形生,肖蛇,蛇金,金币"
+    },
+    {
+      "normalizedBoxCode": "4315869043",
+      "displayBoxCode": "4315869-043",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2013年1/3盎司扇形生肖蛇金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/488217.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4315869-043/70/",
+      "price": 8155,
+      "priceWithFee": null,
+      "transactedAt": "2025-07-11 11:16:12",
+      "productCode": "KH073323",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250711/large_sell_tjm8ahq07ccpz9b5.jpg",
+      "ocrConfidence": 58,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2013年,3盎司,生肖,年盎,盎司,司扇,扇形,形生,肖蛇,蛇金,金币"
+    }
+  ]
+}

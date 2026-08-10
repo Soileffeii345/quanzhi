@@ -1,0 +1,82 @@
+{
+  "coinName": "2000年生肖31.104克银币",
+  "slug": "2b66a019",
+  "saleCount": 4,
+  "keywords": "银,币,2000年,1盎司,生肖,年盎,盎司,司生,肖龙,龙彩,彩银,银币,龙银,司扇,扇形,形生",
+  "priceStats": {
+    "low": 1550,
+    "high": 5500,
+    "avg": 3100,
+    "latest": 2650
+  },
+  "records": [
+    {
+      "coinName": "2000年1盎司生肖龙彩银币",
+      "normalizedBoxCode": "4796191004",
+      "displayBoxCode": "4796191-004",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/563452.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4796191-004/70/",
+      "price": 2650,
+      "priceWithFee": null,
+      "transactedAt": "2026-03-18 17:13:18",
+      "productCode": "KH125496",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2000年,1盎司,生肖,年盎,盎司,司生,肖龙,龙彩,彩银,银币"
+    },
+    {
+      "coinName": "2000年1盎司生肖龙银币",
+      "normalizedBoxCode": "4898366003",
+      "displayBoxCode": "4898366-003",
+      "gradingCompany": "NGC",
+      "grade": "MS70",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/444783.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4898366-003/70/",
+      "price": 5500,
+      "priceWithFee": null,
+      "transactedAt": "2026-03-27 11:35:43",
+      "productCode": "KH126977",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2000年,1盎司,生肖,年盎,盎司,司生,肖龙,龙银,银币"
+    },
+    {
+      "coinName": "2000年1盎司扇形生肖龙银币",
+      "normalizedBoxCode": "6202108043",
+      "displayBoxCode": "6202108-043",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/555152.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6202108-043/",
+      "price": 1550,
+      "priceWithFee": null,
+      "transactedAt": "2026-02-27 15:44:24",
+      "productCode": "AA618782A",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2000年,1盎司,生肖,年盎,盎司,司扇,扇形,形生,肖龙,龙银,银币"
+    },
+    {
+      "coinName": "2000年1盎司生肖龙彩银币",
+      "normalizedBoxCode": "8617155027",
+      "displayBoxCode": "8617155-027",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/552535.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8617155-027/",
+      "price": 2700,
+      "priceWithFee": null,
+      "transactedAt": "2026-03-08 08:53:08",
+      "productCode": "KH120053",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2000年,1盎司,生肖,年盎,盎司,司生,肖龙,龙彩,彩银,银币"
+    }
+  ]
+}

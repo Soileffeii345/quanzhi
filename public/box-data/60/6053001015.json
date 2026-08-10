@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6053001015",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6053001015",
+      "displayBoxCode": "6053001-015",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2011年5盎司方形水浒传第3组彩银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/548882.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6053001-015/69/",
+      "price": 4500,
+      "priceWithFee": null,
+      "transactedAt": "2026-02-05 07:13:05",
+      "productCode": "KH115988",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260129/large_sell_5gwzr4s7c6k3cbnu.jpg",
+      "ocrConfidence": 43,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2011年,5盎司,年盎,盎司,司方,方形,形水,水浒,浒传,传第,第组,组彩,彩银,银币"
+    }
+  ]
+}

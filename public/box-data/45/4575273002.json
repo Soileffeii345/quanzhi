@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4575273002",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4575273002",
+      "displayBoxCode": "4575273-002",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2019年己亥猪年生肖30克精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10429750.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4575273-002/",
+      "price": 1100,
+      "priceWithFee": 1138.5,
+      "transactedAt": "2026-07-27 22:07:40",
+      "productCode": "878496010",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/878496010A.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2019年,30克,生肖,年己,己亥,亥猪,猪年,年生,肖克,克精,精制,制银,银币,评级"
+    }
+  ]
+}

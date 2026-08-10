@@ -1,0 +1,48 @@
+{
+  "coinName": "2020年8克金币",
+  "slug": "26582a92",
+  "saleCount": 2,
+  "keywords": "金,币,2020年,8克,年克,克抗,抗美,美援,援朝,朝周,周年,年金,金币",
+  "priceStats": {
+    "low": 6245,
+    "high": 6650,
+    "avg": 6448,
+    "latest": 6245
+  },
+  "records": [
+    {
+      "coinName": "2020年8克抗美援朝70周年金币",
+      "normalizedBoxCode": "5813734010",
+      "displayBoxCode": "5813734-010",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/472721.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/5813734-010/70/",
+      "price": 6245,
+      "priceWithFee": null,
+      "transactedAt": "2025-04-11 16:10:53",
+      "productCode": "KH064151",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2020年,8克,年克,克抗,抗美,美援,援朝,朝周,周年,年金,金币"
+    },
+    {
+      "coinName": "2020年8克抗美援朝70周年金币",
+      "normalizedBoxCode": "8499576004",
+      "displayBoxCode": "8499576-004",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/498067.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8499576-004/70/",
+      "price": 6650,
+      "priceWithFee": null,
+      "transactedAt": "2025-09-03 06:12:13",
+      "productCode": "KH080779",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2020年,8克,年克,克抗,抗美,美援,援朝,朝周,周年,年金,金币"
+    }
+  ]
+}

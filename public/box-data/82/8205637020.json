@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8205637020",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8205637020",
+      "displayBoxCode": "8205637-020",
+      "gradingCompany": "NGC",
+      "grade": "PF70 ULTRA CAMEO",
+      "coinName": "2015年1盎司扇形生肖羊银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/507205.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8205637-020/70/",
+      "price": 540,
+      "priceWithFee": null,
+      "transactedAt": "2025-11-05 16:10:12",
+      "productCode": "AA591556",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251020/large_sell_bwtdoh331ep599uo.jpg",
+      "ocrConfidence": 31,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2015年,1盎司,生肖,年盎,盎司,司扇,扇形,形生,肖羊,羊银,银币"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "3501304016",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "3501304016",
+      "displayBoxCode": "3501304-016",
+      "gradingCompany": "NGC",
+      "grade": "PF 68 ULTRA CAMEO",
+      "coinName": "1987年1/3盎司历史人物第4组李世民金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/471928.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3501304-016/68/",
+      "price": 7520,
+      "priceWithFee": null,
+      "transactedAt": "2025-04-06 17:02:22",
+      "productCode": "KH063746",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250406/large_sell_exojvpj5uwmbyqdw.jpg",
+      "ocrConfidence": 40,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1987年,3盎司,年盎,盎司,司历,历史,史人,人物,物第,第组,组李,李世,世民,民金,金币"
+    }
+  ]
+}

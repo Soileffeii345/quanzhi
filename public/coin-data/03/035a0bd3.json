@@ -1,0 +1,31 @@
+{
+  "coinName": "明治二十二年日本26.96克银币",
+  "slug": "035a0bd3",
+  "saleCount": 1,
+  "keywords": "银,币,26.96克,明治,治二,二十,十二,二年,年日,日本,本克,克银,银币,外国/特区",
+  "priceStats": {
+    "low": 660,
+    "high": 660,
+    "avg": 660,
+    "latest": 660
+  },
+  "records": [
+    {
+      "coinName": "明治二十二年日本26.96克银币",
+      "normalizedBoxCode": "8617354016",
+      "displayBoxCode": "8617354-016",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/wgjsbizhang/10352201.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8617354-016/",
+      "price": 660,
+      "priceWithFee": 699.6,
+      "transactedAt": "2026-06-26 19:05:05",
+      "productCode": "869266018",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,26.96克,明治,治二,二十,十二,二年,年日,日本,本克,克银,银币,外国/特区"
+    }
+  ]
+}

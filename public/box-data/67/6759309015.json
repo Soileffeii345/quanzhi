@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6759309015",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6759309015",
+      "displayBoxCode": "6759309-015",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "1987年韩国1盎司汉城奥运会崇礼门金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/497127.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6759309-015/70/",
+      "price": 25020,
+      "priceWithFee": null,
+      "transactedAt": "2025-08-29 10:08:52",
+      "productCode": "KH080083",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250828/large_sell_nknv1qpmzyru4utf.jpg",
+      "ocrConfidence": 44,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1987年,1盎司,奥运,年韩,韩国,国盎,盎司,司汉,汉城,城奥,运会,会崇,崇礼,礼门,门金,金币"
+    }
+  ]
+}

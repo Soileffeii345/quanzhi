@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6717366031",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6717366031",
+      "displayBoxCode": "6717366-031",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2023年30克大熊猫国家公园彩银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/479174.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6717366-031/70/",
+      "price": 1300,
+      "priceWithFee": null,
+      "transactedAt": "2025-05-23 16:03:06",
+      "productCode": "AA563389",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250523/large_sell_dadgst7vu0vxh0br.jpg",
+      "ocrConfidence": 30,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2023年,30克,熊猫,年克,克大,大熊,猫国,国家,家公,公园,园彩,彩银,银币"
+    }
+  ]
+}

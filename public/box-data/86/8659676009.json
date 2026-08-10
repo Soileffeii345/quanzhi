@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8659676009",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8659676009",
+      "displayBoxCode": "8659676-009",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2003年世界文化遗产-明清故宫精制流通纪念币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10359868.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8659676-009/",
+      "price": 120,
+      "priceWithFee": 129.6,
+      "transactedAt": "2026-06-24 21:14:05",
+      "productCode": "869854054",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/869854054A.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2003年,年世,世界,界文,文化,化遗,遗产,产明,明清,清故,故宫,宫精,精制,制流,流通,通纪,纪念,念币,评级"
+    }
+  ]
+}

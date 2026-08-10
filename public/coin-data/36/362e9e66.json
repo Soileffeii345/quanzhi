@@ -1,0 +1,65 @@
+{
+  "coinName": "2023年生肖30克银币",
+  "slug": "362e9e66",
+  "saleCount": 3,
+  "keywords": "银,币,2023年,30克,生肖,年克,克梅,梅花,花形,形生,肖兔,兔银,银币",
+  "priceStats": {
+    "low": 940,
+    "high": 940,
+    "avg": 940,
+    "latest": 940
+  },
+  "records": [
+    {
+      "coinName": "2023年30克梅花形生肖兔银币",
+      "normalizedBoxCode": "8749712003",
+      "displayBoxCode": "8749712-003",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/574569.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8749712-003/69/",
+      "price": 940,
+      "priceWithFee": null,
+      "transactedAt": "2026-04-21 20:15:40",
+      "productCode": "KH131194",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2023年,30克,生肖,年克,克梅,梅花,花形,形生,肖兔,兔银,银币"
+    },
+    {
+      "coinName": "2023年30克梅花形生肖兔银币",
+      "normalizedBoxCode": "8749712005",
+      "displayBoxCode": "8749712-005",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/574570.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8749712-005/69/",
+      "price": 940,
+      "priceWithFee": null,
+      "transactedAt": "2026-04-21 19:40:32",
+      "productCode": "KH131195",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2023年,30克,生肖,年克,克梅,梅花,花形,形生,肖兔,兔银,银币"
+    },
+    {
+      "coinName": "2023年30克梅花形生肖兔银币",
+      "normalizedBoxCode": "8749712006",
+      "displayBoxCode": "8749712-006",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/574567.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8749712-006/",
+      "price": 940,
+      "priceWithFee": null,
+      "transactedAt": "2026-04-21 18:34:11",
+      "productCode": "KH131192",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2023年,30克,生肖,年克,克梅,梅花,花形,形生,肖兔,兔银,银币"
+    }
+  ]
+}

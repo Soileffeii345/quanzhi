@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2054513020",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2054513020",
+      "displayBoxCode": "2054513-020",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "第四套/第四版人民币1990年版（Dark Blue）、1996年版1元各一枚",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/disibanrenminbi/10427753.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2054513-020/",
+      "price": 210,
+      "priceWithFee": 226.8,
+      "transactedAt": "2026-07-28 20:59:20",
+      "productCode": "878028007",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/878028007B.jpg",
+      "ocrConfidence": 31,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1990年,第四,四套,套第,四版,版人,人民,民币,币年,年版,版年,版元,元各,各一,一枚"
+    }
+  ]
+}

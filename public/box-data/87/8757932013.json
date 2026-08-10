@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8757932013",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8757932013",
+      "displayBoxCode": "8757932-013",
+      "gradingCompany": "NGC",
+      "grade": "PF 63",
+      "coinName": "1995年台湾光复回归祖国50周年1/2盎司精制金币二枚一套",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10361111.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8757932-013/63/",
+      "price": 57000,
+      "priceWithFee": 58995,
+      "transactedAt": "2026-06-25 20:33:05",
+      "productCode": "870518001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/870518001A.jpg",
+      "ocrConfidence": 40,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1995年,2盎司,年台,台湾,湾光,光复,复回,回归,归祖,祖国,国周,周年,年盎,盎司,司精,精制,制金,金币,币二,二枚,枚一,一套,评级"
+    }
+  ]
+}

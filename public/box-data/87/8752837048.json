@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8752837048",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8752837048",
+      "displayBoxCode": "8752837-048",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2004年观音1/10盎司幻彩金币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10417726.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8752837-048/69/",
+      "price": 4400,
+      "priceWithFee": 4554,
+      "transactedAt": "2026-07-23 20:34:15",
+      "productCode": "877176007",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/877176007A.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2004年,10盎司,宗教,年观,观音,音盎,盎司,司幻,幻彩,彩金,金币"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "coinName": "1990年冬奥22.2克银币",
+  "slug": "13dcc47d",
+  "saleCount": 1,
+  "keywords": "银,币,1990年,22.2克,奥运,年法,法国,国阿,阿尔,尔贝,贝维,维尔,尔冬,冬奥,奥会,会雪,雪车,车克,克银,银币,外国/特区",
+  "priceStats": {
+    "low": 570,
+    "high": 570,
+    "avg": 570,
+    "latest": 570
+  },
+  "records": [
+    {
+      "coinName": "1990年法国阿尔贝维尔冬奥会雪车22.2克银币",
+      "normalizedBoxCode": "8504637049",
+      "displayBoxCode": "8504637-049",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/wgjsbizhang/10365698.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8504637-049/69/",
+      "price": 570,
+      "priceWithFee": 604.2,
+      "transactedAt": "2026-06-26 20:19:45",
+      "productCode": "870452004",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1990年,22.2克,奥运,年法,法国,国阿,阿尔,尔贝,贝维,维尔,尔冬,冬奥,奥会,会雪,雪车,车克,克银,银币,外国/特区"
+    }
+  ]
+}

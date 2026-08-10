@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "1061051021",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "1061051021",
+      "displayBoxCode": "1061051-021",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2026年马年生肖纪念钞20元",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/liantichao-jinianchao/10389054.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1061051-021/",
+      "price": 90,
+      "priceWithFee": 97.2,
+      "transactedAt": "2026-07-11 19:09:25",
+      "productCode": "873637118",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/27/873637118A.jpg",
+      "ocrConfidence": 31,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,2026年,生肖,年马,马年,年生,肖纪,纪念,念钞,钞元"
+    }
+  ]
+}

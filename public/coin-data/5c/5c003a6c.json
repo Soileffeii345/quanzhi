@@ -1,0 +1,31 @@
+{
+  "coinName": "1904年德国纸币",
+  "slug": "5c003a6c",
+  "saleCount": 1,
+  "keywords": "币,1904年,年德,德国,国纸,纸币,外国/特区",
+  "priceStats": {
+    "low": 290,
+    "high": 290,
+    "avg": 290,
+    "latest": 290
+  },
+  "records": [
+    {
+      "coinName": "1904年德国纸币",
+      "normalizedBoxCode": "2435482086",
+      "displayBoxCode": "2435482-086",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10371351.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2435482-086/",
+      "price": 290,
+      "priceWithFee": 321.9,
+      "transactedAt": "2026-06-30 22:47:20",
+      "productCode": "871227032",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1904年,年德,德国,国纸,纸币,外国/特区"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6335345001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6335345001",
+      "displayBoxCode": "6335345-001",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2008年1/4盎司交行成立100周年金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/504281.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6335345-001/",
+      "price": 7140,
+      "priceWithFee": null,
+      "transactedAt": "2025-10-09 15:54:33",
+      "productCode": "AA586829A",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250921/large_sell_04x3jukgeac5tgvc.jpg",
+      "ocrConfidence": 30,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2008年,4盎司,年盎,盎司,司交,交行,行成,成立,立周,周年,年金,金币"
+    }
+  ]
+}

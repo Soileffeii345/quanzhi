@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6400375058",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6400375058",
+      "displayBoxCode": "6400375-058",
+      "gradingCompany": "NGC",
+      "grade": "PF70 ULTRA CAMEO",
+      "coinName": "1983年巴布亚新几内亚央行成立10周年9.57克金币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/wgjsbizhang/10415202.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6400375-058/70/",
+      "price": 10400,
+      "priceWithFee": 11024,
+      "transactedAt": "2026-07-24 20:46:45",
+      "productCode": "876743030",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/876743030A.jpg",
+      "ocrConfidence": 32,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1983年,9.57克,年巴,巴布,布亚,亚新,新几,几内,内亚,亚央,央行,行成,成立,立周,周年,年克,克金,金币"
+    }
+  ]
+}

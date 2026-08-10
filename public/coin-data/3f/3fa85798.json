@@ -1,0 +1,31 @@
+{
+  "coinName": "2020年熊猫普制金币",
+  "slug": "3fa85798",
+  "saleCount": 1,
+  "keywords": "金,币,2020年,1克,熊猫,年熊,猫普,普制,制金,金币,币五,五枚,枚一,一套,套含,含克,克克",
+  "priceStats": {
+    "low": 54000,
+    "high": 54000,
+    "avg": 54000,
+    "latest": 54000
+  },
+  "records": [
+    {
+      "coinName": "2020年熊猫普制金币五枚一套（含1克、3克、8克、15克、30克）",
+      "normalizedBoxCode": "5796688103",
+      "displayBoxCode": "5796688-103",
+      "gradingCompany": "NGC",
+      "grade": "MS 70",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-xinjin/10398839.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/5796688-103/70/",
+      "price": 54000,
+      "priceWithFee": 55890,
+      "transactedAt": "2026-07-23 20:55:05",
+      "productCode": "874356029",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2020年,1克,熊猫,年熊,猫普,普制,制金,金币,币五,五枚,枚一,一套,套含,含克,克克"
+    }
+  ]
+}

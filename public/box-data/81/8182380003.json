@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8182380003",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8182380003",
+      "displayBoxCode": "8182380-003",
+      "gradingCompany": "NGC",
+      "grade": "PF70 ULTRA CAMEO",
+      "coinName": "1996年1/2盎司红军长征胜利60周年金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/448670.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8182380-003/70/",
+      "price": 24000,
+      "priceWithFee": null,
+      "transactedAt": "2025-03-10 08:14:09",
+      "productCode": "AA499852A",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20240908/large_sell_tsibpyxghjliqqb7.jpg",
+      "ocrConfidence": 29,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1996年,2盎司,年盎,盎司,司红,红军,军长,长征,征胜,胜利,利周,周年,年金,金币"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8610102110",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8610102110",
+      "displayBoxCode": "8610102-110",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2025年15克国家宝藏长信宫灯银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/491780.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8610102-110/70/",
+      "price": 650,
+      "priceWithFee": null,
+      "transactedAt": "2025-08-04 12:33:46",
+      "productCode": "AA575675",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250730/large_sell_iyilfg0zkoly6bzg.jpg",
+      "ocrConfidence": 32,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2025年,15克,年克,克国,国家,家宝,宝藏,藏长,长信,信宫,宫灯,灯银,银币"
+    }
+  ]
+}

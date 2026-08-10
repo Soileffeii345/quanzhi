@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8651199001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8651199001",
+      "displayBoxCode": "8651199-001",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2019年澳门猪年生肖7.776克精制彩金币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10390206.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8651199-001/",
+      "price": 8700,
+      "priceWithFee": 9004.5,
+      "transactedAt": "2026-07-09 21:27:25",
+      "productCode": "873987002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/873987002A.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2019年,7.776克,生肖,年澳,澳门,门猪,猪年,年生,肖克,克精,精制,制彩,彩金,金币,评级,外国/特区"
+    }
+  ]
+}

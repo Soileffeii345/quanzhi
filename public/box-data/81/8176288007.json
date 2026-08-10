@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8176288007",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8176288007",
+      "displayBoxCode": "8176288-007",
+      "gradingCompany": "NGC",
+      "grade": "MS 66",
+      "coinName": "1988年中国人民银行成立40周年纪念币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/442762.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8176288-007/66/",
+      "price": 2200,
+      "priceWithFee": null,
+      "transactedAt": "2024-08-14 09:08:01",
+      "productCode": "AA493701",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20240726/large_sell_tizqg6ay86fwgh8q.jpg",
+      "ocrConfidence": 37,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1988年,年中,中国,国人,人民,民银,银行,行成,成立,立周,周年,年纪,纪念,念币"
+    }
+  ]
+}

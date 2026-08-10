@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8754710051",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8754710051",
+      "displayBoxCode": "8754710-051",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "coinName": "1995年熊猫1盎司普制银币（粗枝版）",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-jiuyin/10400961.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8754710-051/69/",
+      "price": 730,
+      "priceWithFee": 755.55,
+      "transactedAt": "2026-07-13 20:11:00",
+      "productCode": "875148001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/875148001A.jpg",
+      "ocrConfidence": 31,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1995年,1盎司,熊猫,年熊,猫盎,盎司,司普,普制,制银,银币,币粗,粗枝,枝版"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "coinName": "31.104克不同题材银币若干 X6",
+  "slug": "58b1bc54",
+  "saleCount": 1,
+  "keywords": "银,币,1盎司,盎司,司不,不同,同题,题材,材银,银币,币若,若干",
+  "priceStats": {
+    "low": 5480,
+    "high": 5480,
+    "avg": 5480,
+    "latest": 5480
+  },
+  "records": [
+    {
+      "coinName": "1盎司不同题材银币若干 X6",
+      "normalizedBoxCode": "6173497091",
+      "displayBoxCode": "6173497-091",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/540092.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6173497-091/69/",
+      "price": 5480,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-27 16:35:12",
+      "productCode": "AA615969.....74",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1盎司,盎司,司不,不同,同题,题材,材银,银币,币若,若干"
+    }
+  ]
+}

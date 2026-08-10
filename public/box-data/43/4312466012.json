@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4312466012",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4312466012",
+      "displayBoxCode": "4312466-012",
+      "gradingCompany": "NGC",
+      "grade": "Ms69",
+      "coinName": "1996年1/20盎司麒麟金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/474433.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4312466-012/69/",
+      "price": 1350,
+      "priceWithFee": null,
+      "transactedAt": "2025-08-04 19:54:40",
+      "productCode": "KH069551",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250421/large_sell_c5rrqt2uwzt88tuu.jpg",
+      "ocrConfidence": 54,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1996年,20盎司,年盎,盎司,司麒,麒麟,麟金,金币"
+    }
+  ]
+}

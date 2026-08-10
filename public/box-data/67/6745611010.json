@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6745611010",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6745611010",
+      "displayBoxCode": "6745611-010",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2023年30克吉祥文化前程似锦银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/487593.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6745611-010/70/",
+      "price": 1100,
+      "priceWithFee": null,
+      "transactedAt": "2025-07-13 20:02:51",
+      "productCode": "DB200983",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250708/large_sell_5qbij1agu9bnai5o.jpg",
+      "ocrConfidence": 29,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2023年,30克,吉祥文化,年克,克吉,吉祥,祥文,文化,化前,前程,程似,似锦,锦银,银币"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "5802424018",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "5802424018",
+      "displayBoxCode": "5802424-018",
+      "gradingCompany": "NGC",
+      "grade": "Ms67",
+      "coinName": "1980年中国硬币伍分",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10358592.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/5802424-018/67/",
+      "price": 1060,
+      "priceWithFee": 1144.8,
+      "transactedAt": "2026-07-01 20:41:05",
+      "productCode": "869945010",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/869945010A.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1980年,年中,中国,国硬,硬币,币伍,伍分"
+    }
+  ]
+}

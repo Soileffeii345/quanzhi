@@ -1,0 +1,31 @@
+{
+  "coinName": "第二版人民币火车2角",
+  "slug": "7cc2731a",
+  "saleCount": 1,
+  "keywords": "币,第二,二版,版人,人民,民币,币火,火车,车角",
+  "priceStats": {
+    "low": 1100,
+    "high": 1100,
+    "avg": 1100,
+    "latest": 1100
+  },
+  "records": [
+    {
+      "coinName": "第二版人民币火车2角",
+      "normalizedBoxCode": "2252932076",
+      "displayBoxCode": "2252932-076",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/dierbanrenminbi/10380401.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2252932-076/",
+      "price": 1100,
+      "priceWithFee": 1188,
+      "transactedAt": "2026-07-09 20:37:30",
+      "productCode": "872761004",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,第二,二版,版人,人民,民币,币火,火车,车角"
+    }
+  ]
+}

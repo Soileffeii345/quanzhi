@@ -1,0 +1,48 @@
+{
+  "coinName": "1981年15.552克金币",
+  "slug": "72c461a7",
+  "saleCount": 2,
+  "keywords": "金,币,1981年,2盎司,年盎,盎司,司辛,辛亥,亥革,革命,命周,周年,年金,金币",
+  "priceStats": {
+    "low": 49800,
+    "high": 51000,
+    "avg": 50400,
+    "latest": 49800
+  },
+  "records": [
+    {
+      "coinName": "1981年1/2盎司辛亥革命70周年金币",
+      "normalizedBoxCode": "2923723007",
+      "displayBoxCode": "2923723-007",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/458436.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2923723-007/",
+      "price": 49800,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-13 18:28:46",
+      "productCode": "AA537831",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1981年,2盎司,年盎,盎司,司辛,辛亥,亥革,革命,命周,周年,年金,金币"
+    },
+    {
+      "coinName": "1981年1/2盎司辛亥革命70周年金币",
+      "normalizedBoxCode": "3604611002",
+      "displayBoxCode": "3604611-002",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/471902.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3604611-002/69/",
+      "price": 51000,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-13 06:08:58",
+      "productCode": "AA557896",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1981年,2盎司,年盎,盎司,司辛,辛亥,亥革,革命,命周,周年,年金,金币"
+    }
+  ]
+}

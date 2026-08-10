@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8541321005",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8541321005",
+      "displayBoxCode": "8541321-005",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1984年熊猫12.7克精制铜币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-tong/10400971.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8541321-005/69/",
+      "price": 2850,
+      "priceWithFee": 2949.75,
+      "transactedAt": "2026-07-13 21:31:00",
+      "productCode": "875148011",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/875148011A.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "铜,币,1984年,12.7克,熊猫,年熊,猫克,克精,精制,制铜,铜币,评级"
+    }
+  ]
+}

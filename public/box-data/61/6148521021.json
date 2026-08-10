@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6148521021",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6148521021",
+      "displayBoxCode": "6148521-021",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1992年出土文物青铜器第（2）组15克精制银币四枚一套",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10362477.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6148521-021/69/",
+      "price": 8200,
+      "priceWithFee": 8487,
+      "transactedAt": "2026-06-25 20:03:05",
+      "productCode": "869608002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/869608002A.jpg",
+      "ocrConfidence": 42,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,铜,币,1992年,15克,年出,出土,土文,文物,物青,青铜,铜器,器第,第组,组克,克精,精制,制银,银币,币四,四枚,枚一,一套,评级"
+    }
+  ]
+}

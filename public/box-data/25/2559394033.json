@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2559394033",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2559394033",
+      "displayBoxCode": "2559394-033",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1988年香港渣打银行壹仟圆",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xianggangzhichao/10417618.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2559394-033/",
+      "price": 1280,
+      "priceWithFee": 1420.8,
+      "transactedAt": "2026-07-28 20:23:35",
+      "productCode": "877006005",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/877006005B.jpg",
+      "ocrConfidence": 29,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,1988年,年香,香港,港渣,渣打,打银,银行,行壹,壹仟,仟圆,外国/特区"
+    }
+  ]
+}

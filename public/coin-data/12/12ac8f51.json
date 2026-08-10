@@ -1,0 +1,65 @@
+{
+  "coinName": "2023年国家公园30克银币",
+  "slug": "12ac8f51",
+  "saleCount": 3,
+  "keywords": "银,币,2023年,30克,年克,克三,三江,江源,源国,国家,家公,公园,园彩,彩银,银币,克国,园银",
+  "priceStats": {
+    "low": 1000,
+    "high": 1400,
+    "avg": 1267,
+    "latest": 1000
+  },
+  "records": [
+    {
+      "coinName": "2023年30克三江源国家公园彩银币",
+      "normalizedBoxCode": "6717399082",
+      "displayBoxCode": "6717399-082",
+      "gradingCompany": "NGC",
+      "grade": "PF70 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/481603.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6717399-082/70/",
+      "price": 1000,
+      "priceWithFee": null,
+      "transactedAt": "2025-12-28 23:22:51",
+      "productCode": "AA566153",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2023年,30克,年克,克三,三江,江源,源国,国家,家公,公园,园彩,彩银,银币"
+    },
+    {
+      "coinName": "2023年30克国家公园银币",
+      "normalizedBoxCode": "6717621046",
+      "displayBoxCode": "6717621-046",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/479202.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6717621-046/70/",
+      "price": 1400,
+      "priceWithFee": null,
+      "transactedAt": "2025-12-27 00:38:32",
+      "productCode": "AA563400.01",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2023年,30克,年克,克国,国家,家公,公园,园银,银币"
+    },
+    {
+      "coinName": "2023年30克国家公园银币",
+      "normalizedBoxCode": "6717621088",
+      "displayBoxCode": "6717621-088",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/477847.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6717621-088/",
+      "price": 1400,
+      "priceWithFee": null,
+      "transactedAt": "2025-05-16 14:57:54",
+      "productCode": "AA562276.77",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2023年,30克,年克,克国,国家,家公,公园,园银,银币"
+    }
+  ]
+}

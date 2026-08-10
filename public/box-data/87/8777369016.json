@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8777369016",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8777369016",
+      "displayBoxCode": "8777369-016",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1997年珍稀动物第（5）组-中华白海豚1/2盎司精制金币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10407532.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8777369-016/69/",
+      "price": 17600,
+      "priceWithFee": 18216,
+      "transactedAt": "2026-07-23 20:41:45",
+      "productCode": "875918007",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/875918007A.jpg",
+      "ocrConfidence": 45,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1997年,2盎司,年珍,珍稀,稀动,动物,物第,第组,组中,中华,华白,白海,海豚,豚盎,盎司,司精,精制,制金,金币,评级"
+    }
+  ]
+}

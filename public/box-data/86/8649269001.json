@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8649269001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8649269001",
+      "displayBoxCode": "8649269-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2026年3克生肖马彩金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/556119.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8649269-001/70/",
+      "price": 4200,
+      "priceWithFee": null,
+      "transactedAt": "2026-02-25 15:34:32",
+      "productCode": "KH120744",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260225/large_sell_dyh1fjypyrxma4zo.jpg",
+      "ocrConfidence": 41,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2026年,3克,生肖,年克,克生,肖马,马彩,彩金,金币"
+    }
+  ]
+}

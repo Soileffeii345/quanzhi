@@ -1,0 +1,31 @@
+{
+  "coinName": "1993年3.11克金币",
+  "slug": "7bda2851",
+  "saleCount": 1,
+  "keywords": "金,币,1993年,10盎司,年盎,盎司,司孔,孔雀,雀开,开屏,屏金,金币",
+  "priceStats": {
+    "low": 2250,
+    "high": 2250,
+    "avg": 2250,
+    "latest": 2250
+  },
+  "records": [
+    {
+      "coinName": "1993年1/10盎司孔雀开屏金币",
+      "normalizedBoxCode": "6717095006",
+      "displayBoxCode": "6717095-006",
+      "gradingCompany": "NGC",
+      "grade": "ms70",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/419910.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6717095-006/70/",
+      "price": 2250,
+      "priceWithFee": null,
+      "transactedAt": "2024-04-06 11:26:46",
+      "productCode": "KH052082",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1993年,10盎司,年盎,盎司,司孔,孔雀,雀开,开屏,屏金,金币"
+    }
+  ]
+}

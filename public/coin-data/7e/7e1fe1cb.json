@@ -1,0 +1,48 @@
+{
+  "coinName": "2021年银币",
+  "slug": "7e1fe1cb",
+  "saleCount": 2,
+  "keywords": "银,币,2021年,年中,中国,国银,银行,行港,港币,币元,铜,章,年老,老子,子牛,牛镀,镀银,银铜,铜章",
+  "priceStats": {
+    "low": 110,
+    "high": 160,
+    "avg": 135,
+    "latest": 110
+  },
+  "records": [
+    {
+      "coinName": "2021年中国银行港币20元",
+      "normalizedBoxCode": "2313338029",
+      "displayBoxCode": "2313338-029",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/liantichao-jinianchao/10420618.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2313338-029/",
+      "price": 110,
+      "priceWithFee": 118.8,
+      "transactedAt": "2026-07-25 19:38:40",
+      "productCode": "877014003",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2021年,年中,中国,国银,银行,行港,港币,币元"
+    },
+    {
+      "coinName": "2021年老子&amp;牛&quot;镀银&quot;铜章",
+      "normalizedBoxCode": "6406301085",
+      "displayBoxCode": "6406301-085",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/501682.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6406301-085/69/",
+      "price": 160,
+      "priceWithFee": null,
+      "transactedAt": "2025-12-11 23:16:21",
+      "productCode": "KH093462",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,铜,章,2021年,年老,老子,子牛,牛镀,镀银,银铜,铜章"
+    }
+  ]
+}

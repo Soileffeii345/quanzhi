@@ -1,0 +1,31 @@
+{
+  "coinName": "1987年奥运会31.104克金币",
+  "slug": "0f3e3b45",
+  "saleCount": 1,
+  "keywords": "金,币,1987年,1盎司,奥运,年韩,韩国,国盎,盎司,司汉,汉城,城奥,运会,会崇,崇礼,礼门,门金,金币",
+  "priceStats": {
+    "low": 25020,
+    "high": 25020,
+    "avg": 25020,
+    "latest": 25020
+  },
+  "records": [
+    {
+      "coinName": "1987年韩国1盎司汉城奥运会崇礼门金币",
+      "normalizedBoxCode": "6759309015",
+      "displayBoxCode": "6759309-015",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/497127.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6759309-015/70/",
+      "price": 25020,
+      "priceWithFee": null,
+      "transactedAt": "2025-08-29 10:08:52",
+      "productCode": "KH080083",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1987年,1盎司,奥运,年韩,韩国,国盎,盎司,司汉,汉城,城奥,运会,会崇,崇礼,礼门,门金,金币"
+    }
+  ]
+}

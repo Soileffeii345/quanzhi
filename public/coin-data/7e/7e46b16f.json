@@ -1,0 +1,31 @@
+{
+  "coinName": "2002年精制",
+  "slug": "7e46b16f",
+  "saleCount": 1,
+  "keywords": "币,2002年,年世,世界,界文,文化,化遗,遗产,产万,万里,里长,长城,城精,精制,制流,流通,通纪,纪念,念币,评级",
+  "priceStats": {
+    "low": 350,
+    "high": 350,
+    "avg": 350,
+    "latest": 350
+  },
+  "records": [
+    {
+      "coinName": "2002年世界文化遗产-万里长城精制流通纪念币",
+      "normalizedBoxCode": "6761281035",
+      "displayBoxCode": "6761281-035",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10365753.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6761281-035/",
+      "price": 350,
+      "priceWithFee": 378,
+      "transactedAt": "2026-07-01 20:20:05",
+      "productCode": "870514002",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2002年,年世,世界,界文,文化,化遗,遗产,产万,万里,里长,长城,城精,精制,制流,流通,通纪,纪念,念币,评级"
+    }
+  ]
+}

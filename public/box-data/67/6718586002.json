@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6718586002",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6718586002",
+      "displayBoxCode": "6718586-002",
+      "gradingCompany": "NGC",
+      "grade": "PF 70",
+      "coinName": "2021年千手观音紫铜章(45)",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/478468.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6718586-002/70/",
+      "price": 350,
+      "priceWithFee": null,
+      "transactedAt": "2025-05-27 15:53:08",
+      "productCode": "KH066895",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250519/large_sell_uhxsbzvxjlmyqut9.jpg",
+      "ocrConfidence": 40,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "铜,章,2021年,宗教,年千,千手,手观,观音,音紫,紫铜,铜章"
+    }
+  ]
+}

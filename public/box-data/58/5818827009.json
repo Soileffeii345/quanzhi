@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "5818827009",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "5818827009",
+      "displayBoxCode": "5818827-009",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1996年1/2盎司香港回归第2组金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/504215.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/5818827-009/",
+      "price": 14325,
+      "priceWithFee": null,
+      "transactedAt": "2025-10-09 03:02:26",
+      "productCode": "KH086317",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251008/large_sell_mdevcpv4syqnmxou.jpg",
+      "ocrConfidence": 38,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1996年,2盎司,年盎,盎司,司香,香港,港回,回归,归第,第组,组金,金币,外国/特区"
+    }
+  ]
+}

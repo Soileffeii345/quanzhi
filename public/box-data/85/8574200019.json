@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8574200019",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8574200019",
+      "displayBoxCode": "8574200-019",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1997年中国古代名画-孔雀开屏1盎司普制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10392399.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8574200-019/",
+      "price": 2500,
+      "priceWithFee": 2587.5,
+      "transactedAt": "2026-07-13 20:24:20",
+      "productCode": "873821008",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/873821008A.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1997年,1盎司,年中,中国,国古,古代,代名,名画,画孔,孔雀,雀开,开屏,屏盎,盎司,司普,普制,制银,银币"
+    }
+  ]
+}

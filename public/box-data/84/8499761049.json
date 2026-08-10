@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8499761049",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8499761049",
+      "displayBoxCode": "8499761-049",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2021年8克首次火星探测任务成功金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/492077.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8499761-049/",
+      "price": 6350,
+      "priceWithFee": null,
+      "transactedAt": "2025-08-07 16:12:04",
+      "productCode": "AA576034",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250801/large_sell_dgfnpvynk2uh2ics.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2021年,8克,年克,克首,首次,次火,火星,星探,探测,测任,任务,务成,成功,功金,金币"
+    }
+  ]
+}

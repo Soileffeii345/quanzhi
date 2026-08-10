@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8757928017",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8757928017",
+      "displayBoxCode": "8757928-017",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1982年壬戌狗年生肖15克精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10351226.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8757928-017/69/",
+      "price": 5500,
+      "priceWithFee": 5692.5,
+      "transactedAt": "2026-06-18 19:58:40",
+      "productCode": "869398010",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/869398010A.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1982年,15克,生肖,年壬,壬戌,戌狗,狗年,年生,肖克,克精,精制,制银,银币,评级"
+    }
+  ]
+}

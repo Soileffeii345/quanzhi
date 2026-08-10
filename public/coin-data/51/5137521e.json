@@ -1,0 +1,31 @@
+{
+  "coinName": "1994年古代科技22克精制银币",
+  "slug": "5137521e",
+  "saleCount": 1,
+  "keywords": "银,币,1994年,22克,年中,中国,国古,古代,代科,科技,技发,发明,明发,发现,现第,第组,组编,编钟,钟克,克精,精制,制银,银币,评级",
+  "priceStats": {
+    "low": 700,
+    "high": 700,
+    "avg": 700,
+    "latest": 700
+  },
+  "records": [
+    {
+      "coinName": "1994年中国古代科技发明发现第（3）组-编钟22克精制银币",
+      "normalizedBoxCode": "4579927004",
+      "displayBoxCode": "4579927-004",
+      "gradingCompany": "NGC",
+      "grade": "Pr69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10388788.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4579927-004/69/",
+      "price": 700,
+      "priceWithFee": 724.5,
+      "transactedAt": "2026-07-06 21:37:10",
+      "productCode": "873740011",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1994年,22克,年中,中国,国古,古代,代科,科技,技发,发明,明发,发现,现第,第组,组编,编钟,钟克,克精,精制,制银,银币,评级"
+    }
+  ]
+}

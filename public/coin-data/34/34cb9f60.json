@@ -1,0 +1,31 @@
+{
+  "coinName": "2015年江南造31.104克银币",
+  "slug": "34cb9f60",
+  "saleCount": 1,
+  "keywords": "银,币,2015年,1盎司,江南,江南造,年盎,盎司,司江,南造,造船,船建,建厂,厂周,周年,年银,银币",
+  "priceStats": {
+    "low": 1550,
+    "high": 1550,
+    "avg": 1550,
+    "latest": 1550
+  },
+  "records": [
+    {
+      "coinName": "2015年1盎司江南造船建厂150周年银币",
+      "normalizedBoxCode": "8544089020",
+      "displayBoxCode": "8544089-020",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/574289.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8544089-020/70/",
+      "price": 1550,
+      "priceWithFee": null,
+      "transactedAt": "2026-05-14 00:12:39",
+      "productCode": "KH134395",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2015年,1盎司,江南,江南造,年盎,盎司,司江,南造,造船,船建,建厂,厂周,周年,年银,银币"
+    }
+  ]
+}

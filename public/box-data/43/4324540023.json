@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4324540023",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4324540023",
+      "displayBoxCode": "4324540-023",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2000年庚辰龙年生肖1盎司精制彩银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10428010.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4324540-023/",
+      "price": 1520,
+      "priceWithFee": 1573.2,
+      "transactedAt": "2026-07-27 20:09:40",
+      "productCode": "878173003",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/878173003A.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2000年,1盎司,生肖,年庚,庚辰,辰龙,龙年,年生,肖盎,盎司,司精,精制,制彩,彩银,银币,评级"
+    }
+  ]
+}

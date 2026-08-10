@@ -1,0 +1,31 @@
+{
+  "coinName": "1994年珍稀动物27克精制银币",
+  "slug": "28680473",
+  "saleCount": 1,
+  "keywords": "银,币,1994年,27克,年珍,珍稀,稀动,动物,物第,第组,组麋,麋鹿,鹿克,克精,精制,制银,银币,评级",
+  "priceStats": {
+    "low": 800,
+    "high": 800,
+    "avg": 800,
+    "latest": 800
+  },
+  "records": [
+    {
+      "coinName": "1994年珍稀动物第（4）组-麋鹿27克精制银币",
+      "normalizedBoxCode": "3936366024",
+      "displayBoxCode": "3936366-024",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10392401.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3936366-024/69/",
+      "price": 800,
+      "priceWithFee": 828,
+      "transactedAt": "2026-07-13 20:02:40",
+      "productCode": "873861001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1994年,27克,年珍,珍稀,稀动,动物,物第,第组,组麋,麋鹿,鹿克,克精,精制,制银,银币,评级"
+    }
+  ]
+}

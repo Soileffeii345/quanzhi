@@ -1,0 +1,31 @@
+{
+  "coinName": "第一版人民币排云殿200元菱花水印",
+  "slug": "3d9d5a02",
+  "saleCount": 1,
+  "keywords": "币,第一,一版,版人,人民,民币,币排,排云,云殿,殿元,元菱,菱花,花水,水印",
+  "priceStats": {
+    "low": 11000,
+    "high": 11000,
+    "avg": 11000,
+    "latest": 11000
+  },
+  "records": [
+    {
+      "coinName": "第一版人民币排云殿200元菱花水印",
+      "normalizedBoxCode": "2584612043",
+      "displayBoxCode": "2584612-043",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/diyibanrenminbi/10399474.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2584612-043/",
+      "price": 11000,
+      "priceWithFee": 12100,
+      "transactedAt": "2026-07-23 20:15:10",
+      "productCode": "875007002",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,第一,一版,版人,人民,民币,币排,排云,云殿,殿元,元菱,菱花,花水,水印"
+    }
+  ]
+}

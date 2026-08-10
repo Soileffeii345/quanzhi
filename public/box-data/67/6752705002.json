@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6752705002",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6752705002",
+      "displayBoxCode": "6752705-002",
+      "gradingCompany": "NGC",
+      "grade": "PF69 ULTRA CAMEO",
+      "coinName": "2015年1/4盎司南非中国年金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/468478.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6752705-002/69/",
+      "price": 5555,
+      "priceWithFee": null,
+      "transactedAt": "2025-03-18 11:42:15",
+      "productCode": "AA554921",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250316/large_sell_evktjvg9vzb0ddky.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2015年,4盎司,年盎,盎司,司南,南非,非中,中国,国年,年金,金币"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "coinName": "1997年7.776克普制金币",
+  "slug": "4349e65d",
+  "saleCount": 1,
+  "keywords": "金,币,1997年,4盎司,年迎,迎春,春图,图宫,宫灯,灯盎,盎司,司普,普制,制金,金币",
+  "priceStats": {
+    "low": 7500,
+    "high": 7500,
+    "avg": 7500,
+    "latest": 7500
+  },
+  "records": [
+    {
+      "coinName": "1997年迎春图-宫灯1/4盎司普制金币",
+      "normalizedBoxCode": "8656076017",
+      "displayBoxCode": "8656076-017",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10373903.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8656076-017/69/",
+      "price": 7500,
+      "priceWithFee": 7762.5,
+      "transactedAt": "2026-07-02 21:29:30",
+      "productCode": "871825003",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1997年,4盎司,年迎,迎春,春图,图宫,宫灯,灯盎,盎司,司普,普制,制金,金币"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6411232012",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6411232012",
+      "displayBoxCode": "6411232-012",
+      "gradingCompany": "NGC",
+      "grade": "MS 66",
+      "coinName": "1988年广西壮族自治区成立30周年纪念币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/422565.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6411232-012/66/",
+      "price": 260,
+      "priceWithFee": null,
+      "transactedAt": "2024-03-22 23:05:01",
+      "productCode": "KH052767",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20240322/large_sell_fogtdwow1d7h7wu2.jpg",
+      "ocrConfidence": 38,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1988年,年广,广西,西壮,壮族,族自,自治,治区,区成,成立,立周,周年,年纪,纪念,念币"
+    }
+  ]
+}

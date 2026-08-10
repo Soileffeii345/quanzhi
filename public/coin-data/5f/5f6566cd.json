@@ -1,0 +1,31 @@
+{
+  "coinName": "2024年国家公园",
+  "slug": "5f6566cd",
+  "saleCount": 1,
+  "keywords": "2024年,年东,东北,北虎,虎豹,豹国,国家,家公,公园",
+  "priceStats": {
+    "low": 60,
+    "high": 60,
+    "avg": 60,
+    "latest": 60
+  },
+  "records": [
+    {
+      "coinName": "2024年东北虎豹国家公园",
+      "normalizedBoxCode": "8193396027",
+      "displayBoxCode": "8193396-027",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10390634.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8193396-027/69/",
+      "price": 60,
+      "priceWithFee": 64.8,
+      "transactedAt": "2026-07-15 20:13:15",
+      "productCode": "873820050",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "2024年,年东,东北,北虎,虎豹,豹国,国家,家公,公园"
+    }
+  ]
+}

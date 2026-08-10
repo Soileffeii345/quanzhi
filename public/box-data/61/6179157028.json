@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6179157028",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6179157028",
+      "displayBoxCode": "6179157-028",
+      "gradingCompany": "NGC",
+      "grade": "Ms70",
+      "coinName": "2022年1克贺岁金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/581821.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6179157-028/70/",
+      "price": 1300,
+      "priceWithFee": null,
+      "transactedAt": "2026-05-22 10:40:56",
+      "productCode": "AA649257",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260519/large_sell_bwc9k2jihc8nfugw.jpg",
+      "ocrConfidence": 38,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2022年,1克,吉祥文化,年克,克贺,贺岁,岁金,金币"
+    }
+  ]
+}

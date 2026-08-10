@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6197820043",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6197820043",
+      "displayBoxCode": "6197820-043",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1996年中国工农红军长征胜利60周年1盎司精制银币二枚一套",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10350680.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6197820-043/",
+      "price": 2200,
+      "priceWithFee": 2277,
+      "transactedAt": "2026-06-18 19:37:10",
+      "productCode": "869116010",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/869116010A.jpg",
+      "ocrConfidence": 39,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1996年,1盎司,年中,中国,国工,工农,农红,红军,军长,长征,征胜,胜利,利周,周年,年盎,盎司,司精,精制,制银,银币,币二,二枚,枚一,一套,评级"
+    }
+  ]
+}

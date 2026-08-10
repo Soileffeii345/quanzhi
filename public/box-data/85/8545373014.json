@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8545373014",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8545373014",
+      "displayBoxCode": "8545373-014",
+      "gradingCompany": "NGC",
+      "grade": "PF66 ULTRA CAMEO",
+      "coinName": "1991年中国精制硬币伍角",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10392976.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8545373-014/66/",
+      "price": 360,
+      "priceWithFee": 388.8,
+      "transactedAt": "2026-07-15 20:09:55",
+      "productCode": "874009012",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/874009012A.jpg",
+      "ocrConfidence": 32,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1991年,年中,中国,国精,精制,制硬,硬币,币伍,伍角,评级"
+    }
+  ]
+}

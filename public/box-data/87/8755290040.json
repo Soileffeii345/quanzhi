@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8755290040",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8755290040",
+      "displayBoxCode": "8755290-040",
+      "gradingCompany": "NGC",
+      "grade": "MS 67",
+      "coinName": "1993年中国古代科技发明发现第（2）组-太极图22克精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10367505.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8755290-040/67/",
+      "price": 560,
+      "priceWithFee": 579.6,
+      "transactedAt": "2026-06-29 20:31:50",
+      "productCode": "871175017",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/26/871175017A.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1993年,22克,年中,中国,国古,古代,代科,科技,技发,发明,明发,发现,现第,第组,组太,太极,极图,图克,克精,精制,制银,银币,评级"
+    }
+  ]
+}

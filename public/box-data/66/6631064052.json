@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6631064052",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6631064052",
+      "displayBoxCode": "6631064-052",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1991年1/3盎司第16届冬奥会双人花样滑冰金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/471028.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6631064-052/69/",
+      "price": 7660,
+      "priceWithFee": null,
+      "transactedAt": "2025-04-03 21:39:25",
+      "productCode": "KH063487",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250330/large_sell_pwxekgkcyg7zc2ho.jpg",
+      "ocrConfidence": 44,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1991年,3盎司,奥运,年盎,盎司,司第,第届,届冬,冬奥,奥会,会双,双人,人花,花样,样滑,滑冰,冰金,金币"
+    }
+  ]
+}

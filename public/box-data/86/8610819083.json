@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8610819083",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8610819083",
+      "displayBoxCode": "8610819-083",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2002年壬午马年生肖1盎司精制彩银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10350687.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8610819-083/70/",
+      "price": 1400,
+      "priceWithFee": 1449,
+      "transactedAt": "2026-06-22 19:46:10",
+      "productCode": "869116017",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/869116017A.jpg",
+      "ocrConfidence": 41,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2002年,1盎司,生肖,年壬,壬午,午马,马年,年生,肖盎,盎司,司精,精制,制彩,彩银,银币,评级"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "ok": true,
+  "query": "8820450047",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8820450047",
+      "displayBoxCode": "8820450-047",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1980年中国奥林匹克委员会-古代马术12克精制铜币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-tong/10429566.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8820450-047/",
+      "price": 700,
+      "priceWithFee": 724.5,
+      "transactedAt": "2026-07-27 20:37:10",
+      "productCode": "878538001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/876410002A.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "铜,币,1980年,12克,年中,中国,国奥,奥林,林匹,匹克,克委,委员,员会,会古,古代,代马,马术,术克,克精,精制,制铜,铜币,评级"
+    },
+    {
+      "normalizedBoxCode": "8820450047",
+      "displayBoxCode": "8820450-047",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1980年中国奥林匹克委员会-古代马术12克精制铜币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-tong/10410317.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8820450-047/",
+      "price": 760,
+      "priceWithFee": 786.6,
+      "transactedAt": "2026-07-20 20:58:40",
+      "productCode": "876410002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/876410002A.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "铜,币,1980年,12克,年中,中国,国奥,奥林,林匹,匹克,克委,委员,员会,会古,古代,代马,马术,术克,克精,精制,制铜,铜币,评级"
+    }
+  ]
+}

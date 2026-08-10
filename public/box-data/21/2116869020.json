@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2116869020",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2116869020",
+      "displayBoxCode": "2116869-020",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1994年香港渣打银行贰拾圆",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xianggangzhichao/10420620.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2116869-020/",
+      "price": 170,
+      "priceWithFee": 188.7,
+      "transactedAt": "2026-07-25 20:06:10",
+      "productCode": "877014005",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/877014005B.jpg",
+      "ocrConfidence": 39,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,1994年,年香,香港,港渣,渣打,打银,银行,行贰,贰拾,拾圆,外国/特区"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6644621065",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6644621065",
+      "displayBoxCode": "6644621-065",
+      "gradingCompany": "NGC",
+      "grade": "PF70 ULTRA CAMEO",
+      "coinName": "1997年27克三国演义第3组银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/444497.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6644621-065/70/",
+      "price": 4500,
+      "priceWithFee": null,
+      "transactedAt": "2025-02-13 11:44:05",
+      "productCode": "AA494654.55.56.57A",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20240731/large_sell_i8ixwumwugecmle7.jpg",
+      "ocrConfidence": 30,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1997年,27克,年克,克三,三国,国演,演义,义第,第组,组银,银币"
+    }
+  ]
+}

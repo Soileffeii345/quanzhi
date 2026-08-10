@@ -1,0 +1,48 @@
+{
+  "coinName": "第一版人民币军舰10000元",
+  "slug": "0c542d64",
+  "saleCount": 2,
+  "keywords": "币,钞,第一,一版,版人,人民,民币,币军,军舰,舰元,元老,老假,假票",
+  "priceStats": {
+    "low": 1460,
+    "high": 2250,
+    "avg": 1855,
+    "latest": 1460
+  },
+  "records": [
+    {
+      "coinName": "第一版人民币军舰10000元（老假票）",
+      "normalizedBoxCode": "2016336001",
+      "displayBoxCode": "2016336-001",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/diyibanrenminbi/10390302.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2016336-001/",
+      "price": 1460,
+      "priceWithFee": 1606,
+      "transactedAt": "2026-07-16 20:30:40",
+      "productCode": "874003002",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,钞,第一,一版,版人,人民,民币,币军,军舰,舰元,元老,老假,假票"
+    },
+    {
+      "coinName": "第一版人民币军舰10000元（老假票）",
+      "normalizedBoxCode": "2056682003",
+      "displayBoxCode": "2056682-003",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/diyibanrenminbi/10390301.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2056682-003/",
+      "price": 2250,
+      "priceWithFee": 2475,
+      "transactedAt": "2026-07-16 20:12:10",
+      "productCode": "874003001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,钞,第一,一版,版人,人民,民币,币军,军舰,舰元,元老,老假,假票"
+    }
+  ]
+}

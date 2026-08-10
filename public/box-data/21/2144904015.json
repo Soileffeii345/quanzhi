@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2144904015",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2144904015",
+      "displayBoxCode": "2144904-015",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "民国三十八年华中银行伍仟圆",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jiefangquzhichao/10369794.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2144904-015/",
+      "price": 700,
+      "priceWithFee": 777,
+      "transactedAt": "2026-07-14 21:26:05",
+      "productCode": "871037003",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/26/871037003B.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国三,三十,十八,八年,年华,华中,中银,银行,行伍,伍仟,仟圆"
+    }
+  ]
+}

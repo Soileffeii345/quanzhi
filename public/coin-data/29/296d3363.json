@@ -1,0 +1,31 @@
+{
+  "coinName": "2019年津巴布韦纸钞",
+  "slug": "296d3363",
+  "saleCount": 1,
+  "keywords": "钞,2019年,年津,津巴,巴布,布韦,韦纸,纸钞",
+  "priceStats": {
+    "low": 90,
+    "high": 90,
+    "avg": 90,
+    "latest": 90
+  },
+  "records": [
+    {
+      "coinName": "2019年津巴布韦纸钞",
+      "normalizedBoxCode": "2400757046",
+      "displayBoxCode": "2400757-046",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10392461.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2400757-046/",
+      "price": 90,
+      "priceWithFee": 99.9,
+      "transactedAt": "2026-07-14 22:08:20",
+      "productCode": "873792043",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,2019年,年津,津巴,巴布,布韦,韦纸,纸钞"
+    }
+  ]
+}

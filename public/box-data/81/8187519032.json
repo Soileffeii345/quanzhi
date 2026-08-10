@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8187519032",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8187519032",
+      "displayBoxCode": "8187519-032",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2002年熊猫金币发行20周年1/10盎司精制铂金币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-nianjiyiqian/10404043.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8187519-032/69/",
+      "price": 1820,
+      "priceWithFee": 1883.7,
+      "transactedAt": "2026-07-16 21:38:25",
+      "productCode": "875561002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/875561002A.jpg",
+      "ocrConfidence": 37,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,贵金属,币,2002年,10盎司,熊猫,年熊,猫金,金币,币发,发行,行周,周年,年盎,盎司,司精,精制,制铂,铂金,评级"
+    }
+  ]
+}

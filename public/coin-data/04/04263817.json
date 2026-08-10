@@ -1,0 +1,31 @@
+{
+  "coinName": "2021年30克精制银币",
+  "slug": "04263817",
+  "saleCount": 1,
+  "keywords": "银,币,2021年,30克,年中,中国,国共,共产,产党,党成,成立,立周,周年,年克,克精,精制,制银,银币,评级",
+  "priceStats": {
+    "low": 830,
+    "high": 830,
+    "avg": 830,
+    "latest": 830
+  },
+  "records": [
+    {
+      "coinName": "2021年中国共产党成立100周年30克精制银币",
+      "normalizedBoxCode": "8765016022",
+      "displayBoxCode": "8765016-022",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10379265.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8765016-022/",
+      "price": 830,
+      "priceWithFee": 859.05,
+      "transactedAt": "2026-07-04 20:40:05",
+      "productCode": "872231008",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2021年,30克,年中,中国,国共,共产,产党,党成,成立,立周,周年,年克,克精,精制,制银,银币,评级"
+    }
+  ]
+}

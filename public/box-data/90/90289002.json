@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "90289002",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "90289002",
+      "displayBoxCode": "90289002",
+      "gradingCompany": "PCGS",
+      "grade": "待复核",
+      "coinName": "清 乾隆通宝宝浙",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/guqian/10399897.shtml",
+      "officialCertUrl": "https://cn.pcgs.com/cert/90289002",
+      "price": 100,
+      "priceWithFee": 110,
+      "transactedAt": "2026-07-27 21:27:05",
+      "productCode": "875167001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/22/865467019A.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "清乾,乾隆,隆通,通宝,宝宝,宝浙"
+    }
+  ]
+}

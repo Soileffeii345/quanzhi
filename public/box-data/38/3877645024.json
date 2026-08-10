@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "3877645024",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "3877645024",
+      "displayBoxCode": "3877645-024",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1997年1/10盎司故宫博物院铜狮金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/570873.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3877645-024/69/",
+      "price": 4550,
+      "priceWithFee": null,
+      "transactedAt": "2026-04-16 07:21:39",
+      "productCode": "AA638250",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260408/large_sell_odgu8mrmozx5ngce.jpg",
+      "ocrConfidence": 41,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,铜,币,1997年,10盎司,年盎,盎司,司故,故宫,宫博,博物,物院,院铜,铜狮,狮金,金币"
+    }
+  ]
+}

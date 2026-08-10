@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6052452010",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6052452010",
+      "displayBoxCode": "6052452-010",
+      "gradingCompany": "NGC",
+      "grade": "MS69",
+      "coinName": "2001年1/20盎司熊猫金币(无D版)",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/474058.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6052452-010/69/",
+      "price": 1400,
+      "priceWithFee": null,
+      "transactedAt": "2025-07-12 12:48:33",
+      "productCode": "KH071528",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250419/large_sell_29xjxbmad7khmrsc.jpg",
+      "ocrConfidence": 47,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2001年,20盎司,熊猫,年盎,盎司,司熊,猫金,金币,币无,无版"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "ok": true,
+  "query": "6192751029",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6192751029",
+      "displayBoxCode": "6192751-029",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2002年1/10盎司观音幻彩金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/509781.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6192751-029/",
+      "price": 3200,
+      "priceWithFee": null,
+      "transactedAt": "2025-11-27 12:54:46",
+      "productCode": "KH086100A",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251007/large_sell_thvlgvqqrsokmlxi.jpg",
+      "ocrConfidence": 45,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2002年,10盎司,宗教,年盎,盎司,司观,观音,音幻,幻彩,彩金,金币"
+    },
+    {
+      "normalizedBoxCode": "6192751029",
+      "displayBoxCode": "6192751-029",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2002年1/10盎司观音幻彩金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/503932.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6192751-029/",
+      "price": 2840,
+      "priceWithFee": null,
+      "transactedAt": "2025-10-07 13:37:07",
+      "productCode": "KH086100",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251007/large_sell_thvlgvqqrsokmlxi.jpg",
+      "ocrConfidence": 45,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2002年,10盎司,宗教,年盎,盎司,司观,观音,音幻,幻彩,彩金,金币"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "1773974088",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "1773974088",
+      "displayBoxCode": "1773974-088",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2019年上海恩颉藏商务信息咨询有限公司开业五周年5克银箔",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10381136.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1773974-088/",
+      "price": 100,
+      "priceWithFee": 103.5,
+      "transactedAt": "2026-07-06 19:38:00",
+      "productCode": "873002001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/19/860249002B.jpg",
+      "ocrConfidence": 31,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,2019年,5克,年上,上海,海恩,恩颉,颉藏,藏商,商务,务信,信息,息咨,咨询,询有,有限,限公,公司,司开,开业,业五,五周,周年,年克,克银,银箔"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "ok": true,
+  "query": "6406198005",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6406198005",
+      "displayBoxCode": "6406198-005",
+      "gradingCompany": "NGC",
+      "grade": "PF70 ULTRA CAMEO",
+      "coinName": "2021年8克首次火星探测任务成功金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/498091.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6406198-005/70/",
+      "price": 6675,
+      "priceWithFee": null,
+      "transactedAt": "2025-09-03 09:56:53",
+      "productCode": "KH080831",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250903/large_sell_rtrenavjmelh5cxz.jpg",
+      "ocrConfidence": 49,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2021年,8克,年克,克首,首次,次火,火星,星探,探测,测任,任务,务成,成功,功金,金币"
+    },
+    {
+      "normalizedBoxCode": "6406198005",
+      "displayBoxCode": "6406198-005",
+      "gradingCompany": "NGC",
+      "grade": "PF70 ULTRA CAMEO",
+      "coinName": "2021年8克首次火星探测任务成功金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/485090.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6406198-005/70/",
+      "price": 6390,
+      "priceWithFee": null,
+      "transactedAt": "2025-06-23 21:46:16",
+      "productCode": "KH071500",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250623/large_sell_3hf41c6peg4i1lvl.jpg",
+      "ocrConfidence": 44,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2021年,8克,年克,克首,首次,次火,火星,星探,探测,测任,任务,务成,成功,功金,金币"
+    }
+  ]
+}

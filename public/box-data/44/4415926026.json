@@ -1,0 +1,45 @@
+{
+  "ok": true,
+  "query": "4415926026",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4415926026",
+      "displayBoxCode": "4415926-026",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "coinName": "2003年1/2盎司扇形生肖羊金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/504444.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4415926-026/69/",
+      "price": 14250,
+      "priceWithFee": null,
+      "transactedAt": "2025-10-09 22:33:20",
+      "productCode": "KH086481",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251009/large_sell_v5xcoyslbvqc6oni.jpg",
+      "ocrConfidence": 47,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2003年,2盎司,生肖,年盎,盎司,司扇,扇形,形生,肖羊,羊金,金币"
+    },
+    {
+      "normalizedBoxCode": "4415926026",
+      "displayBoxCode": "4415926-026",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2003年1/2盎司扇形生肖羊金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/469166.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4415926-026/",
+      "price": 11250,
+      "priceWithFee": null,
+      "transactedAt": "2025-03-20 12:03:51",
+      "productCode": "KH061668",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250320/large_sell_nmxs7n3bugux1zbk.jpg",
+      "ocrConfidence": 53,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2003年,2盎司,生肖,年盎,盎司,司扇,扇形,形生,肖羊,羊金,金币"
+    }
+  ]
+}

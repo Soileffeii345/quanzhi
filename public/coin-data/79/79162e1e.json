@@ -1,0 +1,31 @@
+{
+  "coinName": "1984年熊猫20盎司金币",
+  "slug": "79162e1e",
+  "saleCount": 1,
+  "keywords": "金,币,1984年,20盎司,熊猫,年盎,盎司,司熊,猫金,金币",
+  "priceStats": {
+    "low": 1700,
+    "high": 1700,
+    "avg": 1700,
+    "latest": 1700
+  },
+  "records": [
+    {
+      "coinName": "1984年1/20盎司熊猫金币",
+      "normalizedBoxCode": "3356530147",
+      "displayBoxCode": "3356530-147",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/501417.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3356530-147/",
+      "price": 1700,
+      "priceWithFee": null,
+      "transactedAt": "2025-10-04 14:26:16",
+      "productCode": "AA586532",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1984年,20盎司,熊猫,年盎,盎司,司熊,猫金,金币"
+    }
+  ]
+}

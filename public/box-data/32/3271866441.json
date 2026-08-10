@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "3271866441",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "3271866441",
+      "displayBoxCode": "3271866-441",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2016年1克熊猫金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/589164.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3271866-441/",
+      "price": 1100,
+      "priceWithFee": null,
+      "transactedAt": "2026-06-19 17:49:03",
+      "productCode": "AA656784",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260611/large_sell_av059prsbywcrxti.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2016年,1克,熊猫,年克,克熊,猫金,金币"
+    }
+  ]
+}

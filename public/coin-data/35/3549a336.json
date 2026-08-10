@@ -1,0 +1,82 @@
+{
+  "coinName": "2024年熊猫30克金币",
+  "slug": "3549a336",
+  "saleCount": 4,
+  "keywords": "金,币,2024年,30克,熊猫,年克,克熊,猫金,金币",
+  "priceStats": {
+    "low": 26885,
+    "high": 27100,
+    "avg": 27016,
+    "latest": 27100
+  },
+  "records": [
+    {
+      "coinName": "2024年30克熊猫金币",
+      "normalizedBoxCode": "8181356116",
+      "displayBoxCode": "8181356-116",
+      "gradingCompany": "NGC",
+      "grade": "MS70",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/598465.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8181356-116/70/",
+      "price": 27100,
+      "priceWithFee": null,
+      "transactedAt": "2026-07-19 17:58:36",
+      "productCode": "KH142337",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2024年,30克,熊猫,年克,克熊,猫金,金币"
+    },
+    {
+      "coinName": "2024年30克熊猫金币",
+      "normalizedBoxCode": "8192539007",
+      "displayBoxCode": "8192539-007",
+      "gradingCompany": "NGC",
+      "grade": "ms70",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/597923.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8192539-007/70/",
+      "price": 26885,
+      "priceWithFee": null,
+      "transactedAt": "2026-07-16 21:18:58",
+      "productCode": "KH142088",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2024年,30克,熊猫,年克,克熊,猫金,金币"
+    },
+    {
+      "coinName": "2024年30克熊猫金币",
+      "normalizedBoxCode": "8200587006",
+      "displayBoxCode": "8200587-006",
+      "gradingCompany": "NGC",
+      "grade": "MS 70",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/597936.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8200587-006/70/",
+      "price": 27040,
+      "priceWithFee": null,
+      "transactedAt": "2026-07-17 07:20:46",
+      "productCode": "KH142106",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2024年,30克,熊猫,年克,克熊,猫金,金币"
+    },
+    {
+      "coinName": "2024年30克熊猫金币",
+      "normalizedBoxCode": "8200587007",
+      "displayBoxCode": "8200587-007",
+      "gradingCompany": "NGC",
+      "grade": "Ms70",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/597933.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8200587-007/70/",
+      "price": 27040,
+      "priceWithFee": null,
+      "transactedAt": "2026-07-17 06:38:41",
+      "productCode": "KH142103",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2024年,30克,熊猫,年克,克熊,猫金,金币"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2775768029",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2775768029",
+      "displayBoxCode": "2775768-029",
+      "gradingCompany": "NGC",
+      "grade": "AU 58",
+      "coinName": "明治四十五年日本26.96克银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/wgjsbizhang/10352203.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2775768-029/58/",
+      "price": 840,
+      "priceWithFee": 890.4,
+      "transactedAt": "2026-06-26 19:39:45",
+      "productCode": "869266020",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/869266020A.jpg",
+      "ocrConfidence": 28,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,26.96克,明治,治四,四十,十五,五年,年日,日本,本克,克银,银币,外国/特区"
+    }
+  ]
+}

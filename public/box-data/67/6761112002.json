@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6761112002",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6761112002",
+      "displayBoxCode": "6761112-002",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "coinName": "1997年1盎司熊猫银币(小字版)",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/590552.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6761112-002/69/",
+      "price": 2100,
+      "priceWithFee": null,
+      "transactedAt": "2026-06-15 18:33:19",
+      "productCode": "KH139026",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260615/large_sell_mf0gtcjtog061jcn.jpg",
+      "ocrConfidence": 30,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1997年,1盎司,熊猫,年盎,盎司,司熊,猫银,银币,币小,小字,字版"
+    }
+  ]
+}

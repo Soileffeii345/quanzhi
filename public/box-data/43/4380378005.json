@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4380378005",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4380378005",
+      "displayBoxCode": "4380378-005",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2007年1/4盎司内蒙古自治区成立60周年金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/536979.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4380378-005/",
+      "price": 8830,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-23 06:55:18",
+      "productCode": "KH111425",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260123/large_sell_fszvgsnh5m8itsuv.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2007年,4盎司,年盎,盎司,司内,内蒙,蒙古,古自,自治,治区,区成,成立,立周,周年,年金,金币"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8827568034",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8827568034",
+      "displayBoxCode": "8827568-034",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1982年15克生肖狗银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/597453.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8827568-034/69/",
+      "price": 5600,
+      "priceWithFee": null,
+      "transactedAt": "2026-08-06 17:56:06",
+      "productCode": "AA664346A",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260708/large_sell_riwjvxlzzhchrhft.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1982年,15克,生肖,年克,克生,肖狗,狗银,银币"
+    }
+  ]
+}

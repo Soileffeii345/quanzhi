@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2121721012",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2121721012",
+      "displayBoxCode": "2121721-012",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "中国银行贰角",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10361803.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2121721-012/",
+      "price": 480,
+      "priceWithFee": 532.8,
+      "transactedAt": "2026-07-07 21:12:50",
+      "productCode": "870325013",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/870325013B.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,中国,国银,银行,行贰,贰角"
+    }
+  ]
+}

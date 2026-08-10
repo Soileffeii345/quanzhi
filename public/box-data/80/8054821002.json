@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8054821002",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8054821002",
+      "displayBoxCode": "8054821-002",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2025年喀麦隆1盎司美惠三女神银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/512028.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8054821-002/69/",
+      "price": 1250,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-25 19:41:25",
+      "productCode": "AA596087",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251112/large_sell_hrsloalyh9rxs4bs.jpg",
+      "ocrConfidence": 37,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2025年,1盎司,年喀,喀麦,麦隆,隆盎,盎司,司美,美惠,惠三,三女,女神,神银,银币"
+    }
+  ]
+}

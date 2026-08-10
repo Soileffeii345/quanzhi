@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2258405084",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2258405084",
+      "displayBoxCode": "2258405-084",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "第二版人民币民族大团结黄5元海鸥水印",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/dierbanrenminbi/10396919.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2258405-084/",
+      "price": 8200,
+      "priceWithFee": 8856,
+      "transactedAt": "2026-07-18 21:11:35",
+      "productCode": "874272004",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/874272004B.jpg",
+      "ocrConfidence": 26,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,第二,二版,版人,人民,民币,币民,民族,族大,大团,团结,结黄,黄元,元海,海鸥,鸥水,水印"
+    }
+  ]
+}

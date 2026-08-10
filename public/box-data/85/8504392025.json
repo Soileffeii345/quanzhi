@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8504392025",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8504392025",
+      "displayBoxCode": "8504392-025",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2002年朝鲜奥地利先令退市镶嵌红玉髓1盎司银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/wgjsbizhang/10365706.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8504392-025/69/",
+      "price": 910,
+      "priceWithFee": 964.6,
+      "transactedAt": "2026-06-26 20:21:25",
+      "productCode": "870452012",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/26/870452012A.jpg",
+      "ocrConfidence": 39,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2002年,1盎司,年朝,朝鲜,鲜奥,奥地,地利,利先,先令,令退,退市,市镶,镶嵌,嵌红,红玉,玉髓,髓盎,盎司,司银,银币"
+    }
+  ]
+}

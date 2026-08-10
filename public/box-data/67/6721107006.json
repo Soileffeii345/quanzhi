@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6721107006",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6721107006",
+      "displayBoxCode": "6721107-006",
+      "gradingCompany": "NGC",
+      "grade": "PF 67 ULTRA CAMEO",
+      "coinName": "2004年世界文化遗产-苏州古典园林精制流通纪念币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10355205.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6721107-006/67/",
+      "price": 160,
+      "priceWithFee": 172.8,
+      "transactedAt": "2026-06-24 21:52:05",
+      "productCode": "869127012",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/869127012A.jpg",
+      "ocrConfidence": 32,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2004年,年世,世界,界文,文化,化遗,遗产,产苏,苏州,州古,古典,典园,园林,林精,精制,制流,流通,通纪,纪念,念币,评级"
+    }
+  ]
+}

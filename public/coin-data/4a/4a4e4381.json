@@ -1,0 +1,31 @@
+{
+  "coinName": "1982年精制",
+  "slug": "4a4e4381",
+  "saleCount": 1,
+  "keywords": "币,1982年,年中,中国,国精,精制,制硬,硬币,币伍,伍分,评级",
+  "priceStats": {
+    "low": 110,
+    "high": 110,
+    "avg": 110,
+    "latest": 110
+  },
+  "records": [
+    {
+      "coinName": "1982年中国精制硬币伍分",
+      "normalizedBoxCode": "8577019046",
+      "displayBoxCode": "8577019-046",
+      "gradingCompany": "NGC",
+      "grade": "PF 66 CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10388240.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8577019-046/66/",
+      "price": 110,
+      "priceWithFee": 118.8,
+      "transactedAt": "2026-07-15 21:12:50",
+      "productCode": "873789001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1982年,年中,中国,国精,精制,制硬,硬币,币伍,伍分,评级"
+    }
+  ]
+}

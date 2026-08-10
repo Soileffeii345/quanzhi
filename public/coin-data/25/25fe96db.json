@@ -1,0 +1,65 @@
+{
+  "coinName": "马来西亚纸钞",
+  "slug": "25fe96db",
+  "saleCount": 3,
+  "keywords": "钞,马来,来西,西亚,亚纸,纸钞",
+  "priceStats": {
+    "low": 85,
+    "high": 90,
+    "avg": 87,
+    "latest": 85
+  },
+  "records": [
+    {
+      "coinName": "马来西亚纸钞",
+      "normalizedBoxCode": "2580733001",
+      "displayBoxCode": "2580733-001",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10392464.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2580733-001/",
+      "price": 85,
+      "priceWithFee": 94.35,
+      "transactedAt": "2026-07-14 21:58:35",
+      "productCode": "873792046",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,马来,来西,西亚,亚纸,纸钞"
+    },
+    {
+      "coinName": "马来西亚纸钞",
+      "normalizedBoxCode": "2580733006",
+      "displayBoxCode": "2580733-006",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10392463.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2580733-006/",
+      "price": 90,
+      "priceWithFee": 99.9,
+      "transactedAt": "2026-07-14 22:08:35",
+      "productCode": "873792045",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,马来,来西,西亚,亚纸,纸钞"
+    },
+    {
+      "coinName": "马来西亚纸钞",
+      "normalizedBoxCode": "2580733010",
+      "displayBoxCode": "2580733-010",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10399168.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2580733-010/",
+      "price": 85,
+      "priceWithFee": 94.35,
+      "transactedAt": "2026-07-21 22:11:20",
+      "productCode": "875054007",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,马来,来西,西亚,亚纸,纸钞"
+    }
+  ]
+}

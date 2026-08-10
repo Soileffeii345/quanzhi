@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6355719045",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6355719045",
+      "displayBoxCode": "6355719-045",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "户部光绪元宝二十文、湖北省造光绪元宝当十、民国当十铜元各一枚",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguojindaijizhibi/10379257.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6355719-045/",
+      "price": 120,
+      "priceWithFee": 129.6,
+      "transactedAt": "2026-07-20 19:54:05",
+      "productCode": "870965001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/27/870965001A.jpg",
+      "ocrConfidence": 48,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "铜,历史币,龙洋,龙,元宝,湖北,鄂造,户部,部光,光绪,绪元,宝二,二十,十文,文湖,北省,省造,造光,宝当,当十,十民,民国,国当,十铜,铜元,元各,各一,一枚"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "coinName": "2004年生肖3.11克金币",
+  "slug": "6ad277ac",
+  "saleCount": 1,
+  "keywords": "金,币,2004年,10盎司,生肖,年盎,盎司,司生,肖猴,猴彩,彩金,金币",
+  "priceStats": {
+    "low": 2300,
+    "high": 2300,
+    "avg": 2300,
+    "latest": 2300
+  },
+  "records": [
+    {
+      "coinName": "2004年1/10盎司生肖猴彩金币",
+      "normalizedBoxCode": "6202800002",
+      "displayBoxCode": "6202800-002",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/416713.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6202800-002/70/",
+      "price": 2300,
+      "priceWithFee": null,
+      "transactedAt": "2024-02-03 21:18:48",
+      "productCode": "AA462996",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2004年,10盎司,生肖,年盎,盎司,司生,肖猴,猴彩,彩金,金币"
+    }
+  ]
+}

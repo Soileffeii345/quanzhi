@@ -1,0 +1,31 @@
+{
+  "coinName": "2004年熊猫31.104克金币",
+  "slug": "7a03c6b8",
+  "saleCount": 1,
+  "keywords": "金,币,2004年,1盎司,熊猫,年盎,盎司,司熊,猫金,金币",
+  "priceStats": {
+    "low": 22370,
+    "high": 22370,
+    "avg": 22370,
+    "latest": 22370
+  },
+  "records": [
+    {
+      "coinName": "2004年1盎司熊猫金币",
+      "normalizedBoxCode": "6176856015",
+      "displayBoxCode": "6176856-015",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/469120.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6176856-015/69/",
+      "price": 22370,
+      "priceWithFee": null,
+      "transactedAt": "2025-03-19 16:13:46",
+      "productCode": "KH061611",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2004年,1盎司,熊猫,年盎,盎司,司熊,猫金,金币"
+    }
+  ]
+}

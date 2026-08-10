@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8757337004",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8757337004",
+      "displayBoxCode": "8757337-004",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1999年明清扇面画1盎司扇形精制银币四枚一套",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10363031.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8757337-004/69/",
+      "price": 5900,
+      "priceWithFee": 6106.5,
+      "transactedAt": "2026-06-25 20:11:05",
+      "productCode": "870630002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/870630002A.jpg",
+      "ocrConfidence": 51,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1999年,1盎司,年明,明清,清扇,扇面,面画,画盎,盎司,司扇,扇形,形精,精制,制银,银币,币四,四枚,枚一,一套,评级"
+    }
+  ]
+}

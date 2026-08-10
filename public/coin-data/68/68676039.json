@@ -1,0 +1,82 @@
+{
+  "coinName": "1997年22克银币",
+  "slug": "68676039",
+  "saleCount": 4,
+  "keywords": "银,币,1997年,22克,年克,克传,传统,统文,文化,化第,第组,组庄,庄子,子银,银币,组故,故宫,宫保,保和,和殿,殿银,组银,组杂,杂技,技银",
+  "priceStats": {
+    "low": 510,
+    "high": 3300,
+    "avg": 1815,
+    "latest": 510
+  },
+  "records": [
+    {
+      "coinName": "1997年22克传统文化第2组庄子银币(UC)",
+      "normalizedBoxCode": "4576754048",
+      "displayBoxCode": "4576754-048",
+      "gradingCompany": "NGC",
+      "grade": "PF 68 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/514082.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4576754-048/68/",
+      "price": 510,
+      "priceWithFee": null,
+      "transactedAt": "2025-11-23 13:26:58",
+      "productCode": "KH091681",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1997年,22克,年克,克传,传统,统文,文化,化第,第组,组庄,庄子,子银,银币"
+    },
+    {
+      "coinName": "1997年22克传统文化第2组故宫保和殿银币(UC)",
+      "normalizedBoxCode": "6045290035",
+      "displayBoxCode": "6045290-035",
+      "gradingCompany": "NGC",
+      "grade": "PF70 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/360214.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6045290-035/70/",
+      "price": 2500,
+      "priceWithFee": null,
+      "transactedAt": "2026-08-09 22:34:14",
+      "productCode": "KH144161",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1997年,22克,年克,克传,传统,统文,文化,化第,第组,组故,故宫,宫保,保和,和殿,殿银,银币"
+    },
+    {
+      "coinName": "1997年22克传统文化第2组银币",
+      "normalizedBoxCode": "80017949",
+      "displayBoxCode": "80017949",
+      "gradingCompany": "PCGS",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/575367.html",
+      "officialCertUrl": "https://cn.pcgs.com/cert/80017949",
+      "price": 3300,
+      "priceWithFee": null,
+      "transactedAt": "2026-05-10 12:06:09",
+      "productCode": "KH131674",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1997年,22克,年克,克传,传统,统文,文化,化第,第组,组银,银币"
+    },
+    {
+      "coinName": "1997年22克传统文化第2组杂技银币(UC)",
+      "normalizedBoxCode": "8575286054",
+      "displayBoxCode": "8575286-054",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/584409.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8575286-054/69/",
+      "price": 950,
+      "priceWithFee": null,
+      "transactedAt": "2026-06-02 14:49:07",
+      "productCode": "AA651866",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1997年,22克,年克,克传,传统,统文,文化,化第,第组,组杂,杂技,技银,银币"
+    }
+  ]
+}

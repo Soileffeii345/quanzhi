@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2055435042",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2055435042",
+      "displayBoxCode": "2055435-042",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "民国三十年中央银行拾圆",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10361802.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2055435-042/",
+      "price": 200,
+      "priceWithFee": 222,
+      "transactedAt": "2026-07-07 21:25:50",
+      "productCode": "870325012",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/870325012B.jpg",
+      "ocrConfidence": 32,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国三,三十,十年,年中,中央,央银,银行,行拾,拾圆"
+    }
+  ]
+}

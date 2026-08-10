@@ -1,0 +1,31 @@
+{
+  "coinName": "2000年熊猫31.104克普制金币",
+  "slug": "65090898",
+  "saleCount": 1,
+  "keywords": "金,币,2000年,1盎司,熊猫,年熊,猫盎,盎司,司普,普制,制金,金币,币深,深圳,圳版",
+  "priceStats": {
+    "low": 35000,
+    "high": 35000,
+    "avg": 35000,
+    "latest": 35000
+  },
+  "records": [
+    {
+      "coinName": "2000年熊猫1盎司普制金币（深圳版）",
+      "normalizedBoxCode": "8362558011",
+      "displayBoxCode": "8362558-011",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-jiujin/10376607.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8362558-011/69/",
+      "price": 35000,
+      "priceWithFee": 36225,
+      "transactedAt": "2026-07-09 21:14:45",
+      "productCode": "871886002",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2000年,1盎司,熊猫,年熊,猫盎,盎司,司普,普制,制金,金币,币深,深圳,圳版"
+    }
+  ]
+}

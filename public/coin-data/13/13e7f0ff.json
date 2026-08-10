@@ -1,0 +1,48 @@
+{
+  "coinName": "1990年熊猫12盎司银币",
+  "slug": "13e7f0ff",
+  "saleCount": 2,
+  "keywords": "银,币,1990年,12盎司,熊猫,年盎,盎司,司熊,猫银,银币",
+  "priceStats": {
+    "low": 8800,
+    "high": 11000,
+    "avg": 9900,
+    "latest": 8800
+  },
+  "records": [
+    {
+      "coinName": "1990年12盎司熊猫银币",
+      "normalizedBoxCode": "5755782009",
+      "displayBoxCode": "5755782-009",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/521745.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/5755782-009/69/",
+      "price": 8800,
+      "priceWithFee": null,
+      "transactedAt": "2025-12-22 17:18:32",
+      "productCode": "KH096364",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1990年,12盎司,熊猫,年盎,盎司,司熊,猫银,银币"
+    },
+    {
+      "coinName": "1990年12盎司熊猫银币",
+      "normalizedBoxCode": "6194397004",
+      "displayBoxCode": "6194397-004",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/585294.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6194397-004/69/",
+      "price": 11000,
+      "priceWithFee": null,
+      "transactedAt": "2026-06-09 11:45:20",
+      "productCode": "DB203842",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1990年,12盎司,熊猫,年盎,盎司,司熊,猫银,银币"
+    }
+  ]
+}

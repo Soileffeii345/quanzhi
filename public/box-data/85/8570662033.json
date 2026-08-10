@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8570662033",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8570662033",
+      "displayBoxCode": "8570662-033",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1992年中国精制硬币伍角",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10398191.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8570662-033/",
+      "price": 200,
+      "priceWithFee": 216,
+      "transactedAt": "2026-07-15 21:27:50",
+      "productCode": "874428001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/874428001A.jpg",
+      "ocrConfidence": 39,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1992年,年中,中国,国精,精制,制硬,硬币,币伍,伍角,评级"
+    }
+  ]
+}

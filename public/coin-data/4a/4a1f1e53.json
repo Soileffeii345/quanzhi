@@ -1,0 +1,31 @@
+{
+  "coinName": "第一版人民币双马耕地10000元五星水印",
+  "slug": "4a1f1e53",
+  "saleCount": 1,
+  "keywords": "币,第一,一版,版人,人民,民币,币双,双马,马耕,耕地,地元,元五,五星,星水,水印",
+  "priceStats": {
+    "low": 4250,
+    "high": 4250,
+    "avg": 4250,
+    "latest": 4250
+  },
+  "records": [
+    {
+      "coinName": "第一版人民币双马耕地10000元五星水印",
+      "normalizedBoxCode": "2397395002",
+      "displayBoxCode": "2397395-002",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/diyibanrenminbi/10383773.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2397395-002/",
+      "price": 4250,
+      "priceWithFee": 4675,
+      "transactedAt": "2026-07-16 20:10:12",
+      "productCode": "872631001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,第一,一版,版人,人民,民币,币双,双马,马耕,耕地,地元,元五,五星,星水,水印"
+    }
+  ]
+}

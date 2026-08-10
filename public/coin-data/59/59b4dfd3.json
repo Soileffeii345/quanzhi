@@ -1,0 +1,31 @@
+{
+  "coinName": "2015年生肖380克银币",
+  "slug": "59b4dfd3",
+  "saleCount": 1,
+  "keywords": "银,章,2015年,380克,生肖,年克,克生,肖羊,羊银,银章",
+  "priceStats": {
+    "low": 9300,
+    "high": 9300,
+    "avg": 9300,
+    "latest": 9300
+  },
+  "records": [
+    {
+      "coinName": "2015年380克生肖羊银章",
+      "normalizedBoxCode": "4638698002",
+      "displayBoxCode": "4638698-002",
+      "gradingCompany": "NGC",
+      "grade": "MS 70",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/529685.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4638698-002/70/",
+      "price": 9300,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-20 14:35:31",
+      "productCode": "KH102266",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,章,2015年,380克,生肖,年克,克生,肖羊,羊银,银章"
+    }
+  ]
+}

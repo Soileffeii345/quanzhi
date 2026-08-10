@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8758193023",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8758193023",
+      "displayBoxCode": "8758193-023",
+      "gradingCompany": "NGC",
+      "grade": "MS 67",
+      "coinName": "1999年熊猫1/4盎司普制金币(大字版 PLAIN 1)",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-jiujin/10356004.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8758193-023/67/",
+      "price": 9700,
+      "priceWithFee": 10039.5,
+      "transactedAt": "2026-06-25 20:25:35",
+      "productCode": "869853005",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/869853005A.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1999年,4盎司,熊猫,年熊,猫盎,盎司,司普,普制,制金,金币,币大,大字,字版"
+    }
+  ]
+}

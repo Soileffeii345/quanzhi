@@ -1,0 +1,31 @@
+{
+  "coinName": "民国三十一年中国农民银行壹百圆",
+  "slug": "44264c79",
+  "saleCount": 1,
+  "keywords": "银,历史币,民国,国三,三十,十一,一年,年中,中国,国农,农民,民银,银行,行壹,壹百,百圆",
+  "priceStats": {
+    "low": 4300,
+    "high": 4300,
+    "avg": 4300,
+    "latest": 4300
+  },
+  "records": [
+    {
+      "coinName": "民国三十一年中国农民银行壹百圆",
+      "normalizedBoxCode": "2277638071",
+      "displayBoxCode": "2277638-071",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10362299.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2277638-071/",
+      "price": 4300,
+      "priceWithFee": 4773,
+      "transactedAt": "2026-07-16 20:57:10",
+      "productCode": "870679001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国三,三十,十一,一年,年中,中国,国农,农民,民银,银行,行壹,壹百,百圆"
+    }
+  ]
+}

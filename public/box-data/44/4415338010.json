@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4415338010",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4415338010",
+      "displayBoxCode": "4415338-010",
+      "gradingCompany": "NGC",
+      "grade": "PF70 ULTRA CAMEO",
+      "coinName": "2005年1/2盎司郑和下西洋彩金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/416519.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4415338-010/70/",
+      "price": 7300,
+      "priceWithFee": null,
+      "transactedAt": "2024-02-03 08:13:38",
+      "productCode": "AA462805",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20240202/large_sell_btrvvajffhew3bxf.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2005年,2盎司,年盎,盎司,司郑,郑和,和下,下西,西洋,洋彩,彩金,金币"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6402603020",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6402603020",
+      "displayBoxCode": "6402603-020",
+      "gradingCompany": "NGC",
+      "grade": "PF70 ULTRA CAMEO",
+      "coinName": "2004年1/10盎司观音幻彩金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/527673.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6402603-020/70/",
+      "price": 7400,
+      "priceWithFee": null,
+      "transactedAt": "2026-06-09 19:02:09",
+      "productCode": "KH138211",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260104/large_sell_bm6woeiicerqgm9q.jpg",
+      "ocrConfidence": 49,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2004年,10盎司,宗教,年盎,盎司,司观,观音,音幻,幻彩,彩金,金币"
+    }
+  ]
+}

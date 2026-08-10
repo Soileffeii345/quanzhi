@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "1866695044",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "1866695044",
+      "displayBoxCode": "1866695-044",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2018年中国银行（香港）有限公司港币伍拾元",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/liantichao-jinianchao/10395670.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1866695-044/",
+      "price": 200,
+      "priceWithFee": 216,
+      "transactedAt": "2026-07-11 21:13:55",
+      "productCode": "874349015",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/874349015B.jpg",
+      "ocrConfidence": 25,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2018年,年中,中国,国银,银行,行香,香港,港有,有限,限公,公司,司港,港币,币伍,伍拾,拾元,外国/特区"
+    }
+  ]
+}

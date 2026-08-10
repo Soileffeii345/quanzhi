@@ -1,0 +1,48 @@
+{
+  "coinName": "2022年熊猫30克银币",
+  "slug": "4c5128f9",
+  "saleCount": 2,
+  "keywords": "银,币,2022年,30克,熊猫,年克,克熊,猫银,银币",
+  "priceStats": {
+    "low": 500,
+    "high": 500,
+    "avg": 500,
+    "latest": 500
+  },
+  "records": [
+    {
+      "coinName": "2022年30克熊猫银币",
+      "normalizedBoxCode": "6181188045",
+      "displayBoxCode": "6181188-045",
+      "gradingCompany": "NGC",
+      "grade": "MS 70",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/515777.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6181188-045/70/",
+      "price": 500,
+      "priceWithFee": null,
+      "transactedAt": "2025-12-02 06:25:59",
+      "productCode": "AA599451",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2022年,30克,熊猫,年克,克熊,猫银,银币"
+    },
+    {
+      "coinName": "2022年30克熊猫银币",
+      "normalizedBoxCode": "87943280",
+      "displayBoxCode": "87943280",
+      "gradingCompany": "PCGS",
+      "grade": "MS70",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/514352.html",
+      "officialCertUrl": "https://cn.pcgs.com/cert/87943280",
+      "price": 500,
+      "priceWithFee": null,
+      "transactedAt": "2025-12-20 17:02:12",
+      "productCode": "KH093899",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2022年,30克,熊猫,年克,克熊,猫银,银币"
+    }
+  ]
+}

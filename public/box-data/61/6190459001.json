@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6190459001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6190459001",
+      "displayBoxCode": "6190459-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2019年3克生肖猪金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/512755.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6190459-001/70/",
+      "price": 3800,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-23 13:19:07",
+      "productCode": "KH111484",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251114/large_sell_hdlwleuxzfx5cuwf.jpg",
+      "ocrConfidence": 51,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2019年,3克,生肖,年克,克生,肖猪,猪金,金币"
+    }
+  ]
+}

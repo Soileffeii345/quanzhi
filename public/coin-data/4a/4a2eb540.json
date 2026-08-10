@@ -1,0 +1,31 @@
+{
+  "coinName": "1897年金铜币",
+  "slug": "4a2eb540",
+  "saleCount": 1,
+  "keywords": "金,铜,章,1897年,年法,法国,国巴,巴黎,黎国,国际,际博,博览,览会,会镀,镀金,金铜,铜章,外国/特区",
+  "priceStats": {
+    "low": 800,
+    "high": 800,
+    "avg": 800,
+    "latest": 800
+  },
+  "records": [
+    {
+      "coinName": "1897年法国巴黎国际博览会镀金铜章",
+      "normalizedBoxCode": "8619194007",
+      "displayBoxCode": "8619194-007",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianbi/10424732.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8619194-007/",
+      "price": 800,
+      "priceWithFee": 888,
+      "transactedAt": "2026-07-24 20:55:05",
+      "productCode": "877433008",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,铜,章,1897年,年法,法国,国巴,巴黎,黎国,国际,际博,博览,览会,会镀,镀金,金铜,铜章,外国/特区"
+    }
+  ]
+}

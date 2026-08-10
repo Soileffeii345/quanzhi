@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2100278049",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2100278049",
+      "displayBoxCode": "2100278-049",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1979年中国银行外汇兑换券10元票样（PMG 68EPQ）",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waihuiduihuanquan/10422397.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2100278-049/",
+      "price": 920,
+      "priceWithFee": 993.6,
+      "transactedAt": "2026-07-25 21:37:40",
+      "productCode": "877828002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/877828002B.jpg",
+      "ocrConfidence": 48,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,钞,1979年,年中,中国,国银,银行,行外,外汇,汇兑,兑换,换券,券元,元票,票样"
+    }
+  ]
+}

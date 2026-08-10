@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2018104013",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2018104013",
+      "displayBoxCode": "2018104-013",
+      "gradingCompany": "NGC",
+      "grade": "PF 69",
+      "coinName": "2009年1/4盎司农业银行成立金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/504280.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2018104-013/69/",
+      "price": 7140,
+      "priceWithFee": null,
+      "transactedAt": "2025-10-09 15:53:42",
+      "productCode": "AA586827A",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250921/large_sell_caklx0xspj9dp0du.jpg",
+      "ocrConfidence": 32,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,2009年,4盎司,年盎,盎司,司农,农业,业银,银行,行成,成立,立金,金币"
+    }
+  ]
+}

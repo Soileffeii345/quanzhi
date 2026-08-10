@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8611263092",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8611263092",
+      "displayBoxCode": "8611263-092",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1997年中国近代名画飞禽-企鹅1/2盎司十二边形精制金币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10379352.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8611263-092/69/",
+      "price": 13200,
+      "priceWithFee": 13662,
+      "transactedAt": "2026-07-02 20:52:10",
+      "productCode": "872407004",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/27/872407004A.jpg",
+      "ocrConfidence": 31,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1997年,2盎司,年中,中国,国近,近代,代名,名画,画飞,飞禽,禽企,企鹅,鹅盎,盎司,司十,十二,二边,边形,形精,精制,制金,金币,评级"
+    }
+  ]
+}

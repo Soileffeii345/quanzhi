@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8610819027",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8610819027",
+      "displayBoxCode": "8610819-027",
+      "gradingCompany": "NGC",
+      "grade": "MS 68",
+      "coinName": "1999年熊猫1盎司普制银币（小字版）",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-jiuyin/10350673.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8610819-027/68/",
+      "price": 1840,
+      "priceWithFee": 1904.4,
+      "transactedAt": "2026-06-22 20:47:10",
+      "productCode": "869116003",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/869116003A.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1999年,1盎司,熊猫,年熊,猫盎,盎司,司普,普制,制银,银币,币小,小字,字版"
+    }
+  ]
+}

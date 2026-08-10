@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6000869001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6000869001",
+      "displayBoxCode": "6000869-001",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "coinName": "1996年1/10盎司郑和诞辰625周年金章",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/500594.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6000869-001/69/",
+      "price": 3000,
+      "priceWithFee": null,
+      "transactedAt": "2025-10-06 16:59:18",
+      "productCode": "KH083769",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250916/large_sell_nfxlf4m1yvo6pi47.jpg",
+      "ocrConfidence": 56,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,章,1996年,10盎司,年盎,盎司,司郑,郑和,和诞,诞辰,辰周,周年,年金,金章"
+    }
+  ]
+}

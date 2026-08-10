@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2580733073",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2580733073",
+      "displayBoxCode": "2580733-073",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2012年危地马拉纸钞",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10392449.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2580733-073/",
+      "price": 70,
+      "priceWithFee": 77.7,
+      "transactedAt": "2026-07-14 21:56:35",
+      "productCode": "873792031",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/873792031B.jpg",
+      "ocrConfidence": 28,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,2012年,年危,危地,地马,马拉,拉纸,纸钞"
+    }
+  ]
+}

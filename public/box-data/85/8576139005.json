@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8576139005",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8576139005",
+      "displayBoxCode": "8576139-005",
+      "gradingCompany": "NGC",
+      "grade": "PF69 ULTRA CAMEO",
+      "coinName": "2017年5克熊猫金币发行35周年金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/503751.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8576139-005/69/",
+      "price": 4415,
+      "priceWithFee": null,
+      "transactedAt": "2025-10-01 10:06:14",
+      "productCode": "KH085563",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251001/large_sell_2nu2yxkivjayosyx.jpg",
+      "ocrConfidence": 39,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2017年,5克,熊猫,年克,克熊,猫金,金币,币发,发行,行周,周年,年金"
+    }
+  ]
+}

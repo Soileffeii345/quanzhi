@@ -1,0 +1,45 @@
+{
+  "ok": true,
+  "query": "8197758012",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8197758012",
+      "displayBoxCode": "8197758-012",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2003年1/2盎司西游记第1组彩金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/499543.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8197758-012/",
+      "price": 12975,
+      "priceWithFee": null,
+      "transactedAt": "2025-09-11 13:17:00",
+      "productCode": "KH083154",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250909/large_sell_1bgqos1pzf7uzmet.jpg",
+      "ocrConfidence": 47,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2003年,2盎司,年盎,盎司,司西,西游,游记,记第,第组,组彩,彩金,金币"
+    },
+    {
+      "normalizedBoxCode": "8197758012",
+      "displayBoxCode": "8197758-012",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2003年1/2盎司西游记第1组彩金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/496149.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8197758-012/69/",
+      "price": 12310,
+      "priceWithFee": null,
+      "transactedAt": "2025-08-24 14:04:53",
+      "productCode": "KH079745",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250824/large_sell_zfy62ec6i0vbigcm.jpg",
+      "ocrConfidence": 45,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2003年,2盎司,年盎,盎司,司西,西游,游记,记第,第组,组彩,彩金,金币"
+    }
+  ]
+}

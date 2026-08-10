@@ -1,0 +1,31 @@
+{
+  "coinName": "2024年31.104克银币",
+  "slug": "69359c16",
+  "saleCount": 1,
+  "keywords": "银,币,章,2024年,1盎司,年盎,盎司,司香,香港,港钱,钱币,币研,研究,究会,会周,周年,年银,银章,外国/特区",
+  "priceStats": {
+    "low": 1100,
+    "high": 1100,
+    "avg": 1100,
+    "latest": 1100
+  },
+  "records": [
+    {
+      "coinName": "2024年1盎司香港钱币研究会60周年银章",
+      "normalizedBoxCode": "6754062040",
+      "displayBoxCode": "6754062-040",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/534358.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6754062-040/",
+      "price": 1100,
+      "priceWithFee": null,
+      "transactedAt": "2026-03-27 06:06:02",
+      "productCode": "KH126491",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,章,2024年,1盎司,年盎,盎司,司香,香港,港钱,钱币,币研,研究,究会,会周,周年,年银,银章,外国/特区"
+    }
+  ]
+}

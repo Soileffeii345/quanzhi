@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2117407009",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2117407009",
+      "displayBoxCode": "2117407-009",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1932年中国银行伍圆背面票样、民国二十九年中央储备银行伍分各一枚，共二枚",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10362317.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2117407-009/",
+      "price": 7600,
+      "priceWithFee": 8436,
+      "transactedAt": "2026-07-09 21:22:30",
+      "productCode": "870330002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/870330002B.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,钞,1932年,历史币,年中,中国,国银,银行,行伍,伍圆,圆背,背面,面票,票样,样民,民国,国二,二十,十九,九年,中央,央储,储备,备银,伍分,分各,各一,一枚,枚共,共二,二枚"
+    }
+  ]
+}

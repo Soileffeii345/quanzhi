@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8653732008",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8653732008",
+      "displayBoxCode": "8653732-008",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1983年长城币伍角",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10400858.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8653732-008/",
+      "price": 470,
+      "priceWithFee": 507.6,
+      "transactedAt": "2026-07-15 21:07:50",
+      "productCode": "875066006",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/875066006A.jpg",
+      "ocrConfidence": 32,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1983年,年长,长城,城币,币伍,伍角"
+    }
+  ]
+}

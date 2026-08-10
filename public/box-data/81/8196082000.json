@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8196082000",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8196082000",
+      "displayBoxCode": "8196082-000",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1995年1盎司抗战胜利50周年南京大屠杀纪念馆金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/459462.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8196082-000/69/",
+      "price": 32000,
+      "priceWithFee": null,
+      "transactedAt": "2025-03-10 07:38:20",
+      "productCode": "AA537516A",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20241218/large_sell_hcvxes7itherfwt8.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1995年,1盎司,重大事件,年盎,盎司,司抗,抗战,战胜,胜利,利周,周年,年南,南京,京大,大屠,屠杀,杀纪,纪念,念馆,馆金,金币"
+    }
+  ]
+}

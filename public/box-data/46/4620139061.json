@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4620139061",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4620139061",
+      "displayBoxCode": "4620139-061",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1996年2/3盎司梅花形生肖鼠银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/502736.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4620139-061/69/",
+      "price": 1400,
+      "priceWithFee": null,
+      "transactedAt": "2025-10-07 14:09:04",
+      "productCode": "AA587881",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250925/large_sell_7xqwhaul6nmlaf8o.jpg",
+      "ocrConfidence": 31,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1996年,3盎司,生肖,年盎,盎司,司梅,梅花,花形,形生,肖鼠,鼠银,银币"
+    }
+  ]
+}

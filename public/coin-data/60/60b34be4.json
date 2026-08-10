@@ -1,0 +1,48 @@
+{
+  "coinName": "2003年5盎司精制银币",
+  "slug": "60b34be4",
+  "saleCount": 2,
+  "keywords": "银,币,2003年,5盎司,年中,中国,国古,古典,典文,文学,学名,名著,著红,红楼,楼梦,梦第,第组,组贾,贾母,母祝,祝寿,寿盎,盎司,司扇,扇形,形精,精制,制彩,彩银,银币,评级",
+  "priceStats": {
+    "low": 4050,
+    "high": 4100,
+    "avg": 4075,
+    "latest": 4050
+  },
+  "records": [
+    {
+      "coinName": "2003年中国古典文学名著《红楼梦》第（3）组-贾母祝寿5盎司扇形精制彩银币",
+      "normalizedBoxCode": "8610308036",
+      "displayBoxCode": "8610308-036",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10415016.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8610308-036/69/",
+      "price": 4050,
+      "priceWithFee": 4191.75,
+      "transactedAt": "2026-07-23 20:04:15",
+      "productCode": "876728012",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2003年,5盎司,年中,中国,国古,古典,典文,文学,学名,名著,著红,红楼,楼梦,梦第,第组,组贾,贾母,母祝,祝寿,寿盎,盎司,司扇,扇形,形精,精制,制彩,彩银,银币,评级"
+    },
+    {
+      "coinName": "2003年中国古典文学名著《红楼梦》第（3）组-贾母祝寿5盎司扇形精制彩银币",
+      "normalizedBoxCode": "8610398036",
+      "displayBoxCode": "8610398-036",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10350376.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8610398-036/69/",
+      "price": 4100,
+      "priceWithFee": 4243.5,
+      "transactedAt": "2026-06-18 20:34:10",
+      "productCode": "869329003",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2003年,5盎司,年中,中国,国古,古典,典文,文学,学名,名著,著红,红楼,楼梦,梦第,第组,组贾,贾母,母祝,祝寿,寿盎,盎司,司扇,扇形,形精,精制,制彩,彩银,银币,评级"
+    }
+  ]
+}

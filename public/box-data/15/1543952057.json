@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "1543952057",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "1543952057",
+      "displayBoxCode": "1543952-057",
+      "gradingCompany": "NGC",
+      "grade": "MS 70",
+      "coinName": "2006年美国1盎司水牛金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/485533.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1543952-057/70/",
+      "price": 24735,
+      "priceWithFee": null,
+      "transactedAt": "2025-06-26 12:47:00",
+      "productCode": "AA569978",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250626/large_sell_ridmpf5h1343elrq.jpg",
+      "ocrConfidence": 37,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2006年,1盎司,年美,美国,国盎,盎司,司水,水牛,牛金,金币,外国/特区"
+    }
+  ]
+}

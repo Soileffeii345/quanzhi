@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6191539001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6191539001",
+      "displayBoxCode": "6191539-001",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1992年壬申猴年生肖1盎司精制金币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-jin/10397596.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6191539-001/",
+      "price": 41500,
+      "priceWithFee": 42952.5,
+      "transactedAt": "2026-07-16 21:06:45",
+      "productCode": "874813002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/874813002A.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1992年,1盎司,生肖,年壬,壬申,申猴,猴年,年生,肖盎,盎司,司精,精制,制金,金币,评级"
+    }
+  ]
+}

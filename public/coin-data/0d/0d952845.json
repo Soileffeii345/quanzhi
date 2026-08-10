@@ -1,0 +1,31 @@
+{
+  "coinName": "2016年贺岁8克普制银币",
+  "slug": "0d952845",
+  "saleCount": 1,
+  "keywords": "银,币,2016年,8克,吉祥文化,年福,福字,字贺,贺岁,岁克,克普,普制,制银,银币,币二,二枚",
+  "priceStats": {
+    "low": 470,
+    "high": 470,
+    "avg": 470,
+    "latest": 470
+  },
+  "records": [
+    {
+      "coinName": "2016年福字贺岁8克普制银币二枚",
+      "normalizedBoxCode": "4320928025",
+      "displayBoxCode": "4320928-025",
+      "gradingCompany": "NGC",
+      "grade": "MS 70",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10358542.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4320928-025/70/",
+      "price": 470,
+      "priceWithFee": 486.45,
+      "transactedAt": "2026-06-29 21:23:05",
+      "productCode": "869919002",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2016年,8克,吉祥文化,年福,福字,字贺,贺岁,岁克,克普,普制,制银,银币,币二,二枚"
+    }
+  ]
+}

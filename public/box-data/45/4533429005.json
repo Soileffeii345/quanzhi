@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4533429005",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4533429005",
+      "displayBoxCode": "4533429-005",
+      "gradingCompany": "NGC",
+      "grade": "PF 67 ULTRA CAMEO",
+      "coinName": "1990年5盎司第16届冬奥会速度滑冰银币(大星版-UC)",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/527290.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4533429-005/67/",
+      "price": 3400,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-10 20:22:11",
+      "productCode": "KH101221",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260103/large_sell_16sgahi1k9b4ppis.jpg",
+      "ocrConfidence": 38,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1990年,5盎司,奥运,年盎,盎司,司第,第届,届冬,冬奥,奥会,会速,速度,度滑,滑冰,冰银,银币,币大,大星,星版"
+    }
+  ]
+}

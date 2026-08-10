@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6761099047",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6761099047",
+      "displayBoxCode": "6761099-047",
+      "gradingCompany": "NGC",
+      "grade": "ms70",
+      "coinName": "2盎司 银币若干 X5",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/552083.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6761099-047/70/",
+      "price": 7435,
+      "priceWithFee": null,
+      "transactedAt": "2026-02-04 15:20:26",
+      "productCode": "KH117744.....117748",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260204/large_sell_qevmgoequk6mz6qf.jpg",
+      "ocrConfidence": 38,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2盎司,盎司,司银,银币,币若,若干"
+    }
+  ]
+}

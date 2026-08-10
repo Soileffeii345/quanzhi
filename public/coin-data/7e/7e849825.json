@@ -1,0 +1,48 @@
+{
+  "coinName": "1994年27克银币",
+  "slug": "7e849825",
+  "saleCount": 2,
+  "keywords": "银,币,1994年,27克,年克,克第,第届,届世,世界,界杯,杯发,发角,角球,球银,银币,章,克妈,妈祖,祖银,银章",
+  "priceStats": {
+    "low": 960,
+    "high": 1100,
+    "avg": 1030,
+    "latest": 960
+  },
+  "records": [
+    {
+      "coinName": "1994年27克第15届世界杯发角球银币",
+      "normalizedBoxCode": "4312286052",
+      "displayBoxCode": "4312286-052",
+      "gradingCompany": "NGC",
+      "grade": "PF 68 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/554483.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4312286-052/68/",
+      "price": 960,
+      "priceWithFee": null,
+      "transactedAt": "2026-03-23 20:36:02",
+      "productCode": "KH125070",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1994年,27克,年克,克第,第届,届世,世界,界杯,杯发,发角,角球,球银,银币"
+    },
+    {
+      "coinName": "1994年27克妈祖银章 X2",
+      "normalizedBoxCode": "8187588043",
+      "displayBoxCode": "8187588-043",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/464479.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8187588-043/69/",
+      "price": 1100,
+      "priceWithFee": null,
+      "transactedAt": "2025-03-08 00:02:48",
+      "productCode": "AA551041.42",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,章,1994年,27克,年克,克妈,妈祖,祖银,银章"
+    }
+  ]
+}

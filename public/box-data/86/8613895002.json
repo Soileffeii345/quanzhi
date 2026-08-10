@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8613895002",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8613895002",
+      "displayBoxCode": "8613895-002",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2025年8克抗战胜利80周年金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/511744.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8613895-002/70/",
+      "price": 9500,
+      "priceWithFee": null,
+      "transactedAt": "2025-11-25 14:50:55",
+      "productCode": "AA595821",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251111/large_sell_cijldm88iej5rgff.jpg",
+      "ocrConfidence": 31,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2025年,8克,重大事件,年克,克抗,抗战,战胜,胜利,利周,周年,年金,金币"
+    }
+  ]
+}

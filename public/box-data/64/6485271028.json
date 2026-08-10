@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6485271028",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6485271028",
+      "displayBoxCode": "6485271-028",
+      "gradingCompany": "NGC",
+      "grade": "PF 69",
+      "coinName": "1989年1/4盎司第11届亚运会第1组艺术体操金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/534473.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6485271-028/69/",
+      "price": 8400,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-21 01:40:26",
+      "productCode": "KH109718",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260119/large_sell_jzgyodhhxf1rk5qd.jpg",
+      "ocrConfidence": 28,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1989年,4盎司,年盎,盎司,司第,第届,届亚,亚运,运会,会第,第组,组艺,艺术,术体,体操,操金,金币"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8819606023",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8819606023",
+      "displayBoxCode": "8819606-023",
+      "gradingCompany": "NGC",
+      "grade": "PF68",
+      "coinName": "2001年中国民俗-中秋节1盎司精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10358632.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8819606-023/68/",
+      "price": 1120,
+      "priceWithFee": 1159.2,
+      "transactedAt": "2026-06-22 21:38:10",
+      "productCode": "870078007",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/870078007A.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2001年,1盎司,年中,中国,国民,民俗,俗中,中秋,秋节,节盎,盎司,司精,精制,制银,银币,评级"
+    }
+  ]
+}

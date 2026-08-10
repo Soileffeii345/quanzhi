@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6723698023",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6723698023",
+      "displayBoxCode": "6723698-023",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "coinName": "1999年1盎司富贵有余银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/561928.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6723698-023/69/",
+      "price": 2050,
+      "priceWithFee": null,
+      "transactedAt": "2026-03-14 12:50:49",
+      "productCode": "KH124433",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260313/large_sell_znmmjqfyfbbyabff.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1999年,1盎司,年盎,盎司,司富,富贵,贵有,有余,余银,银币"
+    }
+  ]
+}

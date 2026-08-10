@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4804883010",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4804883010",
+      "displayBoxCode": "4804883-010",
+      "gradingCompany": "NGC",
+      "grade": "MS 67",
+      "coinName": "1994年中国硬币壹角",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10357534.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4804883-010/67/",
+      "price": 45,
+      "priceWithFee": 48.6,
+      "transactedAt": "2026-06-24 20:51:25",
+      "productCode": "870050004",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/870050004A.jpg",
+      "ocrConfidence": 40,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1994年,年中,中国,国硬,硬币,币壹,壹角"
+    }
+  ]
+}

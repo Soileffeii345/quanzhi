@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8202382016",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8202382016",
+      "displayBoxCode": "8202382-016",
+      "gradingCompany": "NGC",
+      "grade": "MS 67",
+      "coinName": "1985年新疆，西藏+1987年内蒙古+1988年广西壮族自治区成立纪念币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/559773.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8202382-016/67/",
+      "price": 1200,
+      "priceWithFee": null,
+      "transactedAt": "2026-05-16 20:40:58",
+      "productCode": "KH131880",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260308/large_sell_0ag5ti3yb0rnoczt.jpg",
+      "ocrConfidence": 38,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1985年,新疆版,年新,新疆,疆西,西藏,藏年,年内,内蒙,蒙古,古年,年广,广西,西壮,壮族,族自,自治,治区,区成,成立,立纪,纪念,念币"
+    }
+  ]
+}

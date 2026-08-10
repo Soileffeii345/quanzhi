@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8579001019",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8579001019",
+      "displayBoxCode": "8579001-019",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2025年中国京剧艺术流通纪念币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10386687.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8579001-019/",
+      "price": 140,
+      "priceWithFee": 151.2,
+      "transactedAt": "2026-07-08 19:22:45",
+      "productCode": "873486005",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/27/873486005A.jpg",
+      "ocrConfidence": 38,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2025年,戏曲,年中,中国,国京,京剧,剧艺,艺术,术流,流通,通纪,纪念,念币"
+    }
+  ]
+}

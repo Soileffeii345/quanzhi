@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4414279003",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4414279003",
+      "displayBoxCode": "4414279-003",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2010年1/20盎司熊猫金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/552926.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4414279-003/",
+      "price": 2550,
+      "priceWithFee": null,
+      "transactedAt": "2026-03-02 21:31:48",
+      "productCode": "AA619825",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260206/large_sell_wpnhjjo7otjlzzdn.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2010年,20盎司,熊猫,年盎,盎司,司熊,猫金,金币"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "1762273001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "1762273001",
+      "displayBoxCode": "1762273-001",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "民国三十六年中央银行关金伍仟圆",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10367315.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1762273-001/",
+      "price": 500,
+      "priceWithFee": 555,
+      "transactedAt": "2026-07-21 21:52:05",
+      "productCode": "870332016",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/26/870332016B.jpg",
+      "ocrConfidence": 26,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,历史币,民国,国三,三十,十六,六年,年中,中央,央银,银行,行关,关金,金伍,伍仟,仟圆"
+    }
+  ]
+}

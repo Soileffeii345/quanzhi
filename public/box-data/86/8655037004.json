@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8655037004",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8655037004",
+      "displayBoxCode": "8655037-004",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2023年5克吉祥文化人寿年丰金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/555491.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8655037-004/70/",
+      "price": 7400,
+      "priceWithFee": null,
+      "transactedAt": "2026-03-01 10:09:26",
+      "productCode": "KH121441",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260221/large_sell_drhf7bmvzoapiszm.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2023年,5克,吉祥文化,年克,克吉,吉祥,祥文,文化,化人,人寿,寿年,年丰,丰金,金币"
+    }
+  ]
+}

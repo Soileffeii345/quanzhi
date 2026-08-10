@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8610164001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8610164001",
+      "displayBoxCode": "8610164-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 68 ULTRA CAMEO",
+      "coinName": "2001年1公斤熊猫银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/569178.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8610164-001/68/",
+      "price": 28600,
+      "priceWithFee": null,
+      "transactedAt": "2026-04-13 12:31:35",
+      "productCode": "KH129570",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260402/large_sell_kq9xknqvkbt48zji.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2001年,1公斤,熊猫,年公,公斤,斤熊,猫银,银币"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6434108003",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6434108003",
+      "displayBoxCode": "6434108-003",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1992年新加坡1/10盎司弥勒佛金章",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/505147.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6434108-003/",
+      "price": 3000,
+      "priceWithFee": null,
+      "transactedAt": "2025-10-13 21:03:05",
+      "productCode": "AA589960",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251013/large_sell_q9vkjspy3inna2u9.jpg",
+      "ocrConfidence": 32,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,章,1992年,10盎司,宗教,年新,新加,加坡,坡盎,盎司,司弥,弥勒,勒佛,佛金,金章"
+    }
+  ]
+}

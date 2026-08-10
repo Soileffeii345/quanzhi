@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6761819001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6761819001",
+      "displayBoxCode": "6761819-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2001年1/2盎司敦煌石窟金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/553579.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6761819-001/70/",
+      "price": 39000,
+      "priceWithFee": null,
+      "transactedAt": "2026-08-05 08:14:57",
+      "productCode": "KH143734",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260208/large_sell_xzzlbr8hc5vxygxz.jpg",
+      "ocrConfidence": 41,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2001年,2盎司,年盎,盎司,司敦,敦煌,煌石,石窟,窟金,金币"
+    }
+  ]
+}

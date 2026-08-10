@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6743722016",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6743722016",
+      "displayBoxCode": "6743722-016",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1993年中国古代名画-孔雀开屏1/4盎司普制金币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10355336.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6743722-016/",
+      "price": 8000,
+      "priceWithFee": 8280,
+      "transactedAt": "2026-06-25 21:46:05",
+      "productCode": "869812006",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/869812006A.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1993年,4盎司,年中,中国,国古,古代,代名,名画,画孔,孔雀,雀开,开屏,屏盎,盎司,司普,普制,制金,金币"
+    }
+  ]
+}

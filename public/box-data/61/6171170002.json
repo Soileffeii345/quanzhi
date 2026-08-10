@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6171170002",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6171170002",
+      "displayBoxCode": "6171170-002",
+      "gradingCompany": "NGC",
+      "grade": "PF 68 ULTRA CAMEO",
+      "coinName": "1999年中国精制硬币贰分",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10358282.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6171170-002/68/",
+      "price": 160,
+      "priceWithFee": 172.8,
+      "transactedAt": "2026-06-24 20:43:25",
+      "productCode": "869724005",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/869724005A.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1999年,年中,中国,国精,精制,制硬,硬币,币贰,贰分,评级"
+    }
+  ]
+}

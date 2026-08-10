@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "3774017127",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "3774017127",
+      "displayBoxCode": "3774017-127",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2003年美国莱特兄弟精制银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/447830.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3774017-127/69/",
+      "price": 480,
+      "priceWithFee": null,
+      "transactedAt": "2024-09-11 13:42:43",
+      "productCode": "AA500056",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20240910/large_sell_zri45dpcisl1cffj.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2003年,年美,美国,国莱,莱特,特兄,兄弟,弟精,精制,制银,银币,评级,外国/特区"
+    }
+  ]
+}

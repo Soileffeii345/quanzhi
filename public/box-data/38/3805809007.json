@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "3805809007",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "3805809007",
+      "displayBoxCode": "3805809-007",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2013年1公斤黄山银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/539999.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3805809-007/69/",
+      "price": 27720,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-27 12:25:07",
+      "productCode": "KH114277",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260127/large_sell_l2icihe7m2viau7n.jpg",
+      "ocrConfidence": 43,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2013年,1公斤,名山,年公,公斤,斤黄,黄山,山银,银币"
+    }
+  ]
+}

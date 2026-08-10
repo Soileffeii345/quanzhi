@@ -1,0 +1,31 @@
+{
+  "coinName": "1991年生肖8克金币",
+  "slug": "6f33dd49",
+  "saleCount": 1,
+  "keywords": "金,币,1991年,8克,生肖,年克,克生,肖羊,羊金,金币",
+  "priceStats": {
+    "low": 8200,
+    "high": 8200,
+    "avg": 8200,
+    "latest": 8200
+  },
+  "records": [
+    {
+      "coinName": "1991年8克生肖羊金币",
+      "normalizedBoxCode": "6761218004",
+      "displayBoxCode": "6761218-004",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/501965.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6761218-004/",
+      "price": 8200,
+      "priceWithFee": null,
+      "transactedAt": "2025-09-27 11:02:13",
+      "productCode": "KH084608",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1991年,8克,生肖,年克,克生,肖羊,羊金,金币"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8631245005",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8631245005",
+      "displayBoxCode": "8631245-005",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1985年熊猫27克精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-jiuyin/10360145.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8631245-005/",
+      "price": 12400,
+      "priceWithFee": 12834,
+      "transactedAt": "2026-06-25 19:50:35",
+      "productCode": "870148004",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/870148004A.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1985年,27克,熊猫,年熊,猫克,克精,精制,制银,银币,评级"
+    }
+  ]
+}

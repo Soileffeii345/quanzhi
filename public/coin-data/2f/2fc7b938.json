@@ -1,0 +1,31 @@
+{
+  "coinName": "1941年马来西亚纸钞",
+  "slug": "2fc7b938",
+  "saleCount": 1,
+  "keywords": "钞,1941年,年马,马来,来西,西亚,亚纸,纸钞",
+  "priceStats": {
+    "low": 170,
+    "high": 170,
+    "avg": 170,
+    "latest": 170
+  },
+  "records": [
+    {
+      "coinName": "1941年马来西亚纸钞",
+      "normalizedBoxCode": "2436266068",
+      "displayBoxCode": "2436266-068",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10378830.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2436266-068/",
+      "price": 170,
+      "priceWithFee": 188.7,
+      "transactedAt": "2026-07-07 21:45:20",
+      "productCode": "872623003",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,1941年,年马,马来,来西,西亚,亚纸,纸钞"
+    }
+  ]
+}

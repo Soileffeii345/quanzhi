@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2569172010",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2569172010",
+      "displayBoxCode": "2569172-010",
+      "gradingCompany": "NGC",
+      "grade": "PF69 ULTRA CAMEO",
+      "coinName": "2011年1盎司生肖兔银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/580279.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2569172-010/69/",
+      "price": 790,
+      "priceWithFee": null,
+      "transactedAt": "2026-05-25 08:47:51",
+      "productCode": "KH135901",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260515/large_sell_dkfngfukcc37vzuz.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2011年,1盎司,生肖,年盎,盎司,司生,肖兔,兔银,银币"
+    }
+  ]
+}

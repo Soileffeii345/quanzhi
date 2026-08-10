@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8758200001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8758200001",
+      "displayBoxCode": "8758200-001",
+      "gradingCompany": "NGC",
+      "grade": "MS 67",
+      "coinName": "1984年中华人民共和国成立35周年-民族大团结流通纪念币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10359578.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8758200-001/67/",
+      "price": 190,
+      "priceWithFee": 205.2,
+      "transactedAt": "2026-06-24 20:03:25",
+      "productCode": "870469003",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/870469003A.jpg",
+      "ocrConfidence": 39,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1984年,年中,中华,华人,人民,民共,共和,和国,国成,成立,立周,周年,年民,民族,族大,大团,团结,结流,流通,通纪,纪念,念币"
+    }
+  ]
+}

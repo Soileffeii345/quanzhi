@@ -1,0 +1,31 @@
+{
+  "coinName": "1991年冬奥27克精制银币",
+  "slug": "7d46fc3d",
+  "saleCount": 1,
+  "keywords": "银,币,1991年,27克,奥运,年第,第届,届冬,冬奥,奥会,会障,障碍,碍滑,滑雪,雪克,克精,精制,制银,银币,评级",
+  "priceStats": {
+    "low": 530,
+    "high": 530,
+    "avg": 530,
+    "latest": 530
+  },
+  "records": [
+    {
+      "coinName": "1991年第16届冬奥会-障碍滑雪27克精制银币",
+      "normalizedBoxCode": "8362361045",
+      "displayBoxCode": "8362361-045",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10390750.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8362361-045/",
+      "price": 530,
+      "priceWithFee": 548.55,
+      "transactedAt": "2026-07-13 21:03:30",
+      "productCode": "873948009",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1991年,27克,奥运,年第,第届,届冬,冬奥,奥会,会障,障碍,碍滑,滑雪,雪克,克精,精制,制银,银币,评级"
+    }
+  ]
+}

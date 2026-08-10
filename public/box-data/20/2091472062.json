@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2091472062",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2091472062",
+      "displayBoxCode": "2091472-062",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "美国纸钞",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10392470.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2091472-062/",
+      "price": 890,
+      "priceWithFee": 987.9,
+      "transactedAt": "2026-07-14 21:51:20",
+      "productCode": "873598001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/873598001B.jpg",
+      "ocrConfidence": 26,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,美国,国纸,纸钞,外国/特区"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8607606005",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8607606005",
+      "displayBoxCode": "8607606-005",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2002年中国石窟艺术-龙门石窟1/2盎司精制金币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10359983.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8607606-005/69/",
+      "price": 24000,
+      "priceWithFee": 24840,
+      "transactedAt": "2026-06-25 20:27:35",
+      "productCode": "869598006",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/869598006A.jpg",
+      "ocrConfidence": 37,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2002年,2盎司,年中,中国,国石,石窟,窟艺,艺术,术龙,龙门,门石,窟盎,盎司,司精,精制,制金,金币,评级"
+    }
+  ]
+}

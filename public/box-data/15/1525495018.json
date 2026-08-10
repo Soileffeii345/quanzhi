@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "1525495018",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "1525495018",
+      "displayBoxCode": "1525495-018",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "民国三十六年中央银行上海地名关金伍佰圆",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10367300.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1525495-018/",
+      "price": 250,
+      "priceWithFee": 277.5,
+      "transactedAt": "2026-07-21 22:01:50",
+      "productCode": "870332001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/26/870332001B.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,历史币,民国,国三,三十,十六,六年,年中,中央,央银,银行,行上,上海,海地,地名,名关,关金,金伍,伍佰,佰圆"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "coinName": "1985年西藏自治区成立20周年纪念币",
+  "slug": "38def8ca",
+  "saleCount": 1,
+  "keywords": "币,1985年,年西,西藏,藏自,自治,治区,区成,成立,立周,周年,年纪,纪念,念币",
+  "priceStats": {
+    "low": 400,
+    "high": 400,
+    "avg": 400,
+    "latest": 400
+  },
+  "records": [
+    {
+      "coinName": "1985年西藏自治区成立20周年纪念币",
+      "normalizedBoxCode": "6715871042",
+      "displayBoxCode": "6715871-042",
+      "gradingCompany": "NGC",
+      "grade": "Ms66",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/441206.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6715871-042/66/",
+      "price": 400,
+      "priceWithFee": null,
+      "transactedAt": "2025-01-06 14:17:19",
+      "productCode": "AA491631",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1985年,年西,西藏,藏自,自治,治区,区成,成立,立周,周年,年纪,纪念,念币"
+    }
+  ]
+}

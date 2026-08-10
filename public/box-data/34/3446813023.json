@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "3446813023",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "3446813023",
+      "displayBoxCode": "3446813-023",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1988年1/4盎司释迦牟尼佛金章",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/591007.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3446813-023/69/",
+      "price": 8800,
+      "priceWithFee": null,
+      "transactedAt": "2026-06-18 22:11:57",
+      "productCode": "KH139239",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260617/large_sell_e41uf3wxwfffo2h8.jpg",
+      "ocrConfidence": 39,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,章,1988年,4盎司,宗教,年盎,盎司,司释,释迦,迦牟,牟尼,尼佛,佛金,金章"
+    }
+  ]
+}

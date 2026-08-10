@@ -1,0 +1,48 @@
+{
+  "coinName": "2016年越南纸钞",
+  "slug": "34e1bb19",
+  "saleCount": 2,
+  "keywords": "钞,2016年,年越,越南,南纸,纸钞",
+  "priceStats": {
+    "low": 70,
+    "high": 110,
+    "avg": 90,
+    "latest": 110
+  },
+  "records": [
+    {
+      "coinName": "2016年越南纸钞",
+      "normalizedBoxCode": "2434364048",
+      "displayBoxCode": "2434364-048",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10392460.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2434364-048/",
+      "price": 110,
+      "priceWithFee": 122.1,
+      "transactedAt": "2026-07-14 21:58:05",
+      "productCode": "873792042",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,2016年,年越,越南,南纸,纸钞"
+    },
+    {
+      "coinName": "2016年越南纸钞",
+      "normalizedBoxCode": "2434364057",
+      "displayBoxCode": "2434364-057",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10399174.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2434364-057/",
+      "price": 70,
+      "priceWithFee": 77.7,
+      "transactedAt": "2026-07-21 22:11:35",
+      "productCode": "875054013",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,2016年,年越,越南,南纸,纸钞"
+    }
+  ]
+}

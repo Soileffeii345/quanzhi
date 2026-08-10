@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4558827105",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4558827105",
+      "displayBoxCode": "4558827-105",
+      "gradingCompany": "NGC",
+      "grade": "MS 70",
+      "coinName": "2017年3克熊猫金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/474637.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4558827-105/70/",
+      "price": 2560,
+      "priceWithFee": null,
+      "transactedAt": "2025-04-22 15:21:52",
+      "productCode": "KH065161",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250422/large_sell_8nse3ninl0g4ypgs.jpg",
+      "ocrConfidence": 37,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2017年,3克,熊猫,年克,克熊,猫金,金币"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8767423001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8767423001",
+      "displayBoxCode": "8767423-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 68 ULTRA CAMEO",
+      "coinName": "2024年甲辰龙年生肖150克精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10408164.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8767423-001/68/",
+      "price": 6100,
+      "priceWithFee": 6313.5,
+      "transactedAt": "2026-07-20 22:01:40",
+      "productCode": "876063001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/876063001A.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2024年,150克,生肖,年甲,甲辰,辰龙,龙年,年生,肖克,克精,精制,制银,银币,评级"
+    }
+  ]
+}

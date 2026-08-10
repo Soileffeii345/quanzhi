@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8757500001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8757500001",
+      "displayBoxCode": "8757500-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2014年甲午马年生肖1盎司精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10407545.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8757500-001/70/",
+      "price": 1220,
+      "priceWithFee": 1262.7,
+      "transactedAt": "2026-07-20 20:34:40",
+      "productCode": "875918020",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/875918020A.jpg",
+      "ocrConfidence": 39,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2014年,1盎司,生肖,年甲,甲午,午马,马年,年生,肖盎,盎司,司精,精制,制银,银币,评级"
+    }
+  ]
+}

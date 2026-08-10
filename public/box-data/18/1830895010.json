@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "1830895010",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "1830895010",
+      "displayBoxCode": "1830895-010",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "coinName": "1983年1/4盎司熊猫金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/484551.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1830895-010/69/",
+      "price": 8600,
+      "priceWithFee": null,
+      "transactedAt": "2025-07-23 07:32:49",
+      "productCode": "AA569172",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250619/large_sell_zlqorzeyirkpe0fp.jpg",
+      "ocrConfidence": 31,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1983年,4盎司,熊猫,年盎,盎司,司熊,猫金,金币"
+    }
+  ]
+}

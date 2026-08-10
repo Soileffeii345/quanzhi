@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8768111010",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8768111010",
+      "displayBoxCode": "8768111-010",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1988年戊辰龙年生肖15克精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10400963.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8768111-010/69/",
+      "price": 2200,
+      "priceWithFee": 2277,
+      "transactedAt": "2026-07-13 20:11:50",
+      "productCode": "875148003",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/875148003A.jpg",
+      "ocrConfidence": 40,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1988年,15克,生肖,年戊,戊辰,辰龙,龙年,年生,肖克,克精,精制,制银,银币,评级"
+    }
+  ]
+}

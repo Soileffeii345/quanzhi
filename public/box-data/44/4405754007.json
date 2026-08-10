@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4405754007",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4405754007",
+      "displayBoxCode": "4405754-007",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2013年5盎司生肖蛇彩银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/442574.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4405754-007/69/",
+      "price": 1350,
+      "priceWithFee": null,
+      "transactedAt": "2024-09-03 15:08:49",
+      "productCode": "AA493470",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20240724/large_sell_zoqprk23fl8ptq8x.jpg",
+      "ocrConfidence": 32,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2013年,5盎司,生肖,年盎,盎司,司生,肖蛇,蛇彩,彩银,银币"
+    }
+  ]
+}

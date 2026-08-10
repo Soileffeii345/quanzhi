@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "89702763",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "89702763",
+      "displayBoxCode": "89702763",
+      "gradingCompany": "PCGS",
+      "grade": "待复核",
+      "coinName": "清 顺治通宝东一厘",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/guqian/10361587.shtml",
+      "officialCertUrl": "https://cn.pcgs.com/cert/89702763",
+      "price": 900,
+      "priceWithFee": 990,
+      "transactedAt": "2026-07-13 21:33:25",
+      "productCode": "870157009",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/870157009A.jpg",
+      "ocrConfidence": 31,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "清顺,顺治,治通,通宝,宝东,东一,一厘"
+    }
+  ]
+}

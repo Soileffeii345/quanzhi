@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8504318044",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8504318044",
+      "displayBoxCode": "8504318-044",
+      "gradingCompany": "NGC",
+      "grade": "MS 63",
+      "coinName": "1993年中国硬币壹角",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10392193.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8504318-044/63/",
+      "price": 1660,
+      "priceWithFee": 1792.8,
+      "transactedAt": "2026-07-15 20:06:10",
+      "productCode": "873594001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/873594001A.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1993年,年中,中国,国硬,硬币,币壹,壹角"
+    }
+  ]
+}

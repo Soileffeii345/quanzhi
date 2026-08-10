@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6433198023",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6433198023",
+      "displayBoxCode": "6433198-023",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2015年5盎司方形生肖羊银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/538742.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6433198-023/69/",
+      "price": 4700,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-27 01:09:32",
+      "productCode": "KH114088",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260127/large_sell_0hmbmjizduzboffe.jpg",
+      "ocrConfidence": 40,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2015年,5盎司,生肖,年盎,盎司,司方,方形,形生,肖羊,羊银,银币"
+    }
+  ]
+}

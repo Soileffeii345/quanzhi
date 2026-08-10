@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "7001851052",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "7001851052",
+      "displayBoxCode": "7001851-052",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "民国三十七年中央银行关金伍仟圆",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10367306.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/7001851-052/",
+      "price": 390,
+      "priceWithFee": 432.9,
+      "transactedAt": "2026-07-21 21:35:50",
+      "productCode": "870332007",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/26/870332007B.jpg",
+      "ocrConfidence": 31,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,历史币,民国,国三,三十,十七,七年,年中,中央,央银,银行,行关,关金,金伍,伍仟,仟圆"
+    }
+  ]
+}

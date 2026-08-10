@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4896742029",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4896742029",
+      "displayBoxCode": "4896742-029",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1982年1/2盎司第12届世界杯足球赛银币(UC)",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/552379.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4896742-029/69/",
+      "price": 5100,
+      "priceWithFee": null,
+      "transactedAt": "2026-02-09 21:52:50",
+      "productCode": "KH117922",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260205/large_sell_zopzxrliibrxa1xf.jpg",
+      "ocrConfidence": 57,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1982年,2盎司,年盎,盎司,司第,第届,届世,世界,界杯,杯足,足球,球赛,赛银,银币"
+    }
+  ]
+}

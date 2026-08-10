@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2022262019",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2022262019",
+      "displayBoxCode": "2022262-019",
+      "gradingCompany": "NGC",
+      "grade": "PF 69",
+      "coinName": "1995年1/3盎司第26届奥运会高台跳水金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/472890.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2022262-019/69/",
+      "price": 7960,
+      "priceWithFee": null,
+      "transactedAt": "2025-04-13 17:55:05",
+      "productCode": "KH064305",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250413/large_sell_xbcmgacnzle5r91z.jpg",
+      "ocrConfidence": 56,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1995年,3盎司,奥运,年盎,盎司,司第,第届,届奥,运会,会高,高台,台跳,跳水,水金,金币"
+    }
+  ]
+}

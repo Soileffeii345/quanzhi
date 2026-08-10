@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4402555049",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4402555049",
+      "displayBoxCode": "4402555-049",
+      "gradingCompany": "NGC",
+      "grade": "PF69 ULTRA CAMEO",
+      "coinName": "2016年30克北京国际钱博会银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/528550.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4402555-049/69/",
+      "price": 640,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-10 13:10:19",
+      "productCode": "KH101735",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260107/large_sell_zybd60g6yv0kzuaj.jpg",
+      "ocrConfidence": 43,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2016年,30克,年克,克北,北京,京国,国际,际钱,钱博,博会,会银,银币"
+    }
+  ]
+}

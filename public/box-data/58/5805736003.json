@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "5805736003",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "5805736003",
+      "displayBoxCode": "5805736-003",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2002年1/2盎司上海申博成功金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/474244.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/5805736-003/",
+      "price": 12380,
+      "priceWithFee": null,
+      "transactedAt": "2025-04-20 23:00:20",
+      "productCode": "KH064922",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250420/large_sell_ezkccgo3zhdps11w.jpg",
+      "ocrConfidence": 40,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2002年,2盎司,年盎,盎司,司上,上海,海申,申博,博成,成功,功金,金币"
+    }
+  ]
+}

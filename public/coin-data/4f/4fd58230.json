@@ -1,0 +1,65 @@
+{
+  "coinName": "第二版人民币天安门黑1元",
+  "slug": "4fd58230",
+  "saleCount": 3,
+  "keywords": "币,第二,二版,版人,人民,民币,币天,天安,安门,门黑,黑元",
+  "priceStats": {
+    "low": 740,
+    "high": 2790,
+    "avg": 1603,
+    "latest": 1280
+  },
+  "records": [
+    {
+      "coinName": "第二版人民币天安门黑1元",
+      "normalizedBoxCode": "2031381007",
+      "displayBoxCode": "2031381-007",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/dierbanrenminbi/10413159.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2031381-007/",
+      "price": 1280,
+      "priceWithFee": 1382.4,
+      "transactedAt": "2026-07-21 21:09:05",
+      "productCode": "876606010",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,第二,二版,版人,人民,民币,币天,天安,安门,门黑,黑元"
+    },
+    {
+      "coinName": "第二版人民币天安门黑1元",
+      "normalizedBoxCode": "2252932002",
+      "displayBoxCode": "2252932-002",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/dierbanrenminbi/10380410.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2252932-002/",
+      "price": 740,
+      "priceWithFee": 799.2,
+      "transactedAt": "2026-07-09 20:00:50",
+      "productCode": "872761013",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,第二,二版,版人,人民,民币,币天,天安,安门,门黑,黑元"
+    },
+    {
+      "coinName": "第二版人民币天安门黑1元",
+      "normalizedBoxCode": "2380815034",
+      "displayBoxCode": "2380815-034",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/dierbanrenminbi/10406644.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2380815-034/",
+      "price": 2790,
+      "priceWithFee": 3013.2,
+      "transactedAt": "2026-07-16 20:22:10",
+      "productCode": "875389003",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,第二,二版,版人,人民,民币,币天,天安,安门,门黑,黑元"
+    }
+  ]
+}

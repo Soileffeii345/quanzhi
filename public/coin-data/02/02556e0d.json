@@ -1,0 +1,65 @@
+{
+  "coinName": "1988年奥运会27克银币",
+  "slug": "02556e0d",
+  "saleCount": 3,
+  "keywords": "银,币,1988年,27克,奥运,年克,克第,第届,届奥,运会,会女,女子,子跨,跨栏,栏银,银币,会帆,帆船,船赛,赛银",
+  "priceStats": {
+    "low": 800,
+    "high": 800,
+    "avg": 800,
+    "latest": 800
+  },
+  "records": [
+    {
+      "coinName": "1988年27克第24届奥运会女子跨栏银币(UC)",
+      "normalizedBoxCode": "4417174062",
+      "displayBoxCode": "4417174-062",
+      "gradingCompany": "NGC",
+      "grade": "PF 68 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/555472.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4417174-062/68/",
+      "price": 800,
+      "priceWithFee": null,
+      "transactedAt": "2026-02-21 09:13:58",
+      "productCode": "KH119925",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1988年,27克,奥运,年克,克第,第届,届奥,运会,会女,女子,子跨,跨栏,栏银,银币"
+    },
+    {
+      "coinName": "1988年27克第24届奥运会女子跨栏银币(UC)",
+      "normalizedBoxCode": "4417174063",
+      "displayBoxCode": "4417174-063",
+      "gradingCompany": "NGC",
+      "grade": "PF 68 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/555484.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4417174-063/68/",
+      "price": 800,
+      "priceWithFee": null,
+      "transactedAt": "2026-02-21 10:05:36",
+      "productCode": "KH119966",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1988年,27克,奥运,年克,克第,第届,届奥,运会,会女,女子,子跨,跨栏,栏银,银币"
+    },
+    {
+      "coinName": "1988年27克第24届奥运会帆船赛银币(UC)",
+      "normalizedBoxCode": "6402310071",
+      "displayBoxCode": "6402310-071",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/555471.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6402310-071/",
+      "price": 800,
+      "priceWithFee": null,
+      "transactedAt": "2026-03-04 20:28:32",
+      "productCode": "KH122076",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1988年,27克,奥运,年克,克第,第届,届奥,运会,会帆,帆船,船赛,赛银,银币"
+    }
+  ]
+}

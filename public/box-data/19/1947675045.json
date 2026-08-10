@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "1947675045",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "1947675045",
+      "displayBoxCode": "1947675-045",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1945年中央银行壹圆",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10373869.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1947675-045/",
+      "price": 640,
+      "priceWithFee": 710.4,
+      "transactedAt": "2026-07-16 20:51:10",
+      "productCode": "871682017",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/26/871682017B.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,1945年,年中,中央,央银,银行,行壹,壹圆"
+    }
+  ]
+}

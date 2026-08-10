@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4894807019",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4894807019",
+      "displayBoxCode": "4894807-019",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1983年马可波罗22克精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10429460.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4894807-019/69/",
+      "price": 960,
+      "priceWithFee": 993.6,
+      "transactedAt": "2026-07-27 20:43:40",
+      "productCode": "878311010",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/878311010A.jpg",
+      "ocrConfidence": 30,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1983年,22克,年马,马可,可波,波罗,罗克,克精,精制,制银,银币,评级"
+    }
+  ]
+}

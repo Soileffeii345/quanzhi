@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2160985062",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2160985062",
+      "displayBoxCode": "2160985-062",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2000年世纪龙钞100元",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/liantichao-jinianchao/10398808.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2160985-062/",
+      "price": 1400,
+      "priceWithFee": 1512,
+      "transactedAt": "2026-07-14 19:31:35",
+      "productCode": "874660001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/874660001B.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,2000年,年世,世纪,纪龙,龙钞,钞元"
+    }
+  ]
+}

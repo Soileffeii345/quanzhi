@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6717452002",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6717452002",
+      "displayBoxCode": "6717452-002",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1994年1/2盎司经济特区建设成就金章",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/475505.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6717452-002/69/",
+      "price": 13400,
+      "priceWithFee": null,
+      "transactedAt": "2025-04-27 19:37:33",
+      "productCode": "AA560577",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250427/large_sell_0ctpl67dwatdxtc0.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,章,1994年,2盎司,年盎,盎司,司经,经济,济特,特区,区建,建设,设成,成就,就金,金章"
+    }
+  ]
+}

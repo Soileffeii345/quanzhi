@@ -1,0 +1,31 @@
+{
+  "coinName": "1995年毛泽东15.552克精制金币",
+  "slug": "4f39595a",
+  "saleCount": 1,
+  "keywords": "金,币,1995年,2盎司,年抗,抗日,日战,战争,争胜,胜利,利周,周年,年朱,朱德,德毛,毛泽,泽东,东头,头像,像盎,盎司,司精,精制,制金,金币,评级",
+  "priceStats": {
+    "low": 32500,
+    "high": 32500,
+    "avg": 32500,
+    "latest": 32500
+  },
+  "records": [
+    {
+      "coinName": "1995年抗日战争胜利50周年-朱德、毛泽东头像1/2盎司精制金币",
+      "normalizedBoxCode": "8768730003",
+      "displayBoxCode": "8768730-003",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10397613.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8768730-003/",
+      "price": 32500,
+      "priceWithFee": 33637.5,
+      "transactedAt": "2026-07-16 21:21:45",
+      "productCode": "874841003",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1995年,2盎司,年抗,抗日,日战,战争,争胜,胜利,利周,周年,年朱,朱德,德毛,毛泽,泽东,东头,头像,像盎,盎司,司精,精制,制金,金币,评级"
+    }
+  ]
+}

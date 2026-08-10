@@ -1,0 +1,65 @@
+{
+  "coinName": "2010年熊猫31.104克普制银币",
+  "slug": "713e963e",
+  "saleCount": 3,
+  "keywords": "银,币,2010年,1盎司,熊猫,年上,上海,海造,造币,币有,有限,限公,公司,司成,成立,立周,周年,年熊,猫加,加字,字盎,盎司,司普,普制,制银,银币,猫盎",
+  "priceStats": {
+    "low": 500,
+    "high": 880,
+    "avg": 630,
+    "latest": 500
+  },
+  "records": [
+    {
+      "coinName": "2010年上海造币有限公司成立90周年熊猫加字1盎司普制银币",
+      "normalizedBoxCode": "2018109007",
+      "displayBoxCode": "2018109-007",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10405209.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2018109-007/69/",
+      "price": 500,
+      "priceWithFee": 517.5,
+      "transactedAt": "2026-07-20 20:30:40",
+      "productCode": "875609003",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2010年,1盎司,熊猫,年上,上海,海造,造币,币有,有限,限公,公司,司成,成立,立周,周年,年熊,猫加,加字,字盎,盎司,司普,普制,制银,银币"
+    },
+    {
+      "coinName": "2010年熊猫1盎司普制银币",
+      "normalizedBoxCode": "6180652021",
+      "displayBoxCode": "6180652-021",
+      "gradingCompany": "NGC",
+      "grade": "MS 70",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-jiuyin/10403810.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6180652-021/70/",
+      "price": 880,
+      "priceWithFee": 910.8,
+      "transactedAt": "2026-07-20 20:02:40",
+      "productCode": "875426009",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2010年,1盎司,熊猫,年熊,猫盎,盎司,司普,普制,制银,银币"
+    },
+    {
+      "coinName": "2010年熊猫1盎司普制银币",
+      "normalizedBoxCode": "8504621034",
+      "displayBoxCode": "8504621-034",
+      "gradingCompany": "NGC",
+      "grade": "MS 68",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-jiuyin/10401095.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8504621-034/68/",
+      "price": 510,
+      "priceWithFee": 527.85,
+      "transactedAt": "2026-07-13 19:47:40",
+      "productCode": "875134019",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2010年,1盎司,熊猫,年熊,猫盎,盎司,司普,普制,制银,银币"
+    }
+  ]
+}

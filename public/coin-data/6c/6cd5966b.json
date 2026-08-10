@@ -1,0 +1,31 @@
+{
+  "coinName": "1997年中国硬币壹角",
+  "slug": "6cd5966b",
+  "saleCount": 1,
+  "keywords": "币,1997年,年中,中国,国硬,硬币,币壹,壹角",
+  "priceStats": {
+    "low": 95,
+    "high": 95,
+    "avg": 95,
+    "latest": 95
+  },
+  "records": [
+    {
+      "coinName": "1997年中国硬币壹角",
+      "normalizedBoxCode": "6744821027",
+      "displayBoxCode": "6744821-027",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10373839.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6744821-027/",
+      "price": 95,
+      "priceWithFee": 102.6,
+      "transactedAt": "2026-07-01 21:06:35",
+      "productCode": "871771008",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1997年,年中,中国,国硬,硬币,币壹,壹角"
+    }
+  ]
+}

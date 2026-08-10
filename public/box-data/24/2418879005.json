@@ -1,0 +1,45 @@
+{
+  "ok": true,
+  "query": "2418879005",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2418879005",
+      "displayBoxCode": "2418879-005",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1995年1/3盎司第26届奥运会高台跳水金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/490316.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2418879-005/",
+      "price": 8160,
+      "priceWithFee": null,
+      "transactedAt": "2025-07-23 12:30:58",
+      "productCode": "AA570960A",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250702/large_sell_8s5ypjslan1tdifb.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1995年,3盎司,奥运,年盎,盎司,司第,第届,届奥,运会,会高,高台,台跳,跳水,水金,金币"
+    },
+    {
+      "normalizedBoxCode": "2418879005",
+      "displayBoxCode": "2418879-005",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1995年1/3盎司第26届奥运会高台跳水金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/486649.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2418879-005/",
+      "price": 8025,
+      "priceWithFee": null,
+      "transactedAt": "2025-07-02 18:38:03",
+      "productCode": "AA570960",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250702/large_sell_8s5ypjslan1tdifb.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1995年,3盎司,奥运,年盎,盎司,司第,第届,届奥,运会,会高,高台,台跳,跳水,水金,金币"
+    }
+  ]
+}

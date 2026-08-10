@@ -1,0 +1,31 @@
+{
+  "coinName": "2017年熊猫金币",
+  "slug": "2865ec2a",
+  "saleCount": 1,
+  "keywords": "金,铜,币,章,2017年,熊猫,年上,上币,币熊,猫金,金币,币周,周年,年双,双金,金属,属铜,铜章",
+  "priceStats": {
+    "low": 1100,
+    "high": 1100,
+    "avg": 1100,
+    "latest": 1100
+  },
+  "records": [
+    {
+      "coinName": "2017年上币熊猫金币35周年双金属铜章(100)",
+      "normalizedBoxCode": "5807652004",
+      "displayBoxCode": "5807652-004",
+      "gradingCompany": "NGC",
+      "grade": "MS 70",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/503220.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/5807652-004/70/",
+      "price": 1100,
+      "priceWithFee": null,
+      "transactedAt": "2025-12-10 18:41:13",
+      "productCode": "KH093638",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,铜,币,章,2017年,熊猫,年上,上币,币熊,猫金,金币,币周,周年,年双,双金,金属,属铜,铜章"
+    }
+  ]
+}

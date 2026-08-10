@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2766198072",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2766198072",
+      "displayBoxCode": "2766198-072",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1996年1盎司麒麟金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/581596.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2766198-072/69/",
+      "price": 46600,
+      "priceWithFee": null,
+      "transactedAt": "2026-05-18 20:28:59",
+      "productCode": "KH135242",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260518/large_sell_paun38fdxe6nmt70.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1996年,1盎司,年盎,盎司,司麒,麒麟,麟金,金币"
+    }
+  ]
+}

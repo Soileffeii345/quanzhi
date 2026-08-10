@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6413981056",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6413981056",
+      "displayBoxCode": "6413981-056",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2022年8克二十四节气立夏彩银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/510770.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6413981-056/",
+      "price": 230,
+      "priceWithFee": null,
+      "transactedAt": "2025-12-14 20:38:03",
+      "productCode": "AA594924",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251106/large_sell_5cw1qkhvb26urpfm.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2022年,8克,年克,克二,二十,十四,四节,节气,气立,立夏,夏彩,彩银,银币"
+    }
+  ]
+}

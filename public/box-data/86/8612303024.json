@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8612303024",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8612303024",
+      "displayBoxCode": "8612303-024",
+      "gradingCompany": "NGC",
+      "grade": "PF70 ULTRA CAMEO",
+      "coinName": "2025年乙巳蛇年生肖精制金银币二枚一套（含3克金、15克银）",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-jin/10400988.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8612303-024/70/",
+      "price": 3950,
+      "priceWithFee": 4088.25,
+      "transactedAt": "2026-07-13 22:26:25",
+      "productCode": "875104011",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/875104011A.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,2025年,3克,生肖,年乙,乙巳,巳蛇,蛇年,年生,肖精,精制,制金,金银,银币,币二,二枚,枚一,一套,套含,含克,克金,金克,克银,评级"
+    }
+  ]
+}

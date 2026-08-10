@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "0740500002",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "0740500002",
+      "displayBoxCode": "0740500-002",
+      "gradingCompany": "NGC",
+      "grade": "PF 68 ULTRA CAMEO",
+      "coinName": "1988年27克珍稀动物第1组朱鹮银币 X2",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/570446.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/0740500-002/68/",
+      "price": 1250,
+      "priceWithFee": null,
+      "transactedAt": "2026-04-22 08:24:27",
+      "productCode": "AA631709.10A",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260319/large_sell_fwhgouv65ydc5svn.jpg",
+      "ocrConfidence": 31,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1988年,27克,年克,克珍,珍稀,稀动,动物,物第,第组,组朱,朱鹮,鹮银,银币"
+    }
+  ]
+}

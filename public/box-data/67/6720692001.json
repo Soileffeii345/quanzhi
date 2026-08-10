@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6720692001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6720692001",
+      "displayBoxCode": "6720692-001",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1993年俄罗斯芭蕾舞34.56克银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/wgjsbizhang/10365695.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6720692-001/",
+      "price": 1120,
+      "priceWithFee": 1187.2,
+      "transactedAt": "2026-06-26 20:30:35",
+      "productCode": "870452001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/26/870452001A.jpg",
+      "ocrConfidence": 38,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1993年,34.56克,年俄,俄罗,罗斯,斯芭,芭蕾,蕾舞,舞克,克银,银币,外国/特区"
+    }
+  ]
+}

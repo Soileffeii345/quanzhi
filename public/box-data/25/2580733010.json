@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2580733010",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2580733010",
+      "displayBoxCode": "2580733-010",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "马来西亚纸钞",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10399168.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2580733-010/",
+      "price": 85,
+      "priceWithFee": 94.35,
+      "transactedAt": "2026-07-21 22:11:20",
+      "productCode": "875054007",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/875054007B.jpg",
+      "ocrConfidence": 27,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,马来,来西,西亚,亚纸,纸钞"
+    }
+  ]
+}

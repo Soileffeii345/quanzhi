@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6430850038",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6430850038",
+      "displayBoxCode": "6430850-038",
+      "gradingCompany": "NGC",
+      "grade": "MS 68",
+      "coinName": "1984年中国硬币伍分",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10357533.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6430850-038/68/",
+      "price": 55,
+      "priceWithFee": 59.4,
+      "transactedAt": "2026-06-24 21:21:25",
+      "productCode": "870050003",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/870050003A.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1984年,年中,中国,国硬,硬币,币伍,伍分"
+    }
+  ]
+}

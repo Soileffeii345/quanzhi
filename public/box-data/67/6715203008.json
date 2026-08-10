@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6715203008",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6715203008",
+      "displayBoxCode": "6715203-008",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1993年中国古代名画-孔雀开屏1盎司精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10397278.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6715203-008/",
+      "price": 2750,
+      "priceWithFee": 2846.25,
+      "transactedAt": "2026-07-16 19:38:25",
+      "productCode": "874421004",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/874421004A.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1993年,1盎司,年中,中国,国古,古代,代名,名画,画孔,孔雀,雀开,开屏,屏盎,盎司,司精,精制,制银,银币,评级"
+    }
+  ]
+}

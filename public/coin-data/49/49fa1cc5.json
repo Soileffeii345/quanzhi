@@ -1,0 +1,65 @@
+{
+  "coinName": "2011年生肖31.104克银币",
+  "slug": "49fa1cc5",
+  "saleCount": 3,
+  "keywords": "银,币,2011年,1盎司,生肖,年盎,盎司,司生,肖兔,兔银,银币,兔彩,彩银",
+  "priceStats": {
+    "low": 790,
+    "high": 850,
+    "avg": 810,
+    "latest": 790
+  },
+  "records": [
+    {
+      "coinName": "2011年1盎司生肖兔银币",
+      "normalizedBoxCode": "2569172010",
+      "displayBoxCode": "2569172-010",
+      "gradingCompany": "NGC",
+      "grade": "PF69 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/580279.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2569172-010/69/",
+      "price": 790,
+      "priceWithFee": null,
+      "transactedAt": "2026-05-25 08:47:51",
+      "productCode": "KH135901",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2011年,1盎司,生肖,年盎,盎司,司生,肖兔,兔银,银币"
+    },
+    {
+      "coinName": "2011年1盎司生肖兔银币",
+      "normalizedBoxCode": "6053171016",
+      "displayBoxCode": "6053171-016",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/580586.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6053171-016/69/",
+      "price": 790,
+      "priceWithFee": null,
+      "transactedAt": "2026-05-15 15:19:40",
+      "productCode": "KH134830",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2011年,1盎司,生肖,年盎,盎司,司生,肖兔,兔银,银币"
+    },
+    {
+      "coinName": "2011年1盎司生肖兔彩银币",
+      "normalizedBoxCode": "6184416020",
+      "displayBoxCode": "6184416-020",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/572744.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6184416-020/70/",
+      "price": 850,
+      "priceWithFee": null,
+      "transactedAt": "2026-04-15 21:17:42",
+      "productCode": "KH130230",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2011年,1盎司,生肖,年盎,盎司,司生,肖兔,兔彩,彩银,银币"
+    }
+  ]
+}

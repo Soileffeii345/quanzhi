@@ -1,0 +1,48 @@
+{
+  "coinName": "2018年改革开放30克银币",
+  "slug": "6f1b6fb7",
+  "saleCount": 2,
+  "keywords": "银,币,2018年,30克,重大事件,年克,克改,改革,革开,开放,放周,周年,年上,上海,海浦,浦东,东银,银币,年蛇,蛇口,口港,港银",
+  "priceStats": {
+    "low": 900,
+    "high": 950,
+    "avg": 925,
+    "latest": 950
+  },
+  "records": [
+    {
+      "coinName": "2018年30克改革开放40周年上海浦东银币",
+      "normalizedBoxCode": "8575400031",
+      "displayBoxCode": "8575400-031",
+      "gradingCompany": "NGC",
+      "grade": "PF70 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/536632.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8575400-031/70/",
+      "price": 950,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-28 15:41:27",
+      "productCode": "AA614404",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2018年,30克,重大事件,年克,克改,改革,革开,开放,放周,周年,年上,上海,海浦,浦东,东银,银币"
+    },
+    {
+      "coinName": "2018年30克改革开放40周年蛇口港银币",
+      "normalizedBoxCode": "8575400032",
+      "displayBoxCode": "8575400-032",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/532089.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8575400-032/",
+      "price": 900,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-28 00:48:14",
+      "productCode": "AA612237",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2018年,30克,重大事件,年克,克改,改革,革开,开放,放周,周年,年蛇,蛇口,口港,港银,银币"
+    }
+  ]
+}

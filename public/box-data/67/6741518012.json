@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6741518012",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6741518012",
+      "displayBoxCode": "6741518-012",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1988年中国杰出历史人物第（5）组-岳飞22克精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10389800.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6741518-012/",
+      "price": 460,
+      "priceWithFee": 476.1,
+      "transactedAt": "2026-07-13 19:38:55",
+      "productCode": "873492013",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/27/873492013A.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1988年,22克,年中,中国,国杰,杰出,出历,历史,史人,人物,物第,第组,组岳,岳飞,飞克,克精,精制,制银,银币,评级"
+    }
+  ]
+}

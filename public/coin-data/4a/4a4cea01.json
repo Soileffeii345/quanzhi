@@ -1,0 +1,31 @@
+{
+  "coinName": "1981年生肖",
+  "slug": "4a4cea01",
+  "saleCount": 1,
+  "keywords": "章,1981年,生肖,年辛,辛酉,酉鸡,鸡年,年生,肖纪,纪念,念章",
+  "priceStats": {
+    "low": 120,
+    "high": 120,
+    "avg": 120,
+    "latest": 120
+  },
+  "records": [
+    {
+      "coinName": "1981年辛酉鸡年生肖纪念章",
+      "normalizedBoxCode": "8817052007",
+      "displayBoxCode": "8817052-007",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/tongzhang/10373712.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8817052-007/",
+      "price": 120,
+      "priceWithFee": 133.2,
+      "transactedAt": "2026-07-03 19:05:10",
+      "productCode": "871842001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "章,1981年,生肖,年辛,辛酉,酉鸡,鸡年,年生,肖纪,纪念,念章"
+    }
+  ]
+}

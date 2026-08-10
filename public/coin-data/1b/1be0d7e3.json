@@ -1,0 +1,31 @@
+{
+  "coinName": "1947年朝鲜纸钞",
+  "slug": "1be0d7e3",
+  "saleCount": 1,
+  "keywords": "钞,1947年,年朝,朝鲜,鲜纸,纸钞",
+  "priceStats": {
+    "low": 600,
+    "high": 600,
+    "avg": 600,
+    "latest": 600
+  },
+  "records": [
+    {
+      "coinName": "1947年朝鲜纸钞",
+      "normalizedBoxCode": "2435636063",
+      "displayBoxCode": "2435636-063",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10380294.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2435636-063/",
+      "price": 600,
+      "priceWithFee": 666,
+      "transactedAt": "2026-07-14 22:15:50",
+      "productCode": "872355005",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,1947年,年朝,朝鲜,鲜纸,纸钞"
+    }
+  ]
+}

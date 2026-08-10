@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4313315111",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4313315111",
+      "displayBoxCode": "4313315-111",
+      "gradingCompany": "NGC",
+      "grade": "MS 67",
+      "coinName": "2008年第29届奥林匹克运动会-射箭、击剑、游泳流通纪念币各一枚，共三枚",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10372226.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4313315-111/67/",
+      "price": 100,
+      "priceWithFee": 108,
+      "transactedAt": "2026-07-01 19:54:35",
+      "productCode": "871391011",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/26/871391011A.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2008年,年第,第届,届奥,奥林,林匹,匹克,克运,运动,动会,会射,射箭,箭击,击剑,剑游,游泳,泳流,流通,通纪,纪念,念币,币各,各一,一枚,枚共,共三,三枚"
+    }
+  ]
+}

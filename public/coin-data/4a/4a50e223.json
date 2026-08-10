@@ -1,0 +1,65 @@
+{
+  "coinName": "1981年银币",
+  "slug": "4a50e223",
+  "saleCount": 3,
+  "keywords": "银,1981年,年香,香港,港渣,渣打,打银,银行,行拾,拾圆,外国/特区,年大,大西,西洋,洋银,行伍,伍拾",
+  "priceStats": {
+    "low": 140,
+    "high": 1060,
+    "avg": 450,
+    "latest": 140
+  },
+  "records": [
+    {
+      "coinName": "1981年香港渣打银行拾圆",
+      "normalizedBoxCode": "2034641021",
+      "displayBoxCode": "2034641-021",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xianggangzhichao/10420619.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2034641-021/",
+      "price": 140,
+      "priceWithFee": 155.4,
+      "transactedAt": "2026-07-25 20:35:40",
+      "productCode": "877014004",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,1981年,年香,香港,港渣,渣打,打银,银行,行拾,拾圆,外国/特区"
+    },
+    {
+      "coinName": "1981年大西洋银行伍拾圆",
+      "normalizedBoxCode": "2262939030",
+      "displayBoxCode": "2262939-030",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/aomenzhichao/10417616.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2262939-030/",
+      "price": 1060,
+      "priceWithFee": 1176.6,
+      "transactedAt": "2026-07-28 20:45:20",
+      "productCode": "877006003",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,1981年,年大,大西,西洋,洋银,银行,行伍,伍拾,拾圆"
+    },
+    {
+      "coinName": "1981年香港渣打银行拾圆",
+      "normalizedBoxCode": "2276601024",
+      "displayBoxCode": "2276601-024",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xianggangzhichao/10395658.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2276601-024/",
+      "price": 150,
+      "priceWithFee": 166.5,
+      "transactedAt": "2026-07-11 22:21:40",
+      "productCode": "874349003",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,1981年,年香,香港,港渣,渣打,打银,银行,行拾,拾圆,外国/特区"
+    }
+  ]
+}

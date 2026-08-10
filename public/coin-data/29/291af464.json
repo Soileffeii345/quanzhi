@@ -1,0 +1,31 @@
+{
+  "coinName": "第一版人民币绵羊5元",
+  "slug": "291af464",
+  "saleCount": 1,
+  "keywords": "币,第一,一版,版人,人民,民币,币绵,绵羊,羊元",
+  "priceStats": {
+    "low": 5500,
+    "high": 5500,
+    "avg": 5500,
+    "latest": 5500
+  },
+  "records": [
+    {
+      "coinName": "第一版人民币绵羊5元",
+      "normalizedBoxCode": "2234219002",
+      "displayBoxCode": "2234219-002",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/diyibanrenminbi/10378948.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2234219-002/",
+      "price": 5500,
+      "priceWithFee": 6050,
+      "transactedAt": "2026-07-09 20:09:10",
+      "productCode": "872235001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,第一,一版,版人,人民,民币,币绵,绵羊,羊元"
+    }
+  ]
+}

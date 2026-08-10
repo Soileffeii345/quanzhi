@@ -1,0 +1,31 @@
+{
+  "coinName": "2024年阿布哈兹纸币",
+  "slug": "773e2183",
+  "saleCount": 1,
+  "keywords": "币,2024年,年阿,阿布,布哈,哈兹,兹纸,纸币",
+  "priceStats": {
+    "low": 95,
+    "high": 95,
+    "avg": 95,
+    "latest": 95
+  },
+  "records": [
+    {
+      "coinName": "2024年阿布哈兹纸币",
+      "normalizedBoxCode": "2400758090",
+      "displayBoxCode": "2400758-090",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10372867.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2400758-090/",
+      "price": 95,
+      "priceWithFee": 105.45,
+      "transactedAt": "2026-06-30 22:09:35",
+      "productCode": "871226041",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2024年,年阿,阿布,布哈,哈兹,兹纸,纸币"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "ok": true,
+  "query": "6740450002",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6740450002",
+      "displayBoxCode": "6740450-002",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1989年1/4盎司第11届亚运会第1组艺术体操金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/523698.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6740450-002/",
+      "price": 7940,
+      "priceWithFee": null,
+      "transactedAt": "2025-12-26 18:38:56",
+      "productCode": "KH098499",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251223/large_sell_dqekpwj7mwmlhl9r.jpg",
+      "ocrConfidence": 56,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1989年,4盎司,年盎,盎司,司第,第届,届亚,亚运,运会,会第,第组,组艺,艺术,术体,体操,操金,金币"
+    },
+    {
+      "normalizedBoxCode": "6740450002",
+      "displayBoxCode": "6740450-002",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1989年1/4盎司第11届亚运会第1组艺术体操金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/501659.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6740450-002/69/",
+      "price": 6520,
+      "priceWithFee": null,
+      "transactedAt": "2025-09-20 20:37:18",
+      "productCode": "KH084401",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250920/large_sell_agnmxznfsikt3gya.jpg",
+      "ocrConfidence": 48,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1989年,4盎司,年盎,盎司,司第,第届,届亚,亚运,运会,会第,第组,组艺,艺术,术体,体操,操金,金币"
+    }
+  ]
+}

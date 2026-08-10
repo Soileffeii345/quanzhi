@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8507987006",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8507987006",
+      "displayBoxCode": "8507987-006",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2025年30克吉祥文化永结同心银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/486979.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8507987-006/70/",
+      "price": 2150,
+      "priceWithFee": null,
+      "transactedAt": "2025-07-06 10:19:23",
+      "productCode": "KH072266",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250704/large_sell_upwkpkanp6lqjrge.jpg",
+      "ocrConfidence": 40,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2025年,30克,吉祥文化,年克,克吉,吉祥,祥文,文化,化永,永结,结同,同心,心银,银币"
+    }
+  ]
+}

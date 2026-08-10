@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8052383019",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8052383019",
+      "displayBoxCode": "8052383-019",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1999年中国近代国画大师张大千1盎司长方形精制银币二枚一套",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10386379.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8052383-019/",
+      "price": 3700,
+      "priceWithFee": 3829.5,
+      "transactedAt": "2026-07-09 20:25:25",
+      "productCode": "873153001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/27/873153001A.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1999年,1盎司,年中,中国,国近,近代,代国,国画,画大,大师,师张,张大,大千,千盎,盎司,司长,长方,方形,形精,精制,制银,银币,币二,二枚,枚一,一套,评级"
+    }
+  ]
+}

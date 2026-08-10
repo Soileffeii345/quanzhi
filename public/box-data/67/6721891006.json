@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6721891006",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6721891006",
+      "displayBoxCode": "6721891-006",
+      "gradingCompany": "NGC",
+      "grade": "Ms 69",
+      "coinName": "1995年熊猫1盎司普制银币（细枝小字版）",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-jiuyin/10389106.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6721891-006/69/",
+      "price": 1220,
+      "priceWithFee": 1262.7,
+      "transactedAt": "2026-07-13 22:00:10",
+      "productCode": "873690004",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/27/873690004A.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1995年,1盎司,熊猫,年熊,猫盎,盎司,司普,普制,制银,银币,币细,细枝,枝小,小字,字版"
+    }
+  ]
+}

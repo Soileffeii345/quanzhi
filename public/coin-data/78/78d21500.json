@@ -1,0 +1,65 @@
+{
+  "coinName": "1979年15.552克金币",
+  "slug": "78d21500",
+  "saleCount": 3,
+  "keywords": "金,章,1979年,2盎司,年盎,盎司,司第,第届,届全,全运,运会,会女,女子,子舞,舞剑,剑金,金章,年北,北京,京风,风景,景名,名胜,胜北,北海,海白,白塔,塔盎,司金,年第,第四,四届,剑盎",
+  "priceStats": {
+    "low": 14600,
+    "high": 20000,
+    "avg": 17000,
+    "latest": 14600
+  },
+  "records": [
+    {
+      "coinName": "1979年1/2盎司第4届全运会女子舞剑金章(UC)",
+      "normalizedBoxCode": "8187572009",
+      "displayBoxCode": "8187572-009",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/479547.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8187572-009/69/",
+      "price": 14600,
+      "priceWithFee": null,
+      "transactedAt": "2025-05-28 10:06:23",
+      "productCode": "KH067561",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,章,1979年,2盎司,年盎,盎司,司第,第届,届全,全运,运会,会女,女子,子舞,舞剑,剑金,金章"
+    },
+    {
+      "coinName": "1979年北京风景名胜-北海白塔1/2盎司金章",
+      "normalizedBoxCode": "8503628034",
+      "displayBoxCode": "8503628-034",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10359972.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8503628-034/69/",
+      "price": 20000,
+      "priceWithFee": 20700,
+      "transactedAt": "2026-06-25 20:52:35",
+      "productCode": "869596003",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,章,1979年,2盎司,年北,北京,京风,风景,景名,名胜,胜北,北海,海白,白塔,塔盎,盎司,司金,金章"
+    },
+    {
+      "coinName": "1979年第四届全运会-女子舞剑1/2盎司金章",
+      "normalizedBoxCode": "8776052055",
+      "displayBoxCode": "8776052-055",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10424301.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8776052-055/",
+      "price": 16400,
+      "priceWithFee": 16974,
+      "transactedAt": "2026-07-27 22:09:40",
+      "productCode": "877959009",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,章,1979年,2盎司,年第,第四,四届,届全,全运,运会,会女,女子,子舞,舞剑,剑盎,盎司,司金,金章"
+    }
+  ]
+}

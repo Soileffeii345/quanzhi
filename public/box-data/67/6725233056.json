@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6725233056",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6725233056",
+      "displayBoxCode": "6725233-056",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2014年1/10盎司生肖马彩金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/476603.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6725233-056/70/",
+      "price": 2550,
+      "priceWithFee": null,
+      "transactedAt": "2025-05-06 20:55:32",
+      "productCode": "KH065929",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250506/large_sell_yhzpha3czq9uowff.jpg",
+      "ocrConfidence": 38,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2014年,10盎司,生肖,年盎,盎司,司生,肖马,马彩,彩金,金币"
+    }
+  ]
+}

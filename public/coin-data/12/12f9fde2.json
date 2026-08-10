@@ -1,0 +1,31 @@
+{
+  "coinName": "1914年美国10美元纸币",
+  "slug": "12f9fde2",
+  "saleCount": 1,
+  "keywords": "币,1914年,年美,美国,国美,美元,元纸,纸币,外国/特区",
+  "priceStats": {
+    "low": 1800,
+    "high": 1800,
+    "avg": 1800,
+    "latest": 1800
+  },
+  "records": [
+    {
+      "coinName": "1914年美国10美元纸币",
+      "normalizedBoxCode": "2403931047",
+      "displayBoxCode": "2403931-047",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10387946.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2403931-047/",
+      "price": 1800,
+      "priceWithFee": 1998,
+      "transactedAt": "2026-07-14 22:14:05",
+      "productCode": "873172014",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1914年,年美,美国,国美,美元,元纸,纸币,外国/特区"
+    }
+  ]
+}

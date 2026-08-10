@@ -1,0 +1,65 @@
+{
+  "coinName": "第三版人民币2元古币水印",
+  "slug": "0c777b2c",
+  "saleCount": 3,
+  "keywords": "币,第三,三版,版人,人民,民币,币元,元古,古币,币水,水印",
+  "priceStats": {
+    "low": 2900,
+    "high": 3900,
+    "avg": 3267,
+    "latest": 3000
+  },
+  "records": [
+    {
+      "coinName": "第三版人民币2元古币水印",
+      "normalizedBoxCode": "2121618006",
+      "displayBoxCode": "2121618-006",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/disanbanrenminbi/10385099.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2121618-006/",
+      "price": 3000,
+      "priceWithFee": 3240,
+      "transactedAt": "2026-07-07 20:55:50",
+      "productCode": "872628001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,第三,三版,版人,人民,民币,币元,元古,古币,币水,水印"
+    },
+    {
+      "coinName": "第三版人民币2元古币水印",
+      "normalizedBoxCode": "7012645039",
+      "displayBoxCode": "7012645-039",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/disanbanrenminbi/10400162.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/7012645-039/",
+      "price": 3900,
+      "priceWithFee": 4212,
+      "transactedAt": "2026-07-18 20:35:05",
+      "productCode": "875196001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,第三,三版,版人,人民,民币,币元,元古,古币,币水,水印"
+    },
+    {
+      "coinName": "第三版人民币2元古币水印",
+      "normalizedBoxCode": "7020518011",
+      "displayBoxCode": "7020518-011",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/disanbanrenminbi/10401715.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/7020518-011/",
+      "price": 2900,
+      "priceWithFee": 3132,
+      "transactedAt": "2026-07-23 19:31:10",
+      "productCode": "874991002",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,第三,三版,版人,人民,民币,币元,元古,古币,币水,水印"
+    }
+  ]
+}

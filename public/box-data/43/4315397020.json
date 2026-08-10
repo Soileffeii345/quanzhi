@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4315397020",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4315397020",
+      "displayBoxCode": "4315397-020",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2016年2盎司古典园林留园仿古银章",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/551382.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4315397-020/",
+      "price": 1450,
+      "priceWithFee": null,
+      "transactedAt": "2026-02-02 13:56:12",
+      "productCode": "KH117350",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260202/large_sell_dvppzmenxs7nzkrp.jpg",
+      "ocrConfidence": 42,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,章,2016年,2盎司,年盎,盎司,司古,古典,典园,园林,林留,留园,园仿,仿古,古银,银章"
+    }
+  ]
+}

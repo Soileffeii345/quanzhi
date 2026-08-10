@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "3780544010",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "3780544010",
+      "displayBoxCode": "3780544-010",
+      "gradingCompany": "NGC",
+      "grade": "MS 70",
+      "coinName": "2004年甲申猴年生肖1盎司扇形普制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10376698.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3780544-010/70/",
+      "price": 1120,
+      "priceWithFee": 1159.2,
+      "transactedAt": "2026-07-06 19:34:15",
+      "productCode": "872086004",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/26/872086004A.jpg",
+      "ocrConfidence": 42,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2004年,1盎司,生肖,年甲,甲申,申猴,猴年,年生,肖盎,盎司,司扇,扇形,形普,普制,制银,银币"
+    }
+  ]
+}

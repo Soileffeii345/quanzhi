@@ -1,0 +1,31 @@
+{
+  "coinName": "1999年京剧5盎司精制银币",
+  "slug": "09256592",
+  "saleCount": 1,
+  "keywords": "银,币,1999年,5盎司,戏曲,年中,中国,国京,京剧,剧艺,艺术,术第,第组,组杨,杨门,门女,女将,将盎,盎司,司长,长方,方形,形精,精制,制彩,彩银,银币,评级",
+  "priceStats": {
+    "low": 3100,
+    "high": 3100,
+    "avg": 3100,
+    "latest": 3100
+  },
+  "records": [
+    {
+      "coinName": "1999年中国京剧艺术第（1）组-杨门女将5盎司长方形精制彩银币",
+      "normalizedBoxCode": "8660923075",
+      "displayBoxCode": "8660923-075",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10397625.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8660923-075/69/",
+      "price": 3100,
+      "priceWithFee": 3208.5,
+      "transactedAt": "2026-07-16 20:27:35",
+      "productCode": "874841015",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1999年,5盎司,戏曲,年中,中国,国京,京剧,剧艺,艺术,术第,第组,组杨,杨门,门女,女将,将盎,盎司,司长,长方,方形,形精,精制,制彩,彩银,银币,评级"
+    }
+  ]
+}

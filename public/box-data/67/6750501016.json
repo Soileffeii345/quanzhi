@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6750501016",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6750501016",
+      "displayBoxCode": "6750501-016",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1980年寿星19克银章",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10404610.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6750501-016/69/",
+      "price": 2600,
+      "priceWithFee": 2691,
+      "transactedAt": "2026-07-13 22:06:25",
+      "productCode": "875382006",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/875382006A.jpg",
+      "ocrConfidence": 37,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,章,1980年,19克,宗教,年寿,寿星,星克,克银,银章"
+    }
+  ]
+}

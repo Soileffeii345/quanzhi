@@ -1,0 +1,31 @@
+{
+  "coinName": "2010年熊猫5盎司银币",
+  "slug": "5f775d5d",
+  "saleCount": 1,
+  "keywords": "银,币,2010年,5盎司,熊猫,年盎,盎司,司熊,猫银,银币",
+  "priceStats": {
+    "low": 5300,
+    "high": 5300,
+    "avg": 5300,
+    "latest": 5300
+  },
+  "records": [
+    {
+      "coinName": "2010年5盎司熊猫银币",
+      "normalizedBoxCode": "5819469003",
+      "displayBoxCode": "5819469-003",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/537281.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/5819469-003/69/",
+      "price": 5300,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-28 15:26:23",
+      "productCode": "KH111708",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2010年,5盎司,熊猫,年盎,盎司,司熊,猫银,银币"
+    }
+  ]
+}

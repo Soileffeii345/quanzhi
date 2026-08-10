@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "1534229045",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "1534229045",
+      "displayBoxCode": "1534229-045",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2006年美国南达科他州银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/476373.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1534229-045/70/",
+      "price": 270,
+      "priceWithFee": null,
+      "transactedAt": "2025-05-08 20:39:45",
+      "productCode": "AA561299",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250505/large_sell_anyrs14xx3j9ynlk.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2006年,年美,美国,国南,南达,达科,科他,他州,州银,银币,外国/特区"
+    }
+  ]
+}

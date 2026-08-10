@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2404157035",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2404157035",
+      "displayBoxCode": "2404157-035",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1935年香港上海汇丰银行壹圆",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xianggangzhichao/10410447.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2404157-035/",
+      "price": 500,
+      "priceWithFee": 555,
+      "transactedAt": "2026-07-21 19:14:05",
+      "productCode": "876073010",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/876073010B.jpg",
+      "ocrConfidence": 31,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,1935年,年香,香港,港上,上海,海汇,汇丰,丰银,银行,行壹,壹圆,外国/特区"
+    }
+  ]
+}

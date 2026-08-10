@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8185677005",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8185677005",
+      "displayBoxCode": "8185677-005",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2012年1盎司青铜器第1组银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/493623.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8185677-005/69/",
+      "price": 320,
+      "priceWithFee": null,
+      "transactedAt": "2025-08-24 13:38:21",
+      "productCode": "KH079750",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250808/large_sell_lbyycrfef2qmaeyd.jpg",
+      "ocrConfidence": 38,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,铜,币,2012年,1盎司,年盎,盎司,司青,青铜,铜器,器第,第组,组银,银币"
+    }
+  ]
+}

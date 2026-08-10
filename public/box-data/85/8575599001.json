@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8575599001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8575599001",
+      "displayBoxCode": "8575599-001",
+      "gradingCompany": "NGC",
+      "grade": "PF70 ULTRA CAMEO",
+      "coinName": "2025年8克西南财经大学建校100周年金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/526602.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8575599-001/70/",
+      "price": 8100,
+      "priceWithFee": null,
+      "transactedAt": "2025-12-31 18:17:19",
+      "productCode": "AA606946",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251231/large_sell_luomqjkt4s45issf.jpg",
+      "ocrConfidence": 37,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2025年,8克,年克,克西,西南,南财,财经,经大,大学,学建,建校,校周,周年,年金,金币"
+    }
+  ]
+}

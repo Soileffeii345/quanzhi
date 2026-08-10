@@ -1,0 +1,31 @@
+{
+  "coinName": "民国中国银行贰角",
+  "slug": "14eb84ff",
+  "saleCount": 1,
+  "keywords": "银,历史币,民国,国中,中国,国银,银行,行贰,贰角",
+  "priceStats": {
+    "low": 1020,
+    "high": 1020,
+    "avg": 1020,
+    "latest": 1020
+  },
+  "records": [
+    {
+      "coinName": "民国中国银行贰角",
+      "normalizedBoxCode": "1602491009",
+      "displayBoxCode": "1602491-009",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10374621.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1602491-009/",
+      "price": 1020,
+      "priceWithFee": 1132.2,
+      "transactedAt": "2026-07-16 21:22:10",
+      "productCode": "871167001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国中,中国,国银,银行,行贰,贰角"
+    }
+  ]
+}

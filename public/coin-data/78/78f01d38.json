@@ -1,0 +1,31 @@
+{
+  "coinName": "1988年熊猫12盎司银币",
+  "slug": "78f01d38",
+  "saleCount": 1,
+  "keywords": "银,币,1988年,12盎司,熊猫,年盎,盎司,司熊,猫银,银币",
+  "priceStats": {
+    "low": 11200,
+    "high": 11200,
+    "avg": 11200,
+    "latest": 11200
+  },
+  "records": [
+    {
+      "coinName": "1988年12盎司熊猫银币",
+      "normalizedBoxCode": "4311559001",
+      "displayBoxCode": "4311559-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/437074.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4311559-001/69/",
+      "price": 11200,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-20 05:49:52",
+      "productCode": "KH102115",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1988年,12盎司,熊猫,年盎,盎司,司熊,猫银,银币"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4528938004",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4528938004",
+      "displayBoxCode": "4528938-004",
+      "gradingCompany": "NGC",
+      "grade": "PF 68 ULTRA CAMEO",
+      "coinName": "2014年5盎司方形生肖马银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/526932.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4528938-004/68/",
+      "price": 3700,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-15 05:59:35",
+      "productCode": "KH102188",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260102/large_sell_qfyrc6rzh78u41t0.jpg",
+      "ocrConfidence": 41,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2014年,5盎司,生肖,年盎,盎司,司方,方形,形生,肖马,马银,银币"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "coinName": "2002年京剧5盎司精制银币",
+  "slug": "09ac4156",
+  "saleCount": 3,
+  "keywords": "银,币,2002年,5盎司,戏曲,年中,中国,国京,京剧,剧艺,艺术,术第,第组,组挑,挑滑,滑车,车盎,盎司,司精,精制,制彩,彩银,银币,评级",
+  "priceStats": {
+    "low": 2750,
+    "high": 3000,
+    "avg": 2900,
+    "latest": 2750
+  },
+  "records": [
+    {
+      "coinName": "2002年中国京剧艺术第（4）组-挑滑车5盎司精制彩银币",
+      "normalizedBoxCode": "4320149007",
+      "displayBoxCode": "4320149-007",
+      "gradingCompany": "NGC",
+      "grade": "PF 68 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10385853.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4320149-007/68/",
+      "price": 2750,
+      "priceWithFee": 2846.25,
+      "transactedAt": "2026-07-09 20:50:05",
+      "productCode": "872811001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2002年,5盎司,戏曲,年中,中国,国京,京剧,剧艺,艺术,术第,第组,组挑,挑滑,滑车,车盎,盎司,司精,精制,制彩,彩银,银币,评级"
+    },
+    {
+      "coinName": "2002年中国京剧艺术第（4）组-挑滑车5盎司精制彩银币",
+      "normalizedBoxCode": "8505700039",
+      "displayBoxCode": "8505700-039",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10415017.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8505700-039/69/",
+      "price": 2950,
+      "priceWithFee": 3053.25,
+      "transactedAt": "2026-07-23 20:13:25",
+      "productCode": "876728013",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2002年,5盎司,戏曲,年中,中国,国京,京剧,剧艺,艺术,术第,第组,组挑,挑滑,滑车,车盎,盎司,司精,精制,制彩,彩银,银币,评级"
+    },
+    {
+      "coinName": "2002年中国京剧艺术第（4）组-挑滑车5盎司精制彩银币",
+      "normalizedBoxCode": "8505700048",
+      "displayBoxCode": "8505700-048",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10397624.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8505700-048/69/",
+      "price": 3000,
+      "priceWithFee": 3105,
+      "transactedAt": "2026-07-16 20:15:05",
+      "productCode": "874841014",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2002年,5盎司,戏曲,年中,中国,国京,京剧,剧艺,艺术,术第,第组,组挑,挑滑,滑车,车盎,盎司,司精,精制,制彩,彩银,银币,评级"
+    }
+  ]
+}

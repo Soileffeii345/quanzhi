@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "3543600131",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "3543600131",
+      "displayBoxCode": "3543600-131",
+      "gradingCompany": "NGC",
+      "grade": "MS69",
+      "coinName": "2005年1盎司熊猫银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/507930.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3543600-131/69/",
+      "price": 510,
+      "priceWithFee": null,
+      "transactedAt": "2025-11-01 20:13:55",
+      "productCode": "AA592231",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251023/large_sell_yitlbyz5ysmueaud.jpg",
+      "ocrConfidence": 28,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2005年,1盎司,熊猫,年盎,盎司,司熊,猫银,银币"
+    }
+  ]
+}

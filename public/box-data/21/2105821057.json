@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2105821057",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2105821057",
+      "displayBoxCode": "2105821-057",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2002年香港渣打银行贰拾圆",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/liantichao-jinianchao/10395230.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2105821-057/",
+      "price": 100,
+      "priceWithFee": 108,
+      "transactedAt": "2026-07-14 19:30:20",
+      "productCode": "874351005",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/874351005B.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,2002年,年香,香港,港渣,渣打,打银,银行,行贰,贰拾,拾圆,外国/特区"
+    }
+  ]
+}

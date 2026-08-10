@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8660706002",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8660706002",
+      "displayBoxCode": "8660706-002",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2016年1公斤生肖猴银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/551406.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8660706-002/70/",
+      "price": 27000,
+      "priceWithFee": null,
+      "transactedAt": "2026-02-02 13:42:39",
+      "productCode": "KH117361",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260202/large_sell_hcrzyin6iszdqny2.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2016年,1公斤,生肖,年公,公斤,斤生,肖猴,猴银,银币"
+    }
+  ]
+}

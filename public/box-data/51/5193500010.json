@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "5193500010",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "5193500010",
+      "displayBoxCode": "5193500-010",
+      "gradingCompany": "NGC",
+      "grade": "PF70",
+      "coinName": "2006年1/4盎司青藏铁路通车金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/523593.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/5193500-010/70/",
+      "price": 7870,
+      "priceWithFee": null,
+      "transactedAt": "2025-12-22 18:12:14",
+      "productCode": "KH097208",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251222/large_sell_brct6xm8qhltw6s8.jpg",
+      "ocrConfidence": 49,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2006年,4盎司,年盎,盎司,司青,青藏,藏铁,铁路,路通,通车,车金,金币"
+    }
+  ]
+}

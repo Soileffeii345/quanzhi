@@ -1,0 +1,31 @@
+{
+  "coinName": "2016年熊猫3克普制金币",
+  "slug": "276f7d4b",
+  "saleCount": 1,
+  "keywords": "金,币,2016年,3克,熊猫,年熊,猫克,克普,普制,制金,金币",
+  "priceStats": {
+    "low": 3300,
+    "high": 3300,
+    "avg": 3300,
+    "latest": 3300
+  },
+  "records": [
+    {
+      "coinName": "2016年熊猫3克普制金币",
+      "normalizedBoxCode": "4576227013",
+      "displayBoxCode": "4576227-013",
+      "gradingCompany": "NGC",
+      "grade": "Ms70",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-xinjin/10365288.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4576227-013/70/",
+      "price": 3300,
+      "priceWithFee": 3415.5,
+      "transactedAt": "2026-07-06 22:43:15",
+      "productCode": "870987001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2016年,3克,熊猫,年熊,猫克,克普,普制,制金,金币"
+    }
+  ]
+}

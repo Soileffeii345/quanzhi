@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "3549476002",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "3549476002",
+      "displayBoxCode": "3549476-002",
+      "gradingCompany": "NGC",
+      "grade": "PF 68 ULTRA CAMEO",
+      "coinName": "1992年出土文物青铜器第（2）组-卧鹿15克精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10389113.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3549476-002/68/",
+      "price": 1100,
+      "priceWithFee": 1138.5,
+      "transactedAt": "2026-07-13 20:21:50",
+      "productCode": "873690011",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/27/873690011A.jpg",
+      "ocrConfidence": 44,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,铜,币,1992年,15克,年出,出土,土文,文物,物青,青铜,铜器,器第,第组,组卧,卧鹿,鹿克,克精,精制,制银,银币,评级"
+    }
+  ]
+}

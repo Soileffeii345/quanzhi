@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6729358044",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6729358044",
+      "displayBoxCode": "6729358-044",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2004年邓小平诞辰100周年流通纪念币二枚",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10389809.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6729358-044/",
+      "price": 60,
+      "priceWithFee": 64.8,
+      "transactedAt": "2026-07-08 20:00:45",
+      "productCode": "873268005",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/27/873268005A.jpg",
+      "ocrConfidence": 39,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2004年,年邓,邓小,小平,平诞,诞辰,辰周,周年,年流,流通,通纪,纪念,念币,币二,二枚"
+    }
+  ]
+}

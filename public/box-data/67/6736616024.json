@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6736616024",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6736616024",
+      "displayBoxCode": "6736616-024",
+      "gradingCompany": "NGC",
+      "grade": "PF70",
+      "coinName": "2014年1/4盎司青铜器第3组金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/485101.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6736616-024/70/",
+      "price": 6210,
+      "priceWithFee": null,
+      "transactedAt": "2025-06-24 10:02:28",
+      "productCode": "KH071512",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250623/large_sell_l9cqa7demfvcjg4d.jpg",
+      "ocrConfidence": 45,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,铜,币,2014年,4盎司,年盎,盎司,司青,青铜,铜器,器第,第组,组金,金币"
+    }
+  ]
+}

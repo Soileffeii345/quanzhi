@@ -1,0 +1,31 @@
+{
+  "coinName": "1991年熊猫20盎司普制金币",
+  "slug": "440a7620",
+  "saleCount": 1,
+  "keywords": "金,币,1991年,20盎司,熊猫,年熊,猫盎,盎司,司普,普制,制金,金币,币大,大字,字版",
+  "priceStats": {
+    "low": 1660,
+    "high": 1660,
+    "avg": 1660,
+    "latest": 1660
+  },
+  "records": [
+    {
+      "coinName": "1991年熊猫1/20盎司普制金币（大字版）",
+      "normalizedBoxCode": "8819595006",
+      "displayBoxCode": "8819595-006",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-jiujin/10372450.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8819595-006/69/",
+      "price": 1660,
+      "priceWithFee": 1718.1,
+      "transactedAt": "2026-06-29 22:03:30",
+      "productCode": "871489003",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1991年,20盎司,熊猫,年熊,猫盎,盎司,司普,普制,制金,金币,币大,大字,字版"
+    }
+  ]
+}

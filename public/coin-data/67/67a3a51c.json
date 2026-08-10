@@ -1,0 +1,31 @@
+{
+  "coinName": "1993年毛泽东15.552克精制金币",
+  "slug": "67a3a51c",
+  "saleCount": 1,
+  "keywords": "金,币,1993年,2盎司,年毛,毛泽,泽东,东诞,诞辰,辰周,周年,年盎,盎司,司精,精制,制金,金币,评级",
+  "priceStats": {
+    "low": 50000,
+    "high": 50000,
+    "avg": 50000,
+    "latest": 50000
+  },
+  "records": [
+    {
+      "coinName": "1993年毛泽东诞辰100周年1/2盎司精制金币",
+      "normalizedBoxCode": "5806779006",
+      "displayBoxCode": "5806779-006",
+      "gradingCompany": "NGC",
+      "grade": "PF69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10379362.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/5806779-006/69/",
+      "price": 50000,
+      "priceWithFee": 51750,
+      "transactedAt": "2026-07-02 20:55:30",
+      "productCode": "872407014",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1993年,2盎司,年毛,毛泽,泽东,东诞,诞辰,辰周,周年,年盎,盎司,司精,精制,制金,金币,评级"
+    }
+  ]
+}

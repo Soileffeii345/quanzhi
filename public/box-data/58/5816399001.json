@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "5816399001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "5816399001",
+      "displayBoxCode": "5816399-001",
+      "gradingCompany": "NGC",
+      "grade": "MS 66",
+      "coinName": "2019年世界文化和自然遗产-泰山流通纪念币三枚",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10380463.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/5816399-001/66/",
+      "price": 190,
+      "priceWithFee": 205.2,
+      "transactedAt": "2026-07-08 19:01:25",
+      "productCode": "872920004",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/16/853299001A.jpg",
+      "ocrConfidence": 43,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2019年,名山,年世,世界,界文,文化,化和,和自,自然,然遗,遗产,产泰,泰山,山流,流通,通纪,纪念,念币,币三,三枚"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "coinName": "1907年27克银币",
+  "slug": "1a19a235",
+  "saleCount": 1,
+  "keywords": "银,币,1907年,27克,站洋,年法,法属,属坐,坐洋,洋克,克银,银币",
+  "priceStats": {
+    "low": 460,
+    "high": 460,
+    "avg": 460,
+    "latest": 460
+  },
+  "records": [
+    {
+      "coinName": "1907年法属坐洋27克银币",
+      "normalizedBoxCode": "8659467010",
+      "displayBoxCode": "8659467-010",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/wgjsbizhang/10416993.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8659467-010/",
+      "price": 460,
+      "priceWithFee": 487.6,
+      "transactedAt": "2026-07-24 19:44:15",
+      "productCode": "877048001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1907年,27克,站洋,年法,法属,属坐,坐洋,洋克,克银,银币"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8761467003",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8761467003",
+      "displayBoxCode": "8761467-003",
+      "gradingCompany": "NGC",
+      "grade": "PF 64 ULTRA CAMEO",
+      "coinName": "1993年宋庆龄诞辰100周、毛泽东诞辰100周年流通纪念币各一枚，共二枚",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10412617.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8761467-003/64/",
+      "price": 130,
+      "priceWithFee": 140.4,
+      "transactedAt": "2026-07-22 19:23:25",
+      "productCode": "876313004",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/876313004A.jpg",
+      "ocrConfidence": 41,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1993年,年宋,宋庆,庆龄,龄诞,诞辰,辰周,周毛,毛泽,泽东,东诞,周年,年流,流通,通纪,纪念,念币,币各,各一,一枚,枚共,共二,二枚"
+    }
+  ]
+}

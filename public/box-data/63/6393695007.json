@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6393695007",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6393695007",
+      "displayBoxCode": "6393695-007",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2025年15克国家宝藏击鼓说唱俑银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/495022.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6393695-007/70/",
+      "price": 410,
+      "priceWithFee": null,
+      "transactedAt": "2025-08-23 23:33:40",
+      "productCode": "AA579794",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250818/large_sell_vmjw7zoxxkvctfbo.jpg",
+      "ocrConfidence": 32,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2025年,15克,年克,克国,国家,家宝,宝藏,藏击,击鼓,鼓说,说唱,唱俑,俑银,银币"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "coinName": "1980年长城1元",
+  "slug": "1fede6cc",
+  "saleCount": 2,
+  "keywords": "1980年,年长,长城,城元,元无,无砖,元有,有砖",
+  "priceStats": {
+    "low": 230,
+    "high": 4350,
+    "avg": 2290,
+    "latest": 4350
+  },
+  "records": [
+    {
+      "coinName": "1980年长城1元(无砖)",
+      "normalizedBoxCode": "2074699002",
+      "displayBoxCode": "2074699-002",
+      "gradingCompany": "NGC",
+      "grade": "MS 68",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/498400.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2074699-002/68/",
+      "price": 4350,
+      "priceWithFee": null,
+      "transactedAt": "2025-09-05 10:52:04",
+      "productCode": "KH082107",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "1980年,年长,长城,城元,元无,无砖"
+    },
+    {
+      "coinName": "1980年长城1元(有砖)",
+      "normalizedBoxCode": "6715119011",
+      "displayBoxCode": "6715119-011",
+      "gradingCompany": "NGC",
+      "grade": "MS 63",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/518427.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6715119-011/63/",
+      "price": 230,
+      "priceWithFee": null,
+      "transactedAt": "2025-12-20 07:45:20",
+      "productCode": "KH095402",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "1980年,年长,长城,城元,元有,有砖"
+    }
+  ]
+}

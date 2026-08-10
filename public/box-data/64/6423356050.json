@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6423356050",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6423356050",
+      "displayBoxCode": "6423356-050",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2016年5盎司方形生肖猴银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/523729.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6423356-050/69/",
+      "price": 3150,
+      "priceWithFee": null,
+      "transactedAt": "2025-12-27 06:34:00",
+      "productCode": "KH097335",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251223/large_sell_wpd7efud5eihfbab.jpg",
+      "ocrConfidence": 39,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2016年,5盎司,生肖,年盎,盎司,司方,方形,形生,肖猴,猴银,银币"
+    }
+  ]
+}

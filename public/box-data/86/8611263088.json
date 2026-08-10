@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8611263088",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8611263088",
+      "displayBoxCode": "8611263-088",
+      "gradingCompany": "NGC",
+      "grade": "PF69 ULTRA CAMEO",
+      "coinName": "1997年1/2盎司12边企鹅金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/520099.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8611263-088/69/",
+      "price": 15055,
+      "priceWithFee": null,
+      "transactedAt": "2025-12-13 08:20:08",
+      "productCode": "KH094894",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251212/large_sell_01mzavhyo1hzkirf.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1997年,2盎司,年盎,盎司,司边,边企,企鹅,鹅金,金币"
+    }
+  ]
+}

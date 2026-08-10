@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2485426022",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2485426022",
+      "displayBoxCode": "2485426-022",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2016年渣打银行港币20元",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/liantichao-jinianchao/10420623.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2485426-022/",
+      "price": 150,
+      "priceWithFee": 162,
+      "transactedAt": "2026-07-25 20:06:40",
+      "productCode": "877014008",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/877014008B.jpg",
+      "ocrConfidence": 29,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2016年,年渣,渣打,打银,银行,行港,港币,币元"
+    }
+  ]
+}

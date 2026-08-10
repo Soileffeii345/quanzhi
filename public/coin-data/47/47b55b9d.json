@@ -1,0 +1,31 @@
+{
+  "coinName": "1885年金铜币",
+  "slug": "47b55b9d",
+  "saleCount": 1,
+  "keywords": "金,铜,章,1885年,年奥,奥地,地利,利安,安特,特卫,卫普,普国,国际,际博,博览,览会,会镀,镀金,金铜,铜章",
+  "priceStats": {
+    "low": 360,
+    "high": 360,
+    "avg": 360,
+    "latest": 360
+  },
+  "records": [
+    {
+      "coinName": "1885年奥地利安特卫普国际博览会镀金铜章",
+      "normalizedBoxCode": "8619104014",
+      "displayBoxCode": "8619104-014",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianbi/10424731.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8619104-014/",
+      "price": 360,
+      "priceWithFee": 399.6,
+      "transactedAt": "2026-07-24 20:25:55",
+      "productCode": "877433007",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,铜,章,1885年,年奥,奥地,地利,利安,安特,特卫,卫普,普国,国际,际博,博览,览会,会镀,镀金,金铜,铜章"
+    }
+  ]
+}

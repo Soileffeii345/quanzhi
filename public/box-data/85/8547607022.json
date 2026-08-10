@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8547607022",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8547607022",
+      "displayBoxCode": "8547607-022",
+      "gradingCompany": "NGC",
+      "grade": "PF 67 CAMEO",
+      "coinName": "1993年中国精制硬币伍角",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10398192.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8547607-022/67/",
+      "price": 520,
+      "priceWithFee": 561.6,
+      "transactedAt": "2026-07-15 21:04:05",
+      "productCode": "874428002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/874428002A.jpg",
+      "ocrConfidence": 25,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1993年,年中,中国,国精,精制,制硬,硬币,币伍,伍角,评级"
+    }
+  ]
+}

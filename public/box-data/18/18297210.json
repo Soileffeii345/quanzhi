@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "18297210",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "18297210",
+      "displayBoxCode": "18297210",
+      "gradingCompany": "PCGS",
+      "grade": "MS69",
+      "coinName": "1994年1盎司麒麟银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/574905.html",
+      "officialCertUrl": "https://cn.pcgs.com/cert/18297210",
+      "price": 960,
+      "priceWithFee": null,
+      "transactedAt": "2026-05-06 06:25:39",
+      "productCode": "KH133216",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260422/large_sell_hzajkq5qgkmyec5u.jpg",
+      "ocrConfidence": 38,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1994年,1盎司,年盎,盎司,司麒,麒麟,麟银,银币"
+    }
+  ]
+}

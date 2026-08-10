@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8204503047",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8204503047",
+      "displayBoxCode": "8204503-047",
+      "gradingCompany": "NGC",
+      "grade": "Ms69",
+      "coinName": "1998年1/10盎司迎春图金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/464955.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8204503-047/69/",
+      "price": 12800,
+      "priceWithFee": null,
+      "transactedAt": "2025-03-20 10:16:48",
+      "productCode": "AA550607A",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250212/large_sell_xdxgexwc7w9kitjl.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1998年,10盎司,年盎,盎司,司迎,迎春,春图,图金,金币"
+    }
+  ]
+}

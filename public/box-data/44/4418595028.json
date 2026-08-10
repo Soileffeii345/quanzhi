@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4418595028",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4418595028",
+      "displayBoxCode": "4418595-028",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2013年1/4盎司青铜器第2组金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/486633.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4418595-028/69/",
+      "price": 6130,
+      "priceWithFee": null,
+      "transactedAt": "2025-07-02 18:20:12",
+      "productCode": "AA570959",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250702/large_sell_vhn9n31yojwrlkti.jpg",
+      "ocrConfidence": 41,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,铜,币,2013年,4盎司,年盎,盎司,司青,青铜,铜器,器第,第组,组金,金币"
+    }
+  ]
+}

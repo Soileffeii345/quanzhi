@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2022452009",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2022452009",
+      "displayBoxCode": "2022452-009",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1995年27克古代航海船封舟图银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/510559.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2022452-009/69/",
+      "price": 2000,
+      "priceWithFee": null,
+      "transactedAt": "2025-12-10 10:50:46",
+      "productCode": "KH093965",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251104/large_sell_qq3rgfqnnwjmccin.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1995年,27克,年克,克古,古代,代航,航海,海船,船封,封舟,舟图,图银,银币"
+    }
+  ]
+}

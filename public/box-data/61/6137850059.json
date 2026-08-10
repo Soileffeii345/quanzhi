@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6137850059",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6137850059",
+      "displayBoxCode": "6137850-059",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1999年1/2盎司梅花形生肖兔金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/550383.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6137850-059/69/",
+      "price": 20800,
+      "priceWithFee": null,
+      "transactedAt": "2026-02-06 21:19:44",
+      "productCode": "KH118089",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260130/large_sell_rwhckkipskl1aggq.jpg",
+      "ocrConfidence": 48,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1999年,2盎司,生肖,年盎,盎司,司梅,梅花,花形,形生,肖兔,兔金,金币"
+    }
+  ]
+}

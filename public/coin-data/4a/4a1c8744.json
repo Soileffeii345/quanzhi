@@ -1,0 +1,31 @@
+{
+  "coinName": "2024年吉祥文化3克金币",
+  "slug": "4a1c8744",
+  "saleCount": 1,
+  "keywords": "金,币,2024年,3克,吉祥文化,年克,克吉,吉祥,祥文,文化,化十,十全,全十,十美,美金,金币",
+  "priceStats": {
+    "low": 3200,
+    "high": 3200,
+    "avg": 3200,
+    "latest": 3200
+  },
+  "records": [
+    {
+      "coinName": "2024年3克吉祥文化十全十美金币",
+      "normalizedBoxCode": "8604989002",
+      "displayBoxCode": "8604989-002",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/509940.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8604989-002/69/",
+      "price": 3200,
+      "priceWithFee": null,
+      "transactedAt": "2025-11-06 01:50:35",
+      "productCode": "KH089862",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2024年,3克,吉祥文化,年克,克吉,吉祥,祥文,文化,化十,十全,全十,十美,美金,金币"
+    }
+  ]
+}

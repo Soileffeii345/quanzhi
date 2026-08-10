@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8499690013",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8499690013",
+      "displayBoxCode": "8499690-013",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2011年辛卯兔年生肖1公斤精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10412197.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8499690-013/69/",
+      "price": 16600,
+      "priceWithFee": 17181,
+      "transactedAt": "2026-07-23 20:05:55",
+      "productCode": "876350001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/876350001A.jpg",
+      "ocrConfidence": 47,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2011年,1公斤,生肖,年辛,辛卯,卯兔,兔年,年生,肖公,公斤,斤精,精制,制银,银币,评级"
+    }
+  ]
+}

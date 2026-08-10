@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "28927450",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "28927450",
+      "displayBoxCode": "28927450",
+      "gradingCompany": "PCGS",
+      "grade": "待复核",
+      "coinName": "1999年1/2盎司方形张大千归牧图金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/518637.html",
+      "officialCertUrl": "https://cn.pcgs.com/cert/28927450",
+      "price": 16000,
+      "priceWithFee": null,
+      "transactedAt": "2025-12-17 08:31:35",
+      "productCode": "KH093865",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251208/large_sell_c1rv8hnunkqwvhw1.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1999年,2盎司,年盎,盎司,司方,方形,形张,张大,大千,千归,归牧,牧图,图金,金币"
+    }
+  ]
+}

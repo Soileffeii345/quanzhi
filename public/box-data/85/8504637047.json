@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8504637047",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8504637047",
+      "displayBoxCode": "8504637-047",
+      "gradingCompany": "NGC",
+      "grade": "PF70 ULTRA CAMEO",
+      "coinName": "2013年吉尔吉斯斯坦伟大的黠戛斯汗国28.28克彩银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/wgjsbizhang/10395091.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8504637-047/70/",
+      "price": 880,
+      "priceWithFee": 932.8,
+      "transactedAt": "2026-07-10 20:15:55",
+      "productCode": "874112009",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/874112009A.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2013年,28.28克,年吉,吉尔,尔吉,吉斯,斯斯,斯坦,坦伟,伟大,大的,的黠,黠戛,戛斯,斯汗,汗国,国克,克彩,彩银,银币"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6719477002",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6719477002",
+      "displayBoxCode": "6719477-002",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1993年1盎司生肖鸡金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/465500.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6719477-002/",
+      "price": 35200,
+      "priceWithFee": null,
+      "transactedAt": "2025-04-21 07:29:48",
+      "productCode": "KH064929",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250222/large_sell_108i4cok4n7bkd24.jpg",
+      "ocrConfidence": 50,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1993年,1盎司,生肖,年盎,盎司,司生,肖鸡,鸡金,金币"
+    }
+  ]
+}

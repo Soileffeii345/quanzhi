@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8497139002",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8497139002",
+      "displayBoxCode": "8497139-002",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2020年法国1/4盎司世界文化遗产紫禁城建成600年金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/478758.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8497139-002/",
+      "price": 6155,
+      "priceWithFee": null,
+      "transactedAt": "2025-05-21 05:55:52",
+      "productCode": "KH067029",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250521/large_sell_g98j2p9vtuewzx4m.jpg",
+      "ocrConfidence": 48,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2020年,4盎司,年法,法国,国盎,盎司,司世,世界,界文,文化,化遗,遗产,产紫,紫禁,禁城,城建,建成,成年,年金,金币,外国/特区"
+    }
+  ]
+}

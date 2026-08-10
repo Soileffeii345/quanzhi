@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8501564001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8501564001",
+      "displayBoxCode": "8501564-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2006年1/2盎司岳麓书院金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/497386.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8501564-001/69/",
+      "price": 12485,
+      "priceWithFee": null,
+      "transactedAt": "2025-08-30 11:19:28",
+      "productCode": "KH080275",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250830/large_sell_y77qvgqhxl83bkgm.jpg",
+      "ocrConfidence": 48,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2006年,2盎司,年盎,盎司,司岳,岳麓,麓书,书院,院金,金币"
+    }
+  ]
+}

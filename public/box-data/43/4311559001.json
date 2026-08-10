@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4311559001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4311559001",
+      "displayBoxCode": "4311559-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1988年12盎司熊猫银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/437074.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4311559-001/69/",
+      "price": 11200,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-20 05:49:52",
+      "productCode": "KH102115",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20240618/large_sell_3kffkwk4hhpldslq.jpg",
+      "ocrConfidence": 43,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1988年,12盎司,熊猫,年盎,盎司,司熊,猫银,银币"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8581409042",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8581409042",
+      "displayBoxCode": "8581409-042",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2016年吉祥文化-瓜瓞绵绵8克精制金币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10360165.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8581409-042/69/",
+      "price": 7400,
+      "priceWithFee": 7659,
+      "transactedAt": "2026-06-25 21:23:35",
+      "productCode": "870451018",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/870451018A.jpg",
+      "ocrConfidence": 37,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2016年,8克,吉祥文化,年吉,吉祥,祥文,文化,化瓜,瓜瓞,瓞绵,绵绵,绵克,克精,精制,制金,金币,评级"
+    }
+  ]
+}

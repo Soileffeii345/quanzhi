@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8610239021",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8610239021",
+      "displayBoxCode": "8610239-021",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1998年中国古代名画-唐代簪花仕女图5盎司长方形精制彩银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10350377.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8610239-021/69/",
+      "price": 3750,
+      "priceWithFee": 3881.25,
+      "transactedAt": "2026-06-18 20:22:40",
+      "productCode": "869329004",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/869329004A.jpg",
+      "ocrConfidence": 56,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1998年,5盎司,年中,中国,国古,古代,代名,名画,画唐,唐代,代簪,簪花,花仕,仕女,女图,图盎,盎司,司长,长方,方形,形精,精制,制彩,彩银,银币,评级"
+    }
+  ]
+}

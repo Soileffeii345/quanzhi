@@ -1,0 +1,31 @@
+{
+  "coinName": "1980年19克银币",
+  "slug": "613fa037",
+  "saleCount": 1,
+  "keywords": "银,章,1980年,19克,宗教,年寿,寿星,星克,克银,银章",
+  "priceStats": {
+    "low": 2600,
+    "high": 2600,
+    "avg": 2600,
+    "latest": 2600
+  },
+  "records": [
+    {
+      "coinName": "1980年寿星19克银章",
+      "normalizedBoxCode": "6750501016",
+      "displayBoxCode": "6750501-016",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10404610.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6750501-016/69/",
+      "price": 2600,
+      "priceWithFee": 2691,
+      "transactedAt": "2026-07-13 22:06:25",
+      "productCode": "875382006",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,章,1980年,19克,宗教,年寿,寿星,星克,克银,银章"
+    }
+  ]
+}

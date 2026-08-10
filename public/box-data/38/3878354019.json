@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "3878354019",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "3878354019",
+      "displayBoxCode": "3878354-019",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1994年中国古代名画婴戏图-冬日婴戏图1盎司精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10381104.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3878354-019/69/",
+      "price": 3250,
+      "priceWithFee": 3363.75,
+      "transactedAt": "2026-07-09 19:36:05",
+      "productCode": "872386009",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/27/872386009A.jpg",
+      "ocrConfidence": 37,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1994年,1盎司,年中,中国,国古,古代,代名,名画,画婴,婴戏,戏图,图冬,冬日,日婴,图盎,盎司,司精,精制,制银,银币,评级"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6000791027",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6000791027",
+      "displayBoxCode": "6000791-027",
+      "gradingCompany": "NGC",
+      "grade": "PF70 ULTRA CAMEO",
+      "coinName": "2005年1盎司生肖鸡彩银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/563453.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6000791-027/70/",
+      "price": 1400,
+      "priceWithFee": null,
+      "transactedAt": "2026-03-17 11:16:21",
+      "productCode": "KH125261",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260317/large_sell_rv8oapzzjhnkeu1g.jpg",
+      "ocrConfidence": 38,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2005年,1盎司,生肖,年盎,盎司,司生,肖鸡,鸡彩,彩银,银币"
+    }
+  ]
+}

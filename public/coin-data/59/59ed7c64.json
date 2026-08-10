@@ -1,0 +1,31 @@
+{
+  "coinName": "2014年28.28克银币",
+  "slug": "59ed7c64",
+  "saleCount": 1,
+  "keywords": "银,币,2014年,28.28克,年纽,纽埃,埃改,改变,变艺,艺术,术系,系列,列矫,矫饰,饰主,主义,义镶,镶嵌,嵌玛,玛瑙,瑙克,克方,方形,形银,银币",
+  "priceStats": {
+    "low": 900,
+    "high": 900,
+    "avg": 900,
+    "latest": 900
+  },
+  "records": [
+    {
+      "coinName": "2014年纽埃改变艺术系列-矫饰主义镶嵌玛瑙28.28克方形银币",
+      "normalizedBoxCode": "8504637004",
+      "displayBoxCode": "8504637-004",
+      "gradingCompany": "NGC",
+      "grade": "MS 70",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/wgjsbizhang/10415183.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8504637-004/70/",
+      "price": 900,
+      "priceWithFee": 954,
+      "transactedAt": "2026-07-24 21:17:35",
+      "productCode": "876743011",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2014年,28.28克,年纽,纽埃,埃改,改变,变艺,艺术,术系,系列,列矫,矫饰,饰主,主义,义镶,镶嵌,嵌玛,玛瑙,瑙克,克方,方形,形银,银币"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8179788050",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8179788050",
+      "displayBoxCode": "8179788-050",
+      "gradingCompany": "NGC",
+      "grade": "PF 68 CAMEO",
+      "coinName": "1981年精制长城币贰角",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10392966.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8179788-050/68/",
+      "price": 790,
+      "priceWithFee": 853.2,
+      "transactedAt": "2026-07-15 20:08:15",
+      "productCode": "874009002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/874009002A.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1981年,年精,精制,制长,长城,城币,币贰,贰角,评级"
+    }
+  ]
+}

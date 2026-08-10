@@ -1,0 +1,31 @@
+{
+  "coinName": "2010年熊猫31.104克精制银币",
+  "slug": "7d7aca8e",
+  "saleCount": 1,
+  "keywords": "银,币,2010年,1盎司,熊猫,年中,中国,国资,资本,本市,市场,场周,周年,年熊,猫加,加字,字盎,盎司,司精,精制,制银,银币,评级",
+  "priceStats": {
+    "low": 570,
+    "high": 570,
+    "avg": 570,
+    "latest": 570
+  },
+  "records": [
+    {
+      "coinName": "2010年中国资本市场20周年熊猫加字1盎司精制银币",
+      "normalizedBoxCode": "4314585001",
+      "displayBoxCode": "4314585-001",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10377143.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4314585-001/69/",
+      "price": 570,
+      "priceWithFee": 589.95,
+      "transactedAt": "2026-06-29 21:41:50",
+      "productCode": "872183008",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2010年,1盎司,熊猫,年中,中国,国资,资本,本市,市场,场周,周年,年熊,猫加,加字,字盎,盎司,司精,精制,制银,银币,评级"
+    }
+  ]
+}

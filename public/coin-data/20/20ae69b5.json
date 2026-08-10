@@ -1,0 +1,65 @@
+{
+  "coinName": "1996年熊猫31.104克金币",
+  "slug": "20ae69b5",
+  "saleCount": 3,
+  "keywords": "金,币,1996年,1盎司,熊猫,年盎,盎司,司熊,猫金,金币,币大,大字,字版,币发,发行,行周,周年,年金",
+  "priceStats": {
+    "low": 21200,
+    "high": 36800,
+    "avg": 27800,
+    "latest": 36800
+  },
+  "records": [
+    {
+      "coinName": "1996年1盎司熊猫金币(大字版)",
+      "normalizedBoxCode": "1578388003",
+      "displayBoxCode": "1578388-003",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/484960.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1578388-003/69/",
+      "price": 36800,
+      "priceWithFee": null,
+      "transactedAt": "2025-06-23 11:45:07",
+      "productCode": "KH071448",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1996年,1盎司,熊猫,年盎,盎司,司熊,猫金,金币,币大,大字,字版"
+    },
+    {
+      "coinName": "1996年1盎司熊猫金币(大字版)",
+      "normalizedBoxCode": "4902076001",
+      "displayBoxCode": "4902076-001",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/453977.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4902076-001/69/",
+      "price": 25400,
+      "priceWithFee": null,
+      "transactedAt": "2024-11-13 11:10:26",
+      "productCode": "AA532560",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1996年,1盎司,熊猫,年盎,盎司,司熊,猫金,金币,币大,大字,字版"
+    },
+    {
+      "coinName": "1996年1盎司熊猫金币发行15周年金币",
+      "normalizedBoxCode": "5804192002",
+      "displayBoxCode": "5804192-002",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/458354.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/5804192-002/",
+      "price": 21200,
+      "priceWithFee": null,
+      "transactedAt": "2024-12-27 13:32:15",
+      "productCode": "AA537648",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1996年,1盎司,熊猫,年盎,盎司,司熊,猫金,金币,币发,发行,行周,周年,年金"
+    }
+  ]
+}

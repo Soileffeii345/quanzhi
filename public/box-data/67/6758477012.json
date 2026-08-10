@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6758477012",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6758477012",
+      "displayBoxCode": "6758477-012",
+      "gradingCompany": "NGC",
+      "grade": "PF 68 ULTRA CAMEO",
+      "coinName": "1998年5盎司澳门回归第2组银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/528799.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6758477-012/68/",
+      "price": 4800,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-27 16:37:18",
+      "productCode": "KH101853",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260107/large_sell_2jfjigz9j2khshra.jpg",
+      "ocrConfidence": 39,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1998年,5盎司,年盎,盎司,司澳,澳门,门回,回归,归第,第组,组银,银币,外国/特区"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8607701002",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8607701002",
+      "displayBoxCode": "8607701-002",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2025年15克生肖蛇彩铂币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/537755.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8607701-002/70/",
+      "price": 11200,
+      "priceWithFee": null,
+      "transactedAt": "2026-02-09 15:46:57",
+      "productCode": "KH118569",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260124/large_sell_0i0n2wqdpbkogvqc.jpg",
+      "ocrConfidence": 45,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "贵金属,币,2025年,15克,生肖,年克,克生,肖蛇,蛇彩,彩铂,铂币"
+    }
+  ]
+}

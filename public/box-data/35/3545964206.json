@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "3545964206",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "3545964206",
+      "displayBoxCode": "3545964-206",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1995年22克古代科技第4组印刷术银币(UC)",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/552625.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3545964-206/69/",
+      "price": 1200,
+      "priceWithFee": null,
+      "transactedAt": "2026-02-05 18:58:38",
+      "productCode": "KH117991",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260205/large_sell_6gg8qfguhc4cldwp.jpg",
+      "ocrConfidence": 41,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1995年,22克,年克,克古,古代,代科,科技,技第,第组,组印,印刷,刷术,术银,银币"
+    }
+  ]
+}

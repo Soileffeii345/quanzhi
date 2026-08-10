@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8648845006",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8648845006",
+      "displayBoxCode": "8648845-006",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1994年国际奥林匹克运动100周年-篮球27克精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10397408.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8648845-006/",
+      "price": 410,
+      "priceWithFee": 424.35,
+      "transactedAt": "2026-07-13 21:16:50",
+      "productCode": "874839007",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/874839007A.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1994年,27克,年国,国际,际奥,奥林,林匹,匹克,克运,运动,动周,周年,年篮,篮球,球克,克精,精制,制银,银币,评级"
+    }
+  ]
+}

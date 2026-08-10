@@ -1,0 +1,48 @@
+{
+  "coinName": "2023年熊猫",
+  "slug": "7e2344cb",
+  "saleCount": 2,
+  "keywords": "币,2023年,熊猫,年大,大熊,猫国,国家,家公,公园,园三,三江,江源,源国,园流,流通,通纪,纪念,念币,币各,各一,一枚,枚共,共二,二枚,园年,年东,东北,北虎,虎豹,豹国,共三,三枚",
+  "priceStats": {
+    "low": 110,
+    "high": 170,
+    "avg": 140,
+    "latest": 110
+  },
+  "records": [
+    {
+      "coinName": "2023年大熊猫国家公园、三江源国家公园流通纪念币各一枚，共二枚",
+      "normalizedBoxCode": "6180398007",
+      "displayBoxCode": "6180398-007",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10389807.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6180398-007/69/",
+      "price": 110,
+      "priceWithFee": 118.8,
+      "transactedAt": "2026-07-22 19:00:05",
+      "productCode": "873268003",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2023年,熊猫,年大,大熊,猫国,国家,家公,公园,园三,三江,江源,源国,园流,流通,通纪,纪念,念币,币各,各一,一枚,枚共,共二,二枚"
+    },
+    {
+      "coinName": "2023年大熊猫国家公园、三江源国家公园、2004年东北虎豹国家公园流通纪念币各一枚，共三枚",
+      "normalizedBoxCode": "6200368005",
+      "displayBoxCode": "6200368-005",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10389808.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6200368-005/69/",
+      "price": 170,
+      "priceWithFee": 183.6,
+      "transactedAt": "2026-07-08 20:00:05",
+      "productCode": "873268004",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2023年,熊猫,年大,大熊,猫国,国家,家公,公园,园三,三江,江源,源国,园年,年东,东北,北虎,虎豹,豹国,园流,流通,通纪,纪念,念币,币各,各一,一枚,枚共,共三,三枚"
+    }
+  ]
+}

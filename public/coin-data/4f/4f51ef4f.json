@@ -1,0 +1,82 @@
+{
+  "coinName": "2010年生肖3.11克金币",
+  "slug": "4f51ef4f",
+  "saleCount": 4,
+  "keywords": "金,币,2010年,10盎司,生肖,年盎,盎司,司生,肖虎,虎彩,彩金,金币",
+  "priceStats": {
+    "low": 2205,
+    "high": 3180,
+    "avg": 2673,
+    "latest": 3100
+  },
+  "records": [
+    {
+      "coinName": "2010年1/10盎司生肖虎彩金币",
+      "normalizedBoxCode": "4415854055",
+      "displayBoxCode": "4415854-055",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/507378.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4415854-055/69/",
+      "price": 3100,
+      "priceWithFee": null,
+      "transactedAt": "2025-10-21 14:30:00",
+      "productCode": "KH088673",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2010年,10盎司,生肖,年盎,盎司,司生,肖虎,虎彩,彩金,金币"
+    },
+    {
+      "coinName": "2010年1/10盎司生肖虎彩金币",
+      "normalizedBoxCode": "4415854056",
+      "displayBoxCode": "4415854-056",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/468414.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4415854-056/69/",
+      "price": 2205,
+      "priceWithFee": null,
+      "transactedAt": "2025-03-15 15:46:15",
+      "productCode": "KH061171",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2010年,10盎司,生肖,年盎,盎司,司生,肖虎,虎彩,彩金,金币"
+    },
+    {
+      "coinName": "2010年1/10盎司生肖虎彩金币",
+      "normalizedBoxCode": "4415854057",
+      "displayBoxCode": "4415854-057",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/468419.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4415854-057/69/",
+      "price": 2205,
+      "priceWithFee": null,
+      "transactedAt": "2025-03-15 15:54:32",
+      "productCode": "KH061175",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2010年,10盎司,生肖,年盎,盎司,司生,肖虎,虎彩,彩金,金币"
+    },
+    {
+      "coinName": "2010年1/10盎司生肖虎彩金币",
+      "normalizedBoxCode": "4543782003",
+      "displayBoxCode": "4543782-003",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/525312.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4543782-003/69/",
+      "price": 3180,
+      "priceWithFee": null,
+      "transactedAt": "2025-12-28 09:33:30",
+      "productCode": "KH099914",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2010年,10盎司,生肖,年盎,盎司,司生,肖虎,虎彩,彩金,金币"
+    }
+  ]
+}

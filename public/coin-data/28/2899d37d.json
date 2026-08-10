@@ -1,0 +1,31 @@
+{
+  "coinName": "1992年2盎司银币",
+  "slug": "2899d37d",
+  "saleCount": 1,
+  "keywords": "银,币,1992年,2盎司,年盎,盎司,司龙,龙马,马精,精神,神银,银币",
+  "priceStats": {
+    "low": 6000,
+    "high": 6000,
+    "avg": 6000,
+    "latest": 6000
+  },
+  "records": [
+    {
+      "coinName": "1992年2盎司龙马精神银币",
+      "normalizedBoxCode": "3497908040",
+      "displayBoxCode": "3497908-040",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/490933.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3497908-040/69/",
+      "price": 6000,
+      "priceWithFee": null,
+      "transactedAt": "2025-09-08 20:39:05",
+      "productCode": "AA574931",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1992年,2盎司,年盎,盎司,司龙,龙马,马精,精神,神银,银币"
+    }
+  ]
+}

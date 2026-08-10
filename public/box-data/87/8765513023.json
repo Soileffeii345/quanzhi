@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8765513023",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8765513023",
+      "displayBoxCode": "8765513-023",
+      "gradingCompany": "NGC",
+      "grade": "PF 68 ULTRA CAMEO",
+      "coinName": "2011年辛亥革命100周年1盎司精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10407538.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8765513-023/68/",
+      "price": 620,
+      "priceWithFee": 641.7,
+      "transactedAt": "2026-07-20 21:39:10",
+      "productCode": "875918013",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/875918013A.jpg",
+      "ocrConfidence": 32,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2011年,1盎司,年辛,辛亥,亥革,革命,命周,周年,年盎,盎司,司精,精制,制银,银币,评级"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2277872040",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2277872040",
+      "displayBoxCode": "2277872-040",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "民国十四年西北银行张家口地名伍圆",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/junyongpiao/10369539.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2277872-040/",
+      "price": 510,
+      "priceWithFee": 566.1,
+      "transactedAt": "2026-07-16 21:09:40",
+      "productCode": "871031004",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/26/871031004B.jpg",
+      "ocrConfidence": 26,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国十,十四,四年,年西,西北,北银,银行,行张,张家,家口,口地,地名,名伍,伍圆"
+    }
+  ]
+}

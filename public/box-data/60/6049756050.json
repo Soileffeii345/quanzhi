@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6049756050",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6049756050",
+      "displayBoxCode": "6049756-050",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2000年中国精制硬币1角",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10383536.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6049756-050/69/",
+      "price": 2500,
+      "priceWithFee": 2700,
+      "transactedAt": "2026-07-08 20:18:45",
+      "productCode": "872749001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/27/872749001A.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2000年,年中,中国,国精,精制,制硬,硬币,币角,评级"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8657410008",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8657410008",
+      "displayBoxCode": "8657410-008",
+      "gradingCompany": "NGC",
+      "grade": "MS 63",
+      "coinName": "1968年巴林18.3克银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/wgjsbizhang/10416999.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8657410-008/63/",
+      "price": 260,
+      "priceWithFee": 275.6,
+      "transactedAt": "2026-07-24 20:15:55",
+      "productCode": "877048007",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/877048007A.jpg",
+      "ocrConfidence": 43,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1968年,18.3克,年巴,巴林,林克,克银,银币"
+    }
+  ]
+}

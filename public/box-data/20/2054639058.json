@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2054639058",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2054639058",
+      "displayBoxCode": "2054639-058",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "第三版人民币2角红冠2罗马",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/disanbanrenminbi/10403534.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2054639-058/",
+      "price": 95,
+      "priceWithFee": 102.6,
+      "transactedAt": "2026-07-18 20:51:35",
+      "productCode": "875317002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/875317002B.jpg",
+      "ocrConfidence": 46,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,第三,三版,版人,人民,民币,币角,角红,红冠,冠罗,罗马"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8547628012",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8547628012",
+      "displayBoxCode": "8547628-012",
+      "gradingCompany": "NGC",
+      "grade": "PF67 CAMEO",
+      "coinName": "1991年中国精制硬币壹角",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10359824.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8547628-012/67/",
+      "price": 390,
+      "priceWithFee": 421.2,
+      "transactedAt": "2026-06-24 20:34:05",
+      "productCode": "869854010",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/869854010A.jpg",
+      "ocrConfidence": 32,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1991年,年中,中国,国精,精制,制硬,硬币,币壹,壹角,评级"
+    }
+  ]
+}

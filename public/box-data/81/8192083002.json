@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8192083002",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8192083002",
+      "displayBoxCode": "8192083-002",
+      "gradingCompany": "NGC",
+      "grade": "PF 65 ULTRA CAMEO",
+      "coinName": "1995年中国精制硬币壹圆",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10360942.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8192083-002/65/",
+      "price": 180,
+      "priceWithFee": 194.4,
+      "transactedAt": "2026-06-24 20:49:25",
+      "productCode": "870464006",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/870464006A.jpg",
+      "ocrConfidence": 32,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1995年,年中,中国,国精,精制,制硬,硬币,币壹,壹圆,评级"
+    }
+  ]
+}

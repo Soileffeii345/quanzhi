@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6193453022",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6193453022",
+      "displayBoxCode": "6193453-022",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1992年15克古代科技第1组造纸术银币(UC)",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/446855.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6193453-022/69/",
+      "price": 450,
+      "priceWithFee": null,
+      "transactedAt": "2024-11-03 13:47:15",
+      "productCode": "AA498831",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20240830/large_sell_ffok3yfxzyu6ytuo.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1992年,15克,年克,克古,古代,代科,科技,技第,第组,组造,造纸,纸术,术银,银币"
+    }
+  ]
+}

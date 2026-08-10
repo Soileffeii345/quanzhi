@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6200299004",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6200299004",
+      "displayBoxCode": "6200299-004",
+      "gradingCompany": "NGC",
+      "grade": "PF69 ULTRA CAMEO",
+      "coinName": "2021年8克中巴建交70周年金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/499537.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6200299-004/69/",
+      "price": 6740,
+      "priceWithFee": null,
+      "transactedAt": "2025-09-10 10:50:05",
+      "productCode": "KH083028",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250909/large_sell_itotnk5stwaibinp.jpg",
+      "ocrConfidence": 41,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2021年,8克,年克,克中,中巴,巴建,建交,交周,周年,年金,金币"
+    }
+  ]
+}

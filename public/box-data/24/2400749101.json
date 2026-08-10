@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2400749101",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2400749101",
+      "displayBoxCode": "2400749-101",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2001年巴哈马纸钞",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10371439.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2400749-101/",
+      "price": 95,
+      "priceWithFee": 105.45,
+      "transactedAt": "2026-07-07 21:39:50",
+      "productCode": "871453023",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/26/871453023B.jpg",
+      "ocrConfidence": 32,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,2001年,年巴,巴哈,哈马,马纸,纸钞"
+    }
+  ]
+}

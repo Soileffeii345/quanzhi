@@ -1,0 +1,31 @@
+{
+  "coinName": "1994年3.11克普制金币",
+  "slug": "6d92606c",
+  "saleCount": 1,
+  "keywords": "金,币,1994年,10盎司,宗教,年送,送子,子观,观音,音盎,盎司,司普,普制,制金,金币",
+  "priceStats": {
+    "low": 4350,
+    "high": 4350,
+    "avg": 4350,
+    "latest": 4350
+  },
+  "records": [
+    {
+      "coinName": "1994年送子观音1/10盎司普制金币",
+      "normalizedBoxCode": "8818532089",
+      "displayBoxCode": "8818532-089",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10386322.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8818532-089/69/",
+      "price": 4350,
+      "priceWithFee": 4502.25,
+      "transactedAt": "2026-07-06 22:41:35",
+      "productCode": "873414020",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1994年,10盎司,宗教,年送,送子,子观,观音,音盎,盎司,司普,普制,制金,金币"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2434319005",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2434319005",
+      "displayBoxCode": "2434319-005",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1950年东北银行地方流通券伍佰圆",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jiefangquzhichao/10378008.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2434319-005/",
+      "price": 1020,
+      "priceWithFee": 1132.2,
+      "transactedAt": "2026-07-16 21:23:10",
+      "productCode": "872051005",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/26/872051005B.jpg",
+      "ocrConfidence": 29,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,1950年,年东,东北,北银,银行,行地,地方,方流,流通,通券,券伍,伍佰,佰圆"
+    }
+  ]
+}

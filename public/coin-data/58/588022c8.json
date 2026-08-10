@@ -1,0 +1,31 @@
+{
+  "coinName": "2018年31.104克彩色银币",
+  "slug": "588022c8",
+  "saleCount": 1,
+  "keywords": "银,币,2018年,1盎司,年帕,帕劳,劳爱,爱之,之夏,夏嬉,嬉皮,皮和,和平,平符,符号,号盎,盎司,司彩,彩色,色银,银币",
+  "priceStats": {
+    "low": 940,
+    "high": 940,
+    "avg": 940,
+    "latest": 940
+  },
+  "records": [
+    {
+      "coinName": "2018年帕劳爱之夏嬉皮和平符号1盎司彩色银币",
+      "normalizedBoxCode": "8504392015",
+      "displayBoxCode": "8504392-015",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/wgjsbizhang/10365712.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8504392-015/69/",
+      "price": 940,
+      "priceWithFee": 996.4,
+      "transactedAt": "2026-06-26 20:23:05",
+      "productCode": "870452018",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2018年,1盎司,年帕,帕劳,劳爱,爱之,之夏,夏嬉,嬉皮,皮和,和平,平符,符号,号盎,盎司,司彩,彩色,色银,银币"
+    }
+  ]
+}

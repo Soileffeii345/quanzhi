@@ -1,0 +1,31 @@
+{
+  "coinName": "1993年熊猫31.104克普制金币",
+  "slug": "07af8954",
+  "saleCount": 1,
+  "keywords": "金,币,1993年,1盎司,熊猫,年熊,猫盎,盎司,司普,普制,制金,金币,币小,小字,字版",
+  "priceStats": {
+    "low": 32000,
+    "high": 32000,
+    "avg": 32000,
+    "latest": 32000
+  },
+  "records": [
+    {
+      "coinName": "1993年熊猫1盎司普制金币（小字版）",
+      "normalizedBoxCode": "8818532016",
+      "displayBoxCode": "8818532-016",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-jiujin/10401685.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8818532-016/",
+      "price": 32000,
+      "priceWithFee": 33120,
+      "transactedAt": "2026-07-16 20:42:35",
+      "productCode": "875310005",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1993年,1盎司,熊猫,年熊,猫盎,盎司,司普,普制,制金,金币,币小,小字,字版"
+    }
+  ]
+}

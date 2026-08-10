@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "7031093148",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "7031093148",
+      "displayBoxCode": "7031093-148",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "中央银行贰角",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10366734.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/7031093-148/",
+      "price": 190,
+      "priceWithFee": 210.9,
+      "transactedAt": "2026-07-14 21:27:35",
+      "productCode": "870327004",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/26/870327004B.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,中央,央银,银行,行贰,贰角"
+    }
+  ]
+}

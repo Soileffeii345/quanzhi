@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2434364010",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2434364010",
+      "displayBoxCode": "2434364-010",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "伊拉克纸钞",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10399170.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2434364-010/",
+      "price": 70,
+      "priceWithFee": 77.7,
+      "transactedAt": "2026-07-21 22:20:20",
+      "productCode": "875054009",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/875054009B.jpg",
+      "ocrConfidence": 32,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,伊拉,拉克,克纸,纸钞"
+    }
+  ]
+}

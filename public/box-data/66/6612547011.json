@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6612547011",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6612547011",
+      "displayBoxCode": "6612547-011",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1990年1/2盎司熊猫金币(小字版)",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/476201.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6612547-011/",
+      "price": 20000,
+      "priceWithFee": null,
+      "transactedAt": "2025-05-08 10:00:35",
+      "productCode": "AA561142",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250504/large_sell_7m68rlpib89mllx7.jpg",
+      "ocrConfidence": 30,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1990年,2盎司,熊猫,年盎,盎司,司熊,猫金,金币,币小,小字,字版"
+    }
+  ]
+}

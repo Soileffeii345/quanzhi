@@ -1,0 +1,45 @@
+{
+  "ok": true,
+  "query": "3804567016",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "3804567016",
+      "displayBoxCode": "3804567-016",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1985年1/3盎司历史人物第2组孔子金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/511485.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3804567-016/69/",
+      "price": 9930,
+      "priceWithFee": null,
+      "transactedAt": "2025-11-11 09:36:23",
+      "productCode": "KH090651",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251110/large_sell_5w4yhqm6ig028rrv.jpg",
+      "ocrConfidence": 38,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1985年,3盎司,年盎,盎司,司历,历史,史人,人物,物第,第组,组孔,孔子,子金,金币"
+    },
+    {
+      "normalizedBoxCode": "3804567016",
+      "displayBoxCode": "3804567-016",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1985年1/3盎司历史人物第2组孔子金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/508116.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3804567-016/69/",
+      "price": 10000,
+      "priceWithFee": null,
+      "transactedAt": "2025-10-27 12:28:56",
+      "productCode": "AA592400",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251024/large_sell_5az2dkmll5irgizl.jpg",
+      "ocrConfidence": 32,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1985年,3盎司,年盎,盎司,司历,历史,史人,人物,物第,第组,组孔,孔子,子金,金币"
+    }
+  ]
+}

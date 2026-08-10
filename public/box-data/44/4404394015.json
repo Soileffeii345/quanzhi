@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4404394015",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4404394015",
+      "displayBoxCode": "4404394-015",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1995年22克古代科技第4组围棋银币(UC)",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/507867.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4404394-015/69/",
+      "price": 480,
+      "priceWithFee": null,
+      "transactedAt": "2025-10-24 11:50:15",
+      "productCode": "KH088969",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251023/large_sell_ocpee4qtg45bisnd.jpg",
+      "ocrConfidence": 51,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1995年,22克,年克,克古,古代,代科,科技,技第,第组,组围,围棋,棋银,银币"
+    }
+  ]
+}

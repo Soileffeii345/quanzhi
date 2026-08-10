@@ -1,0 +1,31 @@
+{
+  "coinName": "2017年生肖精制金银币",
+  "slug": "6c88cb2c",
+  "saleCount": 1,
+  "keywords": "金,银,币,2017年,3克,生肖,年丁,丁酉,酉鸡,鸡年,年生,肖精,精制,制彩,彩金,金银,银币,币二,二枚,枚一,一套,套含,含克,克金,金克,克银,评级",
+  "priceStats": {
+    "low": 4150,
+    "high": 4150,
+    "avg": 4150,
+    "latest": 4150
+  },
+  "records": [
+    {
+      "coinName": "2017年丁酉鸡年生肖精制彩金银币二枚一套（含3克金、30克银）",
+      "normalizedBoxCode": "4567747003",
+      "displayBoxCode": "4567747-003",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-jin/10398829.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4567747-003/70/",
+      "price": 4150,
+      "priceWithFee": 4295.25,
+      "transactedAt": "2026-07-16 20:39:15",
+      "productCode": "874356019",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,2017年,3克,生肖,年丁,丁酉,酉鸡,鸡年,年生,肖精,精制,制彩,彩金,金银,银币,币二,二枚,枚一,一套,套含,含克,克金,金克,克银,评级"
+    }
+  ]
+}

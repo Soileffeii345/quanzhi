@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6730787001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6730787001",
+      "displayBoxCode": "6730787-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2009年1/3盎司上海世博会第1组彩金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/489862.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6730787-001/69/",
+      "price": 8195,
+      "priceWithFee": null,
+      "transactedAt": "2025-07-21 11:09:37",
+      "productCode": "KH075013",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250721/large_sell_4rt5joeypssncdvl.jpg",
+      "ocrConfidence": 44,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2009年,3盎司,重大事件,年盎,盎司,司上,上海,海世,世博,博会,会第,第组,组彩,彩金,金币"
+    }
+  ]
+}

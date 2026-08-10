@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6637342030",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6637342030",
+      "displayBoxCode": "6637342-030",
+      "gradingCompany": "NGC",
+      "grade": "PF69 ULTRA CAMEO",
+      "coinName": "1982年12克第12届世界杯足球赛铜币(UC)",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/477856.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6637342-030/69/",
+      "price": 1500,
+      "priceWithFee": null,
+      "transactedAt": "2025-06-15 14:38:52",
+      "productCode": "AA562292",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250516/large_sell_cpvifgyjgkjojx0v.jpg",
+      "ocrConfidence": 31,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "铜,币,1982年,12克,年克,克第,第届,届世,世界,界杯,杯足,足球,球赛,赛铜,铜币"
+    }
+  ]
+}

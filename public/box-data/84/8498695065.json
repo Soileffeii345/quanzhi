@@ -1,0 +1,45 @@
+{
+  "ok": true,
+  "query": "8498695065",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8498695065",
+      "displayBoxCode": "8498695-065",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2012年1/4盎司五台山金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/517792.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8498695-065/69/",
+      "price": 7455,
+      "priceWithFee": null,
+      "transactedAt": "2025-12-10 17:44:01",
+      "productCode": "KH094137",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251204/large_sell_pjr9s8lihvnjzjph.jpg",
+      "ocrConfidence": 59,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2012年,4盎司,年盎,盎司,司五,五台,台山,山金,金币"
+    },
+    {
+      "normalizedBoxCode": "8498695065",
+      "displayBoxCode": "8498695-065",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2012年1/4盎司五台山金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/505935.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8498695-065/69/",
+      "price": 7800,
+      "priceWithFee": null,
+      "transactedAt": "2025-10-17 09:03:27",
+      "productCode": "KH087569",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251015/large_sell_pvb4cubldqrjy6mi.jpg",
+      "ocrConfidence": 47,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2012年,4盎司,年盎,盎司,司五,五台,台山,山金,金币"
+    }
+  ]
+}

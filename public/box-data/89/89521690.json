@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "89521690",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "89521690",
+      "displayBoxCode": "89521690",
+      "gradingCompany": "PCGS",
+      "grade": "待复核",
+      "coinName": "民国 三十七年党徽一分硬币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguojindaijizhibi/10386722.shtml",
+      "officialCertUrl": "https://cn.pcgs.com/cert/89521690",
+      "price": 200,
+      "priceWithFee": 216,
+      "transactedAt": "2026-07-27 20:42:35",
+      "productCode": "873376033",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/27/873376033A.jpg",
+      "ocrConfidence": 28,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,历史币,民国,国三,三十,十七,七年,年党,党徽,徽一,一分,分硬,硬币"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "coinName": "1982年生肖15克精制银币",
+  "slug": "176db29e",
+  "saleCount": 3,
+  "keywords": "银,币,1982年,15克,生肖,年壬,壬戌,戌狗,狗年,年生,肖克,克精,精制,制银,银币,评级",
+  "priceStats": {
+    "low": 3000,
+    "high": 5500,
+    "avg": 4017,
+    "latest": 5500
+  },
+  "records": [
+    {
+      "coinName": "1982年壬戌狗年生肖15克精制银币",
+      "normalizedBoxCode": "8757928017",
+      "displayBoxCode": "8757928-017",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10351226.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8757928-017/69/",
+      "price": 5500,
+      "priceWithFee": 5692.5,
+      "transactedAt": "2026-06-18 19:58:40",
+      "productCode": "869398010",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1982年,15克,生肖,年壬,壬戌,戌狗,狗年,年生,肖克,克精,精制,制银,银币,评级"
+    },
+    {
+      "coinName": "1982年壬戌狗年生肖15克精制银币",
+      "normalizedBoxCode": "8776488011",
+      "displayBoxCode": "8776488-011",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10387030.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8776488-011/",
+      "price": 3000,
+      "priceWithFee": 3105,
+      "transactedAt": "2026-07-09 20:00:05",
+      "productCode": "872862018",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1982年,15克,生肖,年壬,壬戌,戌狗,狗年,年生,肖克,克精,精制,制银,银币,评级"
+    },
+    {
+      "coinName": "1982年壬戌狗年生肖15克精制银币",
+      "normalizedBoxCode": "8781312003",
+      "displayBoxCode": "8781312-003",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10389544.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8781312-003/",
+      "price": 3550,
+      "priceWithFee": 3674.25,
+      "transactedAt": "2026-07-09 20:27:25",
+      "productCode": "873692004",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1982年,15克,生肖,年壬,壬戌,戌狗,狗年,年生,肖克,克精,精制,制银,银币,评级"
+    }
+  ]
+}

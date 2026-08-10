@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8504392028",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8504392028",
+      "displayBoxCode": "8504392-028",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2016年哈萨克斯坦草原宝藏系列阙特勤31.1克长方形银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/wgjsbizhang/10415184.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8504392-028/69/",
+      "price": 1060,
+      "priceWithFee": 1123.6,
+      "transactedAt": "2026-07-24 20:42:35",
+      "productCode": "876743012",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/876743012A.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2016年,31.1克,年哈,哈萨,萨克,克斯,斯坦,坦草,草原,原宝,宝藏,藏系,系列,列阙,阙特,特勤,勤克,克长,长方,方形,形银,银币"
+    }
+  ]
+}

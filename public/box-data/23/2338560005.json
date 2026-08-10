@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2338560005",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2338560005",
+      "displayBoxCode": "2338560-005",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "第一版人民币工农10元无水印票样",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/diyibanrenminbi/10362471.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2338560-005/",
+      "price": 3350,
+      "priceWithFee": 3685,
+      "transactedAt": "2026-06-25 21:07:40",
+      "productCode": "870328003",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/870328003B.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,钞,第一,一版,版人,人民,民币,币工,工农,农元,元无,无水,水印,印票,票样"
+    }
+  ]
+}

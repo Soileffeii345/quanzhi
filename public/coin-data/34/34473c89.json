@@ -1,0 +1,31 @@
+{
+  "coinName": "2015年生肖5盎司精制金币",
+  "slug": "34473c89",
+  "saleCount": 1,
+  "keywords": "金,币,2015年,5盎司,生肖,年乙,乙未,未羊,羊年,年生,肖盎,盎司,司精,精制,制彩,彩金,金币,评级",
+  "priceStats": {
+    "low": 150000,
+    "high": 150000,
+    "avg": 150000,
+    "latest": 150000
+  },
+  "records": [
+    {
+      "coinName": "2015年乙未羊年生肖5盎司精制彩金币",
+      "normalizedBoxCode": "6193109002",
+      "displayBoxCode": "6193109-002",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-jin/10369552.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6193109-002/70/",
+      "price": 150000,
+      "priceWithFee": 155250,
+      "transactedAt": "2026-07-02 21:20:10",
+      "productCode": "870952002",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2015年,5盎司,生肖,年乙,乙未,未羊,羊年,年生,肖盎,盎司,司精,精制,制彩,彩金,金币,评级"
+    }
+  ]
+}

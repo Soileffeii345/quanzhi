@@ -1,0 +1,48 @@
+{
+  "coinName": "2010年生肖精制",
+  "slug": "1a3ef825",
+  "saleCount": 2,
+  "keywords": "币,2010年,生肖,吉祥文化,年庚,庚寅,寅虎,虎年,年生,肖贺,贺岁,岁精,精制,制流,流通,通纪,纪念,念币,评级",
+  "priceStats": {
+    "low": 140,
+    "high": 560,
+    "avg": 350,
+    "latest": 140
+  },
+  "records": [
+    {
+      "coinName": "2010年庚寅虎年生肖贺岁精制流通纪念币",
+      "normalizedBoxCode": "8574584053",
+      "displayBoxCode": "8574584-053",
+      "gradingCompany": "NGC",
+      "grade": "PF 67 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10404588.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8574584-053/67/",
+      "price": 140,
+      "priceWithFee": 151.2,
+      "transactedAt": "2026-07-15 19:15:30",
+      "productCode": "875541004",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2010年,生肖,吉祥文化,年庚,庚寅,寅虎,虎年,年生,肖贺,贺岁,岁精,精制,制流,流通,通纪,纪念,念币,评级"
+    },
+    {
+      "coinName": "2010年庚寅虎年生肖贺岁精制流通纪念币",
+      "normalizedBoxCode": "8658163002",
+      "displayBoxCode": "8658163-002",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10395505.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8658163-002/69/",
+      "price": 560,
+      "priceWithFee": 604.8,
+      "transactedAt": "2026-07-15 21:49:30",
+      "productCode": "874330013",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2010年,生肖,吉祥文化,年庚,庚寅,寅虎,虎年,年生,肖贺,贺岁,岁精,精制,制流,流通,通纪,纪念,念币,评级"
+    }
+  ]
+}

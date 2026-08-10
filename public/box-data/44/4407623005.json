@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4407623005",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4407623005",
+      "displayBoxCode": "4407623-005",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2016年100克熊猫金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/466009.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4407623-005/70/",
+      "price": 69770,
+      "priceWithFee": null,
+      "transactedAt": "2025-02-25 21:51:00",
+      "productCode": "KH059719",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250225/large_sell_ewf3rhw8bglvzgvy.jpg",
+      "ocrConfidence": 48,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2016年,100克,熊猫,年克,克熊,猫金,金币"
+    }
+  ]
+}

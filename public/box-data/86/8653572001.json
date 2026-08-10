@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8653572001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8653572001",
+      "displayBoxCode": "8653572-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2026年吉祥文化如意形精制金银币二枚一套（含5克金、30克银）",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10353197.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8653572-001/70/",
+      "price": 7500,
+      "priceWithFee": 7762.5,
+      "transactedAt": "2026-06-20 21:32:35",
+      "productCode": "869141001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/869141001A.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,2026年,5克,吉祥文化,年吉,吉祥,祥文,文化,化如,如意,意形,形精,精制,制金,金银,银币,币二,二枚,枚一,一套,套含,含克,克金,金克,克银,评级"
+    }
+  ]
+}

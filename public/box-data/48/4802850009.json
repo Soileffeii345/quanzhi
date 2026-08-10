@@ -1,0 +1,45 @@
+{
+  "ok": true,
+  "query": "4802850009",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4802850009",
+      "displayBoxCode": "4802850-009",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2009年1/4盎司建国60周年金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/520292.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4802850-009/",
+      "price": 7645,
+      "priceWithFee": null,
+      "transactedAt": "2025-12-12 21:04:52",
+      "productCode": "KH094906",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251212/large_sell_aay8s8ap4mf5tpgt.jpg",
+      "ocrConfidence": 39,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2009年,4盎司,重大事件,年盎,盎司,司建,建国,国周,周年,年金,金币"
+    },
+    {
+      "normalizedBoxCode": "4802850009",
+      "displayBoxCode": "4802850-009",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2009年1/4盎司建国60周年金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/504633.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4802850-009/69/",
+      "price": 7085,
+      "priceWithFee": null,
+      "transactedAt": "2025-10-10 21:45:40",
+      "productCode": "KH086641",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251010/large_sell_whltkfmglkva61vn.jpg",
+      "ocrConfidence": 31,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2009年,4盎司,重大事件,年盎,盎司,司建,建国,国周,周年,年金,金币"
+    }
+  ]
+}

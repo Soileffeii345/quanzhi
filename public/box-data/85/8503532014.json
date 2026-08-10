@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8503532014",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8503532014",
+      "displayBoxCode": "8503532-014",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1995年1盎司台湾光复50周年中山堂银币(宽距版)",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/520804.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8503532-014/",
+      "price": 7500,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-21 18:24:38",
+      "productCode": "AA602524",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251215/large_sell_yd06rwcfu68ou30l.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1995年,1盎司,年盎,盎司,司台,台湾,湾光,光复,复周,周年,年中,中山,山堂,堂银,银币,币宽,宽距,距版"
+    }
+  ]
+}

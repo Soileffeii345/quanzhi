@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8000535013",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8000535013",
+      "displayBoxCode": "8000535-013",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "第三版人民币1元古币水印",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/disanbanrenminbi/10391122.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8000535-013/",
+      "price": 450,
+      "priceWithFee": 486,
+      "transactedAt": "2026-07-18 20:42:50",
+      "productCode": "874051001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/874051001B.jpg",
+      "ocrConfidence": 28,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,第三,三版,版人,人民,民币,币元,元古,古币,币水,水印"
+    }
+  ]
+}

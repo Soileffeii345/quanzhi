@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "3625808061",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "3625808061",
+      "displayBoxCode": "3625808-061",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 CAMEO",
+      "coinName": "1980年中国奥林匹克委员会-古代蹴鞠、古代马术12克精制铜币、古代角力9克精制铜币、古代射艺6克精制铜币各一枚，共四枚",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-tong/10398707.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3625808-061/69/",
+      "price": 3100,
+      "priceWithFee": 3208.5,
+      "transactedAt": "2026-07-13 21:33:30",
+      "productCode": "874771002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/874771002A.jpg",
+      "ocrConfidence": 38,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "铜,币,1980年,12克,年中,中国,国奥,奥林,林匹,匹克,克委,委员,员会,会古,古代,代蹴,蹴鞠,鞠古,代马,马术,术克,克精,精制,制铜,铜币,币古,代角,角力,力克,代射,射艺,艺克,币各,各一,一枚,枚共,共四,四枚,评级"
+    }
+  ]
+}

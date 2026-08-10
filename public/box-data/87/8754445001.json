@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8754445001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8754445001",
+      "displayBoxCode": "8754445-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 68 ULTRA CAMEO",
+      "coinName": "2005年陈云诞辰100周年精制流通纪念币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10359849.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8754445-001/68/",
+      "price": 340,
+      "priceWithFee": 367.2,
+      "transactedAt": "2026-06-24 19:58:05",
+      "productCode": "869854035",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/869854035A.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2005年,年陈,陈云,云诞,诞辰,辰周,周年,年精,精制,制流,流通,通纪,纪念,念币,评级"
+    }
+  ]
+}

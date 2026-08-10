@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8602618019",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8602618019",
+      "displayBoxCode": "8602618-019",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2025年1盎司中国龙银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/503525.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8602618-019/",
+      "price": 800,
+      "priceWithFee": null,
+      "transactedAt": "2025-11-03 00:09:15",
+      "productCode": "AA585510A",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250915/large_sell_nthtsja1uqmjie4a.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2025年,1盎司,年盎,盎司,司中,中国,国龙,龙银,银币"
+    }
+  ]
+}

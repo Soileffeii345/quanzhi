@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8196830004",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8196830004",
+      "displayBoxCode": "8196830-004",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "1996年1/2盎司观音银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/452794.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8196830-004/70/",
+      "price": 6600,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-26 12:49:40",
+      "productCode": "AA506059.60A",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20241023/large_sell_qgzedjtxexp0lcr8.jpg",
+      "ocrConfidence": 30,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1996年,2盎司,宗教,年盎,盎司,司观,观音,音银,银币"
+    }
+  ]
+}

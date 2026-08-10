@@ -1,0 +1,31 @@
+{
+  "coinName": "2010年熊猫20盎司金币",
+  "slug": "5a33b5eb",
+  "saleCount": 1,
+  "keywords": "金,币,2010年,20盎司,熊猫,年盎,盎司,司熊,猫金,金币",
+  "priceStats": {
+    "low": 2550,
+    "high": 2550,
+    "avg": 2550,
+    "latest": 2550
+  },
+  "records": [
+    {
+      "coinName": "2010年1/20盎司熊猫金币",
+      "normalizedBoxCode": "4414279003",
+      "displayBoxCode": "4414279-003",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/552926.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4414279-003/",
+      "price": 2550,
+      "priceWithFee": null,
+      "transactedAt": "2026-03-02 21:31:48",
+      "productCode": "AA619825",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2010年,20盎司,熊猫,年盎,盎司,司熊,猫金,金币"
+    }
+  ]
+}

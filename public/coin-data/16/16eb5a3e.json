@@ -1,0 +1,31 @@
+{
+  "coinName": "1999年15.552克金币",
+  "slug": "16eb5a3e",
+  "saleCount": 1,
+  "keywords": "金,币,1999年,2盎司,年盎,盎司,司方,方形,形张,张大,大千,千归,归牧,牧图,图金,金币",
+  "priceStats": {
+    "low": 16000,
+    "high": 16000,
+    "avg": 16000,
+    "latest": 16000
+  },
+  "records": [
+    {
+      "coinName": "1999年1/2盎司方形张大千归牧图金币",
+      "normalizedBoxCode": "28927450",
+      "displayBoxCode": "28927450",
+      "gradingCompany": "PCGS",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/518637.html",
+      "officialCertUrl": "https://cn.pcgs.com/cert/28927450",
+      "price": 16000,
+      "priceWithFee": null,
+      "transactedAt": "2025-12-17 08:31:35",
+      "productCode": "KH093865",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1999年,2盎司,年盎,盎司,司方,方形,形张,张大,大千,千归,归牧,牧图,图金,金币"
+    }
+  ]
+}

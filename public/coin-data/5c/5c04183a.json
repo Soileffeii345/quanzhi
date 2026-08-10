@@ -1,0 +1,82 @@
+{
+  "coinName": "1994年中国古代名画31.104克精制银币",
+  "slug": "5c04183a",
+  "saleCount": 4,
+  "keywords": "银,币,1994年,1盎司,年中,中国,国古,古代,代名,名画,画婴,婴戏,戏图,图子,子孙,孙和,和合,合图,图盎,盎司,司精,精制,制银,银币,评级,图冬,冬日,日婴",
+  "priceStats": {
+    "low": 1620,
+    "high": 3250,
+    "avg": 2393,
+    "latest": 2050
+  },
+  "records": [
+    {
+      "coinName": "1994年中国古代名画婴戏图-子孙和合图1盎司精制银币",
+      "normalizedBoxCode": "3357447018",
+      "displayBoxCode": "3357447-018",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10381103.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3357447-018/69/",
+      "price": 2050,
+      "priceWithFee": 2121.75,
+      "transactedAt": "2026-07-09 19:42:45",
+      "productCode": "872386008",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1994年,1盎司,年中,中国,国古,古代,代名,名画,画婴,婴戏,戏图,图子,子孙,孙和,和合,合图,图盎,盎司,司精,精制,制银,银币,评级"
+    },
+    {
+      "coinName": "1994年中国古代名画婴戏图-冬日婴戏图1盎司精制银币",
+      "normalizedBoxCode": "3878354019",
+      "displayBoxCode": "3878354-019",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10381104.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3878354-019/69/",
+      "price": 3250,
+      "priceWithFee": 3363.75,
+      "transactedAt": "2026-07-09 19:36:05",
+      "productCode": "872386009",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1994年,1盎司,年中,中国,国古,古代,代名,名画,画婴,婴戏,戏图,图冬,冬日,日婴,图盎,盎司,司精,精制,制银,银币,评级"
+    },
+    {
+      "coinName": "1994年中国古代名画婴戏图-冬日婴戏图1盎司精制银币",
+      "normalizedBoxCode": "4311977007",
+      "displayBoxCode": "4311977-007",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10381105.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4311977-007/",
+      "price": 1620,
+      "priceWithFee": 1676.7,
+      "transactedAt": "2026-07-09 19:57:25",
+      "productCode": "872386010",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1994年,1盎司,年中,中国,国古,古代,代名,名画,画婴,婴戏,戏图,图冬,冬日,日婴,图盎,盎司,司精,精制,制银,银币,评级"
+    },
+    {
+      "coinName": "1994年中国古代名画婴戏图-子孙和合图1盎司精制银币",
+      "normalizedBoxCode": "4421032030",
+      "displayBoxCode": "4421032-030",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10379017.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4421032-030/70/",
+      "price": 2650,
+      "priceWithFee": 2742.75,
+      "transactedAt": "2026-07-02 20:34:50",
+      "productCode": "872409002",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1994年,1盎司,年中,中国,国古,古代,代名,名画,画婴,婴戏,戏图,图子,子孙,孙和,和合,合图,图盎,盎司,司精,精制,制银,银币,评级"
+    }
+  ]
+}

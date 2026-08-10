@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6741181011",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6741181011",
+      "displayBoxCode": "6741181-011",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1991年辛亥革命80周年-孙中山坐像8克精制金币、孙中山立像1盎司精制银币各一枚",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10359988.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6741181-011/69/",
+      "price": 25500,
+      "priceWithFee": 26392.5,
+      "transactedAt": "2026-06-25 20:58:35",
+      "productCode": "869600005",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/869600005A.jpg",
+      "ocrConfidence": 45,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,1991年,8克,孙小头,孙中山,小头,年辛,辛亥,亥革,革命,命周,周年,年孙,孙中,中山,山坐,坐像,像克,克精,精制,制金,金币,币孙,山立,立像,像盎,盎司,司精,制银,银币,币各,各一,一枚,评级"
+    }
+  ]
+}

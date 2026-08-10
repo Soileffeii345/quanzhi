@@ -1,0 +1,31 @@
+{
+  "coinName": "2013年熊猫金币",
+  "slug": "1f1149a6",
+  "saleCount": 1,
+  "keywords": "金,币,2013年,熊猫,年熊,猫金,金币",
+  "priceStats": {
+    "low": 44985,
+    "high": 44985,
+    "avg": 44985,
+    "latest": 44985
+  },
+  "records": [
+    {
+      "coinName": "2013年熊猫金币",
+      "normalizedBoxCode": "3779289314",
+      "displayBoxCode": "3779289-314",
+      "gradingCompany": "NGC",
+      "grade": "MS 70",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/471634.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3779289-314/70/",
+      "price": 44985,
+      "priceWithFee": null,
+      "transactedAt": "2025-04-03 14:28:10",
+      "productCode": "KH063629",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2013年,熊猫,年熊,猫金,金币"
+    }
+  ]
+}

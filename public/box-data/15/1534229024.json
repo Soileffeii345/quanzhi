@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "1534229024",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "1534229024",
+      "displayBoxCode": "1534229-024",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2006年美国科罗拉多州银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/476494.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1534229-024/70/",
+      "price": 270,
+      "priceWithFee": null,
+      "transactedAt": "2025-05-08 20:37:30",
+      "productCode": "AA561400",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250505/large_sell_zlsdq1umej7gde0t.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2006年,年美,美国,国科,科罗,罗拉,拉多,多州,州银,银币,外国/特区"
+    }
+  ]
+}

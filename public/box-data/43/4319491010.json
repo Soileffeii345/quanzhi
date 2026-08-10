@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4319491010",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4319491010",
+      "displayBoxCode": "4319491-010",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "coinName": "1997年1/10盎司迎春图金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/476969.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4319491-010/69/",
+      "price": 2550,
+      "priceWithFee": null,
+      "transactedAt": "2025-05-10 06:59:26",
+      "productCode": "KH066160",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250509/large_sell_uhboiggjv2vwoanr.jpg",
+      "ocrConfidence": 42,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1997年,10盎司,年盎,盎司,司迎,迎春,春图,图金,金币"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "coinName": "2016年中钞国鼎投资有限公司发行迪士尼纪念券",
+  "slug": "4e7c88ed",
+  "saleCount": 1,
+  "keywords": "钞,2016年,年中,中钞,钞国,国鼎,鼎投,投资,资有,有限,限公,公司,司发,发行,行迪,迪士,士尼,尼纪,纪念,念券",
+  "priceStats": {
+    "low": 130,
+    "high": 130,
+    "avg": 130,
+    "latest": 130
+  },
+  "records": [
+    {
+      "coinName": "2016年中钞国鼎投资有限公司发行迪士尼纪念券",
+      "normalizedBoxCode": "1881571084",
+      "displayBoxCode": "1881571-084",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/liantichao-jinianchao/10373882.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1881571-084/",
+      "price": 130,
+      "priceWithFee": 140.4,
+      "transactedAt": "2026-06-30 19:13:50",
+      "productCode": "871685012",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,2016年,年中,中钞,钞国,国鼎,鼎投,投资,资有,有限,限公,公司,司发,发行,行迪,迪士,士尼,尼纪,纪念,念券"
+    }
+  ]
+}

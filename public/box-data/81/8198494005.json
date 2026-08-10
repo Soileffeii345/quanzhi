@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8198494005",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8198494005",
+      "displayBoxCode": "8198494-005",
+      "gradingCompany": "NGC",
+      "grade": "MS69",
+      "coinName": "2021年1盎司克里姆特吻仿古银章",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/540521.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8198494-005/69/",
+      "price": 1050,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-29 07:44:17",
+      "productCode": "KH114947",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260128/large_sell_u6dbieo38sejaheo.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,章,2021年,1盎司,年盎,盎司,司克,克里,里姆,姆特,特吻,吻仿,仿古,古银,银章"
+    }
+  ]
+}

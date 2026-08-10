@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6184296044",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6184296044",
+      "displayBoxCode": "6184296-044",
+      "gradingCompany": "NGC",
+      "grade": "MS 70",
+      "coinName": "2022年8克熊猫金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/511608.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6184296-044/70/",
+      "price": 7625,
+      "priceWithFee": null,
+      "transactedAt": "2025-11-10 14:31:57",
+      "productCode": "KH090536",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251110/large_sell_ejcv0e0p1u6t75el.jpg",
+      "ocrConfidence": 46,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2022年,8克,熊猫,年克,克熊,猫金,金币"
+    }
+  ]
+}

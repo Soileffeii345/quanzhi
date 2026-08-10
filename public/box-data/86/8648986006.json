@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8648986006",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8648986006",
+      "displayBoxCode": "8648986-006",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1994年1盎司夏景婴戏图银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/512979.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8648986-006/69/",
+      "price": 5900,
+      "priceWithFee": null,
+      "transactedAt": "2025-11-16 15:16:42",
+      "productCode": "KH091307",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251116/large_sell_kjwxr98vpthtit6z.jpg",
+      "ocrConfidence": 47,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1994年,1盎司,年盎,盎司,司夏,夏景,景婴,婴戏,戏图,图银,银币"
+    }
+  ]
+}

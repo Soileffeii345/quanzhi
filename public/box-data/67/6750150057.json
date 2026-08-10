@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6750150057",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6750150057",
+      "displayBoxCode": "6750150-057",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2024年贺岁金银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/554113.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6750150-057/",
+      "price": 1900,
+      "priceWithFee": null,
+      "transactedAt": "2026-03-14 07:15:11",
+      "productCode": "KH124028",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260210/large_sell_kssyaesrc3majzf7.jpg",
+      "ocrConfidence": 30,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,2024年,吉祥文化,年贺,贺岁,岁金,金银,银币"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "coinName": "1982年熊猫31.104克金币",
+  "slug": "669536a6",
+  "saleCount": 1,
+  "keywords": "金,币,1982年,1盎司,熊猫,年盎,盎司,司熊,猫金,金币",
+  "priceStats": {
+    "low": 75000,
+    "high": 75000,
+    "avg": 75000,
+    "latest": 75000
+  },
+  "records": [
+    {
+      "coinName": "1982年1盎司熊猫金币",
+      "normalizedBoxCode": "3920890002",
+      "displayBoxCode": "3920890-002",
+      "gradingCompany": "NGC",
+      "grade": "Ms 68",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/484956.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3920890-002/68/",
+      "price": 75000,
+      "priceWithFee": null,
+      "transactedAt": "2025-06-23 01:35:38",
+      "productCode": "KH071432",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1982年,1盎司,熊猫,年盎,盎司,司熊,猫金,金币"
+    }
+  ]
+}

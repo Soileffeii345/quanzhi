@@ -1,0 +1,31 @@
+{
+  "coinName": "1992年生肖12盎司银币",
+  "slug": "1da9ece3",
+  "saleCount": 1,
+  "keywords": "银,币,1992年,12盎司,生肖,年盎,盎司,司生,肖猴,猴银,银币",
+  "priceStats": {
+    "low": 49000,
+    "high": 49000,
+    "avg": 49000,
+    "latest": 49000
+  },
+  "records": [
+    {
+      "coinName": "1992年12盎司生肖猴银币",
+      "normalizedBoxCode": "8202782001",
+      "displayBoxCode": "8202782-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/594926.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8202782-001/69/",
+      "price": 49000,
+      "priceWithFee": null,
+      "transactedAt": "2026-07-04 00:05:54",
+      "productCode": "KH140963",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1992年,12盎司,生肖,年盎,盎司,司生,肖猴,猴银,银币"
+    }
+  ]
+}

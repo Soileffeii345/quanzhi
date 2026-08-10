@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8653991001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8653991001",
+      "displayBoxCode": "8653991-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2005年乙酉鸡年生肖1公斤精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10382830.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8653991-001/69/",
+      "price": 30500,
+      "priceWithFee": 31567.5,
+      "transactedAt": "2026-07-09 20:47:25",
+      "productCode": "872358002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/27/872358002A.jpg",
+      "ocrConfidence": 49,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2005年,1公斤,生肖,年乙,乙酉,酉鸡,鸡年,年生,肖公,公斤,斤精,精制,制银,银币,评级"
+    }
+  ]
+}

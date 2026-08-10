@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8776488023",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8776488023",
+      "displayBoxCode": "8776488-023",
+      "gradingCompany": "NGC",
+      "grade": "PF68",
+      "coinName": "1987年丁卯兔年生肖15克精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10387019.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8776488-023/68/",
+      "price": 2300,
+      "priceWithFee": 2380.5,
+      "transactedAt": "2026-07-09 19:44:05",
+      "productCode": "872862007",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/27/872862007A.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1987年,15克,生肖,年丁,丁卯,卯兔,兔年,年生,肖克,克精,精制,制银,银币,评级"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4639789006",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4639789006",
+      "displayBoxCode": "4639789-006",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2015年1盎司曹雪芹诞辰300周年银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/532649.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4639789-006/69/",
+      "price": 690,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-17 14:09:20",
+      "productCode": "KH107793",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260117/large_sell_5ifje29kv1kwb1br.jpg",
+      "ocrConfidence": 38,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2015年,1盎司,年盎,盎司,司曹,曹雪,雪芹,芹诞,诞辰,辰周,周年,年银,银币"
+    }
+  ]
+}

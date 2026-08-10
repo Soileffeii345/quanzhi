@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "5754804001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "5754804001",
+      "displayBoxCode": "5754804-001",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1996年长江三峡-葛洲坝1/2盎司长方形精制金币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10390898.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/5754804-001/",
+      "price": 15200,
+      "priceWithFee": 15732,
+      "transactedAt": "2026-07-09 21:35:25",
+      "productCode": "873922002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/27/873922002A.jpg",
+      "ocrConfidence": 39,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1996年,2盎司,年长,长江,江三,三峡,峡葛,葛洲,洲坝,坝盎,盎司,司长,长方,方形,形精,精制,制金,金币,评级"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6200580012",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6200580012",
+      "displayBoxCode": "6200580-012",
+      "gradingCompany": "NGC",
+      "grade": "MS 70",
+      "coinName": "2010年1盎司熊猫银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/469498.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6200580-012/70/",
+      "price": 660,
+      "priceWithFee": null,
+      "transactedAt": "2025-06-03 20:35:06",
+      "productCode": "KH067970",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250321/large_sell_6ivishgdzlhgkxiw.jpg",
+      "ocrConfidence": 44,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2010年,1盎司,熊猫,年盎,盎司,司熊,猫银,银币"
+    }
+  ]
+}

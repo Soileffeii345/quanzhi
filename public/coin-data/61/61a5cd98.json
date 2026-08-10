@@ -1,0 +1,31 @@
+{
+  "coinName": "1991年精制银币",
+  "slug": "61a5cd98",
+  "saleCount": 1,
+  "keywords": "银,币,1991年,年第,第届,届世,世界,界杯,杯女,女子,子足,足球,球锦,锦标,标赛,赛精,精制,制银,银币,币二,二枚,枚一,一套,评级",
+  "priceStats": {
+    "low": 2900,
+    "high": 2900,
+    "avg": 2900,
+    "latest": 2900
+  },
+  "records": [
+    {
+      "coinName": "1991年第1届世界杯女子足球锦标赛精制银币二枚一套",
+      "normalizedBoxCode": "6715129007",
+      "displayBoxCode": "6715129-007",
+      "gradingCompany": "NGC",
+      "grade": "PF 67 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10439653.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6715129-007/67/",
+      "price": 2900,
+      "priceWithFee": 3001.5,
+      "transactedAt": "2026-08-03 20:04:20",
+      "productCode": "879873003",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1991年,年第,第届,届世,世界,界杯,杯女,女子,子足,足球,球锦,锦标,标赛,赛精,精制,制银,银币,币二,二枚,枚一,一套,评级"
+    }
+  ]
+}

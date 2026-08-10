@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2486161015",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2486161015",
+      "displayBoxCode": "2486161-015",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "民国十六年交通银行上海地名伍圆",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10374656.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2486161-015/",
+      "price": 440,
+      "priceWithFee": 488.4,
+      "transactedAt": "2026-07-14 21:44:05",
+      "productCode": "871426004",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/26/871426004B.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国十,十六,六年,年交,交通,通银,银行,行上,上海,海地,地名,名伍,伍圆"
+    }
+  ]
+}

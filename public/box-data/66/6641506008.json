@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6641506008",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6641506008",
+      "displayBoxCode": "6641506-008",
+      "gradingCompany": "NGC",
+      "grade": "PF69 ULTRA CAMEO",
+      "coinName": "1997年1盎司珍稀动物第5组银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/418938.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6641506-008/69/",
+      "price": 2300,
+      "priceWithFee": null,
+      "transactedAt": "2024-04-16 10:06:44",
+      "productCode": "AA462627.28A",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20240202/large_sell_c7qzi4btwvjq0dhz.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1997年,1盎司,年盎,盎司,司珍,珍稀,稀动,动物,物第,第组,组银,银币"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "5803934003",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "5803934003",
+      "displayBoxCode": "5803934-003",
+      "gradingCompany": "NGC",
+      "grade": "PF69 ULTRA CAMEO",
+      "coinName": "2010年1/4盎司武当山金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/493920.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/5803934-003/69/",
+      "price": 6205,
+      "priceWithFee": null,
+      "transactedAt": "2025-08-11 07:19:07",
+      "productCode": "KH078597",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250810/large_sell_n1qxcu9fgmmetuyf.jpg",
+      "ocrConfidence": 38,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2010年,4盎司,年盎,盎司,司武,武当,当山,山金,金币"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2584612044",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2584612044",
+      "displayBoxCode": "2584612-044",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "第一版人民币秋收1000元",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/diyibanrenminbi/10399482.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2584612-044/",
+      "price": 4000,
+      "priceWithFee": 4400,
+      "transactedAt": "2026-07-16 20:25:10",
+      "productCode": "875008002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/875008002B.jpg",
+      "ocrConfidence": 27,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,第一,一版,版人,人民,民币,币秋,秋收,收元"
+    }
+  ]
+}

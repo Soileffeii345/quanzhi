@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4409986042",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4409986042",
+      "displayBoxCode": "4409986-042",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2012年北京国际邮票钱币博览会1盎司精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10401100.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4409986-042/69/",
+      "price": 620,
+      "priceWithFee": 641.7,
+      "transactedAt": "2026-07-13 20:34:20",
+      "productCode": "875080002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/875080002A.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,钞,2012年,1盎司,年北,北京,京国,国际,际邮,邮票,票钱,钱币,币博,博览,览会,会盎,盎司,司精,精制,制银,银币,评级"
+    }
+  ]
+}

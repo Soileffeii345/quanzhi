@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8507463001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8507463001",
+      "displayBoxCode": "8507463-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2025年30克吉祥文化蔓蔓日茂银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/487325.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8507463-001/70/",
+      "price": 1400,
+      "priceWithFee": null,
+      "transactedAt": "2025-07-06 21:02:50",
+      "productCode": "KH072363",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250706/large_sell_8b3yz3164pgyh9ww.jpg",
+      "ocrConfidence": 44,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2025年,30克,吉祥文化,年克,克吉,吉祥,祥文,文化,化蔓,蔓蔓,蔓日,日茂,茂银,银币"
+    }
+  ]
+}

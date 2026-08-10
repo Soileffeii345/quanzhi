@@ -1,0 +1,31 @@
+{
+  "coinName": "2020年吉祥文化60克精制银币",
+  "slug": "4c871d04",
+  "saleCount": 1,
+  "keywords": "银,币,2020年,60克,吉祥文化,年吉,吉祥,祥文,文化,化麒,麒麟,麟送,送子,子克,克精,精制,制银,银币,评级",
+  "priceStats": {
+    "low": 3150,
+    "high": 3150,
+    "avg": 3150,
+    "latest": 3150
+  },
+  "records": [
+    {
+      "coinName": "2020年吉祥文化-麒麟送子60克精制银币",
+      "normalizedBoxCode": "5801767003",
+      "displayBoxCode": "5801767-003",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10376697.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/5801767-003/70/",
+      "price": 3150,
+      "priceWithFee": 3260.25,
+      "transactedAt": "2026-07-04 20:28:35",
+      "productCode": "872086003",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2020年,60克,吉祥文化,年吉,吉祥,祥文,文化,化麒,麒麟,麟送,送子,子克,克精,精制,制银,银币,评级"
+    }
+  ]
+}

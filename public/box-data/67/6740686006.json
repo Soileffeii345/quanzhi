@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6740686006",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6740686006",
+      "displayBoxCode": "6740686-006",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "coinName": "1994年1/20盎司熊猫金币(大字版)",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/551932.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6740686-006/69/",
+      "price": 2350,
+      "priceWithFee": null,
+      "transactedAt": "2026-02-04 22:27:34",
+      "productCode": "KH117649",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260203/large_sell_hf3eph9nextcobmp.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1994年,20盎司,熊猫,年盎,盎司,司熊,猫金,金币,币大,大字,字版"
+    }
+  ]
+}

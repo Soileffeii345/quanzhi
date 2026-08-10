@@ -1,0 +1,31 @@
+{
+  "coinName": "2010年熊猫7.776克金币",
+  "slug": "2338c5a9",
+  "saleCount": 1,
+  "keywords": "金,币,2010年,4盎司,熊猫,年盎,盎司,司熊,猫金,金币",
+  "priceStats": {
+    "low": 3900,
+    "high": 3900,
+    "avg": 3900,
+    "latest": 3900
+  },
+  "records": [
+    {
+      "coinName": "2010年1/4盎司熊猫金币",
+      "normalizedBoxCode": "4416689007",
+      "displayBoxCode": "4416689-007",
+      "gradingCompany": "NGC",
+      "grade": "MS69",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/439238.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4416689-007/69/",
+      "price": 3900,
+      "priceWithFee": null,
+      "transactedAt": "2024-07-01 17:25:06",
+      "productCode": "KH055311",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2010年,4盎司,熊猫,年盎,盎司,司熊,猫金,金币"
+    }
+  ]
+}

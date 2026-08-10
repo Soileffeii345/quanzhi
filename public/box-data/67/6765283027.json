@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6765283027",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6765283027",
+      "displayBoxCode": "6765283-027",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1997年中国近代名画飞禽-企鹅2/3盎司十二边形精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10389105.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6765283-027/",
+      "price": 990,
+      "priceWithFee": 1024.65,
+      "transactedAt": "2026-07-13 20:21:25",
+      "productCode": "873690003",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/27/873690003A.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1997年,3盎司,年中,中国,国近,近代,代名,名画,画飞,飞禽,禽企,企鹅,鹅盎,盎司,司十,十二,二边,边形,形精,精制,制银,银币,评级"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "coinName": "民国三十八年浙江省银行银元兑换券壹圆",
+  "slug": "58f067ba",
+  "saleCount": 1,
+  "keywords": "银,历史币,民国,国三,三十,十八,八年,年浙,浙江,江省,省银,银行,行银,银元,元兑,兑换,换券,券壹,壹圆",
+  "priceStats": {
+    "low": 1180,
+    "high": 1180,
+    "avg": 1180,
+    "latest": 1180
+  },
+  "records": [
+    {
+      "coinName": "民国三十八年浙江省银行银元兑换券壹圆",
+      "normalizedBoxCode": "2277349060",
+      "displayBoxCode": "2277349-060",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/minguoshengshigejiyinhangzhichao/10373163.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2277349-060/",
+      "price": 1180,
+      "priceWithFee": 1309.8,
+      "transactedAt": "2026-07-14 20:50:05",
+      "productCode": "871892001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国三,三十,十八,八年,年浙,浙江,江省,省银,银行,行银,银元,元兑,兑换,换券,券壹,壹圆"
+    }
+  ]
+}

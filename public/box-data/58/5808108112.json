@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "5808108112",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "5808108112",
+      "displayBoxCode": "5808108-112",
+      "gradingCompany": "NGC",
+      "grade": "Ms70",
+      "coinName": "2020年30克熊猫银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/573838.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/5808108-112/70/",
+      "price": 800,
+      "priceWithFee": null,
+      "transactedAt": "2026-04-19 16:03:17",
+      "productCode": "KH130777",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260419/large_sell_e2ostlsetct3evql.jpg",
+      "ocrConfidence": 31,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2020年,30克,熊猫,年克,克熊,猫银,银币"
+    }
+  ]
+}

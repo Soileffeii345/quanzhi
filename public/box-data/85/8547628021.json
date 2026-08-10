@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8547628021",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8547628021",
+      "displayBoxCode": "8547628-021",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1991年中国精制硬币伍分",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10359827.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8547628-021/",
+      "price": 130,
+      "priceWithFee": 140.4,
+      "transactedAt": "2026-06-24 19:54:05",
+      "productCode": "869854013",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/869854013A.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1991年,年中,中国,国精,精制,制硬,硬币,币伍,伍分,评级"
+    }
+  ]
+}

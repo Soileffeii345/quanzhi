@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "5803825007",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "5803825007",
+      "displayBoxCode": "5803825-007",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2006年生肖狗精制纪念币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/415390.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/5803825-007/",
+      "price": 800,
+      "priceWithFee": null,
+      "transactedAt": "2024-03-09 23:00:04",
+      "productCode": "AA461509",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20240129/large_sell_pbyyjkpj3agdqwhb.jpg",
+      "ocrConfidence": 40,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2006年,生肖,年生,肖狗,狗精,精制,制纪,纪念,念币,评级"
+    }
+  ]
+}

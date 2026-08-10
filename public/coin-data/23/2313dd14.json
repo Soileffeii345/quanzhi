@@ -1,0 +1,31 @@
+{
+  "coinName": "2002年熊猫20盎司金币",
+  "slug": "2313dd14",
+  "saleCount": 1,
+  "keywords": "金,币,2002年,20盎司,熊猫,年盎,盎司,司熊,猫金,金币",
+  "priceStats": {
+    "low": 1400,
+    "high": 1400,
+    "avg": 1400,
+    "latest": 1400
+  },
+  "records": [
+    {
+      "coinName": "2002年1/20盎司熊猫金币",
+      "normalizedBoxCode": "5800971024",
+      "displayBoxCode": "5800971-024",
+      "gradingCompany": "NGC",
+      "grade": "MS 70",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/488400.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/5800971-024/70/",
+      "price": 1400,
+      "priceWithFee": null,
+      "transactedAt": "2025-07-13 10:03:30",
+      "productCode": "KH073748",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2002年,20盎司,熊猫,年盎,盎司,司熊,猫金,金币"
+    }
+  ]
+}

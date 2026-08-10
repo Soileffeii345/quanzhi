@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8617065001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8617065001",
+      "displayBoxCode": "8617065-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "1994年观音1/2盎司精制银币四枚一套",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10351217.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8617065-001/70/",
+      "price": 20500,
+      "priceWithFee": 21217.5,
+      "transactedAt": "2026-06-18 20:42:40",
+      "productCode": "869398001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/869398001A.jpg",
+      "ocrConfidence": 42,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1994年,2盎司,宗教,年观,观音,音盎,盎司,司精,精制,制银,银币,币四,四枚,枚一,一套,评级"
+    }
+  ]
+}

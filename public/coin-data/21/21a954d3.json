@@ -1,0 +1,65 @@
+{
+  "coinName": "第二版人民币拖拉机1角",
+  "slug": "21a954d3",
+  "saleCount": 3,
+  "keywords": "币,第二,二版,版人,人民,民币,币拖,拖拉,拉机,机角",
+  "priceStats": {
+    "low": 700,
+    "high": 1200,
+    "avg": 1007,
+    "latest": 700
+  },
+  "records": [
+    {
+      "coinName": "第二版人民币拖拉机1角",
+      "normalizedBoxCode": "1949111037",
+      "displayBoxCode": "1949111-037",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/dierbanrenminbi/10362527.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1949111-037/",
+      "price": 700,
+      "priceWithFee": 756,
+      "transactedAt": "2026-06-27 21:04:10",
+      "productCode": "870733001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,第二,二版,版人,人民,民币,币拖,拖拉,拉机,机角"
+    },
+    {
+      "coinName": "第二版人民币拖拉机1角",
+      "normalizedBoxCode": "2060296027",
+      "displayBoxCode": "2060296-027",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/dierbanrenminbi/10365200.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2060296-027/",
+      "price": 1200,
+      "priceWithFee": 1296,
+      "transactedAt": "2026-06-25 20:27:10",
+      "productCode": "870637004",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,第二,二版,版人,人民,民币,币拖,拖拉,拉机,机角"
+    },
+    {
+      "coinName": "第二版人民币拖拉机1角",
+      "normalizedBoxCode": "7046916060",
+      "displayBoxCode": "7046916-060",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/dierbanrenminbi/10366145.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/7046916-060/",
+      "price": 1120,
+      "priceWithFee": 1209.6,
+      "transactedAt": "2026-07-04 21:26:25",
+      "productCode": "870560006",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,第二,二版,版人,人民,民币,币拖,拖拉,拉机,机角"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "5789166067",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "5789166067",
+      "displayBoxCode": "5789166-067",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1995年联合国成立50周年27克精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10372473.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/5789166-067/",
+      "price": 530,
+      "priceWithFee": 548.55,
+      "transactedAt": "2026-07-06 22:10:05",
+      "productCode": "871777001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/27/871777001A.jpg",
+      "ocrConfidence": 39,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1995年,27克,年联,联合,合国,国成,成立,立周,周年,年克,克精,精制,制银,银币,评级"
+    }
+  ]
+}

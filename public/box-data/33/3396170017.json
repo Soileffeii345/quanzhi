@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "3396170017",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "3396170017",
+      "displayBoxCode": "3396170-017",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1995年恐龙-应县木塔-重庆合川马门溪龙1/2盎司精制金币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10379021.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3396170-017/69/",
+      "price": 23500,
+      "priceWithFee": 24322.5,
+      "transactedAt": "2026-07-02 20:44:50",
+      "productCode": "872409006",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/27/872409006A.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1995年,2盎司,年恐,恐龙,龙应,应县,县木,木塔,塔重,重庆,庆合,合川,川马,马门,门溪,溪龙,龙盎,盎司,司精,精制,制金,金币,评级"
+    }
+  ]
+}

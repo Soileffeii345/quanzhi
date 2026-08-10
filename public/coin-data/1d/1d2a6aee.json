@@ -1,0 +1,31 @@
+{
+  "coinName": "1990年22.2克银币",
+  "slug": "1d2a6aee",
+  "saleCount": 1,
+  "keywords": "银,币,1990年,22.2克,年法,法国,国查,查理,理曼,曼大,大帝,帝克,克银,银币,外国/特区",
+  "priceStats": {
+    "low": 660,
+    "high": 660,
+    "avg": 660,
+    "latest": 660
+  },
+  "records": [
+    {
+      "coinName": "1990年法国查理曼大帝22.2克银币",
+      "normalizedBoxCode": "8504636031",
+      "displayBoxCode": "8504636-031",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/wgjsbizhang/10354146.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8504636-031/69/",
+      "price": 660,
+      "priceWithFee": 699.6,
+      "transactedAt": "2026-06-19 20:25:25",
+      "productCode": "869380007",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1990年,22.2克,年法,法国,国查,查理,理曼,曼大,大帝,帝克,克银,银币,外国/特区"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8757321001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8757321001",
+      "displayBoxCode": "8757321-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1985年新疆维吾尔自治区成立30周年-自治区大会堂5盎司银章",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10361123.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8757321-001/69/",
+      "price": 8500,
+      "priceWithFee": 8797.5,
+      "transactedAt": "2026-06-25 20:10:35",
+      "productCode": "870518013",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/870518013A.jpg",
+      "ocrConfidence": 46,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,章,1985年,5盎司,新疆版,年新,新疆,疆维,维吾,吾尔,尔自,自治,治区,区成,成立,立周,周年,年自,区大,大会,会堂,堂盎,盎司,司银,银章"
+    }
+  ]
+}

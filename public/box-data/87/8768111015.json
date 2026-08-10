@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8768111015",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8768111015",
+      "displayBoxCode": "8768111-015",
+      "gradingCompany": "NGC",
+      "grade": "PF69 ULTRA CAMEO",
+      "coinName": "1992年壬申猴年生肖1盎司精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10400962.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8768111-015/69/",
+      "price": 1460,
+      "priceWithFee": 1511.1,
+      "transactedAt": "2026-07-13 20:11:25",
+      "productCode": "875148002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/875148002A.jpg",
+      "ocrConfidence": 40,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1992年,1盎司,生肖,年壬,壬申,申猴,猴年,年生,肖盎,盎司,司精,精制,制银,银币,评级"
+    }
+  ]
+}

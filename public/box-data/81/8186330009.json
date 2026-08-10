@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8186330009",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8186330009",
+      "displayBoxCode": "8186330-009",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1997年中国近代国画大师齐白石-虾1盎司长方形精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10410189.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8186330-009/69/",
+      "price": 1780,
+      "priceWithFee": 1842.3,
+      "transactedAt": "2026-07-23 19:50:05",
+      "productCode": "876281002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/876281002A.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1997年,1盎司,年中,中国,国近,近代,代国,国画,画大,大师,师齐,齐白,白石,石虾,虾盎,盎司,司长,长方,方形,形精,精制,制银,银币,评级"
+    }
+  ]
+}

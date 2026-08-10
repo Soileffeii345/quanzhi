@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6731895045",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6731895045",
+      "displayBoxCode": "6731895-045",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1990年中国杰出历史人物第（7）组-郑和22克精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10351424.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6731895-045/",
+      "price": 460,
+      "priceWithFee": 476.1,
+      "transactedAt": "2026-06-22 20:20:10",
+      "productCode": "869274002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/869274002A.jpg",
+      "ocrConfidence": 44,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1990年,22克,年中,中国,国杰,杰出,出历,历史,史人,人物,物第,第组,组郑,郑和,和克,克精,精制,制银,银币,评级"
+    }
+  ]
+}

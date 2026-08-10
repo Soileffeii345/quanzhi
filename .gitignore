@@ -43,4 +43,6 @@ next-env.d.ts
 /work/
 /collector/output/
 /collector/data/
+/collector/public/
+/.tmp/
 /eng.traineddata

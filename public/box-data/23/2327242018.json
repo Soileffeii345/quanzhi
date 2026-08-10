@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2327242018",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2327242018",
+      "displayBoxCode": "2327242-018",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "民国十五年瑞昌汉中地名铜元壹串文",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/difangsipiao/10361080.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2327242-018/",
+      "price": 360,
+      "priceWithFee": 399.6,
+      "transactedAt": "2026-07-14 21:09:20",
+      "productCode": "869852002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/869852002B.jpg",
+      "ocrConfidence": 26,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "铜,历史币,民国,国十,十五,五年,年瑞,瑞昌,昌汉,汉中,中地,地名,名铜,铜元,元壹,壹串,串文"
+    }
+  ]
+}

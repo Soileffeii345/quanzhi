@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "5803717025",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "5803717025",
+      "displayBoxCode": "5803717-025",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2013年癸巳蛇年生肖1盎司扇形精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10369224.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/5803717-025/",
+      "price": 570,
+      "priceWithFee": 589.95,
+      "transactedAt": "2026-07-06 19:30:55",
+      "productCode": "870968061",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/26/870968061A.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2013年,1盎司,生肖,年癸,癸巳,巳蛇,蛇年,年生,肖盎,盎司,司扇,扇形,形精,精制,制银,银币,评级"
+    }
+  ]
+}

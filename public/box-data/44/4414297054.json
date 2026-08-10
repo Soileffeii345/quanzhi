@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4414297054",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4414297054",
+      "displayBoxCode": "4414297-054",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2015年1/4盎司九华山金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/467943.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4414297-054/70/",
+      "price": 5490,
+      "priceWithFee": null,
+      "transactedAt": "2025-03-13 13:38:29",
+      "productCode": "AA554453",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250313/large_sell_y0mjdg95eka10iad.jpg",
+      "ocrConfidence": 39,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2015年,4盎司,年盎,盎司,司九,九华,华山,山金,金币"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "coinName": "1999年5盎司精制银币",
+  "slug": "40b3f205",
+  "saleCount": 1,
+  "keywords": "银,币,1999年,5盎司,年中,中华,华人,人民,民共,共和,和国,国成,成立,立周,周年,年开,开国,国大,大典,典盎,盎司,司长,长方,方形,形精,精制,制银,银币,评级",
+  "priceStats": {
+    "low": 5700,
+    "high": 5700,
+    "avg": 5700,
+    "latest": 5700
+  },
+  "records": [
+    {
+      "coinName": "1999年中华人民共和国成立50周年-开国大典5盎司长方形精制银币",
+      "normalizedBoxCode": "8650069010",
+      "displayBoxCode": "8650069-010",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10386681.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8650069-010/69/",
+      "price": 5700,
+      "priceWithFee": 5899.5,
+      "transactedAt": "2026-07-09 20:40:05",
+      "productCode": "873485001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1999年,5盎司,年中,中华,华人,人民,民共,共和,和国,国成,成立,立周,周年,年开,开国,国大,大典,典盎,盎司,司长,长方,方形,形精,精制,制银,银币,评级"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6196077043",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6196077043",
+      "displayBoxCode": "6196077-043",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1995年北京国际邮票钱币博览会1盎司普制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10383391.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6196077-043/",
+      "price": 800,
+      "priceWithFee": 828,
+      "transactedAt": "2026-07-06 21:17:10",
+      "productCode": "871831010",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/27/871831010A.jpg",
+      "ocrConfidence": 30,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,钞,1995年,1盎司,年北,北京,京国,国际,际邮,邮票,票钱,钱币,币博,博览,览会,会盎,盎司,司普,普制,制银,银币"
+    }
+  ]
+}

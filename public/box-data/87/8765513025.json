@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8765513025",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8765513025",
+      "displayBoxCode": "8765513-025",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2008年海南经济特区成立20周年1盎司精制彩银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10407557.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8765513-025/69/",
+      "price": 700,
+      "priceWithFee": 724.5,
+      "transactedAt": "2026-07-20 21:40:40",
+      "productCode": "875918032",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/875918032A.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2008年,1盎司,年海,海南,南经,经济,济特,特区,区成,成立,立周,周年,年盎,盎司,司精,精制,制彩,彩银,银币,评级"
+    }
+  ]
+}

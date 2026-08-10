@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6727502002",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6727502002",
+      "displayBoxCode": "6727502-002",
+      "gradingCompany": "NGC",
+      "grade": "PF 68 ULTRA CAMEO",
+      "coinName": "2000年5盎司千年纪念银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/526934.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6727502-002/68/",
+      "price": 3750,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-15 06:07:26",
+      "productCode": "KH102262",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260102/large_sell_lo54jopdqaeeh0mc.jpg",
+      "ocrConfidence": 44,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2000年,5盎司,年盎,盎司,司千,千年,年纪,纪念,念银,银币"
+    }
+  ]
+}

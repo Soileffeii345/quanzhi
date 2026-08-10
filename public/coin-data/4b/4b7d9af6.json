@@ -1,0 +1,82 @@
+{
+  "coinName": "2015年生肖3.11克金币",
+  "slug": "4b7d9af6",
+  "saleCount": 4,
+  "keywords": "金,币,2015年,10盎司,生肖,年盎,盎司,司生,肖羊,羊金,金币,羊彩,彩金",
+  "priceStats": {
+    "low": 2490,
+    "high": 3300,
+    "avg": 2814,
+    "latest": 2800
+  },
+  "records": [
+    {
+      "coinName": "2015年1/10盎司生肖羊金币",
+      "normalizedBoxCode": "4320362028",
+      "displayBoxCode": "4320362-028",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/493670.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4320362-028/",
+      "price": 2800,
+      "priceWithFee": null,
+      "transactedAt": "2025-08-13 08:40:23",
+      "productCode": "KH078356",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2015年,10盎司,生肖,年盎,盎司,司生,肖羊,羊金,金币"
+    },
+    {
+      "coinName": "2015年1/10盎司生肖羊金币",
+      "normalizedBoxCode": "4403912046",
+      "displayBoxCode": "4403912-046",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/598949.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4403912-046/70/",
+      "price": 3300,
+      "priceWithFee": null,
+      "transactedAt": "2026-07-26 13:49:16",
+      "productCode": "AA667668",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2015年,10盎司,生肖,年盎,盎司,司生,肖羊,羊金,金币"
+    },
+    {
+      "coinName": "2015年1/10盎司生肖羊彩金币",
+      "normalizedBoxCode": "4418463082",
+      "displayBoxCode": "4418463-082",
+      "gradingCompany": "NGC",
+      "grade": "PF70",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/497464.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4418463-082/70/",
+      "price": 2665,
+      "priceWithFee": null,
+      "transactedAt": "2025-09-09 14:00:06",
+      "productCode": "AA582491",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2015年,10盎司,生肖,年盎,盎司,司生,肖羊,羊彩,彩金,金币"
+    },
+    {
+      "coinName": "2015年1/10盎司生肖羊彩金币",
+      "normalizedBoxCode": "6151823010",
+      "displayBoxCode": "6151823-010",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/492719.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6151823-010/70/",
+      "price": 2490,
+      "priceWithFee": null,
+      "transactedAt": "2025-08-04 18:45:40",
+      "productCode": "KH077806",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2015年,10盎司,生肖,年盎,盎司,司生,肖羊,羊彩,彩金,金币"
+    }
+  ]
+}

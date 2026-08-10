@@ -1,0 +1,65 @@
+{
+  "coinName": "1995年3.11克金币",
+  "slug": "6d1eb9b1",
+  "saleCount": 3,
+  "keywords": "金,币,1995年,10盎司,年盎,盎司,司传,传统,统文,文化,化第,第组,组金,金币,章,宗教,年五,五台,台山,山文,文殊,殊菩,菩萨,萨盎,司纪,纪念,念金,金章,年中,中国,国传,组狮,狮子,子舞,舞盎,司金",
+  "priceStats": {
+    "low": 3800,
+    "high": 22600,
+    "avg": 12067,
+    "latest": 22600
+  },
+  "records": [
+    {
+      "coinName": "1995年1/10盎司传统文化第1组金币",
+      "normalizedBoxCode": "2786592018",
+      "displayBoxCode": "2786592-018",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/473041.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2786592-018/70/",
+      "price": 22600,
+      "priceWithFee": null,
+      "transactedAt": "2025-04-17 00:25:22",
+      "productCode": "AA558761.....65",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1995年,10盎司,年盎,盎司,司传,传统,统文,文化,化第,第组,组金,金币"
+    },
+    {
+      "coinName": "1995年五台山文殊菩萨1/10盎司纪念金章",
+      "normalizedBoxCode": "8650861033",
+      "displayBoxCode": "8650861-033",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10359982.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8650861-033/70/",
+      "price": 9800,
+      "priceWithFee": 10143,
+      "transactedAt": "2026-06-25 20:52:05",
+      "productCode": "869598005",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,章,1995年,10盎司,宗教,年五,五台,台山,山文,文殊,殊菩,菩萨,萨盎,盎司,司纪,纪念,念金,金章"
+    },
+    {
+      "coinName": "1995年中国传统文化第（1）组-狮子舞1/10盎司金币",
+      "normalizedBoxCode": "8758193020",
+      "displayBoxCode": "8758193-020",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10356011.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8758193-020/69/",
+      "price": 3800,
+      "priceWithFee": 3933,
+      "transactedAt": "2026-06-25 20:51:05",
+      "productCode": "869853012",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1995年,10盎司,年中,中国,国传,传统,统文,文化,化第,第组,组狮,狮子,子舞,舞盎,盎司,司金,金币"
+    }
+  ]
+}

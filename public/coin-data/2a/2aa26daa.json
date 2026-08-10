@@ -1,0 +1,31 @@
+{
+  "coinName": "1943年希腊纸钞",
+  "slug": "2aa26daa",
+  "saleCount": 1,
+  "keywords": "钞,1943年,年希,希腊,腊纸,纸钞",
+  "priceStats": {
+    "low": 140,
+    "high": 140,
+    "avg": 140,
+    "latest": 140
+  },
+  "records": [
+    {
+      "coinName": "1943年希腊纸钞",
+      "normalizedBoxCode": "2240910053",
+      "displayBoxCode": "2240910-053",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10362695.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2240910-053/",
+      "price": 140,
+      "priceWithFee": 155.4,
+      "transactedAt": "2026-06-30 22:25:35",
+      "productCode": "870832001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,1943年,年希,希腊,腊纸,纸钞"
+    }
+  ]
+}

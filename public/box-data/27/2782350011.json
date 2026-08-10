@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2782350011",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2782350011",
+      "displayBoxCode": "2782350-011",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2008年1盎司梅花形生肖鼠银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/518879.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2782350-011/",
+      "price": 490,
+      "priceWithFee": null,
+      "transactedAt": "2025-12-10 10:45:35",
+      "productCode": "AA601528",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251210/large_sell_8stkxepae10rw3gd.jpg",
+      "ocrConfidence": 29,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2008年,1盎司,生肖,年盎,盎司,司梅,梅花,花形,形生,肖鼠,鼠银,银币"
+    }
+  ]
+}

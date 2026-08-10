@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8617769010",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8617769010",
+      "displayBoxCode": "8617769-010",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2001年中国京剧艺术第（3）组-群英会1/2盎司彩金币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10386680.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8617769-010/69/",
+      "price": 14400,
+      "priceWithFee": 14904,
+      "transactedAt": "2026-07-09 21:12:05",
+      "productCode": "873412003",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/27/873412003A.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2001年,2盎司,戏曲,年中,中国,国京,京剧,剧艺,艺术,术第,第组,组群,群英,英会,会盎,盎司,司彩,彩金,金币"
+    }
+  ]
+}

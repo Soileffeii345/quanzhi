@@ -1,0 +1,48 @@
+{
+  "coinName": "2023年吉祥文化精制金银币",
+  "slug": "44d00a59",
+  "saleCount": 2,
+  "keywords": "金,银,币,2023年,3克,吉祥文化,年吉,吉祥,祥文,文化,化比,比翼,翼双,双飞,飞精,精制,制金,金银,银币,币二,二枚,枚一,一套,套含,含克,克金,金克,克银,评级,化平,平安,安喜,喜乐,乐精",
+  "priceStats": {
+    "low": 6200,
+    "high": 6700,
+    "avg": 6450,
+    "latest": 6700
+  },
+  "records": [
+    {
+      "coinName": "2023年吉祥文化-比翼双飞精制金银币二枚一套（含3克金、30克银）",
+      "normalizedBoxCode": "6740215005",
+      "displayBoxCode": "6740215-005",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10376597.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6740215-005/70/",
+      "price": 6700,
+      "priceWithFee": 6934.5,
+      "transactedAt": "2026-07-04 21:33:05",
+      "productCode": "871748002",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,2023年,3克,吉祥文化,年吉,吉祥,祥文,文化,化比,比翼,翼双,双飞,飞精,精制,制金,金银,银币,币二,二枚,枚一,一套,套含,含克,克金,金克,克银,评级"
+    },
+    {
+      "coinName": "2023年吉祥文化-平安喜乐精制金银币二枚一套（含3克金、15克银）",
+      "normalizedBoxCode": "6740221004",
+      "displayBoxCode": "6740221-004",
+      "gradingCompany": "NGC",
+      "grade": "Pr70 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10376602.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6740221-004/70/",
+      "price": 6200,
+      "priceWithFee": 6417,
+      "transactedAt": "2026-07-04 21:28:35",
+      "productCode": "871748007",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,2023年,3克,吉祥文化,年吉,吉祥,祥文,文化,化平,平安,安喜,喜乐,乐精,精制,制金,金银,银币,币二,二枚,枚一,一套,套含,含克,克金,金克,克银,评级"
+    }
+  ]
+}

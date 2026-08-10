@@ -1,0 +1,48 @@
+{
+  "coinName": "1995年15.552克银币",
+  "slug": "2c5dc77d",
+  "saleCount": 2,
+  "keywords": "银,币,1995年,2盎司,宗教,年盎,盎司,司观,观音,音银,银币",
+  "priceStats": {
+    "low": 7800,
+    "high": 8000,
+    "avg": 7900,
+    "latest": 8000
+  },
+  "records": [
+    {
+      "coinName": "1995年1/2盎司观音银币",
+      "normalizedBoxCode": "5181002048",
+      "displayBoxCode": "5181002-048",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/550183.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/5181002-048/",
+      "price": 8000,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-29 21:51:51",
+      "productCode": "KH116395",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1995年,2盎司,宗教,年盎,盎司,司观,观音,音银,银币"
+    },
+    {
+      "coinName": "1995年1/2盎司观音银币",
+      "normalizedBoxCode": "6181002059",
+      "displayBoxCode": "6181002-059",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/549937.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6181002-059/69/",
+      "price": 7800,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-29 16:08:19",
+      "productCode": "KH116204",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1995年,2盎司,宗教,年盎,盎司,司观,观音,音银,银币"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8648800003",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8648800003",
+      "displayBoxCode": "8648800-003",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2026年8克菱形贺岁彩银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/569156.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8648800-003/",
+      "price": 220,
+      "priceWithFee": null,
+      "transactedAt": "2026-04-01 22:48:43",
+      "productCode": "KH127877",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260401/large_sell_9lwueh1yxlmfbc5t.jpg",
+      "ocrConfidence": 46,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2026年,8克,吉祥文化,年克,克菱,菱形,形贺,贺岁,岁彩,彩银,银币"
+    }
+  ]
+}

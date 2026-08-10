@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4895523009",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4895523009",
+      "displayBoxCode": "4895523-009",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2016年1盎司生肖猴银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/489581.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4895523-009/",
+      "price": 280,
+      "priceWithFee": null,
+      "transactedAt": "2025-07-19 19:40:02",
+      "productCode": "KH074896",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250719/large_sell_oj9wuj9buzb1ivxw.jpg",
+      "ocrConfidence": 50,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2016年,1盎司,生肖,年盎,盎司,司生,肖猴,猴银,银币"
+    }
+  ]
+}

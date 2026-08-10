@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6745430002",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6745430002",
+      "displayBoxCode": "6745430-002",
+      "gradingCompany": "NGC",
+      "grade": "PF 68 ULTRA CAMEO",
+      "coinName": "2008年戊子鼠年生肖1公斤精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10405179.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6745430-002/68/",
+      "price": 22000,
+      "priceWithFee": 22770,
+      "transactedAt": "2026-07-16 20:00:05",
+      "productCode": "875611001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/875611001A.jpg",
+      "ocrConfidence": 53,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2008年,1公斤,生肖,年戊,戊子,子鼠,鼠年,年生,肖公,公斤,斤精,精制,制银,银币,评级"
+    }
+  ]
+}

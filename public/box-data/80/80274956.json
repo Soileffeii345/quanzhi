@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "80274956",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "80274956",
+      "displayBoxCode": "80274956",
+      "gradingCompany": "PCGS",
+      "grade": "待复核",
+      "coinName": "2015年1盎司曹雪芹诞辰300周年银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/502911.html",
+      "officialCertUrl": "https://cn.pcgs.com/cert/80274956",
+      "price": 510,
+      "priceWithFee": null,
+      "transactedAt": "2025-10-22 20:41:02",
+      "productCode": "KH088876",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250926/large_sell_aeitaf5xihhaik26.jpg",
+      "ocrConfidence": 38,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2015年,1盎司,年盎,盎司,司曹,曹雪,雪芹,芹诞,诞辰,辰周,周年,年银,银币"
+    }
+  ]
+}

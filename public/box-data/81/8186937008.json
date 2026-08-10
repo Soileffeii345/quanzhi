@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8186937008",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8186937008",
+      "displayBoxCode": "8186937-008",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2023年100克吉祥文化人寿年丰银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/556407.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8186937-008/69/",
+      "price": 4900,
+      "priceWithFee": null,
+      "transactedAt": "2026-02-28 11:04:54",
+      "productCode": "KH120982",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260226/large_sell_7yvruj0du0ffxep8.jpg",
+      "ocrConfidence": 37,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2023年,100克,吉祥文化,年克,克吉,吉祥,祥文,文化,化人,人寿,寿年,年丰,丰银,银币"
+    }
+  ]
+}

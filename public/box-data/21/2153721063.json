@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2153721063",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2153721063",
+      "displayBoxCode": "2153721-063",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "第三版人民币5角平版无水印",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/disanbanrenminbi/10398330.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2153721-063/",
+      "price": 160,
+      "priceWithFee": 172.8,
+      "transactedAt": "2026-07-18 21:25:20",
+      "productCode": "874765005",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/874765005B.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,第三,三版,版人,人民,民币,币角,角平,平版,版无,无水,水印"
+    }
+  ]
+}

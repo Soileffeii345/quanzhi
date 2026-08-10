@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8617810001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8617810001",
+      "displayBoxCode": "8617810-001",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1997年中国珍稀野生动物-丹顶鹤流通纪念币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10404596.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8617810-001/",
+      "price": 240,
+      "priceWithFee": 259.2,
+      "transactedAt": "2026-07-15 19:17:10",
+      "productCode": "875541012",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/875541012A.jpg",
+      "ocrConfidence": 30,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1997年,年中,中国,国珍,珍稀,稀野,野生,生动,动物,物丹,丹顶,顶鹤,鹤流,流通,通纪,纪念,念币"
+    }
+  ]
+}

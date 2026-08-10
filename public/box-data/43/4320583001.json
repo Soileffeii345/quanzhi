@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4320583001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4320583001",
+      "displayBoxCode": "4320583-001",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2016年1/2盎司梅花形生肖猴金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/493070.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4320583-001/",
+      "price": 12345,
+      "priceWithFee": null,
+      "transactedAt": "2025-08-11 12:38:12",
+      "productCode": "AA577161",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250806/large_sell_a6jiq3lbwvjc116a.jpg",
+      "ocrConfidence": 37,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2016年,2盎司,生肖,年盎,盎司,司梅,梅花,花形,形生,肖猴,猴金,金币"
+    }
+  ]
+}

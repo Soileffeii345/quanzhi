@@ -1,0 +1,45 @@
+{
+  "ok": true,
+  "query": "8498060001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8498060001",
+      "displayBoxCode": "8498060-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2024年8克方形纸币千年金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/534029.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8498060-001/69/",
+      "price": 9200,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-21 14:53:32",
+      "productCode": "KH108400",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260118/large_sell_kmavtocl8ime7se4.jpg",
+      "ocrConfidence": 49,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2024年,8克,年克,克方,方形,形纸,纸币,币千,千年,年金,金币"
+    },
+    {
+      "normalizedBoxCode": "8498060001",
+      "displayBoxCode": "8498060-001",
+      "gradingCompany": "NGC",
+      "grade": "PF69 ULTRA CAMEO",
+      "coinName": "2024年8克方形纸币千年金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/531541.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8498060-001/69/",
+      "price": 8455,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-14 17:24:48",
+      "productCode": "KH105279",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260114/large_sell_eid7wx9hmqblgxlo.jpg",
+      "ocrConfidence": 54,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2024年,8克,年克,克方,方形,形纸,纸币,币千,千年,年金,金币"
+    }
+  ]
+}

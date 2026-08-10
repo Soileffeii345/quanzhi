@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8323192006",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8323192006",
+      "displayBoxCode": "8323192-006",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2023年大熊猫国家公园精制金银币二枚一套（含3克金、30克银）",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10377217.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8323192-006/69/",
+      "price": 3450,
+      "priceWithFee": 3570.75,
+      "transactedAt": "2026-07-04 21:22:35",
+      "productCode": "872273003",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/27/872273003A.jpg",
+      "ocrConfidence": 40,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,2023年,3克,熊猫,年大,大熊,猫国,国家,家公,公园,园精,精制,制金,金银,银币,币二,二枚,枚一,一套,套含,含克,克金,金克,克银,评级"
+    }
+  ]
+}

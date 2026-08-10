@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2400753046",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2400753046",
+      "displayBoxCode": "2400753-046",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "埃及塑料钞",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10372915.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2400753-046/",
+      "price": 100,
+      "priceWithFee": 111,
+      "transactedAt": "2026-06-30 22:45:05",
+      "productCode": "871226089",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/26/871226089B.JPG",
+      "ocrConfidence": 32,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,埃及,及塑,塑料,料钞"
+    }
+  ]
+}

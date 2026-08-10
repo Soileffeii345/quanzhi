@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2400756066",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2400756066",
+      "displayBoxCode": "2400756-066",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "斐济纸币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10372858.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2400756-066/",
+      "price": 90,
+      "priceWithFee": 99.9,
+      "transactedAt": "2026-06-30 22:37:05",
+      "productCode": "871226032",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/26/871226032B.JPG",
+      "ocrConfidence": 28,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,斐济,济纸,纸币"
+    }
+  ]
+}

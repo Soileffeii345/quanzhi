@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8183871002",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8183871002",
+      "displayBoxCode": "8183871-002",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2024年15克国家宝藏何尊金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/491742.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8183871-002/",
+      "price": 13600,
+      "priceWithFee": null,
+      "transactedAt": "2025-08-28 21:12:03",
+      "productCode": "AA575702",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250730/large_sell_iflfqbaw5cwxko8r.jpg",
+      "ocrConfidence": 31,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2024年,15克,年克,克国,国家,家宝,宝藏,藏何,何尊,尊金,金币"
+    }
+  ]
+}

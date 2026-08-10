@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8174633007",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8174633007",
+      "displayBoxCode": "8174633-007",
+      "gradingCompany": "NGC",
+      "grade": "PF70 ULTRA CAMEO",
+      "coinName": "2023年30克吉祥文化比翼双飞银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/527070.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8174633-007/70/",
+      "price": 980,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-06 10:52:23",
+      "productCode": "AA527927",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260103/large_sell_n2lwlu5cj4xvezip.jpg",
+      "ocrConfidence": 31,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2023年,30克,吉祥文化,年克,克吉,吉祥,祥文,文化,化比,比翼,翼双,双飞,飞银,银币"
+    }
+  ]
+}

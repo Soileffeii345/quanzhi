@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4420742013",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4420742013",
+      "displayBoxCode": "4420742-013",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2005年1/2盎司西游记第3组彩金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/475446.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4420742-013/",
+      "price": 12390,
+      "priceWithFee": null,
+      "transactedAt": "2025-06-19 11:25:36",
+      "productCode": "AA560531",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250426/large_sell_9birkg4ib2pwhcv9.jpg",
+      "ocrConfidence": 37,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2005年,2盎司,年盎,盎司,司西,西游,游记,记第,第组,组彩,彩金,金币"
+    }
+  ]
+}

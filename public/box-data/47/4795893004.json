@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4795893004",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4795893004",
+      "displayBoxCode": "4795893-004",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2011年1/4盎司世界自然基金会成立50周年金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/499707.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4795893-004/",
+      "price": 7220,
+      "priceWithFee": null,
+      "transactedAt": "2025-10-08 22:02:39",
+      "productCode": "AA584864",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250910/large_sell_k5enpfi0z6eecuqg.jpg",
+      "ocrConfidence": 32,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2011年,4盎司,年盎,盎司,司世,世界,界自,自然,然基,基金,金会,会成,成立,立周,周年,年金,金币"
+    }
+  ]
+}

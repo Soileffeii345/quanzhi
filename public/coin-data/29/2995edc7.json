@@ -1,0 +1,48 @@
+{
+  "coinName": "1997年15.552克精制银币",
+  "slug": "2995edc7",
+  "saleCount": 2,
+  "keywords": "银,币,1997年,2盎司,宗教,年甘,甘露,露观,观音,音盎,盎司,司精,精制,制银,银币,评级,吉祥文化,年中,中国,国传,传统,统吉,吉祥,祥图,图吉,吉庆,庆有,有余,余盎,制彩,彩银",
+  "priceStats": {
+    "low": 420,
+    "high": 870,
+    "avg": 645,
+    "latest": 870
+  },
+  "records": [
+    {
+      "coinName": "1997年甘露观音1/2盎司精制银币",
+      "normalizedBoxCode": "8610819024",
+      "displayBoxCode": "8610819-024",
+      "gradingCompany": "NGC",
+      "grade": "PF 68 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10350699.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8610819-024/68/",
+      "price": 870,
+      "priceWithFee": 900.45,
+      "transactedAt": "2026-06-22 20:15:10",
+      "productCode": "869116029",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1997年,2盎司,宗教,年甘,甘露,露观,观音,音盎,盎司,司精,精制,制银,银币,评级"
+    },
+    {
+      "coinName": "1997年中国传统吉祥图-吉庆有余1/2盎司精制彩银币",
+      "normalizedBoxCode": "8823262001",
+      "displayBoxCode": "8823262-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10424119.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8823262-001/69/",
+      "price": 420,
+      "priceWithFee": 434.7,
+      "transactedAt": "2026-07-27 22:03:40",
+      "productCode": "877773020",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1997年,2盎司,吉祥文化,年中,中国,国传,传统,统吉,吉祥,祥图,图吉,吉庆,庆有,有余,余盎,盎司,司精,精制,制彩,彩银,银币,评级"
+    }
+  ]
+}

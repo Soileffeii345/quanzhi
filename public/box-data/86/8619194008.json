@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8619194008",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8619194008",
+      "displayBoxCode": "8619194-008",
+      "gradingCompany": "NGC",
+      "grade": "MS 64",
+      "coinName": "1896年法国玛丽安娜穆兰工业博览会镀金铜章",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianbi/10424737.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8619194-008/64/",
+      "price": 740,
+      "priceWithFee": 821.4,
+      "transactedAt": "2026-07-24 20:28:25",
+      "productCode": "877433013",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/877433013A.jpg",
+      "ocrConfidence": 40,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,铜,章,1896年,年法,法国,国玛,玛丽,丽安,安娜,娜穆,穆兰,兰工,工业,业博,博览,览会,会镀,镀金,金铜,铜章,外国/特区"
+    }
+  ]
+}

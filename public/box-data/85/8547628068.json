@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8547628068",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8547628068",
+      "displayBoxCode": "8547628-068",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1996年中国古代科技发明发现第（5）组-马具1/2盎司精制金币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10356003.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8547628-068/69/",
+      "price": 27000,
+      "priceWithFee": 27945,
+      "transactedAt": "2026-06-25 21:17:05",
+      "productCode": "869853004",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/869853004A.jpg",
+      "ocrConfidence": 44,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1996年,2盎司,年中,中国,国古,古代,代科,科技,技发,发明,明发,发现,现第,第组,组马,马具,具盎,盎司,司精,精制,制金,金币,评级"
+    }
+  ]
+}

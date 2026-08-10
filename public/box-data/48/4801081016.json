@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4801081016",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4801081016",
+      "displayBoxCode": "4801081-016",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2019年己亥猪年生肖150克精制彩银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10398811.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4801081-016/70/",
+      "price": 4700,
+      "priceWithFee": 4864.5,
+      "transactedAt": "2026-07-16 19:44:15",
+      "productCode": "874356001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/874356001A.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2019年,150克,生肖,年己,己亥,亥猪,猪年,年生,肖克,克精,精制,制彩,彩银,银币,评级"
+    }
+  ]
+}

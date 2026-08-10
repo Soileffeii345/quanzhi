@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2934882005",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2934882005",
+      "displayBoxCode": "2934882-005",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1994年麒麟1盎司精制金币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10390818.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2934882-005/",
+      "price": 39500,
+      "priceWithFee": 40882.5,
+      "transactedAt": "2026-07-09 21:44:05",
+      "productCode": "873930013",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/27/873930013A.jpg",
+      "ocrConfidence": 32,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1994年,1盎司,年麒,麒麟,麟盎,盎司,司精,精制,制金,金币,评级"
+    }
+  ]
+}

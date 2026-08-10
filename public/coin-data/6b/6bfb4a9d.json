@@ -1,0 +1,82 @@
+{
+  "coinName": "2002年3.11克金币",
+  "slug": "6bfb4a9d",
+  "saleCount": 4,
+  "keywords": "金,币,2002年,10盎司,宗教,年盎,盎司,司观,观音,音幻,幻彩,彩金,金币",
+  "priceStats": {
+    "low": 2320,
+    "high": 4300,
+    "avg": 3165,
+    "latest": 2320
+  },
+  "records": [
+    {
+      "coinName": "2002年1/10盎司观音幻彩金币",
+      "normalizedBoxCode": "4531607004",
+      "displayBoxCode": "4531607-004",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/471096.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4531607-004/",
+      "price": 2320,
+      "priceWithFee": null,
+      "transactedAt": "2025-03-31 16:10:50",
+      "productCode": "AA557160",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2002年,10盎司,宗教,年盎,盎司,司观,观音,音幻,幻彩,彩金,金币"
+    },
+    {
+      "coinName": "2002年1/10盎司观音幻彩金币",
+      "normalizedBoxCode": "5794657004",
+      "displayBoxCode": "5794657-004",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/554838.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/5794657-004/69/",
+      "price": 4300,
+      "priceWithFee": null,
+      "transactedAt": "2026-03-02 09:46:06",
+      "productCode": "KH119840",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2002年,10盎司,宗教,年盎,盎司,司观,观音,音幻,幻彩,彩金,金币"
+    },
+    {
+      "coinName": "2002年1/10盎司观音幻彩金币",
+      "normalizedBoxCode": "6192751029",
+      "displayBoxCode": "6192751-029",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/509781.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6192751-029/",
+      "price": 3200,
+      "priceWithFee": null,
+      "transactedAt": "2025-11-27 12:54:46",
+      "productCode": "KH086100A",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2002年,10盎司,宗教,年盎,盎司,司观,观音,音幻,幻彩,彩金,金币"
+    },
+    {
+      "coinName": "2002年1/10盎司观音幻彩金币",
+      "normalizedBoxCode": "6192751029",
+      "displayBoxCode": "6192751-029",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/503932.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6192751-029/",
+      "price": 2840,
+      "priceWithFee": null,
+      "transactedAt": "2025-10-07 13:37:07",
+      "productCode": "KH086100",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2002年,10盎司,宗教,年盎,盎司,司观,观音,音幻,幻彩,彩金,金币"
+    }
+  ]
+}

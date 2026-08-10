@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6183502028",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6183502028",
+      "displayBoxCode": "6183502-028",
+      "gradingCompany": "NGC",
+      "grade": "PF70",
+      "coinName": "2005年1/2盎司梅花形生肖鸡金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/498165.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6183502-028/70/",
+      "price": 12945,
+      "priceWithFee": null,
+      "transactedAt": "2025-09-03 14:04:19",
+      "productCode": "KH080924",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250903/large_sell_weu8btg0aeto2auu.jpg",
+      "ocrConfidence": 48,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2005年,2盎司,生肖,年盎,盎司,司梅,梅花,花形,形生,肖鸡,鸡金,金币"
+    }
+  ]
+}

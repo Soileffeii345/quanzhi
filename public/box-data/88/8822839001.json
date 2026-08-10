@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8822839001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8822839001",
+      "displayBoxCode": "8822839-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2013年库克群岛纳米太空镶嵌纳米芯片50克彩色银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/wgjsbizhang/10415173.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8822839-001/69/",
+      "price": 1320,
+      "priceWithFee": 1399.2,
+      "transactedAt": "2026-07-24 20:05:05",
+      "productCode": "876743001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/876743001A.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2013年,50克,年库,库克,克群,群岛,岛纳,纳米,米太,太空,空镶,镶嵌,嵌纳,米芯,芯片,片克,克彩,彩色,色银,银币"
+    }
+  ]
+}

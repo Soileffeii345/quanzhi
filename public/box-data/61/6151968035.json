@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6151968035",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6151968035",
+      "displayBoxCode": "6151968-035",
+      "gradingCompany": "NGC",
+      "grade": "MS 70",
+      "coinName": "2021年8克贺岁银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/492416.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6151968-035/70/",
+      "price": 240,
+      "priceWithFee": null,
+      "transactedAt": "2025-08-03 16:45:36",
+      "productCode": "KH077644",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250803/large_sell_jgykki4fnjkrx8n9.jpg",
+      "ocrConfidence": 43,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2021年,8克,吉祥文化,年克,克贺,贺岁,岁银,银币"
+    }
+  ]
+}

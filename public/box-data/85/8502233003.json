@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8502233003",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8502233003",
+      "displayBoxCode": "8502233-003",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1990年1盎司龙凤呈祥银币(普制)",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/510810.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8502233-003/",
+      "price": 1500,
+      "priceWithFee": null,
+      "transactedAt": "2025-11-11 09:25:46",
+      "productCode": "AA594961",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251106/large_sell_vfqrogsa0t0zkrzv.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1990年,1盎司,年盎,盎司,司龙,龙凤,凤呈,呈祥,祥银,银币,币普,普制"
+    }
+  ]
+}

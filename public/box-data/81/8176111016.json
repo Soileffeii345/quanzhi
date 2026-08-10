@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8176111016",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8176111016",
+      "displayBoxCode": "8176111-016",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2025年乙巳蛇年生肖流通纪念币二枚",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10394156.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8176111-016/",
+      "price": 150,
+      "priceWithFee": 162,
+      "transactedAt": "2026-07-15 19:19:40",
+      "productCode": "874545001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/22/864300010A.jpg",
+      "ocrConfidence": 41,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2025年,生肖,年乙,乙巳,巳蛇,蛇年,年生,肖流,流通,通纪,纪念,念币,币二,二枚"
+    }
+  ]
+}

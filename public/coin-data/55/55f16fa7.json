@@ -1,0 +1,48 @@
+{
+  "coinName": "2017年吉祥文化30克精制银币",
+  "slug": "55f16fa7",
+  "saleCount": 2,
+  "keywords": "银,币,2017年,30克,吉祥文化,年吉,吉祥,祥文,文化,化年,年年,年有,有余,余克,克精,精制,制银,银币,评级,化并,并蒂,蒂同,同心,心克",
+  "priceStats": {
+    "low": 1020,
+    "high": 1020,
+    "avg": 1020,
+    "latest": 1020
+  },
+  "records": [
+    {
+      "coinName": "2017年吉祥文化-年年有余30克精制银币",
+      "normalizedBoxCode": "6149239051",
+      "displayBoxCode": "6149239-051",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10422983.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6149239-051/70/",
+      "price": 1020,
+      "priceWithFee": 1055.7,
+      "transactedAt": "2026-07-27 20:29:10",
+      "productCode": "877342004",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2017年,30克,吉祥文化,年吉,吉祥,祥文,文化,化年,年年,年有,有余,余克,克精,精制,制银,银币,评级"
+    },
+    {
+      "coinName": "2017年吉祥文化-并蒂同心30克精制银币",
+      "normalizedBoxCode": "8752266082",
+      "displayBoxCode": "8752266-082",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10356340.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8752266-082/70/",
+      "price": 1020,
+      "priceWithFee": 1055.7,
+      "transactedAt": "2026-06-22 19:23:40",
+      "productCode": "870228003",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2017年,30克,吉祥文化,年吉,吉祥,祥文,文化,化并,并蒂,蒂同,同心,心克,克精,精制,制银,银币,评级"
+    }
+  ]
+}

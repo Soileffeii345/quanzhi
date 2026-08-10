@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8652262010",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8652262010",
+      "displayBoxCode": "8652262-010",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1999年己卯兔年生肖1/10盎司精制彩金币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-jin/10386382.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8652262-010/69/",
+      "price": 3300,
+      "priceWithFee": 3415.5,
+      "transactedAt": "2026-07-09 21:03:25",
+      "productCode": "873153004",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/27/873153004A.jpg",
+      "ocrConfidence": 32,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1999年,10盎司,生肖,年己,己卯,卯兔,兔年,年生,肖盎,盎司,司精,精制,制彩,彩金,金币,评级"
+    }
+  ]
+}

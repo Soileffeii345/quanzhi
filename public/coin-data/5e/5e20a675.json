@@ -1,0 +1,31 @@
+{
+  "coinName": "1995年麒麟31.104克银币",
+  "slug": "5e20a675",
+  "saleCount": 1,
+  "keywords": "银,币,1995年,1盎司,年盎,盎司,司麒,麒麟,麟银,银币",
+  "priceStats": {
+    "low": 2300,
+    "high": 2300,
+    "avg": 2300,
+    "latest": 2300
+  },
+  "records": [
+    {
+      "coinName": "1995年1盎司麒麟银币",
+      "normalizedBoxCode": "5789196065",
+      "displayBoxCode": "5789196-065",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/529375.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/5789196-065/",
+      "price": 2300,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-29 12:01:37",
+      "productCode": "KH111058",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1995年,1盎司,年盎,盎司,司麒,麒麟,麟银,银币"
+    }
+  ]
+}

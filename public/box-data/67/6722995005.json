@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6722995005",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6722995005",
+      "displayBoxCode": "6722995-005",
+      "gradingCompany": "NGC",
+      "grade": "MS 70",
+      "coinName": "2006年8克第2套人民币贰圆微缩金章",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/476967.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6722995-005/70/",
+      "price": 6400,
+      "priceWithFee": null,
+      "transactedAt": "2025-05-10 12:27:37",
+      "productCode": "KH066173",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250509/large_sell_qypdwi5auag6kr67.jpg",
+      "ocrConfidence": 52,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,章,2006年,8克,年克,克第,第套,套人,人民,民币,币贰,贰圆,圆微,微缩,缩金,金章"
+    }
+  ]
+}

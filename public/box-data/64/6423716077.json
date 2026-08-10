@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6423716077",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6423716077",
+      "displayBoxCode": "6423716-077",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1999年5角(精制)",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/478071.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6423716-077/",
+      "price": 300,
+      "priceWithFee": null,
+      "transactedAt": "2025-08-30 18:53:47",
+      "productCode": "KH076454",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250518/large_sell_idkzjderjlexgekp.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "1999年,年角,角精,精制,评级"
+    }
+  ]
+}

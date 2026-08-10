@@ -1,0 +1,31 @@
+{
+  "coinName": "民国二十九年中国农民银行拾圆",
+  "slug": "7db002d2",
+  "saleCount": 1,
+  "keywords": "银,历史币,民国,国二,二十,十九,九年,年中,中国,国农,农民,民银,银行,行拾,拾圆",
+  "priceStats": {
+    "low": 300,
+    "high": 300,
+    "avg": 300,
+    "latest": 300
+  },
+  "records": [
+    {
+      "coinName": "民国二十九年中国农民银行拾圆",
+      "normalizedBoxCode": "7015122001",
+      "displayBoxCode": "7015122-001",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10373868.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/7015122-001/",
+      "price": 300,
+      "priceWithFee": 333,
+      "transactedAt": "2026-07-16 21:28:40",
+      "productCode": "871682016",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国二,二十,十九,九年,年中,中国,国农,农民,民银,银行,行拾,拾圆"
+    }
+  ]
+}

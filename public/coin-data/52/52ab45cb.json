@@ -1,0 +1,31 @@
+{
+  "coinName": "2008年15克银币",
+  "slug": "52ab45cb",
+  "saleCount": 1,
+  "keywords": "银,币,2008年,15克,年法,法国,国伟,伟大,大画,画家,家系,系列,列爱,爱德,德华,华马,马奈,奈克,克方,方形,形银,银币,外国/特区",
+  "priceStats": {
+    "low": 710,
+    "high": 710,
+    "avg": 710,
+    "latest": 710
+  },
+  "records": [
+    {
+      "coinName": "2008年法国伟大画家系列爱德华·马奈15克方形银币",
+      "normalizedBoxCode": "8504498013",
+      "displayBoxCode": "8504498-013",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianbi/10385582.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8504498-013/69/",
+      "price": 710,
+      "priceWithFee": 788.1,
+      "transactedAt": "2026-07-10 20:10:55",
+      "productCode": "873385018",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2008年,15克,年法,法国,国伟,伟大,大画,画家,家系,系列,列爱,爱德,德华,华马,马奈,奈克,克方,方形,形银,银币,外国/特区"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4421721016",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4421721016",
+      "displayBoxCode": "4421721-016",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1997年丁丑牛年生肖1盎司精制金币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-jin/10397595.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4421721-016/69/",
+      "price": 59000,
+      "priceWithFee": 61065,
+      "transactedAt": "2026-07-16 20:45:05",
+      "productCode": "874813001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/874813001A.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1997年,1盎司,生肖,年丁,丁丑,丑牛,牛年,年生,肖盎,盎司,司精,精制,制金,金币,评级"
+    }
+  ]
+}

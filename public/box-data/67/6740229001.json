@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6740229001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6740229001",
+      "displayBoxCode": "6740229-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2013年1公斤普陀山银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/548472.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6740229-001/70/",
+      "price": 36800,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-30 09:59:10",
+      "productCode": "KH115933",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260129/large_sell_jccuoucvyq8fevfi.jpg",
+      "ocrConfidence": 38,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2013年,1公斤,年公,公斤,斤普,普陀,陀山,山银,银币"
+    }
+  ]
+}

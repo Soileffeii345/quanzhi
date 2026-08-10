@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2030747105",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2030747105",
+      "displayBoxCode": "2030747-105",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1982年香港渣打银行伍拾圆",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xianggangzhichao/10368259.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2030747-105/",
+      "price": 1120,
+      "priceWithFee": 1243.2,
+      "transactedAt": "2026-06-27 22:14:40",
+      "productCode": "871302004",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/26/871302004B.jpg",
+      "ocrConfidence": 29,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,1982年,年香,香港,港渣,渣打,打银,银行,行伍,伍拾,拾圆,外国/特区"
+    }
+  ]
+}

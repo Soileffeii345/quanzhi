@@ -1,0 +1,31 @@
+{
+  "coinName": "第一版人民币轮船100元票样",
+  "slug": "2c84fb9f",
+  "saleCount": 1,
+  "keywords": "币,钞,第一,一版,版人,人民,民币,币轮,轮船,船元,元位,位数,数票,票样",
+  "priceStats": {
+    "low": 3550,
+    "high": 3550,
+    "avg": 3550,
+    "latest": 3550
+  },
+  "records": [
+    {
+      "coinName": "第一版人民币轮船100元（6位数）票样",
+      "normalizedBoxCode": "1941351012",
+      "displayBoxCode": "1941351-012",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/diyibanrenminbi/10355771.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1941351-012/",
+      "price": 3550,
+      "priceWithFee": 3905,
+      "transactedAt": "2026-06-25 20:39:10",
+      "productCode": "869562004",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,钞,第一,一版,版人,人民,民币,币轮,轮船,船元,元位,位数,数票,票样"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8752001009",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8752001009",
+      "displayBoxCode": "8752001-009",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2025年国家宝藏（统一气象）-铜车马15克精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10372637.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8752001-009/",
+      "price": 2100,
+      "priceWithFee": 2173.5,
+      "transactedAt": "2026-07-04 20:45:35",
+      "productCode": "870574006",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/26/870574006A.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,铜,币,2025年,15克,年国,国家,家宝,宝藏,藏统,统一,一气,气象,象铜,铜车,车马,马克,克精,精制,制银,银币,评级"
+    }
+  ]
+}

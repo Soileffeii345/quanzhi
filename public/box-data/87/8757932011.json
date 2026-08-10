@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8757932011",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8757932011",
+      "displayBoxCode": "8757932-011",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1994年麒麟1/4盎司金+1/8盎司银精制双金属币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-shuangjinshu/10350871.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8757932-011/69/",
+      "price": 21500,
+      "priceWithFee": 22252.5,
+      "transactedAt": "2026-06-18 21:59:40",
+      "productCode": "869588009",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/869588009A.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,1994年,4盎司,年麒,麒麟,麟盎,盎司,司金,金盎,司银,银精,精制,制双,双金,金属,属币,评级"
+    }
+  ]
+}

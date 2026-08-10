@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4414317003",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4414317003",
+      "displayBoxCode": "4414317-003",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1996年1/2盎司香港回归第2组金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/468288.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4414317-003/69/",
+      "price": 17595,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-23 13:03:39",
+      "productCode": "KH111611",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250614/large_sell_cofngnv1ilp02pwn.jpg",
+      "ocrConfidence": 51,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1996年,2盎司,年盎,盎司,司香,香港,港回,回归,归第,第组,组金,金币,外国/特区"
+    }
+  ]
+}

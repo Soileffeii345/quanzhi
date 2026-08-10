@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8823340018",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8823340018",
+      "displayBoxCode": "8823340-018",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "coinName": "2001年熊猫1盎司普制银币（大D版）",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-jiuyin/10410790.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8823340-018/69/",
+      "price": 650,
+      "priceWithFee": 672.75,
+      "transactedAt": "2026-07-20 20:51:10",
+      "productCode": "876356016",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/876356016A.jpg",
+      "ocrConfidence": 37,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2001年,1盎司,熊猫,年熊,猫盎,盎司,司普,普制,制银,银币,币大,大版"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "coinName": "1981年精制",
+  "slug": "4a4db720",
+  "saleCount": 1,
+  "keywords": "币,1981年,年中,中国,国精,精制,制硬,硬币,币壹,壹分,评级",
+  "priceStats": {
+    "low": 2600,
+    "high": 2600,
+    "avg": 2600,
+    "latest": 2600
+  },
+  "records": [
+    {
+      "coinName": "1981年中国精制硬币壹分",
+      "normalizedBoxCode": "8544521052",
+      "displayBoxCode": "8544521-052",
+      "gradingCompany": "NGC",
+      "grade": "PF 69",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10358589.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8544521-052/69/",
+      "price": 2600,
+      "priceWithFee": 2808,
+      "transactedAt": "2026-07-01 21:24:05",
+      "productCode": "869945007",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1981年,年中,中国,国精,精制,制硬,硬币,币壹,壹分,评级"
+    }
+  ]
+}

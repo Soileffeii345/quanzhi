@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8757888120",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8757888120",
+      "displayBoxCode": "8757888-120",
+      "gradingCompany": "NGC",
+      "grade": "PF 68 ULTRA CAMEO",
+      "coinName": "1984年中国杰出历史人物第（1）组-将军俑22克精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10408990.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8757888-120/68/",
+      "price": 470,
+      "priceWithFee": 486.45,
+      "transactedAt": "2026-07-20 20:12:10",
+      "productCode": "876012008",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/876012008A.jpg",
+      "ocrConfidence": 38,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1984年,22克,年中,中国,国杰,杰出,出历,历史,史人,人物,物第,第组,组将,将军,军俑,俑克,克精,精制,制银,银币,评级"
+    }
+  ]
+}

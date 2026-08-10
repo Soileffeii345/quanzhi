@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "5882627112",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "5882627112",
+      "displayBoxCode": "5882627-112",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2011年1/4盎司第26届大学生夏运会彩金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/472891.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/5882627-112/70/",
+      "price": 6090,
+      "priceWithFee": null,
+      "transactedAt": "2025-04-12 17:01:56",
+      "productCode": "KH064229",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250412/large_sell_by4qnkks6my9zayn.jpg",
+      "ocrConfidence": 52,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2011年,4盎司,年盎,盎司,司第,第届,届大,大学,学生,生夏,夏运,运会,会彩,彩金,金币"
+    }
+  ]
+}

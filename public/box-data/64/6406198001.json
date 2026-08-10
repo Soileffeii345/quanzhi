@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6406198001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6406198001",
+      "displayBoxCode": "6406198-001",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2005年1/3盎司中国电影诞生100周年金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/474822.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6406198-001/",
+      "price": 8410,
+      "priceWithFee": null,
+      "transactedAt": "2025-06-16 10:50:50",
+      "productCode": "AA559920",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250423/large_sell_fq3vtlmhrc5wjhtt.jpg",
+      "ocrConfidence": 40,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2005年,3盎司,年盎,盎司,司中,中国,国电,电影,影诞,诞生,生周,周年,年金,金币"
+    }
+  ]
+}

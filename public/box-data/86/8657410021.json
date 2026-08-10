@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8657410021",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8657410021",
+      "displayBoxCode": "8657410-021",
+      "gradingCompany": "NGC",
+      "grade": "MS 66",
+      "coinName": "1972年多米尼加26.7克银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/wgjsbizhang/10417000.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8657410-021/66/",
+      "price": 360,
+      "priceWithFee": 381.6,
+      "transactedAt": "2026-07-24 20:49:15",
+      "productCode": "877048008",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/877048008A.jpg",
+      "ocrConfidence": 32,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1972年,26.7克,年多,多米,米尼,尼加,加克,克银,银币"
+    }
+  ]
+}

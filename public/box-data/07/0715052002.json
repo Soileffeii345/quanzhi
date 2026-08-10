@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "0715052002",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "0715052002",
+      "displayBoxCode": "0715052-002",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2024年8克极地科学考察40周年金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/587043.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/0715052-002/",
+      "price": 8200,
+      "priceWithFee": null,
+      "transactedAt": "2026-06-16 10:55:21",
+      "productCode": "AA654511",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260604/large_sell_gjuez7zu31acdvvv.jpg",
+      "ocrConfidence": 39,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2024年,8克,年克,克极,极地,地科,科学,学考,考察,察周,周年,年金,金币"
+    }
+  ]
+}

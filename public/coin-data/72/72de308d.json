@@ -1,0 +1,31 @@
+{
+  "coinName": "民国十六年交通银行山东地名壹圆正反票样",
+  "slug": "72de308d",
+  "saleCount": 1,
+  "keywords": "银,钞,历史币,民国,国十,十六,六年,年交,交通,通银,银行,行山,山东,东地,地名,名壹,壹圆,圆正,正反,反票,票样,样各,各一,一枚",
+  "priceStats": {
+    "low": 7500,
+    "high": 7500,
+    "avg": 7500,
+    "latest": 7500
+  },
+  "records": [
+    {
+      "coinName": "民国十六年交通银行山东地名壹圆正反票样各一枚",
+      "normalizedBoxCode": "2277684004",
+      "displayBoxCode": "2277684-004",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10377362.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2277684-004/",
+      "price": 7500,
+      "priceWithFee": 8325,
+      "transactedAt": "2026-07-23 20:00:40",
+      "productCode": "872356004",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,钞,历史币,民国,国十,十六,六年,年交,交通,通银,银行,行山,山东,东地,地名,名壹,壹圆,圆正,正反,反票,票样,样各,各一,一枚"
+    }
+  ]
+}

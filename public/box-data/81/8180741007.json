@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8180741007",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8180741007",
+      "displayBoxCode": "8180741-007",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1991年27克第1届世界女子足球锦标赛银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/568878.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8180741-007/69/",
+      "price": 3500,
+      "priceWithFee": null,
+      "transactedAt": "2026-04-30 09:10:29",
+      "productCode": "KH132187",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260331/large_sell_i9u1blcvrrjmoo2z.jpg",
+      "ocrConfidence": 44,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1991年,27克,年克,克第,第届,届世,世界,界女,女子,子足,足球,球锦,锦标,标赛,赛银,银币"
+    }
+  ]
+}

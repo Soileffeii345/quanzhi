@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8659401003",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8659401003",
+      "displayBoxCode": "8659401-003",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1993年中国古代科技发明发现第（2）组-太极图1盎司精制金币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10379349.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8659401-003/69/",
+      "price": 100000,
+      "priceWithFee": 103500,
+      "transactedAt": "2026-07-02 20:50:50",
+      "productCode": "872407001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/27/872407001A.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1993年,1盎司,年中,中国,国古,古代,代科,科技,技发,发明,明发,发现,现第,第组,组太,太极,极图,图盎,盎司,司精,精制,制金,金币,评级"
+    }
+  ]
+}

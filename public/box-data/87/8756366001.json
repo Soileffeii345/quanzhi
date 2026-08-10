@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8756366001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8756366001",
+      "displayBoxCode": "8756366-001",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "coinName": "1998年1盎司妈祖银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/562475.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8756366-001/69/",
+      "price": 1350,
+      "priceWithFee": null,
+      "transactedAt": "2026-03-22 23:18:09",
+      "productCode": "KH124663",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260314/large_sell_qti1ocdjj2fmsxvv.jpg",
+      "ocrConfidence": 30,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1998年,1盎司,年盎,盎司,司妈,妈祖,祖银,银币"
+    }
+  ]
+}

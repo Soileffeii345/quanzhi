@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6199489109",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6199489109",
+      "displayBoxCode": "6199489-109",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "中华苏维埃共和国五分铜币（后铸版）",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguojindaijizhibi/10365837.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6199489-109/",
+      "price": 55,
+      "priceWithFee": 59.4,
+      "transactedAt": "2026-07-20 19:19:35",
+      "productCode": "870515007",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/26/870515007A.jpg",
+      "ocrConfidence": 37,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "铜,币,历史币,苏区,中华,华苏,苏维,维埃,埃共,共和,和国,国五,五分,分铜,铜币,币后,后铸,铸版"
+    }
+  ]
+}

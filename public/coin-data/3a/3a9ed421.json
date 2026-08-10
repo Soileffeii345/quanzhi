@@ -1,0 +1,31 @@
+{
+  "coinName": "2004年生肖15.552克金币",
+  "slug": "3a9ed421",
+  "saleCount": 1,
+  "keywords": "金,币,2004年,2盎司,生肖,年盎,盎司,司扇,扇形,形生,肖猴,猴金,金币",
+  "priceStats": {
+    "low": 15460,
+    "high": 15460,
+    "avg": 15460,
+    "latest": 15460
+  },
+  "records": [
+    {
+      "coinName": "2004年1/2盎司扇形生肖猴金币",
+      "normalizedBoxCode": "3305843008",
+      "displayBoxCode": "3305843-008",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/506990.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3305843-008/",
+      "price": 15460,
+      "priceWithFee": null,
+      "transactedAt": "2025-10-20 22:22:30",
+      "productCode": "AA591372",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2004年,2盎司,生肖,年盎,盎司,司扇,扇形,形生,肖猴,猴金,金币"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "coinName": "2000年生肖普制金银币",
+  "slug": "33bd31a4",
+  "saleCount": 1,
+  "keywords": "金,银,币,2000年,10盎司,生肖,年庚,庚辰,辰龙,龙年,年生,肖普,普制,制金,金银,银币,币二,二枚,枚一,一套,套含,含盎,盎司,司金,金盎,司银",
+  "priceStats": {
+    "low": 4750,
+    "high": 4750,
+    "avg": 4750,
+    "latest": 4750
+  },
+  "records": [
+    {
+      "coinName": "2000年庚辰龙年生肖普制金银币二枚一套（含1/10盎司金、1盎司银）",
+      "normalizedBoxCode": "8647118003",
+      "displayBoxCode": "8647118-003",
+      "gradingCompany": "NGC",
+      "grade": "MS 67",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-jin/10408887.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8647118-003/67/",
+      "price": 4750,
+      "priceWithFee": 4916.25,
+      "transactedAt": "2026-07-23 20:57:35",
+      "productCode": "876125001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,2000年,10盎司,生肖,年庚,庚辰,辰龙,龙年,年生,肖普,普制,制金,金银,银币,币二,二枚,枚一,一套,套含,含盎,盎司,司金,金盎,司银"
+    }
+  ]
+}

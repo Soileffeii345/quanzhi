@@ -1,0 +1,31 @@
+{
+  "coinName": "湖北生造光绪元宝库平七钱二分银元",
+  "slug": "0f697397",
+  "saleCount": 1,
+  "keywords": "银,历史币,龙洋,龙,元宝,湖北,鄂造,北生,生造,造光,光绪,绪元,宝库,库平,平七,七钱,钱二,二分,分银,银元",
+  "priceStats": {
+    "low": 1440,
+    "high": 1440,
+    "avg": 1440,
+    "latest": 1440
+  },
+  "records": [
+    {
+      "coinName": "湖北生造光绪元宝库平七钱二分银元",
+      "normalizedBoxCode": "6395625003",
+      "displayBoxCode": "6395625-003",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguojindaijizhibi/10353221.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6395625-003/",
+      "price": 1440,
+      "priceWithFee": 1555.2,
+      "transactedAt": "2026-07-13 20:31:25",
+      "productCode": "869159006",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,龙洋,龙,元宝,湖北,鄂造,北生,生造,造光,光绪,绪元,宝库,库平,平七,七钱,钱二,二分,分银,银元"
+    }
+  ]
+}

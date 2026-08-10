@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8768111004",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8768111004",
+      "displayBoxCode": "8768111-004",
+      "gradingCompany": "NGC",
+      "grade": "PF68 ULTRA CAMEO",
+      "coinName": "1983年癸亥猪年生肖15克精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10350321.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8768111-004/68/",
+      "price": 4400,
+      "priceWithFee": 4554,
+      "transactedAt": "2026-06-18 20:03:40",
+      "productCode": "869323001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/869323001A.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1983年,15克,生肖,年癸,癸亥,亥猪,猪年,年生,肖克,克精,精制,制银,银币,评级"
+    }
+  ]
+}

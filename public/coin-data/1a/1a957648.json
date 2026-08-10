@@ -1,0 +1,65 @@
+{
+  "coinName": "1974年中国硬币伍分",
+  "slug": "1a957648",
+  "saleCount": 3,
+  "keywords": "币,1974年,年中,中国,国硬,硬币,币伍,伍分",
+  "priceStats": {
+    "low": 80,
+    "high": 210,
+    "avg": 133,
+    "latest": 210
+  },
+  "records": [
+    {
+      "coinName": "1974年中国硬币伍分",
+      "normalizedBoxCode": "6760997064",
+      "displayBoxCode": "6760997-064",
+      "gradingCompany": "NGC",
+      "grade": "Ms69",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10373844.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6760997-064/69/",
+      "price": 210,
+      "priceWithFee": 226.8,
+      "transactedAt": "2026-07-01 21:07:35",
+      "productCode": "871771013",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1974年,年中,中国,国硬,硬币,币伍,伍分"
+    },
+    {
+      "coinName": "1974年中国硬币伍分",
+      "normalizedBoxCode": "8194692019",
+      "displayBoxCode": "8194692-019",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10370577.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8194692-019/",
+      "price": 80,
+      "priceWithFee": 86.4,
+      "transactedAt": "2026-07-01 21:14:05",
+      "productCode": "871498005",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1974年,年中,中国,国硬,硬币,币伍,伍分"
+    },
+    {
+      "coinName": "1974年中国硬币伍分",
+      "normalizedBoxCode": "8609956029",
+      "displayBoxCode": "8609956-029",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10415747.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8609956-029/",
+      "price": 110,
+      "priceWithFee": 118.8,
+      "transactedAt": "2026-07-22 21:09:15",
+      "productCode": "876760007",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1974年,年中,中国,国硬,硬币,币伍,伍分"
+    }
+  ]
+}

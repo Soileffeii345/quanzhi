@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "5806779006",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "5806779006",
+      "displayBoxCode": "5806779-006",
+      "gradingCompany": "NGC",
+      "grade": "PF69 ULTRA CAMEO",
+      "coinName": "1993年毛泽东诞辰100周年1/2盎司精制金币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10379362.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/5806779-006/69/",
+      "price": 50000,
+      "priceWithFee": 51750,
+      "transactedAt": "2026-07-02 20:55:30",
+      "productCode": "872407014",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/27/872407014A.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1993年,2盎司,年毛,毛泽,泽东,东诞,诞辰,辰周,周年,年盎,盎司,司精,精制,制金,金币,评级"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8572451001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8572451001",
+      "displayBoxCode": "8572451-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2025年150克抗战胜利80周年银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/593969.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8572451-001/70/",
+      "price": 6300,
+      "priceWithFee": null,
+      "transactedAt": "2026-08-08 06:19:56",
+      "productCode": "KH143831",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260629/large_sell_kuzrjtui1we44d0i.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2025年,150克,重大事件,年克,克抗,抗战,战胜,胜利,利周,周年,年银,银币"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "coinName": "2008年16克金币",
+  "slug": "52ab6a67",
+  "saleCount": 1,
+  "keywords": "金,币,2008年,16克,年奥,奥地,地利,利哈,哈布,布斯,斯堡,堡王,王冠,冠系,系列,列奥,奥托,托一,一世,世克,克金,金币",
+  "priceStats": {
+    "low": 17000,
+    "high": 17000,
+    "avg": 17000,
+    "latest": 17000
+  },
+  "records": [
+    {
+      "coinName": "2008年奥地利哈布斯堡王冠系列奥托一世16克金币",
+      "normalizedBoxCode": "8614986006",
+      "displayBoxCode": "8614986-006",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/wgjsbizhang/10415191.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8614986-006/",
+      "price": 17000,
+      "priceWithFee": 18020,
+      "transactedAt": "2026-07-24 21:19:15",
+      "productCode": "876743019",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2008年,16克,年奥,奥地,地利,利哈,哈布,布斯,斯堡,堡王,王冠,冠系,系列,列奥,奥托,托一,一世,世克,克金,金币"
+    }
+  ]
+}

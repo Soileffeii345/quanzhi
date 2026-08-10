@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6736689050",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6736689050",
+      "displayBoxCode": "6736689-050",
+      "gradingCompany": "NGC",
+      "grade": "PF70",
+      "coinName": "2004年人民代表大会成立50周年幻彩金银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/510530.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6736689-050/70/",
+      "price": 24000,
+      "priceWithFee": null,
+      "transactedAt": "2025-11-08 12:11:53",
+      "productCode": "KH090354",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251104/large_sell_nkrnuoqtliiaz4c6.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,2004年,年人,人民,民代,代表,表大,大会,会成,成立,立周,周年,年幻,幻彩,彩金,金银,银币"
+    }
+  ]
+}

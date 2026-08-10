@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8825206026",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8825206026",
+      "displayBoxCode": "8825206-026",
+      "gradingCompany": "NGC",
+      "grade": "PF69 ULTRA CAMEO",
+      "coinName": "1997年中国人民解放军建军70周年1盎司精制银币二枚一套",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10386383.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8825206-026/69/",
+      "price": 1380,
+      "priceWithFee": 1428.3,
+      "transactedAt": "2026-07-09 20:04:45",
+      "productCode": "873153005",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/27/873153005A.jpg",
+      "ocrConfidence": 37,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1997年,1盎司,年中,中国,国人,人民,民解,解放,放军,军建,建军,军周,周年,年盎,盎司,司精,精制,制银,银币,币二,二枚,枚一,一套,评级"
+    }
+  ]
+}

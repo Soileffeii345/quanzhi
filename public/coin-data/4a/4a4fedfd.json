@@ -1,0 +1,48 @@
+{
+  "coinName": "1980年金币",
+  "slug": "4a4fedfd",
+  "saleCount": 2,
+  "keywords": "金,币,1980年,年中,中国,国奥,奥委,委会,会古,古代,代射,射艺,艺金,金币",
+  "priceStats": {
+    "low": 10250,
+    "high": 18800,
+    "avg": 14525,
+    "latest": 18800
+  },
+  "records": [
+    {
+      "coinName": "1980年中国奥委会古代射艺金币(UC)",
+      "normalizedBoxCode": "3756925001",
+      "displayBoxCode": "3756925-001",
+      "gradingCompany": "NGC",
+      "grade": "PF70 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/416709.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3756925-001/70/",
+      "price": 18800,
+      "priceWithFee": null,
+      "transactedAt": "2024-02-05 08:12:58",
+      "productCode": "AA462992",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1980年,年中,中国,国奥,奥委,委会,会古,古代,代射,射艺,艺金,金币"
+    },
+    {
+      "coinName": "1980年中国奥委会古代射艺金币(UC)",
+      "normalizedBoxCode": "6735595007",
+      "displayBoxCode": "6735595-007",
+      "gradingCompany": "NGC",
+      "grade": "Pr68 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/528788.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6735595-007/68/",
+      "price": 10250,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-13 16:18:34",
+      "productCode": "AA608879",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1980年,年中,中国,国奥,奥委,委会,会古,古代,代射,射艺,艺金,金币"
+    }
+  ]
+}

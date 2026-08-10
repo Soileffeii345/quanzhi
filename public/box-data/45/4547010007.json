@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4547010007",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4547010007",
+      "displayBoxCode": "4547010-007",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1986年韩国1/2盎司汉城奥运会民族舞蹈精制金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/475433.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4547010-007/69/",
+      "price": 12410,
+      "priceWithFee": null,
+      "transactedAt": "2025-04-27 11:48:49",
+      "productCode": "AA560522",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250426/large_sell_xmudcujorjhvpw0i.jpg",
+      "ocrConfidence": 40,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1986年,2盎司,奥运,年韩,韩国,国盎,盎司,司汉,汉城,城奥,运会,会民,民族,族舞,舞蹈,蹈精,精制,制金,金币,评级"
+    }
+  ]
+}

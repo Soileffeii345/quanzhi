@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4312956159",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4312956159",
+      "displayBoxCode": "4312956-159",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "coinName": "2015年1盎司熊猫银币 X8",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/505359.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4312956-159/69/",
+      "price": 2950,
+      "priceWithFee": null,
+      "transactedAt": "2025-10-13 20:10:34",
+      "productCode": "KH086990.....86997",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251013/large_sell_bcvhti5axrkypjl9.jpg",
+      "ocrConfidence": 39,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2015年,1盎司,熊猫,年盎,盎司,司熊,猫银,银币"
+    }
+  ]
+}

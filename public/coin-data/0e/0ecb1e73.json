@@ -1,0 +1,31 @@
+{
+  "coinName": "1993年熊猫31.104克银币",
+  "slug": "0ecb1e73",
+  "saleCount": 1,
+  "keywords": "银,币,章,1993年,1盎司,熊猫,年德,德国,国慕,慕尼,尼黑,黑国,国际,际钱,钱币,币展,展销,销会,会大,大熊,猫盎,盎司,司银,银章,外国/特区",
+  "priceStats": {
+    "low": 1080,
+    "high": 1080,
+    "avg": 1080,
+    "latest": 1080
+  },
+  "records": [
+    {
+      "coinName": "1993年德国慕尼黑国际钱币展销会-大熊猫1盎司银章",
+      "normalizedBoxCode": "6051289020",
+      "displayBoxCode": "6051289-020",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10397403.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6051289-020/",
+      "price": 1080,
+      "priceWithFee": 1117.8,
+      "transactedAt": "2026-07-13 21:54:45",
+      "productCode": "874839002",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,章,1993年,1盎司,熊猫,年德,德国,国慕,慕尼,尼黑,黑国,国际,际钱,钱币,币展,展销,销会,会大,大熊,猫盎,盎司,司银,银章,外国/特区"
+    }
+  ]
+}

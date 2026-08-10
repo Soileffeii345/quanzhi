@@ -1,0 +1,45 @@
+{
+  "ok": true,
+  "query": "6173598084",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6173598084",
+      "displayBoxCode": "6173598-084",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2003年1盎司生肖羊彩银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/553747.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6173598-084/",
+      "price": 1200,
+      "priceWithFee": null,
+      "transactedAt": "2026-02-13 15:18:38",
+      "productCode": "AA618856A",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260204/large_sell_d1hffx52x1svphib.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2003年,1盎司,生肖,年盎,盎司,司生,肖羊,羊彩,彩银,银币"
+    },
+    {
+      "normalizedBoxCode": "6173598084",
+      "displayBoxCode": "6173598-084",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2003年1盎司生肖羊彩银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/552057.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6173598-084/",
+      "price": 1000,
+      "priceWithFee": null,
+      "transactedAt": "2026-02-07 18:38:44",
+      "productCode": "AA618856",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260204/large_sell_d1hffx52x1svphib.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2003年,1盎司,生肖,年盎,盎司,司生,肖羊,羊彩,彩银,银币"
+    }
+  ]
+}

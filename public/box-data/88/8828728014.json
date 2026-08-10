@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8828728014",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8828728014",
+      "displayBoxCode": "8828728-014",
+      "gradingCompany": "NGC",
+      "grade": "MS 70",
+      "coinName": "2026年武夷山国家公园流通纪念币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10390905.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8828728-014/70/",
+      "price": 1940,
+      "priceWithFee": 2095.2,
+      "transactedAt": "2026-07-08 19:58:45",
+      "productCode": "873586006",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/27/873586006A.jpg",
+      "ocrConfidence": 44,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2026年,名山,年武,武夷,夷山,山国,国家,家公,公园,园流,流通,通纪,纪念,念币"
+    }
+  ]
+}

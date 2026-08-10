@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8500177002",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8500177002",
+      "displayBoxCode": "8500177-002",
+      "gradingCompany": "NGC",
+      "grade": "PF 68 ULTRA CAMEO",
+      "coinName": "2002年中国石窟艺术-龙门石窟-天王图5盎司精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10356885.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8500177-002/68/",
+      "price": 4750,
+      "priceWithFee": 4916.25,
+      "transactedAt": "2026-06-25 19:54:05",
+      "productCode": "869828001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/869828001A.jpg",
+      "ocrConfidence": 50,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2002年,5盎司,年中,中国,国石,石窟,窟艺,艺术,术龙,龙门,门石,窟天,天王,王图,图盎,盎司,司精,精制,制银,银币,评级"
+    }
+  ]
+}

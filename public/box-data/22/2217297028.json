@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2217297028",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2217297028",
+      "displayBoxCode": "2217297-028",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "民国三十七年中央银行东北九省流通券壹萬圆",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10361815.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2217297-028/",
+      "price": 100,
+      "priceWithFee": 111,
+      "transactedAt": "2026-07-07 21:14:05",
+      "productCode": "870325025",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/870325025B.jpg",
+      "ocrConfidence": 29,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国三,三十,十七,七年,年中,中央,央银,银行,行东,东北,北九,九省,省流,流通,通券,券壹,壹萬,萬圆"
+    }
+  ]
+}

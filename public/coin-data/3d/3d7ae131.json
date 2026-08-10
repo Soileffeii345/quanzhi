@@ -1,0 +1,31 @@
+{
+  "coinName": "2014年1.5克金币",
+  "slug": "3d7ae131",
+  "saleCount": 1,
+  "keywords": "金,银,币,章,2014年,1.5克,年香,香港,港国,国际,际钱,钱币,币展,展销,销会,会克,克金,金盎,盎司,司银,银双,双金,金属,属章,外国/特区",
+  "priceStats": {
+    "low": 2450,
+    "high": 2450,
+    "avg": 2450,
+    "latest": 2450
+  },
+  "records": [
+    {
+      "coinName": "2014年香港国际钱币展销会1.5克金+1盎司银双金属章",
+      "normalizedBoxCode": "3877696019",
+      "displayBoxCode": "3877696-019",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-shuangjinshu/10423626.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3877696-019/69/",
+      "price": 2450,
+      "priceWithFee": 2535.75,
+      "transactedAt": "2026-07-27 22:19:10",
+      "productCode": "877648001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,章,2014年,1.5克,年香,香港,港国,国际,际钱,钱币,币展,展销,销会,会克,克金,金盎,盎司,司银,银双,双金,金属,属章,外国/特区"
+    }
+  ]
+}

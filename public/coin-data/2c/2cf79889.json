@@ -1,0 +1,31 @@
+{
+  "coinName": "2006年生肖2盎司普制银币",
+  "slug": "2cf79889",
+  "saleCount": 1,
+  "keywords": "银,币,2006年,2盎司,生肖,年丙,丙戌,戌狗,狗年,年生,肖盎,盎司,司普,普制,制银,银币",
+  "priceStats": {
+    "low": 540,
+    "high": 540,
+    "avg": 540,
+    "latest": 540
+  },
+  "records": [
+    {
+      "coinName": "2006年丙戌狗年生肖2盎司普制银币",
+      "normalizedBoxCode": "8619351023",
+      "displayBoxCode": "8619351-023",
+      "gradingCompany": "NGC",
+      "grade": "MS 66",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10398733.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8619351-023/66/",
+      "price": 540,
+      "priceWithFee": 558.9,
+      "transactedAt": "2026-07-13 21:19:20",
+      "productCode": "874849014",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2006年,2盎司,生肖,年丙,丙戌,戌狗,狗年,年生,肖盎,盎司,司普,普制,制银,银币"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "coinName": "1999年熊猫3.11克金币",
+  "slug": "1e8e474a",
+  "saleCount": 1,
+  "keywords": "金,币,1999年,10盎司,熊猫,年盎,盎司,司熊,猫金,金币,币上,上海,海版",
+  "priceStats": {
+    "low": 8200,
+    "high": 8200,
+    "avg": 8200,
+    "latest": 8200
+  },
+  "records": [
+    {
+      "coinName": "1999年1/10盎司熊猫金币(上海版)",
+      "normalizedBoxCode": "8190768066",
+      "displayBoxCode": "8190768-066",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/432660.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8190768-066/",
+      "price": 8200,
+      "priceWithFee": null,
+      "transactedAt": "2024-05-20 17:10:29",
+      "productCode": "AA478199A",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1999年,10盎司,熊猫,年盎,盎司,司熊,猫金,金币,币上,上海,海版"
+    }
+  ]
+}

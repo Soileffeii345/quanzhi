@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6760825005",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6760825005",
+      "displayBoxCode": "6760825-005",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1979年1/2盎司建国30周年毛主席纪念堂金币(CA/无标)",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/463677.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6760825-005/",
+      "price": 10660,
+      "priceWithFee": null,
+      "transactedAt": "2025-02-10 21:57:02",
+      "productCode": "KH058936",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250210/large_sell_w0ilasyvwxnzhvwy.jpg",
+      "ocrConfidence": 47,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1979年,2盎司,重大事件,年盎,盎司,司建,建国,国周,周年,年毛,毛主,主席,席纪,纪念,念堂,堂金,金币,币无,无标"
+    }
+  ]
+}

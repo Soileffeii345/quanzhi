@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "89386813",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "89386813",
+      "displayBoxCode": "89386813",
+      "gradingCompany": "PCGS",
+      "grade": "MS65",
+      "coinName": "1926年上海汽车代用币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguojindaijizhibi/10373635.shtml",
+      "officialCertUrl": "https://cn.pcgs.com/cert/89386813",
+      "price": 1280,
+      "priceWithFee": 1382.4,
+      "transactedAt": "2026-07-20 20:11:35",
+      "productCode": "871433054",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/26/871433054A.jpg",
+      "ocrConfidence": 32,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1926年,年上,上海,海汽,汽车,车代,代用,用币"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6742357004",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6742357004",
+      "displayBoxCode": "6742357-004",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2008年1公斤第29届奥运会吉祥物彩银章",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/537552.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6742357-004/69/",
+      "price": 26060,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-24 11:37:02",
+      "productCode": "KH112283",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260124/large_sell_5retmb22dlqnoznr.jpg",
+      "ocrConfidence": 46,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,章,2008年,1公斤,奥运,吉祥文化,年公,公斤,斤第,第届,届奥,运会,会吉,吉祥,祥物,物彩,彩银,银章"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6067688048",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6067688048",
+      "displayBoxCode": "6067688-048",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2003年香港渣打银行港币500元",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/liantichao-jinianchao/10396921.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6067688-048/",
+      "price": 850,
+      "priceWithFee": 918,
+      "transactedAt": "2026-07-18 20:06:50",
+      "productCode": "874272006",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/874272006B.jpg",
+      "ocrConfidence": 32,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2003年,年香,香港,港渣,渣打,打银,银行,行港,港币,币元,外国/特区"
+    }
+  ]
+}

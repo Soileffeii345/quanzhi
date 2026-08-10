@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8815425041",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8815425041",
+      "displayBoxCode": "8815425-041",
+      "gradingCompany": "NGC",
+      "grade": "PF69 ULTRA CAMEO",
+      "coinName": "1989年第14届世界杯足球赛-铲球27克精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10370590.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8815425-041/69/",
+      "price": 630,
+      "priceWithFee": 652.05,
+      "transactedAt": "2026-06-29 22:08:30",
+      "productCode": "871356005",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/26/871356005A.jpg",
+      "ocrConfidence": 31,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1989年,27克,年第,第届,届世,世界,界杯,杯足,足球,球赛,赛铲,铲球,球克,克精,精制,制银,银币,评级"
+    }
+  ]
+}

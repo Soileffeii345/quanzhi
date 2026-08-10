@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6415232009",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6415232009",
+      "displayBoxCode": "6415232-009",
+      "gradingCompany": "NGC",
+      "grade": "PF70",
+      "coinName": "2017年8克建军90周年金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/424740.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6415232-009/70/",
+      "price": 5000,
+      "priceWithFee": null,
+      "transactedAt": "2024-04-04 13:40:40",
+      "productCode": "KH053758",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20240403/large_sell_osnrhqwealjwx3ma.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2017年,8克,年克,克建,建军,军周,周年,年金,金币"
+    }
+  ]
+}

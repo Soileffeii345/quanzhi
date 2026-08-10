@@ -1,0 +1,31 @@
+{
+  "coinName": "1895年金铜币",
+  "slug": "4a0a843e",
+  "saleCount": 1,
+  "keywords": "金,铜,章,1895年,年比,比利,利时,时布,布鲁,鲁塞,塞尔,尔海,海事,事设,设施,施博,博览,览会,会镀,镀金,金铜,铜章,外国/特区",
+  "priceStats": {
+    "low": 340,
+    "high": 340,
+    "avg": 340,
+    "latest": 340
+  },
+  "records": [
+    {
+      "coinName": "1895年比利时布鲁塞尔海事设施博览会镀金铜章",
+      "normalizedBoxCode": "8619194006",
+      "displayBoxCode": "8619194-006",
+      "gradingCompany": "NGC",
+      "grade": "AU 58",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianbi/10424729.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8619194-006/58/",
+      "price": 340,
+      "priceWithFee": 377.4,
+      "transactedAt": "2026-07-24 20:25:05",
+      "productCode": "877433005",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,铜,章,1895年,年比,比利,利时,时布,布鲁,鲁塞,塞尔,尔海,海事,事设,设施,施博,博览,览会,会镀,镀金,金铜,铜章,外国/特区"
+    }
+  ]
+}

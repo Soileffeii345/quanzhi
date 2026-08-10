@@ -1,0 +1,65 @@
+{
+  "coinName": "新加坡纸钞",
+  "slug": "66ee2a6c",
+  "saleCount": 3,
+  "keywords": "钞,新加,加坡,坡纸,纸钞",
+  "priceStats": {
+    "low": 90,
+    "high": 170,
+    "avg": 118,
+    "latest": 170
+  },
+  "records": [
+    {
+      "coinName": "新加坡纸钞",
+      "normalizedBoxCode": "2400705028",
+      "displayBoxCode": "2400705-028",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10392440.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2400705-028/",
+      "price": 170,
+      "priceWithFee": 188.7,
+      "transactedAt": "2026-07-14 21:55:50",
+      "productCode": "873792022",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,新加,加坡,坡纸,纸钞"
+    },
+    {
+      "coinName": "新加坡纸钞",
+      "normalizedBoxCode": "2400723013",
+      "displayBoxCode": "2400723-013",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10371481.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2400723-013/",
+      "price": 95,
+      "priceWithFee": 105.45,
+      "transactedAt": "2026-07-07 22:07:05",
+      "productCode": "871453065",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,新加,加坡,坡纸,纸钞"
+    },
+    {
+      "coinName": "新加坡纸钞",
+      "normalizedBoxCode": "2400723015",
+      "displayBoxCode": "2400723-015",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10371480.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2400723-015/",
+      "price": 90,
+      "priceWithFee": 99.9,
+      "transactedAt": "2026-07-07 21:43:20",
+      "productCode": "871453064",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,新加,加坡,坡纸,纸钞"
+    }
+  ]
+}

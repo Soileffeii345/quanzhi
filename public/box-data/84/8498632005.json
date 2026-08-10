@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8498632005",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8498632005",
+      "displayBoxCode": "8498632-005",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2007年1盎司中国探月首发成功银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/506133.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8498632-005/",
+      "price": 380,
+      "priceWithFee": null,
+      "transactedAt": "2025-10-16 22:15:21",
+      "productCode": "AA590741",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251016/large_sell_hoiprshuwylkx1pa.jpg",
+      "ocrConfidence": 31,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2007年,1盎司,年盎,盎司,司中,中国,国探,探月,月首,首发,发成,成功,功银,银币"
+    }
+  ]
+}

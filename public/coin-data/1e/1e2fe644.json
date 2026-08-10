@@ -1,0 +1,31 @@
+{
+  "coinName": "2011年3盎司精制金币",
+  "slug": "1e2fe644",
+  "saleCount": 1,
+  "keywords": "金,币,2011年,3盎司,年中,中国,国古,古典,典文,文学,学名,名著,著水,水浒,浒传,传第,第组,组智,智多,多星,星吴,吴用,用盎,盎司,司精,精制,制彩,彩金,金币,评级",
+  "priceStats": {
+    "low": 9500,
+    "high": 9500,
+    "avg": 9500,
+    "latest": 9500
+  },
+  "records": [
+    {
+      "coinName": "2011年中国古典文学名著《水浒传》第（3）组-智多星吴用1/3盎司精制彩金币",
+      "normalizedBoxCode": "2080351006",
+      "displayBoxCode": "2080351-006",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10360167.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2080351-006/",
+      "price": 9500,
+      "priceWithFee": 9832.5,
+      "transactedAt": "2026-06-25 20:56:35",
+      "productCode": "870451020",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2011年,3盎司,年中,中国,国古,古典,典文,文学,学名,名著,著水,水浒,浒传,传第,第组,组智,智多,多星,星吴,吴用,用盎,盎司,司精,精制,制彩,彩金,金币,评级"
+    }
+  ]
+}

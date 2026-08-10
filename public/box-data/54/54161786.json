@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "54161786",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "54161786",
+      "displayBoxCode": "54161786",
+      "gradingCompany": "PCGS",
+      "grade": "MS61",
+      "coinName": "民国九年袁像壹圆银元（海南版）",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguojindaijizhibi/10386707.shtml",
+      "officialCertUrl": "https://cn.pcgs.com/cert/54161786",
+      "price": 3250,
+      "priceWithFee": 3510,
+      "transactedAt": "2026-07-27 20:16:05",
+      "productCode": "873376018",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/27/873376018A.jpg",
+      "ocrConfidence": 28,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,袁大头,大头,袁头,民国,国九,九年,年袁,袁像,像壹,壹圆,圆银,银元,元海,海南,南版"
+    }
+  ]
+}

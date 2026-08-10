@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8619351022",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8619351022",
+      "displayBoxCode": "8619351-022",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2006年丙戌狗年生肖1盎司普制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10376806.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8619351-022/",
+      "price": 580,
+      "priceWithFee": 600.3,
+      "transactedAt": "2026-07-06 19:58:50",
+      "productCode": "872121007",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/26/872121007A.jpg",
+      "ocrConfidence": 38,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2006年,1盎司,生肖,年丙,丙戌,戌狗,狗年,年生,肖盎,盎司,司普,普制,制银,银币"
+    }
+  ]
+}

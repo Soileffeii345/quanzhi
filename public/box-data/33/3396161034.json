@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "3396161034",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "3396161034",
+      "displayBoxCode": "3396161-034",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1997年1/4盎司北京故宫博物院御花园金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/502972.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3396161-034/69/",
+      "price": 8800,
+      "priceWithFee": null,
+      "transactedAt": "2025-10-03 09:56:19",
+      "productCode": "KH085122",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250927/large_sell_i26ksyf7jfqhzwjl.jpg",
+      "ocrConfidence": 51,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1997年,4盎司,年盎,盎司,司北,北京,京故,故宫,宫博,博物,物院,院御,御花,花园,园金,金币"
+    }
+  ]
+}

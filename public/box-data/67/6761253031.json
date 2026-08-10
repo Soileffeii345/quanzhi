@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6761253031",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6761253031",
+      "displayBoxCode": "6761253-031",
+      "gradingCompany": "NGC",
+      "grade": "PF70 ULTRA CAMEO",
+      "coinName": "2023年中华传统瑞兽麒麟金银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/453995.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6761253-031/70/",
+      "price": 2000,
+      "priceWithFee": null,
+      "transactedAt": "2025-02-21 00:12:51",
+      "productCode": "AA532571.72",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20241111/large_sell_udphdq1y3yv7dmbj.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,2023年,年中,中华,华传,传统,统瑞,瑞兽,兽麒,麒麟,麟金,金银,银币"
+    }
+  ]
+}

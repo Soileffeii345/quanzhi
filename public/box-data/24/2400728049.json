@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2400728049",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2400728049",
+      "displayBoxCode": "2400728-049",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2019年巴哈马纸钞",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10371441.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2400728-049/",
+      "price": 90,
+      "priceWithFee": 99.9,
+      "transactedAt": "2026-07-07 22:02:20",
+      "productCode": "871453025",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/26/871453025B.jpg",
+      "ocrConfidence": 30,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,2019年,年巴,巴哈,哈马,马纸,纸钞"
+    }
+  ]
+}

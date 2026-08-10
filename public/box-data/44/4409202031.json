@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4409202031",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4409202031",
+      "displayBoxCode": "4409202-031",
+      "gradingCompany": "NGC",
+      "grade": "MS 64",
+      "coinName": "2003年-2010年、2012年-2013年生肖流通纪念币各一枚，共十枚",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10395608.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4409202-031/64/",
+      "price": 370,
+      "priceWithFee": 399.6,
+      "transactedAt": "2026-07-15 19:06:45",
+      "productCode": "873836004",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/873836004A.jpg",
+      "ocrConfidence": 39,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2003年,生肖,年年,年生,肖流,流通,通纪,纪念,念币,币各,各一,一枚,枚共,共十,十枚"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "3364763014",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "3364763014",
+      "displayBoxCode": "3364763-014",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1995年1/3盎司第26届奥运会彩带操金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/474819.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3364763-014/69/",
+      "price": 8260,
+      "priceWithFee": null,
+      "transactedAt": "2025-06-17 11:19:17",
+      "productCode": "AA559917",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250423/large_sell_g1vnequmuoz0wjef.jpg",
+      "ocrConfidence": 37,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1995年,3盎司,奥运,年盎,盎司,司第,第届,届奥,运会,会彩,彩带,带操,操金,金币"
+    }
+  ]
+}

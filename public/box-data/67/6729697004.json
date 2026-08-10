@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6729697004",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6729697004",
+      "displayBoxCode": "6729697-004",
+      "gradingCompany": "NGC",
+      "grade": "PF 10",
+      "coinName": "2023年30克吉祥文化前程似锦银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/530253.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6729697-004/10/",
+      "price": 1700,
+      "priceWithFee": null,
+      "transactedAt": "2026-03-02 15:56:46",
+      "productCode": "KH121013",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260111/large_sell_ksskrnajisa65uor.jpg",
+      "ocrConfidence": 37,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2023年,30克,吉祥文化,年克,克吉,吉祥,祥文,文化,化前,前程,程似,似锦,锦银,银币"
+    }
+  ]
+}

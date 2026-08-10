@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8757933014",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8757933014",
+      "displayBoxCode": "8757933-014",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1996年熊猫1/10盎司金+1/28盎司银精制双金属币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-shuangjinshu/10350867.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8757933-014/69/",
+      "price": 4150,
+      "priceWithFee": 4295.25,
+      "transactedAt": "2026-06-18 21:51:10",
+      "productCode": "869588005",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/869588005A.jpg",
+      "ocrConfidence": 37,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,1996年,10盎司,熊猫,年熊,猫盎,盎司,司金,金盎,司银,银精,精制,制双,双金,金属,属币,评级"
+    }
+  ]
+}

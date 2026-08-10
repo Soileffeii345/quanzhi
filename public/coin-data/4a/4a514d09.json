@@ -1,0 +1,31 @@
+{
+  "coinName": "1989年生肖",
+  "slug": "4a514d09",
+  "saleCount": 1,
+  "keywords": "章,1989年,生肖,年蛇,蛇年,年生,肖纪,纪念,念章",
+  "priceStats": {
+    "low": 190,
+    "high": 190,
+    "avg": 190,
+    "latest": 190
+  },
+  "records": [
+    {
+      "coinName": "1989年蛇年生肖纪念章",
+      "normalizedBoxCode": "8574283022",
+      "displayBoxCode": "8574283-022",
+      "gradingCompany": "NGC",
+      "grade": "PF 68 CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/tongzhang/10402333.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8574283-022/68/",
+      "price": 190,
+      "priceWithFee": 210.9,
+      "transactedAt": "2026-07-17 19:28:30",
+      "productCode": "875161012",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "章,1989年,生肖,年蛇,蛇年,年生,肖纪,纪念,念章"
+    }
+  ]
+}

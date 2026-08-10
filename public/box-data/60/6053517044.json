@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6053517044",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6053517044",
+      "displayBoxCode": "6053517-044",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2015年乙未羊年生肖1盎司梅花形精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10350405.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6053517-044/69/",
+      "price": 830,
+      "priceWithFee": 859.05,
+      "transactedAt": "2026-06-22 19:48:10",
+      "productCode": "868926010",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/868926010A.jpg",
+      "ocrConfidence": 44,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2015年,1盎司,生肖,年乙,乙未,未羊,羊年,年生,肖盎,盎司,司梅,梅花,花形,形精,精制,制银,银币,评级"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8757280001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8757280001",
+      "displayBoxCode": "8757280-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2004年邓小平诞辰100周年1公斤精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10424296.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8757280-001/69/",
+      "price": 19200,
+      "priceWithFee": 19872,
+      "transactedAt": "2026-07-27 21:30:10",
+      "productCode": "877959004",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/877959004A.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2004年,1公斤,年邓,邓小,小平,平诞,诞辰,辰周,周年,年公,公斤,斤精,精制,制银,银币,评级"
+    }
+  ]
+}

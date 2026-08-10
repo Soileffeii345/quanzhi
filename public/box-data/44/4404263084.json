@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4404263084",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4404263084",
+      "displayBoxCode": "4404263-084",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2013年1/4盎司普陀山金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/473761.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4404263-084/",
+      "price": 6125,
+      "priceWithFee": null,
+      "transactedAt": "2025-04-18 00:00:21",
+      "productCode": "KH064681",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250417/large_sell_dpja2i8tflozapdi.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2013年,4盎司,年盎,盎司,司普,普陀,陀山,山金,金币"
+    }
+  ]
+}

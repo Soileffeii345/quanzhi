@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8656368005",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8656368005",
+      "displayBoxCode": "8656368-005",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1995年徐悲鸿诞辰100周年-雄狮8克精制金币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10379030.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8656368-005/",
+      "price": 20500,
+      "priceWithFee": 21217.5,
+      "transactedAt": "2026-07-02 20:40:10",
+      "productCode": "872402004",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/27/872402004A.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1995年,8克,年徐,徐悲,悲鸿,鸿诞,诞辰,辰周,周年,年雄,雄狮,狮克,克精,精制,制金,金币,评级"
+    }
+  ]
+}

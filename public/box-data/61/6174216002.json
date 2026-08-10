@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6174216002",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6174216002",
+      "displayBoxCode": "6174216-002",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2021年英国1盎司不列颠女神狮子银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/509126.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6174216-002/",
+      "price": 800,
+      "priceWithFee": null,
+      "transactedAt": "2025-11-03 10:03:57",
+      "productCode": "AA593280",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251029/large_sell_fppu3bomnebse0uv.jpg",
+      "ocrConfidence": 32,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2021年,1盎司,年英,英国,国盎,盎司,司不,不列,列颠,颠女,女神,神狮,狮子,子银,银币,外国/特区"
+    }
+  ]
+}

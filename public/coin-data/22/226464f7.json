@@ -1,0 +1,31 @@
+{
+  "coinName": "2007年生肖金币",
+  "slug": "226464f7",
+  "saleCount": 1,
+  "keywords": "金,币,2007年,生肖,年澳,澳大,大利,利亚,亚盎,盎生,肖猪,猪彩,彩金,金币,外国/特区",
+  "priceStats": {
+    "low": 1585,
+    "high": 1585,
+    "avg": 1585,
+    "latest": 1585
+  },
+  "records": [
+    {
+      "coinName": "2007年澳大利亚1/20盎生肖猪彩金币",
+      "normalizedBoxCode": "8183230009",
+      "displayBoxCode": "8183230-009",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/521076.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8183230-009/69/",
+      "price": 1585,
+      "priceWithFee": null,
+      "transactedAt": "2025-12-23 10:03:06",
+      "productCode": "KH097249",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2007年,生肖,年澳,澳大,大利,利亚,亚盎,盎生,肖猪,猪彩,彩金,金币,外国/特区"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "coinName": "1989年建国",
+  "slug": "4a4e48ab",
+  "saleCount": 1,
+  "keywords": "币,1989年,重大事件,年建,建国,国周,周年,年纪,纪念,念币",
+  "priceStats": {
+    "low": 200,
+    "high": 200,
+    "avg": 200,
+    "latest": 200
+  },
+  "records": [
+    {
+      "coinName": "1989年建国40周年纪念币",
+      "normalizedBoxCode": "6400301034",
+      "displayBoxCode": "6400301-034",
+      "gradingCompany": "NGC",
+      "grade": "MS 65",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/442411.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6400301-034/65/",
+      "price": 200,
+      "priceWithFee": null,
+      "transactedAt": "2024-07-24 20:56:55",
+      "productCode": "KH055648",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1989年,重大事件,年建,建国,国周,周年,年纪,纪念,念币"
+    }
+  ]
+}

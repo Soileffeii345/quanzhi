@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2033385055",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2033385055",
+      "displayBoxCode": "2033385-055",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2018年渣打银行港币100元",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/liantichao-jinianchao/10420627.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2033385-055/",
+      "price": 210,
+      "priceWithFee": 226.8,
+      "transactedAt": "2026-07-25 19:15:40",
+      "productCode": "877014012",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/877014012B.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2018年,年渣,渣打,打银,银行,行港,港币,币元"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2785290038",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2785290038",
+      "displayBoxCode": "2785290-038",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2010年1/4盎司农业银行上市金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/588933.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2785290-038/",
+      "price": 7600,
+      "priceWithFee": null,
+      "transactedAt": "2026-06-18 05:43:14",
+      "productCode": "AA656413",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260610/large_sell_c2c6jrhj4b98sbao.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,2010年,4盎司,年盎,盎司,司农,农业,业银,银行,行上,上市,市金,金币"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "coinName": "1996年丝绸之路22克银币",
+  "slug": "1685e567",
+  "saleCount": 2,
+  "keywords": "银,币,1996年,22克,年克,克丝,丝绸,绸之,之路,路第,第组,组载,载乐,乐图,图银,银币,组塑,塑像,像图",
+  "priceStats": {
+    "low": 3800,
+    "high": 3800,
+    "avg": 3800,
+    "latest": 3800
+  },
+  "records": [
+    {
+      "coinName": "1996年22克丝绸之路第2组载乐图银币",
+      "normalizedBoxCode": "6766797041",
+      "displayBoxCode": "6766797-041",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/413894.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6766797-041/",
+      "price": 3800,
+      "priceWithFee": null,
+      "transactedAt": "2024-01-23 22:54:01",
+      "productCode": "AA459906",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1996年,22克,年克,克丝,丝绸,绸之,之路,路第,第组,组载,载乐,乐图,图银,银币"
+    },
+    {
+      "coinName": "1996年22克丝绸之路第2组塑像图银币",
+      "normalizedBoxCode": "6766797042",
+      "displayBoxCode": "6766797-042",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/413901.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6766797-042/",
+      "price": 3800,
+      "priceWithFee": null,
+      "transactedAt": "2024-01-23 22:55:14",
+      "productCode": "AA459907",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1996年,22克,年克,克丝,丝绸,绸之,之路,路第,第组,组塑,塑像,像图,图银,银币"
+    }
+  ]
+}

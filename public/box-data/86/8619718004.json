@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8619718004",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8619718004",
+      "displayBoxCode": "8619718-004",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2024年熊猫30克精制铂金币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-nianjiyihou/10389491.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8619718-004/70/",
+      "price": 13800,
+      "priceWithFee": 14283,
+      "transactedAt": "2026-07-11 21:27:25",
+      "productCode": "873569001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/27/873569001A.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,贵金属,币,2024年,30克,熊猫,年熊,猫克,克精,精制,制铂,铂金,金币,评级"
+    }
+  ]
+}

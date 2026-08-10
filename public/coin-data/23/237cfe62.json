@@ -1,0 +1,65 @@
+{
+  "coinName": "1985年5盎司银币",
+  "slug": "237cfe62",
+  "saleCount": 3,
+  "keywords": "银,币,章,1985年,5盎司,年盎,盎司,司香,香港,港国,国际,际硬,硬币,币展,展银,银章,外国/特区,新疆版,年新,新疆,疆维,维吾,吾尔,尔自,自治,治区,区成,成立,立周,周年,年自,区大,大会,会堂,堂盎,司银",
+  "priceStats": {
+    "low": 8100,
+    "high": 14600,
+    "avg": 10400,
+    "latest": 14600
+  },
+  "records": [
+    {
+      "coinName": "1985年5盎司香港国际硬币展银章",
+      "normalizedBoxCode": "6749381002",
+      "displayBoxCode": "6749381-002",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/411221.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6749381-002/69/",
+      "price": 14600,
+      "priceWithFee": null,
+      "transactedAt": "2024-02-20 09:54:35",
+      "productCode": "AA456849",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,章,1985年,5盎司,年盎,盎司,司香,香港,港国,国际,际硬,硬币,币展,展银,银章,外国/特区"
+    },
+    {
+      "coinName": "1985年新疆维吾尔自治区成立30周年-自治区大会堂5盎司银章",
+      "normalizedBoxCode": "8757321001",
+      "displayBoxCode": "8757321-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10361123.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8757321-001/69/",
+      "price": 8500,
+      "priceWithFee": 8797.5,
+      "transactedAt": "2026-06-25 20:10:35",
+      "productCode": "870518013",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,章,1985年,5盎司,新疆版,年新,新疆,疆维,维吾,吾尔,尔自,自治,治区,区成,成立,立周,周年,年自,区大,大会,会堂,堂盎,盎司,司银,银章"
+    },
+    {
+      "coinName": "1985年新疆维吾尔自治区成立30周年-自治区大会堂5盎司银章",
+      "normalizedBoxCode": "8757942001",
+      "displayBoxCode": "8757942-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10387357.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8757942-001/69/",
+      "price": 8100,
+      "priceWithFee": 8383.5,
+      "transactedAt": "2026-07-09 20:26:05",
+      "productCode": "873643003",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,章,1985年,5盎司,新疆版,年新,新疆,疆维,维吾,吾尔,尔自,自治,治区,区成,成立,立周,周年,年自,区大,大会,会堂,堂盎,盎司,司银,银章"
+    }
+  ]
+}

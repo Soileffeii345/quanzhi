@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "1775428034",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "1775428034",
+      "displayBoxCode": "1775428-034",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "第四套/第四版人民币1980年版1元",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/disibanrenminbi/10384494.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1775428-034/",
+      "price": 240,
+      "priceWithFee": 259.2,
+      "transactedAt": "2026-07-21 19:33:20",
+      "productCode": "872035014",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/27/872035014B.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1980年,第四,四套,套第,四版,版人,人民,民币,币年,年版,版元"
+    }
+  ]
+}

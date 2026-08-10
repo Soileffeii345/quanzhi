@@ -1,0 +1,31 @@
+{
+  "coinName": "2013年黄山7.776克金币",
+  "slug": "1e972fc6",
+  "saleCount": 1,
+  "keywords": "金,币,2013年,4盎司,名山,年盎,盎司,司黄,黄山,山金,金币",
+  "priceStats": {
+    "low": 6520,
+    "high": 6520,
+    "avg": 6520,
+    "latest": 6520
+  },
+  "records": [
+    {
+      "coinName": "2013年1/4盎司黄山金币",
+      "normalizedBoxCode": "6415581004",
+      "displayBoxCode": "6415581-004",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/474605.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6415581-004/69/",
+      "price": 6520,
+      "priceWithFee": null,
+      "transactedAt": "2025-04-22 14:53:47",
+      "productCode": "KH065153",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2013年,4盎司,名山,年盎,盎司,司黄,黄山,山金,金币"
+    }
+  ]
+}

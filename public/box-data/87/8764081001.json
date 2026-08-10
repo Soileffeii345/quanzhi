@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8764081001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8764081001",
+      "displayBoxCode": "8764081-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2016年世界遗产-大足石刻1公斤精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10387355.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8764081-001/69/",
+      "price": 19200,
+      "priceWithFee": 19872,
+      "transactedAt": "2026-07-09 20:40:45",
+      "productCode": "873643001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/27/873643001A.jpg",
+      "ocrConfidence": 44,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2016年,1公斤,年世,世界,界遗,遗产,产大,大足,足石,石刻,刻公,公斤,斤精,精制,制银,银币,评级"
+    }
+  ]
+}

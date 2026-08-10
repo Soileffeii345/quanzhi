@@ -1,0 +1,31 @@
+{
+  "coinName": "1993年生肖15.552克精制金币",
+  "slug": "5820b6a5",
+  "saleCount": 1,
+  "keywords": "金,币,1993年,2盎司,生肖,年癸,癸酉,酉鸡,鸡年,年生,肖盎,盎司,司梅,梅花,花形,形精,精制,制金,金币,评级",
+  "priceStats": {
+    "low": 22500,
+    "high": 22500,
+    "avg": 22500,
+    "latest": 22500
+  },
+  "records": [
+    {
+      "coinName": "1993年癸酉鸡年生肖1/2盎司梅花形精制金币",
+      "normalizedBoxCode": "8755099008",
+      "displayBoxCode": "8755099-008",
+      "gradingCompany": "NGC",
+      "grade": "PF69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-jin/10350873.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8755099-008/69/",
+      "price": 22500,
+      "priceWithFee": 23287.5,
+      "transactedAt": "2026-06-18 21:38:10",
+      "productCode": "869588011",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1993年,2盎司,生肖,年癸,癸酉,酉鸡,鸡年,年生,肖盎,盎司,司梅,梅花,花形,形精,精制,制金,金币,评级"
+    }
+  ]
+}

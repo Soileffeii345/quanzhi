@@ -1,0 +1,31 @@
+{
+  "coinName": "第一版人民币割稻200元",
+  "slug": "11a35819",
+  "saleCount": 1,
+  "keywords": "币,第一,一版,版人,人民,民币,币割,割稻,稻元",
+  "priceStats": {
+    "low": 8500,
+    "high": 8500,
+    "avg": 8500,
+    "latest": 8500
+  },
+  "records": [
+    {
+      "coinName": "第一版人民币割稻200元",
+      "normalizedBoxCode": "2569664006",
+      "displayBoxCode": "2569664-006",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/diyibanrenminbi/10381245.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2569664-006/",
+      "price": 8500,
+      "priceWithFee": 9350,
+      "transactedAt": "2026-07-02 20:46:05",
+      "productCode": "872983004",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,第一,一版,版人,人民,民币,币割,割稻,稻元"
+    }
+  ]
+}

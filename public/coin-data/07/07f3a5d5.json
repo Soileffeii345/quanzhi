@@ -1,0 +1,82 @@
+{
+  "coinName": "2018年生肖精制金银币",
+  "slug": "07f3a5d5",
+  "saleCount": 4,
+  "keywords": "金,银,币,2018年,3克,生肖,年戊,戊戌,戌狗,狗年,年生,肖精,精制,制彩,彩金,金银,银币,币二,二枚,枚一,一套,套含,含克,克金,金克,克银,评级,制金,15克,肖梅,梅花,花形,形精",
+  "priceStats": {
+    "low": 3500,
+    "high": 16000,
+    "avg": 6788,
+    "latest": 3550
+  },
+  "records": [
+    {
+      "coinName": "2018年戊戌狗年生肖精制彩金银币二枚一套（含3克金、30克银）",
+      "normalizedBoxCode": "4582126007",
+      "displayBoxCode": "4582126-007",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-jin/10398842.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4582126-007/70/",
+      "price": 3550,
+      "priceWithFee": 3674.25,
+      "transactedAt": "2026-07-16 21:02:35",
+      "productCode": "874356032",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,2018年,3克,生肖,年戊,戊戌,戌狗,狗年,年生,肖精,精制,制彩,彩金,金银,银币,币二,二枚,枚一,一套,套含,含克,克金,金克,克银,评级"
+    },
+    {
+      "coinName": "2018年戊戌狗年生肖精制彩金银币二枚一套（含3克金、30克银）",
+      "normalizedBoxCode": "4582130006",
+      "displayBoxCode": "4582130-006",
+      "gradingCompany": "NGC",
+      "grade": "PF70 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-jin/10398831.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4582130-006/70/",
+      "price": 4100,
+      "priceWithFee": 4243.5,
+      "transactedAt": "2026-07-16 21:32:35",
+      "productCode": "874356021",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,2018年,3克,生肖,年戊,戊戌,戌狗,狗年,年生,肖精,精制,制彩,彩金,金银,银币,币二,二枚,枚一,一套,套含,含克,克金,金克,克银,评级"
+    },
+    {
+      "coinName": "2018年戊戌狗年生肖精制金银币二枚一套（含3克金、30克银）",
+      "normalizedBoxCode": "4639810019",
+      "displayBoxCode": "4639810-019",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-jin/10398843.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4639810-019/70/",
+      "price": 3500,
+      "priceWithFee": 3622.5,
+      "transactedAt": "2026-07-16 21:33:25",
+      "productCode": "874356033",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,2018年,3克,生肖,年戊,戊戌,戌狗,狗年,年生,肖精,精制,制金,金银,银币,币二,二枚,枚一,一套,套含,含克,克金,金克,克银,评级"
+    },
+    {
+      "coinName": "2018年戊戌狗年生肖梅花形精制金银币二枚一套（含15克金、30克银）",
+      "normalizedBoxCode": "5755171006",
+      "displayBoxCode": "5755171-006",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-jin/10398844.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/5755171-006/70/",
+      "price": 16000,
+      "priceWithFee": 16560,
+      "transactedAt": "2026-07-16 20:40:05",
+      "productCode": "874356034",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,2018年,15克,生肖,年戊,戊戌,戌狗,狗年,年生,肖梅,梅花,花形,形精,精制,制金,金银,银币,币二,二枚,枚一,一套,套含,含克,克金,金克,克银,评级"
+    }
+  ]
+}

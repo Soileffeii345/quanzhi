@@ -1,0 +1,65 @@
+{
+  "coinName": "2013年2盎司精制银币",
+  "slug": "7dcf26c2",
+  "saleCount": 3,
+  "keywords": "银,币,2013年,2盎司,宗教,年中,中国,国佛,佛教,教圣,圣地,地普,普陀,陀山,山盎,盎司,司精,精制,制银,银币,评级",
+  "priceStats": {
+    "low": 1100,
+    "high": 1520,
+    "avg": 1273,
+    "latest": 1520
+  },
+  "records": [
+    {
+      "coinName": "2013年中国佛教圣地（普陀山）2盎司精制银币",
+      "normalizedBoxCode": "6748183004",
+      "displayBoxCode": "6748183-004",
+      "gradingCompany": "NGC",
+      "grade": "PF70 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10431697.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6748183-004/70/",
+      "price": 1520,
+      "priceWithFee": 1573.2,
+      "transactedAt": "2026-07-27 21:14:40",
+      "productCode": "878702005",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2013年,2盎司,宗教,年中,中国,国佛,佛教,教圣,圣地,地普,普陀,陀山,山盎,盎司,司精,精制,制银,银币,评级"
+    },
+    {
+      "coinName": "2013年中国佛教圣地-普陀山2盎司精制银币",
+      "normalizedBoxCode": "6748185191",
+      "displayBoxCode": "6748185-191",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10415021.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6748185-191/69/",
+      "price": 1100,
+      "priceWithFee": 1138.5,
+      "transactedAt": "2026-07-20 21:25:40",
+      "productCode": "876728017",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2013年,2盎司,宗教,年中,中国,国佛,佛教,教圣,圣地,地普,普陀,陀山,山盎,盎司,司精,精制,制银,银币,评级"
+    },
+    {
+      "coinName": "2013年中国佛教圣地-普陀山2盎司精制银币",
+      "normalizedBoxCode": "8754213002",
+      "displayBoxCode": "8754213-002",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10356015.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8754213-002/",
+      "price": 1200,
+      "priceWithFee": 1242,
+      "transactedAt": "2026-06-29 21:05:35",
+      "productCode": "869943004",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2013年,2盎司,宗教,年中,中国,国佛,佛教,教圣,圣地,地普,普陀,陀山,山盎,盎司,司精,精制,制银,银币,评级"
+    }
+  ]
+}

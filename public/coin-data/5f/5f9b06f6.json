@@ -1,0 +1,48 @@
+{
+  "coinName": "第一版人民币耙地与工厂100元空心五星水印票样",
+  "slug": "5f9b06f6",
+  "saleCount": 2,
+  "keywords": "币,钞,第一,一版,版人,人民,民币,币耙,耙地,地与,与工,工厂,厂元,元空,空心,心五,五星,星水,水印,印票,票样",
+  "priceStats": {
+    "low": 3350,
+    "high": 5000,
+    "avg": 4175,
+    "latest": 3350
+  },
+  "records": [
+    {
+      "coinName": "第一版人民币耙地与工厂100元空心五星水印票样",
+      "normalizedBoxCode": "2277497005",
+      "displayBoxCode": "2277497-005",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/diyibanrenminbi/10384852.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2277497-005/",
+      "price": 3350,
+      "priceWithFee": 3685,
+      "transactedAt": "2026-07-09 20:27:30",
+      "productCode": "872637001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,钞,第一,一版,版人,人民,民币,币耙,耙地,地与,与工,工厂,厂元,元空,空心,心五,五星,星水,水印,印票,票样"
+    },
+    {
+      "coinName": "第一版人民币耙地与工厂100元空心五星水印票样",
+      "normalizedBoxCode": "2331443001",
+      "displayBoxCode": "2331443-001",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/diyibanrenminbi/10355772.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2331443-001/",
+      "price": 5000,
+      "priceWithFee": 5500,
+      "transactedAt": "2026-06-25 21:07:10",
+      "productCode": "869562005",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,钞,第一,一版,版人,人民,民币,币耙,耙地,地与,与工,工厂,厂元,元空,空心,心五,五星,星水,水印,印票,票样"
+    }
+  ]
+}

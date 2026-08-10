@@ -1,0 +1,45 @@
+{
+  "ok": true,
+  "query": "6634599001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6634599001",
+      "displayBoxCode": "6634599-001",
+      "gradingCompany": "NGC",
+      "grade": "PF69 ULTRA CAMEO",
+      "coinName": "1990年1/2盎司德国慕尼黑国际硬币展金章",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/477086.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6634599-001/69/",
+      "price": 12420,
+      "priceWithFee": null,
+      "transactedAt": "2025-05-11 09:42:40",
+      "productCode": "KH066239",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250510/large_sell_iqzx8gbwjh9ucp3c.jpg",
+      "ocrConfidence": 32,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,章,1990年,2盎司,年盎,盎司,司德,德国,国慕,慕尼,尼黑,黑国,国际,际硬,硬币,币展,展金,金章,外国/特区"
+    },
+    {
+      "normalizedBoxCode": "6634599001",
+      "displayBoxCode": "6634599-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1990年1/2盎司德国慕尼黑国际硬币展金章",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/466171.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6634599-001/69/",
+      "price": 10700,
+      "priceWithFee": null,
+      "transactedAt": "2025-02-27 09:42:32",
+      "productCode": "KH059784",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250227/large_sell_04phwucwu8yovcjn.jpg",
+      "ocrConfidence": 50,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,章,1990年,2盎司,年盎,盎司,司德,德国,国慕,慕尼,尼黑,黑国,国际,际硬,硬币,币展,展金,金章,外国/特区"
+    }
+  ]
+}

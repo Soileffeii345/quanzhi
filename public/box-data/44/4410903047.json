@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4410903047",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4410903047",
+      "displayBoxCode": "4410903-047",
+      "gradingCompany": "NGC",
+      "grade": "MS 65",
+      "coinName": "2001年西藏和平解放50周年流通纪念币二枚",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10361053.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4410903-047/65/",
+      "price": 80,
+      "priceWithFee": 86.4,
+      "transactedAt": "2026-07-08 19:20:05",
+      "productCode": "870582006",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/26/870582006A.jpg",
+      "ocrConfidence": 50,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2001年,年西,西藏,藏和,和平,平解,解放,放周,周年,年流,流通,通纪,纪念,念币,币二,二枚"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "5806838049",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "5806838049",
+      "displayBoxCode": "5806838-049",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1997年1/2盎司澳门回归第1组金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/515421.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/5806838-049/69/",
+      "price": 14860,
+      "priceWithFee": null,
+      "transactedAt": "2025-11-28 14:11:06",
+      "productCode": "KH092329",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251128/large_sell_hmb5aoaczjgvw6wp.jpg",
+      "ocrConfidence": 47,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1997年,2盎司,年盎,盎司,司澳,澳门,门回,回归,归第,第组,组金,金币,外国/特区"
+    }
+  ]
+}

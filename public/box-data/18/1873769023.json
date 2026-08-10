@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "1873769023",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "1873769023",
+      "displayBoxCode": "1873769-023",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1997年中国银行港币1000元",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/liantichao-jinianchao/10396411.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1873769-023/",
+      "price": 1460,
+      "priceWithFee": 1576.8,
+      "transactedAt": "2026-07-14 18:40:50",
+      "productCode": "874271004",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/874271004B.jpg",
+      "ocrConfidence": 41,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1997年,年中,中国,国银,银行,行港,港币,币元"
+    }
+  ]
+}

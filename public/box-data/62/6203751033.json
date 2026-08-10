@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6203751033",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6203751033",
+      "displayBoxCode": "6203751-033",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1998年1/2盎司澳门回归第2组金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/423593.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6203751-033/",
+      "price": 8500,
+      "priceWithFee": null,
+      "transactedAt": "2024-04-02 22:55:20",
+      "productCode": "AA470342",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20240327/large_sell_33eocj0jpopfathi.jpg",
+      "ocrConfidence": 32,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1998年,2盎司,年盎,盎司,司澳,澳门,门回,回归,归第,第组,组金,金币,外国/特区"
+    }
+  ]
+}

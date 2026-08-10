@@ -1,0 +1,31 @@
+{
+  "coinName": "2014年5盎司精制铜币",
+  "slug": "26c5b554",
+  "saleCount": 1,
+  "keywords": "银,铜,币,2014年,5盎司,年中,中国,国青,青铜,铜器,器第,第组,组盎,盎司,司精,精制,制银,银币,评级",
+  "priceStats": {
+    "low": 4050,
+    "high": 4050,
+    "avg": 4050,
+    "latest": 4050
+  },
+  "records": [
+    {
+      "coinName": "2014年中国青铜器第（3）组5盎司精制银币",
+      "normalizedBoxCode": "8764038002",
+      "displayBoxCode": "8764038-002",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10361126.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8764038-002/69/",
+      "price": 4050,
+      "priceWithFee": 4191.75,
+      "transactedAt": "2026-06-25 19:58:05",
+      "productCode": "870518016",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,铜,币,2014年,5盎司,年中,中国,国青,青铜,铜器,器第,第组,组盎,盎司,司精,精制,制银,银币,评级"
+    }
+  ]
+}

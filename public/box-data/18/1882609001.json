@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "1882609001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "1882609001",
+      "displayBoxCode": "1882609-001",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "第四套/第四版人民币1980年版1元（中国龙荧光版）",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/disibanrenminbi/10354849.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1882609-001/",
+      "price": 85,
+      "priceWithFee": 91.8,
+      "transactedAt": "2026-06-27 19:19:10",
+      "productCode": "869257002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/869257002B.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1980年,第四,四套,套第,四版,版人,人民,民币,币年,年版,版元,元中,中国,国龙,龙荧,荧光,光版"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "1039893901",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "1039893901",
+      "displayBoxCode": "1039893-901",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2024年龙钞20元连号十枚",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/liantichao-jinianchao/10408150.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1039893-901/",
+      "price": 1160,
+      "priceWithFee": 1252.8,
+      "transactedAt": "2026-07-18 20:05:50",
+      "productCode": "876038007",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/876038007A.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,2024年,年龙,龙钞,钞元,元连,连号,号十,十枚"
+    }
+  ]
+}

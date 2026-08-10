@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6335257058",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6335257058",
+      "displayBoxCode": "6335257-058",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2008年1/10盎司生肖鼠彩金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/463820.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6335257-058/69/",
+      "price": 2140,
+      "priceWithFee": null,
+      "transactedAt": "2025-02-11 16:47:48",
+      "productCode": "AA550416",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250211/large_sell_zjflykhqgv2vnujv.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2008年,10盎司,生肖,年盎,盎司,司生,肖鼠,鼠彩,彩金,金币"
+    }
+  ]
+}

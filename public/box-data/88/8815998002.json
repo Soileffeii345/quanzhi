@@ -1,0 +1,45 @@
+{
+  "ok": true,
+  "query": "8815998002",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8815998002",
+      "displayBoxCode": "8815998-002",
+      "gradingCompany": "NGC",
+      "grade": "PF70 ULTRA CAMEO",
+      "coinName": "2026年国家宝藏（融合交流）15克精制金币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10405439.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8815998-002/70/",
+      "price": 21000,
+      "priceWithFee": 21735,
+      "transactedAt": "2026-07-18 21:06:10",
+      "productCode": "875775001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/874437002A.jpg",
+      "ocrConfidence": 37,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2026年,15克,年国,国家,家宝,宝藏,藏融,融合,合交,交流,流克,克精,精制,制金,金币,评级"
+    },
+    {
+      "normalizedBoxCode": "8815998002",
+      "displayBoxCode": "8815998-002",
+      "gradingCompany": "NGC",
+      "grade": "PF70 ULTRA CAMEO",
+      "coinName": "2026年国家宝藏（融合交流）15克精制金币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10395604.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8815998-002/70/",
+      "price": 22000,
+      "priceWithFee": 22770,
+      "transactedAt": "2026-07-11 21:26:45",
+      "productCode": "874437002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/874437002A.jpg",
+      "ocrConfidence": 37,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2026年,15克,年国,国家,家宝,宝藏,藏融,融合,合交,交流,流克,克精,精制,制金,金币,评级"
+    }
+  ]
+}

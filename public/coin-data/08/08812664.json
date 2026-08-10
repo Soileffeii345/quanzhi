@@ -1,0 +1,82 @@
+{
+  "coinName": "2001年3.11克金币",
+  "slug": "08812664",
+  "saleCount": 4,
+  "keywords": "金,币,2001年,10盎司,年盎,盎司,司敦,敦煌,煌石,石窟,窟金,金币",
+  "priceStats": {
+    "low": 1900,
+    "high": 3500,
+    "avg": 2800,
+    "latest": 1900
+  },
+  "records": [
+    {
+      "coinName": "2001年1/10盎司敦煌石窟金币",
+      "normalizedBoxCode": "2042930022",
+      "displayBoxCode": "2042930-022",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/416518.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2042930-022/",
+      "price": 1900,
+      "priceWithFee": null,
+      "transactedAt": "2024-02-03 17:07:19",
+      "productCode": "AA462804",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2001年,10盎司,年盎,盎司,司敦,敦煌,煌石,石窟,窟金,金币"
+    },
+    {
+      "coinName": "2001年1/10盎司敦煌石窟金币",
+      "normalizedBoxCode": "3805405007",
+      "displayBoxCode": "3805405-007",
+      "gradingCompany": "NGC",
+      "grade": "PF 68 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/489718.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3805405-007/68/",
+      "price": 2500,
+      "priceWithFee": null,
+      "transactedAt": "2025-07-20 15:01:10",
+      "productCode": "KH074910",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2001年,10盎司,年盎,盎司,司敦,敦煌,煌石,石窟,窟金,金币"
+    },
+    {
+      "coinName": "2001年1/10盎司敦煌石窟金币",
+      "normalizedBoxCode": "8572039004",
+      "displayBoxCode": "8572039-004",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/511042.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8572039-004/69/",
+      "price": 3500,
+      "priceWithFee": null,
+      "transactedAt": "2025-12-29 21:47:38",
+      "productCode": "KH097576",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2001年,10盎司,年盎,盎司,司敦,敦煌,煌石,石窟,窟金,金币"
+    },
+    {
+      "coinName": "2001年1/10盎司敦煌石窟金币",
+      "normalizedBoxCode": "8651060012",
+      "displayBoxCode": "8651060-012",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/515150.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8651060-012/",
+      "price": 3300,
+      "priceWithFee": null,
+      "transactedAt": "2025-11-28 19:00:24",
+      "productCode": "AA594968A",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2001年,10盎司,年盎,盎司,司敦,敦煌,煌石,石窟,窟金,金币"
+    }
+  ]
+}

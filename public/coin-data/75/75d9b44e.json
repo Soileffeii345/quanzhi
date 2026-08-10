@@ -1,0 +1,31 @@
+{
+  "coinName": "2018年熊猫8克金币",
+  "slug": "75d9b44e",
+  "saleCount": 1,
+  "keywords": "金,币,2018年,8克,熊猫,年克,克熊,猫金,金币",
+  "priceStats": {
+    "low": 5800,
+    "high": 5800,
+    "avg": 5800,
+    "latest": 5800
+  },
+  "records": [
+    {
+      "coinName": "2018年8克熊猫金币",
+      "normalizedBoxCode": "6759475013",
+      "displayBoxCode": "6759475-013",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/469155.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6759475-013/",
+      "price": 5800,
+      "priceWithFee": null,
+      "transactedAt": "2025-03-19 21:42:57",
+      "productCode": "KH061642",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2018年,8克,熊猫,年克,克熊,猫金,金币"
+    }
+  ]
+}

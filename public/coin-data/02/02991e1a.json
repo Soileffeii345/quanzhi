@@ -1,0 +1,48 @@
+{
+  "coinName": "2002年熊猫3.11克精制金币",
+  "slug": "02991e1a",
+  "saleCount": 2,
+  "keywords": "金,贵金属,币,2002年,10盎司,熊猫,年熊,猫金,金币,币发,发行,行周,周年,年盎,盎司,司精,精制,制铂,铂金,评级",
+  "priceStats": {
+    "low": 1820,
+    "high": 1840,
+    "avg": 1830,
+    "latest": 1840
+  },
+  "records": [
+    {
+      "coinName": "2002年熊猫金币发行20周年1/10盎司精制铂金币",
+      "normalizedBoxCode": "6734921039",
+      "displayBoxCode": "6734921-039",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-nianjiyiqian/10404044.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6734921-039/69/",
+      "price": 1840,
+      "priceWithFee": 1904.4,
+      "transactedAt": "2026-07-16 20:50:55",
+      "productCode": "875561003",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,贵金属,币,2002年,10盎司,熊猫,年熊,猫金,金币,币发,发行,行周,周年,年盎,盎司,司精,精制,制铂,铂金,评级"
+    },
+    {
+      "coinName": "2002年熊猫金币发行20周年1/10盎司精制铂金币",
+      "normalizedBoxCode": "8187519032",
+      "displayBoxCode": "8187519-032",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-nianjiyiqian/10404043.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8187519-032/69/",
+      "price": 1820,
+      "priceWithFee": 1883.7,
+      "transactedAt": "2026-07-16 21:38:25",
+      "productCode": "875561002",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,贵金属,币,2002年,10盎司,熊猫,年熊,猫金,金币,币发,发行,行周,周年,年盎,盎司,司精,精制,制铂,铂金,评级"
+    }
+  ]
+}

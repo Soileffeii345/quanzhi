@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8077056019",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8077056019",
+      "displayBoxCode": "8077056-019",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "民国二十九年中央储备银行拾圆、民国三十年中央银行贰拾圆各一枚，共二枚",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10377600.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8077056-019/",
+      "price": 3750,
+      "priceWithFee": 4162.5,
+      "transactedAt": "2026-07-16 21:14:10",
+      "productCode": "871863001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/26/871863001B.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国二,二十,十九,九年,年中,中央,央储,储备,备银,银行,行拾,拾圆,圆民,国三,三十,十年,央银,行贰,贰拾,圆各,各一,一枚,枚共,共二,二枚"
+    }
+  ]
+}

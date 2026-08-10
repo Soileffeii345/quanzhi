@@ -1,0 +1,31 @@
+{
+  "coinName": "1913年银币",
+  "slug": "49d34f5e",
+  "saleCount": 1,
+  "keywords": "银,币,1913年,年德,德国,国普,普鲁,鲁士,士战,战胜,胜拿,拿破,破仑,仑马,马克,克银,银币,币版,外国/特区",
+  "priceStats": {
+    "low": 3200,
+    "high": 3200,
+    "avg": 3200,
+    "latest": 3200
+  },
+  "records": [
+    {
+      "coinName": "1913年德国普鲁士战胜拿破仑3马克银币(P版)",
+      "normalizedBoxCode": "3935041006",
+      "displayBoxCode": "3935041-006",
+      "gradingCompany": "NGC",
+      "grade": "PF 62",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/359613.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3935041-006/62/",
+      "price": 3200,
+      "priceWithFee": null,
+      "transactedAt": "2025-12-20 19:28:23",
+      "productCode": "KH095024",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1913年,年德,德国,国普,普鲁,鲁士,士战,战胜,胜拿,拿破,破仑,仑马,马克,克银,银币,币版,外国/特区"
+    }
+  ]
+}

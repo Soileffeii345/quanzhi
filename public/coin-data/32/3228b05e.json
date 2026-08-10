@@ -1,0 +1,31 @@
+{
+  "coinName": "民国十三年黑龙江广信公司拾圆",
+  "slug": "3228b05e",
+  "saleCount": 1,
+  "keywords": "历史币,民国,国十,十三,三年,年黑,黑龙,龙江,江广,广信,信公,公司,司拾,拾圆",
+  "priceStats": {
+    "low": 11800,
+    "high": 11800,
+    "avg": 11800,
+    "latest": 11800
+  },
+  "records": [
+    {
+      "coinName": "民国十三年黑龙江广信公司拾圆",
+      "normalizedBoxCode": "7002759009",
+      "displayBoxCode": "7002759-009",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/difangsipiao/10368901.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/7002759-009/",
+      "price": 11800,
+      "priceWithFee": 13098,
+      "transactedAt": "2026-07-16 20:55:10",
+      "productCode": "871029001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "历史币,民国,国十,十三,三年,年黑,黑龙,龙江,江广,广信,信公,公司,司拾,拾圆"
+    }
+  ]
+}

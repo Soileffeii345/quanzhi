@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8606007042",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8606007042",
+      "displayBoxCode": "8606007-042",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1985年长城币壹圆三枚",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10397586.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8606007-042/",
+      "price": 300,
+      "priceWithFee": 324,
+      "transactedAt": "2026-07-15 20:42:00",
+      "productCode": "874506008",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/874506008A.jpg",
+      "ocrConfidence": 41,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1985年,年长,长城,城币,币壹,壹圆,圆三,三枚"
+    }
+  ]
+}

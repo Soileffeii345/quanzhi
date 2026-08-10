@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6020570004",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6020570004",
+      "displayBoxCode": "6020570-004",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2015年香港上海汇丰银行成立150周年纪念钞港币壹佰伍拾圆",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/liantichao-jinianchao/10422403.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6020570-004/",
+      "price": 900,
+      "priceWithFee": 972,
+      "transactedAt": "2026-07-25 21:10:10",
+      "productCode": "877828004",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/877828004B.jpg",
+      "ocrConfidence": 29,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,钞,2015年,年香,香港,港上,上海,海汇,汇丰,丰银,银行,行成,成立,立周,周年,年纪,纪念,念钞,钞港,港币,币壹,壹佰,佰伍,伍拾,拾圆,外国/特区"
+    }
+  ]
+}

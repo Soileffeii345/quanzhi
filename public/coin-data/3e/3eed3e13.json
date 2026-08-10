@@ -1,0 +1,31 @@
+{
+  "coinName": "1998年周恩来31.104克银币",
+  "slug": "3eed3e13",
+  "saleCount": 1,
+  "keywords": "银,币,1998年,1盎司,年盎,盎司,司周,周恩,恩来,来诞,诞辰,辰周,周年,年延,延安,安骑,骑马,马银,银币",
+  "priceStats": {
+    "low": 560,
+    "high": 560,
+    "avg": 560,
+    "latest": 560
+  },
+  "records": [
+    {
+      "coinName": "1998年1盎司周恩来诞辰100周年延安骑马银币",
+      "normalizedBoxCode": "6195769041",
+      "displayBoxCode": "6195769-041",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/480142.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6195769-041/",
+      "price": 560,
+      "priceWithFee": null,
+      "transactedAt": "2025-05-28 17:54:30",
+      "productCode": "AA564306",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1998年,1盎司,年盎,盎司,司周,周恩,恩来,来诞,诞辰,辰周,周年,年延,延安,安骑,骑马,马银,银币"
+    }
+  ]
+}

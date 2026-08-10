@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8172713001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8172713001",
+      "displayBoxCode": "8172713-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2024年应县佛宫寺释迦塔金银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/448526.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8172713-001/70/",
+      "price": 6100,
+      "priceWithFee": null,
+      "transactedAt": "2024-09-20 15:21:51",
+      "productCode": "KH056652",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20240916/large_sell_1jzachxfbutww6o7.jpg",
+      "ocrConfidence": 44,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,2024年,宗教,年应,应县,县佛,佛宫,宫寺,寺释,释迦,迦塔,塔金,金银,银币"
+    }
+  ]
+}

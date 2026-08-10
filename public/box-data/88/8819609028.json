@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8819609028",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8819609028",
+      "displayBoxCode": "8819609-028",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2012年熊猫金币发行30周年1盎司精制金币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-xinjin/10398447.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8819609-028/",
+      "price": 32000,
+      "priceWithFee": 33120,
+      "transactedAt": "2026-07-16 21:14:15",
+      "productCode": "874842006",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/874842006A.jpg",
+      "ocrConfidence": 38,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2012年,1盎司,熊猫,年熊,猫金,金币,币发,发行,行周,周年,年盎,盎司,司精,精制,制金,评级"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6046316038",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6046316038",
+      "displayBoxCode": "6046316-038",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2019年8克南开大学建校100周年金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/464399.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6046316-038/",
+      "price": 5610,
+      "priceWithFee": null,
+      "transactedAt": "2025-02-19 19:25:55",
+      "productCode": "AA550992",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250214/large_sell_vppvjddyv3ixfnbo.jpg",
+      "ocrConfidence": 37,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2019年,8克,年克,克南,南开,开大,大学,学建,建校,校周,周年,年金,金币"
+    }
+  ]
+}

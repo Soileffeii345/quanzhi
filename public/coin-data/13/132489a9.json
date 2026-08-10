@@ -1,0 +1,31 @@
+{
+  "coinName": "2016中国银行、大西洋银行丙申猴年生肖澳门币拾圆",
+  "slug": "132489a9",
+  "saleCount": 1,
+  "keywords": "银,币,生肖,中国,国银,银行,行大,大西,西洋,洋银,行丙,丙申,申猴,猴年,年生,肖澳,澳门,门币,币拾,拾圆,圆各,各一,一枚,枚共,共二,二枚,外国/特区",
+  "priceStats": {
+    "low": 360,
+    "high": 360,
+    "avg": 360,
+    "latest": 360
+  },
+  "records": [
+    {
+      "coinName": "2016中国银行、大西洋银行丙申猴年生肖澳门币拾圆各一枚，共二枚",
+      "normalizedBoxCode": "2217585013",
+      "displayBoxCode": "2217585-013",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/liantichao-jinianchao/10427848.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2217585-013/",
+      "price": 360,
+      "priceWithFee": 388.8,
+      "transactedAt": "2026-07-28 21:02:35",
+      "productCode": "877938001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,生肖,中国,国银,银行,行大,大西,西洋,洋银,行丙,丙申,申猴,猴年,年生,肖澳,澳门,门币,币拾,拾圆,圆各,各一,一枚,枚共,共二,二枚,外国/特区"
+    }
+  ]
+}

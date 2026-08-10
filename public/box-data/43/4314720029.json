@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4314720029",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4314720029",
+      "displayBoxCode": "4314720-029",
+      "gradingCompany": "NGC",
+      "grade": "MS 66",
+      "coinName": "1985年新疆维吾尔自治区成立30周年流通纪念币三枚",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10355127.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4314720-029/66/",
+      "price": 320,
+      "priceWithFee": 345.6,
+      "transactedAt": "2026-06-24 20:14:05",
+      "productCode": "869346001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/869346001A.jpg",
+      "ocrConfidence": 43,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1985年,新疆版,年新,新疆,疆维,维吾,吾尔,尔自,自治,治区,区成,成立,立周,周年,年流,流通,通纪,纪念,念币,币三,三枚"
+    }
+  ]
+}

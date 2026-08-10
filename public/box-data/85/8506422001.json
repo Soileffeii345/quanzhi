@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8506422001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8506422001",
+      "displayBoxCode": "8506422-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2014年1/4盎司新疆建设兵团成立60周年金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/498653.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8506422-001/69/",
+      "price": 7480,
+      "priceWithFee": null,
+      "transactedAt": "2025-11-30 23:19:11",
+      "productCode": "KH092761",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250905/large_sell_ooqqwmivd5ncyeaq.jpg",
+      "ocrConfidence": 43,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2014年,4盎司,新疆版,年盎,盎司,司新,新疆,疆建,建设,设兵,兵团,团成,成立,立周,周年,年金,金币"
+    }
+  ]
+}

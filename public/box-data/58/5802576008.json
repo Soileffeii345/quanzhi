@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "5802576008",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "5802576008",
+      "displayBoxCode": "5802576-008",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2020年庚子鼠年生肖精制金银币二枚一套（含3克金、30克银）",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-jin/10398815.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/5802576-008/70/",
+      "price": 5000,
+      "priceWithFee": 5175,
+      "transactedAt": "2026-07-16 20:59:15",
+      "productCode": "874356005",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/874356005A.jpg",
+      "ocrConfidence": 44,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,2020年,3克,生肖,年庚,庚子,子鼠,鼠年,年生,肖精,精制,制金,金银,银币,币二,二枚,枚一,一套,套含,含克,克金,金克,克银,评级"
+    }
+  ]
+}

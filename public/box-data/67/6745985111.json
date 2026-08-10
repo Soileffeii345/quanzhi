@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6745985111",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6745985111",
+      "displayBoxCode": "6745985-111",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1997年2/3盎司12边企鹅银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/505823.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6745985-111/",
+      "price": 850,
+      "priceWithFee": null,
+      "transactedAt": "2025-10-15 20:41:23",
+      "productCode": "KH087422",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251015/large_sell_hvojp3hgk9i2khwm.jpg",
+      "ocrConfidence": 43,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1997年,3盎司,年盎,盎司,司边,边企,企鹅,鹅银,银币"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "coinName": "2015年28.28克金币",
+  "slug": "5df7a5c0",
+  "saleCount": 1,
+  "keywords": "金,银,币,2015年,28.28克,年吉,吉尔,尔吉,吉斯,斯斯,斯坦,坦红,红皮,皮书,书大,大鸨,鸨鎏,鎏金,金克,克银,银币",
+  "priceStats": {
+    "low": 580,
+    "high": 580,
+    "avg": 580,
+    "latest": 580
+  },
+  "records": [
+    {
+      "coinName": "2015年吉尔吉斯斯坦红皮书大鸨鎏金28.28克银币",
+      "normalizedBoxCode": "8504636033",
+      "displayBoxCode": "8504636-033",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/wgjsbizhang/10354151.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8504636-033/",
+      "price": 580,
+      "priceWithFee": 614.8,
+      "transactedAt": "2026-06-19 20:40:45",
+      "productCode": "869380012",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,2015年,28.28克,年吉,吉尔,尔吉,吉斯,斯斯,斯坦,坦红,红皮,皮书,书大,大鸨,鸨鎏,鎏金,金克,克银,银币"
+    }
+  ]
+}

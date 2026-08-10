@@ -1,0 +1,31 @@
+{
+  "coinName": "1995年生肖31.104克精制金币",
+  "slug": "6bfe861e",
+  "saleCount": 1,
+  "keywords": "金,币,1995年,1盎司,生肖,年乙,乙亥,亥猪,猪年,年生,肖盎,盎司,司精,精制,制金,金币,评级",
+  "priceStats": {
+    "low": 79000,
+    "high": 79000,
+    "avg": 79000,
+    "latest": 79000
+  },
+  "records": [
+    {
+      "coinName": "1995年乙亥猪年生肖1盎司精制金币",
+      "normalizedBoxCode": "8777068079",
+      "displayBoxCode": "8777068-079",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-jin/10387036.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8777068-079/69/",
+      "price": 79000,
+      "priceWithFee": 81765,
+      "transactedAt": "2026-07-09 21:38:45",
+      "productCode": "872863001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1995年,1盎司,生肖,年乙,乙亥,亥猪,猪年,年生,肖盎,盎司,司精,精制,制金,金币,评级"
+    }
+  ]
+}

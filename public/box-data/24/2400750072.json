@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2400750072",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2400750072",
+      "displayBoxCode": "2400750-072",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "阿联酋塑料钞",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10372849.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2400750-072/",
+      "price": 90,
+      "priceWithFee": 99.9,
+      "transactedAt": "2026-06-30 22:35:50",
+      "productCode": "871226023",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/26/871226023B.JPG",
+      "ocrConfidence": 31,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,阿联,联酋,酋塑,塑料,料钞"
+    }
+  ]
+}

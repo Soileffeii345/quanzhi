@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4887279002",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4887279002",
+      "displayBoxCode": "4887279-002",
+      "gradingCompany": "NGC",
+      "grade": "PF 67 ULTRA CAMEO",
+      "coinName": "1989年己巳蛇年生肖1盎司精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10431415.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4887279-002/67/",
+      "price": 2200,
+      "priceWithFee": 2277,
+      "transactedAt": "2026-07-27 21:38:10",
+      "productCode": "878757009",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/878757009A.jpg",
+      "ocrConfidence": 41,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1989年,1盎司,生肖,年己,己巳,巳蛇,蛇年,年生,肖盎,盎司,司精,精制,制银,银币,评级"
+    }
+  ]
+}

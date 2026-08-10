@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2485426008",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2485426008",
+      "displayBoxCode": "2485426-008",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2018年香港特别行政区政府港币10元塑料钞",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/liantichao-jinianchao/10420616.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2485426-008/",
+      "price": 120,
+      "priceWithFee": 129.6,
+      "transactedAt": "2026-07-25 21:35:40",
+      "productCode": "877014001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/877014001B.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,钞,2018年,年香,香港,港特,特别,别行,行政,政区,区政,政府,府港,港币,币元,元塑,塑料,料钞,外国/特区"
+    }
+  ]
+}

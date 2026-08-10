@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6333990038",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6333990038",
+      "displayBoxCode": "6333990-038",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2022年15克吉祥文化花开富贵银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/479141.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6333990-038/",
+      "price": 500,
+      "priceWithFee": null,
+      "transactedAt": "2025-06-01 20:56:38",
+      "productCode": "KH067769",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250522/large_sell_wrsdscmnyu7zeggr.jpg",
+      "ocrConfidence": 45,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2022年,15克,吉祥文化,年克,克吉,吉祥,祥文,文化,化花,花开,开富,富贵,贵银,银币"
+    }
+  ]
+}

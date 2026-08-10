@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2400756049",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2400756049",
+      "displayBoxCode": "2400756-049",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "泽西岛纸币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10372900.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2400756-049/",
+      "price": 100,
+      "priceWithFee": 111,
+      "transactedAt": "2026-06-30 22:13:20",
+      "productCode": "871226074",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/26/871226074B.JPG",
+      "ocrConfidence": 23,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,泽西,西岛,岛纸,纸币"
+    }
+  ]
+}

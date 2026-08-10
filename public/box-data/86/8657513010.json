@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8657513010",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8657513010",
+      "displayBoxCode": "8657513-010",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1995年1/3盎司第43届世乒赛男子单打金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/555873.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8657513-010/",
+      "price": 16800,
+      "priceWithFee": null,
+      "transactedAt": "2026-02-24 22:53:37",
+      "productCode": "KH120509",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260224/large_sell_7x8zbz69nf9vwlic.jpg",
+      "ocrConfidence": 53,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1995年,3盎司,年盎,盎司,司第,第届,届世,世乒,乒赛,赛男,男子,子单,单打,打金,金币"
+    }
+  ]
+}

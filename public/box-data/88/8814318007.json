@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8814318007",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8814318007",
+      "displayBoxCode": "8814318-007",
+      "gradingCompany": "NGC",
+      "grade": "PF67 ULTRA CAMEO",
+      "coinName": "2018年戊戌狗年生肖30克梅花形精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10380284.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8814318-007/67/",
+      "price": 610,
+      "priceWithFee": 631.35,
+      "transactedAt": "2026-07-06 20:10:05",
+      "productCode": "872599002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/27/872599002A.jpg",
+      "ocrConfidence": 37,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2018年,30克,生肖,年戊,戊戌,戌狗,狗年,年生,肖克,克梅,梅花,花形,形精,精制,制银,银币,评级"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8180755001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8180755001",
+      "displayBoxCode": "8180755-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1984年22克历史人物第1组牵马俑银币(UC)",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/447507.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8180755-001/69/",
+      "price": 460,
+      "priceWithFee": null,
+      "transactedAt": "2024-09-06 20:53:46",
+      "productCode": "AA499600",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20240906/large_sell_z4kq9q1cfbed9ujn.jpg",
+      "ocrConfidence": 32,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1984年,22克,年克,克历,历史,史人,人物,物第,第组,组牵,牵马,马俑,俑银,银币"
+    }
+  ]
+}

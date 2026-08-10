@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4415241026",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4415241026",
+      "displayBoxCode": "4415241-026",
+      "gradingCompany": "NGC",
+      "grade": "PF 69",
+      "coinName": "1995年22克古代科技第4组火药银币(UC)",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/506207.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4415241-026/69/",
+      "price": 4650,
+      "priceWithFee": null,
+      "transactedAt": "2025-10-17 23:36:58",
+      "productCode": "KH087710",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251016/large_sell_tu0m0qjlh7lyaznq.jpg",
+      "ocrConfidence": 49,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1995年,22克,年克,克古,古代,代科,科技,技第,第组,组火,火药,药银,银币"
+    }
+  ]
+}

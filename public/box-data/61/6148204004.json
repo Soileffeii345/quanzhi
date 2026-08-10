@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6148204004",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6148204004",
+      "displayBoxCode": "6148204-004",
+      "gradingCompany": "NGC",
+      "grade": "MS 61",
+      "coinName": "民国十八年广东省造孙中山像贰毫银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/478063.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6148204-004/61/",
+      "price": 280,
+      "priceWithFee": null,
+      "transactedAt": "2025-12-26 10:40:47",
+      "productCode": "KH094710",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250517/large_sell_l8lpghpkdscfexgb.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,历史币,广东,粤造,孙小头,孙中山,小头,民国,国十,十八,八年,年广,东省,省造,造孙,孙中,中山,山像,像贰,贰毫,毫银,银币"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "coinName": "第一版人民币军舰10000元菱花水印",
+  "slug": "69b7bd36",
+  "saleCount": 2,
+  "keywords": "币,第一,一版,版人,人民,民币,币军,军舰,舰元,元菱,菱花,花水,水印",
+  "priceStats": {
+    "low": 3450,
+    "high": 4150,
+    "avg": 3800,
+    "latest": 4150
+  },
+  "records": [
+    {
+      "coinName": "第一版人民币军舰10000元菱花水印",
+      "normalizedBoxCode": "2069239010",
+      "displayBoxCode": "2069239-010",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/diyibanrenminbi/10408209.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2069239-010/",
+      "price": 4150,
+      "priceWithFee": 4565,
+      "transactedAt": "2026-07-21 20:53:05",
+      "productCode": "876164001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,第一,一版,版人,人民,民币,币军,军舰,舰元,元菱,菱花,花水,水印"
+    },
+    {
+      "coinName": "第一版人民币军舰10000元菱花水印",
+      "normalizedBoxCode": "2069239010",
+      "displayBoxCode": "2069239-010",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/diyibanrenminbi/10369804.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2069239-010/",
+      "price": 3450,
+      "priceWithFee": 3795,
+      "transactedAt": "2026-07-02 20:30:35",
+      "productCode": "871037013",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,第一,一版,版人,人民,民币,币军,军舰,舰元,元菱,菱花,花水,水印"
+    }
+  ]
+}

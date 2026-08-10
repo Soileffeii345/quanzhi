@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "80017949",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "80017949",
+      "displayBoxCode": "80017949",
+      "gradingCompany": "PCGS",
+      "grade": "待复核",
+      "coinName": "1997年22克传统文化第2组银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/575367.html",
+      "officialCertUrl": "https://cn.pcgs.com/cert/80017949",
+      "price": 3300,
+      "priceWithFee": null,
+      "transactedAt": "2026-05-10 12:06:09",
+      "productCode": "KH131674",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260424/large_sell_lngkhfwmbssym6ne.jpg",
+      "ocrConfidence": 41,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1997年,22克,年克,克传,传统,统文,文化,化第,第组,组银,银币"
+    }
+  ]
+}

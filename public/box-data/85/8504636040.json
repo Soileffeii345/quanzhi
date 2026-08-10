@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8504636040",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8504636040",
+      "displayBoxCode": "8504636-040",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2007年库克群岛悉尼海港大桥75周年1盎司幻彩银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/wgjsbizhang/10354162.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8504636-040/",
+      "price": 1340,
+      "priceWithFee": 1420.4,
+      "transactedAt": "2026-06-19 20:41:25",
+      "productCode": "869380023",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/869380023A.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2007年,1盎司,年库,库克,克群,群岛,岛悉,悉尼,尼海,海港,港大,大桥,桥周,周年,年盎,盎司,司幻,幻彩,彩银,银币"
+    }
+  ]
+}

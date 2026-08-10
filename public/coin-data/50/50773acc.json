@@ -1,0 +1,31 @@
+{
+  "coinName": "民国三十七年中央银行关金伍萬圆",
+  "slug": "50773acc",
+  "saleCount": 1,
+  "keywords": "金,银,历史币,民国,国三,三十,十七,七年,年中,中央,央银,银行,行关,关金,金伍,伍萬,萬圆",
+  "priceStats": {
+    "low": 500,
+    "high": 500,
+    "avg": 500,
+    "latest": 500
+  },
+  "records": [
+    {
+      "coinName": "民国三十七年中央银行关金伍萬圆",
+      "normalizedBoxCode": "1762286025",
+      "displayBoxCode": "1762286-025",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10367301.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1762286-025/",
+      "price": 500,
+      "priceWithFee": 555,
+      "transactedAt": "2026-07-21 21:44:20",
+      "productCode": "870332002",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,历史币,民国,国三,三十,十七,七年,年中,中央,央银,银行,行关,关金,金伍,伍萬,萬圆"
+    }
+  ]
+}

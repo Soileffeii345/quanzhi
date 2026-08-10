@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8754710045",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8754710045",
+      "displayBoxCode": "8754710-045",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2009年己丑牛年生肖1盎司精制彩银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10429455.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8754710-045/70/",
+      "price": 1260,
+      "priceWithFee": 1304.1,
+      "transactedAt": "2026-07-27 20:42:40",
+      "productCode": "878311005",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/878311005A.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2009年,1盎司,生肖,年己,己丑,丑牛,牛年,年生,肖盎,盎司,司精,精制,制彩,彩银,银币,评级"
+    }
+  ]
+}

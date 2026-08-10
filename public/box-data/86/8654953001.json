@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8654953001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8654953001",
+      "displayBoxCode": "8654953-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2025年库克1盎司光谱系列孔雀彩银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/514699.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8654953-001/70/",
+      "price": 1500,
+      "priceWithFee": null,
+      "transactedAt": "2025-11-25 07:39:04",
+      "productCode": "KH091943",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251124/large_sell_xlr7jnzkomgifyh0.jpg",
+      "ocrConfidence": 43,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2025年,1盎司,年库,库克,克盎,盎司,司光,光谱,谱系,系列,列孔,孔雀,雀彩,彩银,银币"
+    }
+  ]
+}

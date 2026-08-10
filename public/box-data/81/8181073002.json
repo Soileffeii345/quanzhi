@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8181073002",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8181073002",
+      "displayBoxCode": "8181073-002",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2011年1盎司熊猫金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/498822.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8181073-002/",
+      "price": 25860,
+      "priceWithFee": null,
+      "transactedAt": "2025-09-07 10:09:02",
+      "productCode": "KH082514",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250906/large_sell_lftmftnswrwwtad5.jpg",
+      "ocrConfidence": 32,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2011年,1盎司,熊猫,年盎,盎司,司熊,猫金,金币"
+    }
+  ]
+}

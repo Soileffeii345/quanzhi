@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "80312456",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "80312456",
+      "displayBoxCode": "80312456",
+      "gradingCompany": "PCGS",
+      "grade": "XF45",
+      "coinName": "民国阎锡山像“主张公道”铜质纪念章",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguojindaijizhibi/10369491.shtml",
+      "officialCertUrl": "https://cn.pcgs.com/cert/80312456",
+      "price": 6100,
+      "priceWithFee": 6588,
+      "transactedAt": "2026-07-13 21:01:05",
+      "productCode": "870970029",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/26/870970029A.jpg",
+      "ocrConfidence": 32,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "铜,章,历史币,民国,国阎,阎锡,锡山,山像,像主,主张,张公,公道,道铜,铜质,质纪,纪念,念章"
+    }
+  ]
+}

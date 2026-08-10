@@ -1,0 +1,48 @@
+{
+  "coinName": "1860年美国1美元纸币",
+  "slug": "255e1632",
+  "saleCount": 2,
+  "keywords": "币,1860年,年美,美国,国美,美元,元纸,纸币,外国/特区",
+  "priceStats": {
+    "low": 1000,
+    "high": 1020,
+    "avg": 1010,
+    "latest": 1000
+  },
+  "records": [
+    {
+      "coinName": "1860年美国1美元纸币",
+      "normalizedBoxCode": "1105173010",
+      "displayBoxCode": "1105173-010",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10387933.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1105173-010/",
+      "price": 1000,
+      "priceWithFee": 1110,
+      "transactedAt": "2026-07-14 21:59:20",
+      "productCode": "873172001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1860年,年美,美国,国美,美元,元纸,纸币,外国/特区"
+    },
+    {
+      "coinName": "1860年美国1美元纸币",
+      "normalizedBoxCode": "2331486020",
+      "displayBoxCode": "2331486-020",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10387935.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2331486-020/",
+      "price": 1020,
+      "priceWithFee": 1132.2,
+      "transactedAt": "2026-07-14 22:09:05",
+      "productCode": "873172003",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1860年,年美,美国,国美,美元,元纸,纸币,外国/特区"
+    }
+  ]
+}

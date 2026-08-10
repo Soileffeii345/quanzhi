@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8757919002",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8757919002",
+      "displayBoxCode": "8757919-002",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1996年麒麟1盎司精制金币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10361117.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8757919-002/",
+      "price": 43500,
+      "priceWithFee": 45022.5,
+      "transactedAt": "2026-06-25 21:00:05",
+      "productCode": "870518007",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/870518007A.jpg",
+      "ocrConfidence": 50,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1996年,1盎司,年麒,麒麟,麟盎,盎司,司精,精制,制金,金币,评级"
+    }
+  ]
+}

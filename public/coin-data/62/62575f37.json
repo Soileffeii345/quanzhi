@@ -1,0 +1,31 @@
+{
+  "coinName": "1992年宪法颁布十周年流通纪念币",
+  "slug": "62575f37",
+  "saleCount": 1,
+  "keywords": "币,1992年,年宪,宪法,法颁,颁布,布十,十周,周年,年流,流通,通纪,纪念,念币",
+  "priceStats": {
+    "low": 60,
+    "high": 60,
+    "avg": 60,
+    "latest": 60
+  },
+  "records": [
+    {
+      "coinName": "1992年宪法颁布十周年流通纪念币",
+      "normalizedBoxCode": "6734817020",
+      "displayBoxCode": "6734817-020",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10417593.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6734817-020/",
+      "price": 60,
+      "priceWithFee": 64.8,
+      "transactedAt": "2026-07-22 19:36:45",
+      "productCode": "877052005",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1992年,年宪,宪法,法颁,颁布,布十,十周,周年,年流,流通,通纪,纪念,念币"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "ok": true,
+  "query": "2559422062",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2559422062",
+      "displayBoxCode": "2559422-062",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1974年香港有利银行壹佰圆",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xianggangzhichao/10426324.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2559422-062/",
+      "price": 280,
+      "priceWithFee": 310.8,
+      "transactedAt": "2026-07-28 19:37:50",
+      "productCode": "878208001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/876073009B.jpg",
+      "ocrConfidence": 27,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,1974年,年香,香港,港有,有利,利银,银行,行壹,壹佰,佰圆,外国/特区"
+    },
+    {
+      "normalizedBoxCode": "2559422062",
+      "displayBoxCode": "2559422-062",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1974年香港有利银行壹佰圆",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xianggangzhichao/10410446.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2559422-062/",
+      "price": 290,
+      "priceWithFee": 321.9,
+      "transactedAt": "2026-07-21 20:00:20",
+      "productCode": "876073009",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/876073009B.jpg",
+      "ocrConfidence": 27,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,1974年,年香,香港,港有,有利,利银,银行,行壹,壹佰,佰圆,外国/特区"
+    }
+  ]
+}

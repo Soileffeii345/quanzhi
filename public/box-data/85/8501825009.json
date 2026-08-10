@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8501825009",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8501825009",
+      "displayBoxCode": "8501825-009",
+      "gradingCompany": "NGC",
+      "grade": "PF70 ULTRA CAMEO",
+      "coinName": "2020年30克扇形生肖鼠银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/588410.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8501825-009/70/",
+      "price": 900,
+      "priceWithFee": null,
+      "transactedAt": "2026-06-25 20:58:53",
+      "productCode": "AA655855",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260608/large_sell_mkkj6ghe53b08egr.jpg",
+      "ocrConfidence": 37,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2020年,30克,生肖,年克,克扇,扇形,形生,肖鼠,鼠银,银币"
+    }
+  ]
+}

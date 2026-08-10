@@ -1,0 +1,48 @@
+{
+  "coinName": "1995年31.104克普制银币",
+  "slug": "07414122",
+  "saleCount": 2,
+  "keywords": "银,币,1995年,1盎司,年第,第届,届世,世界,界乒,乒乓,乓球,球锦,锦标,标赛,赛女,女子,子单,单打,打盎,盎司,司普,普制,制银,银币,钞,年北,北京,京国,国际,际邮,邮票,票钱,钱币,币博,博览,览会,会盎",
+  "priceStats": {
+    "low": 800,
+    "high": 2450,
+    "avg": 1625,
+    "latest": 2450
+  },
+  "records": [
+    {
+      "coinName": "1995年第43届世界乒乓球锦标赛-女子单打1盎司普制银币",
+      "normalizedBoxCode": "6001380082",
+      "displayBoxCode": "6001380-082",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10393017.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6001380-082/69/",
+      "price": 2450,
+      "priceWithFee": 2535.75,
+      "transactedAt": "2026-07-13 21:28:55",
+      "productCode": "874056011",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1995年,1盎司,年第,第届,届世,世界,界乒,乒乓,乓球,球锦,锦标,标赛,赛女,女子,子单,单打,打盎,盎司,司普,普制,制银,银币"
+    },
+    {
+      "coinName": "1995年北京国际邮票钱币博览会1盎司普制银币",
+      "normalizedBoxCode": "6196077043",
+      "displayBoxCode": "6196077-043",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10383391.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6196077-043/",
+      "price": 800,
+      "priceWithFee": 828,
+      "transactedAt": "2026-07-06 21:17:10",
+      "productCode": "871831010",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,钞,1995年,1盎司,年北,北京,京国,国际,际邮,邮票,票钱,钱币,币博,博览,览会,会盎,盎司,司普,普制,制银,银币"
+    }
+  ]
+}

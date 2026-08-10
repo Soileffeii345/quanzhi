@@ -1,0 +1,31 @@
+{
+  "coinName": "2002年31.104克精制银币",
+  "slug": "504e1a1a",
+  "saleCount": 1,
+  "keywords": "银,币,2002年,1盎司,年中,中国,国民,民俗,俗端,端午,午节,节盎,盎司,司精,精制,制银,银币,评级",
+  "priceStats": {
+    "low": 850,
+    "high": 850,
+    "avg": 850,
+    "latest": 850
+  },
+  "records": [
+    {
+      "coinName": "2002年中国民俗-端午节1盎司精制银币",
+      "normalizedBoxCode": "8587805015",
+      "displayBoxCode": "8587805-015",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10390756.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8587805-015/69/",
+      "price": 850,
+      "priceWithFee": 879.75,
+      "transactedAt": "2026-07-13 20:44:45",
+      "productCode": "873948015",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2002年,1盎司,年中,中国,国民,民俗,俗端,端午,午节,节盎,盎司,司精,精制,制银,银币,评级"
+    }
+  ]
+}

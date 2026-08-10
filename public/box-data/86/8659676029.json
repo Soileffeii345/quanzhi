@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8659676029",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8659676029",
+      "displayBoxCode": "8659676-029",
+      "gradingCompany": "NGC",
+      "grade": "PF68 ULTRA CAMEO",
+      "coinName": "2004年世界文化遗产-周口店“北京人”遗址精制流通纪念币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10369510.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8659676-029/68/",
+      "price": 180,
+      "priceWithFee": 194.4,
+      "transactedAt": "2026-07-01 19:12:05",
+      "productCode": "871224004",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/26/871224004A.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2004年,年世,世界,界文,文化,化遗,遗产,产周,周口,口店,店北,北京,京人,人遗,遗址,址精,精制,制流,流通,通纪,纪念,念币,评级"
+    }
+  ]
+}

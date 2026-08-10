@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6172619008",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6172619008",
+      "displayBoxCode": "6172619-008",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2014年1/4盎司中国探月首次落月成功金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/505059.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6172619-008/70/",
+      "price": 7600,
+      "priceWithFee": null,
+      "transactedAt": "2025-10-15 09:39:10",
+      "productCode": "AA589893",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251012/large_sell_efgkcn7u18xezaq7.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2014年,4盎司,年盎,盎司,司中,中国,国探,探月,月首,首次,次落,落月,月成,成功,功金,金币"
+    }
+  ]
+}

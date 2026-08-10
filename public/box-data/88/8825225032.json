@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8825225032",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8825225032",
+      "displayBoxCode": "8825225-032",
+      "gradingCompany": "NGC",
+      "grade": "PF70 ULTRA CAMEO",
+      "coinName": "2014年中国佛教圣地（峨眉山）1/4盎司精制金币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10415007.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8825225-032/70/",
+      "price": 8900,
+      "priceWithFee": 9211.5,
+      "transactedAt": "2026-07-23 20:58:25",
+      "productCode": "876728003",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/876728003A.jpg",
+      "ocrConfidence": 38,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2014年,4盎司,宗教,名山,年中,中国,国佛,佛教,教圣,圣地,地峨,峨眉,眉山,山盎,盎司,司精,精制,制金,金币,评级"
+    }
+  ]
+}

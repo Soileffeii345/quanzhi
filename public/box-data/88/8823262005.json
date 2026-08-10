@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8823262005",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8823262005",
+      "displayBoxCode": "8823262-005",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2004年中国民俗-元宵节1盎司精制彩银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10424124.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8823262-005/69/",
+      "price": 940,
+      "priceWithFee": 972.9,
+      "transactedAt": "2026-07-27 20:33:10",
+      "productCode": "877773025",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/877773025A.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2004年,1盎司,年中,中国,国民,民俗,俗元,元宵,宵节,节盎,盎司,司精,精制,制彩,彩银,银币,评级"
+    }
+  ]
+}

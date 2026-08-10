@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4417475001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4417475001",
+      "displayBoxCode": "4417475-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2017年1公斤建军90周年银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/532112.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4417475-001/70/",
+      "price": 26600,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-15 20:47:37",
+      "productCode": "KH106504",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260115/large_sell_b3xbks84fmrmhb8h.jpg",
+      "ocrConfidence": 37,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2017年,1公斤,年公,公斤,斤建,建军,军周,周年,年银,银币"
+    }
+  ]
+}

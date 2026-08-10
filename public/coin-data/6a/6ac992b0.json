@@ -1,0 +1,31 @@
+{
+  "coinName": "1984年22克金币",
+  "slug": "6ac992b0",
+  "saleCount": 1,
+  "keywords": "金,银,章,1984年,22克,年克,克真,真觉,觉寺,寺金,金刚,刚宝,宝座,座塔,塔银,银章",
+  "priceStats": {
+    "low": 1000,
+    "high": 1000,
+    "avg": 1000,
+    "latest": 1000
+  },
+  "records": [
+    {
+      "coinName": "1984年22克真觉寺金刚宝座塔银章(UC)",
+      "normalizedBoxCode": "6763965014",
+      "displayBoxCode": "6763965-014",
+      "gradingCompany": "NGC",
+      "grade": "PF 68 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/424305.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6763965-014/68/",
+      "price": 1000,
+      "priceWithFee": null,
+      "transactedAt": "2024-06-04 11:22:35",
+      "productCode": "AA471019",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,章,1984年,22克,年克,克真,真觉,觉寺,寺金,金刚,刚宝,宝座,座塔,塔银,银章"
+    }
+  ]
+}

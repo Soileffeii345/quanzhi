@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4320595017",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4320595017",
+      "displayBoxCode": "4320595-017",
+      "gradingCompany": "NGC",
+      "grade": "PF70 ULTRA CAMEO",
+      "coinName": "2013年2盎司普陀山银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/532770.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4320595-017/70/",
+      "price": 1500,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-17 17:01:15",
+      "productCode": "KH108091",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260117/large_sell_jzazo7mmydw0mczv.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2013年,2盎司,年盎,盎司,司普,普陀,陀山,山银,银币"
+    }
+  ]
+}

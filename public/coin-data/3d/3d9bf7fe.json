@@ -1,0 +1,31 @@
+{
+  "coinName": "2013年28.28克彩色银币",
+  "slug": "3d9bf7fe",
+  "saleCount": 1,
+  "keywords": "银,币,2013年,28.28克,年吉,吉尔,尔吉,吉斯,斯斯,斯坦,坦塞,塞马,马卢,卢塔,塔什,什史,史前,前岩,岩画,画克,克彩,彩色,色银,银币",
+  "priceStats": {
+    "low": 890,
+    "high": 890,
+    "avg": 890,
+    "latest": 890
+  },
+  "records": [
+    {
+      "coinName": "2013年吉尔吉斯斯坦塞马卢塔什史前岩画28.28克彩色银币",
+      "normalizedBoxCode": "8504637045",
+      "displayBoxCode": "8504637-045",
+      "gradingCompany": "NGC",
+      "grade": "PF69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/wgjsbizhang/10415196.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8504637-045/69/",
+      "price": 890,
+      "priceWithFee": 943.4,
+      "transactedAt": "2026-07-24 20:45:05",
+      "productCode": "876743024",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2013年,28.28克,年吉,吉尔,尔吉,吉斯,斯斯,斯坦,坦塞,塞马,马卢,卢塔,塔什,什史,史前,前岩,岩画,画克,克彩,彩色,色银,银币"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6376364045",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6376364045",
+      "displayBoxCode": "6376364-045",
+      "gradingCompany": "NGC",
+      "grade": "PF 68 ULTRA CAMEO",
+      "coinName": "1986年孙中山诞辰120周年27克精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10386644.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6376364-045/68/",
+      "price": 1460,
+      "priceWithFee": 1511.1,
+      "transactedAt": "2026-07-13 21:23:30",
+      "productCode": "873397013",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/27/873397013A.jpg",
+      "ocrConfidence": 31,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1986年,27克,孙小头,孙中山,小头,年孙,孙中,中山,山诞,诞辰,辰周,周年,年克,克精,精制,制银,银币,评级"
+    }
+  ]
+}

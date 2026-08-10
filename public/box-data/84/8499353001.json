@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8499353001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8499353001",
+      "displayBoxCode": "8499353-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1998年1盎司生肖虎彩银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/554598.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8499353-001/69/",
+      "price": 1800,
+      "priceWithFee": null,
+      "transactedAt": "2026-02-26 20:08:38",
+      "productCode": "KH120915",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260212/large_sell_gdkkhpgzay4s6611.jpg",
+      "ocrConfidence": 45,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1998年,1盎司,生肖,年盎,盎司,司生,肖虎,虎彩,彩银,银币"
+    }
+  ]
+}

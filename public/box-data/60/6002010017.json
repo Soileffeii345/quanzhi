@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6002010017",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6002010017",
+      "displayBoxCode": "6002010-017",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2013年1/4盎司普陀山金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/473576.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6002010-017/70/",
+      "price": 6265,
+      "priceWithFee": null,
+      "transactedAt": "2025-04-17 03:50:47",
+      "productCode": "KH064563",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250416/large_sell_q2n0vv8vejfsn9tr.jpg",
+      "ocrConfidence": 38,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2013年,4盎司,年盎,盎司,司普,普陀,陀山,山金,金币"
+    }
+  ]
+}

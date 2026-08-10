@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8755064003",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8755064003",
+      "displayBoxCode": "8755064-003",
+      "gradingCompany": "NGC",
+      "grade": "PF 68 ULTRA CAMEO",
+      "coinName": "1994年甲戌狗年生肖1盎司精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10351248.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8755064-003/68/",
+      "price": 1340,
+      "priceWithFee": 1386.9,
+      "transactedAt": "2026-06-22 21:16:40",
+      "productCode": "869398032",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/869398032A.jpg",
+      "ocrConfidence": 39,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1994年,1盎司,生肖,年甲,甲戌,戌狗,狗年,年生,肖盎,盎司,司精,精制,制银,银币,评级"
+    }
+  ]
+}

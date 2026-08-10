@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8766320009",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8766320009",
+      "displayBoxCode": "8766320-009",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1998年周恩来诞辰100周年1盎司精制银币二枚一套",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10351449.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8766320-009/",
+      "price": 1680,
+      "priceWithFee": 1738.8,
+      "transactedAt": "2026-06-22 20:54:40",
+      "productCode": "869365005",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/869365005A.jpg",
+      "ocrConfidence": 38,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1998年,1盎司,年周,周恩,恩来,来诞,诞辰,辰周,周年,年盎,盎司,司精,精制,制银,银币,币二,二枚,枚一,一套,评级"
+    }
+  ]
+}

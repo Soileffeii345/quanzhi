@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6193985040",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6193985040",
+      "displayBoxCode": "6193985-040",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "coinName": "1998年1盎司熊猫银币(大字版)",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/496158.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6193985-040/69/",
+      "price": 1350,
+      "priceWithFee": null,
+      "transactedAt": "2025-09-02 20:06:17",
+      "productCode": "AA581045",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250824/large_sell_stbffuybrx6c3wag.jpg",
+      "ocrConfidence": 30,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1998年,1盎司,熊猫,年盎,盎司,司熊,猫银,银币,币大,大字,字版"
+    }
+  ]
+}

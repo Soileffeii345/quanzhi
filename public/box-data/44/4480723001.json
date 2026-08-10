@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4480723001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4480723001",
+      "displayBoxCode": "4480723-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2005年5盎司熊猫金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/499268.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4480723-001/70/",
+      "price": 130395,
+      "priceWithFee": null,
+      "transactedAt": "2025-09-11 21:43:17",
+      "productCode": "KH083066",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250909/large_sell_hi5aae5tauv4ik8r.jpg",
+      "ocrConfidence": 41,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2005年,5盎司,熊猫,年盎,盎司,司熊,猫金,金币"
+    }
+  ]
+}

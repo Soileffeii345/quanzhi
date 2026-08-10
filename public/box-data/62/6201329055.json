@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6201329055",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6201329055",
+      "displayBoxCode": "6201329-055",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2021年8克中巴建交70周年金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/536463.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6201329-055/",
+      "price": 8965,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-21 19:12:47",
+      "productCode": "KH110475",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260121/large_sell_iytqkz3yf6j3vfvq.jpg",
+      "ocrConfidence": 42,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2021年,8克,年克,克中,中巴,巴建,建交,交周,周年,年金,金币"
+    }
+  ]
+}

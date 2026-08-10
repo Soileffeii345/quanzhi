@@ -1,0 +1,65 @@
+{
+  "coinName": "1990年冬奥5盎司银币",
+  "slug": "12faf9af",
+  "saleCount": 3,
+  "keywords": "银,币,1990年,5盎司,奥运,年盎,盎司,司第,第届,届冬,冬奥,奥会,会速,速度,度滑,滑冰,冰银,银币,币小,小星,星版,币大,大星",
+  "priceStats": {
+    "low": 2100,
+    "high": 4250,
+    "avg": 3250,
+    "latest": 4250
+  },
+  "records": [
+    {
+      "coinName": "1990年5盎司第16届冬奥会速度滑冰银币(小星版-UC)",
+      "normalizedBoxCode": "3395781005",
+      "displayBoxCode": "3395781-005",
+      "gradingCompany": "NGC",
+      "grade": "PF 67 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/555494.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3395781-005/",
+      "price": 4250,
+      "priceWithFee": null,
+      "transactedAt": "2026-05-13 14:30:17",
+      "productCode": "KH134023",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1990年,5盎司,奥运,年盎,盎司,司第,第届,届冬,冬奥,奥会,会速,速度,度滑,滑冰,冰银,银币,币小,小星,星版"
+    },
+    {
+      "coinName": "1990年5盎司第16届冬奥会速度滑冰银币(大星版-UC)",
+      "normalizedBoxCode": "4533429005",
+      "displayBoxCode": "4533429-005",
+      "gradingCompany": "NGC",
+      "grade": "PF 67 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/527290.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4533429-005/67/",
+      "price": 3400,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-10 20:22:11",
+      "productCode": "KH101221",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1990年,5盎司,奥运,年盎,盎司,司第,第届,届冬,冬奥,奥会,会速,速度,度滑,滑冰,冰银,银币,币大,大星,星版"
+    },
+    {
+      "coinName": "1990年5盎司第16届冬奥会速度滑冰银币(小星版-UC)",
+      "normalizedBoxCode": "6753883006",
+      "displayBoxCode": "6753883-006",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/433902.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6753883-006/69/",
+      "price": 2100,
+      "priceWithFee": null,
+      "transactedAt": "2024-12-02 15:13:36",
+      "productCode": "AA482626",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1990年,5盎司,奥运,年盎,盎司,司第,第届,届冬,冬奥,奥会,会速,速度,度滑,滑冰,冰银,银币,币小,小星,星版"
+    }
+  ]
+}

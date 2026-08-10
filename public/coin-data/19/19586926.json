@@ -1,0 +1,48 @@
+{
+  "coinName": "1986年国际和平年纪念币",
+  "slug": "19586926",
+  "saleCount": 2,
+  "keywords": "币,1986年,年国,国际,际和,和平,平年,年纪,纪念,念币",
+  "priceStats": {
+    "low": 170,
+    "high": 180,
+    "avg": 175,
+    "latest": 170
+  },
+  "records": [
+    {
+      "coinName": "1986年国际和平年纪念币",
+      "normalizedBoxCode": "6397366057",
+      "displayBoxCode": "6397366-057",
+      "gradingCompany": "NGC",
+      "grade": "MS 66",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/428048.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6397366-057/66/",
+      "price": 170,
+      "priceWithFee": null,
+      "transactedAt": "2024-08-15 09:46:12",
+      "productCode": "KH054294",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1986年,年国,国际,际和,和平,平年,年纪,纪念,念币"
+    },
+    {
+      "coinName": "1986年国际和平年纪念币",
+      "normalizedBoxCode": "6426009041",
+      "displayBoxCode": "6426009-041",
+      "gradingCompany": "NGC",
+      "grade": "MS 66",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/576157.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6426009-041/66/",
+      "price": 180,
+      "priceWithFee": null,
+      "transactedAt": "2026-05-27 07:12:35",
+      "productCode": "KH135957",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1986年,年国,国际,际和,和平,平年,年纪,纪念,念币"
+    }
+  ]
+}

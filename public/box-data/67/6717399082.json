@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6717399082",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6717399082",
+      "displayBoxCode": "6717399-082",
+      "gradingCompany": "NGC",
+      "grade": "PF70 ULTRA CAMEO",
+      "coinName": "2023年30克三江源国家公园彩银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/481603.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6717399-082/70/",
+      "price": 1000,
+      "priceWithFee": null,
+      "transactedAt": "2025-12-28 23:22:51",
+      "productCode": "AA566153",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250605/large_sell_8ck6m1rhfgk6jcqo.jpg",
+      "ocrConfidence": 31,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2023年,30克,年克,克三,三江,江源,源国,国家,家公,公园,园彩,彩银,银币"
+    }
+  ]
+}

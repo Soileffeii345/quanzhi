@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2787879021",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2787879021",
+      "displayBoxCode": "2787879-021",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2001年1/2盎司扇形生肖蛇金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/505820.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2787879-021/",
+      "price": 15080,
+      "priceWithFee": null,
+      "transactedAt": "2025-10-15 16:25:36",
+      "productCode": "KH087421",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251015/large_sell_bqybvgnur1dwkise.jpg",
+      "ocrConfidence": 44,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2001年,2盎司,生肖,年盎,盎司,司扇,扇形,形生,肖蛇,蛇金,金币"
+    }
+  ]
+}

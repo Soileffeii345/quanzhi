@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2234219002",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2234219002",
+      "displayBoxCode": "2234219-002",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "第一版人民币绵羊5元",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/diyibanrenminbi/10378948.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2234219-002/",
+      "price": 5500,
+      "priceWithFee": 6050,
+      "transactedAt": "2026-07-09 20:09:10",
+      "productCode": "872235001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/27/872235001B.jpg",
+      "ocrConfidence": 31,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,第一,一版,版人,人民,民币,币绵,绵羊,羊元"
+    }
+  ]
+}

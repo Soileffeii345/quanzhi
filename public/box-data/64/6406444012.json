@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6406444012",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6406444012",
+      "displayBoxCode": "6406444-012",
+      "gradingCompany": "NGC",
+      "grade": "MS 67",
+      "coinName": "1980年长城币贰角二枚",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10356542.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6406444-012/67/",
+      "price": 560,
+      "priceWithFee": 604.8,
+      "transactedAt": "2026-06-24 21:23:25",
+      "productCode": "869686003",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/869686003A.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1980年,年长,长城,城币,币贰,贰角,角二,二枚"
+    }
+  ]
+}

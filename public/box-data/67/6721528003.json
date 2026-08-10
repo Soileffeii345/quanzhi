@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6721528003",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6721528003",
+      "displayBoxCode": "6721528-003",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2024年3克熊猫铂币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/433629.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6721528-003/70/",
+      "price": 1350,
+      "priceWithFee": null,
+      "transactedAt": "2024-05-31 08:49:51",
+      "productCode": "AA482285",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20240524/large_sell_klfh5hccsrb65d4f.jpg",
+      "ocrConfidence": 31,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "贵金属,币,2024年,3克,熊猫,年克,克熊,猫铂,铂币"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "coinName": "2018年金银币",
+  "slug": "43f88514",
+  "saleCount": 1,
+  "keywords": "金,银,币,2018年,年央,央美,美建,建校,校周,周年,年金,金银,银币",
+  "priceStats": {
+    "low": 5500,
+    "high": 5500,
+    "avg": 5500,
+    "latest": 5500
+  },
+  "records": [
+    {
+      "coinName": "2018年央美建校100周年金银币",
+      "normalizedBoxCode": "4547333022",
+      "displayBoxCode": "4547333-022",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/422927.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4547333-022/70/",
+      "price": 5500,
+      "priceWithFee": null,
+      "transactedAt": "2024-03-25 08:48:07",
+      "productCode": "KH052814",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,2018年,年央,央美,美建,建校,校周,周年,年金,金银,银币"
+    }
+  ]
+}

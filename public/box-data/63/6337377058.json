@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6337377058",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6337377058",
+      "displayBoxCode": "6337377-058",
+      "gradingCompany": "NGC",
+      "grade": "PF68 ULTRA CAMEO",
+      "coinName": "1991年德国慕尼黑国际钱币展销会-大熊猫1盎司银章",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10397402.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6337377-058/68/",
+      "price": 1020,
+      "priceWithFee": 1055.7,
+      "transactedAt": "2026-07-13 20:56:00",
+      "productCode": "874839001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/874839001A.jpg",
+      "ocrConfidence": 49,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,章,1991年,1盎司,熊猫,年德,德国,国慕,慕尼,尼黑,黑国,国际,际钱,钱币,币展,展销,销会,会大,大熊,猫盎,盎司,司银,银章,外国/特区"
+    }
+  ]
+}

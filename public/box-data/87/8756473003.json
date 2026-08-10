@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8756473003",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8756473003",
+      "displayBoxCode": "8756473-003",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1999年熊猫1盎司普制银币（大字版 SERIF 1）",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-jiuyin/10381869.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8756473-003/",
+      "price": 2100,
+      "priceWithFee": 2173.5,
+      "transactedAt": "2026-07-06 20:30:05",
+      "productCode": "872626001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/27/872626001A.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1999年,1盎司,熊猫,年熊,猫盎,盎司,司普,普制,制银,银币,币大,大字,字版"
+    }
+  ]
+}

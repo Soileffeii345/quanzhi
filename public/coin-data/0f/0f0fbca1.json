@@ -1,0 +1,31 @@
+{
+  "coinName": "2007年熊猫7.776克普制金币",
+  "slug": "0f0fbca1",
+  "saleCount": 1,
+  "keywords": "金,币,2007年,4盎司,熊猫,年熊,猫盎,盎司,司普,普制,制金,金币",
+  "priceStats": {
+    "low": 9900,
+    "high": 9900,
+    "avg": 9900,
+    "latest": 9900
+  },
+  "records": [
+    {
+      "coinName": "2007年熊猫1/4盎司普制金币",
+      "normalizedBoxCode": "8656076031",
+      "displayBoxCode": "8656076-031",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-jiujin/10390814.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8656076-031/",
+      "price": 9900,
+      "priceWithFee": 10246.5,
+      "transactedAt": "2026-07-09 21:32:45",
+      "productCode": "873930009",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2007年,4盎司,熊猫,年熊,猫盎,盎司,司普,普制,制金,金币"
+    }
+  ]
+}

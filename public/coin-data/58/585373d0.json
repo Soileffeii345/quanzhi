@@ -1,0 +1,31 @@
+{
+  "coinName": "1988年生肖15克银币",
+  "slug": "585373d0",
+  "saleCount": 1,
+  "keywords": "银,币,1988年,15克,生肖,年克,克生,肖龙,龙银,银币",
+  "priceStats": {
+    "low": 2450,
+    "high": 2450,
+    "avg": 2450,
+    "latest": 2450
+  },
+  "records": [
+    {
+      "coinName": "1988年15克生肖龙银币",
+      "normalizedBoxCode": "8499777005",
+      "displayBoxCode": "8499777-005",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/502118.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8499777-005/",
+      "price": 2450,
+      "priceWithFee": null,
+      "transactedAt": "2025-12-07 11:34:54",
+      "productCode": "AA587254",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1988年,15克,生肖,年克,克生,肖龙,龙银,银币"
+    }
+  ]
+}

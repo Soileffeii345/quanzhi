@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "3779288126",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "3779288126",
+      "displayBoxCode": "3779288-126",
+      "gradingCompany": "NGC",
+      "grade": "MS 70",
+      "coinName": "2013年1/20盎司熊猫金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/463858.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3779288-126/70/",
+      "price": 1150,
+      "priceWithFee": null,
+      "transactedAt": "2025-02-12 09:51:07",
+      "productCode": "KH059035",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250212/large_sell_njooy8n1hkahxyqu.jpg",
+      "ocrConfidence": 52,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2013年,20盎司,熊猫,年盎,盎司,司熊,猫金,金币"
+    }
+  ]
+}

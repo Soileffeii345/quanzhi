@@ -1,0 +1,65 @@
+{
+  "coinName": "2021年金银币",
+  "slug": "422207fa",
+  "saleCount": 3,
+  "keywords": "金,银,币,2021年,年能,能工,工巧,巧匠,匠第,第组,组金,金银,银币,年联,联合,合国,国生,生物,物多,多样,样性,性大,大会,会金",
+  "priceStats": {
+    "low": 4300,
+    "high": 7700,
+    "avg": 5433,
+    "latest": 7700
+  },
+  "records": [
+    {
+      "coinName": "2021年能工巧匠第2组金银币",
+      "normalizedBoxCode": "6160258054",
+      "displayBoxCode": "6160258-054",
+      "gradingCompany": "NGC",
+      "grade": "PF70 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/552274.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6160258-054/70/",
+      "price": 7700,
+      "priceWithFee": null,
+      "transactedAt": "2026-02-19 08:20:28",
+      "productCode": "KH119591",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,2021年,年能,能工,工巧,巧匠,匠第,第组,组金,金银,银币"
+    },
+    {
+      "coinName": "2021年联合国生物多样性大会金银币",
+      "normalizedBoxCode": "6173679001",
+      "displayBoxCode": "6173679-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/426510.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6173679-001/70/",
+      "price": 4300,
+      "priceWithFee": null,
+      "transactedAt": "2024-04-15 21:06:10",
+      "productCode": "KH054083",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,2021年,年联,联合,合国,国生,生物,物多,多样,样性,性大,大会,会金,金银,银币"
+    },
+    {
+      "coinName": "2021年联合国生物多样性大会金银币",
+      "normalizedBoxCode": "6173679002",
+      "displayBoxCode": "6173679-002",
+      "gradingCompany": "NGC",
+      "grade": "PF70 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/426510.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6173679-002/70/",
+      "price": 4300,
+      "priceWithFee": null,
+      "transactedAt": "2024-04-15 21:06:10",
+      "productCode": "KH054083",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,2021年,年联,联合,合国,国生,生物,物多,多样,样性,性大,大会,会金,金银,银币"
+    }
+  ]
+}

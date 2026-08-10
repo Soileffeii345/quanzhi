@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8186732004",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8186732004",
+      "displayBoxCode": "8186732-004",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2000年1公斤熊猫银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/552297.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8186732-004/69/",
+      "price": 45000,
+      "priceWithFee": null,
+      "transactedAt": "2026-02-08 00:07:59",
+      "productCode": "KH118342",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260205/large_sell_rnsaxtlwklh7hsrg.jpg",
+      "ocrConfidence": 38,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2000年,1公斤,熊猫,年公,公斤,斤熊,猫银,银币"
+    }
+  ]
+}

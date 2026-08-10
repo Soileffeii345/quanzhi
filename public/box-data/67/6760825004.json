@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6760825004",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6760825004",
+      "displayBoxCode": "6760825-004",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 CAMEO",
+      "coinName": "1979年1/2盎司建国30周年人民大会堂金币(CA/无标)",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/463678.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6760825-004/69/",
+      "price": 10660,
+      "priceWithFee": null,
+      "transactedAt": "2025-02-10 21:58:07",
+      "productCode": "KH058937",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250210/large_sell_qgec33c4inyis9zj.jpg",
+      "ocrConfidence": 47,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1979年,2盎司,重大事件,年盎,盎司,司建,建国,国周,周年,年人,人民,民大,大会,会堂,堂金,金币,币无,无标"
+    }
+  ]
+}

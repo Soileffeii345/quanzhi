@@ -1,0 +1,31 @@
+{
+  "coinName": "1991年熊猫1克普制金币",
+  "slug": "5d5ac0ac",
+  "saleCount": 1,
+  "keywords": "金,币,1991年,1克,熊猫,年熊,猫克,克普,普制,制金,金币",
+  "priceStats": {
+    "low": 1740,
+    "high": 1740,
+    "avg": 1740,
+    "latest": 1740
+  },
+  "records": [
+    {
+      "coinName": "1991年熊猫1克普制金币",
+      "normalizedBoxCode": "8819661010",
+      "displayBoxCode": "8819661-010",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-jiujin/10359408.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8819661-010/69/",
+      "price": 1740,
+      "priceWithFee": 1800.9,
+      "transactedAt": "2026-06-25 21:27:35",
+      "productCode": "870109005",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1991年,1克,熊猫,年熊,猫克,克普,普制,制金,金币"
+    }
+  ]
+}

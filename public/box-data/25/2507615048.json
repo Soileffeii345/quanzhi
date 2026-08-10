@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2507615048",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2507615048",
+      "displayBoxCode": "2507615-048",
+      "gradingCompany": "NGC",
+      "grade": "Ms66",
+      "coinName": "1985年长城币壹角",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10394737.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2507615-048/66/",
+      "price": 45,
+      "priceWithFee": 48.6,
+      "transactedAt": "2026-07-15 20:57:50",
+      "productCode": "874346002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/874346002A.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1985年,年长,长城,城币,币壹,壹角"
+    }
+  ]
+}

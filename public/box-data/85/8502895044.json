@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8502895044",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8502895044",
+      "displayBoxCode": "8502895-044",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2024年30克应县佛宫寺释迦塔银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/555365.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8502895-044/",
+      "price": 2350,
+      "priceWithFee": null,
+      "transactedAt": "2026-02-21 09:42:23",
+      "productCode": "KH119512",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260217/large_sell_znnkswwxuu2qedxi.jpg",
+      "ocrConfidence": 39,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2024年,30克,宗教,年克,克应,应县,县佛,佛宫,宫寺,寺释,释迦,迦塔,塔银,银币"
+    }
+  ]
+}

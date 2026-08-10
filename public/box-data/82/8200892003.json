@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8200892003",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8200892003",
+      "displayBoxCode": "8200892-003",
+      "gradingCompany": "NGC",
+      "grade": "PF69 ULTRA CAMEO",
+      "coinName": "1999年1/2盎司建国50周年金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/468791.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8200892-003/69/",
+      "price": 11075,
+      "priceWithFee": null,
+      "transactedAt": "2025-03-18 09:59:19",
+      "productCode": "KH061480",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250318/large_sell_u1gmllnrskfodf3n.jpg",
+      "ocrConfidence": 50,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1999年,2盎司,重大事件,年盎,盎司,司建,建国,国周,周年,年金,金币"
+    }
+  ]
+}

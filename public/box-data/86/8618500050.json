@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8618500050",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8618500050",
+      "displayBoxCode": "8618500-050",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1983年中国精制硬币贰分",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10402326.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8618500-050/",
+      "price": 180,
+      "priceWithFee": 194.4,
+      "transactedAt": "2026-07-15 21:56:35",
+      "productCode": "875161005",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/875161005A.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1983年,年中,中国,国精,精制,制硬,硬币,币贰,贰分,评级"
+    }
+  ]
+}

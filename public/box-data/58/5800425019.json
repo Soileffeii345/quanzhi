@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "5800425019",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "5800425019",
+      "displayBoxCode": "5800425-019",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2016年1/2盎司梅花形生肖猴金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/484801.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/5800425-019/70/",
+      "price": 12495,
+      "priceWithFee": null,
+      "transactedAt": "2025-06-20 22:41:34",
+      "productCode": "KH071278",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250620/large_sell_ljeitjxtgxecvy0j.jpg",
+      "ocrConfidence": 42,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2016年,2盎司,生肖,年盎,盎司,司梅,梅花,花形,形生,肖猴,猴金,金币"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2067050041",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2067050041",
+      "displayBoxCode": "2067050-041",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "民国29年中国银行拾圆",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10374592.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2067050-041/",
+      "price": 420,
+      "priceWithFee": 466.2,
+      "transactedAt": "2026-07-14 20:50:35",
+      "productCode": "871388002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/26/871388002B.jpg",
+      "ocrConfidence": 32,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国年,年中,中国,国银,银行,行拾,拾圆"
+    }
+  ]
+}

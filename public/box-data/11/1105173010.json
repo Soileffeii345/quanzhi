@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "1105173010",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "1105173010",
+      "displayBoxCode": "1105173-010",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1860年美国1美元纸币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10387933.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1105173-010/",
+      "price": 1000,
+      "priceWithFee": 1110,
+      "transactedAt": "2026-07-14 21:59:20",
+      "productCode": "873172001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/27/873172001B.jpg",
+      "ocrConfidence": 25,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1860年,年美,美国,国美,美元,元纸,纸币,外国/特区"
+    }
+  ]
+}

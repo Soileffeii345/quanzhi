@@ -1,0 +1,31 @@
+{
+  "coinName": "2003年28.28克金银币",
+  "slug": "1eb8f68d",
+  "saleCount": 1,
+  "keywords": "金,银,币,2003年,28.28克,年百,百慕,慕大,大女,女王,王皇,皇家,家访,访问,问克,克镀,镀金,金银,银币",
+  "priceStats": {
+    "low": 500,
+    "high": 500,
+    "avg": 500,
+    "latest": 500
+  },
+  "records": [
+    {
+      "coinName": "2003年百慕大女王皇家访问28.28克镀金银币",
+      "normalizedBoxCode": "6174289017",
+      "displayBoxCode": "6174289-017",
+      "gradingCompany": "NGC",
+      "grade": "PF69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/wgjsbizhang/10424742.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6174289-017/69/",
+      "price": 500,
+      "priceWithFee": 530,
+      "transactedAt": "2026-07-24 21:25:05",
+      "productCode": "877433018",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,2003年,28.28克,年百,百慕,慕大,大女,女王,王皇,皇家,家访,访问,问克,克镀,镀金,金银,银币"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "coinName": "2020年5克精制银币",
+  "slug": "0a60a428",
+  "saleCount": 3,
+  "keywords": "银,币,2020年,5克,年紫,紫禁,禁城,城建,建成,成年,年克,克精,精制,制银,银币,币二,二枚,评级",
+  "priceStats": {
+    "low": 310,
+    "high": 360,
+    "avg": 327,
+    "latest": 360
+  },
+  "records": [
+    {
+      "coinName": "2020年紫禁城建成600年5克精制银币二枚",
+      "normalizedBoxCode": "6050619066",
+      "displayBoxCode": "6050619-066",
+      "gradingCompany": "NGC",
+      "grade": "PF69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10373217.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6050619-066/69/",
+      "price": 360,
+      "priceWithFee": 372.6,
+      "transactedAt": "2026-07-13 21:59:45",
+      "productCode": "871910001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2020年,5克,年紫,紫禁,禁城,城建,建成,成年,年克,克精,精制,制银,银币,币二,二枚,评级"
+    },
+    {
+      "coinName": "2020年紫禁城建成600年5克精制银币",
+      "normalizedBoxCode": "6054118042",
+      "displayBoxCode": "6054118-042",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10356539.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6054118-042/70/",
+      "price": 310,
+      "priceWithFee": 320.85,
+      "transactedAt": "2026-06-27 20:41:05",
+      "productCode": "869685012",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2020年,5克,年紫,紫禁,禁城,城建,建成,成年,年克,克精,精制,制银,银币,评级"
+    },
+    {
+      "coinName": "2020年紫禁城建成600年5克精制银币",
+      "normalizedBoxCode": "6054118044",
+      "displayBoxCode": "6054118-044",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10356538.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6054118-044/70/",
+      "price": 310,
+      "priceWithFee": 320.85,
+      "transactedAt": "2026-06-27 20:07:35",
+      "productCode": "869685011",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2020年,5克,年紫,紫禁,禁城,城建,建成,成年,年克,克精,精制,制银,银币,评级"
+    }
+  ]
+}

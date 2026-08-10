@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4321235001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4321235001",
+      "displayBoxCode": "4321235-001",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "coinName": "2008年1盎司扇形生肖鼠银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/529306.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4321235-001/69/",
+      "price": 860,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-24 07:40:49",
+      "productCode": "KH109203",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260108/large_sell_eov3khbidwyhiyqo.jpg",
+      "ocrConfidence": 32,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2008年,1盎司,生肖,年盎,盎司,司扇,扇形,形生,肖鼠,鼠银,银币"
+    }
+  ]
+}

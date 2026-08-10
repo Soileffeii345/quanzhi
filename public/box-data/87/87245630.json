@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "87245630",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "87245630",
+      "displayBoxCode": "87245630",
+      "gradingCompany": "PCGS",
+      "grade": "MS62",
+      "coinName": "民国十八年广东省造孙中山像贰毫银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/478065.html",
+      "officialCertUrl": "https://cn.pcgs.com/cert/87245630",
+      "price": 380,
+      "priceWithFee": null,
+      "transactedAt": "2025-09-26 15:06:08",
+      "productCode": "KH080606",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250517/large_sell_5zymqlafkcfyb72z.jpg",
+      "ocrConfidence": 31,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,历史币,广东,粤造,孙小头,孙中山,小头,民国,国十,十八,八年,年广,东省,省造,造孙,孙中,中山,山像,像贰,贰毫,毫银,银币"
+    }
+  ]
+}

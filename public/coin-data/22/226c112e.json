@@ -1,0 +1,31 @@
+{
+  "coinName": "1999年庆祝中华人民共和国澳门特别行政区成立流通纪念币",
+  "slug": "226c112e",
+  "saleCount": 1,
+  "keywords": "币,1999年,年庆,庆祝,祝中,中华,华人,人民,民共,共和,和国,国澳,澳门,门特,特别,别行,行政,政区,区成,成立,立流,流通,通纪,纪念,念币,币二,二枚,枚一,一套,外国/特区",
+  "priceStats": {
+    "low": 120,
+    "high": 120,
+    "avg": 120,
+    "latest": 120
+  },
+  "records": [
+    {
+      "coinName": "1999年庆祝中华人民共和国澳门特别行政区成立流通纪念币二枚一套",
+      "normalizedBoxCode": "6197188037",
+      "displayBoxCode": "6197188-037",
+      "gradingCompany": "NGC",
+      "grade": "MS 66",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10352607.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6197188-037/66/",
+      "price": 120,
+      "priceWithFee": 129.6,
+      "transactedAt": "2026-07-01 19:35:05",
+      "productCode": "869161008",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1999年,年庆,庆祝,祝中,中华,华人,人民,民共,共和,和国,国澳,澳门,门特,特别,别行,行政,政区,区成,成立,立流,流通,通纪,纪念,念币,币二,二枚,枚一,一套,外国/特区"
+    }
+  ]
+}

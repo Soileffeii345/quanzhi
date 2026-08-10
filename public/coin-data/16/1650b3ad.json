@@ -1,0 +1,82 @@
+{
+  "coinName": "2017年3克金币",
+  "slug": "1650b3ad",
+  "saleCount": 4,
+  "keywords": "金,币,2017年,3克,戏曲,年克,克中,中国,国黄,黄梅,梅戏,戏女,女驸,驸马,马金,金币,克金,金砖,砖国,国家,家领,领导,导人,人厦,厦门,门会,会晤,晤金",
+  "priceStats": {
+    "low": 2360,
+    "high": 4500,
+    "avg": 3095,
+    "latest": 4500
+  },
+  "records": [
+    {
+      "coinName": "2017年3克中国黄梅戏女驸马金币",
+      "normalizedBoxCode": "4287928029",
+      "displayBoxCode": "4287928-029",
+      "gradingCompany": "NGC",
+      "grade": "PF70 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/565707.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4287928-029/70/",
+      "price": 4500,
+      "priceWithFee": null,
+      "transactedAt": "2026-03-27 19:19:32",
+      "productCode": "AA632750",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2017年,3克,戏曲,年克,克中,中国,国黄,黄梅,梅戏,戏女,女驸,驸马,马金,金币"
+    },
+    {
+      "coinName": "2017年3克金砖国家领导人厦门会晤金币",
+      "normalizedBoxCode": "6045568012",
+      "displayBoxCode": "6045568-012",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/523765.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6045568-012/",
+      "price": 3090,
+      "priceWithFee": null,
+      "transactedAt": "2025-12-23 11:26:10",
+      "productCode": "KH097349",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2017年,3克,年克,克金,金砖,砖国,国家,家领,领导,导人,人厦,厦门,门会,会晤,晤金,金币"
+    },
+    {
+      "coinName": "2017年3克金砖国家领导人厦门会晤金币",
+      "normalizedBoxCode": "6045568012",
+      "displayBoxCode": "6045568-012",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/497493.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6045568-012/70/",
+      "price": 2430,
+      "priceWithFee": null,
+      "transactedAt": "2025-08-31 08:46:35",
+      "productCode": "KH080338",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2017年,3克,年克,克金,金砖,砖国,国家,家领,领导,导人,人厦,厦门,门会,会晤,晤金,金币"
+    },
+    {
+      "coinName": "2017年3克中国黄梅戏女驸马金币",
+      "normalizedBoxCode": "6151823008",
+      "displayBoxCode": "6151823-008",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/491794.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6151823-008/69/",
+      "price": 2360,
+      "priceWithFee": null,
+      "transactedAt": "2025-07-30 20:31:34",
+      "productCode": "KH077345",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2017年,3克,戏曲,年克,克中,中国,国黄,黄梅,梅戏,戏女,女驸,驸马,马金,金币"
+    }
+  ]
+}

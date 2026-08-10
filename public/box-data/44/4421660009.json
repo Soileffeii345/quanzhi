@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4421660009",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4421660009",
+      "displayBoxCode": "4421660-009",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2016年8克大足石刻金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/513137.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4421660-009/",
+      "price": 9000,
+      "priceWithFee": null,
+      "transactedAt": "2025-12-22 09:07:16",
+      "productCode": "AA594758A",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251105/large_sell_zde7rzfyfaytsjgz.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2016年,8克,年克,克大,大足,足石,石刻,刻金,金币"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4583792002",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4583792002",
+      "displayBoxCode": "4583792-002",
+      "gradingCompany": "NGC",
+      "grade": "PF70",
+      "coinName": "2008年1/4盎司海南经济特区成立20周年金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/523774.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4583792-002/70/",
+      "price": 8010,
+      "priceWithFee": null,
+      "transactedAt": "2025-12-23 10:53:04",
+      "productCode": "KH097351",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251223/large_sell_aenlmcclpqawrcok.jpg",
+      "ocrConfidence": 48,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2008年,4盎司,年盎,盎司,司海,海南,南经,经济,济特,特区,区成,成立,立周,周年,年金,金币"
+    }
+  ]
+}

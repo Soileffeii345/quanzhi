@@ -1,0 +1,31 @@
+{
+  "coinName": "2008年生肖5盎司精制银币",
+  "slug": "2adbed9e",
+  "saleCount": 1,
+  "keywords": "银,币,2008年,5盎司,生肖,年戊,戊子,子鼠,鼠年,年生,肖盎,盎司,司长,长方,方形,形精,精制,制银,银币,评级",
+  "priceStats": {
+    "low": 5400,
+    "high": 5400,
+    "avg": 5400,
+    "latest": 5400
+  },
+  "records": [
+    {
+      "coinName": "2008年戊子鼠年生肖5盎司长方形精制银币",
+      "normalizedBoxCode": "8757937001",
+      "displayBoxCode": "8757937-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10387359.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8757937-001/69/",
+      "price": 5400,
+      "priceWithFee": 5589,
+      "transactedAt": "2026-07-09 20:53:25",
+      "productCode": "873643005",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2008年,5盎司,生肖,年戊,戊子,子鼠,鼠年,年生,肖盎,盎司,司长,长方,方形,形精,精制,制银,银币,评级"
+    }
+  ]
+}

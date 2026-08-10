@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6153003007",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6153003007",
+      "displayBoxCode": "6153003-007",
+      "gradingCompany": "NGC",
+      "grade": "PF70 ULTRA CAMEO",
+      "coinName": "2013年1盎司梅花形生肖蛇银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/495664.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6153003-007/70/",
+      "price": 1300,
+      "priceWithFee": null,
+      "transactedAt": "2026-02-28 22:29:47",
+      "productCode": "AA580543",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250821/large_sell_kertuaqutpkyzcn5.jpg",
+      "ocrConfidence": 37,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2013年,1盎司,生肖,年盎,盎司,司梅,梅花,花形,形生,肖蛇,蛇银,银币"
+    }
+  ]
+}

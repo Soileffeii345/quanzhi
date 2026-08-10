@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6053207032",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6053207032",
+      "displayBoxCode": "6053207-032",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2008年1/3盎司中国首次太空行走成功彩金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/472881.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6053207-032/69/",
+      "price": 8040,
+      "priceWithFee": null,
+      "transactedAt": "2025-04-12 15:30:29",
+      "productCode": "KH064218",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250412/large_sell_trk5hjuvscoqr8m3.jpg",
+      "ocrConfidence": 43,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2008年,3盎司,年盎,盎司,司中,中国,国首,首次,次太,太空,空行,行走,走成,成功,功彩,彩金,金币"
+    }
+  ]
+}

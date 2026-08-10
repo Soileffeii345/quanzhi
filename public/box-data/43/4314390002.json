@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4314390002",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4314390002",
+      "displayBoxCode": "4314390-002",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2016年1公斤熊猫银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/471358.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4314390-002/69/",
+      "price": 8375,
+      "priceWithFee": null,
+      "transactedAt": "2025-04-02 10:40:39",
+      "productCode": "KH063476",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250402/large_sell_cuqwwi4p4ygayrj2.jpg",
+      "ocrConfidence": 50,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2016年,1公斤,熊猫,年公,公斤,斤熊,猫银,银币"
+    }
+  ]
+}

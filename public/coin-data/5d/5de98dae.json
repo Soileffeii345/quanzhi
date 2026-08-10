@@ -1,0 +1,31 @@
+{
+  "coinName": "1999年生肖3盎司精制银币",
+  "slug": "5de98dae",
+  "saleCount": 1,
+  "keywords": "银,币,1999年,3盎司,生肖,年己,己卯,卯兔,兔年,年生,肖盎,盎司,司梅,梅花,花形,形精,精制,制银,银币,评级",
+  "priceStats": {
+    "low": 1440,
+    "high": 1440,
+    "avg": 1440,
+    "latest": 1440
+  },
+  "records": [
+    {
+      "coinName": "1999年己卯兔年生肖2/3盎司梅花形精制银币",
+      "normalizedBoxCode": "8631245016",
+      "displayBoxCode": "8631245-016",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10360147.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8631245-016/69/",
+      "price": 1440,
+      "priceWithFee": 1490.4,
+      "transactedAt": "2026-06-29 20:26:25",
+      "productCode": "870148006",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1999年,3盎司,生肖,年己,己卯,卯兔,兔年,年生,肖盎,盎司,司梅,梅花,花形,形精,精制,制银,银币,评级"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "coinName": "2024年30克银币",
+  "slug": "0898905a",
+  "saleCount": 4,
+  "keywords": "银,币,2024年,30克,年克,克方,方形,形纸,纸币,币千,千年,年银,银币",
+  "priceStats": {
+    "low": 700,
+    "high": 2400,
+    "avg": 1775,
+    "latest": 2000
+  },
+  "records": [
+    {
+      "coinName": "2024年30克方形纸币千年银币",
+      "normalizedBoxCode": "6726135003",
+      "displayBoxCode": "6726135-003",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/557749.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6726135-003/70/",
+      "price": 2000,
+      "priceWithFee": null,
+      "transactedAt": "2026-03-10 12:25:44",
+      "productCode": "KH121904",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2024年,30克,年克,克方,方形,形纸,纸币,币千,千年,年银,银币"
+    },
+    {
+      "coinName": "2024年30克方形纸币千年银币",
+      "normalizedBoxCode": "8181160021",
+      "displayBoxCode": "8181160-021",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/477842.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8181160-021/70/",
+      "price": 2000,
+      "priceWithFee": null,
+      "transactedAt": "2025-05-19 01:17:15",
+      "productCode": "AA562259",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2024年,30克,年克,克方,方形,形纸,纸币,币千,千年,年银,银币"
+    },
+    {
+      "coinName": "2024年30克方形纸币千年银币",
+      "normalizedBoxCode": "8193680047",
+      "displayBoxCode": "8193680-047",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/455498.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8193680-047/",
+      "price": 700,
+      "priceWithFee": null,
+      "transactedAt": "2025-05-21 18:58:59",
+      "productCode": "AA534244",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2024年,30克,年克,克方,方形,形纸,纸币,币千,千年,年银,银币"
+    },
+    {
+      "coinName": "2024年30克方形纸币千年银币",
+      "normalizedBoxCode": "8193715002",
+      "displayBoxCode": "8193715-002",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/550806.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8193715-002/70/",
+      "price": 2400,
+      "priceWithFee": null,
+      "transactedAt": "2026-02-01 20:10:24",
+      "productCode": "KH116897",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2024年,30克,年克,克方,方形,形纸,纸币,币千,千年,年银,银币"
+    }
+  ]
+}

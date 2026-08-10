@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2031314076",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2031314076",
+      "displayBoxCode": "2031314-076",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "民国十年劝业银行郑州地名伍圆",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shangyeyinhangzhichao/10356882.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2031314-076/",
+      "price": 5100,
+      "priceWithFee": 5661,
+      "transactedAt": "2026-07-28 21:24:05",
+      "productCode": "869591013",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/869591013B.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国十,十年,年劝,劝业,业银,银行,行郑,郑州,州地,地名,名伍,伍圆"
+    }
+  ]
+}

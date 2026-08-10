@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2485426047",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2485426047",
+      "displayBoxCode": "2485426-047",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1982年香港上海汇丰银行拾圆",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xianggangzhichao/10420625.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2485426-047/",
+      "price": 290,
+      "priceWithFee": 321.9,
+      "transactedAt": "2026-07-25 22:09:10",
+      "productCode": "877014010",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/877014010B.jpg",
+      "ocrConfidence": 32,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,1982年,年香,香港,港上,上海,海汇,汇丰,丰银,银行,行拾,拾圆,外国/特区"
+    }
+  ]
+}

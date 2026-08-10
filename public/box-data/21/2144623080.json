@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2144623080",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2144623080",
+      "displayBoxCode": "2144623-080",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2009年渣打银行港币壹佰伍拾圆",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/liantichao-jinianchao/10373874.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2144623-080/",
+      "price": 660,
+      "priceWithFee": 712.8,
+      "transactedAt": "2026-06-30 21:11:20",
+      "productCode": "871685004",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/26/871685004B.jpg",
+      "ocrConfidence": 28,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2009年,年渣,渣打,打银,银行,行港,港币,币壹,壹佰,佰伍,伍拾,拾圆"
+    }
+  ]
+}

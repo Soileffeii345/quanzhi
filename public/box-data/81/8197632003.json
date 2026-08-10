@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8197632003",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8197632003",
+      "displayBoxCode": "8197632-003",
+      "gradingCompany": "NGC",
+      "grade": "MS 70",
+      "coinName": "2016年30克熊猫金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/587880.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8197632-003/70/",
+      "price": 29325,
+      "priceWithFee": null,
+      "transactedAt": "2026-06-06 20:22:23",
+      "productCode": "KH137910",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260606/large_sell_ixnd1p8ajfj7t7r5.jpg",
+      "ocrConfidence": 40,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2016年,30克,熊猫,年克,克熊,猫金,金币"
+    }
+  ]
+}

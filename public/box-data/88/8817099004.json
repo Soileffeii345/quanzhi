@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8817099004",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8817099004",
+      "displayBoxCode": "8817099-004",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "coinName": "2002年熊猫1盎司普制金币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-jiujin/10405177.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8817099-004/69/",
+      "price": 31500,
+      "priceWithFee": 32602.5,
+      "transactedAt": "2026-07-16 20:55:55",
+      "productCode": "875605005",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/875605005A.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2002年,1盎司,熊猫,年熊,猫盎,盎司,司普,普制,制金,金币"
+    }
+  ]
+}

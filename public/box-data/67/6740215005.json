@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6740215005",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6740215005",
+      "displayBoxCode": "6740215-005",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2023年吉祥文化-比翼双飞精制金银币二枚一套（含3克金、30克银）",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10376597.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6740215-005/70/",
+      "price": 6700,
+      "priceWithFee": 6934.5,
+      "transactedAt": "2026-07-04 21:33:05",
+      "productCode": "871748002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/26/871748002A.jpg",
+      "ocrConfidence": 41,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,2023年,3克,吉祥文化,年吉,吉祥,祥文,文化,化比,比翼,翼双,双飞,飞精,精制,制金,金银,银币,币二,二枚,枚一,一套,套含,含克,克金,金克,克银,评级"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "80293100",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "80293100",
+      "displayBoxCode": "80293100",
+      "gradingCompany": "PCGS",
+      "grade": "待复核",
+      "coinName": "2011年1/4盎司京剧脸谱第2组关羽彩金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/504094.html",
+      "officialCertUrl": "https://cn.pcgs.com/cert/80293100",
+      "price": 7165,
+      "priceWithFee": null,
+      "transactedAt": "2025-10-08 11:35:18",
+      "productCode": "KH085144A",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250924/large_sell_uwimhuq6j93q7dxp.jpg",
+      "ocrConfidence": 29,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2011年,4盎司,戏曲,年盎,盎司,司京,京剧,剧脸,脸谱,谱第,第组,组关,关羽,羽彩,彩金,金币"
+    }
+  ]
+}

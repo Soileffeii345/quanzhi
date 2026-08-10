@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8761123005",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8761123005",
+      "displayBoxCode": "8761123-005",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2021年吉祥文化-寸草春晖60克精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10363182.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8761123-005/69/",
+      "price": 1560,
+      "priceWithFee": 1614.6,
+      "transactedAt": "2026-06-27 21:18:05",
+      "productCode": "870614011",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/870614011A.jpg",
+      "ocrConfidence": 38,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2021年,60克,吉祥文化,年吉,吉祥,祥文,文化,化寸,寸草,草春,春晖,晖克,克精,精制,制银,银币,评级"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "coinName": "1998年25.175克银币",
+  "slug": "30fa0318",
+  "saleCount": 1,
+  "keywords": "银,币,1998年,25.175克,年加,加拿,拿大,大皇,皇家,家骑,骑警,警克,克银,银币,外国/特区",
+  "priceStats": {
+    "low": 680,
+    "high": 680,
+    "avg": 680,
+    "latest": 680
+  },
+  "records": [
+    {
+      "coinName": "1998年加拿大皇家骑警25.175克银币",
+      "normalizedBoxCode": "8504636044",
+      "displayBoxCode": "8504636-044",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/wgjsbizhang/10354163.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8504636-044/69/",
+      "price": 680,
+      "priceWithFee": 720.8,
+      "transactedAt": "2026-06-19 20:15:25",
+      "productCode": "869380024",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1998年,25.175克,年加,加拿,拿大,大皇,皇家,家骑,骑警,警克,克银,银币,外国/特区"
+    }
+  ]
+}

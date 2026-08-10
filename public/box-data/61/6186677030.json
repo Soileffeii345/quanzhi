@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6186677030",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6186677030",
+      "displayBoxCode": "6186677-030",
+      "gradingCompany": "NGC",
+      "grade": "MS 67",
+      "coinName": "1985年长城币壹圆、伍角、壹角各一枚，共三枚",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10356544.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6186677-030/67/",
+      "price": 420,
+      "priceWithFee": 453.6,
+      "transactedAt": "2026-06-24 20:56:05",
+      "productCode": "869686005",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/869686005A.jpg",
+      "ocrConfidence": 41,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1985年,年长,长城,城币,币壹,壹圆,圆伍,伍角,角壹,壹角,角各,各一,一枚,枚共,共三,三枚"
+    }
+  ]
+}

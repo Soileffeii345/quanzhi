@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8504636021",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8504636021",
+      "displayBoxCode": "8504636-021",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2014年加拿大五大湖系列伊利湖镶嵌珐琅31.39克彩色银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/wgjsbizhang/10365714.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8504636-021/",
+      "price": 760,
+      "priceWithFee": 805.6,
+      "transactedAt": "2026-06-26 19:57:15",
+      "productCode": "870452020",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/26/870452020A.jpg",
+      "ocrConfidence": 39,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2014年,31.39克,年加,加拿,拿大,大五,五大,大湖,湖系,系列,列伊,伊利,利湖,湖镶,镶嵌,嵌珐,珐琅,琅克,克彩,彩色,色银,银币,外国/特区"
+    }
+  ]
+}

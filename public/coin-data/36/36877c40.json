@@ -1,0 +1,31 @@
+{
+  "coinName": "广东省造光绪元宝库平七分二厘银元",
+  "slug": "36877c40",
+  "saleCount": 1,
+  "keywords": "银,历史币,龙洋,龙,元宝,广东,粤造,东省,省造,造光,光绪,绪元,宝库,库平,平七,七分,分二,二厘,厘银,银元",
+  "priceStats": {
+    "low": 990,
+    "high": 990,
+    "avg": 990,
+    "latest": 990
+  },
+  "records": [
+    {
+      "coinName": "广东省造光绪元宝库平七分二厘银元",
+      "normalizedBoxCode": "8755343026",
+      "displayBoxCode": "8755343-026",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguojindaijizhibi/10376884.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8755343-026/",
+      "price": 990,
+      "priceWithFee": 1069.2,
+      "transactedAt": "2026-07-20 19:59:35",
+      "productCode": "871089006",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,龙洋,龙,元宝,广东,粤造,东省,省造,造光,光绪,绪元,宝库,库平,平七,七分,分二,二厘,厘银,银元"
+    }
+  ]
+}

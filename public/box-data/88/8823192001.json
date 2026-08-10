@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8823192001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8823192001",
+      "displayBoxCode": "8823192-001",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1996年金莲观音1/10盎司普制金币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10417725.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8823192-001/",
+      "price": 3250,
+      "priceWithFee": 3363.75,
+      "transactedAt": "2026-07-23 21:01:45",
+      "productCode": "877176006",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/877176006A.jpg",
+      "ocrConfidence": 44,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1996年,10盎司,宗教,年金,金莲,莲观,观音,音盎,盎司,司普,普制,制金,金币"
+    }
+  ]
+}

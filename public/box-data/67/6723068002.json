@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6723068002",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6723068002",
+      "displayBoxCode": "6723068-002",
+      "gradingCompany": "NGC",
+      "grade": "PF69 ULTRA CAMEO",
+      "coinName": "2013年1/4盎司普陀山金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/471922.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6723068-002/69/",
+      "price": 5695,
+      "priceWithFee": null,
+      "transactedAt": "2025-04-06 16:42:22",
+      "productCode": "KH063744",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250406/large_sell_bkd4ws1wzibbbzqu.jpg",
+      "ocrConfidence": 39,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2013年,4盎司,年盎,盎司,司普,普陀,陀山,山金,金币"
+    }
+  ]
+}

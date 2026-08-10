@@ -1,0 +1,31 @@
+{
+  "coinName": "1998年中国珍稀野生动物扬子鳄流通纪念币",
+  "slug": "37dd06a4",
+  "saleCount": 1,
+  "keywords": "币,1998年,年中,中国,国珍,珍稀,稀野,野生,生动,动物,物扬,扬子,子鳄,鳄流,流通,通纪,纪念,念币",
+  "priceStats": {
+    "low": 300,
+    "high": 300,
+    "avg": 300,
+    "latest": 300
+  },
+  "records": [
+    {
+      "coinName": "1998年中国珍稀野生动物扬子鳄流通纪念币",
+      "normalizedBoxCode": "6186530024",
+      "displayBoxCode": "6186530-024",
+      "gradingCompany": "NGC",
+      "grade": "MS 66",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/356565.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6186530-024/66/",
+      "price": 300,
+      "priceWithFee": null,
+      "transactedAt": "2026-08-09 22:41:09",
+      "productCode": "KH144166",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1998年,年中,中国,国珍,珍稀,稀野,野生,生动,动物,物扬,扬子,子鳄,鳄流,流通,通纪,纪念,念币"
+    }
+  ]
+}

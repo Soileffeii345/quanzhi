@@ -1,0 +1,48 @@
+{
+  "coinName": "2001年巴哈马纸钞",
+  "slug": "0818017a",
+  "saleCount": 2,
+  "keywords": "钞,2001年,年巴,巴哈,哈马,马纸,纸钞",
+  "priceStats": {
+    "low": 85,
+    "high": 95,
+    "avg": 90,
+    "latest": 95
+  },
+  "records": [
+    {
+      "coinName": "2001年巴哈马纸钞",
+      "normalizedBoxCode": "2400749101",
+      "displayBoxCode": "2400749-101",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10371439.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2400749-101/",
+      "price": 95,
+      "priceWithFee": 105.45,
+      "transactedAt": "2026-07-07 21:39:50",
+      "productCode": "871453023",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,2001年,年巴,巴哈,哈马,马纸,纸钞"
+    },
+    {
+      "coinName": "2001年巴哈马纸钞",
+      "normalizedBoxCode": "2400749102",
+      "displayBoxCode": "2400749-102",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10371440.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2400749-102/",
+      "price": 85,
+      "priceWithFee": 94.35,
+      "transactedAt": "2026-07-07 22:02:05",
+      "productCode": "871453024",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,2001年,年巴,巴哈,哈马,马纸,纸钞"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "coinName": "2025年熊猫30克普制银币",
+  "slug": "1bb2d0a0",
+  "saleCount": 2,
+  "keywords": "银,币,2025年,30克,熊猫,年熊,猫克,克普,普制,制银,银币,币卡,卡册",
+  "priceStats": {
+    "low": 730,
+    "high": 810,
+    "avg": 770,
+    "latest": 730
+  },
+  "records": [
+    {
+      "coinName": "2025年熊猫30克普制银币",
+      "normalizedBoxCode": "6718733016",
+      "displayBoxCode": "6718733-016",
+      "gradingCompany": "NGC",
+      "grade": "MS 70",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-xinyin/10426956.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6718733-016/70/",
+      "price": 730,
+      "priceWithFee": 755.55,
+      "transactedAt": "2026-07-27 22:07:10",
+      "productCode": "878021003",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2025年,30克,熊猫,年熊,猫克,克普,普制,制银,银币"
+    },
+    {
+      "coinName": "2025年熊猫30克普制银币（卡册）",
+      "normalizedBoxCode": "8651198002",
+      "displayBoxCode": "8651198-002",
+      "gradingCompany": "NGC",
+      "grade": "MS 70",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-xinyin/10430384.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8651198-002/70/",
+      "price": 810,
+      "priceWithFee": 838.35,
+      "transactedAt": "2026-07-27 19:54:40",
+      "productCode": "878516020",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2025年,30克,熊猫,年熊,猫克,克普,普制,制银,银币,币卡,卡册"
+    }
+  ]
+}

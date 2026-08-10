@@ -1,0 +1,48 @@
+{
+  "coinName": "1987年3盎司金币",
+  "slug": "42b320e3",
+  "saleCount": 2,
+  "keywords": "金,币,1987年,3盎司,年盎,盎司,司历,历史,史人,人物,物第,第组,组李,李世,世民,民金,金币",
+  "priceStats": {
+    "low": 7120,
+    "high": 7520,
+    "avg": 7320,
+    "latest": 7520
+  },
+  "records": [
+    {
+      "coinName": "1987年1/3盎司历史人物第4组李世民金币",
+      "normalizedBoxCode": "3501304016",
+      "displayBoxCode": "3501304-016",
+      "gradingCompany": "NGC",
+      "grade": "PF 68 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/471928.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3501304-016/68/",
+      "price": 7520,
+      "priceWithFee": null,
+      "transactedAt": "2025-04-06 17:02:22",
+      "productCode": "KH063746",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1987年,3盎司,年盎,盎司,司历,历史,史人,人物,物第,第组,组李,李世,世民,民金,金币"
+    },
+    {
+      "coinName": "1987年1/3盎司历史人物第4组李世民金币",
+      "normalizedBoxCode": "4410320005",
+      "displayBoxCode": "4410320-005",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/467365.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4410320-005/",
+      "price": 7120,
+      "priceWithFee": null,
+      "transactedAt": "2025-03-07 17:55:36",
+      "productCode": "AA553856",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1987年,3盎司,年盎,盎司,司历,历史,史人,人物,物第,第组,组李,李世,世民,民金,金币"
+    }
+  ]
+}

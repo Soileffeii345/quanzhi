@@ -1,0 +1,82 @@
+{
+  "coinName": "2009年生肖15.552克金币",
+  "slug": "3885fc5a",
+  "saleCount": 4,
+  "keywords": "金,币,2009年,2盎司,生肖,年盎,盎司,司扇,扇形,形生,肖牛,牛金,金币,司梅,梅花,花形",
+  "priceStats": {
+    "low": 12565,
+    "high": 18600,
+    "avg": 14499,
+    "latest": 12565
+  },
+  "records": [
+    {
+      "coinName": "2009年1/2盎司扇形生肖牛金币",
+      "normalizedBoxCode": "6186989008",
+      "displayBoxCode": "6186989-008",
+      "gradingCompany": "NGC",
+      "grade": "MS 70",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/483620.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6186989-008/70/",
+      "price": 12565,
+      "priceWithFee": null,
+      "transactedAt": "2025-06-15 01:49:44",
+      "productCode": "KH069518",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2009年,2盎司,生肖,年盎,盎司,司扇,扇形,形生,肖牛,牛金,金币"
+    },
+    {
+      "coinName": "2009年1/2盎司扇形生肖牛金币",
+      "normalizedBoxCode": "6190668040",
+      "displayBoxCode": "6190668-040",
+      "gradingCompany": "NGC",
+      "grade": "MS 70",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/483621.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6190668-040/70/",
+      "price": 12565,
+      "priceWithFee": null,
+      "transactedAt": "2025-06-15 02:49:14",
+      "productCode": "KH069521",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2009年,2盎司,生肖,年盎,盎司,司扇,扇形,形生,肖牛,牛金,金币"
+    },
+    {
+      "coinName": "2009年1/2盎司梅花形生肖牛金币",
+      "normalizedBoxCode": "6752760008",
+      "displayBoxCode": "6752760-008",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/585131.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6752760-008/70/",
+      "price": 18600,
+      "priceWithFee": null,
+      "transactedAt": "2026-06-13 18:22:38",
+      "productCode": "KH138784",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2009年,2盎司,生肖,年盎,盎司,司梅,梅花,花形,形生,肖牛,牛金,金币"
+    },
+    {
+      "coinName": "2009年1/2盎司扇形生肖牛金币",
+      "normalizedBoxCode": "8497899009",
+      "displayBoxCode": "8497899-009",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/504442.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8497899-009/69/",
+      "price": 14265,
+      "priceWithFee": null,
+      "transactedAt": "2025-10-09 22:25:10",
+      "productCode": "KH086479",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2009年,2盎司,生肖,年盎,盎司,司扇,扇形,形生,肖牛,牛金,金币"
+    }
+  ]
+}

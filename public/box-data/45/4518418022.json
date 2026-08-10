@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4518418022",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4518418022",
+      "displayBoxCode": "4518418-022",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2017年8克熊猫金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/499546.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4518418-022/",
+      "price": 6830,
+      "priceWithFee": null,
+      "transactedAt": "2025-09-10 19:29:52",
+      "productCode": "AA581835A",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250827/large_sell_fmfqhxegaaqrb6ch.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2017年,8克,熊猫,年克,克熊,猫金,金币"
+    }
+  ]
+}

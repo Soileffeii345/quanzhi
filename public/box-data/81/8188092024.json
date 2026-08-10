@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8188092024",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8188092024",
+      "displayBoxCode": "8188092-024",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1980年中国奥委会古代蹴鞠铜币(CA/无标)",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/513957.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8188092-024/",
+      "price": 760,
+      "priceWithFee": null,
+      "transactedAt": "2025-12-24 11:02:22",
+      "productCode": "AA597792",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251120/large_sell_bbu5k5djeih8itr2.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "铜,币,1980年,年中,中国,国奥,奥委,委会,会古,古代,代蹴,蹴鞠,鞠铜,铜币,币无,无标"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6196616052",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6196616052",
+      "displayBoxCode": "6196616-052",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2001年1/2盎司梅花形生肖蛇金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/473595.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6196616-052/69/",
+      "price": 12410,
+      "priceWithFee": null,
+      "transactedAt": "2025-04-17 09:38:12",
+      "productCode": "KH064604",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250417/large_sell_ldkf29rcbr0nd8ez.jpg",
+      "ocrConfidence": 52,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2001年,2盎司,生肖,年盎,盎司,司梅,梅花,花形,形生,肖蛇,蛇金,金币"
+    }
+  ]
+}

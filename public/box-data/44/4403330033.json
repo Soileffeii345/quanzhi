@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4403330033",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4403330033",
+      "displayBoxCode": "4403330-033",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2016年8克吉祥文化瓜瓞绵绵金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/467927.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4403330-033/",
+      "price": 5645,
+      "priceWithFee": null,
+      "transactedAt": "2025-03-13 13:10:08",
+      "productCode": "AA554437",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250313/large_sell_tgiageyr7zgqlhlr.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2016年,8克,吉祥文化,年克,克吉,吉祥,祥文,文化,化瓜,瓜瓞,瓞绵,绵绵,绵金,金币"
+    }
+  ]
+}

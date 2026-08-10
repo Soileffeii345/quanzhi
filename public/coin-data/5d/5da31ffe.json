@@ -1,0 +1,48 @@
+{
+  "coinName": "2001年熊猫15.552克金币",
+  "slug": "5da31ffe",
+  "saleCount": 2,
+  "keywords": "金,币,2001年,2盎司,熊猫,年盎,盎司,司熊,猫金,金币,币版",
+  "priceStats": {
+    "low": 12930,
+    "high": 18830,
+    "avg": 15880,
+    "latest": 12930
+  },
+  "records": [
+    {
+      "coinName": "2001年1/2盎司熊猫金币(D版)",
+      "normalizedBoxCode": "6179291012",
+      "displayBoxCode": "6179291-012",
+      "gradingCompany": "NGC",
+      "grade": "Ms69",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/498875.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6179291-012/69/",
+      "price": 12930,
+      "priceWithFee": null,
+      "transactedAt": "2025-09-07 11:55:14",
+      "productCode": "KH082592",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2001年,2盎司,熊猫,年盎,盎司,司熊,猫金,金币,币版"
+    },
+    {
+      "coinName": "2001年1/2盎司熊猫金币(D版)",
+      "normalizedBoxCode": "8656987004",
+      "displayBoxCode": "8656987-004",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/557629.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8656987-004/",
+      "price": 18830,
+      "priceWithFee": null,
+      "transactedAt": "2026-03-02 07:43:18",
+      "productCode": "KH121804",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2001年,2盎司,熊猫,年盎,盎司,司熊,猫金,金币,币版"
+    }
+  ]
+}

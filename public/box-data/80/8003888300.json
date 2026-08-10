@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8003888300",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8003888300",
+      "displayBoxCode": "8003888-300",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1929年美国50美元纸币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10387944.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8003888-300/",
+      "price": 3850,
+      "priceWithFee": 4273.5,
+      "transactedAt": "2026-07-14 22:00:05",
+      "productCode": "873172012",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/27/873172012A.jpg",
+      "ocrConfidence": 38,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1929年,年美,美国,国美,美元,元纸,纸币,外国/特区"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "7033451077",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "7033451077",
+      "displayBoxCode": "7033451-077",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2008年第29届奥林匹克运动会纪念钞港币贰拾圆",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/liantichao-jinianchao/10380507.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/7033451-077/",
+      "price": 250,
+      "priceWithFee": 270,
+      "transactedAt": "2026-07-09 19:12:40",
+      "productCode": "872588011",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/27/872588011B.jpg",
+      "ocrConfidence": 37,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,钞,2008年,年第,第届,届奥,奥林,林匹,匹克,克运,运动,动会,会纪,纪念,念钞,钞港,港币,币贰,贰拾,拾圆"
+    }
+  ]
+}

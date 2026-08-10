@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6180620005",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6180620005",
+      "displayBoxCode": "6180620-005",
+      "gradingCompany": "NGC",
+      "grade": "ms70",
+      "coinName": "2015年8克贺岁银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/517347.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6180620-005/70/",
+      "price": 650,
+      "priceWithFee": null,
+      "transactedAt": "2025-12-07 11:26:25",
+      "productCode": "KH093133",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251203/large_sell_6qjdqbwfujizhorn.jpg",
+      "ocrConfidence": 43,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2015年,8克,吉祥文化,年克,克贺,贺岁,岁银,银币"
+    }
+  ]
+}

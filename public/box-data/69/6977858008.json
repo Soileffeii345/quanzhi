@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6977858008",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6977858008",
+      "displayBoxCode": "6977858-008",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1990年庚午马年生肖1盎司精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10376703.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6977858-008/69/",
+      "price": 1600,
+      "priceWithFee": 1656,
+      "transactedAt": "2026-07-06 21:10:05",
+      "productCode": "872086009",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/26/872086009A.jpg",
+      "ocrConfidence": 43,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1990年,1盎司,生肖,年庚,庚午,午马,马年,年生,肖盎,盎司,司精,精制,制银,银币,评级"
+    }
+  ]
+}

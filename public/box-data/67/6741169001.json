@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6741169001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6741169001",
+      "displayBoxCode": "6741169-001",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "coinName": "2022年30克福字彩银章",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/537928.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6741169-001/69/",
+      "price": 900,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-28 12:23:12",
+      "productCode": "KH112996",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260125/large_sell_1xtcgankabljnqwr.jpg",
+      "ocrConfidence": 38,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,章,2022年,30克,吉祥文化,年克,克福,福字,字彩,彩银,银章"
+    }
+  ]
+}

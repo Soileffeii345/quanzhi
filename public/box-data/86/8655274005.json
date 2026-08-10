@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8655274005",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8655274005",
+      "displayBoxCode": "8655274-005",
+      "gradingCompany": "NGC",
+      "grade": "MS 62",
+      "coinName": "1897年英国维多利亚女王登基60周年钻石禧年铜章",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianbi/10424728.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8655274-005/62/",
+      "price": 510,
+      "priceWithFee": 566.1,
+      "transactedAt": "2026-07-24 20:54:15",
+      "productCode": "877433004",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/877433004A.jpg",
+      "ocrConfidence": 39,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "铜,章,1897年,年英,英国,国维,维多,多利,利亚,亚女,女王,王登,登基,基周,周年,年钻,钻石,石禧,禧年,年铜,铜章,外国/特区"
+    }
+  ]
+}

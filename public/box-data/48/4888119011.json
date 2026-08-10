@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4888119011",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4888119011",
+      "displayBoxCode": "4888119-011",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2008年哈萨克斯坦1盎司成吉思汗&quot;镀金&quot;银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/463534.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4888119-011/70/",
+      "price": 800,
+      "priceWithFee": null,
+      "transactedAt": "2025-04-28 18:06:47",
+      "productCode": "KH065406",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250209/large_sell_ubgrhbbvlinq6q8q.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,2008年,1盎司,年哈,哈萨,萨克,克斯,斯坦,坦盎,盎司,司成,成吉,吉思,思汗,汗镀,镀金,金银,银币"
+    }
+  ]
+}

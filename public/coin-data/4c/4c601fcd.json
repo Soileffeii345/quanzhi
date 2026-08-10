@@ -1,0 +1,31 @@
+{
+  "coinName": "2014年5盎司金币",
+  "slug": "4c601fcd",
+  "saleCount": 1,
+  "keywords": "金,币,2014年,5盎司,年盎,盎司,司西,西湖,湖文,文化,化景,景观,观金,金币",
+  "priceStats": {
+    "low": 84000,
+    "high": 84000,
+    "avg": 84000,
+    "latest": 84000
+  },
+  "records": [
+    {
+      "coinName": "2014年5盎司西湖文化景观金币",
+      "normalizedBoxCode": "4799116002",
+      "displayBoxCode": "4799116-002",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/416093.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4799116-002/",
+      "price": 84000,
+      "priceWithFee": null,
+      "transactedAt": "2024-02-07 08:06:38",
+      "productCode": "AA462264",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2014年,5盎司,年盎,盎司,司西,西湖,湖文,文化,化景,景观,观金,金币"
+    }
+  ]
+}

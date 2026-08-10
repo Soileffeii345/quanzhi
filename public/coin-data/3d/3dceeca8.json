@@ -1,0 +1,31 @@
+{
+  "coinName": "2012年生肖31.1克银币",
+  "slug": "3dceeca8",
+  "saleCount": 1,
+  "keywords": "银,币,2012年,31.1克,生肖,年哈,哈萨,萨克,克斯,斯坦,坦东,东方,方生,肖龙,龙年,年八,八角,角形,形克,克银,银币",
+  "priceStats": {
+    "low": 710,
+    "high": 710,
+    "avg": 710,
+    "latest": 710
+  },
+  "records": [
+    {
+      "coinName": "2012年哈萨克斯坦东方生肖龙年八角形31.1克银币",
+      "normalizedBoxCode": "8504392029",
+      "displayBoxCode": "8504392-029",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/wgjsbizhang/10365704.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8504392-029/69/",
+      "price": 710,
+      "priceWithFee": 752.6,
+      "transactedAt": "2026-06-26 19:55:35",
+      "productCode": "870452010",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2012年,31.1克,生肖,年哈,哈萨,萨克,克斯,斯坦,坦东,东方,方生,肖龙,龙年,年八,八角,角形,形克,克银,银币"
+    }
+  ]
+}

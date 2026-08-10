@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8505701084",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8505701084",
+      "displayBoxCode": "8505701-084",
+      "gradingCompany": "NGC",
+      "grade": "MS 67",
+      "coinName": "1994年熊猫1盎司普制银币（小字版）",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-jiuyin/10361098.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8505701-084/67/",
+      "price": 750,
+      "priceWithFee": 776.25,
+      "transactedAt": "2026-06-29 20:41:00",
+      "productCode": "870270004",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/870270004A.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1994年,1盎司,熊猫,年熊,猫盎,盎司,司普,普制,制银,银币,币小,小字,字版"
+    }
+  ]
+}

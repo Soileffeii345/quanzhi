@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2505151686",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2505151686",
+      "displayBoxCode": "2505151-686",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1995年柬埔寨纸钞四枚",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10400817.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2505151-686/",
+      "price": 360,
+      "priceWithFee": 399.6,
+      "transactedAt": "2026-07-21 22:17:50",
+      "productCode": "875105001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/875105001A.jpg",
+      "ocrConfidence": 38,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,1995年,年柬,柬埔,埔寨,寨纸,纸钞,钞四,四枚"
+    }
+  ]
+}

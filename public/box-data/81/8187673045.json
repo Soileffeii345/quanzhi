@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8187673045",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8187673045",
+      "displayBoxCode": "8187673-045",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2014年1盎司生肖马银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/526005.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8187673-045/70/",
+      "price": 1000,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-19 23:56:31",
+      "productCode": "AA606190",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251230/large_sell_bqsugiaauprz76nm.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2014年,1盎司,生肖,年盎,盎司,司生,肖马,马银,银币"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8824709005",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8824709005",
+      "displayBoxCode": "8824709-005",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1995年抗日战争胜利50周年1盎司精制银币二枚一套",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10356897.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8824709-005/69/",
+      "price": 2850,
+      "priceWithFee": 2949.75,
+      "transactedAt": "2026-06-25 19:35:35",
+      "productCode": "869931002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/869931002A.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1995年,1盎司,年抗,抗日,日战,战争,争胜,胜利,利周,周年,年盎,盎司,司精,精制,制银,银币,币二,二枚,枚一,一套,评级"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8607668047",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8607668047",
+      "displayBoxCode": "8607668-047",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2000年1/10盎司千年纪念金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/504647.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8607668-047/",
+      "price": 2865,
+      "priceWithFee": null,
+      "transactedAt": "2025-10-12 12:07:48",
+      "productCode": "AA585839A",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250917/large_sell_kacegjxoruqgmky4.jpg",
+      "ocrConfidence": 39,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2000年,10盎司,年盎,盎司,司千,千年,年纪,纪念,念金,金币"
+    }
+  ]
+}

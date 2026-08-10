@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8825222089",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8825222089",
+      "displayBoxCode": "8825222-089",
+      "gradingCompany": "NGC",
+      "grade": "Pr70 ULTRA CAMEO",
+      "coinName": "2026年国家宝藏（融合交流）3克精制金币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10398768.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8825222-089/70/",
+      "price": 4050,
+      "priceWithFee": 4191.75,
+      "transactedAt": "2026-07-11 21:22:45",
+      "productCode": "874950009",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/874950009A.jpg",
+      "ocrConfidence": 38,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2026年,3克,年国,国家,家宝,宝藏,藏融,融合,合交,交流,流克,克精,精制,制金,金币,评级"
+    }
+  ]
+}

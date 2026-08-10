@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8615820004",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8615820004",
+      "displayBoxCode": "8615820-004",
+      "gradingCompany": "NGC",
+      "grade": "PF69 ULTRA CAMEO",
+      "coinName": "2012年1/4盎司中国海军首艘航母辽宁舰金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/503837.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8615820-004/69/",
+      "price": 6895,
+      "priceWithFee": null,
+      "transactedAt": "2025-10-04 21:20:24",
+      "productCode": "KH085821",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251004/large_sell_vjdalt9tohtrphi3.jpg",
+      "ocrConfidence": 51,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2012年,4盎司,年盎,盎司,司中,中国,国海,海军,军首,首艘,艘航,航母,母辽,辽宁,宁舰,舰金,金币"
+    }
+  ]
+}

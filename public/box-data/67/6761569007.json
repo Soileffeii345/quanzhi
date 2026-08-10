@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6761569007",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6761569007",
+      "displayBoxCode": "6761569-007",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2021年吉祥文化琴瑟和鸣金银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/525421.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6761569-007/70/",
+      "price": 5800,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-29 06:29:26",
+      "productCode": "KH100061",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251228/large_sell_neazdcwwptv5ngjg.jpg",
+      "ocrConfidence": 42,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,2021年,吉祥文化,年吉,吉祥,祥文,文化,化琴,琴瑟,瑟和,和鸣,鸣金,金银,银币"
+    }
+  ]
+}

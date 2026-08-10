@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "5810874179",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "5810874179",
+      "displayBoxCode": "5810874-179",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1993年22克古代科技第2组汉代兵马俑银币(UC)",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/576244.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/5810874-179/69/",
+      "price": 720,
+      "priceWithFee": null,
+      "transactedAt": "2026-05-04 16:42:06",
+      "productCode": "KH132958",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260428/large_sell_tr7yugjvufpnfkg6.jpg",
+      "ocrConfidence": 38,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1993年,22克,年克,克古,古代,代科,科技,技第,第组,组汉,汉代,代兵,兵马,马俑,俑银,银币"
+    }
+  ]
+}

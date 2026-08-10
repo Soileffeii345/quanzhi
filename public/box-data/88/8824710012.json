@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8824710012",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8824710012",
+      "displayBoxCode": "8824710-012",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1992年中国精制硬币伍分二枚",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10360947.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8824710-012/",
+      "price": 200,
+      "priceWithFee": 216,
+      "transactedAt": "2026-06-24 21:20:45",
+      "productCode": "870464011",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/870464011A.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1992年,年中,中国,国精,精制,制硬,硬币,币伍,伍分,分二,二枚,评级"
+    }
+  ]
+}

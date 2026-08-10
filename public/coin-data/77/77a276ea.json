@@ -1,0 +1,48 @@
+{
+  "coinName": "1999年生肖3.11克金币",
+  "slug": "77a276ea",
+  "saleCount": 2,
+  "keywords": "金,币,1999年,10盎司,生肖,年盎,盎司,司生,肖兔,兔金,金币",
+  "priceStats": {
+    "low": 2455,
+    "high": 2475,
+    "avg": 2465,
+    "latest": 2475
+  },
+  "records": [
+    {
+      "coinName": "1999年1/10盎司生肖兔金币",
+      "normalizedBoxCode": "4289812024",
+      "displayBoxCode": "4289812-024",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/490009.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4289812-024/69/",
+      "price": 2475,
+      "priceWithFee": null,
+      "transactedAt": "2025-07-22 09:04:17",
+      "productCode": "AA573086A",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1999年,10盎司,生肖,年盎,盎司,司生,肖兔,兔金,金币"
+    },
+    {
+      "coinName": "1999年1/10盎司生肖兔金币",
+      "normalizedBoxCode": "4289812024",
+      "displayBoxCode": "4289812-024",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/488951.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4289812-024/69/",
+      "price": 2455,
+      "priceWithFee": null,
+      "transactedAt": "2025-07-16 13:38:29",
+      "productCode": "AA573086",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1999年,10盎司,生肖,年盎,盎司,司生,肖兔,兔金,金币"
+    }
+  ]
+}

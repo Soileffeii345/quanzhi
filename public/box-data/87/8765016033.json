@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8765016033",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8765016033",
+      "displayBoxCode": "8765016-033",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2020年15克方形紫禁城建成600年银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/590560.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8765016-033/70/",
+      "price": 1850,
+      "priceWithFee": null,
+      "transactedAt": "2026-08-06 13:14:25",
+      "productCode": "KH143861",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260615/large_sell_k5hxenp2pvndbxsn.jpg",
+      "ocrConfidence": 49,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2020年,15克,年克,克方,方形,形紫,紫禁,禁城,城建,建成,成年,年银,银币"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4315078004",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4315078004",
+      "displayBoxCode": "4315078-004",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2008年1/3盎司第29届奥运会第3组蹴鞠金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/557842.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4315078-004/70/",
+      "price": 12730,
+      "priceWithFee": null,
+      "transactedAt": "2026-03-02 18:09:50",
+      "productCode": "KH121933",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260302/large_sell_83ldsgbwiedsajz0.jpg",
+      "ocrConfidence": 54,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2008年,3盎司,奥运,年盎,盎司,司第,第届,届奥,运会,会第,第组,组蹴,蹴鞠,鞠金,金币"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2399738002",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2399738002",
+      "displayBoxCode": "2399738-002",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "咸丰柒年大清宝钞壹千",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/mingqingzhichao/10379468.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2399738-002/",
+      "price": 5300,
+      "priceWithFee": 5883,
+      "transactedAt": "2026-07-23 19:54:40",
+      "productCode": "871871001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/27/871871001B.jpg",
+      "ocrConfidence": 41,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,历史币,咸丰,丰柒,柒年,年大,大清,清宝,宝钞,钞壹,壹千"
+    }
+  ]
+}

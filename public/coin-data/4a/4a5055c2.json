@@ -1,0 +1,82 @@
+{
+  "coinName": "1980年银币",
+  "slug": "4a5055c2",
+  "saleCount": 4,
+  "keywords": "银,1980年,年上,上海,海汇,汇丰,丰银,银行,行拾,拾圆,年香,香港,港渣,渣打,打银,外国/特区,行壹,壹佰,佰圆,币,年中,中国,国奥,奥委,委会,会古,古代,代蹴,蹴鞠,鞠银,银币",
+  "priceStats": {
+    "low": 45,
+    "high": 1460,
+    "avg": 516,
+    "latest": 45
+  },
+  "records": [
+    {
+      "coinName": "1980年上海汇丰银行拾圆",
+      "normalizedBoxCode": "2234938077",
+      "displayBoxCode": "2234938-077",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xianggangzhichao/10402804.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2234938-077/",
+      "price": 45,
+      "priceWithFee": 49.95,
+      "transactedAt": "2026-07-14 19:18:50",
+      "productCode": "875509001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,1980年,年上,上海,海汇,汇丰,丰银,银行,行拾,拾圆"
+    },
+    {
+      "coinName": "1980年香港渣打银行拾圆",
+      "normalizedBoxCode": "2333508021",
+      "displayBoxCode": "2333508-021",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xianggangzhichao/10422581.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2333508-021/",
+      "price": 1460,
+      "priceWithFee": 1620.6,
+      "transactedAt": "2026-07-25 20:49:40",
+      "productCode": "877837002",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,1980年,年香,香港,港渣,渣打,打银,银行,行拾,拾圆,外国/特区"
+    },
+    {
+      "coinName": "1980年香港渣打银行壹佰圆",
+      "normalizedBoxCode": "2559422060",
+      "displayBoxCode": "2559422-060",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xianggangzhichao/10410445.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2559422-060/",
+      "price": 260,
+      "priceWithFee": 288.6,
+      "transactedAt": "2026-07-21 19:13:50",
+      "productCode": "876073008",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,1980年,年香,香港,港渣,渣打,打银,银行,行壹,壹佰,佰圆,外国/特区"
+    },
+    {
+      "coinName": "1980年中国奥委会古代蹴鞠银币(UC)",
+      "normalizedBoxCode": "6716798041",
+      "displayBoxCode": "6716798-041",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/431496.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6716798-041/",
+      "price": 300,
+      "priceWithFee": null,
+      "transactedAt": "2024-05-11 17:14:14",
+      "productCode": "AA479413",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1980年,年中,中国,国奥,奥委,委会,会古,古代,代蹴,蹴鞠,鞠银,银币"
+    }
+  ]
+}

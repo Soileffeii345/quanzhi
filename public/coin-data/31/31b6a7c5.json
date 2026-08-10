@@ -1,0 +1,65 @@
+{
+  "coinName": "1994年熊猫15.552克普制银币",
+  "slug": "31b6a7c5",
+  "saleCount": 3,
+  "keywords": "银,币,1994年,2盎司,熊猫,年熊,猫盎,盎司,司普,普制,制银,银币",
+  "priceStats": {
+    "low": 350,
+    "high": 410,
+    "avg": 387,
+    "latest": 400
+  },
+  "records": [
+    {
+      "coinName": "1994年熊猫1/2盎司普制银币",
+      "normalizedBoxCode": "6150194004",
+      "displayBoxCode": "6150194-004",
+      "gradingCompany": "NGC",
+      "grade": "MS69",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-jiuyin/10422995.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6150194-004/69/",
+      "price": 400,
+      "priceWithFee": 414,
+      "transactedAt": "2026-07-27 21:26:40",
+      "productCode": "877342016",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1994年,2盎司,熊猫,年熊,猫盎,盎司,司普,普制,制银,银币"
+    },
+    {
+      "coinName": "1994年熊猫1/2盎司普制银币",
+      "normalizedBoxCode": "8758801002",
+      "displayBoxCode": "8758801-002",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-jiuyin/10350708.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8758801-002/",
+      "price": 410,
+      "priceWithFee": 424.35,
+      "transactedAt": "2026-06-22 20:52:10",
+      "productCode": "869211002",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1994年,2盎司,熊猫,年熊,猫盎,盎司,司普,普制,制银,银币"
+    },
+    {
+      "coinName": "1994年熊猫1/2盎司普制银币",
+      "normalizedBoxCode": "8760729002",
+      "displayBoxCode": "8760729-002",
+      "gradingCompany": "NGC",
+      "grade": "MS 68",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-jiuyin/10368352.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8760729-002/68/",
+      "price": 350,
+      "priceWithFee": 362.25,
+      "transactedAt": "2026-06-29 21:03:55",
+      "productCode": "870958005",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1994年,2盎司,熊猫,年熊,猫盎,盎司,司普,普制,制银,银币"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "5796772001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "5796772001",
+      "displayBoxCode": "5796772-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2019年1公斤建国70周年银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/425314.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/5796772-001/70/",
+      "price": 10600,
+      "priceWithFee": null,
+      "transactedAt": "2024-10-16 20:20:11",
+      "productCode": "KH053890",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20240406/large_sell_62ccgsyymwabwztf.jpg",
+      "ocrConfidence": 38,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2019年,1公斤,重大事件,年公,公斤,斤建,建国,国周,周年,年银,银币"
+    }
+  ]
+}

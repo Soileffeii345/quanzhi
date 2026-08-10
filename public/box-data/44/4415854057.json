@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4415854057",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4415854057",
+      "displayBoxCode": "4415854-057",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2010年1/10盎司生肖虎彩金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/468419.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4415854-057/69/",
+      "price": 2205,
+      "priceWithFee": null,
+      "transactedAt": "2025-03-15 15:54:32",
+      "productCode": "KH061175",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250315/large_sell_xtqntwiswne9ecqm.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2010年,10盎司,生肖,年盎,盎司,司生,肖虎,虎彩,彩金,金币"
+    }
+  ]
+}

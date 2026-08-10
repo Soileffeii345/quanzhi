@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4316929007",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4316929007",
+      "displayBoxCode": "4316929-007",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1990年1/2盎司台湾风光第1组赤嵌楼金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/506759.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4316929-007/69/",
+      "price": 18000,
+      "priceWithFee": null,
+      "transactedAt": "2025-10-21 09:11:43",
+      "productCode": "KH088195",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251019/large_sell_zb7e5huxdhgaeltw.jpg",
+      "ocrConfidence": 42,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1990年,2盎司,年盎,盎司,司台,台湾,湾风,风光,光第,第组,组赤,赤嵌,嵌楼,楼金,金币"
+    }
+  ]
+}

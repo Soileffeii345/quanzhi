@@ -1,0 +1,31 @@
+{
+  "coinName": "湖北省造宣统元宝库平七钱二分银元",
+  "slug": "7bbbe1da",
+  "saleCount": 1,
+  "keywords": "银,历史币,龙洋,龙,湖北,鄂造,北省,省造,造宣,宣统,统元,元宝,宝库,库平,平七,七钱,钱二,二分,分银,银元",
+  "priceStats": {
+    "low": 8100,
+    "high": 8100,
+    "avg": 8100,
+    "latest": 8100
+  },
+  "records": [
+    {
+      "coinName": "湖北省造宣统元宝库平七钱二分银元",
+      "normalizedBoxCode": "45500642",
+      "displayBoxCode": "45500642",
+      "gradingCompany": "PCGS",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguojindaijizhibi/10373637.shtml",
+      "officialCertUrl": "https://cn.pcgs.com/cert/45500642",
+      "price": 8100,
+      "priceWithFee": 8748,
+      "transactedAt": "2026-07-20 20:12:05",
+      "productCode": "871433056",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,龙洋,龙,湖北,鄂造,北省,省造,造宣,宣统,统元,元宝,宝库,库平,平七,七钱,钱二,二分,分银,银元"
+    }
+  ]
+}

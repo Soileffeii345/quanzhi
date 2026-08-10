@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "3855865040",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "3855865040",
+      "displayBoxCode": "3855865-040",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2008年美国阿拉斯加州银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/476075.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3855865-040/70/",
+      "price": 260,
+      "priceWithFee": null,
+      "transactedAt": "2025-05-01 07:13:09",
+      "productCode": "AA561046",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250430/large_sell_9rzjss2fa1talwdq.jpg",
+      "ocrConfidence": 27,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2008年,年美,美国,国阿,阿拉,拉斯,斯加,加州,州银,银币,外国/特区"
+    }
+  ]
+}

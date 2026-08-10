@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6744674001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6744674001",
+      "displayBoxCode": "6744674-001",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1997年麒麟1盎司普制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10393026.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6744674-001/",
+      "price": 700,
+      "priceWithFee": 724.5,
+      "transactedAt": "2026-07-13 21:29:20",
+      "productCode": "874056020",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/874056020A.jpg",
+      "ocrConfidence": 32,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1997年,1盎司,年麒,麒麟,麟盎,盎司,司普,普制,制银,银币"
+    }
+  ]
+}

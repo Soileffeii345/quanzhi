@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "1920721035",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "1920721035",
+      "displayBoxCode": "1920721-035",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1919年俄国纸钞",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10382562.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1920721-035/",
+      "price": 210,
+      "priceWithFee": 233.1,
+      "transactedAt": "2026-07-14 22:00:20",
+      "productCode": "872590008",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/27/872590008B.jpg",
+      "ocrConfidence": 29,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,1919年,年俄,俄国,国纸,纸钞"
+    }
+  ]
+}

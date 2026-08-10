@@ -1,0 +1,31 @@
+{
+  "coinName": "1992年生肖8克金币",
+  "slug": "7d0df798",
+  "saleCount": 1,
+  "keywords": "金,币,1992年,8克,生肖,年克,克生,肖猴,猴金,金币",
+  "priceStats": {
+    "low": 12600,
+    "high": 12600,
+    "avg": 12600,
+    "latest": 12600
+  },
+  "records": [
+    {
+      "coinName": "1992年8克生肖猴金币",
+      "normalizedBoxCode": "4792870003",
+      "displayBoxCode": "4792870-003",
+      "gradingCompany": "NGC",
+      "grade": "PF 69",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/510532.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4792870-003/69/",
+      "price": 12600,
+      "priceWithFee": null,
+      "transactedAt": "2025-11-13 10:57:50",
+      "productCode": "AA594712",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1992年,8克,生肖,年克,克生,肖猴,猴金,金币"
+    }
+  ]
+}

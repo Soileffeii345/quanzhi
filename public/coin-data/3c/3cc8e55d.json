@@ -1,0 +1,31 @@
+{
+  "coinName": "第三版人民币1角红冠2罗马平版",
+  "slug": "3cc8e55d",
+  "saleCount": 1,
+  "keywords": "币,第三,三版,版人,人民,民币,币角,角红,红冠,冠罗,罗马,马平,平版,版二,二枚",
+  "priceStats": {
+    "low": 290,
+    "high": 290,
+    "avg": 290,
+    "latest": 290
+  },
+  "records": [
+    {
+      "coinName": "第三版人民币1角红冠2罗马平版二枚",
+      "normalizedBoxCode": "2135974004",
+      "displayBoxCode": "2135974-004",
+      "gradingCompany": "NGC",
+      "grade": "Xf 77",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/disanbanrenminbi/10381361.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2135974-004/77/",
+      "price": 290,
+      "priceWithFee": 313.2,
+      "transactedAt": "2026-07-04 21:30:05",
+      "productCode": "872586002",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,第三,三版,版人,人民,民币,币角,角红,红冠,冠罗,罗马,马平,平版,版二,二枚"
+    }
+  ]
+}

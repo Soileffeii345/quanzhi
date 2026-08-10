@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8510095006",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8510095006",
+      "displayBoxCode": "8510095-006",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2025年15克方形国家宝藏锦护臂彩金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/492657.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8510095-006/70/",
+      "price": 23000,
+      "priceWithFee": null,
+      "transactedAt": "2025-08-11 14:16:25",
+      "productCode": "AA576703",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250804/large_sell_4lcnoyvgjxvuijrs.jpg",
+      "ocrConfidence": 37,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2025年,15克,年克,克方,方形,形国,国家,家宝,宝藏,藏锦,锦护,护臂,臂彩,彩金,金币"
+    }
+  ]
+}

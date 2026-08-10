@@ -1,0 +1,31 @@
+{
+  "coinName": "民国三十四年交通银行伍圆",
+  "slug": "70998dff",
+  "saleCount": 1,
+  "keywords": "银,历史币,民国,国三,三十,十四,四年,年交,交通,通银,银行,行伍,伍圆",
+  "priceStats": {
+    "low": 1460,
+    "high": 1460,
+    "avg": 1460,
+    "latest": 1460
+  },
+  "records": [
+    {
+      "coinName": "民国三十四年交通银行伍圆",
+      "normalizedBoxCode": "2258681009",
+      "displayBoxCode": "2258681-009",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10381063.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2258681-009/",
+      "price": 1460,
+      "priceWithFee": 1620.6,
+      "transactedAt": "2026-07-23 19:55:40",
+      "productCode": "872745006",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国三,三十,十四,四年,年交,交通,通银,银行,行伍,伍圆"
+    }
+  ]
+}

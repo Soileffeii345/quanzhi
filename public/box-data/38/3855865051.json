@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "3855865051",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "3855865051",
+      "displayBoxCode": "3855865-051",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2008年美国俄克拉何马州银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/476072.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3855865-051/70/",
+      "price": 260,
+      "priceWithFee": null,
+      "transactedAt": "2025-05-01 07:14:57",
+      "productCode": "AA561043",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250430/large_sell_9gbcawm44zmvvi3j.jpg",
+      "ocrConfidence": 30,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2008年,年美,美国,国俄,俄克,克拉,拉何,何马,马州,州银,银币,外国/特区"
+    }
+  ]
+}

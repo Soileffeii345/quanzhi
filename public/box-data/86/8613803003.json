@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8613803003",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8613803003",
+      "displayBoxCode": "8613803-003",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "沈阳造币有限公司发行2013年五台山文殊菩萨80克银章",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10381775.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8613803-003/",
+      "price": 2750,
+      "priceWithFee": 2846.25,
+      "transactedAt": "2026-07-06 20:31:20",
+      "productCode": "872686004",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/27/872686004A.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,章,2013年,80克,宗教,沈阳,阳造,造币,币有,有限,限公,公司,司发,发行,行年,年五,五台,台山,山文,文殊,殊菩,菩萨,萨克,克银,银章"
+    }
+  ]
+}

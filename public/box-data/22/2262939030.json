@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2262939030",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2262939030",
+      "displayBoxCode": "2262939-030",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1981年大西洋银行伍拾圆",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/aomenzhichao/10417616.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2262939-030/",
+      "price": 1060,
+      "priceWithFee": 1176.6,
+      "transactedAt": "2026-07-28 20:45:20",
+      "productCode": "877006003",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/877006003B.jpg",
+      "ocrConfidence": 29,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,1981年,年大,大西,西洋,洋银,银行,行伍,伍拾,拾圆"
+    }
+  ]
+}

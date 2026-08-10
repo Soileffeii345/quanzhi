@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "1066022157",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "1066022157",
+      "displayBoxCode": "1066022-157",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2024年龙钞20元三枚",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/liantichao-jinianchao/10409535.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1066022-157/",
+      "price": 360,
+      "priceWithFee": 388.8,
+      "transactedAt": "2026-07-21 19:16:05",
+      "productCode": "876265001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/876265001A.jpg",
+      "ocrConfidence": 28,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,2024年,年龙,龙钞,钞元,元三,三枚"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "coinName": "2017年生肖3克金币",
+  "slug": "28918ad8",
+  "saleCount": 3,
+  "keywords": "金,币,2017年,3克,生肖,年克,克生,肖鸡,鸡彩,彩金,金币",
+  "priceStats": {
+    "low": 2380,
+    "high": 3060,
+    "avg": 2798,
+    "latest": 3060
+  },
+  "records": [
+    {
+      "coinName": "2017年3克生肖鸡彩金币",
+      "normalizedBoxCode": "4566158006",
+      "displayBoxCode": "4566158-006",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/528141.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4566158-006/",
+      "price": 3060,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-05 23:14:11",
+      "productCode": "KH101302A",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2017年,3克,生肖,年克,克生,肖鸡,鸡彩,彩金,金币"
+    },
+    {
+      "coinName": "2017年3克生肖鸡彩金币",
+      "normalizedBoxCode": "4566158006",
+      "displayBoxCode": "4566158-006",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/493759.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4566158-006/",
+      "price": 2955,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-04 17:06:00",
+      "productCode": "KH101302",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2017年,3克,生肖,年克,克生,肖鸡,鸡彩,彩金,金币"
+    },
+    {
+      "coinName": "2017年3克生肖鸡彩金币",
+      "normalizedBoxCode": "6151823009",
+      "displayBoxCode": "6151823-009",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/492706.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6151823-009/69/",
+      "price": 2380,
+      "priceWithFee": null,
+      "transactedAt": "2025-08-04 18:44:39",
+      "productCode": "KH077805",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2017年,3克,生肖,年克,克生,肖鸡,鸡彩,彩金,金币"
+    }
+  ]
+}

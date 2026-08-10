@@ -1,0 +1,48 @@
+{
+  "coinName": "2019年生肖30克精制银币",
+  "slug": "6582ac33",
+  "saleCount": 2,
+  "keywords": "银,币,2019年,30克,生肖,年己,己亥,亥猪,猪年,年生,肖克,克精,精制,制银,银币,评级,制彩,彩银",
+  "priceStats": {
+    "low": 940,
+    "high": 1100,
+    "avg": 1020,
+    "latest": 1100
+  },
+  "records": [
+    {
+      "coinName": "2019年己亥猪年生肖30克精制银币",
+      "normalizedBoxCode": "4575273002",
+      "displayBoxCode": "4575273-002",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10429750.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4575273-002/",
+      "price": 1100,
+      "priceWithFee": 1138.5,
+      "transactedAt": "2026-07-27 22:07:40",
+      "productCode": "878496010",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2019年,30克,生肖,年己,己亥,亥猪,猪年,年生,肖克,克精,精制,制银,银币,评级"
+    },
+    {
+      "coinName": "2019年己亥猪年生肖30克精制彩银币",
+      "normalizedBoxCode": "6151606029",
+      "displayBoxCode": "6151606-029",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10423540.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6151606-029/",
+      "price": 940,
+      "priceWithFee": 972.9,
+      "transactedAt": "2026-07-27 19:40:10",
+      "productCode": "877762001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2019年,30克,生肖,年己,己亥,亥猪,猪年,年生,肖克,克精,精制,制彩,彩银,银币,评级"
+    }
+  ]
+}

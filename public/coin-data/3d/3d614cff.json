@@ -1,0 +1,31 @@
+{
+  "coinName": "民国19年中央银行上海地名伍圆",
+  "slug": "3d614cff",
+  "saleCount": 1,
+  "keywords": "银,历史币,民国,国年,年中,中央,央银,银行,行上,上海,海地,地名,名伍,伍圆",
+  "priceStats": {
+    "low": 280,
+    "high": 280,
+    "avg": 280,
+    "latest": 280
+  },
+  "records": [
+    {
+      "coinName": "民国19年中央银行上海地名伍圆",
+      "normalizedBoxCode": "8012554027",
+      "displayBoxCode": "8012554-027",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10361789.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8012554-027/",
+      "price": 280,
+      "priceWithFee": 310.8,
+      "transactedAt": "2026-07-09 19:52:30",
+      "productCode": "869632009",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国年,年中,中央,央银,银行,行上,上海,海地,地名,名伍,伍圆"
+    }
+  ]
+}

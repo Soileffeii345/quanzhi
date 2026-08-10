@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6758453036",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6758453036",
+      "displayBoxCode": "6758453-036",
+      "gradingCompany": "NGC",
+      "grade": "PF68 ULTRA CAMEO",
+      "coinName": "1990年庚午马年生肖15克精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10360925.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6758453-036/68/",
+      "price": 1290,
+      "priceWithFee": 1335.15,
+      "transactedAt": "2026-06-22 19:31:10",
+      "productCode": "870406021",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/870406021A.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1990年,15克,生肖,年庚,庚午,午马,马年,年生,肖克,克精,精制,制银,银币,评级"
+    }
+  ]
+}

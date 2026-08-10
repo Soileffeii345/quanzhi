@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4637080004",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4637080004",
+      "displayBoxCode": "4637080-004",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1988年宁夏回族自治区成立30周年纪念币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/487278.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4637080-004/",
+      "price": 720,
+      "priceWithFee": null,
+      "transactedAt": "2025-08-28 17:37:37",
+      "productCode": "KH078439",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250705/large_sell_gcyolk30eqlseh8b.jpg",
+      "ocrConfidence": 37,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1988年,年宁,宁夏,夏回,回族,族自,自治,治区,区成,成立,立周,周年,年纪,纪念,念币"
+    }
+  ]
+}

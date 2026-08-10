@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6042891027",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6042891027",
+      "displayBoxCode": "6042891-027",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "coinName": "1996年1/20盎司观音金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/474432.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6042891-027/69/",
+      "price": 1400,
+      "priceWithFee": null,
+      "transactedAt": "2025-07-12 12:54:51",
+      "productCode": "KH071527",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250421/large_sell_fte6yc3awoewehz8.jpg",
+      "ocrConfidence": 46,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1996年,20盎司,宗教,年盎,盎司,司观,观音,音金,金币"
+    }
+  ]
+}

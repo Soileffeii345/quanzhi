@@ -1,0 +1,48 @@
+{
+  "coinName": "第三版人民币汽车1分",
+  "slug": "1a9823b8",
+  "saleCount": 2,
+  "keywords": "币,第三,三版,版人,人民,民币,币汽,汽车,车分,分二,二枚",
+  "priceStats": {
+    "low": 140,
+    "high": 410,
+    "avg": 275,
+    "latest": 410
+  },
+  "records": [
+    {
+      "coinName": "第三版人民币汽车1分",
+      "normalizedBoxCode": "2132459010",
+      "displayBoxCode": "2132459-010",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/disanbanrenminbi/10374469.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2132459-010/",
+      "price": 410,
+      "priceWithFee": 442.8,
+      "transactedAt": "2026-06-30 20:48:05",
+      "productCode": "870978050",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,第三,三版,版人,人民,民币,币汽,汽车,车分"
+    },
+    {
+      "coinName": "第三版人民币汽车1分二枚",
+      "normalizedBoxCode": "2211431049",
+      "displayBoxCode": "2211431-049",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/disanbanrenminbi/10407984.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2211431-049/",
+      "price": 140,
+      "priceWithFee": 151.2,
+      "transactedAt": "2026-07-21 20:44:50",
+      "productCode": "875957014",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,第三,三版,版人,人民,民币,币汽,汽车,车分,分二,二枚"
+    }
+  ]
+}

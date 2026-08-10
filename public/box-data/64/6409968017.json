@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6409968017",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6409968017",
+      "displayBoxCode": "6409968-017",
+      "gradingCompany": "NGC",
+      "grade": "PF70 ULTRA CAMEO",
+      "coinName": "2015年1/10盎司长春电影厂成立70周年金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/514478.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6409968-017/70/",
+      "price": 3000,
+      "priceWithFee": null,
+      "transactedAt": "2025-11-23 15:30:01",
+      "productCode": "KH091843",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251123/large_sell_ogoj1s8t2sxslkwq.jpg",
+      "ocrConfidence": 40,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2015年,10盎司,年盎,盎司,司长,长春,春电,电影,影厂,厂成,成立,立周,周年,年金,金币"
+    }
+  ]
+}

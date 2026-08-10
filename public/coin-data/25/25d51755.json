@@ -1,0 +1,31 @@
+{
+  "coinName": "1996年麒麟20克普制银币",
+  "slug": "25d51755",
+  "saleCount": 1,
+  "keywords": "银,币,1996年,20克,年麒,麒麟,麟克,克普,普制,制银,银币",
+  "priceStats": {
+    "low": 560,
+    "high": 560,
+    "avg": 560,
+    "latest": 560
+  },
+  "records": [
+    {
+      "coinName": "1996年麒麟20克普制银币",
+      "normalizedBoxCode": "3307702022",
+      "displayBoxCode": "3307702-022",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10360191.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3307702-022/69/",
+      "price": 560,
+      "priceWithFee": 579.6,
+      "transactedAt": "2026-06-29 21:10:35",
+      "productCode": "869699002",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1996年,20克,年麒,麒麟,麟克,克普,普制,制银,银币"
+    }
+  ]
+}

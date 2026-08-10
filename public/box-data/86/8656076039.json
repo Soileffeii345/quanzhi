@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8656076039",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8656076039",
+      "displayBoxCode": "8656076-039",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2004年甲申猴年生肖1盎司精制彩银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10390835.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8656076-039/70/",
+      "price": 960,
+      "priceWithFee": 993.6,
+      "transactedAt": "2026-07-13 20:43:30",
+      "productCode": "873930030",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/27/873930030A.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2004年,1盎司,生肖,年甲,甲申,申猴,猴年,年生,肖盎,盎司,司精,精制,制彩,彩银,银币,评级"
+    }
+  ]
+}

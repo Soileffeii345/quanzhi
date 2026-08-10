@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4410671013",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4410671013",
+      "displayBoxCode": "4410671-013",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2013年1/3盎司扇形生肖蛇金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/499934.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4410671-013/",
+      "price": 8705,
+      "priceWithFee": null,
+      "transactedAt": "2025-09-15 09:20:55",
+      "productCode": "AA585066",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250912/large_sell_7cqcjijjr0zrqrlp.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2013年,3盎司,生肖,年盎,盎司,司扇,扇形,形生,肖蛇,蛇金,金币"
+    }
+  ]
+}

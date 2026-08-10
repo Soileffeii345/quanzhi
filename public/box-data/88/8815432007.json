@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8815432007",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8815432007",
+      "displayBoxCode": "8815432-007",
+      "gradingCompany": "NGC",
+      "grade": "Ms69",
+      "coinName": "1997年香港回归祖国第（3）组-区旗1盎司普制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10414735.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8815432-007/69/",
+      "price": 520,
+      "priceWithFee": 538.2,
+      "transactedAt": "2026-07-23 19:40:05",
+      "productCode": "876783002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/876783002A.jpg",
+      "ocrConfidence": 32,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1997年,1盎司,年香,香港,港回,回归,归祖,祖国,国第,第组,组区,区旗,旗盎,盎司,司普,普制,制银,银币,外国/特区"
+    }
+  ]
+}

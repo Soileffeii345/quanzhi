@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8572870002",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8572870002",
+      "displayBoxCode": "8572870-002",
+      "gradingCompany": "NGC",
+      "grade": "PF70 ULTRA CAMEO",
+      "coinName": "2025年吉祥文化-瑞气盈门30克方孔圆形精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10397962.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8572870-002/70/",
+      "price": 2300,
+      "priceWithFee": 2380.5,
+      "transactedAt": "2026-07-11 20:58:05",
+      "productCode": "874952014",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/874952014A.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2025年,30克,吉祥文化,年吉,吉祥,祥文,文化,化瑞,瑞气,气盈,盈门,门克,克方,方孔,孔圆,圆形,形精,精制,制银,银币,评级"
+    }
+  ]
+}

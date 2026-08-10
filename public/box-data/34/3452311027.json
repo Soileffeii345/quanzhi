@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "3452311027",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "3452311027",
+      "displayBoxCode": "3452311-027",
+      "gradingCompany": "NGC",
+      "grade": "MS 70",
+      "coinName": "2011年1盎司熊猫银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/515128.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3452311-027/70/",
+      "price": 480,
+      "priceWithFee": null,
+      "transactedAt": "2025-11-30 17:27:11",
+      "productCode": "KH092232",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251126/large_sell_pc2np0r5ajz5t6kr.jpg",
+      "ocrConfidence": 30,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2011年,1盎司,熊猫,年盎,盎司,司熊,猫银,银币"
+    }
+  ]
+}

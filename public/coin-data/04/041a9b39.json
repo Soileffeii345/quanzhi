@@ -1,0 +1,31 @@
+{
+  "coinName": "1996年生肖5盎司银币",
+  "slug": "041a9b39",
+  "saleCount": 1,
+  "keywords": "银,币,1996年,5盎司,生肖,年盎,盎司,司生,肖鼠,鼠银,银币",
+  "priceStats": {
+    "low": 8700,
+    "high": 8700,
+    "avg": 8700,
+    "latest": 8700
+  },
+  "records": [
+    {
+      "coinName": "1996年5盎司生肖鼠银币",
+      "normalizedBoxCode": "8188761002",
+      "displayBoxCode": "8188761-002",
+      "gradingCompany": "NGC",
+      "grade": "PF 68 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/500376.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8188761-002/68/",
+      "price": 8700,
+      "priceWithFee": null,
+      "transactedAt": "2025-10-01 13:29:52",
+      "productCode": "AA585429",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1996年,5盎司,生肖,年盎,盎司,司生,肖鼠,鼠银,银币"
+    }
+  ]
+}

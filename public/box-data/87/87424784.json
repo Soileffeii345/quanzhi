@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "87424784",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "87424784",
+      "displayBoxCode": "87424784",
+      "gradingCompany": "PCGS",
+      "grade": "MS70",
+      "coinName": "1995年1盎司观音银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/537915.html",
+      "officialCertUrl": "https://cn.pcgs.com/cert/87424784",
+      "price": 2100,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-27 12:13:15",
+      "productCode": "KH112972",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260125/large_sell_kowuowg617uiyrkc.jpg",
+      "ocrConfidence": 38,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1995年,1盎司,宗教,年盎,盎司,司观,观音,音银,银币"
+    }
+  ]
+}

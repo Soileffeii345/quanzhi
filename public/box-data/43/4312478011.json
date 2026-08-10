@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4312478011",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4312478011",
+      "displayBoxCode": "4312478-011",
+      "gradingCompany": "NGC",
+      "grade": "PF70",
+      "coinName": "2011年1/3盎司水浒传第3组彩金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/524279.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4312478-011/70/",
+      "price": 10705,
+      "priceWithFee": null,
+      "transactedAt": "2025-12-27 14:00:54",
+      "productCode": "KH099142",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251224/large_sell_yifjtzxjfpxcbwzb.jpg",
+      "ocrConfidence": 46,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2011年,3盎司,年盎,盎司,司水,水浒,浒传,传第,第组,组彩,彩金,金币"
+    }
+  ]
+}

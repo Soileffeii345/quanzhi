@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8503628034",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8503628034",
+      "displayBoxCode": "8503628-034",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 CAMEO",
+      "coinName": "1979年北京风景名胜-北海白塔1/2盎司金章",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10359972.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8503628-034/69/",
+      "price": 20000,
+      "priceWithFee": 20700,
+      "transactedAt": "2026-06-25 20:52:35",
+      "productCode": "869596003",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/869596003A.jpg",
+      "ocrConfidence": 40,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,章,1979年,2盎司,年北,北京,京风,风景,景名,名胜,胜北,北海,海白,白塔,塔盎,盎司,司金,金章"
+    }
+  ]
+}

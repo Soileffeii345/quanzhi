@@ -1,0 +1,48 @@
+{
+  "coinName": "2021年3盎司银币",
+  "slug": "518f752e",
+  "saleCount": 2,
+  "keywords": "银,币,2021年,3盎司,年帕,帕劳,劳盎,盎司,司赛,赛博,博朋,朋克,克外,外星,星人,人彩,彩银,银币",
+  "priceStats": {
+    "low": 1700,
+    "high": 2800,
+    "avg": 2250,
+    "latest": 1700
+  },
+  "records": [
+    {
+      "coinName": "2021年帕劳3盎司赛博朋克外星人彩银币",
+      "normalizedBoxCode": "6171627001",
+      "displayBoxCode": "6171627-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/448193.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6171627-001/70/",
+      "price": 1700,
+      "priceWithFee": null,
+      "transactedAt": "2024-09-21 00:10:29",
+      "productCode": "AA500541",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2021年,3盎司,年帕,帕劳,劳盎,盎司,司赛,赛博,博朋,朋克,克外,外星,星人,人彩,彩银,银币"
+    },
+    {
+      "coinName": "2021年帕劳3盎司赛博朋克外星人彩银币",
+      "normalizedBoxCode": "6336182001",
+      "displayBoxCode": "6336182-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/549658.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6336182-001/70/",
+      "price": 2800,
+      "priceWithFee": null,
+      "transactedAt": "2026-02-07 11:37:23",
+      "productCode": "DB202476",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2021年,3盎司,年帕,帕劳,劳盎,盎司,司赛,赛博,博朋,朋克,克外,外星,星人,人彩,彩银,银币"
+    }
+  ]
+}

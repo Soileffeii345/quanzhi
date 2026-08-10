@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8604633036",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8604633036",
+      "displayBoxCode": "8604633-036",
+      "gradingCompany": "NGC",
+      "grade": "MS 67",
+      "coinName": "1933年墨西哥鹰洋16.66克银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/wgjsbizhang/10398717.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8604633-036/67/",
+      "price": 510,
+      "priceWithFee": 540.6,
+      "transactedAt": "2026-07-17 19:05:55",
+      "productCode": "874803004",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/874803004A.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1933年,16.66克,鹰洋,年墨,墨西,西哥,哥鹰,洋克,克银,银币,外国/特区"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "coinName": "1978年奥运会15.552克金币",
+  "slug": "78f37cee",
+  "saleCount": 3,
+  "keywords": "金,币,1978年,2盎司,奥运,年苏,苏联,联盎,盎司,司莫,莫斯,斯科,科奥,运会,会水,水边,边看,看台,台金,金币,外国/特区,会列,列宁,宁体,体育,育场,场金",
+  "priceStats": {
+    "low": 10620,
+    "high": 12310,
+    "avg": 11742,
+    "latest": 12310
+  },
+  "records": [
+    {
+      "coinName": "1978年苏联1/2盎司莫斯科奥运会水边看台金币",
+      "normalizedBoxCode": "3806478073",
+      "displayBoxCode": "3806478-073",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/496353.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3806478-073/69/",
+      "price": 12310,
+      "priceWithFee": null,
+      "transactedAt": "2025-08-25 14:48:49",
+      "productCode": "KH079810",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1978年,2盎司,奥运,年苏,苏联,联盎,盎司,司莫,莫斯,斯科,科奥,运会,会水,水边,边看,看台,台金,金币,外国/特区"
+    },
+    {
+      "coinName": "1978年苏联1/2盎司莫斯科奥运会列宁体育场金币",
+      "normalizedBoxCode": "3896478075",
+      "displayBoxCode": "3896478-075",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/496354.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3896478-075/69/",
+      "price": 12295,
+      "priceWithFee": null,
+      "transactedAt": "2025-08-25 14:43:45",
+      "productCode": "KH079811",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1978年,2盎司,奥运,年苏,苏联,联盎,盎司,司莫,莫斯,斯科,科奥,运会,会列,列宁,宁体,体育,育场,场金,金币,外国/特区"
+    },
+    {
+      "coinName": "1978年苏联1/2盎司莫斯科奥运会列宁体育场金币",
+      "normalizedBoxCode": "3896478075",
+      "displayBoxCode": "3896478-075",
+      "gradingCompany": "NGC",
+      "grade": "PF69",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/466207.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3896478-075/69/",
+      "price": 10620,
+      "priceWithFee": null,
+      "transactedAt": "2025-02-27 14:07:21",
+      "productCode": "AA552703",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1978年,2盎司,奥运,年苏,苏联,联盎,盎司,司莫,莫斯,斯科,科奥,运会,会列,列宁,宁体,体育,育场,场金,金币,外国/特区"
+    }
+  ]
+}

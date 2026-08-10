@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4545848004",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4545848004",
+      "displayBoxCode": "4545848-004",
+      "gradingCompany": "NGC",
+      "grade": "MS 66",
+      "coinName": "2003年癸未羊年生肖流通纪念币二枚",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10378674.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4545848-004/66/",
+      "price": 220,
+      "priceWithFee": 237.6,
+      "transactedAt": "2026-07-08 19:38:05",
+      "productCode": "872106011",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/27/872106011A.jpg",
+      "ocrConfidence": 42,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2003年,生肖,年癸,癸未,未羊,羊年,年生,肖流,流通,通纪,纪念,念币,币二,二枚"
+    }
+  ]
+}

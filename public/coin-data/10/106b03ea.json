@@ -1,0 +1,31 @@
+{
+  "coinName": "2021年28克银币",
+  "slug": "106b03ea",
+  "saleCount": 1,
+  "keywords": "银,章,2021年,28克,年克,克紫,紫气,气东,东来,来银,银章",
+  "priceStats": {
+    "low": 1300,
+    "high": 1300,
+    "avg": 1300,
+    "latest": 1300
+  },
+  "records": [
+    {
+      "coinName": "2021年28克紫气东来银章",
+      "normalizedBoxCode": "8203493058",
+      "displayBoxCode": "8203493-058",
+      "gradingCompany": "NGC",
+      "grade": "PF70 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/558616.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8203493-058/70/",
+      "price": 1300,
+      "priceWithFee": null,
+      "transactedAt": "2026-03-10 21:59:33",
+      "productCode": "KH122426",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,章,2021年,28克,年克,克紫,紫气,气东,东来,来银,银章"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8572039004",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8572039004",
+      "displayBoxCode": "8572039-004",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2001年1/10盎司敦煌石窟金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/511042.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8572039-004/69/",
+      "price": 3500,
+      "priceWithFee": null,
+      "transactedAt": "2025-12-29 21:47:38",
+      "productCode": "KH097576",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251107/large_sell_77od5eamcjvosoid.jpg",
+      "ocrConfidence": 45,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2001年,10盎司,年盎,盎司,司敦,敦煌,煌石,石窟,窟金,金币"
+    }
+  ]
+}

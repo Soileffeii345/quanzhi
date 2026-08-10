@@ -1,0 +1,31 @@
+{
+  "coinName": "2024年京剧",
+  "slug": "7e2757cc",
+  "saleCount": 1,
+  "keywords": "币,2024年,戏曲,年中,中国,国京,京剧,剧艺,艺术,术旦,旦角,角流,流通,通纪,纪念,念币",
+  "priceStats": {
+    "low": 120,
+    "high": 120,
+    "avg": 120,
+    "latest": 120
+  },
+  "records": [
+    {
+      "coinName": "2024年中国京剧艺术（旦角）流通纪念币",
+      "normalizedBoxCode": "8201965038",
+      "displayBoxCode": "8201965-038",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10399088.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8201965-038/69/",
+      "price": 120,
+      "priceWithFee": 129.6,
+      "transactedAt": "2026-07-22 19:00:55",
+      "productCode": "875109001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2024年,戏曲,年中,中国,国京,京剧,剧艺,艺术,术旦,旦角,角流,流通,通纪,纪念,念币"
+    }
+  ]
+}

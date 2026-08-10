@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6729608023",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6729608023",
+      "displayBoxCode": "6729608-023",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "coinName": "1991年1/10盎司熊猫金币(小字版)",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/435919.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6729608-023/69/",
+      "price": 2600,
+      "priceWithFee": null,
+      "transactedAt": "2024-06-12 14:55:56",
+      "productCode": "AA485073",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20240609/large_sell_pb6bgem5oj4xgbhb.jpg",
+      "ocrConfidence": 38,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1991年,10盎司,熊猫,年盎,盎司,司熊,猫金,金币,币小,小字,字版"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8777011057",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8777011057",
+      "displayBoxCode": "8777011-057",
+      "gradingCompany": "NGC",
+      "grade": "PF 68 ULTRA CAMEO",
+      "coinName": "2010年上海世博会精制流通纪念币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10396440.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8777011-057/68/",
+      "price": 350,
+      "priceWithFee": 378,
+      "transactedAt": "2026-07-15 19:33:25",
+      "productCode": "874407028",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/874407028A.jpg",
+      "ocrConfidence": 53,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2010年,重大事件,年上,上海,海世,世博,博会,会精,精制,制流,流通,通纪,纪念,念币,评级"
+    }
+  ]
+}

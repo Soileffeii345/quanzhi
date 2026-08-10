@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6742565052",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6742565052",
+      "displayBoxCode": "6742565-052",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1956年中国硬币伍分",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10359580.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6742565-052/",
+      "price": 70,
+      "priceWithFee": 75.6,
+      "transactedAt": "2026-06-24 20:04:05",
+      "productCode": "870469005",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/870469005A.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1956年,年中,中国,国硬,硬币,币伍,伍分"
+    }
+  ]
+}

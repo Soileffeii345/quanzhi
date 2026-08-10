@@ -1,0 +1,48 @@
+{
+  "coinName": "1995年8克精制金币",
+  "slug": "7d125a9a",
+  "saleCount": 2,
+  "keywords": "金,币,1995年,8克,年徐,徐悲,悲鸿,鸿诞,诞辰,辰周,周年,年雄,雄狮,狮克,克精,精制,制金,金币,评级",
+  "priceStats": {
+    "low": 20500,
+    "high": 22000,
+    "avg": 21250,
+    "latest": 20500
+  },
+  "records": [
+    {
+      "coinName": "1995年徐悲鸿诞辰100周年-雄狮8克精制金币",
+      "normalizedBoxCode": "8656368005",
+      "displayBoxCode": "8656368-005",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10379030.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8656368-005/",
+      "price": 20500,
+      "priceWithFee": 21217.5,
+      "transactedAt": "2026-07-02 20:40:10",
+      "productCode": "872402004",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1995年,8克,年徐,徐悲,悲鸿,鸿诞,诞辰,辰周,周年,年雄,雄狮,狮克,克精,精制,制金,金币,评级"
+    },
+    {
+      "coinName": "1995年徐悲鸿诞辰100周年-雄狮8克精制金币",
+      "normalizedBoxCode": "8656368007",
+      "displayBoxCode": "8656368-007",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10360169.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8656368-007/69/",
+      "price": 22000,
+      "priceWithFee": 22770,
+      "transactedAt": "2026-06-25 21:56:05",
+      "productCode": "870428001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1995年,8克,年徐,徐悲,悲鸿,鸿诞,诞辰,辰周,周年,年雄,雄狮,狮克,克精,精制,制金,金币,评级"
+    }
+  ]
+}

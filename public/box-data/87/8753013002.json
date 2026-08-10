@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8753013002",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8753013002",
+      "displayBoxCode": "8753013-002",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1999年中国珍稀野生动物中华鲟纪念币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/579008.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8753013-002/",
+      "price": 370,
+      "priceWithFee": null,
+      "transactedAt": "2026-05-12 23:47:55",
+      "productCode": "KH133935",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260510/large_sell_qzmxuew7tjqbg96n.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1999年,年中,中国,国珍,珍稀,稀野,野生,生动,动物,物中,中华,华鲟,鲟纪,纪念,念币"
+    }
+  ]
+}

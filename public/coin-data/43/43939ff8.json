@@ -1,0 +1,31 @@
+{
+  "coinName": "广东省造光绪元宝库平一钱四分四厘银元",
+  "slug": "43939ff8",
+  "saleCount": 1,
+  "keywords": "银,历史币,龙洋,龙,元宝,广东,粤造,东省,省造,造光,光绪,绪元,宝库,库平,平一,一钱,钱四,四分,分四,四厘,厘银,银元",
+  "priceStats": {
+    "low": 110,
+    "high": 110,
+    "avg": 110,
+    "latest": 110
+  },
+  "records": [
+    {
+      "coinName": "广东省造光绪元宝库平一钱四分四厘银元",
+      "normalizedBoxCode": "6732065001",
+      "displayBoxCode": "6732065-001",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguojindaijizhibi/10390909.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6732065-001/",
+      "price": 110,
+      "priceWithFee": 118.8,
+      "transactedAt": "2026-07-27 19:45:35",
+      "productCode": "873588001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,龙洋,龙,元宝,广东,粤造,东省,省造,造光,光绪,绪元,宝库,库平,平一,一钱,钱四,四分,分四,四厘,厘银,银元"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "1528495198",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "1528495198",
+      "displayBoxCode": "1528495-198",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "第四套/第四版人民币1990年版100元",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/disibanrenminbi/10401690.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1528495-198/",
+      "price": 8800,
+      "priceWithFee": 9504,
+      "transactedAt": "2026-07-23 19:43:40",
+      "productCode": "875142001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/875142001B.jpg",
+      "ocrConfidence": 38,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1990年,第四,四套,套第,四版,版人,人民,民币,币年,年版,版元"
+    }
+  ]
+}

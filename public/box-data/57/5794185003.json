@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "5794185003",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "5794185003",
+      "displayBoxCode": "5794185-003",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2005年1/2盎司梅花形生肖鸡金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/507914.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/5794185-003/",
+      "price": 14340,
+      "priceWithFee": null,
+      "transactedAt": "2025-11-04 11:06:10",
+      "productCode": "AA592211",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251023/large_sell_uh8r9gu2cmxwc96g.jpg",
+      "ocrConfidence": 39,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2005年,2盎司,生肖,年盎,盎司,司梅,梅花,花形,形生,肖鸡,鸡金,金币"
+    }
+  ]
+}

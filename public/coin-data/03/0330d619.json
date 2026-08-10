@@ -1,0 +1,31 @@
+{
+  "coinName": "2018年熊猫30克金币",
+  "slug": "0330d619",
+  "saleCount": 1,
+  "keywords": "金,币,2018年,30克,熊猫,年克,克熊,猫金,金币",
+  "priceStats": {
+    "low": 31000,
+    "high": 31000,
+    "avg": 31000,
+    "latest": 31000
+  },
+  "records": [
+    {
+      "coinName": "2018年30克熊猫金币",
+      "normalizedBoxCode": "8767100001",
+      "displayBoxCode": "8767100-001",
+      "gradingCompany": "NGC",
+      "grade": "MS 70",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/586703.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8767100-001/70/",
+      "price": 31000,
+      "priceWithFee": null,
+      "transactedAt": "2026-06-10 15:46:47",
+      "productCode": "AA654195",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2018年,30克,熊猫,年克,克熊,猫金,金币"
+    }
+  ]
+}

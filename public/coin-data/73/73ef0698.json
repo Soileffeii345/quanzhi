@@ -1,0 +1,48 @@
+{
+  "coinName": "2022年31.104克银币",
+  "slug": "73ef0698",
+  "saleCount": 2,
+  "keywords": "银,币,2022年,1盎司,年萨,萨摩,摩亚,亚向,向往,往自,自由,由全,全息,息曲,曲面,面盎,盎司,司幻,幻彩,彩银,银币",
+  "priceStats": {
+    "low": 1240,
+    "high": 1360,
+    "avg": 1300,
+    "latest": 1360
+  },
+  "records": [
+    {
+      "coinName": "2022年萨摩亚向往自由全息曲面1盎司幻彩银币",
+      "normalizedBoxCode": "8504637034",
+      "displayBoxCode": "8504637-034",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/wgjsbizhang/10387863.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8504637-034/69/",
+      "price": 1360,
+      "priceWithFee": 1441.6,
+      "transactedAt": "2026-07-10 21:21:45",
+      "productCode": "873338002",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2022年,1盎司,年萨,萨摩,摩亚,亚向,向往,往自,自由,由全,全息,息曲,曲面,面盎,盎司,司幻,幻彩,彩银,银币"
+    },
+    {
+      "coinName": "2022年萨摩亚向往自由全息曲面1盎司幻彩银币",
+      "normalizedBoxCode": "8504637034",
+      "displayBoxCode": "8504637-034",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/wgjsbizhang/10354147.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8504637-034/69/",
+      "price": 1240,
+      "priceWithFee": 1314.4,
+      "transactedAt": "2026-06-19 20:12:05",
+      "productCode": "869380008",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2022年,1盎司,年萨,萨摩,摩亚,亚向,向往,往自,自由,由全,全息,息曲,曲面,面盎,盎司,司幻,幻彩,彩银,银币"
+    }
+  ]
+}

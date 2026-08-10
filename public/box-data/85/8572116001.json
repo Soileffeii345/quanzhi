@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8572116001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8572116001",
+      "displayBoxCode": "8572116-001",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2025年30克吉祥文化瑞气盈门银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/491213.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8572116-001/",
+      "price": 1750,
+      "priceWithFee": null,
+      "transactedAt": "2025-08-02 07:45:40",
+      "productCode": "AA575110",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250728/large_sell_va2hd7baeexwrc1i.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2025年,30克,吉祥文化,年克,克吉,吉祥,祥文,文化,化瑞,瑞气,气盈,盈门,门银,银币"
+    }
+  ]
+}

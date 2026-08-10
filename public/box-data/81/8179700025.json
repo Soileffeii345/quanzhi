@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8179700025",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8179700025",
+      "displayBoxCode": "8179700-025",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2007年1/4盎司内蒙古自治区成立60周年金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/483016.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8179700-025/70/",
+      "price": 6265,
+      "priceWithFee": null,
+      "transactedAt": "2025-06-12 10:58:16",
+      "productCode": "KH069152",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250612/large_sell_jg3qxksjbipoigmt.jpg",
+      "ocrConfidence": 59,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2007年,4盎司,年盎,盎司,司内,内蒙,蒙古,古自,自治,治区,区成,成立,立周,周年,年金,金币"
+    }
+  ]
+}

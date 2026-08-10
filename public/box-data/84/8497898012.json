@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8497898012",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8497898012",
+      "displayBoxCode": "8497898-012",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1994年上币普贤菩萨金章",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/482739.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8497898-012/",
+      "price": 2950,
+      "priceWithFee": null,
+      "transactedAt": "2025-06-10 21:47:54",
+      "productCode": "KH068967",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250610/large_sell_vbh7k4ndbrzzoazw.jpg",
+      "ocrConfidence": 48,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,章,1994年,宗教,年上,上币,币普,普贤,贤菩,菩萨,萨金,金章"
+    }
+  ]
+}

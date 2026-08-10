@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2572779001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2572779001",
+      "displayBoxCode": "2572779-001",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "第二版人民币井冈山龙源口3元",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/dierbanrenminbi/10377331.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2572779-001/",
+      "price": 9700,
+      "priceWithFee": 10476,
+      "transactedAt": "2026-07-02 20:26:05",
+      "productCode": "872111002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/26/872111002B.jpg",
+      "ocrConfidence": 24,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,第二,二版,版人,人民,民币,币井,井冈,冈山,山龙,龙源,源口,口元"
+    }
+  ]
+}

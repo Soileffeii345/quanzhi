@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2201013561",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2201013561",
+      "displayBoxCode": "2201013-561",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1872年美国20美元纸币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10387937.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2201013-561/",
+      "price": 4400,
+      "priceWithFee": 4884,
+      "transactedAt": "2026-07-14 21:59:35",
+      "productCode": "873172005",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/27/873172005B.jpg",
+      "ocrConfidence": 30,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1872年,年美,美国,国美,美元,元纸,纸币,外国/特区"
+    }
+  ]
+}

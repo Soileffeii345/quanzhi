@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6406388048",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6406388048",
+      "displayBoxCode": "6406388-048",
+      "gradingCompany": "NGC",
+      "grade": "MS 70",
+      "coinName": "2000年1分",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/555804.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6406388-048/70/",
+      "price": 300,
+      "priceWithFee": null,
+      "transactedAt": "2026-02-27 21:21:27",
+      "productCode": "KH121150",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260224/large_sell_fu3tqjj9kv43j9l5.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "2000年,年分"
+    }
+  ]
+}

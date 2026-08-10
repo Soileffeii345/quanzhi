@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "5803992004",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "5803992004",
+      "displayBoxCode": "5803992-004",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2005年乙酉鸡年生肖精制流通纪念币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10372249.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/5803992-004/69/",
+      "price": 1320,
+      "priceWithFee": 1425.6,
+      "transactedAt": "2026-07-01 20:56:35",
+      "productCode": "871391034",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/26/871391034A.jpg",
+      "ocrConfidence": 40,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2005年,生肖,年乙,乙酉,酉鸡,鸡年,年生,肖精,精制,制流,流通,通纪,纪念,念币,评级"
+    }
+  ]
+}

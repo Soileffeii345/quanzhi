@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8777068037",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8777068037",
+      "displayBoxCode": "8777068-037",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2004年邓小平诞辰100周年精制流通纪念币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10396434.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8777068-037/",
+      "price": 1120,
+      "priceWithFee": 1209.6,
+      "transactedAt": "2026-07-15 22:11:35",
+      "productCode": "874407022",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/874407022A.jpg",
+      "ocrConfidence": 48,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2004年,年邓,邓小,小平,平诞,诞辰,辰周,周年,年精,精制,制流,流通,通纪,纪念,念币,评级"
+    }
+  ]
+}

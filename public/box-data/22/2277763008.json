@@ -1,0 +1,45 @@
+{
+  "ok": true,
+  "query": "2277763008",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2277763008",
+      "displayBoxCode": "2277763-008",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "第二版人民币天安门红1元",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/dierbanrenminbi/10406569.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2277763-008/",
+      "price": 2250,
+      "priceWithFee": 2430,
+      "transactedAt": "2026-07-18 21:30:35",
+      "productCode": "875932001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/875932001B.jpg",
+      "ocrConfidence": 27,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,第二,二版,版人,人民,民币,币天,天安,安门,门红,红元"
+    },
+    {
+      "normalizedBoxCode": "2277763008",
+      "displayBoxCode": "2277763-008",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "第二版人民币天安门红1元",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/dierbanrenminbi/10379680.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2277763-008/",
+      "price": 2550,
+      "priceWithFee": 2754,
+      "transactedAt": "2026-07-07 21:06:35",
+      "productCode": "872117006",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/27/872117006B.jpg",
+      "ocrConfidence": 27,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,第二,二版,版人,人民,民币,币天,天安,安门,门红,红元"
+    }
+  ]
+}

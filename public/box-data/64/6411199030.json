@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6411199030",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6411199030",
+      "displayBoxCode": "6411199-030",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "coinName": "1998年中国珍稀野生动物-扬子鳄流通纪念币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10358266.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6411199-030/69/",
+      "price": 320,
+      "priceWithFee": 345.6,
+      "transactedAt": "2026-06-24 21:40:05",
+      "productCode": "869917007",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/869917007A.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1998年,年中,中国,国珍,珍稀,稀野,野生,生动,动物,物扬,扬子,子鳄,鳄流,流通,通纪,纪念,念币"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8763971012",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8763971012",
+      "displayBoxCode": "8763971-012",
+      "gradingCompany": "NGC",
+      "grade": "PF 68 ULTRA CAMEO",
+      "coinName": "2018年戊戌狗年生肖3克精制金币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-jin/10374699.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8763971-012/68/",
+      "price": 3050,
+      "priceWithFee": 3156.75,
+      "transactedAt": "2026-07-09 21:02:45",
+      "productCode": "872023001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/27/872023001A.jpg",
+      "ocrConfidence": 41,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2018年,3克,生肖,年戊,戊戌,戌狗,狗年,年生,肖克,克精,精制,制金,金币,评级"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6738526026",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6738526026",
+      "displayBoxCode": "6738526-026",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1996年1盎司红军长征胜利60周年胜利会师银币(多光版)",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/528897.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6738526-026/",
+      "price": 5100,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-10 07:34:28",
+      "productCode": "KH101872",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260107/large_sell_qlkuianhwyjo3u61.jpg",
+      "ocrConfidence": 44,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1996年,1盎司,年盎,盎司,司红,红军,军长,长征,征胜,胜利,利周,周年,年胜,利会,会师,师银,银币,币多,多光,光版"
+    }
+  ]
+}

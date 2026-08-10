@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4414497025",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4414497025",
+      "displayBoxCode": "4414497-025",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1982年精制长城币壹圆",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10373683.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4414497-025/69/",
+      "price": 6200,
+      "priceWithFee": 6696,
+      "transactedAt": "2026-07-01 20:51:05",
+      "productCode": "871971002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/24/867974004A.jpg",
+      "ocrConfidence": 32,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1982年,年精,精制,制长,长城,城币,币壹,壹圆,评级"
+    }
+  ]
+}

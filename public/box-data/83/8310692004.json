@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8310692004",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8310692004",
+      "displayBoxCode": "8310692-004",
+      "gradingCompany": "NGC",
+      "grade": "PF70 ULTRA CAMEO",
+      "coinName": "2026年吉祥文化30克方孔圆形精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10357359.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8310692-004/70/",
+      "price": 1520,
+      "priceWithFee": 1573.2,
+      "transactedAt": "2026-06-20 21:02:35",
+      "productCode": "869981015",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/869981015A.jpg",
+      "ocrConfidence": 37,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2026年,30克,吉祥文化,年吉,吉祥,祥文,文化,化克,克方,方孔,孔圆,圆形,形精,精制,制银,银币,评级"
+    }
+  ]
+}

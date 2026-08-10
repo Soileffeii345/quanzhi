@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8764265025",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8764265025",
+      "displayBoxCode": "8764265-025",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1996年玉瓶观音1盎司加厚精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10359750.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8764265-025/69/",
+      "price": 1640,
+      "priceWithFee": 1697.4,
+      "transactedAt": "2026-06-25 20:05:05",
+      "productCode": "870246002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/870246002A.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1996年,1盎司,宗教,年玉,玉瓶,瓶观,观音,音盎,盎司,司加,加厚,厚精,精制,制银,银币,评级"
+    }
+  ]
+}

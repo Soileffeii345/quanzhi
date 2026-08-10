@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4419179012",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4419179012",
+      "displayBoxCode": "4419179-012",
+      "gradingCompany": "NGC",
+      "grade": "PF 68 CAMEO",
+      "coinName": "1980年第13届冬季奥运会-男子现代冬季两项12克精制铜币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-tong/10350822.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4419179-012/68/",
+      "price": 430,
+      "priceWithFee": 445.05,
+      "transactedAt": "2026-06-22 20:18:40",
+      "productCode": "868336002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/868336002A.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "铜,币,1980年,12克,奥运,年第,第届,届冬,冬季,季奥,运会,会男,男子,子现,现代,代冬,季两,两项,项克,克精,精制,制铜,铜币,评级"
+    }
+  ]
+}

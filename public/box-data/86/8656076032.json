@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8656076032",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8656076032",
+      "displayBoxCode": "8656076-032",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1995年第43届世界乒乓球锦标赛-男子单打1/3盎司精制金币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10390821.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8656076-032/69/",
+      "price": 16400,
+      "priceWithFee": 16974,
+      "transactedAt": "2026-07-09 21:44:45",
+      "productCode": "873930016",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/27/873930016A.jpg",
+      "ocrConfidence": 38,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1995年,3盎司,年第,第届,届世,世界,界乒,乒乓,乓球,球锦,锦标,标赛,赛男,男子,子单,单打,打盎,盎司,司精,精制,制金,金币,评级"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8763968006",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8763968006",
+      "displayBoxCode": "8763968-006",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1997年1盎司吉庆有余银币(加厚)",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/589586.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8763968-006/",
+      "price": 720,
+      "priceWithFee": null,
+      "transactedAt": "2026-06-13 06:42:21",
+      "productCode": "AA657113",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260612/large_sell_cp3qevmoanjsatwd.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1997年,1盎司,年盎,盎司,司吉,吉庆,庆有,有余,余银,银币,币加,加厚"
+    }
+  ]
+}

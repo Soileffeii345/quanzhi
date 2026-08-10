@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2434364048",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2434364048",
+      "displayBoxCode": "2434364-048",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2016年越南纸钞",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10392460.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2434364-048/",
+      "price": 110,
+      "priceWithFee": 122.1,
+      "transactedAt": "2026-07-14 21:58:05",
+      "productCode": "873792042",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/873792042B.jpg",
+      "ocrConfidence": 29,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,2016年,年越,越南,南纸,纸钞"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "coinName": "民国十九年恒顺东伍佰文",
+  "slug": "5d2f76cf",
+  "saleCount": 1,
+  "keywords": "历史币,民国,国十,十九,九年,年恒,恒顺,顺东,东伍,伍佰,佰文",
+  "priceStats": {
+    "low": 310,
+    "high": 310,
+    "avg": 310,
+    "latest": 310
+  },
+  "records": [
+    {
+      "coinName": "民国十九年恒顺东伍佰文",
+      "normalizedBoxCode": "2252932004",
+      "displayBoxCode": "2252932-004",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/difangsipiao/10377208.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2252932-004/",
+      "price": 310,
+      "priceWithFee": 344.1,
+      "transactedAt": "2026-07-23 20:12:40",
+      "productCode": "871359005",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "历史币,民国,国十,十九,九年,年恒,恒顺,顺东,东伍,伍佰,佰文"
+    }
+  ]
+}

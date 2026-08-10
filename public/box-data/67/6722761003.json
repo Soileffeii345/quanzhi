@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6722761003",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6722761003",
+      "displayBoxCode": "6722761-003",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1988年1/4盎司珍稀动物第1组金丝猴金币(高年版)",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/483714.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6722761-003/69/",
+      "price": 6220,
+      "priceWithFee": null,
+      "transactedAt": "2025-06-15 22:42:15",
+      "productCode": "KH069615",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250615/large_sell_6lvu7gz5cflgjgbd.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1988年,4盎司,年盎,盎司,司珍,珍稀,稀动,动物,物第,第组,组金,金丝,丝猴,猴金,金币,币高,高年,年版"
+    }
+  ]
+}

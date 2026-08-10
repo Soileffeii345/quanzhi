@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "0060060927",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "0060060927",
+      "displayBoxCode": "0060060-927",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1980年宫灯麒麟铜章(上币27)",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/453225.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/0060060-927/",
+      "price": 380,
+      "priceWithFee": null,
+      "transactedAt": "2024-11-08 09:41:42",
+      "productCode": "AA531674",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20241103/large_sell_szhtmayrktthtcx9.jpg",
+      "ocrConfidence": 31,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "铜,币,章,1980年,年宫,宫灯,灯麒,麒麟,麟铜,铜章,章上,上币"
+    }
+  ]
+}

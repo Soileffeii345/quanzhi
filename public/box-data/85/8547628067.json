@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8547628067",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8547628067",
+      "displayBoxCode": "8547628-067",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1994年麒麟1/4盎司金+1/8盎司银精制双金属币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-shuangjinshu/10356001.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8547628-067/",
+      "price": 19800,
+      "priceWithFee": 20493,
+      "transactedAt": "2026-06-25 21:16:35",
+      "productCode": "869853002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/869853002A.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,1994年,4盎司,年麒,麒麟,麟盎,盎司,司金,金盎,司银,银精,精制,制双,双金,金属,属币,评级"
+    }
+  ]
+}

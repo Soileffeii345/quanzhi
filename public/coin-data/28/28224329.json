@@ -1,0 +1,31 @@
+{
+  "coinName": "1992年珍稀动物27克银币",
+  "slug": "28224329",
+  "saleCount": 1,
+  "keywords": "银,币,1992年,27克,年克,克珍,珍稀,稀动,动物,物第,第组,组白,白鹳,鹳银,银币",
+  "priceStats": {
+    "low": 600,
+    "high": 600,
+    "avg": 600,
+    "latest": 600
+  },
+  "records": [
+    {
+      "coinName": "1992年27克珍稀动物第3组白鹳银币",
+      "normalizedBoxCode": "8235057048",
+      "displayBoxCode": "8235057-048",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/561237.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8235057-048/",
+      "price": 600,
+      "priceWithFee": null,
+      "transactedAt": "2026-03-25 09:19:22",
+      "productCode": "KH125117",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1992年,27克,年克,克珍,珍稀,稀动,动物,物第,第组,组白,白鹳,鹳银,银币"
+    }
+  ]
+}

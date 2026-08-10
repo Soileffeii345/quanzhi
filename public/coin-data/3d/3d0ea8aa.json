@@ -1,0 +1,31 @@
+{
+  "coinName": "1993年熊猫15.552克银币",
+  "slug": "3d0ea8aa",
+  "saleCount": 1,
+  "keywords": "银,币,1993年,2盎司,熊猫,年盎,盎司,司熊,猫银,银币",
+  "priceStats": {
+    "low": 830,
+    "high": 830,
+    "avg": 830,
+    "latest": 830
+  },
+  "records": [
+    {
+      "coinName": "1993年1/2盎司熊猫银币",
+      "normalizedBoxCode": "8358460047",
+      "displayBoxCode": "8358460-047",
+      "gradingCompany": "NGC",
+      "grade": "MS 70",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/504053.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8358460-047/70/",
+      "price": 830,
+      "priceWithFee": null,
+      "transactedAt": "2025-10-09 20:50:35",
+      "productCode": "KH086132",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1993年,2盎司,熊猫,年盎,盎司,司熊,猫银,银币"
+    }
+  ]
+}

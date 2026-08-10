@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6761012009",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6761012009",
+      "displayBoxCode": "6761012-009",
+      "gradingCompany": "NGC",
+      "grade": "PF 68 CAMEO",
+      "coinName": "1985年财神黄金万两铜章(上币33)",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/583407.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6761012-009/68/",
+      "price": 300,
+      "priceWithFee": null,
+      "transactedAt": "2026-06-05 20:47:43",
+      "productCode": "AA650721",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260525/large_sell_9b6c8s5pyleknimi.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,铜,币,章,1985年,年财,财神,神黄,黄金,金万,万两,两铜,铜章,章上,上币"
+    }
+  ]
+}

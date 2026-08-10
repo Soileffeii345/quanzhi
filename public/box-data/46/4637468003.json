@@ -1,0 +1,45 @@
+{
+  "ok": true,
+  "query": "4637468003",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4637468003",
+      "displayBoxCode": "4637468-003",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2008年1/3盎司中国首次太空行走成功彩金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/570486.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4637468-003/",
+      "price": 10925,
+      "priceWithFee": null,
+      "transactedAt": "2026-04-06 20:27:27",
+      "productCode": "KH128708",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260406/large_sell_d4bc9mvsnrltcb7j.jpg",
+      "ocrConfidence": 46,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2008年,3盎司,年盎,盎司,司中,中国,国首,首次,次太,太空,空行,行走,走成,成功,功彩,彩金,金币"
+    },
+    {
+      "normalizedBoxCode": "4637468003",
+      "displayBoxCode": "4637468-003",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2008年1/3盎司中国首次太空行走成功彩金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/521497.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4637468-003/",
+      "price": 10170,
+      "priceWithFee": null,
+      "transactedAt": "2025-12-17 18:55:11",
+      "productCode": "KH095505",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251217/large_sell_g7nuxfhgkqrm39on.jpg",
+      "ocrConfidence": 54,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2008年,3盎司,年盎,盎司,司中,中国,国首,首次,次太,太空,空行,行走,走成,成功,功彩,彩金,金币"
+    }
+  ]
+}

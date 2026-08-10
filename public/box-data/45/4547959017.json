@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4547959017",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4547959017",
+      "displayBoxCode": "4547959-017",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2017年5盎司观音菩萨银章",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/529049.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4547959-017/70/",
+      "price": 5800,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-22 08:45:55",
+      "productCode": "KH108775",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260108/large_sell_igdsyu9wimxwxbeq.jpg",
+      "ocrConfidence": 49,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,章,2017年,5盎司,宗教,年盎,盎司,司观,观音,音菩,菩萨,萨银,银章"
+    }
+  ]
+}

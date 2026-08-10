@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6336797019",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6336797019",
+      "displayBoxCode": "6336797-019",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2021年8克中巴建交70周年金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/474814.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6336797-019/70/",
+      "price": 6550,
+      "priceWithFee": null,
+      "transactedAt": "2025-06-16 09:58:32",
+      "productCode": "AA559912",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250423/large_sell_yxgr1m4gci78ar5i.jpg",
+      "ocrConfidence": 37,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2021年,8克,年克,克中,中巴,巴建,建交,交周,周年,年金,金币"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8650828002",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8650828002",
+      "displayBoxCode": "8650828-002",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2025年30克抗战胜利80周年银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/503823.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8650828-002/69/",
+      "price": 890,
+      "priceWithFee": null,
+      "transactedAt": "2025-10-08 15:56:04",
+      "productCode": "KH086101",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251004/large_sell_mlazujknfrcdausl.jpg",
+      "ocrConfidence": 59,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2025年,30克,重大事件,年克,克抗,抗战,战胜,胜利,利周,周年,年银,银币"
+    }
+  ]
+}

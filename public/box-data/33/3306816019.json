@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "3306816019",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "3306816019",
+      "displayBoxCode": "3306816-019",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1981年精制长城币伍角",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10370833.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3306816-019/",
+      "price": 1340,
+      "priceWithFee": 1447.2,
+      "transactedAt": "2026-07-01 20:29:05",
+      "productCode": "871557003",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/26/871557003A.jpg",
+      "ocrConfidence": 32,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1981年,年精,精制,制长,长城,城币,币伍,伍角,评级"
+    }
+  ]
+}

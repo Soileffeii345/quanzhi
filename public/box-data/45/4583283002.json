@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4583283002",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4583283002",
+      "displayBoxCode": "4583283-002",
+      "gradingCompany": "NGC",
+      "grade": "PF 68",
+      "coinName": "2018年30克央美建校100周年银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/527731.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4583283-002/68/",
+      "price": 700,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-20 20:10:20",
+      "productCode": "KH109696",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260104/large_sell_l7upbqw9ibo68wnn.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2018年,30克,年克,克央,央美,美建,建校,校周,周年,年银,银币"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "coinName": "2017年生肖30克银币",
+  "slug": "68476b83",
+  "saleCount": 4,
+  "keywords": "银,币,2017年,30克,生肖,年克,克梅,梅花,花形,形生,肖鸡,鸡银,银币,克生",
+  "priceStats": {
+    "low": 300,
+    "high": 1200,
+    "avg": 923,
+    "latest": 1200
+  },
+  "records": [
+    {
+      "coinName": "2017年30克梅花形生肖鸡银币",
+      "normalizedBoxCode": "2420965034",
+      "displayBoxCode": "2420965-034",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/556602.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2420965-034/70/",
+      "price": 1200,
+      "priceWithFee": null,
+      "transactedAt": "2026-02-28 17:24:26",
+      "productCode": "KH121128",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2017年,30克,生肖,年克,克梅,梅花,花形,形生,肖鸡,鸡银,银币"
+    },
+    {
+      "coinName": "2017年30克梅花形生肖鸡银币",
+      "normalizedBoxCode": "4420965007",
+      "displayBoxCode": "4420965-007",
+      "gradingCompany": "NGC",
+      "grade": "PF70 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/556604.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4420965-007/70/",
+      "price": 1200,
+      "priceWithFee": null,
+      "transactedAt": "2026-02-28 09:37:04",
+      "productCode": "KH121130",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2017年,30克,生肖,年克,克梅,梅花,花形,形生,肖鸡,鸡银,银币"
+    },
+    {
+      "coinName": "2017年30克梅花形生肖鸡银币",
+      "normalizedBoxCode": "4420965030",
+      "displayBoxCode": "4420965-030",
+      "gradingCompany": "NGC",
+      "grade": "PF70 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/571640.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4420965-030/70/",
+      "price": 990,
+      "priceWithFee": null,
+      "transactedAt": "2026-04-17 13:35:37",
+      "productCode": "AA638892",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2017年,30克,生肖,年克,克梅,梅花,花形,形生,肖鸡,鸡银,银币"
+    },
+    {
+      "coinName": "2017年30克生肖鸡银币",
+      "normalizedBoxCode": "4579669001",
+      "displayBoxCode": "4579669-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/489547.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4579669-001/69/",
+      "price": 300,
+      "priceWithFee": null,
+      "transactedAt": "2025-07-19 11:35:36",
+      "productCode": "KH074842",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2017年,30克,生肖,年克,克生,肖鸡,鸡银,银币"
+    }
+  ]
+}

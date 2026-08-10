@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "7002419002",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "7002419002",
+      "displayBoxCode": "7002419-002",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "第一版人民币锯木与犁田10元横波纹水印",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/diyibanrenminbi/10362475.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/7002419-002/",
+      "price": 8600,
+      "priceWithFee": 9460,
+      "transactedAt": "2026-06-25 20:33:10",
+      "productCode": "870328007",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/870328007B.jpg",
+      "ocrConfidence": 32,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,第一,一版,版人,人民,民币,币锯,锯木,木与,与犁,犁田,田元,元横,横波,波纹,纹水,水印"
+    }
+  ]
+}

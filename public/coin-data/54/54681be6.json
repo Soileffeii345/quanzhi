@@ -1,0 +1,65 @@
+{
+  "coinName": "2002年熊猫31.104克普制金币",
+  "slug": "54681be6",
+  "saleCount": 3,
+  "keywords": "金,币,2002年,1盎司,熊猫,年熊,猫盎,盎司,司普,普制,制金,金币",
+  "priceStats": {
+    "low": 31500,
+    "high": 32000,
+    "avg": 31833,
+    "latest": 32000
+  },
+  "records": [
+    {
+      "coinName": "2002年熊猫1盎司普制金币",
+      "normalizedBoxCode": "8765651002",
+      "displayBoxCode": "8765651-002",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-jiujin/10415008.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8765651-002/69/",
+      "price": 32000,
+      "priceWithFee": 33120,
+      "transactedAt": "2026-07-23 20:29:15",
+      "productCode": "876728004",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2002年,1盎司,熊猫,年熊,猫盎,盎司,司普,普制,制金,金币"
+    },
+    {
+      "coinName": "2002年熊猫1盎司普制金币",
+      "normalizedBoxCode": "8817099004",
+      "displayBoxCode": "8817099-004",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-jiujin/10405177.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8817099-004/69/",
+      "price": 31500,
+      "priceWithFee": 32602.5,
+      "transactedAt": "2026-07-16 20:55:55",
+      "productCode": "875605005",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2002年,1盎司,熊猫,年熊,猫盎,盎司,司普,普制,制金,金币"
+    },
+    {
+      "coinName": "2002年熊猫1盎司普制金币",
+      "normalizedBoxCode": "8817099005",
+      "displayBoxCode": "8817099-005",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-jiujin/10397611.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8817099-005/",
+      "price": 32000,
+      "priceWithFee": 33120,
+      "transactedAt": "2026-07-13 22:22:15",
+      "productCode": "874841001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2002年,1盎司,熊猫,年熊,猫盎,盎司,司普,普制,制金,金币"
+    }
+  ]
+}

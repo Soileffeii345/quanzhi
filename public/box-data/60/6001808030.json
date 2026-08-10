@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6001808030",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6001808030",
+      "displayBoxCode": "6001808-030",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2001年1/10盎司生肖蛇金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/468475.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6001808-030/",
+      "price": 2180,
+      "priceWithFee": null,
+      "transactedAt": "2025-03-18 11:58:20",
+      "productCode": "AA554920",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250316/large_sell_umrky44e0ho0rfde.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2001年,10盎司,生肖,年盎,盎司,司生,肖蛇,蛇金,金币"
+    }
+  ]
+}

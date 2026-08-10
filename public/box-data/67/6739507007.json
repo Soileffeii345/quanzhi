@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6739507007",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6739507007",
+      "displayBoxCode": "6739507-007",
+      "gradingCompany": "NGC",
+      "grade": "PF70",
+      "coinName": "2021年60克吉祥文化寸草春晖银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/467013.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6739507-007/70/",
+      "price": 1750,
+      "priceWithFee": null,
+      "transactedAt": "2025-03-25 15:58:55",
+      "productCode": "AA553455",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250305/large_sell_dfks1a35zt5b017w.jpg",
+      "ocrConfidence": 38,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2021年,60克,吉祥文化,年克,克吉,吉祥,祥文,文化,化寸,寸草,草春,春晖,晖银,银币"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4416076005",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4416076005",
+      "displayBoxCode": "4416076-005",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "coinName": "1997年1/10盎司熊猫金币(小字版细腿)",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/493842.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4416076-005/69/",
+      "price": 4300,
+      "priceWithFee": null,
+      "transactedAt": "2025-08-19 11:13:30",
+      "productCode": "AA577961",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250810/large_sell_gx22qwqftrqhyxiu.jpg",
+      "ocrConfidence": 38,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1997年,10盎司,熊猫,年盎,盎司,司熊,猫金,金币,币小,小字,字版,版细,细腿"
+    }
+  ]
+}

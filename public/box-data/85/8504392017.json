@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8504392017",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8504392017",
+      "displayBoxCode": "8504392-017",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2012年加拿大潜鸟发行25周年31.39克彩色银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/wgjsbizhang/10365711.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8504392-017/69/",
+      "price": 890,
+      "priceWithFee": 943.4,
+      "transactedAt": "2026-06-26 20:38:55",
+      "productCode": "870452017",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/26/870452017A.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2012年,31.39克,年加,加拿,拿大,大潜,潜鸟,鸟发,发行,行周,周年,年克,克彩,彩色,色银,银币,外国/特区"
+    }
+  ]
+}

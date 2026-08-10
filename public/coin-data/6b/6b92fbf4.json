@@ -1,0 +1,31 @@
+{
+  "coinName": "蒙古二蒙戈铜币",
+  "slug": "6b92fbf4",
+  "saleCount": 1,
+  "keywords": "铜,币,蒙古,古二,二蒙,蒙戈,戈铜,铜币",
+  "priceStats": {
+    "low": 1460,
+    "high": 1460,
+    "avg": 1460,
+    "latest": 1460
+  },
+  "records": [
+    {
+      "coinName": "蒙古二蒙戈铜币",
+      "normalizedBoxCode": "80819440",
+      "displayBoxCode": "80819440",
+      "gradingCompany": "PCGS",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguojindaijizhibi/10361723.shtml",
+      "officialCertUrl": "https://cn.pcgs.com/cert/80819440",
+      "price": 1460,
+      "priceWithFee": 1576.8,
+      "transactedAt": "2026-07-13 20:04:25",
+      "productCode": "870156027",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "铜,币,蒙古,古二,二蒙,蒙戈,戈铜,铜币"
+    }
+  ]
+}

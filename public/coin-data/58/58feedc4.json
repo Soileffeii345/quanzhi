@@ -1,0 +1,65 @@
+{
+  "coinName": "1996年15.552克银币",
+  "slug": "58feedc4",
+  "saleCount": 3,
+  "keywords": "银,币,1996年,2盎司,宗教,年盎,盎司,司观,观音,音银,银币",
+  "priceStats": {
+    "low": 6500,
+    "high": 6600,
+    "avg": 6567,
+    "latest": 6500
+  },
+  "records": [
+    {
+      "coinName": "1996年1/2盎司观音银币",
+      "normalizedBoxCode": "8188209004",
+      "displayBoxCode": "8188209-004",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/450176.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8188209-004/",
+      "price": 6500,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-12 16:21:27",
+      "productCode": "AA502677.78A",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1996年,2盎司,宗教,年盎,盎司,司观,观音,音银,银币"
+    },
+    {
+      "coinName": "1996年1/2盎司观音银币",
+      "normalizedBoxCode": "8196830001",
+      "displayBoxCode": "8196830-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/452794.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8196830-001/70/",
+      "price": 6600,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-26 12:49:40",
+      "productCode": "AA506059.60A",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1996年,2盎司,宗教,年盎,盎司,司观,观音,音银,银币"
+    },
+    {
+      "coinName": "1996年1/2盎司观音银币",
+      "normalizedBoxCode": "8196830004",
+      "displayBoxCode": "8196830-004",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/452794.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8196830-004/70/",
+      "price": 6600,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-26 12:49:40",
+      "productCode": "AA506059.60A",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1996年,2盎司,宗教,年盎,盎司,司观,观音,音银,银币"
+    }
+  ]
+}

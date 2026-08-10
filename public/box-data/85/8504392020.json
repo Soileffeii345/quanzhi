@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8504392020",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8504392020",
+      "displayBoxCode": "8504392-020",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2006年帕劳火山镶嵌天然矿石25克彩色银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/wgjsbizhang/10365709.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8504392-020/69/",
+      "price": 560,
+      "priceWithFee": 593.6,
+      "transactedAt": "2026-06-26 20:15:35",
+      "productCode": "870452015",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/26/870452015A.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2006年,25克,年帕,帕劳,劳火,火山,山镶,镶嵌,嵌天,天然,然矿,矿石,石克,克彩,彩色,色银,银币"
+    }
+  ]
+}

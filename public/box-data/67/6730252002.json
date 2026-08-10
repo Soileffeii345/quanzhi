@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6730252002",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6730252002",
+      "displayBoxCode": "6730252-002",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1995年1/2盎司联合国成立50周年金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/475434.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6730252-002/",
+      "price": 12535,
+      "priceWithFee": null,
+      "transactedAt": "2025-04-27 17:15:20",
+      "productCode": "AA560523",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250426/large_sell_licprnjpvlptsje1.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1995年,2盎司,年盎,盎司,司联,联合,合国,国成,成立,立周,周年,年金,金币"
+    }
+  ]
+}

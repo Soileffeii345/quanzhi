@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6722202032",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6722202032",
+      "displayBoxCode": "6722202-032",
+      "gradingCompany": "NGC",
+      "grade": "Ms 70",
+      "coinName": "2025年熊猫金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/484655.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6722202-032/70/",
+      "price": 54595,
+      "priceWithFee": null,
+      "transactedAt": "2025-10-14 18:24:29",
+      "productCode": "KH087161",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250620/large_sell_5unbktkwhxsnfb2i.jpg",
+      "ocrConfidence": 46,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2025年,熊猫,年熊,猫金,金币"
+    }
+  ]
+}

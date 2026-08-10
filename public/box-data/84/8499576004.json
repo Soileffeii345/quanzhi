@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8499576004",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8499576004",
+      "displayBoxCode": "8499576-004",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2020年8克抗美援朝70周年金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/498067.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8499576-004/70/",
+      "price": 6650,
+      "priceWithFee": null,
+      "transactedAt": "2025-09-03 06:12:13",
+      "productCode": "KH080779",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250903/large_sell_5t0yyf6beq5oum21.jpg",
+      "ocrConfidence": 44,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2020年,8克,年克,克抗,抗美,美援,援朝,朝周,周年,年金,金币"
+    }
+  ]
+}

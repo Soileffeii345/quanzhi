@@ -1,0 +1,45 @@
+{
+  "ok": true,
+  "query": "6725820054",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6725820054",
+      "displayBoxCode": "6725820-054",
+      "gradingCompany": "NGC",
+      "grade": "PF69 ULTRA CAMEO",
+      "coinName": "2000年迎接新世纪精制流通纪念币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10399896.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6725820-054/69/",
+      "price": 400,
+      "priceWithFee": 432,
+      "transactedAt": "2026-07-22 20:41:45",
+      "productCode": "875166001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/875166001A.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2000年,年迎,迎接,接新,新世,世纪,纪精,精制,制流,流通,通纪,纪念,念币,评级"
+    },
+    {
+      "normalizedBoxCode": "6725820054",
+      "displayBoxCode": "6725820-054",
+      "gradingCompany": "NGC",
+      "grade": "PF69 ULTRA CAMEO",
+      "coinName": "2000年迎接新世纪精制流通纪念币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10357826.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6725820-054/69/",
+      "price": 410,
+      "priceWithFee": 442.8,
+      "transactedAt": "2026-06-24 21:07:25",
+      "productCode": "869767010",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/869767010A.jpg",
+      "ocrConfidence": 37,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2000年,年迎,迎接,接新,新世,世纪,纪精,精制,制流,流通,通纪,纪念,念币,评级"
+    }
+  ]
+}

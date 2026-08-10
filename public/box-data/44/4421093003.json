@@ -1,0 +1,45 @@
+{
+  "ok": true,
+  "query": "4421093003",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4421093003",
+      "displayBoxCode": "4421093-003",
+      "gradingCompany": "NGC",
+      "grade": "PF69 ULTRA CAMEO",
+      "coinName": "2007年1/3盎司中国探月首发成功金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/486669.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4421093-003/69/",
+      "price": 8165,
+      "priceWithFee": null,
+      "transactedAt": "2025-07-02 20:07:00",
+      "productCode": "AA570965",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250702/large_sell_ckyhkjjjlu5tltgc.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2007年,3盎司,年盎,盎司,司中,中国,国探,探月,月首,首发,发成,成功,功金,金币"
+    },
+    {
+      "normalizedBoxCode": "4421093003",
+      "displayBoxCode": "4421093-003",
+      "gradingCompany": "NGC",
+      "grade": "PF70 ULTRA CAMEO",
+      "coinName": "2012年1/4盎司青铜器第1组金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/486605.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4421093-003/70/",
+      "price": 6200,
+      "priceWithFee": null,
+      "transactedAt": "2025-07-02 18:07:20",
+      "productCode": "AA570954",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250702/large_sell_cxl3tdx7vqu5ibqn.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,铜,币,2012年,4盎司,年盎,盎司,司青,青铜,铜器,器第,第组,组金,金币"
+    }
+  ]
+}

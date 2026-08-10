@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8817071001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8817071001",
+      "displayBoxCode": "8817071-001",
+      "gradingCompany": "NGC",
+      "grade": "MS 68",
+      "coinName": "1987年铁路上海新客站开站纪念章",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/tongzhang/10379333.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8817071-001/68/",
+      "price": 220,
+      "priceWithFee": 244.2,
+      "transactedAt": "2026-07-10 19:03:10",
+      "productCode": "872404001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/27/872404001A.jpg",
+      "ocrConfidence": 37,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "章,1987年,年铁,铁路,路上,上海,海新,新客,客站,站开,开站,站纪,纪念,念章"
+    }
+  ]
+}

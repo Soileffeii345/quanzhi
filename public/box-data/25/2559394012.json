@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2559394012",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2559394012",
+      "displayBoxCode": "2559394-012",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2013年香港上海汇丰银行 有限公司港币贰拾元",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/liantichao-jinianchao/10395657.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2559394-012/",
+      "price": 170,
+      "priceWithFee": 183.6,
+      "transactedAt": "2026-07-11 19:32:25",
+      "productCode": "874349002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/874349002B.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2013年,年香,香港,港上,上海,海汇,汇丰,丰银,银行,行有,有限,限公,公司,司港,港币,币贰,贰拾,拾元,外国/特区"
+    }
+  ]
+}

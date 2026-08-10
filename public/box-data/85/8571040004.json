@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8571040004",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8571040004",
+      "displayBoxCode": "8571040-004",
+      "gradingCompany": "NGC",
+      "grade": "PF 70",
+      "coinName": "2025年生肖蛇彩金银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/505096.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8571040-004/70/",
+      "price": 3500,
+      "priceWithFee": null,
+      "transactedAt": "2025-10-13 13:39:58",
+      "productCode": "KH086873",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251012/large_sell_mqecitfwo3xsgjdy.jpg",
+      "ocrConfidence": 39,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,2025年,生肖,年生,肖蛇,蛇彩,彩金,金银,银币"
+    }
+  ]
+}

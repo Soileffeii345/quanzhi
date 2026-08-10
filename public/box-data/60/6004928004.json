@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6004928004",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6004928004",
+      "displayBoxCode": "6004928-004",
+      "gradingCompany": "NGC",
+      "grade": "PF70 ULTRA CAMEO",
+      "coinName": "2019年30克北京世园会银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/536633.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6004928-004/70/",
+      "price": 900,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-26 07:09:29",
+      "productCode": "AA614405",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260122/large_sell_ruty03wvdqkb71ik.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2019年,30克,年克,克北,北京,京世,世园,园会,会银,银币"
+    }
+  ]
+}

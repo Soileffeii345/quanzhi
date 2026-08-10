@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2400752068",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2400752068",
+      "displayBoxCode": "2400752-068",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "越南纸钞",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10392438.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2400752-068/",
+      "price": 120,
+      "priceWithFee": 133.2,
+      "transactedAt": "2026-07-14 21:55:35",
+      "productCode": "873792020",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/873792020B.jpg",
+      "ocrConfidence": 29,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,越南,南纸,纸钞"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "coinName": "1981年31.104克银币",
+  "slug": "44806fab",
+  "saleCount": 2,
+  "keywords": "银,币,1981年,1盎司,年盎,盎司,司辛,辛亥,亥革,革命,命周,周年,年银,银币,币无,无标",
+  "priceStats": {
+    "low": 7500,
+    "high": 8000,
+    "avg": 7750,
+    "latest": 8000
+  },
+  "records": [
+    {
+      "coinName": "1981年1盎司辛亥革命70周年银币(UC)",
+      "normalizedBoxCode": "2794413001",
+      "displayBoxCode": "2794413-001",
+      "gradingCompany": "NGC",
+      "grade": "PF69 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/457179.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2794413-001/69/",
+      "price": 8000,
+      "priceWithFee": null,
+      "transactedAt": "2025-09-26 11:45:10",
+      "productCode": "AA536322",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1981年,1盎司,年盎,盎司,司辛,辛亥,亥革,革命,命周,周年,年银,银币"
+    },
+    {
+      "coinName": "1981年1盎司辛亥革命70周年银币(CA/无标)",
+      "normalizedBoxCode": "6866384025",
+      "displayBoxCode": "6866384-025",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/479475.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6866384-025/69/",
+      "price": 7500,
+      "priceWithFee": null,
+      "transactedAt": "2025-08-22 14:54:59",
+      "productCode": "AA563701",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1981年,1盎司,年盎,盎司,司辛,辛亥,亥革,革命,命周,周年,年银,银币,币无,无标"
+    }
+  ]
+}

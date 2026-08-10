@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8752328015",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8752328015",
+      "displayBoxCode": "8752328-015",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2026年丙午马年生肖流通纪念币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10365343.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8752328-015/",
+      "price": 100,
+      "priceWithFee": 108,
+      "transactedAt": "2026-07-01 19:02:35",
+      "productCode": "870640007",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/26/870640007A.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2026年,生肖,年丙,丙午,午马,马年,年生,肖流,流通,通纪,纪念,念币"
+    }
+  ]
+}

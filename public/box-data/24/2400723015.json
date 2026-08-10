@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2400723015",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2400723015",
+      "displayBoxCode": "2400723-015",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "新加坡纸钞",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10371480.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2400723-015/",
+      "price": 90,
+      "priceWithFee": 99.9,
+      "transactedAt": "2026-07-07 21:43:20",
+      "productCode": "871453064",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/26/871453064B.jpg",
+      "ocrConfidence": 27,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,新加,加坡,坡纸,纸钞"
+    }
+  ]
+}

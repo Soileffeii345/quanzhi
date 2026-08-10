@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6726106031",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6726106031",
+      "displayBoxCode": "6726106-031",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1996年1/3盎司丝绸之路第2组取经图金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/481811.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6726106-031/69/",
+      "price": 8240,
+      "priceWithFee": null,
+      "transactedAt": "2025-06-06 10:13:52",
+      "productCode": "KH068373",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250606/large_sell_wfry541og7wah842.jpg",
+      "ocrConfidence": 43,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1996年,3盎司,年盎,盎司,司丝,丝绸,绸之,之路,路第,第组,组取,取经,经图,图金,金币"
+    }
+  ]
+}

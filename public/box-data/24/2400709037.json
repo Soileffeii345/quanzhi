@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2400709037",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2400709037",
+      "displayBoxCode": "2400709-037",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2024年危地马拉纸钞",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10371467.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2400709-037/",
+      "price": 90,
+      "priceWithFee": 99.9,
+      "transactedAt": "2026-07-07 22:06:05",
+      "productCode": "871453051",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/26/871453051B.jpg",
+      "ocrConfidence": 29,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,2024年,年危,危地,地马,马拉,拉纸,纸钞"
+    }
+  ]
+}

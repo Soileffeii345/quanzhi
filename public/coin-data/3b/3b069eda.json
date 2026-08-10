@@ -1,0 +1,31 @@
+{
+  "coinName": "2007年31.104克金币",
+  "slug": "3b069eda",
+  "saleCount": 1,
+  "keywords": "金,章,2007年,1盎司,年盎,盎司,司无,无锡,锡锡,锡山,山建,建筑,筑鲁,鲁班,班奖,奖金,金章",
+  "priceStats": {
+    "low": 24535,
+    "high": 24535,
+    "avg": 24535,
+    "latest": 24535
+  },
+  "records": [
+    {
+      "coinName": "2007年1盎司无锡锡山建筑鲁班奖金章",
+      "normalizedBoxCode": "4316460012",
+      "displayBoxCode": "4316460-012",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/497123.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4316460-012/",
+      "price": 24535,
+      "priceWithFee": null,
+      "transactedAt": "2025-08-28 21:41:19",
+      "productCode": "KH080077",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,章,2007年,1盎司,年盎,盎司,司无,无锡,锡锡,锡山,山建,建筑,筑鲁,鲁班,班奖,奖金,金章"
+    }
+  ]
+}

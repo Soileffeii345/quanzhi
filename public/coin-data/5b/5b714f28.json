@@ -1,0 +1,48 @@
+{
+  "coinName": "1993年8克精制金币",
+  "slug": "5b714f28",
+  "saleCount": 2,
+  "keywords": "金,币,1993年,8克,年宋,宋庆,庆龄,龄诞,诞辰,辰周,周年,年克,克精,精制,制金,金币,评级",
+  "priceStats": {
+    "low": 16000,
+    "high": 19400,
+    "avg": 17700,
+    "latest": 16000
+  },
+  "records": [
+    {
+      "coinName": "1993年宋庆龄诞辰100周年8克精制金币",
+      "normalizedBoxCode": "8556340049",
+      "displayBoxCode": "8556340-049",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10401689.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8556340-049/",
+      "price": 16000,
+      "priceWithFee": 16560,
+      "transactedAt": "2026-07-16 21:39:15",
+      "productCode": "875311004",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1993年,8克,年宋,宋庆,庆龄,龄诞,诞辰,辰周,周年,年克,克精,精制,制金,金币,评级"
+    },
+    {
+      "coinName": "1993年宋庆龄诞辰100周年8克精制金币",
+      "normalizedBoxCode": "8761931002",
+      "displayBoxCode": "8761931-002",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10359986.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8761931-002/",
+      "price": 19400,
+      "priceWithFee": 20079,
+      "transactedAt": "2026-06-25 20:32:35",
+      "productCode": "869600003",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1993年,8克,年宋,宋庆,庆龄,龄诞,诞辰,辰周,周年,年克,克精,精制,制金,金币,评级"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "coinName": "1987年奥运会15.552克金币",
+  "slug": "1f054ef2",
+  "saleCount": 1,
+  "keywords": "金,币,1987年,2盎司,奥运,年韩,韩国,国盎,盎司,司汉,汉城,城奥,运会,会扇,扇舞,舞金,金币",
+  "priceStats": {
+    "low": 12595,
+    "high": 12595,
+    "avg": 12595,
+    "latest": 12595
+  },
+  "records": [
+    {
+      "coinName": "1987年韩国1/2盎司汉城奥运会扇舞金币",
+      "normalizedBoxCode": "3646152002",
+      "displayBoxCode": "3646152-002",
+      "gradingCompany": "NGC",
+      "grade": "MS 70",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/474552.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3646152-002/70/",
+      "price": 12595,
+      "priceWithFee": null,
+      "transactedAt": "2025-04-24 11:13:15",
+      "productCode": "AA559768",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1987年,2盎司,奥运,年韩,韩国,国盎,盎司,司汉,汉城,城奥,运会,会扇,扇舞,舞金,金币"
+    }
+  ]
+}

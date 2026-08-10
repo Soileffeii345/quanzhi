@@ -1,0 +1,65 @@
+{
+  "coinName": "民国 三十七年党徽一分硬币",
+  "slug": "2c5f157e",
+  "saleCount": 3,
+  "keywords": "币,历史币,民国,国三,三十,十七,七年,年党,党徽,徽一,一分,分硬,硬币",
+  "priceStats": {
+    "low": 200,
+    "high": 200,
+    "avg": 200,
+    "latest": 200
+  },
+  "records": [
+    {
+      "coinName": "民国 三十七年党徽一分硬币",
+      "normalizedBoxCode": "89521690",
+      "displayBoxCode": "89521690",
+      "gradingCompany": "PCGS",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguojindaijizhibi/10386722.shtml",
+      "officialCertUrl": "https://cn.pcgs.com/cert/89521690",
+      "price": 200,
+      "priceWithFee": 216,
+      "transactedAt": "2026-07-27 20:42:35",
+      "productCode": "873376033",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,历史币,民国,国三,三十,十七,七年,年党,党徽,徽一,一分,分硬,硬币"
+    },
+    {
+      "coinName": "民国 三十七年党徽一分硬币",
+      "normalizedBoxCode": "89521691",
+      "displayBoxCode": "89521691",
+      "gradingCompany": "PCGS",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguojindaijizhibi/10386723.shtml",
+      "officialCertUrl": "https://cn.pcgs.com/cert/89521691",
+      "price": 200,
+      "priceWithFee": 216,
+      "transactedAt": "2026-07-27 21:02:05",
+      "productCode": "873376034",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,历史币,民国,国三,三十,十七,七年,年党,党徽,徽一,一分,分硬,硬币"
+    },
+    {
+      "coinName": "民国 三十七年党徽一分硬币",
+      "normalizedBoxCode": "89521695",
+      "displayBoxCode": "89521695",
+      "gradingCompany": "PCGS",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguojindaijizhibi/10386724.shtml",
+      "officialCertUrl": "https://cn.pcgs.com/cert/89521695",
+      "price": 200,
+      "priceWithFee": 216,
+      "transactedAt": "2026-07-27 21:12:05",
+      "productCode": "873376035",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,历史币,民国,国三,三十,十七,七年,年党,党徽,徽一,一分,分硬,硬币"
+    }
+  ]
+}

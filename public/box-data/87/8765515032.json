@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8765515032",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8765515032",
+      "displayBoxCode": "8765515-032",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1998年迎春图1盎司普制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10407554.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8765515-032/",
+      "price": 570,
+      "priceWithFee": 589.95,
+      "transactedAt": "2026-07-20 22:08:40",
+      "productCode": "875918029",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/875918029A.jpg",
+      "ocrConfidence": 39,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1998年,1盎司,年迎,迎春,春图,图盎,盎司,司普,普制,制银,银币"
+    }
+  ]
+}

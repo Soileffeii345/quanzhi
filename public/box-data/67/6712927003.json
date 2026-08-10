@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6712927003",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6712927003",
+      "displayBoxCode": "6712927-003",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2022年吉祥文化-龙凤呈祥30克精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10417133.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6712927-003/",
+      "price": 950,
+      "priceWithFee": 983.25,
+      "transactedAt": "2026-07-27 20:27:10",
+      "productCode": "877161002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/877161002A.jpg",
+      "ocrConfidence": 37,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2022年,30克,吉祥文化,年吉,吉祥,祥文,文化,化龙,龙凤,凤呈,呈祥,祥克,克精,精制,制银,银币,评级"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "coinName": "2006年生肖31.104克银币",
+  "slug": "07a0d91f",
+  "saleCount": 1,
+  "keywords": "银,币,2006年,1盎司,生肖,年盎,盎司,司梅,梅花,花形,形生,肖狗,狗银,银币",
+  "priceStats": {
+    "low": 980,
+    "high": 980,
+    "avg": 980,
+    "latest": 980
+  },
+  "records": [
+    {
+      "coinName": "2006年1盎司梅花形生肖狗银币",
+      "normalizedBoxCode": "3805370010",
+      "displayBoxCode": "3805370-010",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/537984.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3805370-010/69/",
+      "price": 980,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-26 10:03:55",
+      "productCode": "KH113017",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2006年,1盎司,生肖,年盎,盎司,司梅,梅花,花形,形生,肖狗,狗银,银币"
+    }
+  ]
+}

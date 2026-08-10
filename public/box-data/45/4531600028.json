@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4531600028",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4531600028",
+      "displayBoxCode": "4531600-028",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2018年熊猫150克精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-xinyin/10398818.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4531600-028/70/",
+      "price": 4650,
+      "priceWithFee": 4812.75,
+      "transactedAt": "2026-07-23 19:35:55",
+      "productCode": "874356008",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/874356008A.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2018年,150克,熊猫,年熊,猫克,克精,精制,制银,银币,评级"
+    }
+  ]
+}

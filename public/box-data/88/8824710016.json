@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8824710016",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8824710016",
+      "displayBoxCode": "8824710-016",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1981年长城币壹角、伍角各一枚，共二枚",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10360938.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8824710-016/",
+      "price": 200,
+      "priceWithFee": 216,
+      "transactedAt": "2026-06-24 21:37:25",
+      "productCode": "870464002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/870464002A.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1981年,年长,长城,城币,币壹,壹角,角伍,伍角,角各,各一,一枚,枚共,共二,二枚"
+    }
+  ]
+}

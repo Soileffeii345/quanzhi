@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2767162012",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2767162012",
+      "displayBoxCode": "2767162-012",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "coinName": "1991年1/20盎司熊猫金币(小字版)",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/482583.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2767162-012/69/",
+      "price": 1600,
+      "priceWithFee": null,
+      "transactedAt": "2025-06-24 09:48:42",
+      "productCode": "AA567197",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250609/large_sell_9udhvktfbbdwoc6s.jpg",
+      "ocrConfidence": 27,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1991年,20盎司,熊猫,年盎,盎司,司熊,猫金,金币,币小,小字,字版"
+    }
+  ]
+}

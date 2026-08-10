@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2238958001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2238958001",
+      "displayBoxCode": "2238958-001",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1934年美国10美元纸币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10387942.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2238958-001/",
+      "price": 1940,
+      "priceWithFee": 2153.4,
+      "transactedAt": "2026-07-14 21:45:50",
+      "productCode": "873172010",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/27/873172010B.jpg",
+      "ocrConfidence": 24,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1934年,年美,美国,国美,美元,元纸,纸币,外国/特区"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8544010004",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8544010004",
+      "displayBoxCode": "8544010-004",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1994年中国精制硬币1角",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10355209.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8544010-004/",
+      "price": 60,
+      "priceWithFee": 64.8,
+      "transactedAt": "2026-06-24 20:53:25",
+      "productCode": "869127016",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/869127016A.jpg",
+      "ocrConfidence": 25,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1994年,年中,中国,国精,精制,制硬,硬币,币角,评级"
+    }
+  ]
+}

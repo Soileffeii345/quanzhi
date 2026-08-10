@@ -1,0 +1,31 @@
+{
+  "coinName": "民国元年军政府造四川银币壹圆银元",
+  "slug": "22f0e899",
+  "saleCount": 1,
+  "keywords": "银,币,历史币,四川,川造,民国,国元,元年,年军,军政,政府,府造,造四,川银,银币,币壹,壹圆,圆银,银元",
+  "priceStats": {
+    "low": 2150,
+    "high": 2150,
+    "avg": 2150,
+    "latest": 2150
+  },
+  "records": [
+    {
+      "coinName": "民国元年军政府造四川银币壹圆银元",
+      "normalizedBoxCode": "89600618",
+      "displayBoxCode": "89600618",
+      "gradingCompany": "PCGS",
+      "grade": "XF40",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguojindaijizhibi/10373029.shtml",
+      "officialCertUrl": "https://cn.pcgs.com/cert/89600618",
+      "price": 2150,
+      "priceWithFee": 2322,
+      "transactedAt": "2026-07-20 19:17:05",
+      "productCode": "870955010",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,历史币,四川,川造,民国,国元,元年,年军,军政,政府,府造,造四,川银,银币,币壹,壹圆,圆银,银元"
+    }
+  ]
+}

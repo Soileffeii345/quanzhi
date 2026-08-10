@@ -1,0 +1,31 @@
+{
+  "coinName": "1994年15.552克精制银币",
+  "slug": "17b30a4a",
+  "saleCount": 1,
+  "keywords": "银,币,1994年,2盎司,宗教,年观,观音,音盎,盎司,司精,精制,制银,银币,币四,四枚,枚一,一套,评级",
+  "priceStats": {
+    "low": 20500,
+    "high": 20500,
+    "avg": 20500,
+    "latest": 20500
+  },
+  "records": [
+    {
+      "coinName": "1994年观音1/2盎司精制银币四枚一套",
+      "normalizedBoxCode": "8617065001",
+      "displayBoxCode": "8617065-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10351217.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8617065-001/70/",
+      "price": 20500,
+      "priceWithFee": 21217.5,
+      "transactedAt": "2026-06-18 20:42:40",
+      "productCode": "869398001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1994年,2盎司,宗教,年观,观音,音盎,盎司,司精,精制,制银,银币,币四,四枚,枚一,一套,评级"
+    }
+  ]
+}

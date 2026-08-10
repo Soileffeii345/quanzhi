@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6202800004",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6202800004",
+      "displayBoxCode": "6202800-004",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2003年1/2盎司佛指舍利金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/483210.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6202800-004/69/",
+      "price": 12580,
+      "priceWithFee": null,
+      "transactedAt": "2025-06-13 09:44:59",
+      "productCode": "KH069256",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250613/large_sell_zitsayc2ujwyfcqr.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2003年,2盎司,宗教,年盎,盎司,司佛,佛指,指舍,舍利,利金,金币"
+    }
+  ]
+}

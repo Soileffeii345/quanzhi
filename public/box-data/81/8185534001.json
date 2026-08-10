@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8185534001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8185534001",
+      "displayBoxCode": "8185534-001",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1993年1盎司熊猫金币(小字版)",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/447476.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8185534-001/",
+      "price": 20600,
+      "priceWithFee": null,
+      "transactedAt": "2024-09-19 14:57:48",
+      "productCode": "AA499564",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20240906/large_sell_as9znv1dl7pxeuqp.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1993年,1盎司,熊猫,年盎,盎司,司熊,猫金,金币,币小,小字,字版"
+    }
+  ]
+}

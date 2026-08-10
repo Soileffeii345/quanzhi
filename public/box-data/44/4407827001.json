@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4407827001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4407827001",
+      "displayBoxCode": "4407827-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2016年8克孙中山诞辰150周年金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/492698.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4407827-001/70/",
+      "price": 6405,
+      "priceWithFee": null,
+      "transactedAt": "2025-08-04 18:39:04",
+      "productCode": "KH077801",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250804/large_sell_3r6a0zmgciylqy8w.jpg",
+      "ocrConfidence": 56,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2016年,8克,孙小头,孙中山,小头,年克,克孙,孙中,中山,山诞,诞辰,辰周,周年,年金,金币"
+    }
+  ]
+}

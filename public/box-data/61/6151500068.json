@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6151500068",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6151500068",
+      "displayBoxCode": "6151500-068",
+      "gradingCompany": "NGC",
+      "grade": "PF70 ULTRA CAMEO",
+      "coinName": "1993年27克毛泽东诞辰100周年银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/432129.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6151500-068/70/",
+      "price": 5200,
+      "priceWithFee": null,
+      "transactedAt": "2024-05-21 16:21:26",
+      "productCode": "AA480161",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20240515/large_sell_tem0iu9rhiqylt1i.jpg",
+      "ocrConfidence": 32,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1993年,27克,年克,克毛,毛泽,泽东,东诞,诞辰,辰周,周年,年银,银币"
+    }
+  ]
+}

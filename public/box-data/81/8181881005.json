@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8181881005",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8181881005",
+      "displayBoxCode": "8181881-005",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "NGC错标 民国三年袁像壹圆银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/530246.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8181881-005/",
+      "price": 1650,
+      "priceWithFee": null,
+      "transactedAt": "2026-02-05 12:41:13",
+      "productCode": "KH117270",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260111/large_sell_uew9zyntaw3evwin.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,历史币,袁大头,大头,袁头,错标,标民,民国,国三,三年,年袁,袁像,像壹,壹圆,圆银,银币,评级"
+    }
+  ]
+}

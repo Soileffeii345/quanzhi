@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8761122068",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8761122068",
+      "displayBoxCode": "8761122-068",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2011年1盎司辛亥革命100周年银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/590932.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8761122-068/69/",
+      "price": 780,
+      "priceWithFee": null,
+      "transactedAt": "2026-06-19 09:39:18",
+      "productCode": "KH139333",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260617/large_sell_l2rpjlbskyh6avnd.jpg",
+      "ocrConfidence": 37,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2011年,1盎司,年盎,盎司,司辛,辛亥,亥革,革命,命周,周年,年银,银币"
+    }
+  ]
+}

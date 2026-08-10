@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2400736024",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2400736024",
+      "displayBoxCode": "2400736-024",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2001年苏格兰纸币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10372830.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2400736-024/",
+      "price": 95,
+      "priceWithFee": 105.45,
+      "transactedAt": "2026-06-30 22:06:20",
+      "productCode": "871226004",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/26/871226004B.JPG",
+      "ocrConfidence": 30,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2001年,年苏,苏格,格兰,兰纸,纸币"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "coinName": "2020年熊猫8克金币",
+  "slug": "77b881b9",
+  "saleCount": 1,
+  "keywords": "金,币,2020年,8克,熊猫,年克,克熊,猫金,金币",
+  "priceStats": {
+    "low": 4400,
+    "high": 4400,
+    "avg": 4400,
+    "latest": 4400
+  },
+  "records": [
+    {
+      "coinName": "2020年8克熊猫金币",
+      "normalizedBoxCode": "6429374001",
+      "displayBoxCode": "6429374-001",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/423134.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6429374-001/",
+      "price": 4400,
+      "priceWithFee": null,
+      "transactedAt": "2024-04-04 22:48:16",
+      "productCode": "AA469874",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2020年,8克,熊猫,年克,克熊,猫金,金币"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "5802330175",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "5802330175",
+      "displayBoxCode": "5802330-175",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2020年熊猫金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/502135.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/5802330-175/",
+      "price": 49110,
+      "priceWithFee": null,
+      "transactedAt": "2025-09-23 21:19:08",
+      "productCode": "AA587227.....31",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250923/large_sell_xzbzkzxz2kvpsjzt.jpg",
+      "ocrConfidence": 42,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2020年,熊猫,年熊,猫金,金币"
+    }
+  ]
+}

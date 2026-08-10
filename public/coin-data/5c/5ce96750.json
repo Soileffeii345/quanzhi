@@ -1,0 +1,31 @@
+{
+  "coinName": "2017年生肖150克银币",
+  "slug": "5ce96750",
+  "saleCount": 1,
+  "keywords": "银,币,2017年,150克,生肖,年克,克方,方形,形生,肖鸡,鸡银,银币",
+  "priceStats": {
+    "low": 3850,
+    "high": 3850,
+    "avg": 3850,
+    "latest": 3850
+  },
+  "records": [
+    {
+      "coinName": "2017年150克方形生肖鸡银币",
+      "normalizedBoxCode": "6410086053",
+      "displayBoxCode": "6410086-053",
+      "gradingCompany": "NGC",
+      "grade": "PF 68 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/536513.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6410086-053/68/",
+      "price": 3850,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-23 09:54:31",
+      "productCode": "KH110655",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2017年,150克,生肖,年克,克方,方形,形生,肖鸡,鸡银,银币"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8653882003",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8653882003",
+      "displayBoxCode": "8653882-003",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2025年中国京剧艺术（净角）流通纪念币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10381090.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8653882-003/",
+      "price": 150,
+      "priceWithFee": 162,
+      "transactedAt": "2026-07-08 19:06:05",
+      "productCode": "872383001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/27/872383001A.jpg",
+      "ocrConfidence": 32,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2025年,戏曲,年中,中国,国京,京剧,剧艺,艺术,术净,净角,角流,流通,通纪,纪念,念币"
+    }
+  ]
+}

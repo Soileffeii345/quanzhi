@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4287929011",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4287929011",
+      "displayBoxCode": "4287929-011",
+      "gradingCompany": "NGC",
+      "grade": "PF70 ULTRA CAMEO",
+      "coinName": "2007年1/3盎司中国探月首发成功金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/468009.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4287929-011/70/",
+      "price": 7315,
+      "priceWithFee": null,
+      "transactedAt": "2025-03-13 13:51:02",
+      "productCode": "KH060809",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250313/large_sell_bjbugqmk84b3lbmb.jpg",
+      "ocrConfidence": 60,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2007年,3盎司,年盎,盎司,司中,中国,国探,探月,月首,首发,发成,成功,功金,金币"
+    }
+  ]
+}

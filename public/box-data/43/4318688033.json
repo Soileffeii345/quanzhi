@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4318688033",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4318688033",
+      "displayBoxCode": "4318688-033",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2016年1克熊猫金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/552060.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4318688-033/",
+      "price": 1450,
+      "priceWithFee": null,
+      "transactedAt": "2026-02-22 21:23:12",
+      "productCode": "AA618898",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260204/large_sell_lfvmz9hqigzktnbz.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2016年,1克,熊猫,年克,克熊,猫金,金币"
+    }
+  ]
+}

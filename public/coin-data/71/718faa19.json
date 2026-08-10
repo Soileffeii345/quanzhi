@@ -1,0 +1,31 @@
+{
+  "coinName": "2018年贺岁8克银币",
+  "slug": "718faa19",
+  "saleCount": 1,
+  "keywords": "银,币,2018年,8克,吉祥文化,年克,克贺,贺岁,岁银,银币",
+  "priceStats": {
+    "low": 290,
+    "high": 290,
+    "avg": 290,
+    "latest": 290
+  },
+  "records": [
+    {
+      "coinName": "2018年8克贺岁银币",
+      "normalizedBoxCode": "4888922121",
+      "displayBoxCode": "4888922-121",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/492413.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4888922-121/",
+      "price": 290,
+      "priceWithFee": null,
+      "transactedAt": "2025-08-03 14:56:11",
+      "productCode": "KH077640",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2018年,8克,吉祥文化,年克,克贺,贺岁,岁银,银币"
+    }
+  ]
+}

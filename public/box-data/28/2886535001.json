@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2886535001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2886535001",
+      "displayBoxCode": "2886535-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1988年戊辰龙年生肖5盎司精制金币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-jin/10376850.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2886535-001/69/",
+      "price": 197000,
+      "priceWithFee": 203895,
+      "transactedAt": "2026-07-02 21:30:50",
+      "productCode": "872113011",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/26/872113011A.jpg",
+      "ocrConfidence": 37,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1988年,5盎司,生肖,年戊,戊辰,辰龙,龙年,年生,肖盎,盎司,司精,精制,制金,金币,评级"
+    }
+  ]
+}

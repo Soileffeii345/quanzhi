@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8815978051",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8815978051",
+      "displayBoxCode": "8815978-051",
+      "gradingCompany": "NGC",
+      "grade": "PF 68 CAMEO",
+      "coinName": "1991年中国精制硬币伍角",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10416893.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8815978-051/68/",
+      "price": 740,
+      "priceWithFee": 799.2,
+      "transactedAt": "2026-07-22 20:28:25",
+      "productCode": "877062008",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/877062008A.jpg",
+      "ocrConfidence": 39,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1991年,年中,中国,国精,精制,制硬,硬币,币伍,伍角,评级"
+    }
+  ]
+}

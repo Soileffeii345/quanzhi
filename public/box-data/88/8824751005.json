@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8824751005",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8824751005",
+      "displayBoxCode": "8824751-005",
+      "gradingCompany": "NGC",
+      "grade": "MS 66",
+      "coinName": "1980年长城币壹圆",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10414705.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8824751-005/66/",
+      "price": 680,
+      "priceWithFee": 734.4,
+      "transactedAt": "2026-07-22 21:38:25",
+      "productCode": "876730003",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/876730003A.jpg",
+      "ocrConfidence": 30,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1980年,年长,长城,城币,币壹,壹圆"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "ok": true,
+  "query": "8580932050",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8580932050",
+      "displayBoxCode": "8580932-050",
+      "gradingCompany": "NGC",
+      "grade": "PF 68 ULTRA CAMEO",
+      "coinName": "2025年15克国家宝藏长信宫灯银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/509102.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8580932-050/68/",
+      "price": 300,
+      "priceWithFee": null,
+      "transactedAt": "2025-11-04 21:45:09",
+      "productCode": "KH089659",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251028/large_sell_6kprhb7izemli3ga.jpg",
+      "ocrConfidence": 57,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2025年,15克,年克,克国,国家,家宝,宝藏,藏长,长信,信宫,宫灯,灯银,银币"
+    },
+    {
+      "normalizedBoxCode": "8580932050",
+      "displayBoxCode": "8580932-050",
+      "gradingCompany": "NGC",
+      "grade": "PF 68 ULTRA CAMEO",
+      "coinName": "2025年15克国家宝藏长信宫灯银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/495086.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8580932-050/68/",
+      "price": 300,
+      "priceWithFee": null,
+      "transactedAt": "2025-08-20 16:43:19",
+      "productCode": "AA579818",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250818/large_sell_ugrhhmqgwboe11vz.jpg",
+      "ocrConfidence": 39,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2025年,15克,年克,克国,国家,家宝,宝藏,藏长,长信,信宫,宫灯,灯银,银币"
+    }
+  ]
+}

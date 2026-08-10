@@ -1,0 +1,45 @@
+{
+  "ok": true,
+  "query": "6182688017",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6182688017",
+      "displayBoxCode": "6182688-017",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2003年1/10盎司观音幻彩金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/553183.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6182688-017/",
+      "price": 4100,
+      "priceWithFee": null,
+      "transactedAt": "2026-02-10 23:50:21",
+      "productCode": "AA618299A",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260202/large_sell_qt9qcd4qywt5nwkx.jpg",
+      "ocrConfidence": 30,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2003年,10盎司,宗教,年盎,盎司,司观,观音,音幻,幻彩,彩金,金币"
+    },
+    {
+      "normalizedBoxCode": "6182688017",
+      "displayBoxCode": "6182688-017",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2003年1/10盎司观音幻彩金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/551533.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6182688-017/",
+      "price": 3700,
+      "priceWithFee": null,
+      "transactedAt": "2026-02-03 09:10:47",
+      "productCode": "AA618299",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260202/large_sell_qt9qcd4qywt5nwkx.jpg",
+      "ocrConfidence": 30,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2003年,10盎司,宗教,年盎,盎司,司观,观音,音幻,幻彩,彩金,金币"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "3879406004",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "3879406004",
+      "displayBoxCode": "3879406-004",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "coinName": "2008年1/2盎司扇形生肖鼠金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/506993.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3879406-004/69/",
+      "price": 15425,
+      "priceWithFee": null,
+      "transactedAt": "2025-10-20 21:49:31",
+      "productCode": "AA591375",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251020/large_sell_stvtvsz8cvqscnhe.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2008年,2盎司,生肖,年盎,盎司,司扇,扇形,形生,肖鼠,鼠金,金币"
+    }
+  ]
+}

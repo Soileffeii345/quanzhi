@@ -1,0 +1,31 @@
+{
+  "coinName": "2022年熊猫30克金币",
+  "slug": "4c50c134",
+  "saleCount": 1,
+  "keywords": "金,币,2022年,30克,熊猫,年克,克熊,猫金,金币",
+  "priceStats": {
+    "low": 25120,
+    "high": 25120,
+    "avg": 25120,
+    "latest": 25120
+  },
+  "records": [
+    {
+      "coinName": "2022年30克熊猫金币",
+      "normalizedBoxCode": "8180388006",
+      "displayBoxCode": "8180388-006",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/498660.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8180388-006/69/",
+      "price": 25120,
+      "priceWithFee": null,
+      "transactedAt": "2025-09-09 11:40:19",
+      "productCode": "KH082855",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2022年,30克,熊猫,年克,克熊,猫金,金币"
+    }
+  ]
+}

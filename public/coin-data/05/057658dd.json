@@ -1,0 +1,31 @@
+{
+  "coinName": "1993年、1994年中国硬币壹角",
+  "slug": "057658dd",
+  "saleCount": 1,
+  "keywords": "币,1993年,年年,年中,中国,国硬,硬币,币壹,壹角,角各,各一,一枚",
+  "priceStats": {
+    "low": 110,
+    "high": 110,
+    "avg": 110,
+    "latest": 110
+  },
+  "records": [
+    {
+      "coinName": "1993年、1994年中国硬币壹角各一枚",
+      "normalizedBoxCode": "8194602059",
+      "displayBoxCode": "8194602-059",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10373837.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8194602-059/",
+      "price": 110,
+      "priceWithFee": 118.8,
+      "transactedAt": "2026-07-01 21:05:35",
+      "productCode": "871771006",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1993年,年年,年中,中国,国硬,硬币,币壹,壹角,角各,各一,一枚"
+    }
+  ]
+}

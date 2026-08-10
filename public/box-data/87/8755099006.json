@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8755099006",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8755099006",
+      "displayBoxCode": "8755099-006",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1998年刘少奇诞辰100周年1/2盎司精制金币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10361114.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8755099-006/69/",
+      "price": 18400,
+      "priceWithFee": 19044,
+      "transactedAt": "2026-06-25 20:33:35",
+      "productCode": "870518004",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/870518004A.jpg",
+      "ocrConfidence": 49,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1998年,2盎司,年刘,刘少,少奇,奇诞,诞辰,辰周,周年,年盎,盎司,司精,精制,制金,金币,评级"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "coinName": "1995年麒麟20盎司精制金币",
+  "slug": "3734e930",
+  "saleCount": 1,
+  "keywords": "金,币,1995年,20盎司,年麒,麒麟,麟盎,盎司,司精,精制,制金,金币,评级",
+  "priceStats": {
+    "low": 1740,
+    "high": 1740,
+    "avg": 1740,
+    "latest": 1740
+  },
+  "records": [
+    {
+      "coinName": "1995年麒麟1/20盎司精制金币",
+      "normalizedBoxCode": "6405489053",
+      "displayBoxCode": "6405489-053",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10353950.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6405489-053/",
+      "price": 1740,
+      "priceWithFee": 1800.9,
+      "transactedAt": "2026-06-25 21:15:05",
+      "productCode": "869167007",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1995年,20盎司,年麒,麒麟,麟盎,盎司,司精,精制,制金,金币,评级"
+    }
+  ]
+}

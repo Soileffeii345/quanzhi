@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8504392041",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8504392041",
+      "displayBoxCode": "8504392-041",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1999年安道尔环球世界27克双金属银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/wgjsbizhang/10354158.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8504392-041/69/",
+      "price": 810,
+      "priceWithFee": 858.6,
+      "transactedAt": "2026-06-19 21:00:45",
+      "productCode": "869380019",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/869380019A.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,1999年,27克,年安,安道,道尔,尔环,环球,球世,世界,界克,克双,双金,金属,属银,银币"
+    }
+  ]
+}

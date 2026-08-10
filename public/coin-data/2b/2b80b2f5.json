@@ -1,0 +1,31 @@
+{
+  "coinName": "1998年周恩来15.552克精制金币",
+  "slug": "2b80b2f5",
+  "saleCount": 1,
+  "keywords": "金,币,1998年,2盎司,年周,周恩,恩来,来诞,诞辰,辰周,周年,年盎,盎司,司精,精制,制金,金币,评级",
+  "priceStats": {
+    "low": 21000,
+    "high": 21000,
+    "avg": 21000,
+    "latest": 21000
+  },
+  "records": [
+    {
+      "coinName": "1998年周恩来诞辰100周年1/2盎司精制金币",
+      "normalizedBoxCode": "8757916011",
+      "displayBoxCode": "8757916-011",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10361115.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8757916-011/69/",
+      "price": 21000,
+      "priceWithFee": 21735,
+      "transactedAt": "2026-06-25 20:59:35",
+      "productCode": "870518005",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1998年,2盎司,年周,周恩,恩来,来诞,诞辰,辰周,周年,年盎,盎司,司精,精制,制金,金币,评级"
+    }
+  ]
+}

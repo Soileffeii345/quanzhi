@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2022243020",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2022243020",
+      "displayBoxCode": "2022243-020",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "1994年第12届亚洲运动会-男子双杠8克精制金币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10354845.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2022243-020/70/",
+      "price": 12200,
+      "priceWithFee": 12627,
+      "transactedAt": "2026-06-25 21:58:05",
+      "productCode": "869563001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/869563001A.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1994年,8克,年第,第届,届亚,亚洲,洲运,运动,动会,会男,男子,子双,双杠,杠克,克精,精制,制金,金币,评级"
+    }
+  ]
+}

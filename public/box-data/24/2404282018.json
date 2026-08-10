@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2404282018",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2404282018",
+      "displayBoxCode": "2404282-018",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "第一版人民币蓝北海100元空心五星水印",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/diyibanrenminbi/10362474.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2404282-018/",
+      "price": 4050,
+      "priceWithFee": 4455,
+      "transactedAt": "2026-06-25 20:39:40",
+      "productCode": "870328006",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/870328006B.jpg",
+      "ocrConfidence": 28,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,第一,一版,版人,人民,民币,币蓝,蓝北,北海,海元,元空,空心,心五,五星,星水,水印"
+    }
+  ]
+}

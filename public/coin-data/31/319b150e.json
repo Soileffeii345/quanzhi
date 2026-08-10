@@ -1,0 +1,31 @@
+{
+  "coinName": "1994年中国硬币壹角",
+  "slug": "319b150e",
+  "saleCount": 1,
+  "keywords": "币,1994年,年中,中国,国硬,硬币,币壹,壹角",
+  "priceStats": {
+    "low": 45,
+    "high": 45,
+    "avg": 45,
+    "latest": 45
+  },
+  "records": [
+    {
+      "coinName": "1994年中国硬币壹角",
+      "normalizedBoxCode": "4804883010",
+      "displayBoxCode": "4804883-010",
+      "gradingCompany": "NGC",
+      "grade": "MS 67",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10357534.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4804883-010/67/",
+      "price": 45,
+      "priceWithFee": 48.6,
+      "transactedAt": "2026-06-24 20:51:25",
+      "productCode": "870050004",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1994年,年中,中国,国硬,硬币,币壹,壹角"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8183079093",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8183079093",
+      "displayBoxCode": "8183079-093",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "柬埔寨红鸟银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguojindaijizhibi/10361747.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8183079-093/",
+      "price": 390,
+      "priceWithFee": 421.2,
+      "transactedAt": "2026-07-13 20:23:05",
+      "productCode": "870156051",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/870156051A.JPG",
+      "ocrConfidence": 46,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,柬埔,埔寨,寨红,红鸟,鸟银,银币"
+    }
+  ]
+}

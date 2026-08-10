@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "5181002048",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "5181002048",
+      "displayBoxCode": "5181002-048",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1995年1/2盎司观音银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/550183.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/5181002-048/",
+      "price": 8000,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-29 21:51:51",
+      "productCode": "KH116395",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260129/large_sell_8k9pojrkjbpqialv.jpg",
+      "ocrConfidence": 44,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1995年,2盎司,宗教,年盎,盎司,司观,观音,音银,银币"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4565054004",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4565054004",
+      "displayBoxCode": "4565054-004",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1998年1/10盎司万象更新彩金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/468411.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4565054-004/69/",
+      "price": 2205,
+      "priceWithFee": null,
+      "transactedAt": "2025-03-15 15:38:39",
+      "productCode": "KH061169",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250315/large_sell_rph1nvvwxiumw7zb.jpg",
+      "ocrConfidence": 42,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1998年,10盎司,年盎,盎司,司万,万象,象更,更新,新彩,彩金,金币"
+    }
+  ]
+}

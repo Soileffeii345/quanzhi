@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8005071015",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8005071015",
+      "displayBoxCode": "8005071-015",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "第二版人民币延安宝塔山2元",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/dierbanrenminbi/10351429.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8005071-015/",
+      "price": 1560,
+      "priceWithFee": 1684.8,
+      "transactedAt": "2026-06-25 20:18:40",
+      "productCode": "869275001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/869275001B.jpg",
+      "ocrConfidence": 31,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,第二,二版,版人,人民,民币,币延,延安,安宝,宝塔,塔山,山元"
+    }
+  ]
+}

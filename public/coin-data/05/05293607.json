@@ -1,0 +1,65 @@
+{
+  "coinName": "1980年冬奥铜币",
+  "slug": "05293607",
+  "saleCount": 3,
+  "keywords": "铜,币,1980年,奥运,年第,第届,届冬,冬奥,奥会,会男,男子,子两,两项,项铜,铜币,子滑,滑降,降铜,币无,无标,会女,女子,子花,花样,样铜",
+  "priceStats": {
+    "low": 550,
+    "high": 850,
+    "avg": 663,
+    "latest": 850
+  },
+  "records": [
+    {
+      "coinName": "1980年第13届冬奥会男子两项铜币(UC)",
+      "normalizedBoxCode": "6428390012",
+      "displayBoxCode": "6428390-012",
+      "gradingCompany": "NGC",
+      "grade": "PF 68 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/411786.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6428390-012/68/",
+      "price": 850,
+      "priceWithFee": null,
+      "transactedAt": "2024-07-02 14:27:24",
+      "productCode": "KH055270",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "铜,币,1980年,奥运,年第,第届,届冬,冬奥,奥会,会男,男子,子两,两项,项铜,铜币"
+    },
+    {
+      "coinName": "1980年第13届冬奥会男子滑降铜币(CA/无标)",
+      "normalizedBoxCode": "6760086008",
+      "displayBoxCode": "6760086-008",
+      "gradingCompany": "NGC",
+      "grade": "PF 68 CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/411097.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6760086-008/68/",
+      "price": 590,
+      "priceWithFee": null,
+      "transactedAt": "2024-01-09 20:24:44",
+      "productCode": "KH051313",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "铜,币,1980年,奥运,年第,第届,届冬,冬奥,奥会,会男,男子,子滑,滑降,降铜,铜币,币无,无标"
+    },
+    {
+      "coinName": "1980年第13届冬奥会女子花样铜币(UC)",
+      "normalizedBoxCode": "8556193039",
+      "displayBoxCode": "8556193-039",
+      "gradingCompany": "NGC",
+      "grade": "PF 68 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/567833.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8556193-039/68/",
+      "price": 550,
+      "priceWithFee": null,
+      "transactedAt": "2026-03-29 18:35:00",
+      "productCode": "KH127146",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "铜,币,1980年,奥运,年第,第届,届冬,冬奥,奥会,会女,女子,子花,花样,样铜,铜币"
+    }
+  ]
+}

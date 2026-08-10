@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8201392003",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8201392003",
+      "displayBoxCode": "8201392-003",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1993年1/4盎司拥有一片故土衡山金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/514841.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8201392-003/",
+      "price": 7900,
+      "priceWithFee": null,
+      "transactedAt": "2025-11-25 17:08:52",
+      "productCode": "KH092022",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251125/large_sell_8f77mdbezbujywdl.jpg",
+      "ocrConfidence": 54,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1993年,4盎司,年盎,盎司,司拥,拥有,有一,一片,片故,故土,土衡,衡山,山金,金币"
+    }
+  ]
+}

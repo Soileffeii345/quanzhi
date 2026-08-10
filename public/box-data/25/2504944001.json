@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2504944001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2504944001",
+      "displayBoxCode": "2504944-001",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1983年香港上海汇丰银行拾圆",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xianggangzhichao/10383102.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2504944-001/",
+      "price": 100,
+      "priceWithFee": 111,
+      "transactedAt": "2026-07-07 19:44:05",
+      "productCode": "872779001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/27/872779001B.jpg",
+      "ocrConfidence": 28,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,1983年,年香,香港,港上,上海,海汇,汇丰,丰银,银行,行拾,拾圆,外国/特区"
+    }
+  ]
+}

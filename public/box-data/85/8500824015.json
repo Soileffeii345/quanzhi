@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8500824015",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8500824015",
+      "displayBoxCode": "8500824-015",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "饷银五钱银元",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguojindaijizhibi/10370420.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8500824-015/",
+      "price": 500,
+      "priceWithFee": 540,
+      "transactedAt": "2026-07-20 19:15:35",
+      "productCode": "871654001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/15/853062002A.jpg",
+      "ocrConfidence": 41,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,饷银,银五,五钱,钱银,银元"
+    }
+  ]
+}

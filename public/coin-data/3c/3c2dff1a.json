@@ -1,0 +1,31 @@
+{
+  "coinName": "美国纸钞",
+  "slug": "3c2dff1a",
+  "saleCount": 1,
+  "keywords": "钞,美国,国纸,纸钞,外国/特区",
+  "priceStats": {
+    "low": 890,
+    "high": 890,
+    "avg": 890,
+    "latest": 890
+  },
+  "records": [
+    {
+      "coinName": "美国纸钞",
+      "normalizedBoxCode": "2091472062",
+      "displayBoxCode": "2091472-062",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10392470.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2091472-062/",
+      "price": 890,
+      "priceWithFee": 987.9,
+      "transactedAt": "2026-07-14 21:51:20",
+      "productCode": "873598001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,美国,国纸,纸钞,外国/特区"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "ok": true,
+  "query": "6712599041",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6712599041",
+      "displayBoxCode": "6712599-041",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "coinName": "2023年癸卯兔年生肖流通纪念币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10419167.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6712599-041/69/",
+      "price": 75,
+      "priceWithFee": 81,
+      "transactedAt": "2026-07-22 19:05:05",
+      "productCode": "877415001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/874882001A.jpg",
+      "ocrConfidence": 45,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2023年,生肖,年癸,癸卯,卯兔,兔年,年生,肖流,流通,通纪,纪念,念币"
+    },
+    {
+      "normalizedBoxCode": "6712599041",
+      "displayBoxCode": "6712599-041",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "coinName": "2023年癸卯兔年生肖流通纪念币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10398742.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6712599-041/69/",
+      "price": 95,
+      "priceWithFee": 102.6,
+      "transactedAt": "2026-07-15 19:10:30",
+      "productCode": "874882001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/874882001A.jpg",
+      "ocrConfidence": 45,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2023年,生肖,年癸,癸卯,卯兔,兔年,年生,肖流,流通,通纪,纪念,念币"
+    }
+  ]
+}

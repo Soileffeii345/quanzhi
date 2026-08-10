@@ -1,0 +1,31 @@
+{
+  "coinName": "2004年熊猫15.552克普制金币",
+  "slug": "24d7cba5",
+  "saleCount": 1,
+  "keywords": "金,币,2004年,2盎司,熊猫,年熊,猫盎,盎司,司普,普制,制金,金币",
+  "priceStats": {
+    "low": 16200,
+    "high": 16200,
+    "avg": 16200,
+    "latest": 16200
+  },
+  "records": [
+    {
+      "coinName": "2004年熊猫1/2盎司普制金币",
+      "normalizedBoxCode": "8765652005",
+      "displayBoxCode": "8765652-005",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-jiujin/10415009.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8765652-005/",
+      "price": 16200,
+      "priceWithFee": 16767,
+      "transactedAt": "2026-07-23 20:45:05",
+      "productCode": "876728005",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2004年,2盎司,熊猫,年熊,猫盎,盎司,司普,普制,制金,金币"
+    }
+  ]
+}

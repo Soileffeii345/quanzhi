@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "3554135004",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "3554135004",
+      "displayBoxCode": "3554135-004",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1989年1/4盎司美国纽约第18届国际硬币展金章",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/499565.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3554135-004/69/",
+      "price": 6560,
+      "priceWithFee": null,
+      "transactedAt": "2025-09-11 12:26:47",
+      "productCode": "KH083062",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250910/large_sell_bhaj9n3zjfjzwfin.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,章,1989年,4盎司,年盎,盎司,司美,美国,国纽,纽约,约第,第届,届国,国际,际硬,硬币,币展,展金,金章,外国/特区"
+    }
+  ]
+}

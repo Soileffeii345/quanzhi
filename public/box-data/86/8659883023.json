@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8659883023",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8659883023",
+      "displayBoxCode": "8659883-023",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "coinName": "1996年熊猫1/20盎司普制金币（小字版）",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-jiujin/10376853.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8659883-023/69/",
+      "price": 1680,
+      "priceWithFee": 1738.8,
+      "transactedAt": "2026-07-02 21:26:50",
+      "productCode": "872113014",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/26/872113014A.jpg",
+      "ocrConfidence": 38,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1996年,20盎司,熊猫,年熊,猫盎,盎司,司普,普制,制金,金币,币小,小字,字版"
+    }
+  ]
+}

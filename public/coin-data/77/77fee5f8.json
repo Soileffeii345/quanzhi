@@ -1,0 +1,31 @@
+{
+  "coinName": "2000年熊猫1公斤银币",
+  "slug": "77fee5f8",
+  "saleCount": 1,
+  "keywords": "银,币,2000年,1公斤,熊猫,年公,公斤,斤熊,猫银,银币",
+  "priceStats": {
+    "low": 45000,
+    "high": 45000,
+    "avg": 45000,
+    "latest": 45000
+  },
+  "records": [
+    {
+      "coinName": "2000年1公斤熊猫银币",
+      "normalizedBoxCode": "8186732004",
+      "displayBoxCode": "8186732-004",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/552297.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8186732-004/69/",
+      "price": 45000,
+      "priceWithFee": null,
+      "transactedAt": "2026-02-08 00:07:59",
+      "productCode": "KH118342",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2000年,1公斤,熊猫,年公,公斤,斤熊,猫银,银币"
+    }
+  ]
+}

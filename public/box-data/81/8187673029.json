@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8187673029",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8187673029",
+      "displayBoxCode": "8187673-029",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2023年5克吉祥文化前程似锦金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/471970.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8187673-029/",
+      "price": 3710,
+      "priceWithFee": null,
+      "transactedAt": "2025-04-09 12:08:10",
+      "productCode": "AA557943",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250407/large_sell_on6kjvpmtzruzal8.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2023年,5克,吉祥文化,年克,克吉,吉祥,祥文,文化,化前,前程,程似,似锦,锦金,金币"
+    }
+  ]
+}

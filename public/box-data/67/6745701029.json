@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6745701029",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6745701029",
+      "displayBoxCode": "6745701-029",
+      "gradingCompany": "NGC",
+      "grade": "PF 68 ULTRA CAMEO",
+      "coinName": "1985年22克历史人物第2组陈胜吴广银币(短披风)",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/574512.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6745701-029/68/",
+      "price": 1500,
+      "priceWithFee": null,
+      "transactedAt": "2026-05-06 21:53:00",
+      "productCode": "KH133450",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260421/large_sell_j1rrwdcdxonsablw.jpg",
+      "ocrConfidence": 52,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1985年,22克,年克,克历,历史,史人,人物,物第,第组,组陈,陈胜,胜吴,吴广,广银,银币,币短,短披,披风"
+    }
+  ]
+}

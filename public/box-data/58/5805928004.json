@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "5805928004",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "5805928004",
+      "displayBoxCode": "5805928-004",
+      "gradingCompany": "NGC",
+      "grade": "MS 70",
+      "coinName": "2003年1/10盎司生肖羊金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/476973.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/5805928-004/70/",
+      "price": 2600,
+      "priceWithFee": null,
+      "transactedAt": "2025-05-10 07:35:28",
+      "productCode": "KH066165",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250510/large_sell_u8bc9xcgmjqkyoxf.jpg",
+      "ocrConfidence": 58,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2003年,10盎司,生肖,年盎,盎司,司生,肖羊,羊金,金币"
+    }
+  ]
+}

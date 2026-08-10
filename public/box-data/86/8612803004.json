@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8612803004",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8612803004",
+      "displayBoxCode": "8612803-004",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2025年中国龙31.104克普制银币（金总封装智能卡）",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10362714.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8612803-004/",
+      "price": 730,
+      "priceWithFee": 755.55,
+      "transactedAt": "2026-06-27 20:07:05",
+      "productCode": "870841001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/14/851270064A.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,2025年,31.104克,年中,中国,国龙,龙克,克普,普制,制银,银币,币金,金总,总封,封装,装智,智能,能卡"
+    }
+  ]
+}

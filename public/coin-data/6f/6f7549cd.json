@@ -1,0 +1,31 @@
+{
+  "coinName": "1984年生肖8克精制金币",
+  "slug": "6f7549cd",
+  "saleCount": 1,
+  "keywords": "金,币,1984年,8克,生肖,年甲,甲子,子鼠,鼠年,年生,肖克,克精,精制,制金,金币,评级",
+  "priceStats": {
+    "low": 92000,
+    "high": 92000,
+    "avg": 92000,
+    "latest": 92000
+  },
+  "records": [
+    {
+      "coinName": "1984年甲子鼠年生肖8克精制金币",
+      "normalizedBoxCode": "8198629004",
+      "displayBoxCode": "8198629-004",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-jin/10359917.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8198629-004/69/",
+      "price": 92000,
+      "priceWithFee": 95220,
+      "transactedAt": "2026-06-25 20:28:35",
+      "productCode": "869589001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1984年,8克,生肖,年甲,甲子,子鼠,鼠年,年生,肖克,克精,精制,制金,金币,评级"
+    }
+  ]
+}

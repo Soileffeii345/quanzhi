@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2277742043",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2277742043",
+      "displayBoxCode": "2277742-043",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "民国四年财政部平市官钱局河南地名铜元伍拾枚、民国二十二年江苏省农民银行伍角各一枚，共二枚",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/minguoshengshigejiyinhangzhichao/10377601.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2277742-043/",
+      "price": 7000,
+      "priceWithFee": 7770,
+      "transactedAt": "2026-07-16 21:24:10",
+      "productCode": "871863002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/26/871863002B.jpg",
+      "ocrConfidence": 30,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,铜,历史币,民国,国四,四年,年财,财政,政部,部平,平市,市官,官钱,钱局,局河,河南,南地,地名,名铜,铜元,元伍,伍拾,拾枚,枚民,国二,二十,十二,二年,年江,江苏,苏省,省农,农民,民银,银行,行伍,伍角,角各,各一,一枚,枚共,共二,二枚"
+    }
+  ]
+}

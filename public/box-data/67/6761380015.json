@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6761380015",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6761380015",
+      "displayBoxCode": "6761380-015",
+      "gradingCompany": "NGC",
+      "grade": "Pr 70 ULTRA CAMEO",
+      "coinName": "2015年1盎司吉祥文化瓜瓞绵绵银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/530520.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6761380-015/70/",
+      "price": 880,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-19 22:35:18",
+      "productCode": "KH109263",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260112/large_sell_ukyruripvmbowpcl.jpg",
+      "ocrConfidence": 42,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2015年,1盎司,吉祥文化,年盎,盎司,司吉,吉祥,祥文,文化,化瓜,瓜瓞,瓞绵,绵绵,绵银,银币"
+    }
+  ]
+}

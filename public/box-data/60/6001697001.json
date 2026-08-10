@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6001697001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6001697001",
+      "displayBoxCode": "6001697-001",
+      "gradingCompany": "NGC",
+      "grade": "PF70 ULTRA CAMEO",
+      "coinName": "2010年中国石窟艺术-云冈金银币（含1/2盎司金、2盎司银）",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10417722.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6001697-001/70/",
+      "price": 20500,
+      "priceWithFee": 21217.5,
+      "transactedAt": "2026-07-23 20:33:25",
+      "productCode": "877176003",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/877176003A.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,2010年,2盎司,年中,中国,国石,石窟,窟艺,艺术,术云,云冈,冈金,金银,银币,币含,含盎,盎司,司金,金盎,司银"
+    }
+  ]
+}

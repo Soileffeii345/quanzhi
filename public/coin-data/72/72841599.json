@@ -1,0 +1,65 @@
+{
+  "coinName": "民国十八年广东省造孙中山像贰毫银币",
+  "slug": "72841599",
+  "saleCount": 3,
+  "keywords": "银,币,历史币,广东,粤造,孙小头,孙中山,小头,民国,国十,十八,八年,年广,东省,省造,造孙,孙中,中山,山像,像贰,贰毫,毫银,银币",
+  "priceStats": {
+    "low": 280,
+    "high": 380,
+    "avg": 320,
+    "latest": 280
+  },
+  "records": [
+    {
+      "coinName": "民国十八年广东省造孙中山像贰毫银币",
+      "normalizedBoxCode": "6148204004",
+      "displayBoxCode": "6148204-004",
+      "gradingCompany": "NGC",
+      "grade": "MS 61",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/478063.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6148204-004/61/",
+      "price": 280,
+      "priceWithFee": null,
+      "transactedAt": "2025-12-26 10:40:47",
+      "productCode": "KH094710",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,历史币,广东,粤造,孙小头,孙中山,小头,民国,国十,十八,八年,年广,东省,省造,造孙,孙中,中山,山像,像贰,贰毫,毫银,银币"
+    },
+    {
+      "coinName": "民国十八年广东省造孙中山像贰毫银币",
+      "normalizedBoxCode": "8192922016",
+      "displayBoxCode": "8192922-016",
+      "gradingCompany": "NGC",
+      "grade": "MS62",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/534306.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8192922-016/62/",
+      "price": 300,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-19 19:00:05",
+      "productCode": "KH108793",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,历史币,广东,粤造,孙小头,孙中山,小头,民国,国十,十八,八年,年广,东省,省造,造孙,孙中,中山,山像,像贰,贰毫,毫银,银币"
+    },
+    {
+      "coinName": "民国十八年广东省造孙中山像贰毫银币",
+      "normalizedBoxCode": "87245630",
+      "displayBoxCode": "87245630",
+      "gradingCompany": "PCGS",
+      "grade": "MS62",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/478065.html",
+      "officialCertUrl": "https://cn.pcgs.com/cert/87245630",
+      "price": 380,
+      "priceWithFee": null,
+      "transactedAt": "2025-09-26 15:06:08",
+      "productCode": "KH080606",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,历史币,广东,粤造,孙小头,孙中山,小头,民国,国十,十八,八年,年广,东省,省造,造孙,孙中,中山,山像,像贰,贰毫,毫银,银币"
+    }
+  ]
+}

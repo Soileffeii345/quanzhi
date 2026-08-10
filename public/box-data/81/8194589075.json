@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8194589075",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8194589075",
+      "displayBoxCode": "8194589-075",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2002年1/10盎司熊猫金币发行20周年铂币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/513509.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8194589-075/69/",
+      "price": 2200,
+      "priceWithFee": null,
+      "transactedAt": "2025-12-15 14:30:41",
+      "productCode": "KH094023",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251119/large_sell_qkoa0fmelwgwracg.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,贵金属,币,2002年,10盎司,熊猫,年盎,盎司,司熊,猫金,金币,币发,发行,行周,周年,年铂,铂币"
+    }
+  ]
+}

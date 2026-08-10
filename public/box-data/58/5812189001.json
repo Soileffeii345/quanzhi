@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "5812189001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "5812189001",
+      "displayBoxCode": "5812189-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2010年1/3盎司上海世博会彩金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/520055.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/5812189-001/70/",
+      "price": 10185,
+      "priceWithFee": null,
+      "transactedAt": "2025-12-12 09:59:57",
+      "productCode": "KH094687",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251212/large_sell_c8gekzzquidj3sjw.jpg",
+      "ocrConfidence": 31,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2010年,3盎司,重大事件,年盎,盎司,司上,上海,海世,世博,博会,会彩,彩金,金币"
+    }
+  ]
+}

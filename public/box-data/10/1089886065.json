@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "1089886065",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "1089886065",
+      "displayBoxCode": "1089886-065",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2025年蛇年生肖纪念钞20元",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/liantichao-jinianchao/10377932.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1089886-065/",
+      "price": 150,
+      "priceWithFee": 162,
+      "transactedAt": "2026-07-04 22:24:45",
+      "productCode": "872047060",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/26/872047060A.jpg",
+      "ocrConfidence": 31,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,2025年,生肖,年蛇,蛇年,年生,肖纪,纪念,念钞,钞元"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "coinName": "安徽地方银行壹角",
+  "slug": "17979f3f",
+  "saleCount": 1,
+  "keywords": "银,安徽,徽地,地方,方银,银行,行壹,壹角",
+  "priceStats": {
+    "low": 700,
+    "high": 700,
+    "avg": 700,
+    "latest": 700
+  },
+  "records": [
+    {
+      "coinName": "安徽地方银行壹角",
+      "normalizedBoxCode": "2277497044",
+      "displayBoxCode": "2277497-044",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/minguoshengshigejiyinhangzhichao/10356256.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2277497-044/",
+      "price": 700,
+      "priceWithFee": 777,
+      "transactedAt": "2026-07-09 19:55:00",
+      "productCode": "870166001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,安徽,徽地,地方,方银,银行,行壹,壹角"
+    }
+  ]
+}

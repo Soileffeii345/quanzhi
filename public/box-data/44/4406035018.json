@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4406035018",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4406035018",
+      "displayBoxCode": "4406035-018",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1992年22克古代科技第1组航海造船银币(UC)",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/567455.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4406035-018/69/",
+      "price": 1050,
+      "priceWithFee": null,
+      "transactedAt": "2026-05-04 23:58:53",
+      "productCode": "KH130456",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260327/large_sell_f5pmoaorvztjqcam.jpg",
+      "ocrConfidence": 49,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1992年,22克,年克,克古,古代,代科,科技,技第,第组,组航,航海,海造,造船,船银,银币"
+    }
+  ]
+}

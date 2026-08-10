@@ -1,0 +1,65 @@
+{
+  "coinName": "2024年贺岁8克银币",
+  "slug": "3504c796",
+  "saleCount": 3,
+  "keywords": "银,币,2024年,8克,吉祥文化,年克,克菱,菱形,形贺,贺岁,岁彩,彩银,银币",
+  "priceStats": {
+    "low": 350,
+    "high": 550,
+    "avg": 473,
+    "latest": 520
+  },
+  "records": [
+    {
+      "coinName": "2024年8克菱形贺岁彩银币",
+      "normalizedBoxCode": "6720351001",
+      "displayBoxCode": "6720351-001",
+      "gradingCompany": "NGC",
+      "grade": "MS 70",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/537981.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6720351-001/70/",
+      "price": 520,
+      "priceWithFee": null,
+      "transactedAt": "2026-02-07 10:27:41",
+      "productCode": "KH113019",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2024年,8克,吉祥文化,年克,克菱,菱形,形贺,贺岁,岁彩,彩银,银币"
+    },
+    {
+      "coinName": "2024年8克菱形贺岁彩银币",
+      "normalizedBoxCode": "6731283046",
+      "displayBoxCode": "6731283-046",
+      "gradingCompany": "NGC",
+      "grade": "MS 70",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/534405.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6731283-046/70/",
+      "price": 350,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-27 11:02:38",
+      "productCode": "KH112569",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2024年,8克,吉祥文化,年克,克菱,菱形,形贺,贺岁,岁彩,彩银,银币"
+    },
+    {
+      "coinName": "2024年8克菱形贺岁彩银币",
+      "normalizedBoxCode": "6744566026",
+      "displayBoxCode": "6744566-026",
+      "gradingCompany": "NGC",
+      "grade": "MS 70",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/537350.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6744566-026/70/",
+      "price": 550,
+      "priceWithFee": null,
+      "transactedAt": "2026-02-07 10:55:29",
+      "productCode": "KH117082",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2024年,8克,吉祥文化,年克,克菱,菱形,形贺,贺岁,岁彩,彩银,银币"
+    }
+  ]
+}

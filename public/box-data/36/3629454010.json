@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "3629454010",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "3629454010",
+      "displayBoxCode": "3629454-010",
+      "gradingCompany": "NGC",
+      "grade": "MS70",
+      "coinName": "2009年1盎司熊猫银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/592848.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3629454-010/70/",
+      "price": 980,
+      "priceWithFee": null,
+      "transactedAt": "2026-07-15 22:44:41",
+      "productCode": "AA660470",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260624/large_sell_mocgqaos1suxnmph.jpg",
+      "ocrConfidence": 32,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2009年,1盎司,熊猫,年盎,盎司,司熊,猫银,银币"
+    }
+  ]
+}

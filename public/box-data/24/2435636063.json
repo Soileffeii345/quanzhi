@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2435636063",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2435636063",
+      "displayBoxCode": "2435636-063",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1947年朝鲜纸钞",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10380294.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2435636-063/",
+      "price": 600,
+      "priceWithFee": 666,
+      "transactedAt": "2026-07-14 22:15:50",
+      "productCode": "872355005",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/27/872355005B.jpg",
+      "ocrConfidence": 26,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,1947年,年朝,朝鲜,鲜纸,纸钞"
+    }
+  ]
+}

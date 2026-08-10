@@ -1,0 +1,48 @@
+{
+  "coinName": "2026年生肖30克精制银币",
+  "slug": "065fe9d1",
+  "saleCount": 2,
+  "keywords": "银,币,2026年,30克,生肖,年丙,丙午,午马,马年,年生,肖克,克梅,梅花,花形,形精,精制,制银,银币,评级",
+  "priceStats": {
+    "low": 1000,
+    "high": 1020,
+    "avg": 1010,
+    "latest": 1020
+  },
+  "records": [
+    {
+      "coinName": "2026年丙午马年生肖30克梅花形精制银币",
+      "normalizedBoxCode": "8651410001",
+      "displayBoxCode": "8651410-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10401539.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8651410-001/70/",
+      "price": 1020,
+      "priceWithFee": 1055.7,
+      "transactedAt": "2026-07-20 21:01:40",
+      "productCode": "875092003",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2026年,30克,生肖,年丙,丙午,午马,马年,年生,肖克,克梅,梅花,花形,形精,精制,制银,银币,评级"
+    },
+    {
+      "coinName": "2026年丙午马年生肖30克梅花形精制银币",
+      "normalizedBoxCode": "8661177008",
+      "displayBoxCode": "8661177-008",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10423939.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8661177-008/69/",
+      "price": 1000,
+      "priceWithFee": 1035,
+      "transactedAt": "2026-07-25 20:29:25",
+      "productCode": "877834005",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2026年,30克,生肖,年丙,丙午,午马,马年,年生,肖克,克梅,梅花,花形,形精,精制,制银,银币,评级"
+    }
+  ]
+}

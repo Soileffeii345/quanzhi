@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6632646044",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6632646044",
+      "displayBoxCode": "6632646-044",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1991年1/3盎司第16届冬奥会双人花样滑冰金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/476601.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6632646-044/",
+      "price": 8430,
+      "priceWithFee": null,
+      "transactedAt": "2025-05-06 22:44:04",
+      "productCode": "KH065926",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250506/large_sell_m8pmknuu4ocvvsdr.jpg",
+      "ocrConfidence": 49,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1991年,3盎司,奥运,年盎,盎司,司第,第届,届冬,冬奥,奥会,会双,双人,人花,花样,样滑,滑冰,冰金,金币"
+    }
+  ]
+}

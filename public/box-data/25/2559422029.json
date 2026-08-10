@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2559422029",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2559422029",
+      "displayBoxCode": "2559422-029",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2010年香港上海汇丰银行 有限公司港币壹佰元",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/liantichao-jinianchao/10395665.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2559422-029/",
+      "price": 270,
+      "priceWithFee": 291.6,
+      "transactedAt": "2026-07-11 21:13:40",
+      "productCode": "874349010",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/874349010B.jpg",
+      "ocrConfidence": 30,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2010年,年香,香港,港上,上海,海汇,汇丰,丰银,银行,行有,有限,限公,公司,司港,港币,币壹,壹佰,佰元,外国/特区"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "coinName": "2021年熊猫30克银币",
+  "slug": "282b4808",
+  "saleCount": 1,
+  "keywords": "银,币,2021年,30克,熊猫,年克,克熊,猫银,银币",
+  "priceStats": {
+    "low": 340,
+    "high": 340,
+    "avg": 340,
+    "latest": 340
+  },
+  "records": [
+    {
+      "coinName": "2021年30克熊猫银币",
+      "normalizedBoxCode": "6001555017",
+      "displayBoxCode": "6001555-017",
+      "gradingCompany": "NGC",
+      "grade": "MS 70",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/425254.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6001555-017/70/",
+      "price": 340,
+      "priceWithFee": null,
+      "transactedAt": "2025-03-20 15:48:39",
+      "productCode": "KH060753",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2021年,30克,熊猫,年克,克熊,猫银,银币"
+    }
+  ]
+}

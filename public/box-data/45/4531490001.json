@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4531490001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4531490001",
+      "displayBoxCode": "4531490-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 67 ULTRA CAMEO",
+      "coinName": "2009年1公斤熊猫银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/481493.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4531490-001/67/",
+      "price": 7980,
+      "priceWithFee": null,
+      "transactedAt": "2025-06-04 16:43:41",
+      "productCode": "DB200805",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250604/large_sell_balw6h5f5nt3m6mw.jpg",
+      "ocrConfidence": 30,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2009年,1公斤,熊猫,年公,公斤,斤熊,猫银,银币"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4414785027",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4414785027",
+      "displayBoxCode": "4414785-027",
+      "gradingCompany": "NGC",
+      "grade": "PF69",
+      "coinName": "2007年1盎司中国探月首发成功银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/528551.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4414785-027/69/",
+      "price": 650,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-07 10:18:49",
+      "productCode": "KH101736",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260107/large_sell_jgeukhnyjg9doume.jpg",
+      "ocrConfidence": 40,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2007年,1盎司,年盎,盎司,司中,中国,国探,探月,月首,首发,发成,成功,功银,银币"
+    }
+  ]
+}

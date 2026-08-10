@@ -1,0 +1,31 @@
+{
+  "coinName": "1987年第六届运动会-排球流通纪念币",
+  "slug": "30f3fc3c",
+  "saleCount": 1,
+  "keywords": "币,1987年,年第,第六,六届,届运,运动,动会,会排,排球,球流,流通,通纪,纪念,念币,币二,二枚",
+  "priceStats": {
+    "low": 350,
+    "high": 350,
+    "avg": 350,
+    "latest": 350
+  },
+  "records": [
+    {
+      "coinName": "1987年第六届运动会-排球流通纪念币二枚",
+      "normalizedBoxCode": "8504511032",
+      "displayBoxCode": "8504511-032",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10397585.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8504511-032/",
+      "price": 350,
+      "priceWithFee": 378,
+      "transactedAt": "2026-07-15 20:05:05",
+      "productCode": "874506007",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1987年,年第,第六,六届,届运,运动,动会,会排,排球,球流,流通,通纪,纪念,念币,币二,二枚"
+    }
+  ]
+}

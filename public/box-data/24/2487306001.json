@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2487306001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2487306001",
+      "displayBoxCode": "2487306-001",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "民国9年直隶省银行天津地名壹圆",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/minguoshengshigejiyinhangzhichao/10361786.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2487306-001/",
+      "price": 1180,
+      "priceWithFee": 1309.8,
+      "transactedAt": "2026-07-09 21:11:40",
+      "productCode": "869632006",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/869632006B.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国年,年直,直隶,隶省,省银,银行,行天,天津,津地,地名,名壹,壹圆"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8764023001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8764023001",
+      "displayBoxCode": "8764023-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2004年中国石窟艺术-麦积山1/2盎司精制金币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10350875.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8764023-001/69/",
+      "price": 20500,
+      "priceWithFee": 21217.5,
+      "transactedAt": "2026-06-18 21:15:10",
+      "productCode": "869588013",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/869588013A.jpg",
+      "ocrConfidence": 45,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2004年,2盎司,年中,中国,国石,石窟,窟艺,艺术,术麦,麦积,积山,山盎,盎司,司精,精制,制金,金币,评级"
+    }
+  ]
+}

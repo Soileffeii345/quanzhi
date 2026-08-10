@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "87751428",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "87751428",
+      "displayBoxCode": "87751428",
+      "gradingCompany": "PCGS",
+      "grade": "待复核",
+      "coinName": "民国九年袁像壹圆银元（精发版）",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguojindaijizhibi/10386708.shtml",
+      "officialCertUrl": "https://cn.pcgs.com/cert/87751428",
+      "price": 2350,
+      "priceWithFee": 2538,
+      "transactedAt": "2026-07-27 20:40:05",
+      "productCode": "873376019",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/27/873376019A.jpg",
+      "ocrConfidence": 29,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,袁大头,大头,袁头,民国,国九,九年,年袁,袁像,像壹,壹圆,圆银,银元,元精,精发,发版"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6712599049",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6712599049",
+      "displayBoxCode": "6712599-049",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2023年癸卯兔年生肖流通纪念币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10398743.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6712599-049/",
+      "price": 80,
+      "priceWithFee": 86.4,
+      "transactedAt": "2026-07-15 19:35:55",
+      "productCode": "874882002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/874882002A.jpg",
+      "ocrConfidence": 46,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2023年,生肖,年癸,癸卯,卯兔,兔年,年生,肖流,流通,通纪,纪念,念币"
+    }
+  ]
+}

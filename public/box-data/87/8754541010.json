@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8754541010",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8754541010",
+      "displayBoxCode": "8754541-010",
+      "gradingCompany": "NGC",
+      "grade": "MS 65",
+      "coinName": "1980年中国硬币贰分",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10359845.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8754541-010/65/",
+      "price": 660,
+      "priceWithFee": 712.8,
+      "transactedAt": "2026-06-24 21:46:45",
+      "productCode": "869854031",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/869854031A.jpg",
+      "ocrConfidence": 39,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1980年,年中,中国,国硬,硬币,币贰,贰分"
+    }
+  ]
+}

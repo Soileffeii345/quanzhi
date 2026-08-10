@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4312443004",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4312443004",
+      "displayBoxCode": "4312443-004",
+      "gradingCompany": "NGC",
+      "grade": "Ms70",
+      "coinName": "2013年1/10盎司熊猫金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/503846.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4312443-004/70/",
+      "price": 3200,
+      "priceWithFee": null,
+      "transactedAt": "2025-10-08 22:07:09",
+      "productCode": "KH085881",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251005/large_sell_wwmfltutqv1nhbdu.jpg",
+      "ocrConfidence": 40,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2013年,10盎司,熊猫,年盎,盎司,司熊,猫金,金币"
+    }
+  ]
+}

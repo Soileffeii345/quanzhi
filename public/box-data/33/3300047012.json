@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "3300047012",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "3300047012",
+      "displayBoxCode": "3300047-012",
+      "gradingCompany": "NGC",
+      "grade": "PF 68 ULTRA CAMEO",
+      "coinName": "1993年熊猫1盎司精制银币（P版）",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-jiujin/10377126.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3300047-012/68/",
+      "price": 1620,
+      "priceWithFee": 1676.7,
+      "transactedAt": "2026-07-06 22:39:05",
+      "productCode": "871950001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/26/871950001A.jpg",
+      "ocrConfidence": 40,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1993年,1盎司,熊猫,年熊,猫盎,盎司,司精,精制,制银,银币,币版,评级"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6045290035",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6045290035",
+      "displayBoxCode": "6045290-035",
+      "gradingCompany": "NGC",
+      "grade": "PF70 ULTRA CAMEO",
+      "coinName": "1997年22克传统文化第2组故宫保和殿银币(UC)",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/360214.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6045290-035/70/",
+      "price": 2500,
+      "priceWithFee": null,
+      "transactedAt": "2026-08-09 22:34:14",
+      "productCode": "KH144161",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20230505/large_sell_dnmqtoluq4temf8o.jpg",
+      "ocrConfidence": 53,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1997年,22克,年克,克传,传统,统文,文化,化第,第组,组故,故宫,宫保,保和,和殿,殿银,银币"
+    }
+  ]
+}

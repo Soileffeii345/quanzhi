@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4547019001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4547019001",
+      "displayBoxCode": "4547019-001",
+      "gradingCompany": "NGC",
+      "grade": "PF70 ULTRA CAMEO",
+      "coinName": "2016年8克吉祥文化五福拱寿金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/468462.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4547019-001/70/",
+      "price": 5720,
+      "priceWithFee": null,
+      "transactedAt": "2025-03-16 08:51:12",
+      "productCode": "KH061235",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250316/large_sell_vo5qvmadm6fgubzb.jpg",
+      "ocrConfidence": 40,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2016年,8克,吉祥文化,年克,克吉,吉祥,祥文,文化,化五,五福,福拱,拱寿,寿金,金币"
+    }
+  ]
+}

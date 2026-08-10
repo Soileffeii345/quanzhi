@@ -1,0 +1,31 @@
+{
+  "coinName": "1852年11.66克银币",
+  "slug": "674b2439",
+  "saleCount": 1,
+  "keywords": "银,币,1852年,11.66克,年缅,缅甸,甸克,克银,银币",
+  "priceStats": {
+    "low": 800,
+    "high": 800,
+    "avg": 800,
+    "latest": 800
+  },
+  "records": [
+    {
+      "coinName": "1852年缅甸11.66克银币",
+      "normalizedBoxCode": "8757419002",
+      "displayBoxCode": "8757419-002",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/wgjsbizhang/10360448.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8757419-002/",
+      "price": 800,
+      "priceWithFee": 848,
+      "transactedAt": "2026-06-26 19:18:25",
+      "productCode": "870248011",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1852年,11.66克,年缅,缅甸,甸克,克银,银币"
+    }
+  ]
+}

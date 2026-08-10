@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8544495015",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8544495015",
+      "displayBoxCode": "8544495-015",
+      "gradingCompany": "NGC",
+      "grade": "PF 67 ULTRA CAMEO",
+      "coinName": "1993年毛泽东诞辰100周年精制流通纪念币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10370834.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8544495-015/67/",
+      "price": 1200,
+      "priceWithFee": 1296,
+      "transactedAt": "2026-07-01 19:41:35",
+      "productCode": "871557004",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/26/871557004A.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1993年,年毛,毛泽,泽东,东诞,诞辰,辰周,周年,年精,精制,制流,流通,通纪,纪念,念币,评级"
+    }
+  ]
+}

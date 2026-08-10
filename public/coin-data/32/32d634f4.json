@@ -1,0 +1,65 @@
+{
+  "coinName": "1988年黎巴嫩纸钞",
+  "slug": "32d634f4",
+  "saleCount": 3,
+  "keywords": "钞,1988年,年黎,黎巴,巴嫩,嫩纸,纸钞",
+  "priceStats": {
+    "low": 110,
+    "high": 140,
+    "avg": 123,
+    "latest": 110
+  },
+  "records": [
+    {
+      "coinName": "1988年黎巴嫩纸钞",
+      "normalizedBoxCode": "2400708056",
+      "displayBoxCode": "2400708-056",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10392435.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2400708-056/",
+      "price": 110,
+      "priceWithFee": 122.1,
+      "transactedAt": "2026-07-14 22:05:50",
+      "productCode": "873792017",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,1988年,年黎,黎巴,巴嫩,嫩纸,纸钞"
+    },
+    {
+      "coinName": "1988年黎巴嫩纸钞",
+      "normalizedBoxCode": "2400708057",
+      "displayBoxCode": "2400708-057",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10392434.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2400708-057/",
+      "price": 120,
+      "priceWithFee": 133.2,
+      "transactedAt": "2026-07-14 21:55:05",
+      "productCode": "873792016",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,1988年,年黎,黎巴,巴嫩,嫩纸,纸钞"
+    },
+    {
+      "coinName": "1988年黎巴嫩纸钞",
+      "normalizedBoxCode": "2400758073",
+      "displayBoxCode": "2400758-073",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10371434.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2400758-073/",
+      "price": 140,
+      "priceWithFee": 155.4,
+      "transactedAt": "2026-07-07 21:39:20",
+      "productCode": "871453018",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,1988年,年黎,黎巴,巴嫩,嫩纸,纸钞"
+    }
+  ]
+}

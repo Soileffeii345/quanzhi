@@ -1,0 +1,31 @@
+{
+  "coinName": "1993年熊猫7.776克精制金币",
+  "slug": "392da6e2",
+  "saleCount": 1,
+  "keywords": "金,银,币,1993年,4盎司,熊猫,年熊,猫盎,盎司,司金,金盎,司银,银精,精制,制双,双金,金属,属币,评级",
+  "priceStats": {
+    "low": 12000,
+    "high": 12000,
+    "avg": 12000,
+    "latest": 12000
+  },
+  "records": [
+    {
+      "coinName": "1993年熊猫1/4盎司金+1/8盎司银精制双金属币",
+      "normalizedBoxCode": "8755099005",
+      "displayBoxCode": "8755099-005",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-shuangjinshu/10350870.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8755099-005/",
+      "price": 12000,
+      "priceWithFee": 12420,
+      "transactedAt": "2026-06-18 21:14:10",
+      "productCode": "869588008",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,1993年,4盎司,熊猫,年熊,猫盎,盎司,司金,金盎,司银,银精,精制,制双,双金,金属,属币,评级"
+    }
+  ]
+}

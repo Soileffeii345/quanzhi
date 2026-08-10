@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2138818003",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2138818003",
+      "displayBoxCode": "2138818-003",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "第一版人民币种地500元",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/diyibanrenminbi/10421050.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2138818-003/",
+      "price": 3950,
+      "priceWithFee": 4345,
+      "transactedAt": "2026-07-25 21:34:10",
+      "productCode": "877229001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/877229001B.jpg",
+      "ocrConfidence": 28,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,第一,一版,版人,人民,民币,币种,种地,地元"
+    }
+  ]
+}

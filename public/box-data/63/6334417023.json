@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6334417023",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6334417023",
+      "displayBoxCode": "6334417-023",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2019年民国十八年孙像地球双旗壹圆30克银章",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/521040.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6334417-023/70/",
+      "price": 510,
+      "priceWithFee": null,
+      "transactedAt": "2025-12-15 18:22:56",
+      "productCode": "KH095222",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251215/large_sell_tl4blirwi9dotsx9.jpg",
+      "ocrConfidence": 42,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,章,2019年,30克,历史币,孙小头,小头,年民,民国,国十,十八,八年,年孙,孙像,像地,地球,球双,双旗,旗壹,壹圆,圆克,克银,银章"
+    }
+  ]
+}

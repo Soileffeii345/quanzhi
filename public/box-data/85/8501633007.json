@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8501633007",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8501633007",
+      "displayBoxCode": "8501633-007",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2021年5克第24届冬奥会第2组金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/470924.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8501633-007/",
+      "price": 7355,
+      "priceWithFee": null,
+      "transactedAt": "2025-03-30 17:52:11",
+      "productCode": "KH063147",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250329/large_sell_hol9wfcs0rf09ktt.jpg",
+      "ocrConfidence": 56,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2021年,5克,奥运,年克,克第,第届,届冬,冬奥,奥会,会第,第组,组金,金币"
+    }
+  ]
+}

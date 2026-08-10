@@ -1,0 +1,31 @@
+{
+  "coinName": "2013年1公斤铜币",
+  "slug": "1516b003",
+  "saleCount": 1,
+  "keywords": "银,铜,币,2013年,1公斤,年公,公斤,斤青,青铜,铜器,器第,第组,组银,银币",
+  "priceStats": {
+    "low": 21000,
+    "high": 21000,
+    "avg": 21000,
+    "latest": 21000
+  },
+  "records": [
+    {
+      "coinName": "2013年1公斤青铜器第2组银币",
+      "normalizedBoxCode": "8181600015",
+      "displayBoxCode": "8181600-015",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/526296.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8181600-015/",
+      "price": 21000,
+      "priceWithFee": null,
+      "transactedAt": "2025-12-30 18:59:47",
+      "productCode": "KH100688",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,铜,币,2013年,1公斤,年公,公斤,斤青,青铜,铜器,器第,第组,组银,银币"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4417162112",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4417162112",
+      "displayBoxCode": "4417162-112",
+      "gradingCompany": "NGC",
+      "grade": "PF 69",
+      "coinName": "1盎司 银币若干 X5",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/525186.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4417162-112/69/",
+      "price": 3155,
+      "priceWithFee": null,
+      "transactedAt": "2025-12-27 15:33:07",
+      "productCode": "KH099732.....99736",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251227/large_sell_2fprsq6lkvykxudb.jpg",
+      "ocrConfidence": 32,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1盎司,盎司,司银,银币,币若,若干"
+    }
+  ]
+}

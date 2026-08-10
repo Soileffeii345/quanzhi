@@ -1,0 +1,45 @@
+{
+  "ok": true,
+  "query": "8653882010",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8653882010",
+      "displayBoxCode": "8653882-010",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "coinName": "2025年中国京剧艺术流通纪念币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10410894.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8653882-010/69/",
+      "price": 160,
+      "priceWithFee": 172.8,
+      "transactedAt": "2026-07-22 19:01:45",
+      "productCode": "876571001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/26/870640006A.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2025年,戏曲,年中,中国,国京,京剧,剧艺,艺术,术流,流通,通纪,纪念,念币"
+    },
+    {
+      "normalizedBoxCode": "8653882010",
+      "displayBoxCode": "8653882-010",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "coinName": "2025年中国京剧艺术流通纪念币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10365342.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8653882-010/69/",
+      "price": 160,
+      "priceWithFee": 172.8,
+      "transactedAt": "2026-07-01 19:02:05",
+      "productCode": "870640006",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/26/870640006A.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2025年,戏曲,年中,中国,国京,京剧,剧艺,艺术,术流,流通,通纪,纪念,念币"
+    }
+  ]
+}

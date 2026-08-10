@@ -1,0 +1,31 @@
+{
+  "coinName": "2017年2盎司银币",
+  "slug": "3318f452",
+  "saleCount": 1,
+  "keywords": "银,章,2017年,2盎司,年盎,盎司,司中,中国,国古,古典,典园,园林,林水,水绘,绘园,园银,银章",
+  "priceStats": {
+    "low": 880,
+    "high": 880,
+    "avg": 880,
+    "latest": 880
+  },
+  "records": [
+    {
+      "coinName": "2017年2盎司中国古典园林水绘园银章",
+      "normalizedBoxCode": "4642971010",
+      "displayBoxCode": "4642971-010",
+      "gradingCompany": "NGC",
+      "grade": "PF69 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/489180.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4642971-010/69/",
+      "price": 880,
+      "priceWithFee": null,
+      "transactedAt": "2025-07-18 16:57:57",
+      "productCode": "AA573253",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,章,2017年,2盎司,年盎,盎司,司中,中国,国古,古典,典园,园林,林水,水绘,绘园,园银,银章"
+    }
+  ]
+}

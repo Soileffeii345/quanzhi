@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4421660010",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4421660010",
+      "displayBoxCode": "4421660-010",
+      "gradingCompany": "NGC",
+      "grade": "PF70 ULTRA CAMEO",
+      "coinName": "2016年8克大足石刻金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/470698.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4421660-010/70/",
+      "price": 6140,
+      "priceWithFee": null,
+      "transactedAt": "2025-04-03 09:30:31",
+      "productCode": "AA556896",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250328/large_sell_vlfmwaatawaxdkag.jpg",
+      "ocrConfidence": 37,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2016年,8克,年克,克大,大足,足石,石刻,刻金,金币"
+    }
+  ]
+}

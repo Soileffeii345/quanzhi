@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2240918042",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2240918042",
+      "displayBoxCode": "2240918-042",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2002年香港特别行政区港币拾圆",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/liantichao-jinianchao/10371472.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2240918-042/",
+      "price": 85,
+      "priceWithFee": 91.8,
+      "transactedAt": "2026-07-07 19:53:05",
+      "productCode": "871453056",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/26/871453056B.jpg",
+      "ocrConfidence": 29,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2002年,年香,香港,港特,特别,别行,行政,政区,区港,港币,币拾,拾圆,外国/特区"
+    }
+  ]
+}

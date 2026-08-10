@@ -1,0 +1,31 @@
+{
+  "coinName": "2023年15克金币",
+  "slug": "55b4a7fd",
+  "saleCount": 1,
+  "keywords": "金,币,2023年,15克,年克,克国,国家,家宝,宝藏,藏玉,玉龙,龙金,金币",
+  "priceStats": {
+    "low": 15200,
+    "high": 15200,
+    "avg": 15200,
+    "latest": 15200
+  },
+  "records": [
+    {
+      "coinName": "2023年15克国家宝藏玉龙金币",
+      "normalizedBoxCode": "8613984001",
+      "displayBoxCode": "8613984-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/515127.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8613984-001/69/",
+      "price": 15200,
+      "priceWithFee": null,
+      "transactedAt": "2025-11-29 02:17:08",
+      "productCode": "KH092151",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2023年,15克,年克,克国,国家,家宝,宝藏,藏玉,玉龙,龙金,金币"
+    }
+  ]
+}

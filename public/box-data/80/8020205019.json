@@ -1,0 +1,45 @@
+{
+  "ok": true,
+  "query": "8020205019",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8020205019",
+      "displayBoxCode": "8020205-019",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2013年中国银行港币伍佰圆",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/liantichao-jinianchao/10378151.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8020205-019/",
+      "price": 600,
+      "priceWithFee": 648,
+      "transactedAt": "2026-07-07 19:01:20",
+      "productCode": "872503001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/23/866952002B.jpg",
+      "ocrConfidence": 32,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2013年,年中,中国,国银,银行,行港,港币,币伍,伍佰,佰圆"
+    },
+    {
+      "normalizedBoxCode": "8020205019",
+      "displayBoxCode": "8020205-019",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2013年中国银行港币伍佰圆",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/liantichao-jinianchao/10356261.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8020205-019/",
+      "price": 600,
+      "priceWithFee": 648,
+      "transactedAt": "2026-06-23 19:03:25",
+      "productCode": "870170002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/23/866952002B.jpg",
+      "ocrConfidence": 32,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2013年,年中,中国,国银,银行,行港,港币,币伍,伍佰,佰圆"
+    }
+  ]
+}

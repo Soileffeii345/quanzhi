@@ -1,0 +1,31 @@
+{
+  "coinName": "2003年生肖1公斤精制银币",
+  "slug": "6873a55f",
+  "saleCount": 1,
+  "keywords": "银,币,2003年,1公斤,生肖,年癸,癸未,未羊,羊年,年生,肖公,公斤,斤精,精制,制银,银币,评级",
+  "priceStats": {
+    "low": 19600,
+    "high": 19600,
+    "avg": 19600,
+    "latest": 19600
+  },
+  "records": [
+    {
+      "coinName": "2003年癸未羊年生肖1公斤精制银币",
+      "normalizedBoxCode": "6414611017",
+      "displayBoxCode": "6414611-017",
+      "gradingCompany": "NGC",
+      "grade": "PF 68 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10405180.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6414611-017/68/",
+      "price": 19600,
+      "priceWithFee": 20286,
+      "transactedAt": "2026-07-16 20:16:45",
+      "productCode": "875611002",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2003年,1公斤,生肖,年癸,癸未,未羊,羊年,年生,肖公,公斤,斤精,精制,制银,银币,评级"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "coinName": "2010年京剧金银币",
+  "slug": "6e96c069",
+  "saleCount": 2,
+  "keywords": "金,银,币,2010年,戏曲,年京,京剧,剧脸,脸谱,谱第,第组,组彩,彩金,金银,银币",
+  "priceStats": {
+    "low": 5800,
+    "high": 5800,
+    "avg": 5800,
+    "latest": 5800
+  },
+  "records": [
+    {
+      "coinName": "2010年京剧脸谱第1组彩金银币",
+      "normalizedBoxCode": "4638914036",
+      "displayBoxCode": "4638914-036",
+      "gradingCompany": "NGC",
+      "grade": "PF70",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/454604.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4638914-036/70/",
+      "price": 5800,
+      "priceWithFee": null,
+      "transactedAt": "2024-11-22 20:57:33",
+      "productCode": "KH057599",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,2010年,戏曲,年京,京剧,剧脸,脸谱,谱第,第组,组彩,彩金,金银,银币"
+    },
+    {
+      "coinName": "2010年京剧脸谱第1组彩金银币",
+      "normalizedBoxCode": "4638946020",
+      "displayBoxCode": "4638946-020",
+      "gradingCompany": "NGC",
+      "grade": "PF70 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/454604.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4638946-020/70/",
+      "price": 5800,
+      "priceWithFee": null,
+      "transactedAt": "2024-11-22 20:57:33",
+      "productCode": "KH057599",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,2010年,戏曲,年京,京剧,剧脸,脸谱,谱第,第组,组彩,彩金,金银,银币"
+    }
+  ]
+}

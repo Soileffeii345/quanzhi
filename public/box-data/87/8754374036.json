@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8754374036",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8754374036",
+      "displayBoxCode": "8754374-036",
+      "gradingCompany": "NGC",
+      "grade": "MS 66",
+      "coinName": "1987年第6届运动会纪念币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/588752.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8754374-036/66/",
+      "price": 710,
+      "priceWithFee": null,
+      "transactedAt": "2026-06-12 21:33:35",
+      "productCode": "KH138338",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260609/large_sell_cjw0zygxonz4ns9x.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1987年,年第,第届,届运,运动,动会,会纪,纪念,念币"
+    }
+  ]
+}

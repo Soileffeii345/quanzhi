@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6738908010",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6738908010",
+      "displayBoxCode": "6738908-010",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "coinName": "1988年1/20盎司熊猫金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/494778.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6738908-010/69/",
+      "price": 1450,
+      "priceWithFee": null,
+      "transactedAt": "2025-08-26 16:59:53",
+      "productCode": "AA579287",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250817/large_sell_vlgehixr2yhayojh.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1988年,20盎司,熊猫,年盎,盎司,司熊,猫金,金币"
+    }
+  ]
+}

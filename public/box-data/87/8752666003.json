@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8752666003",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8752666003",
+      "displayBoxCode": "8752666-003",
+      "gradingCompany": "NGC",
+      "grade": "Ms70",
+      "coinName": "2025年中国龙31.104克普制银币（龙的奇迹智能卡）",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10360638.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8752666-003/70/",
+      "price": 1040,
+      "priceWithFee": 1076.4,
+      "transactedAt": "2026-06-22 21:04:40",
+      "productCode": "870432010",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/870432010A.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2025年,31.104克,年中,中国,国龙,龙克,克普,普制,制银,银币,币龙,龙的,的奇,奇迹,迹智,智能,能卡"
+    }
+  ]
+}

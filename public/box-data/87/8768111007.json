@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8768111007",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8768111007",
+      "displayBoxCode": "8768111-007",
+      "gradingCompany": "NGC",
+      "grade": "PF 68 ULTRA CAMEO",
+      "coinName": "1987年丁卯兔年生肖15克精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10350323.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8768111-007/68/",
+      "price": 2700,
+      "priceWithFee": 2794.5,
+      "transactedAt": "2026-06-18 20:04:10",
+      "productCode": "869323003",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/869323003A.jpg",
+      "ocrConfidence": 40,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1987年,15克,生肖,年丁,丁卯,卯兔,兔年,年生,肖克,克精,精制,制银,银币,评级"
+    }
+  ]
+}

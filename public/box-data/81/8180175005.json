@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8180175005",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8180175005",
+      "displayBoxCode": "8180175-005",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2026年生肖马彩金银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/525296.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8180175-005/70/",
+      "price": 5300,
+      "priceWithFee": null,
+      "transactedAt": "2025-12-27 22:41:48",
+      "productCode": "KH099846",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251227/large_sell_pwsocsux9cuolb9b.jpg",
+      "ocrConfidence": 43,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,2026年,生肖,年生,肖马,马彩,彩金,金银,银币"
+    }
+  ]
+}

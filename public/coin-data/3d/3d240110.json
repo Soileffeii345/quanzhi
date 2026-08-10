@@ -1,0 +1,65 @@
+{
+  "coinName": "2008年津巴布韦纸钞连号",
+  "slug": "3d240110",
+  "saleCount": 3,
+  "keywords": "钞,2008年,年津,津巴,巴布,布韦,韦纸,纸钞,钞连,连号,号二,二枚",
+  "priceStats": {
+    "low": 1020,
+    "high": 1060,
+    "avg": 1047,
+    "latest": 1060
+  },
+  "records": [
+    {
+      "coinName": "2008年津巴布韦纸钞连号二枚",
+      "normalizedBoxCode": "1100000000",
+      "displayBoxCode": "1100000-000",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10388185.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1100000-000/",
+      "price": 1060,
+      "priceWithFee": 1176.6,
+      "transactedAt": "2026-07-14 22:01:35",
+      "productCode": "872741002",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,2008年,年津,津巴,巴布,布韦,韦纸,纸钞,钞连,连号,号二,二枚"
+    },
+    {
+      "coinName": "2008年津巴布韦纸钞连号二枚",
+      "normalizedBoxCode": "2338553090",
+      "displayBoxCode": "2338553-090",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10388184.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2338553-090/",
+      "price": 1020,
+      "priceWithFee": 1132.2,
+      "transactedAt": "2026-07-14 21:48:20",
+      "productCode": "872741001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,2008年,年津,津巴,巴布,布韦,韦纸,纸钞,钞连,连号,号二,二枚"
+    },
+    {
+      "coinName": "2008年津巴布韦纸钞连号二枚",
+      "normalizedBoxCode": "2338553091",
+      "displayBoxCode": "2338553-091",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10388185.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2338553-091/",
+      "price": 1060,
+      "priceWithFee": 1176.6,
+      "transactedAt": "2026-07-14 22:01:35",
+      "productCode": "872741002",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,2008年,年津,津巴,巴布,布韦,韦纸,纸钞,钞连,连号,号二,二枚"
+    }
+  ]
+}

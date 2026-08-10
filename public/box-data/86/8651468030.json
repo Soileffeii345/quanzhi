@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8651468030",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8651468030",
+      "displayBoxCode": "8651468-030",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1994年中国精制硬币伍角",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10398193.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8651468-030/",
+      "price": 290,
+      "priceWithFee": 313.2,
+      "transactedAt": "2026-07-15 22:18:40",
+      "productCode": "874428003",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/874428003A.jpg",
+      "ocrConfidence": 29,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1994年,年中,中国,国精,精制,制硬,硬币,币伍,伍角,评级"
+    }
+  ]
+}

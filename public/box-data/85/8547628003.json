@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8547628003",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8547628003",
+      "displayBoxCode": "8547628-003",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1991年中国精制硬币壹圆",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10359817.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8547628-003/",
+      "price": 860,
+      "priceWithFee": 928.8,
+      "transactedAt": "2026-06-24 21:08:45",
+      "productCode": "869854003",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/869854003A.jpg",
+      "ocrConfidence": 32,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1991年,年中,中国,国精,精制,制硬,硬币,币壹,壹圆,评级"
+    }
+  ]
+}

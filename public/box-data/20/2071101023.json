@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2071101023",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2071101023",
+      "displayBoxCode": "2071101-023",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1996年1盎司航空工业45周年歼八银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/554698.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2071101-023/",
+      "price": 1000,
+      "priceWithFee": null,
+      "transactedAt": "2026-02-19 15:15:02",
+      "productCode": "AA622301",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260212/large_sell_ccgmn1etr0ot5o6p.jpg",
+      "ocrConfidence": 30,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1996年,1盎司,年盎,盎司,司航,航空,空工,工业,业周,周年,年歼,歼八,八银,银币"
+    }
+  ]
+}

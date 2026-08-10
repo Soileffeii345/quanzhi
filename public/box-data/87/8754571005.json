@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8754571005",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8754571005",
+      "displayBoxCode": "8754571-005",
+      "gradingCompany": "NGC",
+      "grade": "PF 66 ULTRA CAMEO",
+      "coinName": "1998年刘少奇诞辰100周年精制流通纪念币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10404586.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8754571-005/66/",
+      "price": 120,
+      "priceWithFee": 129.6,
+      "transactedAt": "2026-07-15 20:39:30",
+      "productCode": "875541002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/875541002A.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1998年,年刘,刘少,少奇,奇诞,诞辰,辰周,周年,年精,精制,制流,流通,通纪,纪念,念币,评级"
+    }
+  ]
+}

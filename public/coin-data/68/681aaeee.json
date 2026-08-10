@@ -1,0 +1,65 @@
+{
+  "coinName": "2020年生肖精制金银币",
+  "slug": "681aaeee",
+  "saleCount": 3,
+  "keywords": "金,银,币,2020年,3克,生肖,年庚,庚子,子鼠,鼠年,年生,肖精,精制,制金,金银,银币,币二,二枚,枚一,一套,套含,含克,克金,金克,克银,评级,制彩,彩金",
+  "priceStats": {
+    "low": 4950,
+    "high": 5500,
+    "avg": 5150,
+    "latest": 5000
+  },
+  "records": [
+    {
+      "coinName": "2020年庚子鼠年生肖精制金银币二枚一套（含3克金、30克银）",
+      "normalizedBoxCode": "5802576008",
+      "displayBoxCode": "5802576-008",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-jin/10398815.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/5802576-008/70/",
+      "price": 5000,
+      "priceWithFee": 5175,
+      "transactedAt": "2026-07-16 20:59:15",
+      "productCode": "874356005",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,2020年,3克,生肖,年庚,庚子,子鼠,鼠年,年生,肖精,精制,制金,金银,银币,币二,二枚,枚一,一套,套含,含克,克金,金克,克银,评级"
+    },
+    {
+      "coinName": "2020年庚子鼠年生肖精制彩金银币二枚一套（含3克金、30克银）",
+      "normalizedBoxCode": "5813426049",
+      "displayBoxCode": "5813426-049",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-jin/10398835.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/5813426-049/70/",
+      "price": 5500,
+      "priceWithFee": 5692.5,
+      "transactedAt": "2026-07-23 20:40:05",
+      "productCode": "874356025",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,2020年,3克,生肖,年庚,庚子,子鼠,鼠年,年生,肖精,精制,制彩,彩金,金银,银币,币二,二枚,枚一,一套,套含,含克,克金,金克,克银,评级"
+    },
+    {
+      "coinName": "2020年庚子鼠年生肖精制彩金银币二枚一套（含3克金、30克银）",
+      "normalizedBoxCode": "5813426050",
+      "displayBoxCode": "5813426-050",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-jin/10398814.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/5813426-050/70/",
+      "price": 4950,
+      "priceWithFee": 5123.25,
+      "transactedAt": "2026-07-16 21:19:15",
+      "productCode": "874356004",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,2020年,3克,生肖,年庚,庚子,子鼠,鼠年,年生,肖精,精制,制彩,彩金,金银,银币,币二,二枚,枚一,一套,套含,含克,克金,金克,克银,评级"
+    }
+  ]
+}

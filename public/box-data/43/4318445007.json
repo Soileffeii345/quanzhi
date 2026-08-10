@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4318445007",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4318445007",
+      "displayBoxCode": "4318445-007",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2015年1/3盎司扇形生肖羊金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/486586.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4318445-007/",
+      "price": 8175,
+      "priceWithFee": null,
+      "transactedAt": "2025-07-02 17:40:46",
+      "productCode": "AA570997",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250702/large_sell_cdy7zi4gosrejvd5.jpg",
+      "ocrConfidence": 39,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2015年,3盎司,生肖,年盎,盎司,司扇,扇形,形生,肖羊,羊金,金币"
+    }
+  ]
+}

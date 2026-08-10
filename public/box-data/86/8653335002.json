@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8653335002",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8653335002",
+      "displayBoxCode": "8653335-002",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2026年丙午马年生肖15克精制铂金币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-bojin/10404458.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8653335-002/",
+      "price": 7700,
+      "priceWithFee": 7969.5,
+      "transactedAt": "2026-07-18 21:06:40",
+      "productCode": "875639001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/875639001A.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,贵金属,币,2026年,15克,生肖,年丙,丙午,午马,马年,年生,肖克,克精,精制,制铂,铂金,金币,评级"
+    }
+  ]
+}

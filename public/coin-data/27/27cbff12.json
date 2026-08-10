@@ -1,0 +1,31 @@
+{
+  "coinName": "民国元年军政府造四川银币五角银元",
+  "slug": "27cbff12",
+  "saleCount": 1,
+  "keywords": "银,币,历史币,四川,川造,民国,国元,元年,年军,军政,政府,府造,造四,川银,银币,币五,五角,角银,银元",
+  "priceStats": {
+    "low": 1620,
+    "high": 1620,
+    "avg": 1620,
+    "latest": 1620
+  },
+  "records": [
+    {
+      "coinName": "民国元年军政府造四川银币五角银元",
+      "normalizedBoxCode": "90206262",
+      "displayBoxCode": "90206262",
+      "gradingCompany": "PCGS",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguojindaijizhibi/10355547.shtml",
+      "officialCertUrl": "https://cn.pcgs.com/cert/90206262",
+      "price": 1620,
+      "priceWithFee": 1749.6,
+      "transactedAt": "2026-07-13 19:46:05",
+      "productCode": "870021001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,历史币,四川,川造,民国,国元,元年,年军,军政,政府,府造,造四,川银,银币,币五,五角,角银,银元"
+    }
+  ]
+}

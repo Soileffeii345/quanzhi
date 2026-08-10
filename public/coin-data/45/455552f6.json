@@ -1,0 +1,31 @@
+{
+  "coinName": "1992年冬奥27克银币",
+  "slug": "455552f6",
+  "saleCount": 1,
+  "keywords": "银,币,1992年,27克,奥运,年克,克第,第届,届冬,冬奥,奥会,会高,高台,台滑,滑雪,雪银,银币",
+  "priceStats": {
+    "low": 750,
+    "high": 750,
+    "avg": 750,
+    "latest": 750
+  },
+  "records": [
+    {
+      "coinName": "1992年27克第17届冬奥会高台滑雪银币",
+      "normalizedBoxCode": "8555801041",
+      "displayBoxCode": "8555801-041",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/576747.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8555801-041/",
+      "price": 750,
+      "priceWithFee": null,
+      "transactedAt": "2026-05-04 16:45:32",
+      "productCode": "KH132882",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1992年,27克,奥运,年克,克第,第届,届冬,冬奥,奥会,会高,高台,台滑,滑雪,雪银,银币"
+    }
+  ]
+}

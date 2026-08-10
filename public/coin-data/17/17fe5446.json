@@ -1,0 +1,31 @@
+{
+  "coinName": "2017年16克加厚银币",
+  "slug": "17fe5446",
+  "saleCount": 1,
+  "keywords": "银,币,章,2017年,16克,年克,克世,世界,界钱,钱币,币博,博览,览会,会柏,柏林,林加,加厚,厚银,银章",
+  "priceStats": {
+    "low": 1250,
+    "high": 1250,
+    "avg": 1250,
+    "latest": 1250
+  },
+  "records": [
+    {
+      "coinName": "2017年16克世界钱币博览会柏林加厚银章",
+      "normalizedBoxCode": "4532690002",
+      "displayBoxCode": "4532690-002",
+      "gradingCompany": "NGC",
+      "grade": "PF70 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/579542.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4532690-002/70/",
+      "price": 1250,
+      "priceWithFee": null,
+      "transactedAt": "2026-05-19 21:12:46",
+      "productCode": "KH134254",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,章,2017年,16克,年克,克世,世界,界钱,钱币,币博,博览,览会,会柏,柏林,林加,加厚,厚银,银章"
+    }
+  ]
+}

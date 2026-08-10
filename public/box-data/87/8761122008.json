@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8761122008",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8761122008",
+      "displayBoxCode": "8761122-008",
+      "gradingCompany": "NGC",
+      "grade": "PF 69",
+      "coinName": "2009年中国古典文学名著《水浒传》第（1）组-及时雨宋江1/3盎司精制彩金币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10363188.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8761122-008/69/",
+      "price": 9300,
+      "priceWithFee": 9625.5,
+      "transactedAt": "2026-07-02 21:00:50",
+      "productCode": "870614017",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/870614017A.jpg",
+      "ocrConfidence": 44,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2009年,3盎司,年中,中国,国古,古典,典文,文学,学名,名著,著水,水浒,浒传,传第,第组,组及,及时,时雨,雨宋,宋江,江盎,盎司,司精,精制,制彩,彩金,金币,评级"
+    }
+  ]
+}

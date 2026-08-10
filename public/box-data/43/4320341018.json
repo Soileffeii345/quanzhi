@@ -1,0 +1,45 @@
+{
+  "ok": true,
+  "query": "4320341018",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4320341018",
+      "displayBoxCode": "4320341-018",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2011年1/4盎司第26届大学生夏运会彩金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/472628.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4320341-018/70/",
+      "price": 6080,
+      "priceWithFee": null,
+      "transactedAt": "2025-04-11 13:16:27",
+      "productCode": "KH064126",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250411/large_sell_jnyocabyo2gebmvj.jpg",
+      "ocrConfidence": 54,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2011年,4盎司,年盎,盎司,司第,第届,届大,大学,学生,生夏,夏运,运会,会彩,彩金,金币"
+    },
+    {
+      "normalizedBoxCode": "4320341018",
+      "displayBoxCode": "4320341-018",
+      "gradingCompany": "NGC",
+      "grade": "PF70 ULTRA CAMEO",
+      "coinName": "2011年1/4盎司第26届大学生夏运会彩金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/464397.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4320341-018/70/",
+      "price": 5460,
+      "priceWithFee": null,
+      "transactedAt": "2025-02-19 19:25:03",
+      "productCode": "AA550990",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250214/large_sell_cxzbvvpszcrru3pw.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2011年,4盎司,年盎,盎司,司第,第届,届大,大学,学生,生夏,夏运,运会,会彩,彩金,金币"
+    }
+  ]
+}

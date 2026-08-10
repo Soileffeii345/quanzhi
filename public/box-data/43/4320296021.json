@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4320296021",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4320296021",
+      "displayBoxCode": "4320296-021",
+      "gradingCompany": "NGC",
+      "grade": "MS 65",
+      "coinName": "1997年1/20盎司观音金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/469151.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4320296-021/65/",
+      "price": 1100,
+      "priceWithFee": null,
+      "transactedAt": "2025-03-19 21:08:44",
+      "productCode": "KH061638",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250319/large_sell_u0e08q2sievuyma1.jpg",
+      "ocrConfidence": 49,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1997年,20盎司,宗教,年盎,盎司,司观,观音,音金,金币"
+    }
+  ]
+}

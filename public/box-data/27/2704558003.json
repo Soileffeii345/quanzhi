@@ -1,0 +1,45 @@
+{
+  "ok": true,
+  "query": "2704558003",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2704558003",
+      "displayBoxCode": "2704558-003",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1988年1/4盎司珍稀动物第1组金丝猴金币(低年版)",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/498158.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2704558-003/",
+      "price": 6465,
+      "priceWithFee": null,
+      "transactedAt": "2025-09-07 10:28:59",
+      "productCode": "KH082587",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250903/large_sell_qtznnmsvzqe5ygeo.jpg",
+      "ocrConfidence": 32,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1988年,4盎司,年盎,盎司,司珍,珍稀,稀动,动物,物第,第组,组金,金丝,丝猴,猴金,金币,币低,低年,年版"
+    },
+    {
+      "normalizedBoxCode": "2704558003",
+      "displayBoxCode": "2704558-003",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1988年1/4盎司珍稀动物第1组金丝猴金币(低年版)",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/486676.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2704558-003/",
+      "price": 6040,
+      "priceWithFee": null,
+      "transactedAt": "2025-07-03 20:55:46",
+      "productCode": "AA570968",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250702/large_sell_rtb2jvje4utkmgef.jpg",
+      "ocrConfidence": 29,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1988年,4盎司,年盎,盎司,司珍,珍稀,稀动,动物,物第,第组,组金,金丝,丝猴,猴金,金币,币低,低年,年版"
+    }
+  ]
+}

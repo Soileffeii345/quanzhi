@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "3855865043",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "3855865043",
+      "displayBoxCode": "3855865-043",
+      "gradingCompany": "NGC",
+      "grade": "Pr 11",
+      "coinName": "2008年美国亚利桑那州银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/476073.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3855865-043/11/",
+      "price": 260,
+      "priceWithFee": null,
+      "transactedAt": "2025-05-01 07:14:32",
+      "productCode": "AA561044",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250430/large_sell_3jemorcjtm30ditf.jpg",
+      "ocrConfidence": 30,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2008年,年美,美国,国亚,亚利,利桑,桑那,那州,州银,银币,外国/特区"
+    }
+  ]
+}

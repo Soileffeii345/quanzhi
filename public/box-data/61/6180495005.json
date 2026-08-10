@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6180495005",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6180495005",
+      "displayBoxCode": "6180495-005",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "coinName": "1994年熊猫1盎司普制银币（大字版）",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-jiuyin/10410200.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6180495-005/69/",
+      "price": 1080,
+      "priceWithFee": 1117.8,
+      "transactedAt": "2026-07-20 20:48:40",
+      "productCode": "876281013",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/876281013A.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1994年,1盎司,熊猫,年熊,猫盎,盎司,司普,普制,制银,银币,币大,大字,字版"
+    }
+  ]
+}

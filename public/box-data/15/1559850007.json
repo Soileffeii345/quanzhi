@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "1559850007",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "1559850007",
+      "displayBoxCode": "1559850-007",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2007年美国詹姆斯敦400周年精制银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/447828.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1559850-007/",
+      "price": 450,
+      "priceWithFee": null,
+      "transactedAt": "2024-09-11 13:42:00",
+      "productCode": "AA500054",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20240910/large_sell_r1pcvll7m1v4vjeo.jpg",
+      "ocrConfidence": 28,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2007年,年美,美国,国詹,詹姆,姆斯,斯敦,敦周,周年,年精,精制,制银,银币,评级,外国/特区"
+    }
+  ]
+}

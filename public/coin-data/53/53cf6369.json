@@ -1,0 +1,31 @@
+{
+  "coinName": "1961年中国硬币贰分",
+  "slug": "53cf6369",
+  "saleCount": 1,
+  "keywords": "币,1961年,年中,中国,国硬,硬币,币贰,贰分",
+  "priceStats": {
+    "low": 190,
+    "high": 190,
+    "avg": 190,
+    "latest": 190
+  },
+  "records": [
+    {
+      "coinName": "1961年中国硬币贰分",
+      "normalizedBoxCode": "8757122007",
+      "displayBoxCode": "8757122-007",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10373702.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8757122-007/",
+      "price": 190,
+      "priceWithFee": 205.2,
+      "transactedAt": "2026-07-01 21:17:05",
+      "productCode": "870996004",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1961年,年中,中国,国硬,硬币,币贰,贰分"
+    }
+  ]
+}

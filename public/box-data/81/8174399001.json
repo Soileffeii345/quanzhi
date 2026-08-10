@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8174399001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8174399001",
+      "displayBoxCode": "8174399-001",
+      "gradingCompany": "NGC",
+      "grade": "PF69",
+      "coinName": "1985年1/3盎司历史人物第2组孔子金币(小字版)",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/501957.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8174399-001/69/",
+      "price": 8765,
+      "priceWithFee": null,
+      "transactedAt": "2025-09-22 21:58:53",
+      "productCode": "KH084591",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250922/large_sell_hkfq4iotsim2nmvy.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1985年,3盎司,年盎,盎司,司历,历史,史人,人物,物第,第组,组孔,孔子,子金,金币,币小,小字,字版"
+    }
+  ]
+}

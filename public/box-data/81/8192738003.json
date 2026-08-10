@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8192738003",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8192738003",
+      "displayBoxCode": "8192738-003",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2017年150克建军90周年银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/449776.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8192738-003/69/",
+      "price": 2500,
+      "priceWithFee": null,
+      "transactedAt": "2024-10-13 10:02:44",
+      "productCode": "KH057105",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20240927/large_sell_sbik4mha935l9ffg.jpg",
+      "ocrConfidence": 39,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2017年,150克,年克,克建,建军,军周,周年,年银,银币"
+    }
+  ]
+}

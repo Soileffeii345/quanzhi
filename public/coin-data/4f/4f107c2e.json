@@ -1,0 +1,31 @@
+{
+  "coinName": "2022年吉祥文化3克精制金币",
+  "slug": "4f107c2e",
+  "saleCount": 1,
+  "keywords": "金,币,2022年,3克,吉祥文化,年吉,吉祥,祥文,文化,化花,花开,开富,富贵,贵克,克精,精制,制金,金币,评级",
+  "priceStats": {
+    "low": 3550,
+    "high": 3550,
+    "avg": 3550,
+    "latest": 3550
+  },
+  "records": [
+    {
+      "coinName": "2022年吉祥文化-花开富贵3克精制金币",
+      "normalizedBoxCode": "8649572003",
+      "displayBoxCode": "8649572-003",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10379264.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8649572-003/70/",
+      "price": 3550,
+      "priceWithFee": 3674.25,
+      "transactedAt": "2026-07-04 20:55:05",
+      "productCode": "872231007",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2022年,3克,吉祥文化,年吉,吉祥,祥文,文化,化花,花开,开富,富贵,贵克,克精,精制,制金,金币,评级"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4421766005",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4421766005",
+      "displayBoxCode": "4421766-005",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2016年150克汤显祖银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/558901.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4421766-005/70/",
+      "price": 9000,
+      "priceWithFee": null,
+      "transactedAt": "2026-04-24 21:09:35",
+      "productCode": "DB202925",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260305/large_sell_38xagjjgho1dntjs.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2016年,150克,年克,克汤,汤显,显祖,祖银,银币"
+    }
+  ]
+}

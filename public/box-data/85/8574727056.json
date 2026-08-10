@@ -1,0 +1,45 @@
+{
+  "ok": true,
+  "query": "8574727056",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8574727056",
+      "displayBoxCode": "8574727-056",
+      "gradingCompany": "NGC",
+      "grade": "PF 68 ULTRA CAMEO",
+      "coinName": "2013年和字书法精制流通纪念币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10387994.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8574727-056/68/",
+      "price": 90,
+      "priceWithFee": 97.2,
+      "transactedAt": "2026-07-08 19:12:05",
+      "productCode": "873773002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/869127013A.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2013年,书法,年和,和字,字书,法精,精制,制流,流通,通纪,纪念,念币,评级"
+    },
+    {
+      "normalizedBoxCode": "8574727056",
+      "displayBoxCode": "8574727-056",
+      "gradingCompany": "NGC",
+      "grade": "PF 68 ULTRA CAMEO",
+      "coinName": "2013年和字书法精制流通纪念币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10355206.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8574727-056/68/",
+      "price": 100,
+      "priceWithFee": 108,
+      "transactedAt": "2026-06-24 20:12:45",
+      "productCode": "869127013",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/869127013A.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2013年,书法,年和,和字,字书,法精,精制,制流,流通,通纪,纪念,念币,评级"
+    }
+  ]
+}

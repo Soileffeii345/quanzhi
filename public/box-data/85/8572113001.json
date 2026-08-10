@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8572113001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8572113001",
+      "displayBoxCode": "8572113-001",
+      "gradingCompany": "NGC",
+      "grade": "PF70 ULTRA CAMEO",
+      "coinName": "2025年20克吉祥文化瑞气盈门金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/492023.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8572113-001/70/",
+      "price": 21600,
+      "priceWithFee": null,
+      "transactedAt": "2025-08-04 19:06:12",
+      "productCode": "AA575987",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250801/large_sell_nptldun04xp8viml.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2025年,20克,吉祥文化,年克,克吉,吉祥,祥文,文化,化瑞,瑞气,气盈,盈门,门金,金币"
+    }
+  ]
+}

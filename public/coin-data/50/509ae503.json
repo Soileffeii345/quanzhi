@@ -1,0 +1,82 @@
+{
+  "coinName": "2008年奥运会3盎司金币",
+  "slug": "509ae503",
+  "saleCount": 4,
+  "keywords": "金,币,2008年,3盎司,奥运,年盎,盎司,司第,第届,届奥,运会,会第,第组,组蹴,蹴鞠,鞠金,金币,组金",
+  "priceStats": {
+    "low": 12730,
+    "high": 23130,
+    "avg": 17201,
+    "latest": 12730
+  },
+  "records": [
+    {
+      "coinName": "2008年1/3盎司第29届奥运会第3组蹴鞠金币",
+      "normalizedBoxCode": "4315078004",
+      "displayBoxCode": "4315078-004",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/557842.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4315078-004/70/",
+      "price": 12730,
+      "priceWithFee": null,
+      "transactedAt": "2026-03-02 18:09:50",
+      "productCode": "KH121933",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2008年,3盎司,奥运,年盎,盎司,司第,第届,届奥,运会,会第,第组,组蹴,蹴鞠,鞠金,金币"
+    },
+    {
+      "coinName": "2008年1/3盎司第29届奥运会第3组金币",
+      "normalizedBoxCode": "4321280008",
+      "displayBoxCode": "4321280-008",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/486621.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4321280-008/",
+      "price": 16435,
+      "priceWithFee": null,
+      "transactedAt": "2025-07-03 14:36:43",
+      "productCode": "AA571006.07",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2008年,3盎司,奥运,年盎,盎司,司第,第届,届奥,运会,会第,第组,组金,金币"
+    },
+    {
+      "coinName": "2008年1/3盎司第29届奥运会第3组金币",
+      "normalizedBoxCode": "4379714022",
+      "displayBoxCode": "4379714-022",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/486667.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4379714-022/70/",
+      "price": 16510,
+      "priceWithFee": null,
+      "transactedAt": "2025-07-02 20:04:01",
+      "productCode": "AA570963.64",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2008年,3盎司,奥运,年盎,盎司,司第,第届,届奥,运会,会第,第组,组金,金币"
+    },
+    {
+      "coinName": "2008年1/3盎司第29届奥运会第3组金币",
+      "normalizedBoxCode": "4379714024",
+      "displayBoxCode": "4379714-024",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/503746.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4379714-024/70/",
+      "price": 23130,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-21 10:42:14",
+      "productCode": "KH109902",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2008年,3盎司,奥运,年盎,盎司,司第,第届,届奥,运会,会第,第组,组金,金币"
+    }
+  ]
+}

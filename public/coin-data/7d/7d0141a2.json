@@ -1,0 +1,65 @@
+{
+  "coinName": "2002年15.552克精制金币",
+  "slug": "7d0141a2",
+  "saleCount": 3,
+  "keywords": "金,币,2002年,2盎司,年中,中国,国石,石窟,窟艺,艺术,术龙,龙门,门石,窟盎,盎司,司精,精制,制金,金币,评级,国古,古典,典文,文学,学名,名著,著红,红楼,楼梦,梦第,第组,组湘,湘云,云醉,醉眠,眠盎,司八,八边,边形,形精,制彩,彩金",
+  "priceStats": {
+    "low": 15200,
+    "high": 24000,
+    "avg": 20067,
+    "latest": 21000
+  },
+  "records": [
+    {
+      "coinName": "2002年中国石窟艺术-龙门石窟1/2盎司精制金币",
+      "normalizedBoxCode": "5801870001",
+      "displayBoxCode": "5801870-001",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10417723.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/5801870-001/",
+      "price": 21000,
+      "priceWithFee": 21735,
+      "transactedAt": "2026-07-23 21:00:55",
+      "productCode": "877176004",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2002年,2盎司,年中,中国,国石,石窟,窟艺,艺术,术龙,龙门,门石,窟盎,盎司,司精,精制,制金,金币,评级"
+    },
+    {
+      "coinName": "2002年中国古典文学名著《红楼梦》第（2）组-湘云醉眠1/2盎司八边形精制彩金币",
+      "normalizedBoxCode": "8192053085",
+      "displayBoxCode": "8192053-085",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10386679.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8192053-085/69/",
+      "price": 15200,
+      "priceWithFee": 15732,
+      "transactedAt": "2026-07-09 21:37:25",
+      "productCode": "873412002",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2002年,2盎司,年中,中国,国古,古典,典文,文学,学名,名著,著红,红楼,楼梦,梦第,第组,组湘,湘云,云醉,醉眠,眠盎,盎司,司八,八边,边形,形精,精制,制彩,彩金,金币,评级"
+    },
+    {
+      "coinName": "2002年中国石窟艺术-龙门石窟1/2盎司精制金币",
+      "normalizedBoxCode": "8607606005",
+      "displayBoxCode": "8607606-005",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10359983.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8607606-005/69/",
+      "price": 24000,
+      "priceWithFee": 24840,
+      "transactedAt": "2026-06-25 20:27:35",
+      "productCode": "869598006",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2002年,2盎司,年中,中国,国石,石窟,窟艺,艺术,术龙,龙门,门石,窟盎,盎司,司精,精制,制金,金币,评级"
+    }
+  ]
+}

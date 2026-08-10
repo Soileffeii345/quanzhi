@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2400761066",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2400761066",
+      "displayBoxCode": "2400761-066",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "日本银行券",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10371406.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2400761-066/",
+      "price": 140,
+      "priceWithFee": 155.4,
+      "transactedAt": "2026-07-07 21:36:35",
+      "productCode": "871451009",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/26/871451009B.jpg",
+      "ocrConfidence": 23,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,日本,本银,银行,行券,外国/特区"
+    }
+  ]
+}

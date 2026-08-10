@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4638279067",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4638279067",
+      "displayBoxCode": "4638279-067",
+      "gradingCompany": "NGC",
+      "grade": "PF 67 ULTRA CAMEO",
+      "coinName": "2007年5盎司熊猫银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/550017.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4638279-067/67/",
+      "price": 5000,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-31 00:10:21",
+      "productCode": "DB202479",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260129/large_sell_sdaqscacrnkcsrpw.jpg",
+      "ocrConfidence": 32,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2007年,5盎司,熊猫,年盎,盎司,司熊,猫银,银币"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4288513004",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4288513004",
+      "displayBoxCode": "4288513-004",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2015年1/4盎司新疆自治区成立60周年金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/504329.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4288513-004/69/",
+      "price": 7125,
+      "priceWithFee": null,
+      "transactedAt": "2025-10-09 22:39:31",
+      "productCode": "KH086429",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251009/large_sell_vvdvie7odap2lko1.jpg",
+      "ocrConfidence": 42,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2015年,4盎司,新疆版,年盎,盎司,司新,新疆,疆自,自治,治区,区成,成立,立周,周年,年金,金币"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2062552011",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2062552011",
+      "displayBoxCode": "2062552-011",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "第四套/第四版人民币1980年版2元二枚",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/disibanrenminbi/10377176.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2062552-011/",
+      "price": 180,
+      "priceWithFee": 194.4,
+      "transactedAt": "2026-07-07 19:36:35",
+      "productCode": "871837001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/26/871837001B.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1980年,第四,四套,套第,四版,版人,人民,民币,币年,年版,版元,元二,二枚"
+    }
+  ]
+}

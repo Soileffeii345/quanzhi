@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4287501001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4287501001",
+      "displayBoxCode": "4287501-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2012年中国青铜器第（1）组-商·兽面纹斝1公斤精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10396743.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4287501-001/69/",
+      "price": 18000,
+      "priceWithFee": 18630,
+      "transactedAt": "2026-07-16 20:05:55",
+      "productCode": "874851010",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/874851010A.jpg",
+      "ocrConfidence": 44,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,铜,币,2012年,1公斤,年中,中国,国青,青铜,铜器,器第,第组,组商,商兽,兽面,面纹,纹斝,斝公,公斤,斤精,精制,制银,银币,评级"
+    }
+  ]
+}

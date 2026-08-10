@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4569494401",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4569494401",
+      "displayBoxCode": "4569494-401",
+      "gradingCompany": "NGC",
+      "grade": "Ms 70",
+      "coinName": "2018年30克熊猫银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/480017.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4569494-401/70/",
+      "price": 2500,
+      "priceWithFee": null,
+      "transactedAt": "2025-06-04 15:52:52",
+      "productCode": "KH068155",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250527/large_sell_wqsmcjtmuv90axs5.jpg",
+      "ocrConfidence": 40,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2018年,30克,熊猫,年克,克熊,猫银,银币"
+    }
+  ]
+}

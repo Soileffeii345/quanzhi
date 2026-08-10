@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6180620020",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6180620020",
+      "displayBoxCode": "6180620-020",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1998年1/10盎司大唐镇库金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/504918.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6180620-020/69/",
+      "price": 3500,
+      "priceWithFee": null,
+      "transactedAt": "2025-10-17 20:17:47",
+      "productCode": "KH087051",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251012/large_sell_tbirx7brzonebflf.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1998年,10盎司,年盎,盎司,司大,大唐,唐镇,镇库,库金,金币"
+    }
+  ]
+}

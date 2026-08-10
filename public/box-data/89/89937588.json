@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "89937588",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "89937588",
+      "displayBoxCode": "89937588",
+      "gradingCompany": "PCGS",
+      "grade": "待复核",
+      "coinName": "民国八年袁像壹圆银元",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguojindaijizhibi/10373051.shtml",
+      "officialCertUrl": "https://cn.pcgs.com/cert/89937588",
+      "price": 7700,
+      "priceWithFee": 8316,
+      "transactedAt": "2026-07-20 19:44:05",
+      "productCode": "871007002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/26/871007002A.jpg",
+      "ocrConfidence": 30,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,袁大头,大头,袁头,民国,国八,八年,年袁,袁像,像壹,壹圆,圆银,银元"
+    }
+  ]
+}

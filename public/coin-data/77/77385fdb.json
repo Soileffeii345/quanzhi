@@ -1,0 +1,31 @@
+{
+  "coinName": "2010年生肖3.11克精制金币",
+  "slug": "77385fdb",
+  "saleCount": 1,
+  "keywords": "金,币,2010年,10盎司,生肖,年庚,庚寅,寅虎,虎年,年生,肖盎,盎司,司精,精制,制彩,彩金,金币,评级",
+  "priceStats": {
+    "low": 3600,
+    "high": 3600,
+    "avg": 3600,
+    "latest": 3600
+  },
+  "records": [
+    {
+      "coinName": "2010年庚寅虎年生肖1/10盎司精制彩金币",
+      "normalizedBoxCode": "4415854050",
+      "displayBoxCode": "4415854-050",
+      "gradingCompany": "NGC",
+      "grade": "PF70 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-jin/10390872.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4415854-050/70/",
+      "price": 3600,
+      "priceWithFee": 3726,
+      "transactedAt": "2026-07-09 21:42:05",
+      "productCode": "873714015",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2010年,10盎司,生肖,年庚,庚寅,寅虎,虎年,年生,肖盎,盎司,司精,精制,制彩,彩金,金币,评级"
+    }
+  ]
+}

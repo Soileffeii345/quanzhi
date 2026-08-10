@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8817177008",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8817177008",
+      "displayBoxCode": "8817177-008",
+      "gradingCompany": "NGC",
+      "grade": "PF 68 ULTRA CAMEO",
+      "coinName": "1998年桂林山水1/2盎司长方形精制金币四枚一套",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10358626.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8817177-008/68/",
+      "price": 82000,
+      "priceWithFee": 84870,
+      "transactedAt": "2026-06-25 21:16:05",
+      "productCode": "870078001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/870078001A.jpg",
+      "ocrConfidence": 41,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1998年,2盎司,年桂,桂林,林山,山水,水盎,盎司,司长,长方,方形,形精,精制,制金,金币,币四,四枚,枚一,一套,评级"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "ok": true,
+  "query": "2805708017",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2805708017",
+      "displayBoxCode": "2805708-017",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1/10盎司观音幻彩金币若干 X4",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/534266.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2805708-017/69/",
+      "price": 17400,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-26 14:20:53",
+      "productCode": "AA601480.81.82.83A",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251209/large_sell_gxfbd7p3qbm6ayxd.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,10盎司,宗教,盎司,司观,观音,音幻,幻彩,彩金,金币,币若,若干"
+    },
+    {
+      "normalizedBoxCode": "2805708017",
+      "displayBoxCode": "2805708-017",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1/10盎司观音幻彩金币若干 X4",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/518817.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2805708-017/69/",
+      "price": 14800,
+      "priceWithFee": null,
+      "transactedAt": "2025-12-27 07:27:49",
+      "productCode": "AA601480.81.82.83",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251209/large_sell_gxfbd7p3qbm6ayxd.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,10盎司,宗教,盎司,司观,观音,音幻,幻彩,彩金,金币,币若,若干"
+    }
+  ]
+}

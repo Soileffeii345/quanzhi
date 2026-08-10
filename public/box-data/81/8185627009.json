@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8185627009",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8185627009",
+      "displayBoxCode": "8185627-009",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2011年1盎司京剧脸谱第2组鲁智深彩银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/526017.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8185627-009/70/",
+      "price": 900,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-25 20:27:13",
+      "productCode": "AA606196",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251230/large_sell_lwbdn89tr7pi81jr.jpg",
+      "ocrConfidence": 39,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2011年,1盎司,戏曲,年盎,盎司,司京,京剧,剧脸,脸谱,谱第,第组,组鲁,鲁智,智深,深彩,彩银,银币"
+    }
+  ]
+}

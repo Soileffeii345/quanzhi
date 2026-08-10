@@ -1,0 +1,45 @@
+{
+  "ok": true,
+  "query": "4402654051",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4402654051",
+      "displayBoxCode": "4402654-051",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2012年1/4盎司青铜器第1组金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/507241.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4402654-051/70/",
+      "price": 7500,
+      "priceWithFee": null,
+      "transactedAt": "2025-11-03 22:08:36",
+      "productCode": "AA589894A",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251012/large_sell_86rvskligehpcb7k.jpg",
+      "ocrConfidence": 29,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,铜,币,2012年,4盎司,年盎,盎司,司青,青铜,铜器,器第,第组,组金,金币"
+    },
+    {
+      "normalizedBoxCode": "4402654051",
+      "displayBoxCode": "4402654-051",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2012年1/4盎司青铜器第1组金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/505062.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4402654-051/70/",
+      "price": 7600,
+      "priceWithFee": null,
+      "transactedAt": "2025-10-17 06:53:28",
+      "productCode": "AA589894",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251012/large_sell_86rvskligehpcb7k.jpg",
+      "ocrConfidence": 29,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,铜,币,2012年,4盎司,年盎,盎司,司青,青铜,铜器,器第,第组,组金,金币"
+    }
+  ]
+}

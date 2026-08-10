@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8186569006",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8186569006",
+      "displayBoxCode": "8186569-006",
+      "gradingCompany": "NGC",
+      "grade": "MS 70",
+      "coinName": "2024年喀麦隆20克悟空仿古银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/512030.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8186569-006/70/",
+      "price": 1000,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-27 10:32:02",
+      "productCode": "AA596088",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251112/large_sell_m7nvtyjvrstgrkh2.jpg",
+      "ocrConfidence": 38,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2024年,20克,年喀,喀麦,麦隆,隆克,克悟,悟空,空仿,仿古,古银,银币"
+    }
+  ]
+}

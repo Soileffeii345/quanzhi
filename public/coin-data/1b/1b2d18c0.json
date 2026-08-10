@@ -1,0 +1,31 @@
+{
+  "coinName": "2018年熊猫150克精制金币",
+  "slug": "1b2d18c0",
+  "saleCount": 1,
+  "keywords": "金,币,2018年,150克,熊猫,年熊,猫克,克精,精制,制金,金币,评级",
+  "priceStats": {
+    "low": 152000,
+    "high": 152000,
+    "avg": 152000,
+    "latest": 152000
+  },
+  "records": [
+    {
+      "coinName": "2018年熊猫150克精制金币",
+      "normalizedBoxCode": "8825278001",
+      "displayBoxCode": "8825278-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-xinjin/10390806.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8825278-001/69/",
+      "price": 152000,
+      "priceWithFee": 157320,
+      "transactedAt": "2026-07-09 21:06:45",
+      "productCode": "873930001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2018年,150克,熊猫,年熊,猫克,克精,精制,制金,金币,评级"
+    }
+  ]
+}

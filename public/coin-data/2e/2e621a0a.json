@@ -1,0 +1,31 @@
+{
+  "coinName": "1985年19克加厚银币",
+  "slug": "2e621a0a",
+  "saleCount": 1,
+  "keywords": "银,币,1985年,19克,年英,英国,国威,威尔,尔士,士韭,韭葱,葱克,克加,加厚,厚银,银币,外国/特区",
+  "priceStats": {
+    "low": 540,
+    "high": 540,
+    "avg": 540,
+    "latest": 540
+  },
+  "records": [
+    {
+      "coinName": "1985年英国威尔士韭葱19克加厚银币",
+      "normalizedBoxCode": "8504636046",
+      "displayBoxCode": "8504636-046",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/wgjsbizhang/10354161.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8504636-046/69/",
+      "price": 540,
+      "priceWithFee": 572.4,
+      "transactedAt": "2026-06-19 20:14:45",
+      "productCode": "869380022",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1985年,19克,年英,英国,国威,威尔,尔士,士韭,韭葱,葱克,克加,加厚,厚银,银币,外国/特区"
+    }
+  ]
+}

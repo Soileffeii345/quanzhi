@@ -1,0 +1,31 @@
+{
+  "coinName": "外国测试券",
+  "slug": "7a577530",
+  "saleCount": 1,
+  "keywords": "外国,国测,测试,试券",
+  "priceStats": {
+    "low": 250,
+    "high": 250,
+    "avg": 250,
+    "latest": 250
+  },
+  "records": [
+    {
+      "coinName": "外国测试券",
+      "normalizedBoxCode": "2484968041",
+      "displayBoxCode": "2484968-041",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10361571.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2484968-041/",
+      "price": 250,
+      "priceWithFee": 277.5,
+      "transactedAt": "2026-06-30 22:31:50",
+      "productCode": "870593004",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "外国,国测,测试,试券"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8649716003",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8649716003",
+      "displayBoxCode": "8649716-003",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "coinName": "1995年1盎司世界妇女大会银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/555172.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8649716-003/69/",
+      "price": 2200,
+      "priceWithFee": null,
+      "transactedAt": "2026-02-14 05:54:23",
+      "productCode": "KH119256",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260213/large_sell_pzikz9gxl3cdqvh8.jpg",
+      "ocrConfidence": 48,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1995年,1盎司,年盎,盎司,司世,世界,界妇,妇女,女大,大会,会银,银币"
+    }
+  ]
+}

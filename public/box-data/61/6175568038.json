@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6175568038",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6175568038",
+      "displayBoxCode": "6175568-038",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "coinName": "2012年1/20盎司熊猫金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/528544.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6175568-038/69/",
+      "price": 2000,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-20 21:58:05",
+      "productCode": "KH101727",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260107/large_sell_fkqlsoisozad0fmv.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2012年,20盎司,熊猫,年盎,盎司,司熊,猫金,金币"
+    }
+  ]
+}

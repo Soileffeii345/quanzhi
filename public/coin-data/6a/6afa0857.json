@@ -1,0 +1,48 @@
+{
+  "coinName": "1995年精制金币",
+  "slug": "6afa0857",
+  "saleCount": 2,
+  "keywords": "金,银,币,1995年,年联,联合,合国,国第,第届,届世,世界,界妇,妇女,女大,大会,会金,金银,银盎,盎司,司精,精制,制双,双金,金属,属币,评级,第四,四届",
+  "priceStats": {
+    "low": 25000,
+    "high": 26500,
+    "avg": 25750,
+    "latest": 26500
+  },
+  "records": [
+    {
+      "coinName": "1995年联合国第4届世界妇女大会1/3金+1/6银盎司精制双金属币",
+      "normalizedBoxCode": "8176120001",
+      "displayBoxCode": "8176120-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-shuangjinshu/10359975.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8176120-001/69/",
+      "price": 26500,
+      "priceWithFee": 27427.5,
+      "transactedAt": "2026-06-25 21:19:35",
+      "productCode": "869596006",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,1995年,年联,联合,合国,国第,第届,届世,世界,界妇,妇女,女大,大会,会金,金银,银盎,盎司,司精,精制,制双,双金,金属,属币,评级"
+    },
+    {
+      "coinName": "1995年联合国第四届世界妇女大会1/3金+1/6银盎司精制双金属币",
+      "normalizedBoxCode": "8755036010",
+      "displayBoxCode": "8755036-010",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-shuangjinshu/10350868.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8755036-010/69/",
+      "price": 25000,
+      "priceWithFee": 25875,
+      "transactedAt": "2026-06-18 21:37:40",
+      "productCode": "869588006",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,1995年,年联,联合,合国,国第,第四,四届,届世,世界,界妇,妇女,女大,大会,会金,金银,银盎,盎司,司精,精制,制双,双金,金属,属币,评级"
+    }
+  ]
+}

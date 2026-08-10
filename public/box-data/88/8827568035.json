@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8827568035",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8827568035",
+      "displayBoxCode": "8827568-035",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1985年15克生肖牛银币(全波纹)",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/597454.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8827568-035/69/",
+      "price": 2500,
+      "priceWithFee": null,
+      "transactedAt": "2026-08-06 17:55:16",
+      "productCode": "AA664347A",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260708/large_sell_ky9xiodql8ty6auw.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1985年,15克,生肖,年克,克生,肖牛,牛银,银币,币全,全波,波纹"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6182596016",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6182596016",
+      "displayBoxCode": "6182596-016",
+      "gradingCompany": "NGC",
+      "grade": "MS65",
+      "coinName": "1983年长城币壹圆",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10408773.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6182596-016/65/",
+      "price": 330,
+      "priceWithFee": 356.4,
+      "transactedAt": "2026-07-22 19:48:25",
+      "productCode": "876249001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/876249001A.jpg",
+      "ocrConfidence": 38,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1983年,年长,长城,城币,币壹,壹圆"
+    }
+  ]
+}

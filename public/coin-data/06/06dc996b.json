@@ -1,0 +1,31 @@
+{
+  "coinName": "2015年贺岁7.776克普制银币",
+  "slug": "06dc996b",
+  "saleCount": 1,
+  "keywords": "银,币,2015年,4盎司,吉祥文化,年福,福字,字贺,贺岁,岁盎,盎司,司普,普制,制银,银币",
+  "priceStats": {
+    "low": 430,
+    "high": 430,
+    "avg": 430,
+    "latest": 430
+  },
+  "records": [
+    {
+      "coinName": "2015年福字贺岁1/4盎司普制银币",
+      "normalizedBoxCode": "4286858007",
+      "displayBoxCode": "4286858-007",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10425115.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4286858-007/69/",
+      "price": 430,
+      "priceWithFee": 445.05,
+      "transactedAt": "2026-07-27 20:03:40",
+      "productCode": "877934002",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2015年,4盎司,吉祥文化,年福,福字,字贺,贺岁,岁盎,盎司,司普,普制,制银,银币"
+    }
+  ]
+}

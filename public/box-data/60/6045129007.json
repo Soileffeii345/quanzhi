@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6045129007",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6045129007",
+      "displayBoxCode": "6045129-007",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1991年辛未羊年生肖1盎司精制金币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-jin/10397599.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6045129-007/",
+      "price": 41000,
+      "priceWithFee": 42435,
+      "transactedAt": "2026-07-16 21:07:35",
+      "productCode": "874813005",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/874813005A.jpg",
+      "ocrConfidence": 38,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1991年,1盎司,生肖,年辛,辛未,未羊,羊年,年生,肖盎,盎司,司精,精制,制金,金币,评级"
+    }
+  ]
+}

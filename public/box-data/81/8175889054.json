@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8175889054",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8175889054",
+      "displayBoxCode": "8175889-054",
+      "gradingCompany": "NGC",
+      "grade": "MS 70",
+      "coinName": "1986年24克&quot;中国皇后号&quot;帆船银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/481532.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8175889-054/70/",
+      "price": 880,
+      "priceWithFee": null,
+      "transactedAt": "2025-06-13 08:57:32",
+      "productCode": "KH069187",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250604/large_sell_0um7llipsa4iiul9.jpg",
+      "ocrConfidence": 48,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1986年,24克,年克,克中,中国,国皇,皇后,后号,号帆,帆船,船银,银币"
+    }
+  ]
+}

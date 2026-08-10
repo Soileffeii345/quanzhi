@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8754345031",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8754345031",
+      "displayBoxCode": "8754345-031",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2005年中国宝岛台湾-敬字亭精制流通纪念币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10396422.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8754345-031/69/",
+      "price": 660,
+      "priceWithFee": 712.8,
+      "transactedAt": "2026-07-15 19:30:55",
+      "productCode": "874407010",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/874407010A.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2005年,年中,中国,国宝,宝岛,岛台,台湾,湾敬,敬字,字亭,亭精,精制,制流,流通,通纪,纪念,念币,评级"
+    }
+  ]
+}

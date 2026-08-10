@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "3307654070",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "3307654070",
+      "displayBoxCode": "3307654-070",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2014年1盎司熊猫银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/517204.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3307654-070/",
+      "price": 440,
+      "priceWithFee": null,
+      "transactedAt": "2025-12-10 03:09:39",
+      "productCode": "KH092965",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251202/large_sell_uiqdcxtevuofa5we.jpg",
+      "ocrConfidence": 47,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2014年,1盎司,熊猫,年盎,盎司,司熊,猫银,银币"
+    }
+  ]
+}

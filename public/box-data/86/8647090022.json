@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8647090022",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8647090022",
+      "displayBoxCode": "8647090-022",
+      "gradingCompany": "NGC",
+      "grade": "PF 68 ULTRA CAMEO",
+      "coinName": "1990年中国杰出历史人物第（7）组-李自成22克精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10397411.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8647090-022/68/",
+      "price": 480,
+      "priceWithFee": 496.8,
+      "transactedAt": "2026-07-13 21:18:05",
+      "productCode": "874839010",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/874839010A.jpg",
+      "ocrConfidence": 41,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1990年,22克,年中,中国,国杰,杰出,出历,历史,史人,人物,物第,第组,组李,李自,自成,成克,克精,精制,制银,银币,评级"
+    }
+  ]
+}

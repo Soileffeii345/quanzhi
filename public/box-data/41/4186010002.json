@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4186010002",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4186010002",
+      "displayBoxCode": "4186010-002",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "coinName": "1982年1/10盎司熊猫金币(长枝)",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/559054.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4186010-002/69/",
+      "price": 8400,
+      "priceWithFee": null,
+      "transactedAt": "2026-03-11 08:24:31",
+      "productCode": "AA625864",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260306/large_sell_zgpzskmpe0ks6t9z.jpg",
+      "ocrConfidence": 32,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1982年,10盎司,熊猫,年盎,盎司,司熊,猫金,金币,币长,长枝"
+    }
+  ]
+}

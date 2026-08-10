@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8760900027",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8760900027",
+      "displayBoxCode": "8760900-027",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2011年清华大学建校100周年1盎司精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10398687.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8760900-027/",
+      "price": 810,
+      "priceWithFee": 838.35,
+      "transactedAt": "2026-07-13 20:34:45",
+      "productCode": "874510003",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/874510003A.jpg",
+      "ocrConfidence": 41,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2011年,1盎司,年清,清华,华大,大学,学建,建校,校周,周年,年盎,盎司,司精,精制,制银,银币,评级"
+    }
+  ]
+}

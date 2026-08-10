@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6730424001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6730424001",
+      "displayBoxCode": "6730424-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2019年3克吉祥文化珠联璧合金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/532243.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6730424-001/70/",
+      "price": 4600,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-25 21:59:15",
+      "productCode": "AA612319",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260116/large_sell_2dol1vnnko6pcbrs.jpg",
+      "ocrConfidence": 27,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2019年,3克,吉祥文化,年克,克吉,吉祥,祥文,文化,化珠,珠联,联璧,璧合,合金,金币"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8659676022",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8659676022",
+      "displayBoxCode": "8659676-022",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2004年世界文化遗产-周口店“北京人”遗址精制流通纪念币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10369514.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8659676-022/",
+      "price": 200,
+      "priceWithFee": 216,
+      "transactedAt": "2026-07-01 21:00:35",
+      "productCode": "871224008",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/26/871224008A.jpg",
+      "ocrConfidence": 32,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2004年,年世,世界,界文,文化,化遗,遗产,产周,周口,口店,店北,北京,京人,人遗,遗址,址精,精制,制流,流通,通纪,纪念,念币,评级"
+    }
+  ]
+}

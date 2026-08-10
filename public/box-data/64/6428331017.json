@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6428331017",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6428331017",
+      "displayBoxCode": "6428331-017",
+      "gradingCompany": "NGC",
+      "grade": "PF70 ULTRA CAMEO",
+      "coinName": "2019年30克扇形生肖猪银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/551850.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6428331-017/70/",
+      "price": 1000,
+      "priceWithFee": null,
+      "transactedAt": "2026-02-10 18:34:31",
+      "productCode": "AA618644",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260203/large_sell_qcpef7mhaecikn0n.jpg",
+      "ocrConfidence": 32,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2019年,30克,生肖,年克,克扇,扇形,形生,肖猪,猪银,银币"
+    }
+  ]
+}

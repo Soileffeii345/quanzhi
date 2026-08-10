@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4547462003",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4547462003",
+      "displayBoxCode": "4547462-003",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2003年1/3盎司春节金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/506322.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4547462-003/69/",
+      "price": 10245,
+      "priceWithFee": null,
+      "transactedAt": "2025-10-17 10:15:58",
+      "productCode": "KH087833",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251017/large_sell_vheqssebi2s1froz.jpg",
+      "ocrConfidence": 48,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2003年,3盎司,年盎,盎司,司春,春节,节金,金币"
+    }
+  ]
+}

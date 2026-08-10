@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "00289036",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "00289036",
+      "displayBoxCode": "00289036",
+      "gradingCompany": "PCGS",
+      "grade": "待复核",
+      "coinName": "清 乾隆通宝、嘉庆通宝、道光通宝各1枚，共3枚",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/guqian/10361584.shtml",
+      "officialCertUrl": "https://cn.pcgs.com/cert/00289036",
+      "price": 300,
+      "priceWithFee": 330,
+      "transactedAt": "2026-07-13 21:37:25",
+      "productCode": "870157006",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/870157006A.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "清乾,乾隆,隆通,通宝,宝嘉,嘉庆,庆通,宝道,道光,光通,宝各,各枚,枚共,共枚"
+    }
+  ]
+}

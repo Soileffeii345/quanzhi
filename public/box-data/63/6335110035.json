@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6335110035",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6335110035",
+      "displayBoxCode": "6335110-035",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2015年5盎司方形生肖羊银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/557910.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6335110-035/",
+      "price": 4300,
+      "priceWithFee": null,
+      "transactedAt": "2026-03-24 16:37:41",
+      "productCode": "KH125835",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260302/large_sell_b7phqrj1hmxaiisd.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2015年,5盎司,生肖,年盎,盎司,司方,方形,形生,肖羊,羊银,银币"
+    }
+  ]
+}

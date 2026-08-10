@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2004974016",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2004974016",
+      "displayBoxCode": "2004974-016",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "民国三十五年中央银行贰仟圆",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10374613.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2004974-016/",
+      "price": 960,
+      "priceWithFee": 1065.6,
+      "transactedAt": "2026-07-16 21:32:10",
+      "productCode": "871383003",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/26/871383003B.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国三,三十,十五,五年,年中,中央,央银,银行,行贰,贰仟,仟圆"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "coinName": "2019年30克银币",
+  "slug": "73f73576",
+  "saleCount": 4,
+  "keywords": "银,币,2019年,30克,年克,克北,北京,京世,世园,园会,会银,银币,章,历史币,孙小头,小头,年民,民国,国十,十八,八年,年孙,孙像,像地,地球,球双,双旗,旗壹,壹圆,圆克,克银,银章,克世,世界,界集,集邮,邮展,展览,览银",
+  "priceStats": {
+    "low": 510,
+    "high": 900,
+    "avg": 645,
+    "latest": 900
+  },
+  "records": [
+    {
+      "coinName": "2019年30克北京世园会银币",
+      "normalizedBoxCode": "6004928004",
+      "displayBoxCode": "6004928-004",
+      "gradingCompany": "NGC",
+      "grade": "PF70 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/536633.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6004928-004/70/",
+      "price": 900,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-26 07:09:29",
+      "productCode": "AA614405",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2019年,30克,年克,克北,北京,京世,世园,园会,会银,银币"
+    },
+    {
+      "coinName": "2019年民国十八年孙像地球双旗壹圆30克银章",
+      "normalizedBoxCode": "6334417023",
+      "displayBoxCode": "6334417-023",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/521040.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6334417-023/70/",
+      "price": 510,
+      "priceWithFee": null,
+      "transactedAt": "2025-12-15 18:22:56",
+      "productCode": "KH095222",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,章,2019年,30克,历史币,孙小头,小头,年民,民国,国十,十八,八年,年孙,孙像,像地,地球,球双,双旗,旗壹,壹圆,圆克,克银,银章"
+    },
+    {
+      "coinName": "2019年30克世界集邮展览银币",
+      "normalizedBoxCode": "6748083025",
+      "displayBoxCode": "6748083-025",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/510948.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6748083-025/",
+      "price": 650,
+      "priceWithFee": null,
+      "transactedAt": "2025-12-14 14:35:04",
+      "productCode": "AA595112",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2019年,30克,年克,克世,世界,界集,集邮,邮展,展览,览银,银币"
+    },
+    {
+      "coinName": "2019年30克北京世园会银币",
+      "normalizedBoxCode": "8575400037",
+      "displayBoxCode": "8575400-037",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/521314.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8575400-037/",
+      "price": 520,
+      "priceWithFee": null,
+      "transactedAt": "2025-12-23 21:24:35",
+      "productCode": "AA602811",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2019年,30克,年克,克北,北京,京世,世园,园会,会银,银币"
+    }
+  ]
+}

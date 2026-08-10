@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6763965014",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6763965014",
+      "displayBoxCode": "6763965-014",
+      "gradingCompany": "NGC",
+      "grade": "PF 68 ULTRA CAMEO",
+      "coinName": "1984年22克真觉寺金刚宝座塔银章(UC)",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/424305.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6763965-014/68/",
+      "price": 1000,
+      "priceWithFee": null,
+      "transactedAt": "2024-06-04 11:22:35",
+      "productCode": "AA471019",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20240331/large_sell_9xk9hqmag3u5ghyr.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,章,1984年,22克,年克,克真,真觉,觉寺,寺金,金刚,刚宝,宝座,座塔,塔银,银章"
+    }
+  ]
+}

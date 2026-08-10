@@ -1,0 +1,48 @@
+{
+  "coinName": "1998年3.11克普制金币",
+  "slug": "581f8b68",
+  "saleCount": 2,
+  "keywords": "金,币,1998年,10盎司,年大,大唐,唐镇,镇库,库盎,盎司,司普,普制,制金,金币,年迎,迎春,春盎",
+  "priceStats": {
+    "low": 4650,
+    "high": 15000,
+    "avg": 9825,
+    "latest": 4650
+  },
+  "records": [
+    {
+      "coinName": "1998年大唐镇库1/10盎司普制金币",
+      "normalizedBoxCode": "6004200068",
+      "displayBoxCode": "6004200-068",
+      "gradingCompany": "NGC",
+      "grade": "MS 70",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10350678.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6004200-068/70/",
+      "price": 4650,
+      "priceWithFee": 4812.75,
+      "transactedAt": "2026-06-18 22:05:40",
+      "productCode": "869116008",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1998年,10盎司,年大,大唐,唐镇,镇库,库盎,盎司,司普,普制,制金,金币"
+    },
+    {
+      "coinName": "1998年迎春1/10盎司普制金币",
+      "normalizedBoxCode": "8611723018",
+      "displayBoxCode": "8611723-018",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10359980.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8611723-018/69/",
+      "price": 15000,
+      "priceWithFee": 15525,
+      "transactedAt": "2026-06-25 21:48:35",
+      "productCode": "869598003",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1998年,10盎司,年迎,迎春,春盎,盎司,司普,普制,制金,金币"
+    }
+  ]
+}

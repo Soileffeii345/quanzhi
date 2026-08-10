@@ -1,0 +1,31 @@
+{
+  "coinName": "2014年5盎司银币",
+  "slug": "4c608792",
+  "saleCount": 1,
+  "keywords": "银,币,2014年,5盎司,新疆版,年盎,盎司,司新,新疆,疆建,建设,设兵,兵团,团成,成立,立周,周年,年银,银币",
+  "priceStats": {
+    "low": 3600,
+    "high": 3600,
+    "avg": 3600,
+    "latest": 3600
+  },
+  "records": [
+    {
+      "coinName": "2014年5盎司新疆建设兵团成立60周年银币",
+      "normalizedBoxCode": "6735872010",
+      "displayBoxCode": "6735872-010",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/482006.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6735872-010/70/",
+      "price": 3600,
+      "priceWithFee": null,
+      "transactedAt": "2025-06-06 18:20:07",
+      "productCode": "DB200493A",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2014年,5盎司,新疆版,年盎,盎司,司新,新疆,疆建,建设,设兵,兵团,团成,成立,立周,周年,年银,银币"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "ok": true,
+  "query": "4635628063",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4635628063",
+      "displayBoxCode": "4635628-063",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2015年1/4盎司九华山金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/491944.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4635628-063/69/",
+      "price": 6100,
+      "priceWithFee": null,
+      "transactedAt": "2025-07-31 18:27:13",
+      "productCode": "AA575882",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250731/large_sell_w48gjnnwjrd5p8vk.jpg",
+      "ocrConfidence": 38,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2015年,4盎司,年盎,盎司,司九,九华,华山,山金,金币"
+    },
+    {
+      "normalizedBoxCode": "4635628063",
+      "displayBoxCode": "4635628-063",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2015年1/4盎司九华山金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/469086.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4635628-063/69/",
+      "price": 5610,
+      "priceWithFee": null,
+      "transactedAt": "2025-03-19 19:43:17",
+      "productCode": "KH061588",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250319/large_sell_1gawwmpdop7lulbb.jpg",
+      "ocrConfidence": 47,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2015年,4盎司,年盎,盎司,司九,九华,华山,山金,金币"
+    }
+  ]
+}

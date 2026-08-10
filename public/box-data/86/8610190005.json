@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8610190005",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8610190005",
+      "displayBoxCode": "8610190-005",
+      "gradingCompany": "NGC",
+      "grade": "MS 70",
+      "coinName": "2026年中国龙31.104克普制银币（金总封装智能卡）",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10356651.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8610190-005/70/",
+      "price": 900,
+      "priceWithFee": 931.5,
+      "transactedAt": "2026-06-22 20:31:10",
+      "productCode": "870076006",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/870076006A.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,2026年,31.104克,年中,中国,国龙,龙克,克普,普制,制银,银币,币金,金总,总封,封装,装智,智能,能卡"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "coinName": "民国二十九年中央储备银行拾圆",
+  "slug": "5f02215f",
+  "saleCount": 1,
+  "keywords": "银,历史币,民国,国二,二十,十九,九年,年中,中央,央储,储备,备银,银行,行拾,拾圆",
+  "priceStats": {
+    "low": 110,
+    "high": 110,
+    "avg": 110,
+    "latest": 110
+  },
+  "records": [
+    {
+      "coinName": "民国二十九年中央储备银行拾圆",
+      "normalizedBoxCode": "2143360043",
+      "displayBoxCode": "2143360-043",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/difangsipiao/10358525.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2143360-043/",
+      "price": 110,
+      "priceWithFee": 122.1,
+      "transactedAt": "2026-07-14 21:05:20",
+      "productCode": "870400001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国二,二十,十九,九年,年中,中央,央储,储备,备银,银行,行拾,拾圆"
+    }
+  ]
+}

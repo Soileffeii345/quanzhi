@@ -1,0 +1,31 @@
+{
+  "coinName": "渣打银行伍拾圆",
+  "slug": "3ee35cce",
+  "saleCount": 1,
+  "keywords": "银,渣打,打银,银行,行伍,伍拾,拾圆",
+  "priceStats": {
+    "low": 1800,
+    "high": 1800,
+    "avg": 1800,
+    "latest": 1800
+  },
+  "records": [
+    {
+      "coinName": "渣打银行伍拾圆",
+      "normalizedBoxCode": "2581727022",
+      "displayBoxCode": "2581727-022",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xianggangzhichao/10396916.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2581727-022/",
+      "price": 1800,
+      "priceWithFee": 1998,
+      "transactedAt": "2026-07-18 20:06:20",
+      "productCode": "874272001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,渣打,打银,银行,行伍,伍拾,拾圆"
+    }
+  ]
+}

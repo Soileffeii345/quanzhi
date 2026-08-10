@@ -1,0 +1,45 @@
+{
+  "ok": true,
+  "query": "6053385004",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6053385004",
+      "displayBoxCode": "6053385-004",
+      "gradingCompany": "NGC",
+      "grade": "PF69 ULTRA CAMEO",
+      "coinName": "1995年第26届奥运会-高台跳水1/3盎司精制金币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10363184.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6053385-004/69/",
+      "price": 8800,
+      "priceWithFee": 9108,
+      "transactedAt": "2026-07-02 20:58:50",
+      "productCode": "870614013",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/870614013A.jpg",
+      "ocrConfidence": 43,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1995年,3盎司,奥运,年第,第届,届奥,运会,会高,高台,台跳,跳水,水盎,盎司,司精,精制,制金,金币,评级"
+    },
+    {
+      "normalizedBoxCode": "6053385004",
+      "displayBoxCode": "6053385-004",
+      "gradingCompany": "NGC",
+      "grade": "PF69",
+      "coinName": "1995年1/3盎司第26届奥运会高台跳水金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/524266.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6053385-004/69/",
+      "price": 10600,
+      "priceWithFee": null,
+      "transactedAt": "2025-12-28 22:22:14",
+      "productCode": "KH100201",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251227/large_sell_gkbiyqrvm2zjhhob.jpg",
+      "ocrConfidence": 37,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1995年,3盎司,奥运,年盎,盎司,司第,第届,届奥,运会,会高,高台,台跳,跳水,水金,金币"
+    }
+  ]
+}

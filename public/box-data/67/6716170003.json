@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6716170003",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6716170003",
+      "displayBoxCode": "6716170-003",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2000年1/10盎司生肖龙彩金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/496514.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6716170-003/69/",
+      "price": 3250,
+      "priceWithFee": null,
+      "transactedAt": "2025-10-04 08:04:08",
+      "productCode": "AA581510",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250826/large_sell_rggltee1jaxmilud.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2000年,10盎司,生肖,年盎,盎司,司生,肖龙,龙彩,彩金,金币"
+    }
+  ]
+}

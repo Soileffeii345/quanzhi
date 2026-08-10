@@ -1,0 +1,31 @@
+{
+  "coinName": "2002年生肖精制金银币",
+  "slug": "48fe6eae",
+  "saleCount": 1,
+  "keywords": "金,银,币,2002年,10盎司,生肖,年壬,壬午,午马,马年,年生,肖精,精制,制彩,彩金,金银,银币,币二,二枚,枚一,一套,套含,含盎,盎司,司金,金盎,司银,评级",
+  "priceStats": {
+    "low": 4350,
+    "high": 4350,
+    "avg": 4350,
+    "latest": 4350
+  },
+  "records": [
+    {
+      "coinName": "2002年壬午马年生肖精制彩金银币二枚一套（含1/10盎司金、1盎司银）",
+      "normalizedBoxCode": "8823340001",
+      "displayBoxCode": "8823340-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 68 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-jin/10410775.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8823340-001/68/",
+      "price": 4350,
+      "priceWithFee": 4502.25,
+      "transactedAt": "2026-07-23 20:43:25",
+      "productCode": "876356001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,2002年,10盎司,生肖,年壬,壬午,午马,马年,年生,肖精,精制,制彩,彩金,金银,银币,币二,二枚,枚一,一套,套含,含盎,盎司,司金,金盎,司银,评级"
+    }
+  ]
+}

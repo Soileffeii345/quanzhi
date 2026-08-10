@@ -1,0 +1,65 @@
+{
+  "coinName": "1996年31.104克精制银币",
+  "slug": "5459fcaf",
+  "saleCount": 3,
+  "keywords": "银,币,1996年,1盎司,年中,中国,国工,工农,农红,红军,军长,长征,征胜,胜利,利周,周年,年盎,盎司,司精,精制,制银,银币,币二,二枚,枚一,一套,评级,年香,香港,港回,回归,归祖,祖国,国第,第组,组盎,外国/特区",
+  "priceStats": {
+    "low": 680,
+    "high": 2200,
+    "avg": 1380,
+    "latest": 2200
+  },
+  "records": [
+    {
+      "coinName": "1996年中国工农红军长征胜利60周年1盎司精制银币二枚一套",
+      "normalizedBoxCode": "6197820043",
+      "displayBoxCode": "6197820-043",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10350680.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6197820-043/",
+      "price": 2200,
+      "priceWithFee": 2277,
+      "transactedAt": "2026-06-18 19:37:10",
+      "productCode": "869116010",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1996年,1盎司,年中,中国,国工,工农,农红,红军,军长,长征,征胜,胜利,利周,周年,年盎,盎司,司精,精制,制银,银币,币二,二枚,枚一,一套,评级"
+    },
+    {
+      "coinName": "1996年香港97回归祖国第（2）组1盎司精制银币",
+      "normalizedBoxCode": "8754540025",
+      "displayBoxCode": "8754540-025",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10405246.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8754540-025/69/",
+      "price": 680,
+      "priceWithFee": 703.8,
+      "transactedAt": "2026-07-27 20:10:40",
+      "productCode": "875554005",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1996年,1盎司,年香,香港,港回,回归,归祖,祖国,国第,第组,组盎,盎司,司精,精制,制银,银币,评级,外国/特区"
+    },
+    {
+      "coinName": "1996年香港97回归祖国第（2）组1盎司精制银币",
+      "normalizedBoxCode": "8816703006",
+      "displayBoxCode": "8816703-006",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10408876.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8816703-006/70/",
+      "price": 1260,
+      "priceWithFee": 1304.1,
+      "transactedAt": "2026-07-20 21:18:40",
+      "productCode": "876064005",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1996年,1盎司,年香,香港,港回,回归,归祖,祖国,国第,第组,组盎,盎司,司精,精制,制银,银币,评级,外国/特区"
+    }
+  ]
+}

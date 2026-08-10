@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8815432005",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8815432005",
+      "displayBoxCode": "8815432-005",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2023年加纳兔年镶嵌施华洛世奇水晶1/2盎司银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianbi/10385569.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8815432-005/70/",
+      "price": 680,
+      "priceWithFee": 754.8,
+      "transactedAt": "2026-07-10 20:29:15",
+      "productCode": "873385005",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/27/873385005A.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2023年,2盎司,生肖,年加,加纳,纳兔,兔年,年镶,镶嵌,嵌施,施华,华洛,洛世,世奇,奇水,水晶,晶盎,盎司,司银,银币"
+    }
+  ]
+}

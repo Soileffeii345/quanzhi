@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2382345055",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2382345055",
+      "displayBoxCode": "2382345-055",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1905年美国5美元纸币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10387945.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2382345-055/",
+      "price": 7400,
+      "priceWithFee": 8214,
+      "transactedAt": "2026-07-14 21:46:05",
+      "productCode": "873172013",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/27/873172013B.jpg",
+      "ocrConfidence": 31,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1905年,年美,美国,国美,美元,元纸,纸币,外国/特区"
+    }
+  ]
+}

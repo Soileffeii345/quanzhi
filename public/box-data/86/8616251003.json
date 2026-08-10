@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8616251003",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8616251003",
+      "displayBoxCode": "8616251-003",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2025年30克方形大运河银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/498168.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8616251-003/69/",
+      "price": 6200,
+      "priceWithFee": null,
+      "transactedAt": "2025-09-04 21:54:30",
+      "productCode": "KH080927",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250903/large_sell_scj9muehrffwup7p.jpg",
+      "ocrConfidence": 43,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2025年,30克,年克,克方,方形,形大,大运,运河,河银,银币"
+    }
+  ]
+}

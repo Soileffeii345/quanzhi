@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8816703006",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8816703006",
+      "displayBoxCode": "8816703-006",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "1996年香港97回归祖国第（2）组1盎司精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10408876.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8816703-006/70/",
+      "price": 1260,
+      "priceWithFee": 1304.1,
+      "transactedAt": "2026-07-20 21:18:40",
+      "productCode": "876064005",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/876064005A.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1996年,1盎司,年香,香港,港回,回归,归祖,祖国,国第,第组,组盎,盎司,司精,精制,制银,银币,评级,外国/特区"
+    }
+  ]
+}

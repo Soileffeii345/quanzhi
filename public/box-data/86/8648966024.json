@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8648966024",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8648966024",
+      "displayBoxCode": "8648966-024",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2000年中国珍禽-戴胜鸟1盎司精制彩银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10397619.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8648966-024/69/",
+      "price": 630,
+      "priceWithFee": 652.05,
+      "transactedAt": "2026-07-13 20:31:25",
+      "productCode": "874841009",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/874841009A.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2000年,1盎司,年中,中国,国珍,珍禽,禽戴,戴胜,胜鸟,鸟盎,盎司,司精,精制,制彩,彩银,银币,评级"
+    }
+  ]
+}

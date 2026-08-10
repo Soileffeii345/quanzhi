@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4582142020",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4582142020",
+      "displayBoxCode": "4582142-020",
+      "gradingCompany": "NGC",
+      "grade": "PF70 ULTRA CAMEO",
+      "coinName": "2002年2盎司龙门石窟银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/579824.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4582142-020/70/",
+      "price": 4150,
+      "priceWithFee": null,
+      "transactedAt": "2026-08-07 12:50:40",
+      "productCode": "KH143916",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260513/large_sell_vnbdvtt3aj4bssfg.jpg",
+      "ocrConfidence": 48,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2002年,2盎司,年盎,盎司,司龙,龙门,门石,石窟,窟银,银币"
+    }
+  ]
+}

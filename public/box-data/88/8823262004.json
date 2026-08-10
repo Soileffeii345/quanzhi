@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8823262004",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8823262004",
+      "displayBoxCode": "8823262-004",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1998年中国传统吉祥图-万象更新1盎司精制彩银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10424122.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8823262-004/",
+      "price": 510,
+      "priceWithFee": 527.85,
+      "transactedAt": "2026-07-27 20:32:40",
+      "productCode": "877773023",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/877773023A.jpg",
+      "ocrConfidence": 31,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1998年,1盎司,吉祥文化,年中,中国,国传,传统,统吉,吉祥,祥图,图万,万象,象更,更新,新盎,盎司,司精,精制,制彩,彩银,银币,评级"
+    }
+  ]
+}

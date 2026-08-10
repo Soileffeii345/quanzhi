@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4318636050",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4318636050",
+      "displayBoxCode": "4318636-050",
+      "gradingCompany": "NGC",
+      "grade": "Ms70",
+      "coinName": "2016年1克熊猫金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/487498.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4318636-050/70/",
+      "price": 1000,
+      "priceWithFee": null,
+      "transactedAt": "2025-08-29 21:51:24",
+      "productCode": "AA571877",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250707/large_sell_tbdxwthjw4klpwkj.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2016年,1克,熊猫,年克,克熊,猫金,金币"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "coinName": "2012年31.104克精制银币",
+  "slug": "7471ac45",
+  "saleCount": 2,
+  "keywords": "银,币,钞,2012年,1盎司,年北,北京,京国,国际,际邮,邮票,票钱,钱币,币博,博览,览会,会盎,盎司,司精,精制,制银,银币,评级",
+  "priceStats": {
+    "low": 600,
+    "high": 620,
+    "avg": 610,
+    "latest": 620
+  },
+  "records": [
+    {
+      "coinName": "2012年北京国际邮票钱币博览会1盎司精制银币",
+      "normalizedBoxCode": "4409986042",
+      "displayBoxCode": "4409986-042",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10401100.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4409986-042/69/",
+      "price": 620,
+      "priceWithFee": 641.7,
+      "transactedAt": "2026-07-13 20:34:20",
+      "productCode": "875080002",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,钞,2012年,1盎司,年北,北京,京国,国际,际邮,邮票,票钱,钱币,币博,博览,览会,会盎,盎司,司精,精制,制银,银币,评级"
+    },
+    {
+      "coinName": "2012年北京国际邮票钱币博览会1盎司精制银币",
+      "normalizedBoxCode": "6335999051",
+      "displayBoxCode": "6335999-051",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10401099.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6335999-051/",
+      "price": 600,
+      "priceWithFee": 621,
+      "transactedAt": "2026-07-13 21:43:05",
+      "productCode": "875080001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,钞,2012年,1盎司,年北,北京,京国,国际,际邮,邮票,票钱,钱币,币博,博览,览会,会盎,盎司,司精,精制,制银,银币,评级"
+    }
+  ]
+}

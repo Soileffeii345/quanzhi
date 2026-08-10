@@ -1,0 +1,31 @@
+{
+  "coinName": "2005年18克银币",
+  "slug": "6bbe34ab",
+  "saleCount": 1,
+  "keywords": "银,币,2005年,18克,年德,德国,国克,克银,银币,外国/特区",
+  "priceStats": {
+    "low": 390,
+    "high": 390,
+    "avg": 390,
+    "latest": 390
+  },
+  "records": [
+    {
+      "coinName": "2005年德国18克银币",
+      "normalizedBoxCode": "8621692015",
+      "displayBoxCode": "8621692-015",
+      "gradingCompany": "NGC",
+      "grade": "PF67 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/wgjsbizhang/10396748.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8621692-015/67/",
+      "price": 390,
+      "priceWithFee": 413.4,
+      "transactedAt": "2026-07-17 19:08:25",
+      "productCode": "874854001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2005年,18克,年德,德国,国克,克银,银币,外国/特区"
+    }
+  ]
+}

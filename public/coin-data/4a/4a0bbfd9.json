@@ -1,0 +1,31 @@
+{
+  "coinName": "1983年熊猫31.104克金币",
+  "slug": "4a0bbfd9",
+  "saleCount": 1,
+  "keywords": "金,币,1983年,1盎司,熊猫,年盎,盎司,司熊,猫金,金币",
+  "priceStats": {
+    "low": 26000,
+    "high": 26000,
+    "avg": 26000,
+    "latest": 26000
+  },
+  "records": [
+    {
+      "coinName": "1983年1盎司熊猫金币",
+      "normalizedBoxCode": "3396031033",
+      "displayBoxCode": "3396031-033",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/471842.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3396031-033/",
+      "price": 26000,
+      "priceWithFee": null,
+      "transactedAt": "2025-04-05 17:16:21",
+      "productCode": "KH063712",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1983年,1盎司,熊猫,年盎,盎司,司熊,猫金,金币"
+    }
+  ]
+}

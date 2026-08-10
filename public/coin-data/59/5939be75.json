@@ -1,0 +1,65 @@
+{
+  "coinName": "第一版人民币织布5元无水印",
+  "slug": "5939be75",
+  "saleCount": 3,
+  "keywords": "币,第一,一版,版人,人民,民币,币织,织布,布元,元无,无水,水印",
+  "priceStats": {
+    "low": 1500,
+    "high": 3100,
+    "avg": 2350,
+    "latest": 3100
+  },
+  "records": [
+    {
+      "coinName": "第一版人民币织布5元无水印",
+      "normalizedBoxCode": "2149566001",
+      "displayBoxCode": "2149566-001",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/diyibanrenminbi/10402825.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2149566-001/",
+      "price": 3100,
+      "priceWithFee": 3410,
+      "transactedAt": "2026-07-23 21:29:10",
+      "productCode": "875132004",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,第一,一版,版人,人民,民币,币织,织布,布元,元无,无水,水印"
+    },
+    {
+      "coinName": "第一版人民币织布5元无水印",
+      "normalizedBoxCode": "2396027003",
+      "displayBoxCode": "2396027-003",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/diyibanrenminbi/10402822.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2396027-003/",
+      "price": 1500,
+      "priceWithFee": 1650,
+      "transactedAt": "2026-07-23 20:25:10",
+      "productCode": "875132001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,第一,一版,版人,人民,民币,币织,织布,布元,元无,无水,水印"
+    },
+    {
+      "coinName": "第一版人民币织布5元无水印",
+      "normalizedBoxCode": "8047669038",
+      "displayBoxCode": "8047669-038",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/diyibanrenminbi/10387366.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8047669-038/",
+      "price": 2450,
+      "priceWithFee": 2695,
+      "transactedAt": "2026-07-09 20:29:10",
+      "productCode": "873660005",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,第一,一版,版人,人民,民币,币织,织布,布元,元无,无水,水印"
+    }
+  ]
+}

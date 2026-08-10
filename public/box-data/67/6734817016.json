@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6734817016",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6734817016",
+      "displayBoxCode": "6734817-016",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1989年中华人民共和国成立四十周年流通纪念币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10417590.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6734817-016/",
+      "price": 50,
+      "priceWithFee": 54,
+      "transactedAt": "2026-07-22 20:17:35",
+      "productCode": "877052002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/877052002A.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1989年,年中,中华,华人,人民,民共,共和,和国,国成,成立,立四,四十,十周,周年,年流,流通,通纪,纪念,念币"
+    }
+  ]
+}

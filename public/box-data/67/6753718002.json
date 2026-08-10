@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6753718002",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6753718002",
+      "displayBoxCode": "6753718-002",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1996年1/10盎司观音金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/509114.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6753718-002/",
+      "price": 2815,
+      "priceWithFee": null,
+      "transactedAt": "2025-10-29 14:13:21",
+      "productCode": "AA593258",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251029/large_sell_svxvrevkkagir0sc.jpg",
+      "ocrConfidence": 32,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1996年,10盎司,宗教,年盎,盎司,司观,观音,音金,金币"
+    }
+  ]
+}

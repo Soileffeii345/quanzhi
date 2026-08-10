@@ -1,0 +1,31 @@
+{
+  "coinName": "1998年熊猫银币",
+  "slug": "6c616d80",
+  "saleCount": 1,
+  "keywords": "银,币,1998年,熊猫,年熊,猫彩,彩银,银币",
+  "priceStats": {
+    "low": 900,
+    "high": 900,
+    "avg": 900,
+    "latest": 900
+  },
+  "records": [
+    {
+      "coinName": "1998年熊猫彩银币",
+      "normalizedBoxCode": "6715119006",
+      "displayBoxCode": "6715119-006",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/517789.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6715119-006/69/",
+      "price": 900,
+      "priceWithFee": null,
+      "transactedAt": "2025-12-05 21:10:45",
+      "productCode": "KH093350",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1998年,熊猫,年熊,猫彩,彩银,银币"
+    }
+  ]
+}

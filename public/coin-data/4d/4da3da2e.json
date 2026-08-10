@@ -1,0 +1,31 @@
+{
+  "coinName": "德国纸币",
+  "slug": "4da3da2e",
+  "saleCount": 1,
+  "keywords": "币,德国,国纸,纸币,外国/特区",
+  "priceStats": {
+    "low": 130,
+    "high": 130,
+    "avg": 130,
+    "latest": 130
+  },
+  "records": [
+    {
+      "coinName": "德国纸币",
+      "normalizedBoxCode": "2400734018",
+      "displayBoxCode": "2400734-018",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10371340.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2400734-018/",
+      "price": 130,
+      "priceWithFee": 144.3,
+      "transactedAt": "2026-06-30 22:45:50",
+      "productCode": "871227021",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,德国,国纸,纸币,外国/特区"
+    }
+  ]
+}

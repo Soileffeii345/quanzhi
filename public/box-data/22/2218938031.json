@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2218938031",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2218938031",
+      "displayBoxCode": "2218938-031",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1953年西班牙纸钞",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10373879.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2218938-031/",
+      "price": 120,
+      "priceWithFee": 133.2,
+      "transactedAt": "2026-06-30 22:49:35",
+      "productCode": "871685009",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/26/871685009B.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,1953年,年西,西班,班牙,牙纸,纸钞"
+    }
+  ]
+}

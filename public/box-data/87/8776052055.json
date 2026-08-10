@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8776052055",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8776052055",
+      "displayBoxCode": "8776052-055",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1979年第四届全运会-女子舞剑1/2盎司金章",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10424301.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8776052-055/",
+      "price": 16400,
+      "priceWithFee": 16974,
+      "transactedAt": "2026-07-27 22:09:40",
+      "productCode": "877959009",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/877959009A.jpg",
+      "ocrConfidence": 40,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,章,1979年,2盎司,年第,第四,四届,届全,全运,运会,会女,女子,子舞,舞剑,剑盎,盎司,司金,金章"
+    }
+  ]
+}

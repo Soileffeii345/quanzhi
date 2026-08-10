@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2161365039",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2161365039",
+      "displayBoxCode": "2161365-039",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "民国二十五年中央银行拾圆",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10361793.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2161365-039/",
+      "price": 240,
+      "priceWithFee": 266.4,
+      "transactedAt": "2026-07-07 21:25:05",
+      "productCode": "870325003",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/870325003B.jpg",
+      "ocrConfidence": 28,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国二,二十,十五,五年,年中,中央,央银,银行,行拾,拾圆"
+    }
+  ]
+}

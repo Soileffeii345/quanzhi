@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4418734004",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4418734004",
+      "displayBoxCode": "4418734-004",
+      "gradingCompany": "NGC",
+      "grade": "PF67 ULTRA CAMEO",
+      "coinName": "1997年中国精制硬币1元",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10395609.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4418734-004/67/",
+      "price": 330,
+      "priceWithFee": 356.4,
+      "transactedAt": "2026-07-15 20:19:05",
+      "productCode": "873836005",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/873836005A.jpg",
+      "ocrConfidence": 29,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1997年,年中,中国,国精,精制,制硬,硬币,币元,评级"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6150199010",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6150199010",
+      "displayBoxCode": "6150199-010",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1996年北京国际钱币博览会1盎司普制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10383397.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6150199-010/",
+      "price": 890,
+      "priceWithFee": 921.15,
+      "transactedAt": "2026-07-06 22:02:10",
+      "productCode": "871831016",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/27/871831016A.jpg",
+      "ocrConfidence": 40,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1996年,1盎司,年北,北京,京国,国际,际钱,钱币,币博,博览,览会,会盎,盎司,司普,普制,制银,银币"
+    }
+  ]
+}

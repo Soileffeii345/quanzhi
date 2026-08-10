@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8205177048",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8205177048",
+      "displayBoxCode": "8205177-048",
+      "gradingCompany": "NGC",
+      "grade": "PF 67 ULTRA CAMEO",
+      "coinName": "1994年1/3盎司梅兰芳诞辰100周年金章",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/469886.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8205177-048/67/",
+      "price": 7310,
+      "priceWithFee": null,
+      "transactedAt": "2025-03-24 15:10:10",
+      "productCode": "AA556083",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250324/large_sell_2iui77sgnlshfepz.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,章,1994年,3盎司,年盎,盎司,司梅,梅兰,兰芳,芳诞,诞辰,辰周,周年,年金,金章"
+    }
+  ]
+}

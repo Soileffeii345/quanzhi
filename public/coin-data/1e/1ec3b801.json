@@ -1,0 +1,31 @@
+{
+  "coinName": "2014年生肖1公斤精制银币",
+  "slug": "1ec3b801",
+  "saleCount": 1,
+  "keywords": "银,币,2014年,1公斤,生肖,年甲,甲午,午马,马年,年生,肖公,公斤,斤精,精制,制银,银币,评级",
+  "priceStats": {
+    "low": 22000,
+    "high": 22000,
+    "avg": 22000,
+    "latest": 22000
+  },
+  "records": [
+    {
+      "coinName": "2014年甲午马年生肖1公斤精制银币",
+      "normalizedBoxCode": "6421516018",
+      "displayBoxCode": "6421516-018",
+      "gradingCompany": "NGC",
+      "grade": "PF70 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10419129.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6421516-018/70/",
+      "price": 22000,
+      "priceWithFee": 22770,
+      "transactedAt": "2026-07-23 20:15:05",
+      "productCode": "877325007",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2014年,1公斤,生肖,年甲,甲午,午马,马年,年生,肖公,公斤,斤精,精制,制银,银币,评级"
+    }
+  ]
+}

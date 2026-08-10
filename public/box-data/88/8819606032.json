@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8819606032",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8819606032",
+      "displayBoxCode": "8819606-032",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1999年己卯兔年生肖1盎司精制彩银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10358629.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8819606-032/",
+      "price": 1200,
+      "priceWithFee": 1242,
+      "transactedAt": "2026-06-22 20:29:10",
+      "productCode": "870078004",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/870078004A.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1999年,1盎司,生肖,年己,己卯,卯兔,兔年,年生,肖盎,盎司,司精,精制,制彩,彩银,银币,评级"
+    }
+  ]
+}

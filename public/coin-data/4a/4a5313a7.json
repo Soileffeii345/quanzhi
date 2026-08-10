@@ -1,0 +1,65 @@
+{
+  "coinName": "1985年银币",
+  "slug": "4a5313a7",
+  "saleCount": 3,
+  "keywords": "银,币,1985年,年西,西藏,藏自,自治,治区,区成,成立,立周,周年,年银,银币,币纪,纪念,念币,币精,精制,评级,章,生肖,年乙,乙丑,丑牛,牛年,年福,福牛,牛银,银章",
+  "priceStats": {
+    "low": 790,
+    "high": 23600,
+    "avg": 15997,
+    "latest": 23600
+  },
+  "records": [
+    {
+      "coinName": "1985年西藏自治区成立20周年银币+纪念币(精制) X2",
+      "normalizedBoxCode": "6706523001",
+      "displayBoxCode": "6706523-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/431054.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6706523-001/69/",
+      "price": 23600,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-26 12:58:47",
+      "productCode": "AA477556.57A",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1985年,年西,西藏,藏自,自治,治区,区成,成立,立周,周年,年银,银币,币纪,纪念,念币,币精,精制,评级"
+    },
+    {
+      "coinName": "1985年西藏自治区成立20周年银币+纪念币(精制) X2",
+      "normalizedBoxCode": "6706523002",
+      "displayBoxCode": "6706523-002",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/431054.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6706523-002/69/",
+      "price": 23600,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-26 12:58:47",
+      "productCode": "AA477556.57A",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1985年,年西,西藏,藏自,自治,治区,区成,成立,立周,周年,年银,银币,币纪,纪念,念币,币精,精制,评级"
+    },
+    {
+      "coinName": "1985年乙丑牛年-福牛银章",
+      "normalizedBoxCode": "8179699009",
+      "displayBoxCode": "8179699-009",
+      "gradingCompany": "NGC",
+      "grade": "PF 67 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10431423.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8179699-009/67/",
+      "price": 790,
+      "priceWithFee": 817.65,
+      "transactedAt": "2026-07-27 20:16:10",
+      "productCode": "878757017",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,章,1985年,生肖,年乙,乙丑,丑牛,牛年,年福,福牛,牛银,银章"
+    }
+  ]
+}

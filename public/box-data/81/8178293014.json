@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8178293014",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8178293014",
+      "displayBoxCode": "8178293-014",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1979年1/2盎司建国30周年金币(UC)",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/455513.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8178293-014/69/",
+      "price": 48000,
+      "priceWithFee": null,
+      "transactedAt": "2025-02-19 12:01:40",
+      "productCode": "AA534261.62.63.64",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20241123/large_sell_s4sircohdfrq3awz.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1979年,2盎司,重大事件,年盎,盎司,司建,建国,国周,周年,年金,金币"
+    }
+  ]
+}

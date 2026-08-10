@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8650202087",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8650202087",
+      "displayBoxCode": "8650202-087",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2025年乙巳蛇年生肖30克梅花形精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10417583.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8650202-087/70/",
+      "price": 920,
+      "priceWithFee": 952.2,
+      "transactedAt": "2026-07-20 19:54:40",
+      "productCode": "877170008",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/877170008A.jpg",
+      "ocrConfidence": 32,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2025年,30克,生肖,年乙,乙巳,巳蛇,蛇年,年生,肖克,克梅,梅花,花形,形精,精制,制银,银币,评级"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2400764046",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2400764046",
+      "displayBoxCode": "2400764-046",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "香港政府壹分",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xianggangzhichao/10392416.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2400764-046/",
+      "price": 130,
+      "priceWithFee": 144.3,
+      "transactedAt": "2026-07-28 20:16:20",
+      "productCode": "873790009",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/873790009B.jpg",
+      "ocrConfidence": 37,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "香港,港政,政府,府壹,壹分,外国/特区"
+    }
+  ]
+}

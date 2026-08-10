@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6154084001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6154084001",
+      "displayBoxCode": "6154084-001",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2015年1盎司吉祥文化并蒂同心银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/543284.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6154084-001/",
+      "price": 1300,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-29 21:10:21",
+      "productCode": "AA615694",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260129/large_sell_wahsw2ob27il4jxg.jpg",
+      "ocrConfidence": 32,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2015年,1盎司,吉祥文化,年盎,盎司,司吉,吉祥,祥文,文化,化并,并蒂,蒂同,同心,心银,银币"
+    }
+  ]
+}

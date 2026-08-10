@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6744566026",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6744566026",
+      "displayBoxCode": "6744566-026",
+      "gradingCompany": "NGC",
+      "grade": "MS 70",
+      "coinName": "2024年8克菱形贺岁彩银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/537350.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6744566-026/70/",
+      "price": 550,
+      "priceWithFee": null,
+      "transactedAt": "2026-02-07 10:55:29",
+      "productCode": "KH117082",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260123/large_sell_y42p1g2aappr68or.jpg",
+      "ocrConfidence": 39,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2024年,8克,吉祥文化,年克,克菱,菱形,形贺,贺岁,岁彩,彩银,银币"
+    }
+  ]
+}

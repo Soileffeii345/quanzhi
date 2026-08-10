@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "1764707004",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "1764707004",
+      "displayBoxCode": "1764707-004",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "第三版人民币轮船5分二枚",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/disanbanrenminbi/10407985.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1764707-004/",
+      "price": 180,
+      "priceWithFee": 194.4,
+      "transactedAt": "2026-07-21 20:33:35",
+      "productCode": "875957015",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/875957015B.jpg",
+      "ocrConfidence": 26,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,第三,三版,版人,人民,民币,币轮,轮船,船分,分二,二枚"
+    }
+  ]
+}

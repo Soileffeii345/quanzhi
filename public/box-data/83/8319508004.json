@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8319508004",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8319508004",
+      "displayBoxCode": "8319508-004",
+      "gradingCompany": "NGC",
+      "grade": "PF70",
+      "coinName": "2026年丙午马年生肖15克精制银币二枚",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10370929.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8319508-004/70/",
+      "price": 1180,
+      "priceWithFee": 1221.3,
+      "transactedAt": "2026-06-27 20:22:05",
+      "productCode": "871555001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/26/871555001A.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2026年,15克,生肖,年丙,丙午,午马,马年,年生,肖克,克精,精制,制银,银币,币二,二枚,评级"
+    }
+  ]
+}

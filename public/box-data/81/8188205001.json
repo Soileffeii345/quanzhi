@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8188205001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8188205001",
+      "displayBoxCode": "8188205-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2006年丙戌狗年生肖1公斤精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10382829.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8188205-001/69/",
+      "price": 37500,
+      "priceWithFee": 38812.5,
+      "transactedAt": "2026-07-09 20:35:25",
+      "productCode": "872358001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/27/872358001A.jpg",
+      "ocrConfidence": 51,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2006年,1公斤,生肖,年丙,丙戌,戌狗,狗年,年生,肖公,公斤,斤精,精制,制银,银币,评级"
+    }
+  ]
+}

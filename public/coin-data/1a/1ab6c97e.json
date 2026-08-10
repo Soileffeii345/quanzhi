@@ -1,0 +1,48 @@
+{
+  "coinName": "1990年熊猫31.104克精制银币",
+  "slug": "1ab6c97e",
+  "saleCount": 2,
+  "keywords": "银,币,1990年,1盎司,熊猫,年熊,猫盎,盎司,司精,精制,制银,银币,币小,小版,评级",
+  "priceStats": {
+    "low": 4200,
+    "high": 10200,
+    "avg": 7200,
+    "latest": 4200
+  },
+  "records": [
+    {
+      "coinName": "1990年熊猫1盎司精制银币（小P版）",
+      "normalizedBoxCode": "8750142001",
+      "displayBoxCode": "8750142-001",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-jiuyin/10351238.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8750142-001/",
+      "price": 4200,
+      "priceWithFee": 4347,
+      "transactedAt": "2026-06-18 20:32:40",
+      "productCode": "869398022",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1990年,1盎司,熊猫,年熊,猫盎,盎司,司精,精制,制银,银币,币小,小版,评级"
+    },
+    {
+      "coinName": "1990年熊猫1盎司精制银币（小P版）",
+      "normalizedBoxCode": "8764029001",
+      "displayBoxCode": "8764029-001",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-jiuyin/10351249.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8764029-001/",
+      "price": 10200,
+      "priceWithFee": 10557,
+      "transactedAt": "2026-06-18 20:01:10",
+      "productCode": "869398033",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1990年,1盎司,熊猫,年熊,猫盎,盎司,司精,精制,制银,银币,币小,小版,评级"
+    }
+  ]
+}

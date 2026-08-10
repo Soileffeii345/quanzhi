@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8610539001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8610539001",
+      "displayBoxCode": "8610539-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2010年中国石窟艺术-云冈5盎司精制金币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10376851.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8610539-001/69/",
+      "price": 224000,
+      "priceWithFee": 231840,
+      "transactedAt": "2026-07-02 21:14:50",
+      "productCode": "872113012",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/26/872113012A.jpg",
+      "ocrConfidence": 49,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2010年,5盎司,年中,中国,国石,石窟,窟艺,艺术,术云,云冈,冈盎,盎司,司精,精制,制金,金币,评级"
+    }
+  ]
+}

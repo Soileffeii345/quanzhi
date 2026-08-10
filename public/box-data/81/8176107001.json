@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8176107001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8176107001",
+      "displayBoxCode": "8176107-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 66 ULTRA CAMEO",
+      "coinName": "1981年鲁迅诞辰100周年原版铜章(沈币40)",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/475649.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8176107-001/66/",
+      "price": 720,
+      "priceWithFee": null,
+      "transactedAt": "2025-07-04 14:29:33",
+      "productCode": "KH072083",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250428/large_sell_5t9wplyjuzwbr2wd.jpg",
+      "ocrConfidence": 44,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "铜,币,章,1981年,年鲁,鲁迅,迅诞,诞辰,辰周,周年,年原,原版,版铜,铜章,章沈,沈币"
+    }
+  ]
+}

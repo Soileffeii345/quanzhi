@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8547628002",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8547628002",
+      "displayBoxCode": "8547628-002",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1996年中国精制硬币壹圆",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10359816.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8547628-002/",
+      "price": 440,
+      "priceWithFee": 475.2,
+      "transactedAt": "2026-06-24 20:33:25",
+      "productCode": "869854002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/869854002A.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1996年,年中,中国,国精,精制,制硬,硬币,币壹,壹圆,评级"
+    }
+  ]
+}

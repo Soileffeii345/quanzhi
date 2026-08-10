@@ -1,0 +1,45 @@
+{
+  "ok": true,
+  "query": "8198500034",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8198500034",
+      "displayBoxCode": "8198500-034",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "coinName": "1984年中国硬币伍分",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10385284.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8198500-034/69/",
+      "price": 190,
+      "priceWithFee": 205.2,
+      "transactedAt": "2026-07-08 20:20:45",
+      "productCode": "873537003",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/26/871771010A.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1984年,年中,中国,国硬,硬币,币伍,伍分"
+    },
+    {
+      "normalizedBoxCode": "8198500034",
+      "displayBoxCode": "8198500-034",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "coinName": "1984年中国硬币伍分",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10373841.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8198500-034/69/",
+      "price": 180,
+      "priceWithFee": 194.4,
+      "transactedAt": "2026-07-01 20:30:05",
+      "productCode": "871771010",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/26/871771010A.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1984年,年中,中国,国硬,硬币,币伍,伍分"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4421661010",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4421661010",
+      "displayBoxCode": "4421661-010",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2016年30克大足石刻银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/481116.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4421661-010/",
+      "price": 440,
+      "priceWithFee": null,
+      "transactedAt": "2025-07-24 11:11:49",
+      "productCode": "AA565400",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250603/large_sell_rubedapkiwrqf69s.jpg",
+      "ocrConfidence": 29,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2016年,30克,年克,克大,大足,足石,石刻,刻银,银币"
+    }
+  ]
+}

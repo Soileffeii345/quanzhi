@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4891711026",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4891711026",
+      "displayBoxCode": "4891711-026",
+      "gradingCompany": "NGC",
+      "grade": "MS 70",
+      "coinName": "2019年8克贺岁银币 X2",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/513871.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4891711-026/70/",
+      "price": 400,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-04 22:55:19",
+      "productCode": "AA597718.19",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251120/large_sell_shoqj14jyk8cbfuf.jpg",
+      "ocrConfidence": 30,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2019年,8克,吉祥文化,年克,克贺,贺岁,岁银,银币"
+    }
+  ]
+}

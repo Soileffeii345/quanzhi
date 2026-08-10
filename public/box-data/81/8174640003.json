@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8174640003",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8174640003",
+      "displayBoxCode": "8174640-003",
+      "gradingCompany": "NGC",
+      "grade": "PF69 ULTRA CAMEO",
+      "coinName": "2012年1/4盎司京剧脸谱第3组孙悟空彩金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/503140.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8174640-003/69/",
+      "price": 6695,
+      "priceWithFee": null,
+      "transactedAt": "2025-09-28 12:11:51",
+      "productCode": "KH085230",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250928/large_sell_8tkgpylwb6pdnn7z.jpg",
+      "ocrConfidence": 41,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2012年,4盎司,戏曲,年盎,盎司,司京,京剧,剧脸,脸谱,谱第,第组,组孙,孙悟,悟空,空彩,彩金,金币"
+    }
+  ]
+}

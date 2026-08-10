@@ -1,0 +1,65 @@
+{
+  "coinName": "1998年周恩来31.104克精制银币",
+  "slug": "5e315739",
+  "saleCount": 3,
+  "keywords": "银,币,1998年,1盎司,年周,周恩,恩来,来诞,诞辰,辰周,周年,年盎,盎司,司精,精制,制银,银币,币二,二枚,枚一,一套,评级",
+  "priceStats": {
+    "low": 1560,
+    "high": 1900,
+    "avg": 1713,
+    "latest": 1900
+  },
+  "records": [
+    {
+      "coinName": "1998年周恩来诞辰100周年1盎司精制银币二枚一套",
+      "normalizedBoxCode": "8766320006",
+      "displayBoxCode": "8766320-006",
+      "gradingCompany": "NGC",
+      "grade": "PF70 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10351451.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8766320-006/70/",
+      "price": 1900,
+      "priceWithFee": 1966.5,
+      "transactedAt": "2026-06-25 19:34:35",
+      "productCode": "869365007",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1998年,1盎司,年周,周恩,恩来,来诞,诞辰,辰周,周年,年盎,盎司,司精,精制,制银,银币,币二,二枚,枚一,一套,评级"
+    },
+    {
+      "coinName": "1998年周恩来诞辰100周年1盎司精制银币二枚一套",
+      "normalizedBoxCode": "8766320009",
+      "displayBoxCode": "8766320-009",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10351449.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8766320-009/",
+      "price": 1680,
+      "priceWithFee": 1738.8,
+      "transactedAt": "2026-06-22 20:54:40",
+      "productCode": "869365005",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1998年,1盎司,年周,周恩,恩来,来诞,诞辰,辰周,周年,年盎,盎司,司精,精制,制银,银币,币二,二枚,枚一,一套,评级"
+    },
+    {
+      "coinName": "1998年周恩来诞辰100周年1盎司精制银币二枚一套",
+      "normalizedBoxCode": "8766320010",
+      "displayBoxCode": "8766320-010",
+      "gradingCompany": "NGC",
+      "grade": "PF 68 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10351450.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8766320-010/68/",
+      "price": 1560,
+      "priceWithFee": 1614.6,
+      "transactedAt": "2026-06-22 20:25:40",
+      "productCode": "869365006",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1998年,1盎司,年周,周恩,恩来,来诞,诞辰,辰周,周年,年盎,盎司,司精,精制,制银,银币,币二,二枚,枚一,一套,评级"
+    }
+  ]
+}

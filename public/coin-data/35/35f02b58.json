@@ -1,0 +1,31 @@
+{
+  "coinName": "1992年古代科技15克精制铜币",
+  "slug": "35f02b58",
+  "saleCount": 1,
+  "keywords": "银,铜,币,1992年,15克,年中,中国,国古,古代,代科,科技,技发,发明,明发,发现,现第,第组,组最,最早,早铜,铜铸,铸币,币克,克精,精制,制银,银币,评级",
+  "priceStats": {
+    "low": 600,
+    "high": 600,
+    "avg": 600,
+    "latest": 600
+  },
+  "records": [
+    {
+      "coinName": "1992年中国古代科技发明发现第（1）组-最早铜铸币15克精制银币",
+      "normalizedBoxCode": "8585343009",
+      "displayBoxCode": "8585343-009",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10390752.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8585343-009/69/",
+      "price": 600,
+      "priceWithFee": 621,
+      "transactedAt": "2026-07-13 20:18:55",
+      "productCode": "873948011",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,铜,币,1992年,15克,年中,中国,国古,古代,代科,科技,技发,发明,明发,发现,现第,第组,组最,最早,早铜,铜铸,铸币,币克,克精,精制,制银,银币,评级"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "ok": true,
+  "query": "6644624001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6644624001",
+      "displayBoxCode": "6644624-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1993年中国杰出历史人物第（10）组-李大钊22克精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10408989.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6644624-001/69/",
+      "price": 720,
+      "priceWithFee": 745.2,
+      "transactedAt": "2026-07-20 21:45:10",
+      "productCode": "876012007",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/876012007A.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1993年,22克,年中,中国,国杰,杰出,出历,历史,史人,人物,物第,第组,组李,李大,大钊,钊克,克精,精制,制银,银币,评级"
+    },
+    {
+      "normalizedBoxCode": "6644624001",
+      "displayBoxCode": "6644624-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1993年中国杰出历史人物第（10）组-李大钊22克精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10351427.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6644624-001/69/",
+      "price": 720,
+      "priceWithFee": 745.2,
+      "transactedAt": "2026-06-22 21:36:10",
+      "productCode": "869274005",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/869274005A.jpg",
+      "ocrConfidence": 41,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1993年,22克,年中,中国,国杰,杰出,出历,历史,史人,人物,物第,第组,组李,李大,大钊,钊克,克精,精制,制银,银币,评级"
+    }
+  ]
+}

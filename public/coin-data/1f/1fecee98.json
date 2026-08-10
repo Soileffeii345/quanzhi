@@ -1,0 +1,31 @@
+{
+  "coinName": "1993年生肖31.104克金币",
+  "slug": "1fecee98",
+  "saleCount": 1,
+  "keywords": "金,币,1993年,1盎司,生肖,年盎,盎司,司生,肖鸡,鸡金,金币",
+  "priceStats": {
+    "low": 35200,
+    "high": 35200,
+    "avg": 35200,
+    "latest": 35200
+  },
+  "records": [
+    {
+      "coinName": "1993年1盎司生肖鸡金币",
+      "normalizedBoxCode": "6719477002",
+      "displayBoxCode": "6719477-002",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/465500.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6719477-002/",
+      "price": 35200,
+      "priceWithFee": null,
+      "transactedAt": "2025-04-21 07:29:48",
+      "productCode": "KH064929",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1993年,1盎司,生肖,年盎,盎司,司生,肖鸡,鸡金,金币"
+    }
+  ]
+}

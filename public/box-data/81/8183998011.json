@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8183998011",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8183998011",
+      "displayBoxCode": "8183998-011",
+      "gradingCompany": "NGC",
+      "grade": "PF70",
+      "coinName": "2025年15克国家宝藏击鼓说唱俑银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/503795.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8183998-011/70/",
+      "price": 380,
+      "priceWithFee": null,
+      "transactedAt": "2025-10-15 21:00:12",
+      "productCode": "KH086062",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251007/large_sell_jbfuqpwbq8gwcukp.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2025年,15克,年克,克国,国家,家宝,宝藏,藏击,击鼓,鼓说,说唱,唱俑,俑银,银币"
+    }
+  ]
+}

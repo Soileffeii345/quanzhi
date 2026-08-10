@@ -1,0 +1,31 @@
+{
+  "coinName": "民国十年震义银行壹圆",
+  "slug": "1ce5c9d9",
+  "saleCount": 1,
+  "keywords": "银,历史币,民国,国十,十年,年震,震义,义银,银行,行壹,壹圆",
+  "priceStats": {
+    "low": 770,
+    "high": 770,
+    "avg": 770,
+    "latest": 770
+  },
+  "records": [
+    {
+      "coinName": "民国十年震义银行壹圆",
+      "normalizedBoxCode": "2034058034",
+      "displayBoxCode": "2034058-034",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/yangshangkechao/10373853.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2034058-034/",
+      "price": 770,
+      "priceWithFee": 854.7,
+      "transactedAt": "2026-07-16 20:47:40",
+      "productCode": "871682001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国十,十年,年震,震义,义银,银行,行壹,壹圆"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4559006050",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4559006050",
+      "displayBoxCode": "4559006-050",
+      "gradingCompany": "NGC",
+      "grade": "MS 70",
+      "coinName": "2017年8克熊猫金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/474635.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4559006-050/70/",
+      "price": 6825,
+      "priceWithFee": null,
+      "transactedAt": "2025-04-22 15:38:46",
+      "productCode": "KH065160",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250422/large_sell_nye3hxty6hqjnvfs.jpg",
+      "ocrConfidence": 38,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2017年,8克,熊猫,年克,克熊,猫金,金币"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "coinName": "2016年孙中山8克金币",
+  "slug": "181977ae",
+  "saleCount": 2,
+  "keywords": "金,币,2016年,8克,孙小头,孙中山,小头,年克,克孙,孙中,中山,山诞,诞辰,辰周,周年,年金,金币",
+  "priceStats": {
+    "low": 6405,
+    "high": 9600,
+    "avg": 8003,
+    "latest": 6405
+  },
+  "records": [
+    {
+      "coinName": "2016年8克孙中山诞辰150周年金币",
+      "normalizedBoxCode": "4407827001",
+      "displayBoxCode": "4407827-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/492698.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4407827-001/70/",
+      "price": 6405,
+      "priceWithFee": null,
+      "transactedAt": "2025-08-04 18:39:04",
+      "productCode": "KH077801",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2016年,8克,孙小头,孙中山,小头,年克,克孙,孙中,中山,山诞,诞辰,辰周,周年,年金,金币"
+    },
+    {
+      "coinName": "2016年8克孙中山诞辰150周年金币",
+      "normalizedBoxCode": "6412626078",
+      "displayBoxCode": "6412626-078",
+      "gradingCompany": "NGC",
+      "grade": "PF70 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/509320.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6412626-078/70/",
+      "price": 9600,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-21 17:45:21",
+      "productCode": "KH109926",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2016年,8克,孙小头,孙中山,小头,年克,克孙,孙中,中山,山诞,诞辰,辰周,周年,年金,金币"
+    }
+  ]
+}

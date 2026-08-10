@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2693289022",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2693289022",
+      "displayBoxCode": "2693289-022",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1994年22克古代科技第3组银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/485861.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2693289-022/",
+      "price": 8000,
+      "priceWithFee": null,
+      "transactedAt": "2025-07-12 21:17:10",
+      "productCode": "AA570292.....96",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250627/large_sell_uq5mjwc4nupfndrp.jpg",
+      "ocrConfidence": 32,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1994年,22克,年克,克古,古代,代科,科技,技第,第组,组银,银币"
+    }
+  ]
+}

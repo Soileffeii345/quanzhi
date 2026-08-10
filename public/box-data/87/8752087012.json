@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8752087012",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8752087012",
+      "displayBoxCode": "8752087-012",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2011年辛卯兔年生肖1/2盎司梅花形精制金币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-jin/10390826.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8752087-012/70/",
+      "price": 16600,
+      "priceWithFee": 17181,
+      "transactedAt": "2026-07-09 21:24:05",
+      "productCode": "873930021",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/27/873930021A.jpg",
+      "ocrConfidence": 47,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2011年,2盎司,生肖,年辛,辛卯,卯兔,兔年,年生,肖盎,盎司,司梅,梅花,花形,形精,精制,制金,金币,评级"
+    }
+  ]
+}

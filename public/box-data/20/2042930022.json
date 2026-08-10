@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2042930022",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2042930022",
+      "displayBoxCode": "2042930-022",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2001年1/10盎司敦煌石窟金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/416518.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2042930-022/",
+      "price": 1900,
+      "priceWithFee": null,
+      "transactedAt": "2024-02-03 17:07:19",
+      "productCode": "AA462804",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20240202/large_sell_hob1sschwiet46wt.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2001年,10盎司,年盎,盎司,司敦,敦煌,煌石,石窟,窟金,金币"
+    }
+  ]
+}

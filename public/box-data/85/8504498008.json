@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8504498008",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8504498008",
+      "displayBoxCode": "8504498-008",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2018年朝鲜解放战争胜利65周年31克银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/wgjsbizhang/10354141.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8504498-008/",
+      "price": 1100,
+      "priceWithFee": 1166,
+      "transactedAt": "2026-06-19 20:40:05",
+      "productCode": "869380002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/869380002A.jpg",
+      "ocrConfidence": 39,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2018年,31克,年朝,朝鲜,鲜解,解放,放战,战争,争胜,胜利,利周,周年,年克,克银,银币"
+    }
+  ]
+}

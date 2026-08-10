@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "87354769",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "87354769",
+      "displayBoxCode": "87354769",
+      "gradingCompany": "PCGS",
+      "grade": "待复核",
+      "coinName": "机制光绪通宝",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguojindaijizhibi/10364062.shtml",
+      "officialCertUrl": "https://cn.pcgs.com/cert/87354769",
+      "price": 320,
+      "priceWithFee": 345.6,
+      "transactedAt": "2026-07-13 20:33:45",
+      "productCode": "869579006",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/869579006A.jpg",
+      "ocrConfidence": 29,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "历史币,机制,制光,光绪,绪通,通宝"
+    }
+  ]
+}

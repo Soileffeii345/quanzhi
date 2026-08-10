@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4319569056",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4319569056",
+      "displayBoxCode": "4319569-056",
+      "gradingCompany": "NGC",
+      "grade": "PF 70",
+      "coinName": "2016年宁波会馆设立90周年金银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/532143.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4319569-056/70/",
+      "price": 7500,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-16 18:56:53",
+      "productCode": "KH107240",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260116/large_sell_krvfu9xwg29wz39z.jpg",
+      "ocrConfidence": 44,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,2016年,年宁,宁波,波会,会馆,馆设,设立,立周,周年,年金,金银,银币"
+    }
+  ]
+}

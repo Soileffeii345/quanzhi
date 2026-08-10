@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6390956012",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6390956012",
+      "displayBoxCode": "6390956-012",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1994年1/3盎司奥运会100周年金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/525325.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6390956-012/69/",
+      "price": 10600,
+      "priceWithFee": null,
+      "transactedAt": "2025-12-28 09:32:23",
+      "productCode": "KH099945",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251228/large_sell_jmozf2d5zfye2tgo.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1994年,3盎司,奥运,年盎,盎司,司奥,运会,会周,周年,年金,金币"
+    }
+  ]
+}

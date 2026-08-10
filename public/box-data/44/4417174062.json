@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4417174062",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4417174062",
+      "displayBoxCode": "4417174-062",
+      "gradingCompany": "NGC",
+      "grade": "PF 68 ULTRA CAMEO",
+      "coinName": "1988年27克第24届奥运会女子跨栏银币(UC)",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/555472.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4417174-062/68/",
+      "price": 800,
+      "priceWithFee": null,
+      "transactedAt": "2026-02-21 09:13:58",
+      "productCode": "KH119925",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260220/large_sell_gg4lnbp2ntnsd9gr.jpg",
+      "ocrConfidence": 43,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1988年,27克,奥运,年克,克第,第届,届奥,运会,会女,女子,子跨,跨栏,栏银,银币"
+    }
+  ]
+}

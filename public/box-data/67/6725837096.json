@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6725837096",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6725837096",
+      "displayBoxCode": "6725837-096",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1992年44克古代科技第1组银币(加厚)",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/448671.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6725837-096/",
+      "price": 15800,
+      "priceWithFee": null,
+      "transactedAt": "2025-09-24 21:11:09",
+      "productCode": "AA499991.....95A",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20240910/large_sell_35ufbruaix0qznko.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1992年,44克,年克,克古,古代,代科,科技,技第,第组,组银,银币,币加,加厚"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8754541002",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8754541002",
+      "displayBoxCode": "8754541-002",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1980年长城币伍角",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10359840.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8754541-002/",
+      "price": 140,
+      "priceWithFee": 151.2,
+      "transactedAt": "2026-06-24 19:56:05",
+      "productCode": "869854026",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/869854026A.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1980年,年长,长城,城币,币伍,伍角"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8182117001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8182117001",
+      "displayBoxCode": "8182117-001",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1997年1盎司方形齐白石银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/467022.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8182117-001/",
+      "price": 3800,
+      "priceWithFee": null,
+      "transactedAt": "2025-03-16 10:52:33",
+      "productCode": "AA553461.62",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250305/large_sell_bfa9h1andeknlvnc.jpg",
+      "ocrConfidence": 37,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1997年,1盎司,年盎,盎司,司方,方形,形齐,齐白,白石,石银,银币"
+    }
+  ]
+}

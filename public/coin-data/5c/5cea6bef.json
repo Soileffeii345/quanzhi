@@ -1,0 +1,48 @@
+{
+  "coinName": "15克吉祥文化银币若干",
+  "slug": "5cea6bef",
+  "saleCount": 2,
+  "keywords": "银,币,15克,吉祥文化,克吉,吉祥,祥文,文化,化银,银币,币若,若干",
+  "priceStats": {
+    "low": 930,
+    "high": 930,
+    "avg": 930,
+    "latest": 930
+  },
+  "records": [
+    {
+      "coinName": "15克吉祥文化银币若干",
+      "normalizedBoxCode": "6414516031",
+      "displayBoxCode": "6414516-031",
+      "gradingCompany": "NGC",
+      "grade": "Pr70 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/569108.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6414516-031/70/",
+      "price": 930,
+      "priceWithFee": null,
+      "transactedAt": "2026-04-02 10:27:25",
+      "productCode": "KH127938",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,15克,吉祥文化,克吉,吉祥,祥文,文化,化银,银币,币若,若干"
+    },
+    {
+      "coinName": "15克吉祥文化银币若干",
+      "normalizedBoxCode": "6740387015",
+      "displayBoxCode": "6740387-015",
+      "gradingCompany": "NGC",
+      "grade": "PF70 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/569108.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6740387-015/70/",
+      "price": 930,
+      "priceWithFee": null,
+      "transactedAt": "2026-04-02 10:27:25",
+      "productCode": "KH127938",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,15克,吉祥文化,克吉,吉祥,祥文,文化,化银,银币,币若,若干"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6766797041",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6766797041",
+      "displayBoxCode": "6766797-041",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1996年22克丝绸之路第2组载乐图银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/413894.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6766797-041/",
+      "price": 3800,
+      "priceWithFee": null,
+      "transactedAt": "2024-01-23 22:54:01",
+      "productCode": "AA459906",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20240123/large_sell_5azxfbyonygogveg.jpg",
+      "ocrConfidence": 30,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1996年,22克,年克,克丝,丝绸,绸之,之路,路第,第组,组载,载乐,乐图,图银,银币"
+    }
+  ]
+}

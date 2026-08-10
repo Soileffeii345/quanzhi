@@ -1,0 +1,82 @@
+{
+  "coinName": "2008年3盎司金币",
+  "slug": "6c1cf312",
+  "saleCount": 4,
+  "keywords": "金,币,2008年,3盎司,年盎,盎司,司中,中国,国首,首次,次太,太空,空行,行走,走成,成功,功彩,彩金,金币,司残,残奥,奥会,会彩",
+  "priceStats": {
+    "low": 8040,
+    "high": 10925,
+    "avg": 9886,
+    "latest": 10925
+  },
+  "records": [
+    {
+      "coinName": "2008年1/3盎司中国首次太空行走成功彩金币",
+      "normalizedBoxCode": "4637468003",
+      "displayBoxCode": "4637468-003",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/570486.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4637468-003/",
+      "price": 10925,
+      "priceWithFee": null,
+      "transactedAt": "2026-04-06 20:27:27",
+      "productCode": "KH128708",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2008年,3盎司,年盎,盎司,司中,中国,国首,首次,次太,太空,空行,行走,走成,成功,功彩,彩金,金币"
+    },
+    {
+      "coinName": "2008年1/3盎司中国首次太空行走成功彩金币",
+      "normalizedBoxCode": "4637468003",
+      "displayBoxCode": "4637468-003",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/521497.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4637468-003/",
+      "price": 10170,
+      "priceWithFee": null,
+      "transactedAt": "2025-12-17 18:55:11",
+      "productCode": "KH095505",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2008年,3盎司,年盎,盎司,司中,中国,国首,首次,次太,太空,空行,行走,走成,成功,功彩,彩金,金币"
+    },
+    {
+      "coinName": "2008年1/3盎司中国首次太空行走成功彩金币",
+      "normalizedBoxCode": "6053207032",
+      "displayBoxCode": "6053207-032",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/472881.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6053207-032/69/",
+      "price": 8040,
+      "priceWithFee": null,
+      "transactedAt": "2025-04-12 15:30:29",
+      "productCode": "KH064218",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2008年,3盎司,年盎,盎司,司中,中国,国首,首次,次太,太空,空行,行走,走成,成功,功彩,彩金,金币"
+    },
+    {
+      "coinName": "2008年1/3盎司残奥会彩金币",
+      "normalizedBoxCode": "8499198001",
+      "displayBoxCode": "8499198-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/584887.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8499198-001/69/",
+      "price": 10410,
+      "priceWithFee": null,
+      "transactedAt": "2026-05-29 09:06:45",
+      "productCode": "KH136776",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2008年,3盎司,年盎,盎司,司残,残奥,奥会,会彩,彩金,金币"
+    }
+  ]
+}

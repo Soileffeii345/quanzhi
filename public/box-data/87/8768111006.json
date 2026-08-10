@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8768111006",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8768111006",
+      "displayBoxCode": "8768111-006",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1990年庚午马年生肖15克精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10350326.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8768111-006/",
+      "price": 980,
+      "priceWithFee": 1014.3,
+      "transactedAt": "2026-06-22 21:18:40",
+      "productCode": "869323006",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/869323006A.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1990年,15克,生肖,年庚,庚午,午马,马年,年生,肖克,克精,精制,制银,银币,评级"
+    }
+  ]
+}

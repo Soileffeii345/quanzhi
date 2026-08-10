@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6729879004",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6729879004",
+      "displayBoxCode": "6729879-004",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1995年1/2盎司台湾光复50周年金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/446399.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6729879-004/",
+      "price": 43000,
+      "priceWithFee": null,
+      "transactedAt": "2025-03-19 01:05:31",
+      "productCode": "AA494821.22A",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20240731/large_sell_jkvjwmkmauhb3ahq.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1995年,2盎司,年盎,盎司,司台,台湾,湾光,光复,复周,周年,年金,金币"
+    }
+  ]
+}

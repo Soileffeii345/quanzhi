@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2410671034",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2410671034",
+      "displayBoxCode": "2410671-034",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2003年1/2盎司扇形生肖羊金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/472900.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2410671-034/",
+      "price": 12055,
+      "priceWithFee": null,
+      "transactedAt": "2025-04-12 17:44:00",
+      "productCode": "KH064233",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250412/large_sell_5i8so7ysfbqvkono.jpg",
+      "ocrConfidence": 52,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2003年,2盎司,生肖,年盎,盎司,司扇,扇形,形生,肖羊,羊金,金币"
+    }
+  ]
+}

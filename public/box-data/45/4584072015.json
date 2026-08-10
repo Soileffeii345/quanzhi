@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4584072015",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4584072015",
+      "displayBoxCode": "4584072-015",
+      "gradingCompany": "NGC",
+      "grade": "PF70 ULTRA CAMEO",
+      "coinName": "2015年2盎司古典园林避暑山庄银章",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/518648.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4584072-015/70/",
+      "price": 1400,
+      "priceWithFee": null,
+      "transactedAt": "2025-12-26 11:43:23",
+      "productCode": "KH096763",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251209/large_sell_ebpgmkxhypoqwqwg.jpg",
+      "ocrConfidence": 44,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,章,2015年,2盎司,年盎,盎司,司古,古典,典园,园林,林避,避暑,暑山,山庄,庄银,银章"
+    }
+  ]
+}

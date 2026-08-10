@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4571721018",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4571721018",
+      "displayBoxCode": "4571721-018",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2012年壬辰龙年生肖1盎司梅花形精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10408883.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4571721-018/69/",
+      "price": 870,
+      "priceWithFee": 900.45,
+      "transactedAt": "2026-07-20 19:57:40",
+      "productCode": "876028001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/876028001A.jpg",
+      "ocrConfidence": 37,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2012年,1盎司,生肖,年壬,壬辰,辰龙,龙年,年生,肖盎,盎司,司梅,梅花,花形,形精,精制,制银,银币,评级"
+    }
+  ]
+}

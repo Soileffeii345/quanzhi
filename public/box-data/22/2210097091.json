@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2210097091",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2210097091",
+      "displayBoxCode": "2210097-091",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "第三版人民币5角凸版水印",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/disanbanrenminbi/10406125.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2210097-091/",
+      "price": 380,
+      "priceWithFee": 410.4,
+      "transactedAt": "2026-07-18 21:22:35",
+      "productCode": "875295034",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/875295034B.jpg",
+      "ocrConfidence": 28,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,第三,三版,版人,人民,民币,币角,角凸,凸版,版水,水印"
+    }
+  ]
+}

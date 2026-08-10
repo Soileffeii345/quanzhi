@@ -1,0 +1,65 @@
+{
+  "coinName": "1993年20盎司普制金币",
+  "slug": "5c1a11ed",
+  "saleCount": 3,
+  "keywords": "金,币,1993年,20盎司,宗教,年挥,挥柳,柳观,观音,音盎,盎司,司普,普制,制金,金币,币版",
+  "priceStats": {
+    "low": 2950,
+    "high": 3100,
+    "avg": 3017,
+    "latest": 2950
+  },
+  "records": [
+    {
+      "coinName": "1993年挥柳观音1/20盎司普制金币（S版）",
+      "normalizedBoxCode": "3610787004",
+      "displayBoxCode": "3610787-004",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10389115.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3610787-004/69/",
+      "price": 2950,
+      "priceWithFee": 3053.25,
+      "transactedAt": "2026-07-09 21:36:45",
+      "productCode": "873690013",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1993年,20盎司,宗教,年挥,挥柳,柳观,观音,音盎,盎司,司普,普制,制金,金币,币版"
+    },
+    {
+      "coinName": "1993年挥柳观音1/20盎司普制金币（S版）",
+      "normalizedBoxCode": "6720396002",
+      "displayBoxCode": "6720396-002",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10389116.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6720396-002/",
+      "price": 3000,
+      "priceWithFee": 3105,
+      "transactedAt": "2026-07-09 21:11:25",
+      "productCode": "873690014",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1993年,20盎司,宗教,年挥,挥柳,柳观,观音,音盎,盎司,司普,普制,制金,金币,币版"
+    },
+    {
+      "coinName": "1993年挥柳观音1/20盎司普制金币（S版）",
+      "normalizedBoxCode": "8763971004",
+      "displayBoxCode": "8763971-004",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10386441.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8763971-004/69/",
+      "price": 3100,
+      "priceWithFee": 3208.5,
+      "transactedAt": "2026-07-09 21:29:25",
+      "productCode": "872673001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1993年,20盎司,宗教,年挥,挥柳,柳观,观音,音盎,盎司,司普,普制,制金,金币,币版"
+    }
+  ]
+}

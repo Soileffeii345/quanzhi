@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6429491002",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6429491002",
+      "displayBoxCode": "6429491-002",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1997年1盎司生肖牛银币(精)",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/566381.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6429491-002/69/",
+      "price": 2100,
+      "priceWithFee": null,
+      "transactedAt": "2026-04-11 14:00:52",
+      "productCode": "KH129040",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260324/large_sell_t8ulo44tdfncrlnf.jpg",
+      "ocrConfidence": 40,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1997年,1盎司,生肖,年盎,盎司,司生,肖牛,牛银,银币,币精"
+    }
+  ]
+}

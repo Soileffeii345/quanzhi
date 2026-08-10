@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "3362752037",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "3362752037",
+      "displayBoxCode": "3362752-037",
+      "gradingCompany": "NGC",
+      "grade": "MS 66",
+      "coinName": "1985年庆祝西藏自治区成立20周年流通纪念币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10395581.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3362752-037/66/",
+      "price": 330,
+      "priceWithFee": 356.4,
+      "transactedAt": "2026-07-15 21:47:25",
+      "productCode": "874327003",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/874327003A.jpg",
+      "ocrConfidence": 32,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1985年,年庆,庆祝,祝西,西藏,藏自,自治,治区,区成,成立,立周,周年,年流,流通,通纪,纪念,念币"
+    }
+  ]
+}

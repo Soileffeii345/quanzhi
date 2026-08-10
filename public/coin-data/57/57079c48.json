@@ -1,0 +1,31 @@
+{
+  "coinName": "明治十六年日本26.96克银币",
+  "slug": "57079c48",
+  "saleCount": 1,
+  "keywords": "银,币,26.96克,明治,治十,十六,六年,年日,日本,本克,克银,银币,外国/特区",
+  "priceStats": {
+    "low": 910,
+    "high": 910,
+    "avg": 910,
+    "latest": 910
+  },
+  "records": [
+    {
+      "coinName": "明治十六年日本26.96克银币",
+      "normalizedBoxCode": "5805984004",
+      "displayBoxCode": "5805984-004",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/wgjsbizhang/10352199.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/5805984-004/",
+      "price": 910,
+      "priceWithFee": 964.6,
+      "transactedAt": "2026-06-26 19:38:55",
+      "productCode": "869266016",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,26.96克,明治,治十,十六,六年,年日,日本,本克,克银,银币,外国/特区"
+    }
+  ]
+}

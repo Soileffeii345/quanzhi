@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6760825006",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6760825006",
+      "displayBoxCode": "6760825-006",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 CAMEO",
+      "coinName": "1979年1/2盎司建国30周年天安门金币(CA/无标)",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/463679.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6760825-006/69/",
+      "price": 10660,
+      "priceWithFee": null,
+      "transactedAt": "2025-02-10 21:58:44",
+      "productCode": "KH058938",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250210/large_sell_onex2fph2w2obv3n.jpg",
+      "ocrConfidence": 47,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1979年,2盎司,重大事件,年盎,盎司,司建,建国,国周,周年,年天,天安,安门,门金,金币,币无,无标"
+    }
+  ]
+}

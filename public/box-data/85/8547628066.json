@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8547628066",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8547628066",
+      "displayBoxCode": "8547628-066",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1994年龙凤1/10盎司金+1/28盎司银精制双金属币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-shuangjinshu/10356002.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8547628-066/",
+      "price": 19400,
+      "priceWithFee": 20079,
+      "transactedAt": "2026-06-25 21:47:35",
+      "productCode": "869853003",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/869853003A.jpg",
+      "ocrConfidence": 38,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,1994年,10盎司,年龙,龙凤,凤盎,盎司,司金,金盎,司银,银精,精制,制双,双金,金属,属币,评级"
+    }
+  ]
+}

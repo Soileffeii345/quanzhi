@@ -1,0 +1,31 @@
+{
+  "coinName": "泽西岛纸钞票样",
+  "slug": "37747d91",
+  "saleCount": 1,
+  "keywords": "钞,泽西,西岛,岛纸,纸钞,钞票,票样",
+  "priceStats": {
+    "low": 350,
+    "high": 350,
+    "avg": 350,
+    "latest": 350
+  },
+  "records": [
+    {
+      "coinName": "泽西岛纸钞票样",
+      "normalizedBoxCode": "2105907047",
+      "displayBoxCode": "2105907-047",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10388379.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2105907-047/",
+      "price": 350,
+      "priceWithFee": 388.5,
+      "transactedAt": "2026-07-14 22:10:50",
+      "productCode": "873701002",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,泽西,西岛,岛纸,纸钞,钞票,票样"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6393367012",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6393367012",
+      "displayBoxCode": "6393367-012",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1990年1盎司熊猫银币(P版)",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/583176.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6393367-012/",
+      "price": 1800,
+      "priceWithFee": null,
+      "transactedAt": "2026-05-28 10:10:10",
+      "productCode": "AA650507",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260523/large_sell_bfanxukxmdjyg7qy.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1990年,1盎司,熊猫,年盎,盎司,司熊,猫银,银币,币版"
+    }
+  ]
+}

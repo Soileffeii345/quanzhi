@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8186481006",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8186481006",
+      "displayBoxCode": "8186481-006",
+      "gradingCompany": "NGC",
+      "grade": "Ms69",
+      "coinName": "1989年1/10盎司熊猫金币(大字版)",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/562375.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8186481-006/69/",
+      "price": 4150,
+      "priceWithFee": null,
+      "transactedAt": "2026-03-14 00:38:45",
+      "productCode": "KH124539",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260313/large_sell_unyavpoefcoh9kgs.jpg",
+      "ocrConfidence": 37,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1989年,10盎司,熊猫,年盎,盎司,司熊,猫金,金币,币大,大字,字版"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "coinName": "民国二十九年晋察冀边区银行拾圆",
+  "slug": "25eff54c",
+  "saleCount": 2,
+  "keywords": "银,历史币,民国,国二,二十,十九,九年,年晋,晋察,察冀,冀边,边区,区银,银行,行拾,拾圆",
+  "priceStats": {
+    "low": 2300,
+    "high": 2300,
+    "avg": 2300,
+    "latest": 2300
+  },
+  "records": [
+    {
+      "coinName": "民国二十九年晋察冀边区银行拾圆",
+      "normalizedBoxCode": "2277349024",
+      "displayBoxCode": "2277349-024",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jiefangquzhichao/10377364.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2277349-024/",
+      "price": 2300,
+      "priceWithFee": 2553,
+      "transactedAt": "2026-07-23 19:41:10",
+      "productCode": "872356006",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国二,二十,十九,九年,年晋,晋察,察冀,冀边,边区,区银,银行,行拾,拾圆"
+    },
+    {
+      "coinName": "民国二十九年晋察冀边区银行拾圆",
+      "normalizedBoxCode": "2277872017",
+      "displayBoxCode": "2277872-017",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jiefangquzhichao/10369548.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2277872-017/",
+      "price": 2300,
+      "priceWithFee": 2553,
+      "transactedAt": "2026-07-16 21:10:40",
+      "productCode": "871031013",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国二,二十,十九,九年,年晋,晋察,察冀,冀边,边区,区银,银行,行拾,拾圆"
+    }
+  ]
+}

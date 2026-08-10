@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2330090056",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2330090056",
+      "displayBoxCode": "2330090-056",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "第二版人民币延安宝塔山2元",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/dierbanrenminbi/10414504.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2330090-056/",
+      "price": 1520,
+      "priceWithFee": 1641.6,
+      "transactedAt": "2026-07-21 21:19:35",
+      "productCode": "876637019",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/876637019B.jpg",
+      "ocrConfidence": 28,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,第二,二版,版人,人民,民币,币延,延安,安宝,宝塔,塔山,山元"
+    }
+  ]
+}

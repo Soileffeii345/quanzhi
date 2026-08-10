@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8180388006",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8180388006",
+      "displayBoxCode": "8180388-006",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "coinName": "2022年30克熊猫金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/498660.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8180388-006/69/",
+      "price": 25120,
+      "priceWithFee": null,
+      "transactedAt": "2025-09-09 11:40:19",
+      "productCode": "KH082855",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250906/large_sell_ynft3ffocr6jskdt.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2022年,30克,熊猫,年克,克熊,猫金,金币"
+    }
+  ]
+}

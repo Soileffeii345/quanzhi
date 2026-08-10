@@ -1,0 +1,31 @@
+{
+  "coinName": "1996年麒麟15.552克精制金币",
+  "slug": "5fad9444",
+  "saleCount": 1,
+  "keywords": "金,币,1996年,2盎司,年麒,麒麟,麟盎,盎司,司精,精制,制金,金币,评级",
+  "priceStats": {
+    "low": 27500,
+    "high": 27500,
+    "avg": 27500,
+    "latest": 27500
+  },
+  "records": [
+    {
+      "coinName": "1996年麒麟1/2盎司精制金币",
+      "normalizedBoxCode": "8186389004",
+      "displayBoxCode": "8186389-004",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10359976.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8186389-004/",
+      "price": 27500,
+      "priceWithFee": 28462.5,
+      "transactedAt": "2026-06-25 21:50:05",
+      "productCode": "869596007",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1996年,2盎司,年麒,麒麟,麟盎,盎司,司精,精制,制金,金币,评级"
+    }
+  ]
+}

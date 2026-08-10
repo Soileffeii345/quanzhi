@@ -1,0 +1,48 @@
+{
+  "coinName": "2010年生肖15.552克金币",
+  "slug": "3862e7be",
+  "saleCount": 2,
+  "keywords": "金,币,2010年,2盎司,生肖,年盎,盎司,司扇,扇形,形生,肖虎,虎金,金币",
+  "priceStats": {
+    "low": 12420,
+    "high": 14910,
+    "avg": 13665,
+    "latest": 14910
+  },
+  "records": [
+    {
+      "coinName": "2010年1/2盎司扇形生肖虎金币",
+      "normalizedBoxCode": "2790103010",
+      "displayBoxCode": "2790103-010",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/505646.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2790103-010/69/",
+      "price": 14910,
+      "priceWithFee": null,
+      "transactedAt": "2025-10-15 08:23:53",
+      "productCode": "KH087267",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2010年,2盎司,生肖,年盎,盎司,司扇,扇形,形生,肖虎,虎金,金币"
+    },
+    {
+      "coinName": "2010年1/2盎司扇形生肖虎金币",
+      "normalizedBoxCode": "4530126003",
+      "displayBoxCode": "4530126-003",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/485092.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4530126-003/69/",
+      "price": 12420,
+      "priceWithFee": null,
+      "transactedAt": "2025-06-23 21:46:24",
+      "productCode": "KH071502",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2010年,2盎司,生肖,年盎,盎司,司扇,扇形,形生,肖虎,虎金,金币"
+    }
+  ]
+}

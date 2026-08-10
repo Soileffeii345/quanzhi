@@ -1,0 +1,48 @@
+{
+  "coinName": "2021年15克银币",
+  "slug": "10574646",
+  "saleCount": 2,
+  "keywords": "银,币,2021年,15克,年克,克方,方形,形北,北京,京冬,冬残,残奥,奥会,会银,银币,克能,能工,工巧,巧匠,匠第,第组,组银",
+  "priceStats": {
+    "low": 410,
+    "high": 500,
+    "avg": 455,
+    "latest": 500
+  },
+  "records": [
+    {
+      "coinName": "2021年15克方形北京冬残奥会银币",
+      "normalizedBoxCode": "6174090001",
+      "displayBoxCode": "6174090-001",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/526061.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6174090-001/",
+      "price": 500,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-26 04:15:49",
+      "productCode": "AA606221",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2021年,15克,年克,克方,方形,形北,北京,京冬,冬残,残奥,奥会,会银,银币"
+    },
+    {
+      "coinName": "2021年15克能工巧匠第2组银币",
+      "normalizedBoxCode": "6177655002",
+      "displayBoxCode": "6177655-002",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/478885.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6177655-002/70/",
+      "price": 410,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-06 12:07:43",
+      "productCode": "KH101549",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2021年,15克,年克,克能,能工,工巧,巧匠,匠第,第组,组银,银币"
+    }
+  ]
+}

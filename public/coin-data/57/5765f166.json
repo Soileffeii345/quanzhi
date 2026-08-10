@@ -1,0 +1,31 @@
+{
+  "coinName": "1989年5盎司银币",
+  "slug": "5765f166",
+  "saleCount": 1,
+  "keywords": "银,章,1989年,5盎司,宗教,年观,观音,音菩,菩萨,萨观,萨像,像盎,盎司,司银,银章",
+  "priceStats": {
+    "low": 9100,
+    "high": 9100,
+    "avg": 9100,
+    "latest": 9100
+  },
+  "records": [
+    {
+      "coinName": "1989年观音菩萨-观音菩萨像5盎司银章",
+      "normalizedBoxCode": "8775986018",
+      "displayBoxCode": "8775986-018",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10358647.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8775986-018/69/",
+      "price": 9100,
+      "priceWithFee": 9418.5,
+      "transactedAt": "2026-06-25 19:54:35",
+      "productCode": "870090002",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,章,1989年,5盎司,宗教,年观,观音,音菩,菩萨,萨观,萨像,像盎,盎司,司银,银章"
+    }
+  ]
+}

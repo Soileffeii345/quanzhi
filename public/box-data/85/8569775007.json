@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8569775007",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8569775007",
+      "displayBoxCode": "8569775-007",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2016年吉祥文化-瓜瓞绵绵30克精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10377233.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8569775-007/",
+      "price": 630,
+      "priceWithFee": 652.05,
+      "transactedAt": "2026-07-06 19:35:05",
+      "productCode": "871787003",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/26/871787003A.jpg",
+      "ocrConfidence": 43,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2016年,30克,吉祥文化,年吉,吉祥,祥文,文化,化瓜,瓜瓞,瓞绵,绵绵,绵克,克精,精制,制银,银币,评级"
+    }
+  ]
+}

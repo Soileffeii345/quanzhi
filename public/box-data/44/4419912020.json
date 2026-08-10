@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4419912020",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4419912020",
+      "displayBoxCode": "4419912-020",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2002年8边红楼梦第2组宝钗扑蝶彩银币(低年版)",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/521310.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4419912-020/",
+      "price": 500,
+      "priceWithFee": null,
+      "transactedAt": "2025-12-19 07:45:20",
+      "productCode": "AA602807",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251217/large_sell_v2w8jv8gobxjksxr.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2002年,年边,边红,红楼,楼梦,梦第,第组,组宝,宝钗,钗扑,扑蝶,蝶彩,彩银,银币,币低,低年,年版"
+    }
+  ]
+}

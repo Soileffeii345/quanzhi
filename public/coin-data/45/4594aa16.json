@@ -1,0 +1,31 @@
+{
+  "coinName": "民国十年广东省造贰毫银币",
+  "slug": "4594aa16",
+  "saleCount": 1,
+  "keywords": "银,币,历史币,广东,粤造,民国,国十,十年,年广,东省,省造,造贰,贰毫,毫银,银币",
+  "priceStats": {
+    "low": 280,
+    "high": 280,
+    "avg": 280,
+    "latest": 280
+  },
+  "records": [
+    {
+      "coinName": "民国十年广东省造贰毫银币",
+      "normalizedBoxCode": "8192906027",
+      "displayBoxCode": "8192906-027",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/478064.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8192906-027/",
+      "price": 280,
+      "priceWithFee": null,
+      "transactedAt": "2025-09-13 15:50:34",
+      "productCode": "KH080608",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,历史币,广东,粤造,民国,国十,十年,年广,东省,省造,造贰,贰毫,毫银,银币"
+    }
+  ]
+}

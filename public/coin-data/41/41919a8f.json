@@ -1,0 +1,65 @@
+{
+  "coinName": "2000年3.11克精制金币",
+  "slug": "41919a8f",
+  "saleCount": 3,
+  "keywords": "金,币,2000年,10盎司,宗教,年滴,滴水,水观,观音,音盎,盎司,司精,精制,制幻,幻彩,彩金,金币,评级",
+  "priceStats": {
+    "low": 3550,
+    "high": 3900,
+    "avg": 3783,
+    "latest": 3900
+  },
+  "records": [
+    {
+      "coinName": "2000年滴水观音1/10盎司精制幻彩金币",
+      "normalizedBoxCode": "5805041040",
+      "displayBoxCode": "5805041-040",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10350685.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/5805041-040/70/",
+      "price": 3900,
+      "priceWithFee": 4036.5,
+      "transactedAt": "2026-06-25 21:14:05",
+      "productCode": "869116015",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2000年,10盎司,宗教,年滴,滴水,水观,观音,音盎,盎司,司精,精制,制幻,幻彩,彩金,金币,评级"
+    },
+    {
+      "coinName": "2000年滴水观音1/10盎司精制幻彩金币",
+      "normalizedBoxCode": "8610819002",
+      "displayBoxCode": "8610819-002",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10350684.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8610819-002/",
+      "price": 3900,
+      "priceWithFee": 4036.5,
+      "transactedAt": "2026-06-25 20:47:35",
+      "productCode": "869116014",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2000年,10盎司,宗教,年滴,滴水,水观,观音,音盎,盎司,司精,精制,制幻,幻彩,彩金,金币,评级"
+    },
+    {
+      "coinName": "2000年滴水观音1/10盎司精制幻彩金币",
+      "normalizedBoxCode": "8610819045",
+      "displayBoxCode": "8610819-045",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10350683.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8610819-045/69/",
+      "price": 3550,
+      "priceWithFee": 3674.25,
+      "transactedAt": "2026-06-25 20:24:05",
+      "productCode": "869116013",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2000年,10盎司,宗教,年滴,滴水,水观,观音,音盎,盎司,司精,精制,制幻,幻彩,彩金,金币,评级"
+    }
+  ]
+}

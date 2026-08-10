@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6193015023",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6193015023",
+      "displayBoxCode": "6193015-023",
+      "gradingCompany": "NGC",
+      "grade": "PF70 ULTRA CAMEO",
+      "coinName": "2016年8克吉祥文化并蒂同心金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/467941.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6193015-023/70/",
+      "price": 5655,
+      "priceWithFee": null,
+      "transactedAt": "2025-03-13 19:58:52",
+      "productCode": "AA554451",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250313/large_sell_q2bdnjsh8nkhyytk.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2016年,8克,吉祥文化,年克,克吉,吉祥,祥文,文化,化并,并蒂,蒂同,同心,心金,金币"
+    }
+  ]
+}

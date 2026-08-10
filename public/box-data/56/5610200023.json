@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "5610200023",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "5610200023",
+      "displayBoxCode": "5610200-023",
+      "gradingCompany": "NGC",
+      "grade": "PF70 ULTRA CAMEO",
+      "coinName": "2025年国家宝藏（统一气象）15克精制银币三枚一套",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10379516.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/5610200-023/70/",
+      "price": 4100,
+      "priceWithFee": 4243.5,
+      "transactedAt": "2026-07-02 20:25:30",
+      "productCode": "872428004",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/27/872428004A.jpg",
+      "ocrConfidence": 38,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2025年,15克,年国,国家,家宝,宝藏,藏统,统一,一气,气象,象克,克精,精制,制银,银币,币三,三枚,枚一,一套,评级"
+    }
+  ]
+}

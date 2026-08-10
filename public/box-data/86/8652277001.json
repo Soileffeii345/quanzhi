@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8652277001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8652277001",
+      "displayBoxCode": "8652277-001",
+      "gradingCompany": "NGC",
+      "grade": "PF68 ULTRA CAMEO",
+      "coinName": "1993年1/4盎司成吉思汗金章",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/520805.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8652277-001/68/",
+      "price": 7700,
+      "priceWithFee": null,
+      "transactedAt": "2025-12-15 17:35:05",
+      "productCode": "AA602509",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251215/large_sell_7ilbb9ezo4b32ria.jpg",
+      "ocrConfidence": 37,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,章,1993年,4盎司,年盎,盎司,司成,成吉,吉思,思汗,汗金,金章"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "ok": true,
+  "query": "2770209003",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2770209003",
+      "displayBoxCode": "2770209-003",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2001年1/2盎司京剧艺术第3组彩金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/478706.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2770209-003/69/",
+      "price": 11945,
+      "priceWithFee": null,
+      "transactedAt": "2025-05-20 16:46:14",
+      "productCode": "KH066324A",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250512/large_sell_b33ailubghtmyupt.jpg",
+      "ocrConfidence": 41,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2001年,2盎司,戏曲,年盎,盎司,司京,京剧,剧艺,艺术,术第,第组,组彩,彩金,金币"
+    },
+    {
+      "normalizedBoxCode": "2770209003",
+      "displayBoxCode": "2770209-003",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2001年1/2盎司京剧艺术第3组彩金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/477277.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2770209-003/69/",
+      "price": 11940,
+      "priceWithFee": null,
+      "transactedAt": "2025-05-12 15:36:20",
+      "productCode": "KH066324",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250512/large_sell_b33ailubghtmyupt.jpg",
+      "ocrConfidence": 41,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2001年,2盎司,戏曲,年盎,盎司,司京,京剧,剧艺,艺术,术第,第组,组彩,彩金,金币"
+    }
+  ]
+}

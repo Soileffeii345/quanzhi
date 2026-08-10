@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8499162001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8499162001",
+      "displayBoxCode": "8499162-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2010年2盎司云冈石窟银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/553569.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8499162-001/70/",
+      "price": 3800,
+      "priceWithFee": null,
+      "transactedAt": "2026-02-09 02:02:02",
+      "productCode": "KH118447",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260208/large_sell_zltg0tbiyycjn53g.jpg",
+      "ocrConfidence": 37,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2010年,2盎司,年盎,盎司,司云,云冈,冈石,石窟,窟银,银币"
+    }
+  ]
+}

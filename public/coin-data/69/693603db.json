@@ -1,0 +1,48 @@
+{
+  "coinName": "2024年31.104克金币",
+  "slug": "693603db",
+  "saleCount": 2,
+  "keywords": "金,银,币,2024年,1盎司,年萨,萨摩,摩亚,亚乌,乌列,列尔,尔大,大天,天使,使鎏,鎏金,金八,八角,角形,形盎,盎司,司银,银币",
+  "priceStats": {
+    "low": 1840,
+    "high": 1900,
+    "avg": 1870,
+    "latest": 1900
+  },
+  "records": [
+    {
+      "coinName": "2024年萨摩亚乌列尔大天使鎏金八角形1盎司银币",
+      "normalizedBoxCode": "8504637005",
+      "displayBoxCode": "8504637-005",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/wgjsbizhang/10387862.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8504637-005/69/",
+      "price": 1900,
+      "priceWithFee": 2014,
+      "transactedAt": "2026-07-10 20:20:55",
+      "productCode": "873338001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,2024年,1盎司,年萨,萨摩,摩亚,亚乌,乌列,列尔,尔大,大天,天使,使鎏,鎏金,金八,八角,角形,形盎,盎司,司银,银币"
+    },
+    {
+      "coinName": "2024年萨摩亚乌列尔大天使鎏金八角形1盎司银币",
+      "normalizedBoxCode": "8504637005",
+      "displayBoxCode": "8504637-005",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/wgjsbizhang/10354155.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8504637-005/69/",
+      "price": 1840,
+      "priceWithFee": 1950.4,
+      "transactedAt": "2026-06-19 21:00:05",
+      "productCode": "869380016",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,2024年,1盎司,年萨,萨摩,摩亚,亚乌,乌列,列尔,尔大,大天,天使,使鎏,鎏金,金八,八角,角形,形盎,盎司,司银,银币"
+    }
+  ]
+}

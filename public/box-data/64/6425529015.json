@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6425529015",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6425529015",
+      "displayBoxCode": "6425529-015",
+      "gradingCompany": "NGC",
+      "grade": "MS70",
+      "coinName": "2023年30克熊猫银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/520067.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6425529-015/70/",
+      "price": 580,
+      "priceWithFee": null,
+      "transactedAt": "2025-12-24 22:14:14",
+      "productCode": "AA602014",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251212/large_sell_fohaypwfy4yaxjaw.jpg",
+      "ocrConfidence": 27,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2023年,30克,熊猫,年克,克熊,猫银,银币"
+    }
+  ]
+}

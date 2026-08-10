@@ -1,0 +1,31 @@
+{
+  "coinName": "2013年珍稀动物31.1克银币",
+  "slug": "3bc6eb62",
+  "saleCount": 1,
+  "keywords": "银,币,2013年,31.1克,年哈,哈萨,萨克,克斯,斯坦,坦珍,珍稀,稀动,动物,物系,系列,列刺,刺猬,猬克,克银,银币",
+  "priceStats": {
+    "low": 930,
+    "high": 930,
+    "avg": 930,
+    "latest": 930
+  },
+  "records": [
+    {
+      "coinName": "2013年哈萨克斯坦珍稀动物系列刺猬31.1克银币",
+      "normalizedBoxCode": "8504392012",
+      "displayBoxCode": "8504392-012",
+      "gradingCompany": "NGC",
+      "grade": "PF69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/wgjsbizhang/10354164.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8504392-012/69/",
+      "price": 930,
+      "priceWithFee": 985.8,
+      "transactedAt": "2026-06-19 19:52:05",
+      "productCode": "869380025",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2013年,31.1克,年哈,哈萨,萨克,克斯,斯坦,坦珍,珍稀,稀动,动物,物系,系列,列刺,刺猬,猬克,克银,银币"
+    }
+  ]
+}

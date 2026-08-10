@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4891990024",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4891990024",
+      "displayBoxCode": "4891990-024",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2021年150克熊猫银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/487275.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4891990-024/70/",
+      "price": 1850,
+      "priceWithFee": null,
+      "transactedAt": "2025-07-08 16:56:22",
+      "productCode": "KH072331",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250705/large_sell_rbv0jhpr2vjaifxr.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2021年,150克,熊猫,年克,克熊,猫银,银币"
+    }
+  ]
+}

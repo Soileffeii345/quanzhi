@@ -1,0 +1,31 @@
+{
+  "coinName": "2009年5盎司银币",
+  "slug": "1efe1d8a",
+  "saleCount": 1,
+  "keywords": "银,币,2009年,5盎司,年盎,盎司,司方,方形,形水,水浒,浒传,传第,第组,组彩,彩银,银币",
+  "priceStats": {
+    "low": 4250,
+    "high": 4250,
+    "avg": 4250,
+    "latest": 4250
+  },
+  "records": [
+    {
+      "coinName": "2009年5盎司方形水浒传第1组彩银币",
+      "normalizedBoxCode": "4579065001",
+      "displayBoxCode": "4579065-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/526080.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4579065-001/69/",
+      "price": 4250,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-23 10:39:40",
+      "productCode": "KH102078",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2009年,5盎司,年盎,盎司,司方,方形,形水,水浒,浒传,传第,第组,组彩,彩银,银币"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "1907959044",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "1907959044",
+      "displayBoxCode": "1907959-044",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "民国三十六年中央银行关金贰仟伍佰圆",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10367308.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1907959-044/",
+      "price": 770,
+      "priceWithFee": 854.7,
+      "transactedAt": "2026-07-21 21:44:50",
+      "productCode": "870332009",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/26/870332009B.jpg",
+      "ocrConfidence": 28,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,历史币,民国,国三,三十,十六,六年,年中,中央,央银,银行,行关,关金,金贰,贰仟,仟伍,伍佰,佰圆"
+    }
+  ]
+}

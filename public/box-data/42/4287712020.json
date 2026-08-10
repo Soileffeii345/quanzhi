@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4287712020",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4287712020",
+      "displayBoxCode": "4287712-020",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1990年1/3盎司第25届奥运会女子篮球金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/523812.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4287712-020/69/",
+      "price": 10600,
+      "priceWithFee": null,
+      "transactedAt": "2025-12-26 23:19:13",
+      "productCode": "KH098701",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251223/large_sell_zyef3obtcbqgwgsj.jpg",
+      "ocrConfidence": 49,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1990年,3盎司,奥运,年盎,盎司,司第,第届,届奥,运会,会女,女子,子篮,篮球,球金,金币"
+    }
+  ]
+}

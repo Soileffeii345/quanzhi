@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8649572003",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8649572003",
+      "displayBoxCode": "8649572-003",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2022年吉祥文化-花开富贵3克精制金币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10379264.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8649572-003/70/",
+      "price": 3550,
+      "priceWithFee": 3674.25,
+      "transactedAt": "2026-07-04 20:55:05",
+      "productCode": "872231007",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/27/872231007A.jpg",
+      "ocrConfidence": 28,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2022年,3克,吉祥文化,年吉,吉祥,祥文,文化,化花,花开,开富,富贵,贵克,克精,精制,制金,金币,评级"
+    }
+  ]
+}

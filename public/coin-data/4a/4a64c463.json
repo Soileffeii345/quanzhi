@@ -1,0 +1,31 @@
+{
+  "coinName": "1995年金币",
+  "slug": "4a64c463",
+  "saleCount": 1,
+  "keywords": "金,币,1995年,年中,中国,国珍,珍稀,稀野,野生,生动,动物,物金,金丝,丝猴,猴流,流通,通纪,纪念,念币",
+  "priceStats": {
+    "low": 140,
+    "high": 140,
+    "avg": 140,
+    "latest": 140
+  },
+  "records": [
+    {
+      "coinName": "1995年中国珍稀野生动物-金丝猴流通纪念币",
+      "normalizedBoxCode": "8579731016",
+      "displayBoxCode": "8579731-016",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10355202.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8579731-016/",
+      "price": 140,
+      "priceWithFee": 151.2,
+      "transactedAt": "2026-06-24 20:52:45",
+      "productCode": "869127009",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1995年,年中,中国,国珍,珍稀,稀野,野生,生动,动物,物金,金丝,丝猴,猴流,流通,通纪,纪念,念币"
+    }
+  ]
+}

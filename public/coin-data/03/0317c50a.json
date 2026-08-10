@@ -1,0 +1,48 @@
+{
+  "coinName": "1990年熊猫31.104克银币",
+  "slug": "0317c50a",
+  "saleCount": 2,
+  "keywords": "银,币,1990年,1盎司,熊猫,年盎,盎司,司熊,猫银,银币,币版",
+  "priceStats": {
+    "low": 1800,
+    "high": 4500,
+    "avg": 3150,
+    "latest": 1800
+  },
+  "records": [
+    {
+      "coinName": "1990年1盎司熊猫银币(P版)",
+      "normalizedBoxCode": "6393367012",
+      "displayBoxCode": "6393367-012",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/583176.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6393367-012/",
+      "price": 1800,
+      "priceWithFee": null,
+      "transactedAt": "2026-05-28 10:10:10",
+      "productCode": "AA650507",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1990年,1盎司,熊猫,年盎,盎司,司熊,猫银,银币,币版"
+    },
+    {
+      "coinName": "1990年1盎司熊猫银币(P版)",
+      "normalizedBoxCode": "8179689046",
+      "displayBoxCode": "8179689-046",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/551479.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8179689-046/70/",
+      "price": 4500,
+      "priceWithFee": null,
+      "transactedAt": "2026-02-02 20:35:38",
+      "productCode": "KH117397",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1990年,1盎司,熊猫,年盎,盎司,司熊,猫银,银币,币版"
+    }
+  ]
+}

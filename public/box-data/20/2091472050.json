@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2091472050",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2091472050",
+      "displayBoxCode": "2091472-050",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1850年美国1美元纸币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10387934.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2091472-050/",
+      "price": 910,
+      "priceWithFee": 1010.1,
+      "transactedAt": "2026-07-14 21:45:20",
+      "productCode": "873172002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/27/873172002B.jpg",
+      "ocrConfidence": 23,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1850年,年美,美国,国美,美元,元纸,纸币,外国/特区"
+    }
+  ]
+}

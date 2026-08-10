@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2261124045",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2261124045",
+      "displayBoxCode": "2261124-045",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1999年香港渣打银行壹佰圆",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/liantichao-jinianchao/10395228.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2261124-045/",
+      "price": 240,
+      "priceWithFee": 259.2,
+      "transactedAt": "2026-07-14 19:44:50",
+      "productCode": "874351003",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/874351003B.jpg",
+      "ocrConfidence": 32,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,1999年,年香,香港,港渣,渣打,打银,银行,行壹,壹佰,佰圆,外国/特区"
+    }
+  ]
+}

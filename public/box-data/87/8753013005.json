@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8753013005",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8753013005",
+      "displayBoxCode": "8753013-005",
+      "gradingCompany": "NGC",
+      "grade": "MS 67",
+      "coinName": "1999年中国珍稀野生动物-中华鲟流通纪念币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10398751.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8753013-005/67/",
+      "price": 120,
+      "priceWithFee": 129.6,
+      "transactedAt": "2026-07-15 19:58:50",
+      "productCode": "874882010",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/874882010A.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1999年,年中,中国,国珍,珍稀,稀野,野生,生动,动物,物中,中华,华鲟,鲟流,流通,通纪,纪念,念币"
+    }
+  ]
+}

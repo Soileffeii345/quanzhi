@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4547333022",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4547333022",
+      "displayBoxCode": "4547333-022",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2018年央美建校100周年金银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/422927.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4547333-022/70/",
+      "price": 5500,
+      "priceWithFee": null,
+      "transactedAt": "2024-03-25 08:48:07",
+      "productCode": "KH052814",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20240324/large_sell_nqzz7vhpn5eyzxeu.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,2018年,年央,央美,美建,建校,校周,周年,年金,金银,银币"
+    }
+  ]
+}

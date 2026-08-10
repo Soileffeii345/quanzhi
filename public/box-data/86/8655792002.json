@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8655792002",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8655792002",
+      "displayBoxCode": "8655792-002",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2011年辛亥革命100周年金银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/541155.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8655792-002/69/",
+      "price": 11000,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-29 09:49:54",
+      "productCode": "AA612301.02A",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260116/large_sell_sgjjdow00wuefep3.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,2011年,年辛,辛亥,亥革,革命,命周,周年,年金,金银,银币"
+    }
+  ]
+}

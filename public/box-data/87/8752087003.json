@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8752087003",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8752087003",
+      "displayBoxCode": "8752087-003",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "coinName": "2002年壬午马年生肖1/2盎司扇形精制金币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-jin/10390829.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8752087-003/69/",
+      "price": 16600,
+      "priceWithFee": 17181,
+      "transactedAt": "2026-07-09 21:24:45",
+      "productCode": "873930024",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/27/873930024A.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2002年,2盎司,生肖,年壬,壬午,午马,马年,年生,肖盎,盎司,司扇,扇形,形精,精制,制金,金币,评级"
+    }
+  ]
+}

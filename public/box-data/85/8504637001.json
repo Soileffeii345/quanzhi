@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8504637001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8504637001",
+      "displayBoxCode": "8504637-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2014年加拿大雪人镶嵌威尼斯穆拉诺琉璃31.39克彩银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianbi/10385575.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8504637-001/69/",
+      "price": 970,
+      "priceWithFee": 1076.7,
+      "transactedAt": "2026-07-10 20:30:05",
+      "productCode": "873385011",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/27/873385011A.jpg",
+      "ocrConfidence": 30,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2014年,31.39克,年加,加拿,拿大,大雪,雪人,人镶,镶嵌,嵌威,威尼,尼斯,斯穆,穆拉,拉诺,诺琉,琉璃,璃克,克彩,彩银,银币,外国/特区"
+    }
+  ]
+}

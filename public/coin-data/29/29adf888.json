@@ -1,0 +1,31 @@
+{
+  "coinName": "1995年麒麟5盎司精制银币",
+  "slug": "29adf888",
+  "saleCount": 1,
+  "keywords": "银,币,1995年,5盎司,年麒,麒麟,麟盎,盎司,司精,精制,制银,银币,评级",
+  "priceStats": {
+    "low": 7600,
+    "high": 7600,
+    "avg": 7600,
+    "latest": 7600
+  },
+  "records": [
+    {
+      "coinName": "1995年麒麟5盎司精制银币",
+      "normalizedBoxCode": "4804271001",
+      "displayBoxCode": "4804271-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 67 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10377791.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4804271-001/67/",
+      "price": 7600,
+      "priceWithFee": 7866,
+      "transactedAt": "2026-07-09 20:33:25",
+      "productCode": "871996002",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1995年,5盎司,年麒,麒麟,麟盎,盎司,司精,精制,制银,银币,评级"
+    }
+  ]
+}

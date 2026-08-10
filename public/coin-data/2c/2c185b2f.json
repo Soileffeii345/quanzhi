@@ -1,0 +1,31 @@
+{
+  "coinName": "民国二十一年中国通商银行上海地名伍圆",
+  "slug": "2c185b2f",
+  "saleCount": 1,
+  "keywords": "银,历史币,民国,国二,二十,十一,一年,年中,中国,国通,通商,商银,银行,行上,上海,海地,地名,名伍,伍圆",
+  "priceStats": {
+    "low": 980,
+    "high": 980,
+    "avg": 980,
+    "latest": 980
+  },
+  "records": [
+    {
+      "coinName": "民国二十一年中国通商银行上海地名伍圆",
+      "normalizedBoxCode": "2277459055",
+      "displayBoxCode": "2277459-055",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shangyeyinhangzhichao/10377359.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2277459-055/",
+      "price": 980,
+      "priceWithFee": 1087.8,
+      "transactedAt": "2026-07-23 21:16:10",
+      "productCode": "872356001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国二,二十,十一,一年,年中,中国,国通,通商,商银,银行,行上,上海,海地,地名,名伍,伍圆"
+    }
+  ]
+}

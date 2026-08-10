@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8659900057",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8659900057",
+      "displayBoxCode": "8659900-057",
+      "gradingCompany": "NGC",
+      "grade": "MS 70",
+      "coinName": "2026年1盎司中国龙银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/572599.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8659900-057/70/",
+      "price": 1350,
+      "priceWithFee": null,
+      "transactedAt": "2026-04-16 22:19:06",
+      "productCode": "KH130372",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260414/large_sell_bfp7ymhgepmqu3pv.jpg",
+      "ocrConfidence": 41,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2026年,1盎司,年盎,盎司,司中,中国,国龙,龙银,银币"
+    }
+  ]
+}

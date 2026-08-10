@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6196430003",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6196430003",
+      "displayBoxCode": "6196430-003",
+      "gradingCompany": "NGC",
+      "grade": "PF70",
+      "coinName": "2010年1/4盎司深圳经济特区建立30周年金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/499713.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6196430-003/70/",
+      "price": 7220,
+      "priceWithFee": null,
+      "transactedAt": "2025-10-08 22:03:51",
+      "productCode": "AA584870",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250910/large_sell_6isw4mn49hhlvh6j.jpg",
+      "ocrConfidence": 29,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2010年,4盎司,年盎,盎司,司深,深圳,圳经,经济,济特,特区,区建,建立,立周,周年,年金,金币"
+    }
+  ]
+}

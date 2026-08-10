@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8760855003",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8760855003",
+      "displayBoxCode": "8760855-003",
+      "gradingCompany": "NGC",
+      "grade": "pr 22",
+      "coinName": "1981年辛酉鸡年生肖8克精制金币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-jin/10407531.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8760855-003/22/",
+      "price": 22000,
+      "priceWithFee": 22770,
+      "transactedAt": "2026-07-23 20:55:55",
+      "productCode": "875918006",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/875918006A.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1981年,8克,生肖,年辛,辛酉,酉鸡,鸡年,年生,肖克,克精,精制,制金,金币,评级"
+    }
+  ]
+}

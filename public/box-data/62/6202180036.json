@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6202180036",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6202180036",
+      "displayBoxCode": "6202180-036",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2013年1盎司梅花形生肖蛇银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/523133.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6202180-036/",
+      "price": 820,
+      "priceWithFee": null,
+      "transactedAt": "2025-12-31 22:49:43",
+      "productCode": "AA603796",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251221/large_sell_9owfj9fsf7pmbijb.jpg",
+      "ocrConfidence": 28,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2013年,1盎司,生肖,年盎,盎司,司梅,梅花,花形,形生,肖蛇,蛇银,银币"
+    }
+  ]
+}

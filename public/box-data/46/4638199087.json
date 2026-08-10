@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4638199087",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4638199087",
+      "displayBoxCode": "4638199-087",
+      "gradingCompany": "NGC",
+      "grade": "PF67 ULTRA CAMEO",
+      "coinName": "2014年2盎司古典园林圆明园银章",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/517568.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4638199-087/67/",
+      "price": 900,
+      "priceWithFee": null,
+      "transactedAt": "2025-12-12 21:36:26",
+      "productCode": "KH094308",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251203/large_sell_htiujkhbh3wanix6.jpg",
+      "ocrConfidence": 43,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,章,2014年,2盎司,年盎,盎司,司古,古典,典园,园林,林圆,圆明,明园,园银,银章"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8754445009",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8754445009",
+      "displayBoxCode": "8754445-009",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2012年壬辰龙年生肖精制流通纪念币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10359847.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8754445-009/",
+      "price": 290,
+      "priceWithFee": 313.2,
+      "transactedAt": "2026-06-24 19:30:45",
+      "productCode": "869854033",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/869854033A.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2012年,生肖,年壬,壬辰,辰龙,龙年,年生,肖精,精制,制流,流通,通纪,纪念,念币,评级"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8817239002",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8817239002",
+      "displayBoxCode": "8817239-002",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "coinName": "1993年中国古代科技发明发现第（2）组-太极图1盎司普制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10417566.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8817239-002/69/",
+      "price": 670,
+      "priceWithFee": 693.45,
+      "transactedAt": "2026-07-20 21:27:40",
+      "productCode": "877004001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/877004001A.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1993年,1盎司,年中,中国,国古,古代,代科,科技,技发,发明,明发,发现,现第,第组,组太,太极,极图,图盎,盎司,司普,普制,制银,银币"
+    }
+  ]
+}

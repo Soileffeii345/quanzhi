@@ -1,0 +1,31 @@
+{
+  "coinName": "2010年31.104克精制银币",
+  "slug": "132fbf47",
+  "saleCount": 1,
+  "keywords": "银,币,2010年,1盎司,年世,世界,界遗,遗产,产武,武当,当山,山古,古建,建筑,筑群,群盎,盎司,司精,精制,制银,银币,评级",
+  "priceStats": {
+    "low": 680,
+    "high": 680,
+    "avg": 680,
+    "latest": 680
+  },
+  "records": [
+    {
+      "coinName": "2010年世界遗产-武当山古建筑群1盎司精制银币",
+      "normalizedBoxCode": "6001332029",
+      "displayBoxCode": "6001332-029",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10377238.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6001332-029/",
+      "price": 680,
+      "priceWithFee": 703.8,
+      "transactedAt": "2026-07-06 19:35:55",
+      "productCode": "871787008",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2010年,1盎司,年世,世界,界遗,遗产,产武,武当,当山,山古,古建,建筑,筑群,群盎,盎司,司精,精制,制银,银币,评级"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4791443002",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4791443002",
+      "displayBoxCode": "4791443-002",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2004年1/2盎司西游记第2组彩金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/506319.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4791443-002/69/",
+      "price": 15255,
+      "priceWithFee": null,
+      "transactedAt": "2025-10-17 23:07:52",
+      "productCode": "KH087825",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251017/large_sell_3j4k1hqbnth0t8cw.jpg",
+      "ocrConfidence": 31,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2004年,2盎司,年盎,盎司,司西,西游,游记,记第,第组,组彩,彩金,金币"
+    }
+  ]
+}

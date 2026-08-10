@@ -1,0 +1,82 @@
+{
+  "coinName": "2016年熊猫150克银币",
+  "slug": "2f621a8f",
+  "saleCount": 4,
+  "keywords": "银,币,2016年,150克,熊猫,年克,克熊,猫银,银币",
+  "priceStats": {
+    "low": 1450,
+    "high": 4850,
+    "avg": 3159,
+    "latest": 2985
+  },
+  "records": [
+    {
+      "coinName": "2016年150克熊猫银币",
+      "normalizedBoxCode": "4311546002",
+      "displayBoxCode": "4311546-002",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/525411.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4311546-002/69/",
+      "price": 2985,
+      "priceWithFee": null,
+      "transactedAt": "2025-12-28 12:39:12",
+      "productCode": "KH100057",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2016年,150克,熊猫,年克,克熊,猫银,银币"
+    },
+    {
+      "coinName": "2016年150克熊猫银币",
+      "normalizedBoxCode": "4312267044",
+      "displayBoxCode": "4312267-044",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/543149.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4312267-044/69/",
+      "price": 4850,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-28 23:26:54",
+      "productCode": "KH115618",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2016年,150克,熊猫,年克,克熊,猫银,银币"
+    },
+    {
+      "coinName": "2016年150克熊猫银币",
+      "normalizedBoxCode": "4315666005",
+      "displayBoxCode": "4315666-005",
+      "gradingCompany": "NGC",
+      "grade": "PF 68 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/529652.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4315666-005/68/",
+      "price": 3350,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-11 23:24:01",
+      "productCode": "KH102214",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2016年,150克,熊猫,年克,克熊,猫银,银币"
+    },
+    {
+      "coinName": "2016年150克熊猫银币",
+      "normalizedBoxCode": "6003414002",
+      "displayBoxCode": "6003414-002",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/487277.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6003414-002/69/",
+      "price": 1450,
+      "priceWithFee": null,
+      "transactedAt": "2025-07-05 16:54:02",
+      "productCode": "KH072334",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2016年,150克,熊猫,年克,克熊,猫银,银币"
+    }
+  ]
+}

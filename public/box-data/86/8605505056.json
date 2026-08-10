@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8605505056",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8605505056",
+      "displayBoxCode": "8605505-056",
+      "gradingCompany": "NGC",
+      "grade": "PF 69",
+      "coinName": "1994年27克珍稀动物第4组银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/500816.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8605505-056/69/",
+      "price": 1950,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-07 01:03:26",
+      "productCode": "AA584377.78A",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250909/large_sell_0f6hdchrqvrzngrd.jpg",
+      "ocrConfidence": 29,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1994年,27克,年克,克珍,珍稀,稀动,动物,物第,第组,组银,银币"
+    }
+  ]
+}

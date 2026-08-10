@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8504498016",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8504498016",
+      "displayBoxCode": "8504498-016",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "coinName": "2015年澳大利亚考拉1/2盎司银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/aodailiyadaishu/10354168.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8504498-016/69/",
+      "price": 340,
+      "priceWithFee": 360.4,
+      "transactedAt": "2026-06-19 20:27:25",
+      "productCode": "869380029",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/869380029A.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2015年,2盎司,年澳,澳大,大利,利亚,亚考,考拉,拉盎,盎司,司银,银币,外国/特区"
+    }
+  ]
+}

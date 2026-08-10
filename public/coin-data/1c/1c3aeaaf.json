@@ -1,0 +1,65 @@
+{
+  "coinName": "1988年奥运会15.552克金币",
+  "slug": "1c3aeaaf",
+  "saleCount": 3,
+  "keywords": "金,币,1988年,2盎司,奥运,年汤,汤加,加盎,盎司,司汉,汉城,城奥,运会,会拳,拳击,击金,金币,年盎,司第,第届,届奥,会女,女子,子剑,剑术,术金",
+  "priceStats": {
+    "low": 11955,
+    "high": 17600,
+    "avg": 14162,
+    "latest": 11955
+  },
+  "records": [
+    {
+      "coinName": "1988年汤加1/2盎司汉城奥运会拳击金币",
+      "normalizedBoxCode": "3153041012",
+      "displayBoxCode": "3153041-012",
+      "gradingCompany": "NGC",
+      "grade": "PF 69",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/473396.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3153041-012/69/",
+      "price": 11955,
+      "priceWithFee": null,
+      "transactedAt": "2025-04-15 20:30:59",
+      "productCode": "KH064479",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1988年,2盎司,奥运,年汤,汤加,加盎,盎司,司汉,汉城,城奥,运会,会拳,拳击,击金,金币"
+    },
+    {
+      "coinName": "1988年1/2盎司第24届奥运会女子剑术金币",
+      "normalizedBoxCode": "4313237006",
+      "displayBoxCode": "4313237-006",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/578632.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4313237-006/69/",
+      "price": 17600,
+      "priceWithFee": null,
+      "transactedAt": "2026-05-22 16:20:33",
+      "productCode": "KH135872",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1988年,2盎司,奥运,年盎,盎司,司第,第届,届奥,运会,会女,女子,子剑,剑术,术金,金币"
+    },
+    {
+      "coinName": "1988年1/2盎司第24届奥运会女子剑术金币",
+      "normalizedBoxCode": "4421498002",
+      "displayBoxCode": "4421498-002",
+      "gradingCompany": "NGC",
+      "grade": "PF69 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/474684.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4421498-002/69/",
+      "price": 12930,
+      "priceWithFee": null,
+      "transactedAt": "2025-04-22 21:48:38",
+      "productCode": "KH065199",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1988年,2盎司,奥运,年盎,盎司,司第,第届,届奥,运会,会女,女子,子剑,剑术,术金,金币"
+    }
+  ]
+}

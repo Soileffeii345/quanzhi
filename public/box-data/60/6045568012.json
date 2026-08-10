@@ -1,0 +1,45 @@
+{
+  "ok": true,
+  "query": "6045568012",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6045568012",
+      "displayBoxCode": "6045568-012",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2017年3克金砖国家领导人厦门会晤金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/523765.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6045568-012/",
+      "price": 3090,
+      "priceWithFee": null,
+      "transactedAt": "2025-12-23 11:26:10",
+      "productCode": "KH097349",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251223/large_sell_vusa48jtop1qrtbq.jpg",
+      "ocrConfidence": 49,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2017年,3克,年克,克金,金砖,砖国,国家,家领,领导,导人,人厦,厦门,门会,会晤,晤金,金币"
+    },
+    {
+      "normalizedBoxCode": "6045568012",
+      "displayBoxCode": "6045568-012",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2017年3克金砖国家领导人厦门会晤金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/497493.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6045568-012/70/",
+      "price": 2430,
+      "priceWithFee": null,
+      "transactedAt": "2025-08-31 08:46:35",
+      "productCode": "KH080338",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250831/large_sell_bgyolcd4q7yl7cbc.jpg",
+      "ocrConfidence": 62,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2017年,3克,年克,克金,金砖,砖国,国家,家领,领导,导人,人厦,厦门,门会,会晤,晤金,金币"
+    }
+  ]
+}

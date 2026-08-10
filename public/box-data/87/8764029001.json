@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8764029001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8764029001",
+      "displayBoxCode": "8764029-001",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1990年熊猫1盎司精制银币（小P版）",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-jiuyin/10351249.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8764029-001/",
+      "price": 10200,
+      "priceWithFee": 10557,
+      "transactedAt": "2026-06-18 20:01:10",
+      "productCode": "869398033",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/869398033A.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1990年,1盎司,熊猫,年熊,猫盎,盎司,司精,精制,制银,银币,币小,小版,评级"
+    }
+  ]
+}

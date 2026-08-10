@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4803114010",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4803114010",
+      "displayBoxCode": "4803114-010",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2019年30克熊猫银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/425252.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4803114-010/",
+      "price": 480,
+      "priceWithFee": null,
+      "transactedAt": "2024-10-30 11:47:29",
+      "productCode": "KH053863",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20240405/large_sell_8w2hrlx2uqi0jtqg.jpg",
+      "ocrConfidence": 40,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2019年,30克,熊猫,年克,克熊,猫银,银币"
+    }
+  ]
+}

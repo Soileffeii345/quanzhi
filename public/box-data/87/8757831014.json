@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8757831014",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8757831014",
+      "displayBoxCode": "8757831-014",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1992年22克国际环境保护年银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/586221.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8757831-014/69/",
+      "price": 850,
+      "priceWithFee": null,
+      "transactedAt": "2026-06-27 18:40:47",
+      "productCode": "AA653673",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260602/large_sell_ahzoommk57wwcg6y.jpg",
+      "ocrConfidence": 30,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1992年,22克,年克,克国,国际,际环,环境,境保,保护,护年,年银,银币"
+    }
+  ]
+}

@@ -1,6 +1,35 @@
 [build]
   command = "npm run build:netlify"
+  publish = ".netlify"
 
 [build.environment]
   NODE_VERSION = "22"
   NITRO_PRESET = "netlify"
+
+[framework]
+  name = "vite"
+
+# Cache static JSON for 24h
+[[headers]]
+  for = "/box-data/*"
+  [headers.values]
+    Cache-Control = "public, max-age=86400"
+
+[[headers]]
+  for = "/coin-data/*"
+  [headers.values]
+    Cache-Control = "public, max-age=86400"
+
+# Security headers
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Content-Type-Options = "nosniff"
+    X-Frame-Options = "DENY"
+    Referrer-Policy = "strict-origin-when-cross-origin"
+
+# Redirects
+[[redirects]]
+  from = "https://quanzhi.netlify.app/*"
+  to = "https://quanzhi-泉知.netlify.app/:splat"
+  status = 301

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6714995024",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6714995024",
+      "displayBoxCode": "6714995-024",
+      "gradingCompany": "NGC",
+      "grade": "MS 66",
+      "coinName": "1996年1/10盎司熊猫金币(大字版)",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/531268.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6714995-024/66/",
+      "price": 3500,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-16 03:35:35",
+      "productCode": "KH106671",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260114/large_sell_c14mia13m9xzhonj.jpg",
+      "ocrConfidence": 37,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1996年,10盎司,熊猫,年盎,盎司,司熊,猫金,金币,币大,大字,字版"
+    }
+  ]
+}

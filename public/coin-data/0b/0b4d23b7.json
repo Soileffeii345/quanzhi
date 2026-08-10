@@ -1,0 +1,48 @@
+{
+  "coinName": "2001年31.104克普制银币",
+  "slug": "0b4d23b7",
+  "saleCount": 2,
+  "keywords": "银,币,2001年,1盎司,年北,北京,京国,国际,际钱,钱币,币博,博览,览会,会盎,盎司,司普,普制,制银,银币",
+  "priceStats": {
+    "low": 550,
+    "high": 640,
+    "avg": 595,
+    "latest": 550
+  },
+  "records": [
+    {
+      "coinName": "2001年北京国际钱币博览会1盎司普制银币",
+      "normalizedBoxCode": "4638053001",
+      "displayBoxCode": "4638053-001",
+      "gradingCompany": "NGC",
+      "grade": "MS 66",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10383386.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4638053-001/66/",
+      "price": 550,
+      "priceWithFee": 569.25,
+      "transactedAt": "2026-07-06 21:44:15",
+      "productCode": "871831005",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2001年,1盎司,年北,北京,京国,国际,际钱,钱币,币博,博览,览会,会盎,盎司,司普,普制,制银,银币"
+    },
+    {
+      "coinName": "2001年北京国际钱币博览会1盎司普制银币",
+      "normalizedBoxCode": "8647103040",
+      "displayBoxCode": "8647103-040",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10383390.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8647103-040/",
+      "price": 640,
+      "priceWithFee": 662.4,
+      "transactedAt": "2026-07-06 19:45:30",
+      "productCode": "871831009",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2001年,1盎司,年北,北京,京国,国际,际钱,钱币,币博,博览,览会,会盎,盎司,司普,普制,制银,银币"
+    }
+  ]
+}

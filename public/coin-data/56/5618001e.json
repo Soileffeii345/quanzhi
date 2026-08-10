@@ -1,0 +1,48 @@
+{
+  "coinName": "1997年3.11克铜币",
+  "slug": "5618001e",
+  "saleCount": 2,
+  "keywords": "金,铜,币,1997年,10盎司,年盎,盎司,司故,故宫,宫博,博物,物院,院铜,铜狮,狮金,金币",
+  "priceStats": {
+    "low": 4400,
+    "high": 4550,
+    "avg": 4475,
+    "latest": 4550
+  },
+  "records": [
+    {
+      "coinName": "1997年1/10盎司故宫博物院铜狮金币",
+      "normalizedBoxCode": "3877645024",
+      "displayBoxCode": "3877645-024",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/570873.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3877645-024/69/",
+      "price": 4550,
+      "priceWithFee": null,
+      "transactedAt": "2026-04-16 07:21:39",
+      "productCode": "AA638250",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,铜,币,1997年,10盎司,年盎,盎司,司故,故宫,宫博,博物,物院,院铜,铜狮,狮金,金币"
+    },
+    {
+      "coinName": "1997年1/10盎司故宫博物院铜狮金币",
+      "normalizedBoxCode": "8183388061",
+      "displayBoxCode": "8183388-061",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/571058.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8183388-061/",
+      "price": 4400,
+      "priceWithFee": null,
+      "transactedAt": "2026-04-15 09:17:14",
+      "productCode": "AA638473",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,铜,币,1997年,10盎司,年盎,盎司,司故,故宫,宫博,博物,物院,院铜,铜狮,狮金,金币"
+    }
+  ]
+}

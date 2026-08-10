@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6761388034",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6761388034",
+      "displayBoxCode": "6761388-034",
+      "gradingCompany": "NGC",
+      "grade": "PF70 ULTRA CAMEO",
+      "coinName": "2023年8克书法艺术第5组金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/503144.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6761388-034/70/",
+      "price": 10800,
+      "priceWithFee": null,
+      "transactedAt": "2025-10-26 09:44:47",
+      "productCode": "AA588286",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250928/large_sell_sgvmbeuq8kl71jqo.jpg",
+      "ocrConfidence": 30,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2023年,8克,书法,年克,克书,法艺,艺术,术第,第组,组金,金币"
+    }
+  ]
+}

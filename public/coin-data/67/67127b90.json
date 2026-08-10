@@ -1,0 +1,31 @@
+{
+  "coinName": "1993年15.552克精制金币",
+  "slug": "67127b90",
+  "saleCount": 1,
+  "keywords": "金,币,1993年,2盎司,年台,台湾,湾风,风光,光第,第组,组盎,盎司,司精,精制,制金,金币,币四,四枚,枚一,一套,评级",
+  "priceStats": {
+    "low": 87000,
+    "high": 87000,
+    "avg": 87000,
+    "latest": 87000
+  },
+  "records": [
+    {
+      "coinName": "1993年台湾风光第（2）组1/2盎司精制金币四枚一套",
+      "normalizedBoxCode": "8610819076",
+      "displayBoxCode": "8610819-076",
+      "gradingCompany": "NGC",
+      "grade": "PF 68 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10365693.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8610819-076/68/",
+      "price": 87000,
+      "priceWithFee": 90045,
+      "transactedAt": "2026-06-25 21:28:05",
+      "productCode": "870946003",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1993年,2盎司,年台,台湾,湾风,风光,光第,第组,组盎,盎司,司精,精制,制金,金币,币四,四枚,枚一,一套,评级"
+    }
+  ]
+}

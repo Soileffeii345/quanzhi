@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8498522003",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8498522003",
+      "displayBoxCode": "8498522-003",
+      "gradingCompany": "NGC",
+      "grade": "PF70 ULTRA CAMEO",
+      "coinName": "2020年3克吉祥文化百年好合金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/555575.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8498522-003/70/",
+      "price": 9300,
+      "priceWithFee": null,
+      "transactedAt": "2026-02-23 13:32:47",
+      "productCode": "AA621591A",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260210/large_sell_y3dxmmlnorkfbwnt.jpg",
+      "ocrConfidence": 30,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2020年,3克,吉祥文化,年克,克吉,吉祥,祥文,文化,化百,百年,年好,好合,合金,金币"
+    }
+  ]
+}

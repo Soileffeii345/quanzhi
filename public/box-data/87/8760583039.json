@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8760583039",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8760583039",
+      "displayBoxCode": "8760583-039",
+      "gradingCompany": "NGC",
+      "grade": "PF67 ULTRA CAMEO",
+      "coinName": "1990年第11届亚运会第（2）组-男子吊环27克精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10367499.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8760583-039/67/",
+      "price": 410,
+      "priceWithFee": 424.35,
+      "transactedAt": "2026-06-29 20:30:10",
+      "productCode": "871175011",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/26/871175011A.jpg",
+      "ocrConfidence": 30,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1990年,27克,年第,第届,届亚,亚运,运会,会第,第组,组男,男子,子吊,吊环,环克,克精,精制,制银,银币,评级"
+    }
+  ]
+}

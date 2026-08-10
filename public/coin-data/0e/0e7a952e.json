@@ -1,0 +1,65 @@
+{
+  "coinName": "1990年熊猫31.104克普制银币",
+  "slug": "0e7a952e",
+  "saleCount": 3,
+  "keywords": "银,币,1990年,1盎司,熊猫,年熊,猫盎,盎司,司普,普制,制银,银币,币大,大字,字版",
+  "priceStats": {
+    "low": 890,
+    "high": 1420,
+    "avg": 1130,
+    "latest": 1080
+  },
+  "records": [
+    {
+      "coinName": "1990年熊猫1盎司普制银币（大字版）",
+      "normalizedBoxCode": "4794130002",
+      "displayBoxCode": "4794130-002",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-jiuyin/10410199.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4794130-002/69/",
+      "price": 1080,
+      "priceWithFee": 1117.8,
+      "transactedAt": "2026-07-20 21:20:10",
+      "productCode": "876281012",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1990年,1盎司,熊猫,年熊,猫盎,盎司,司普,普制,制银,银币,币大,大字,字版"
+    },
+    {
+      "coinName": "1990年熊猫1盎司普制银币（大字版）",
+      "normalizedBoxCode": "8193025004",
+      "displayBoxCode": "8193025-004",
+      "gradingCompany": "NGC",
+      "grade": "MS 67",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-jiuyin/10393008.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8193025-004/67/",
+      "price": 890,
+      "priceWithFee": 921.15,
+      "transactedAt": "2026-07-13 20:26:00",
+      "productCode": "874056002",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1990年,1盎司,熊猫,年熊,猫盎,盎司,司普,普制,制银,银币,币大,大字,字版"
+    },
+    {
+      "coinName": "1990年熊猫1盎司普制银币（大字版）",
+      "normalizedBoxCode": "8755064001",
+      "displayBoxCode": "8755064-001",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-xinyin/10351230.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8755064-001/",
+      "price": 1420,
+      "priceWithFee": 1469.7,
+      "transactedAt": "2026-06-18 20:18:10",
+      "productCode": "869398014",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1990年,1盎司,熊猫,年熊,猫盎,盎司,司普,普制,制银,银币,币大,大字,字版"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6736744002",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6736744002",
+      "displayBoxCode": "6736744-002",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2022年30克第19届亚运会彩银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/420974.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6736744-002/70/",
+      "price": 950,
+      "priceWithFee": null,
+      "transactedAt": "2024-11-26 08:49:44",
+      "productCode": "AA466023A",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20240302/large_sell_cpl8fl9vuyeuqvke.jpg",
+      "ocrConfidence": 32,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2022年,30克,年克,克第,第届,届亚,亚运,运会,会彩,彩银,银币"
+    }
+  ]
+}

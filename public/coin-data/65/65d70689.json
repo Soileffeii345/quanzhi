@@ -1,0 +1,65 @@
+{
+  "coinName": "2014年31.104克银币",
+  "slug": "65d70689",
+  "saleCount": 3,
+  "keywords": "银,币,2014年,1盎司,年盎,盎司,司中,中法,法建,建交,交周,周年,年银,银币,年库,库克,克群,群岛,岛郭,郭川,川环,环球,球航,航海,海世,世界,界纪,纪录,录盎,司彩,彩银",
+  "priceStats": {
+    "low": 500,
+    "high": 1880,
+    "avg": 980,
+    "latest": 500
+  },
+  "records": [
+    {
+      "coinName": "2014年1盎司中法建交50周年银币",
+      "normalizedBoxCode": "8202286036",
+      "displayBoxCode": "8202286-036",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/473452.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8202286-036/",
+      "price": 500,
+      "priceWithFee": null,
+      "transactedAt": "2025-04-19 20:02:29",
+      "productCode": "AA558993",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2014年,1盎司,年盎,盎司,司中,中法,法建,建交,交周,周年,年银,银币"
+    },
+    {
+      "coinName": "2014年库克群岛郭川环球航海世界纪录1盎司彩银币",
+      "normalizedBoxCode": "8504636037",
+      "displayBoxCode": "8504636-037",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianbi/10385572.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8504636-037/",
+      "price": 1880,
+      "priceWithFee": 2086.8,
+      "transactedAt": "2026-07-10 20:58:25",
+      "productCode": "873385008",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2014年,1盎司,年库,库克,克群,群岛,岛郭,郭川,川环,环球,球航,航海,海世,世界,界纪,纪录,录盎,盎司,司彩,彩银,银币"
+    },
+    {
+      "coinName": "2014年库克群岛郭川环球航海世界纪录1盎司彩银币",
+      "normalizedBoxCode": "8504636038",
+      "displayBoxCode": "8504636-038",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/wgjsbizhang/10354154.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8504636-038/69/",
+      "price": 560,
+      "priceWithFee": 593.6,
+      "transactedAt": "2026-06-19 19:51:25",
+      "productCode": "869380015",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2014年,1盎司,年库,库克,克群,群岛,岛郭,郭川,川环,环球,球航,航海,海世,世界,界纪,纪录,录盎,盎司,司彩,彩银,银币"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "coinName": "2025年3克精制金币",
+  "slug": "5d00ec7a",
+  "saleCount": 1,
+  "keywords": "金,币,2025年,3克,年国,国家,家宝,宝藏,藏统,统一,一气,气象,象克,克精,精制,制金,金币,评级",
+  "priceStats": {
+    "low": 4300,
+    "high": 4300,
+    "avg": 4300,
+    "latest": 4300
+  },
+  "records": [
+    {
+      "coinName": "2025年国家宝藏（统一气象）3克精制金币",
+      "normalizedBoxCode": "8609906014",
+      "displayBoxCode": "8609906-014",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10379129.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8609906-014/",
+      "price": 4300,
+      "priceWithFee": 4450.5,
+      "transactedAt": "2026-07-09 20:58:45",
+      "productCode": "872255002",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2025年,3克,年国,国家,家宝,宝藏,藏统,统一,一气,气象,象克,克精,精制,制金,金币,评级"
+    }
+  ]
+}

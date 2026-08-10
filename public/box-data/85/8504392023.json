@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8504392023",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8504392023",
+      "displayBoxCode": "8504392-023",
+      "gradingCompany": "NGC",
+      "grade": "PF 68 ULTRA CAMEO",
+      "coinName": "2017年哈萨克斯坦伊布拉伊.阿尔廷萨林31.1克长方形彩色银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/wgjsbizhang/10415185.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8504392-023/68/",
+      "price": 1480,
+      "priceWithFee": 1568.8,
+      "transactedAt": "2026-07-24 21:05:05",
+      "productCode": "876743013",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/876743013A.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2017年,31.1克,年哈,哈萨,萨克,克斯,斯坦,坦伊,伊布,布拉,拉伊,伊阿,阿尔,尔廷,廷萨,萨林,林克,克长,长方,方形,形彩,彩色,色银,银币"
+    }
+  ]
+}

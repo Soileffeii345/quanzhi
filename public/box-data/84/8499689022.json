@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8499689022",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8499689022",
+      "displayBoxCode": "8499689-022",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "coinName": "2005年1/2盎司扇形生肖鸡金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/468204.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8499689-022/69/",
+      "price": 11025,
+      "priceWithFee": null,
+      "transactedAt": "2025-03-14 11:32:49",
+      "productCode": "KH061021",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250314/large_sell_ru594hgrvf6bnzyp.jpg",
+      "ocrConfidence": 37,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2005年,2盎司,生肖,年盎,盎司,司扇,扇形,形生,肖鸡,鸡金,金币"
+    }
+  ]
+}

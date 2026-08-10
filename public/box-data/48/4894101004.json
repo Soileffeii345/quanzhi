@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4894101004",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4894101004",
+      "displayBoxCode": "4894101-004",
+      "gradingCompany": "NGC",
+      "grade": "PF69",
+      "coinName": "2017年15克熊猫金币发行35周年银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/479153.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4894101-004/69/",
+      "price": 200,
+      "priceWithFee": null,
+      "transactedAt": "2025-05-23 23:39:38",
+      "productCode": "KH067249",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250522/large_sell_4id0wdetkagox2in.jpg",
+      "ocrConfidence": 41,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,2017年,15克,熊猫,年克,克熊,猫金,金币,币发,发行,行周,周年,年银,银币"
+    }
+  ]
+}

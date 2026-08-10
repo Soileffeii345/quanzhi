@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8825225024",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8825225024",
+      "displayBoxCode": "8825225-024",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2002年熊猫1/2盎司普制金币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-jiujin/10405176.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8825225-024/",
+      "price": 20000,
+      "priceWithFee": 20700,
+      "transactedAt": "2026-07-16 20:55:05",
+      "productCode": "875605004",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/875605004A.jpg",
+      "ocrConfidence": 41,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2002年,2盎司,熊猫,年熊,猫盎,盎司,司普,普制,制金,金币"
+    }
+  ]
+}

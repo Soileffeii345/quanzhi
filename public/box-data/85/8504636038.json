@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8504636038",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8504636038",
+      "displayBoxCode": "8504636-038",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "coinName": "2014年库克群岛郭川环球航海世界纪录1盎司彩银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/wgjsbizhang/10354154.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8504636-038/69/",
+      "price": 560,
+      "priceWithFee": 593.6,
+      "transactedAt": "2026-06-19 19:51:25",
+      "productCode": "869380015",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/869380015A.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2014年,1盎司,年库,库克,克群,群岛,岛郭,郭川,川环,环球,球航,航海,海世,世界,界纪,纪录,录盎,盎司,司彩,彩银,银币"
+    }
+  ]
+}

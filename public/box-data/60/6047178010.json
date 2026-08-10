@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6047178010",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6047178010",
+      "displayBoxCode": "6047178-010",
+      "gradingCompany": "NGC",
+      "grade": "PF70 ULTRA CAMEO",
+      "coinName": "2014年1盎司梅花形生肖马银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/525996.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6047178-010/70/",
+      "price": 1300,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-24 07:54:55",
+      "productCode": "AA606184",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251230/large_sell_mv4w0xwwshi7p9co.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2014年,1盎司,生肖,年盎,盎司,司梅,梅花,花形,形生,肖马,马银,银币"
+    }
+  ]
+}

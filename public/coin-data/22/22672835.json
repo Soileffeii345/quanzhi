@@ -1,0 +1,48 @@
+{
+  "coinName": "2007年生肖精制",
+  "slug": "22672835",
+  "saleCount": 2,
+  "keywords": "币,2007年,生肖,吉祥文化,年丁,丁亥,亥猪,猪年,年生,肖贺,贺岁,岁精,精制,制流,流通,通纪,纪念,念币,评级",
+  "priceStats": {
+    "low": 160,
+    "high": 500,
+    "avg": 330,
+    "latest": 160
+  },
+  "records": [
+    {
+      "coinName": "2007年丁亥猪年生肖贺岁精制流通纪念币",
+      "normalizedBoxCode": "0737628052",
+      "displayBoxCode": "0737628-052",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10376524.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/0737628-052/",
+      "price": 160,
+      "priceWithFee": 172.8,
+      "transactedAt": "2026-07-01 20:10:05",
+      "productCode": "871769007",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2007年,生肖,吉祥文化,年丁,丁亥,亥猪,猪年,年生,肖贺,贺岁,岁精,精制,制流,流通,通纪,纪念,念币,评级"
+    },
+    {
+      "coinName": "2007年丁亥猪年生肖贺岁精制流通纪念币",
+      "normalizedBoxCode": "8544018032",
+      "displayBoxCode": "8544018-032",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10395502.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8544018-032/69/",
+      "price": 500,
+      "priceWithFee": 540,
+      "transactedAt": "2026-07-15 20:59:55",
+      "productCode": "874330010",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2007年,生肖,吉祥文化,年丁,丁亥,亥猪,猪年,年生,肖贺,贺岁,岁精,精制,制流,流通,通纪,纪念,念币,评级"
+    }
+  ]
+}

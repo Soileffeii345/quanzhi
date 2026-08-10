@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6738513033",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6738513033",
+      "displayBoxCode": "6738513-033",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2005年1盎司西游记第3组棒打蜘蛛精彩银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/467149.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6738513-033/70/",
+      "price": 900,
+      "priceWithFee": null,
+      "transactedAt": "2025-03-20 13:18:00",
+      "productCode": "KH061715",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250306/large_sell_sqsykjpbdple65le.jpg",
+      "ocrConfidence": 46,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2005年,1盎司,年盎,盎司,司西,西游,游记,记第,第组,组棒,棒打,打蜘,蜘蛛,蛛精,精彩,彩银,银币"
+    }
+  ]
+}

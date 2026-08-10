@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8570695006",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8570695006",
+      "displayBoxCode": "8570695-006",
+      "gradingCompany": "NGC",
+      "grade": "PF70 ULTRA CAMEO",
+      "coinName": "2024年150克生肖龙银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/528528.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8570695-006/70/",
+      "price": 9800,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-07 18:21:12",
+      "productCode": "KH101803",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260106/large_sell_3wqbv0ade6ndze5y.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2024年,150克,生肖,年克,克生,肖龙,龙银,银币"
+    }
+  ]
+}

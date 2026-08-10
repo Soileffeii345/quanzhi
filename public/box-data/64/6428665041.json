@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6428665041",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6428665041",
+      "displayBoxCode": "6428665-041",
+      "gradingCompany": "NGC",
+      "grade": "MS69",
+      "coinName": "1993年1/2盎司熊猫金币(大字版)",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/435331.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6428665-041/69/",
+      "price": 18000,
+      "priceWithFee": null,
+      "transactedAt": "2024-06-05 16:12:14",
+      "productCode": "AA480287A",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20240515/large_sell_mnvqztftl2lxqadl.jpg",
+      "ocrConfidence": 28,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1993年,2盎司,熊猫,年盎,盎司,司熊,猫金,金币,币大,大字,字版"
+    }
+  ]
+}

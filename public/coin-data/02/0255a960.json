@@ -1,0 +1,31 @@
+{
+  "coinName": "民国二十七年孙像二十分镍币",
+  "slug": "0255a960",
+  "saleCount": 1,
+  "keywords": "币,历史币,孙小头,小头,民国,国二,二十,十七,七年,年孙,孙像,像二,十分,分镍,镍币",
+  "priceStats": {
+    "low": 330,
+    "high": 330,
+    "avg": 330,
+    "latest": 330
+  },
+  "records": [
+    {
+      "coinName": "民国二十七年孙像二十分镍币",
+      "normalizedBoxCode": "89922634",
+      "displayBoxCode": "89922634",
+      "gradingCompany": "PCGS",
+      "grade": "MS66",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguojindaijizhibi/10367626.shtml",
+      "officialCertUrl": "https://cn.pcgs.com/cert/89922634",
+      "price": 330,
+      "priceWithFee": 356.4,
+      "transactedAt": "2026-07-13 19:34:45",
+      "productCode": "871273001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,历史币,孙小头,小头,民国,国二,二十,十七,七年,年孙,孙像,像二,十分,分镍,镍币"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8188485050",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8188485050",
+      "displayBoxCode": "8188485-050",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2020年30克世界遗产良渚古城银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/536617.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8188485-050/70/",
+      "price": 950,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-27 00:48:39",
+      "productCode": "AA614399",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260122/large_sell_gjnopewzbs76txck.jpg",
+      "ocrConfidence": 31,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2020年,30克,年克,克世,世界,界遗,遗产,产良,良渚,渚古,古城,城银,银币"
+    }
+  ]
+}

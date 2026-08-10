@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6142260013",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6142260013",
+      "displayBoxCode": "6142260-013",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1984年1/3盎司历史人物第1组秦始皇金币(UC)",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/497114.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6142260-013/69/",
+      "price": 8250,
+      "priceWithFee": null,
+      "transactedAt": "2025-08-28 19:34:10",
+      "productCode": "KH080067",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250828/large_sell_u0ovqbuhjchlmloq.jpg",
+      "ocrConfidence": 41,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1984年,3盎司,年盎,盎司,司历,历史,史人,人物,物第,第组,组秦,秦始,始皇,皇金,金币"
+    }
+  ]
+}

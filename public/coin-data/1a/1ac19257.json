@@ -1,0 +1,48 @@
+{
+  "coinName": "1997年生肖15.552克精制金币",
+  "slug": "1ac19257",
+  "saleCount": 2,
+  "keywords": "金,币,1997年,2盎司,生肖,年丁,丁丑,丑牛,牛年,年生,肖盎,盎司,司梅,梅花,花形,形精,精制,制金,金币,评级",
+  "priceStats": {
+    "low": 18200,
+    "high": 18400,
+    "avg": 18300,
+    "latest": 18400
+  },
+  "records": [
+    {
+      "coinName": "1997年丁丑牛年生肖1/2盎司梅花形精制金币",
+      "normalizedBoxCode": "2782217012",
+      "displayBoxCode": "2782217-012",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-jin/10359383.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2782217-012/69/",
+      "price": 18400,
+      "priceWithFee": 19044,
+      "transactedAt": "2026-06-25 21:48:05",
+      "productCode": "869701001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1997年,2盎司,生肖,年丁,丁丑,丑牛,牛年,年生,肖盎,盎司,司梅,梅花,花形,形精,精制,制金,金币,评级"
+    },
+    {
+      "coinName": "1997年丁丑牛年生肖1/2盎司梅花形精制金币",
+      "normalizedBoxCode": "8648828065",
+      "displayBoxCode": "8648828-065",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-jin/10360174.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8648828-065/",
+      "price": 18200,
+      "priceWithFee": 18837,
+      "transactedAt": "2026-06-25 21:56:35",
+      "productCode": "870428006",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1997年,2盎司,生肖,年丁,丁丑,丑牛,牛年,年生,肖盎,盎司,司梅,梅花,花形,形精,精制,制金,金币,评级"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "coinName": "2001年熊猫3.11克金币",
+  "slug": "53fcc70f",
+  "saleCount": 2,
+  "keywords": "金,币,2001年,10盎司,熊猫,年盎,盎司,司熊,猫金,金币,币版",
+  "priceStats": {
+    "low": 3300,
+    "high": 4150,
+    "avg": 3725,
+    "latest": 3300
+  },
+  "records": [
+    {
+      "coinName": "2001年1/10盎司熊猫金币(D版)",
+      "normalizedBoxCode": "4530192004",
+      "displayBoxCode": "4530192-004",
+      "gradingCompany": "NGC",
+      "grade": "ms70",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/496154.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4530192-004/70/",
+      "price": 3300,
+      "priceWithFee": null,
+      "transactedAt": "2025-09-01 20:54:57",
+      "productCode": "AA581041",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2001年,10盎司,熊猫,年盎,盎司,司熊,猫金,金币,币版"
+    },
+    {
+      "coinName": "2001年1/10盎司熊猫金币(D版)",
+      "normalizedBoxCode": "4532963035",
+      "displayBoxCode": "4532963-035",
+      "gradingCompany": "NGC",
+      "grade": "MS69",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/553450.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4532963-035/69/",
+      "price": 4150,
+      "priceWithFee": null,
+      "transactedAt": "2026-02-20 18:02:15",
+      "productCode": "AA620818",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2001年,10盎司,熊猫,年盎,盎司,司熊,猫金,金币,币版"
+    }
+  ]
+}

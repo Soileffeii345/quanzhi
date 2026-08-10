@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "3854055181",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "3854055181",
+      "displayBoxCode": "3854055-181",
+      "gradingCompany": "NGC",
+      "grade": "PF70 ULTRA CAMEO",
+      "coinName": "2008年美国夏威夷州银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/476074.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3854055-181/70/",
+      "price": 260,
+      "priceWithFee": null,
+      "transactedAt": "2025-05-01 07:13:38",
+      "productCode": "AA561045",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250430/large_sell_hkicinyidy8zqsum.jpg",
+      "ocrConfidence": 32,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2008年,年美,美国,国夏,夏威,威夷,夷州,州银,银币,外国/特区"
+    }
+  ]
+}

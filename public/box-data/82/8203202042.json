@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8203202042",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8203202042",
+      "displayBoxCode": "8203202-042",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2005年1盎司梅花形生肖鸡银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/508725.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8203202-042/69/",
+      "price": 600,
+      "priceWithFee": null,
+      "transactedAt": "2025-11-05 22:09:11",
+      "productCode": "KH089294",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251026/large_sell_tyh1k6lbnwp9q3ki.jpg",
+      "ocrConfidence": 65,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2005年,1盎司,生肖,年盎,盎司,司梅,梅花,花形,形生,肖鸡,鸡银,银币"
+    }
+  ]
+}

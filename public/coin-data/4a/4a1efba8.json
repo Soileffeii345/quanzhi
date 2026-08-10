@@ -1,0 +1,31 @@
+{
+  "coinName": "1959年银币",
+  "slug": "4a1efba8",
+  "saleCount": 1,
+  "keywords": "银,1959年,年香,香港,港上,上海,海汇,汇丰,丰银,银行,行伍,伍圆,外国/特区",
+  "priceStats": {
+    "low": 810,
+    "high": 810,
+    "avg": 810,
+    "latest": 810
+  },
+  "records": [
+    {
+      "coinName": "1959年香港上海汇丰银行伍圆",
+      "normalizedBoxCode": "2515289065",
+      "displayBoxCode": "2515289-065",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xianggangzhichao/10396924.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2515289-065/",
+      "price": 810,
+      "priceWithFee": 899.1,
+      "transactedAt": "2026-07-18 20:50:35",
+      "productCode": "874272009",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,1959年,年香,香港,港上,上海,海汇,汇丰,丰银,银行,行伍,伍圆,外国/特区"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6170492005",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6170492005",
+      "displayBoxCode": "6170492-005",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2020年蒙古1盎司貉高浮雕彩银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/425547.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6170492-005/",
+      "price": 1300,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-07 15:34:29",
+      "productCode": "KH101829",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20240407/large_sell_ic0ypgvjfp7mijsz.jpg",
+      "ocrConfidence": 37,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2020年,1盎司,年蒙,蒙古,古盎,盎司,司貉,貉高,高浮,浮雕,雕彩,彩银,银币"
+    }
+  ]
+}

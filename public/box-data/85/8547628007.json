@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8547628007",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8547628007",
+      "displayBoxCode": "8547628-007",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1984年中华人民共和国成立35周年-祖国万岁精制流通纪念币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10359821.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8547628-007/",
+      "price": 1420,
+      "priceWithFee": 1533.6,
+      "transactedAt": "2026-06-24 19:53:25",
+      "productCode": "869854007",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/869854007A.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1984年,年中,中华,华人,人民,民共,共和,和国,国成,成立,立周,周年,年祖,祖国,国万,万岁,岁精,精制,制流,流通,通纪,纪念,念币,评级"
+    }
+  ]
+}

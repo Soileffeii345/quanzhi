@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4418986001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4418986001",
+      "displayBoxCode": "4418986-001",
+      "gradingCompany": "NGC",
+      "grade": "PF69 ULTRA CAMEO",
+      "coinName": "1986年1/3盎司历史人物第3组刘邦金币(高年大版)",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/509929.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4418986-001/69/",
+      "price": 10000,
+      "priceWithFee": null,
+      "transactedAt": "2025-12-01 08:37:32",
+      "productCode": "AA587376A",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250924/large_sell_1svcro6fev0j50i3.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1986年,3盎司,年盎,盎司,司历,历史,史人,人物,物第,第组,组刘,刘邦,邦金,金币,币高,高年,年大,大版"
+    }
+  ]
+}

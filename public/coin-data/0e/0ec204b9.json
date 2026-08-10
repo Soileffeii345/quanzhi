@@ -1,0 +1,31 @@
+{
+  "coinName": "1996年麒麟31.104克金币",
+  "slug": "0ec204b9",
+  "saleCount": 1,
+  "keywords": "金,币,1996年,1盎司,年盎,盎司,司麒,麒麟,麟金,金币",
+  "priceStats": {
+    "low": 46600,
+    "high": 46600,
+    "avg": 46600,
+    "latest": 46600
+  },
+  "records": [
+    {
+      "coinName": "1996年1盎司麒麟金币",
+      "normalizedBoxCode": "2766198072",
+      "displayBoxCode": "2766198-072",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/581596.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2766198-072/69/",
+      "price": 46600,
+      "priceWithFee": null,
+      "transactedAt": "2026-05-18 20:28:59",
+      "productCode": "KH135242",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1996年,1盎司,年盎,盎司,司麒,麒麟,麟金,金币"
+    }
+  ]
+}

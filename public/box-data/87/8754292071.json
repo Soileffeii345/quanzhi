@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8754292071",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8754292071",
+      "displayBoxCode": "8754292-071",
+      "gradingCompany": "NGC",
+      "grade": "MS 66",
+      "coinName": "1987年第六届运动会-足球流通纪念币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10357821.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8754292-071/66/",
+      "price": 180,
+      "priceWithFee": 194.4,
+      "transactedAt": "2026-06-24 21:29:25",
+      "productCode": "869767005",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/869767005A.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1987年,年第,第六,六届,届运,运动,动会,会足,足球,球流,流通,通纪,纪念,念币"
+    }
+  ]
+}

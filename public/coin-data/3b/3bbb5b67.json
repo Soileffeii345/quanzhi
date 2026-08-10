@@ -1,0 +1,31 @@
+{
+  "coinName": "老挝纸钞",
+  "slug": "3bbb5b67",
+  "saleCount": 1,
+  "keywords": "钞,老挝,挝纸,纸钞",
+  "priceStats": {
+    "low": 45,
+    "high": 45,
+    "avg": 45,
+    "latest": 45
+  },
+  "records": [
+    {
+      "coinName": "老挝纸钞",
+      "normalizedBoxCode": "2436581048",
+      "displayBoxCode": "2436581-048",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10396889.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2436581-048/",
+      "price": 45,
+      "priceWithFee": 49.95,
+      "transactedAt": "2026-07-21 22:02:50",
+      "productCode": "874667001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,老挝,挝纸,纸钞"
+    }
+  ]
+}

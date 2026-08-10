@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8819606022",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8819606022",
+      "displayBoxCode": "8819606-022",
+      "gradingCompany": "NGC",
+      "grade": "PF68 ULTRA CAMEO",
+      "coinName": "2001年辛巳蛇年生肖1盎司精制彩银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10358633.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8819606-022/68/",
+      "price": 690,
+      "priceWithFee": 714.15,
+      "transactedAt": "2026-06-22 20:56:40",
+      "productCode": "870078008",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/870078008A.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2001年,1盎司,生肖,年辛,辛巳,巳蛇,蛇年,年生,肖盎,盎司,司精,精制,制彩,彩银,银币,评级"
+    }
+  ]
+}

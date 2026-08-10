@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8498695009",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8498695009",
+      "displayBoxCode": "8498695-009",
+      "gradingCompany": "NGC",
+      "grade": "PF70 ULTRA CAMEO",
+      "coinName": "2021年5克第24届冬奥会第2组剪纸喜鹊金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/479741.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8498695-009/70/",
+      "price": 4220,
+      "priceWithFee": null,
+      "transactedAt": "2025-09-13 20:23:14",
+      "productCode": "KH083462",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250527/large_sell_fgjmdmjwkfsom8r4.jpg",
+      "ocrConfidence": 55,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2021年,5克,奥运,年克,克第,第届,届冬,冬奥,奥会,会第,第组,组剪,剪纸,纸喜,喜鹊,鹊金,金币"
+    }
+  ]
+}

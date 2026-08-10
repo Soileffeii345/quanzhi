@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6001188029",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6001188029",
+      "displayBoxCode": "6001188-029",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2021年辛丑牛年生肖30克精制彩银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10387908.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6001188-029/70/",
+      "price": 800,
+      "priceWithFee": 828,
+      "transactedAt": "2026-07-11 19:30:45",
+      "productCode": "873013002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/27/873013002A.jpg",
+      "ocrConfidence": 43,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2021年,30克,生肖,年辛,辛丑,丑牛,牛年,年生,肖克,克精,精制,制彩,彩银,银币,评级"
+    }
+  ]
+}

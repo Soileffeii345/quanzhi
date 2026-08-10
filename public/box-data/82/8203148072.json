@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8203148072",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8203148072",
+      "displayBoxCode": "8203148-072",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2021年千手观音镀金纪念章",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/tongzhang/10405183.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8203148-072/70/",
+      "price": 170,
+      "priceWithFee": 188.7,
+      "transactedAt": "2026-07-24 19:40:10",
+      "productCode": "875612002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/875612002A.jpg",
+      "ocrConfidence": 27,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,章,2021年,宗教,年千,千手,手观,观音,音镀,镀金,金纪,纪念,念章"
+    }
+  ]
+}

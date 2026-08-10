@@ -1,0 +1,31 @@
+{
+  "coinName": "2000年熊猫31.104克银币",
+  "slug": "3c880879",
+  "saleCount": 1,
+  "keywords": "银,币,2000年,1盎司,熊猫,年盎,盎司,司熊,猫银,银币,币深,深圳,圳版",
+  "priceStats": {
+    "low": 2200,
+    "high": 2200,
+    "avg": 2200,
+    "latest": 2200
+  },
+  "records": [
+    {
+      "coinName": "2000年1盎司熊猫银币(深圳版)",
+      "normalizedBoxCode": "6715119004",
+      "displayBoxCode": "6715119-004",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/524522.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6715119-004/",
+      "price": 2200,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-07 09:45:14",
+      "productCode": "KH101040",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2000年,1盎司,熊猫,年盎,盎司,司熊,猫银,银币,币深,深圳,圳版"
+    }
+  ]
+}

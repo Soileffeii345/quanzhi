@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6186843004",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6186843004",
+      "displayBoxCode": "6186843-004",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1996年1/2盎司古代科技第5组马具金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/490212.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6186843-004/",
+      "price": 28400,
+      "priceWithFee": null,
+      "transactedAt": "2025-08-17 22:48:29",
+      "productCode": "AA574194",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250722/large_sell_zvnlaxnnbjyff301.jpg",
+      "ocrConfidence": 40,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1996年,2盎司,年盎,盎司,司古,古代,代科,科技,技第,第组,组马,马具,具金,金币"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2117873055",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2117873055",
+      "displayBoxCode": "2117873-055",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "民国26年中国银行拾圆",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10364103.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2117873-055/",
+      "price": 2900,
+      "priceWithFee": 3219,
+      "transactedAt": "2026-07-09 19:53:20",
+      "productCode": "869951002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/869951002B.jpg",
+      "ocrConfidence": 30,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国年,年中,中国,国银,银行,行拾,拾圆"
+    }
+  ]
+}

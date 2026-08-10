@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6333173076",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6333173076",
+      "displayBoxCode": "6333173-076",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2012年壬辰龙年生肖1/2盎司梅花形精制金币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-jin/10374700.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6333173-076/",
+      "price": 17600,
+      "priceWithFee": 18216,
+      "transactedAt": "2026-07-09 21:17:25",
+      "productCode": "872023002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/27/872023002A.jpg",
+      "ocrConfidence": 37,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2012年,2盎司,生肖,年壬,壬辰,辰龙,龙年,年生,肖盎,盎司,司梅,梅花,花形,形精,精制,制金,金币,评级"
+    }
+  ]
+}

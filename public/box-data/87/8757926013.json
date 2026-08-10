@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8757926013",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8757926013",
+      "displayBoxCode": "8757926-013",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1989年己巳蛇年生肖1盎司精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10351222.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8757926-013/",
+      "price": 3850,
+      "priceWithFee": 3984.75,
+      "transactedAt": "2026-06-18 20:17:10",
+      "productCode": "869398006",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/869398006A.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1989年,1盎司,生肖,年己,己巳,巳蛇,蛇年,年生,肖盎,盎司,司精,精制,制银,银币,评级"
+    }
+  ]
+}

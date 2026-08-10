@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "3362303024",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "3362303024",
+      "displayBoxCode": "3362303-024",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2011年1盎司登封&quot;天地之中&quot;银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/480144.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3362303-024/69/",
+      "price": 350,
+      "priceWithFee": null,
+      "transactedAt": "2025-06-19 11:57:00",
+      "productCode": "AA564307",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250528/large_sell_s4yeakkdkfjze3dg.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2011年,1盎司,年盎,盎司,司登,登封,封天,天地,地之,之中,中银,银币"
+    }
+  ]
+}

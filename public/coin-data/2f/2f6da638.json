@@ -1,0 +1,31 @@
+{
+  "coinName": "第一版人民币灌田与矿井10元正反面票样",
+  "slug": "2f6da638",
+  "saleCount": 1,
+  "keywords": "币,钞,第一,一版,版人,人民,民币,币灌,灌田,田与,与矿,矿井,井元,元正,正反,反面,面票,票样,样各,各一,一枚",
+  "priceStats": {
+    "low": 24500,
+    "high": 24500,
+    "avg": 24500,
+    "latest": 24500
+  },
+  "records": [
+    {
+      "coinName": "第一版人民币灌田与矿井10元正反面票样各一枚",
+      "normalizedBoxCode": "2012505043",
+      "displayBoxCode": "2012505-043",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/diyibanrenminbi/10381250.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2012505-043/",
+      "price": 24500,
+      "priceWithFee": 26950,
+      "transactedAt": "2026-07-02 20:48:35",
+      "productCode": "872983009",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,钞,第一,一版,版人,人民,民币,币灌,灌田,田与,与矿,矿井,井元,元正,正反,反面,面票,票样,样各,各一,一枚"
+    }
+  ]
+}

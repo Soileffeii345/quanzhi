@@ -1,0 +1,48 @@
+{
+  "coinName": "第三版人民币2角",
+  "slug": "0d15d872",
+  "saleCount": 2,
+  "keywords": "币,第三,三版,版人,人民,民币,币角,角连,连号,号枚",
+  "priceStats": {
+    "low": 760,
+    "high": 760,
+    "avg": 760,
+    "latest": 760
+  },
+  "records": [
+    {
+      "coinName": "第三版人民币2角连号11枚",
+      "normalizedBoxCode": "2162005015",
+      "displayBoxCode": "2162005-015",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/disanbanrenminbi/10369786.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2162005-015/",
+      "price": 760,
+      "priceWithFee": 820.8,
+      "transactedAt": "2026-06-30 21:01:50",
+      "productCode": "871143022",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,第三,三版,版人,人民,民币,币角,角连,连号,号枚"
+    },
+    {
+      "coinName": "第三版人民币2角连号11枚",
+      "normalizedBoxCode": "2162608050",
+      "displayBoxCode": "2162608-050",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/disanbanrenminbi/10369786.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2162608-050/",
+      "price": 760,
+      "priceWithFee": 820.8,
+      "transactedAt": "2026-06-30 21:01:50",
+      "productCode": "871143022",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,第三,三版,版人,人民,民币,币角,角连,连号,号枚"
+    }
+  ]
+}

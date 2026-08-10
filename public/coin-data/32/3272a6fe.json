@@ -1,0 +1,31 @@
+{
+  "coinName": "1986年中国硬币贰分",
+  "slug": "3272a6fe",
+  "saleCount": 1,
+  "keywords": "币,1986年,年中,中国,国硬,硬币,币贰,贰分",
+  "priceStats": {
+    "low": 80,
+    "high": 80,
+    "avg": 80,
+    "latest": 80
+  },
+  "records": [
+    {
+      "coinName": "1986年中国硬币贰分",
+      "normalizedBoxCode": "8752153014",
+      "displayBoxCode": "8752153-014",
+      "gradingCompany": "NGC",
+      "grade": "MS 67",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10359582.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8752153-014/67/",
+      "price": 80,
+      "priceWithFee": 86.4,
+      "transactedAt": "2026-06-24 20:44:45",
+      "productCode": "870469007",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1986年,年中,中国,国硬,硬币,币贰,贰分"
+    }
+  ]
+}

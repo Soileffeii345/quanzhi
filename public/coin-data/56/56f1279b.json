@@ -1,0 +1,31 @@
+{
+  "coinName": "第三版人民币5元票样",
+  "slug": "56f1279b",
+  "saleCount": 1,
+  "keywords": "币,钞,第三,三版,版人,人民,民币,币元,元票,票样",
+  "priceStats": {
+    "low": 18600,
+    "high": 18600,
+    "avg": 18600,
+    "latest": 18600
+  },
+  "records": [
+    {
+      "coinName": "第三版人民币5元票样",
+      "normalizedBoxCode": "2102002081",
+      "displayBoxCode": "2102002-081",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/disanbanrenminbi/10400765.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2102002-081/",
+      "price": 18600,
+      "priceWithFee": 20088,
+      "transactedAt": "2026-07-18 22:03:50",
+      "productCode": "875019002",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,钞,第三,三版,版人,人民,民币,币元,元票,票样"
+    }
+  ]
+}

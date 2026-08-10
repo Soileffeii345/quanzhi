@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6720899021",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6720899021",
+      "displayBoxCode": "6720899-021",
+      "gradingCompany": "NGC",
+      "grade": "MS 70",
+      "coinName": "2025年奥地利海洋生物纪念币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianbi/10391046.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6720899-021/70/",
+      "price": 170,
+      "priceWithFee": 188.7,
+      "transactedAt": "2026-07-10 21:24:15",
+      "productCode": "873819056",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/27/873819056A.jpg",
+      "ocrConfidence": 37,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2025年,年奥,奥地,地利,利海,海洋,洋生,生物,物纪,纪念,念币"
+    }
+  ]
+}

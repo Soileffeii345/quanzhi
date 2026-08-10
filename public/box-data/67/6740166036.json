@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6740166036",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6740166036",
+      "displayBoxCode": "6740166-036",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1995年1/20盎司熊猫金币(小字版)",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/496173.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6740166-036/",
+      "price": 1700,
+      "priceWithFee": null,
+      "transactedAt": "2025-09-03 17:01:10",
+      "productCode": "AA581167",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250824/large_sell_q2ykpgrb7lcbl3yf.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1995年,20盎司,熊猫,年盎,盎司,司熊,猫金,金币,币小,小字,字版"
+    }
+  ]
+}

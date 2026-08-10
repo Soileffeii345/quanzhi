@@ -1,0 +1,31 @@
+{
+  "coinName": "1994年熊猫8克精制金币",
+  "slug": "34aabc92",
+  "saleCount": 1,
+  "keywords": "金,币,1994年,8克,熊猫,年珍,珍稀,稀动,动物,物第,第组,组大,大熊,猫克,克精,精制,制金,金币,评级",
+  "priceStats": {
+    "low": 12400,
+    "high": 12400,
+    "avg": 12400,
+    "latest": 12400
+  },
+  "records": [
+    {
+      "coinName": "1994年珍稀动物第（4）组-大熊猫8克精制金币",
+      "normalizedBoxCode": "8776052053",
+      "displayBoxCode": "8776052-053",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10407533.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8776052-053/69/",
+      "price": 12400,
+      "priceWithFee": 12834,
+      "transactedAt": "2026-07-23 20:42:35",
+      "productCode": "875918008",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1994年,8克,熊猫,年珍,珍稀,稀动,动物,物第,第组,组大,大熊,猫克,克精,精制,制金,金币,评级"
+    }
+  ]
+}

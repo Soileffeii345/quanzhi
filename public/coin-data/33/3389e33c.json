@@ -1,0 +1,31 @@
+{
+  "coinName": "民国34年中央银行法币壹仟元",
+  "slug": "3389e33c",
+  "saleCount": 1,
+  "keywords": "银,币,历史币,民国,国年,年中,中央,央银,银行,行法,法币,币壹,壹仟,仟元",
+  "priceStats": {
+    "low": 1820,
+    "high": 1820,
+    "avg": 1820,
+    "latest": 1820
+  },
+  "records": [
+    {
+      "coinName": "民国34年中央银行法币壹仟元",
+      "normalizedBoxCode": "2218386037",
+      "displayBoxCode": "2218386-037",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10364104.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2218386-037/",
+      "price": 1820,
+      "priceWithFee": 2020.2,
+      "transactedAt": "2026-07-09 21:12:30",
+      "productCode": "869951003",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,历史币,民国,国年,年中,中央,央银,银行,行法,法币,币壹,壹仟,仟元"
+    }
+  ]
+}

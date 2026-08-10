@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8190303004",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8190303004",
+      "displayBoxCode": "8190303-004",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1995年1/4盎司麒麟双金属金银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/473449.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8190303-004/",
+      "price": 11800,
+      "priceWithFee": null,
+      "transactedAt": "2025-09-29 09:58:10",
+      "productCode": "AA559003",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250416/large_sell_fgfy7lhmgi5xmpav.jpg",
+      "ocrConfidence": 38,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,1995年,4盎司,年盎,盎司,司麒,麒麟,麟双,双金,金属,属金,金银,银币"
+    }
+  ]
+}

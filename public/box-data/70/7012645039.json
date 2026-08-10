@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "7012645039",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "7012645039",
+      "displayBoxCode": "7012645-039",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "第三版人民币2元古币水印",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/disanbanrenminbi/10400162.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/7012645-039/",
+      "price": 3900,
+      "priceWithFee": 4212,
+      "transactedAt": "2026-07-18 20:35:05",
+      "productCode": "875196001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/20/862025034B.jpg",
+      "ocrConfidence": 32,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,第三,三版,版人,人民,民币,币元,元古,古币,币水,水印"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "coinName": "埃及塑料钞",
+  "slug": "6b9316da",
+  "saleCount": 3,
+  "keywords": "钞,埃及,及塑,塑料,料钞",
+  "priceStats": {
+    "low": 65,
+    "high": 100,
+    "avg": 78,
+    "latest": 100
+  },
+  "records": [
+    {
+      "coinName": "埃及塑料钞",
+      "normalizedBoxCode": "2400753046",
+      "displayBoxCode": "2400753-046",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10372915.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2400753-046/",
+      "price": 100,
+      "priceWithFee": 111,
+      "transactedAt": "2026-06-30 22:45:05",
+      "productCode": "871226089",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,埃及,及塑,塑料,料钞"
+    },
+    {
+      "coinName": "埃及塑料钞",
+      "normalizedBoxCode": "2400753050",
+      "displayBoxCode": "2400753-050",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10371431.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2400753-050/",
+      "price": 70,
+      "priceWithFee": 77.7,
+      "transactedAt": "2026-07-07 22:01:05",
+      "productCode": "871453015",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,埃及,及塑,塑料,料钞"
+    },
+    {
+      "coinName": "埃及塑料钞",
+      "normalizedBoxCode": "2434366042",
+      "displayBoxCode": "2434366-042",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10371432.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2434366-042/",
+      "price": 65,
+      "priceWithFee": 72.15,
+      "transactedAt": "2026-07-07 21:39:05",
+      "productCode": "871453016",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,埃及,及塑,塑料,料钞"
+    }
+  ]
+}

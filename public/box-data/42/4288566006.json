@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4288566006",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4288566006",
+      "displayBoxCode": "4288566-006",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1989年1/3盎司历史人物第6组成吉思汗金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/511486.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4288566-006/69/",
+      "price": 10400,
+      "priceWithFee": null,
+      "transactedAt": "2025-11-10 16:57:33",
+      "productCode": "KH090498",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251110/large_sell_as4ickccvkzrzda3.jpg",
+      "ocrConfidence": 42,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1989年,3盎司,年盎,盎司,司历,历史,史人,人物,物第,第组,组成,成吉,吉思,思汗,汗金,金币"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "coinName": "1994年龙凤3.11克金币",
+  "slug": "4f5b8153",
+  "saleCount": 3,
+  "keywords": "金,银,币,1994年,10盎司,年盎,盎司,司龙,龙凤,凤呈,呈祥,祥双,双金,金属,属金,金银,银币",
+  "priceStats": {
+    "low": 20000,
+    "high": 21000,
+    "avg": 20467,
+    "latest": 21000
+  },
+  "records": [
+    {
+      "coinName": "1994年1/10盎司龙凤呈祥双金属金银币",
+      "normalizedBoxCode": "2792405040",
+      "displayBoxCode": "2792405-040",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/494462.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2792405-040/",
+      "price": 21000,
+      "priceWithFee": null,
+      "transactedAt": "2025-09-02 10:32:37",
+      "productCode": "AA578979",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,1994年,10盎司,年盎,盎司,司龙,龙凤,凤呈,呈祥,祥双,双金,金属,属金,金银,银币"
+    },
+    {
+      "coinName": "1994年1/10盎司龙凤呈祥双金属金银币",
+      "normalizedBoxCode": "8180957001",
+      "displayBoxCode": "8180957-001",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/462750.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8180957-001/",
+      "price": 20000,
+      "priceWithFee": null,
+      "transactedAt": "2025-02-13 18:23:30",
+      "productCode": "AA545117",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,1994年,10盎司,年盎,盎司,司龙,龙凤,凤呈,呈祥,祥双,双金,金属,属金,金银,银币"
+    },
+    {
+      "coinName": "1994年1/10盎司龙凤呈祥双金属金银币",
+      "normalizedBoxCode": "8616382001",
+      "displayBoxCode": "8616382-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/515169.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8616382-001/69/",
+      "price": 20400,
+      "priceWithFee": null,
+      "transactedAt": "2025-12-11 12:12:37",
+      "productCode": "KH093868",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,1994年,10盎司,年盎,盎司,司龙,龙凤,凤呈,呈祥,祥双,双金,金属,属金,金银,银币"
+    }
+  ]
+}

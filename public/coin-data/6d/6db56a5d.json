@@ -1,0 +1,31 @@
+{
+  "coinName": "柬埔寨纸钞",
+  "slug": "6db56a5d",
+  "saleCount": 1,
+  "keywords": "钞,柬埔,埔寨,寨纸,纸钞",
+  "priceStats": {
+    "low": 310,
+    "high": 310,
+    "avg": 310,
+    "latest": 310
+  },
+  "records": [
+    {
+      "coinName": "柬埔寨纸钞",
+      "normalizedBoxCode": "2436581060",
+      "displayBoxCode": "2436581-060",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10396891.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2436581-060/",
+      "price": 310,
+      "priceWithFee": 344.1,
+      "transactedAt": "2026-07-21 22:16:05",
+      "productCode": "874667003",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,柬埔,埔寨,寨纸,纸钞"
+    }
+  ]
+}

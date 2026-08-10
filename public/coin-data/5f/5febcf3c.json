@@ -1,0 +1,48 @@
+{
+  "coinName": "1985年熊猫27克精制银币",
+  "slug": "5febcf3c",
+  "saleCount": 2,
+  "keywords": "银,币,1985年,27克,熊猫,年熊,猫克,克精,精制,制银,银币,评级",
+  "priceStats": {
+    "low": 12400,
+    "high": 17400,
+    "avg": 14900,
+    "latest": 17400
+  },
+  "records": [
+    {
+      "coinName": "1985年熊猫27克精制银币",
+      "normalizedBoxCode": "8189763005",
+      "displayBoxCode": "8189763-005",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-jiuyin/10363041.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8189763-005/",
+      "price": 17400,
+      "priceWithFee": 18009,
+      "transactedAt": "2026-06-25 20:19:35",
+      "productCode": "870442001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1985年,27克,熊猫,年熊,猫克,克精,精制,制银,银币,评级"
+    },
+    {
+      "coinName": "1985年熊猫27克精制银币",
+      "normalizedBoxCode": "8631245005",
+      "displayBoxCode": "8631245-005",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-jiuyin/10360145.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8631245-005/",
+      "price": 12400,
+      "priceWithFee": 12834,
+      "transactedAt": "2026-06-25 19:50:35",
+      "productCode": "870148004",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1985年,27克,熊猫,年熊,猫克,克精,精制,制银,银币,评级"
+    }
+  ]
+}

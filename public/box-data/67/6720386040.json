@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6720386040",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6720386040",
+      "displayBoxCode": "6720386-040",
+      "gradingCompany": "NGC",
+      "grade": "PF 68 ULTRA CAMEO",
+      "coinName": "1997年2/3盎司12边企鹅银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/433796.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6720386-040/68/",
+      "price": 800,
+      "priceWithFee": null,
+      "transactedAt": "2024-07-22 11:33:53",
+      "productCode": "KH054820",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20240526/large_sell_5mfoenhgqtquedcn.jpg",
+      "ocrConfidence": 39,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1997年,3盎司,年盎,盎司,司边,边企,企鹅,鹅银,银币"
+    }
+  ]
+}

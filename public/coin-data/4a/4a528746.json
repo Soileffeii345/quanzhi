@@ -1,0 +1,31 @@
+{
+  "coinName": "1984年银币",
+  "slug": "4a528746",
+  "saleCount": 1,
+  "keywords": "银,1984年,年大,大西,西洋,洋银,银行,行拾,拾圆",
+  "priceStats": {
+    "low": 1820,
+    "high": 1820,
+    "avg": 1820,
+    "latest": 1820
+  },
+  "records": [
+    {
+      "coinName": "1984年大西洋银行拾圆",
+      "normalizedBoxCode": "8043923056",
+      "displayBoxCode": "8043923-056",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/aomenzhichao/10396922.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8043923-056/",
+      "price": 1820,
+      "priceWithFee": 2020.2,
+      "transactedAt": "2026-07-18 20:35:35",
+      "productCode": "874272007",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,1984年,年大,大西,西洋,洋银,银行,行拾,拾圆"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "ok": true,
+  "query": "8575823001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8575823001",
+      "displayBoxCode": "8575823-001",
+      "gradingCompany": "NGC",
+      "grade": "PF69 ULTRA CAMEO",
+      "coinName": "2017年5克吉祥文化并蒂同心金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/505442.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8575823-001/69/",
+      "price": 4845,
+      "priceWithFee": null,
+      "transactedAt": "2025-10-15 17:03:59",
+      "productCode": "KH087415",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251014/large_sell_dobmwvopnhdry54l.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2017年,5克,吉祥文化,年克,克吉,吉祥,祥文,文化,化并,并蒂,蒂同,同心,心金,金币"
+    },
+    {
+      "normalizedBoxCode": "8575823001",
+      "displayBoxCode": "8575823-001",
+      "gradingCompany": "NGC",
+      "grade": "pr69 ULTRA CAMEO",
+      "coinName": "2017年5克吉祥文化并蒂同心金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/504486.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8575823-001/69/",
+      "price": 4555,
+      "priceWithFee": null,
+      "transactedAt": "2025-10-10 17:09:02",
+      "productCode": "AA589423",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251010/large_sell_2ltackhck1y1rx6g.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2017年,5克,吉祥文化,年克,克吉,吉祥,祥文,文化,化并,并蒂,蒂同,同心,心金,金币"
+    }
+  ]
+}

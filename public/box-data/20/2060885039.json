@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2060885039",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2060885039",
+      "displayBoxCode": "2060885-039",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "第三版人民币5元",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/disanbanrenminbi/10358666.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2060885-039/",
+      "price": 4350,
+      "priceWithFee": 4698,
+      "transactedAt": "2026-06-27 20:45:10",
+      "productCode": "870138013",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/870138013B.jpg",
+      "ocrConfidence": 31,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,第三,三版,版人,人民,民币,币元"
+    }
+  ]
+}

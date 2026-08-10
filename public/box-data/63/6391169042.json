@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6391169042",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6391169042",
+      "displayBoxCode": "6391169-042",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1982年12克第12届世界杯足球赛铜币(UC)",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/423725.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6391169-042/",
+      "price": 1600,
+      "priceWithFee": null,
+      "transactedAt": "2024-04-02 07:07:28",
+      "productCode": "AA470442",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20240328/large_sell_brnqc1gfwsfhe5vp.jpg",
+      "ocrConfidence": 29,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "铜,币,1982年,12克,年克,克第,第届,届世,世界,界杯,杯足,足球,球赛,赛铜,铜币"
+    }
+  ]
+}

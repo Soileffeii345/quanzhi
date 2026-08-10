@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "89793726",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "89793726",
+      "displayBoxCode": "89793726",
+      "gradingCompany": "PCGS",
+      "grade": "XF40",
+      "coinName": "民国二年军政府造四川铜币壹百文铜币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguojindaijizhibi/10373591.shtml",
+      "officialCertUrl": "https://cn.pcgs.com/cert/89793726",
+      "price": 220,
+      "priceWithFee": 237.6,
+      "transactedAt": "2026-07-20 20:48:35",
+      "productCode": "871433010",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/26/871433010A.jpg",
+      "ocrConfidence": 32,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "铜,币,历史币,四川,川造,民国,国二,二年,年军,军政,政府,府造,造四,川铜,铜币,币壹,壹百,百文,文铜"
+    }
+  ]
+}

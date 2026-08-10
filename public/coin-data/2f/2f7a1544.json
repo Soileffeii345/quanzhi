@@ -1,0 +1,65 @@
+{
+  "coinName": "2017年生肖150克精制银币",
+  "slug": "2f7a1544",
+  "saleCount": 3,
+  "keywords": "银,币,2017年,150克,生肖,年丁,丁酉,酉鸡,鸡年,年生,肖克,克长,长方,方形,形精,精制,制银,银币,评级",
+  "priceStats": {
+    "low": 3000,
+    "high": 3100,
+    "avg": 3050,
+    "latest": 3000
+  },
+  "records": [
+    {
+      "coinName": "2017年丁酉鸡年生肖150克长方形精制银币",
+      "normalizedBoxCode": "5817786000",
+      "displayBoxCode": "5817786-000",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10369170.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/5817786-000/69/",
+      "price": 3000,
+      "priceWithFee": 3105,
+      "transactedAt": "2026-07-02 20:16:10",
+      "productCode": "870968007",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2017年,150克,生肖,年丁,丁酉,酉鸡,鸡年,年生,肖克,克长,长方,方形,形精,精制,制银,银币,评级"
+    },
+    {
+      "coinName": "2017年丁酉鸡年生肖150克长方形精制银币",
+      "normalizedBoxCode": "5817786010",
+      "displayBoxCode": "5817786-010",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10369171.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/5817786-010/69/",
+      "price": 3050,
+      "priceWithFee": 3156.75,
+      "transactedAt": "2026-07-02 20:22:50",
+      "productCode": "870968008",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2017年,150克,生肖,年丁,丁酉,酉鸡,鸡年,年生,肖克,克长,长方,方形,形精,精制,制银,银币,评级"
+    },
+    {
+      "coinName": "2017年丁酉鸡年生肖150克长方形精制银币",
+      "normalizedBoxCode": "5817786013",
+      "displayBoxCode": "5817786-013",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10369172.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/5817786-013/69/",
+      "price": 3100,
+      "priceWithFee": 3208.5,
+      "transactedAt": "2026-07-02 20:26:50",
+      "productCode": "870968009",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2017年,150克,生肖,年丁,丁酉,酉鸡,鸡年,年生,肖克,克长,长方,方形,形精,精制,制银,银币,评级"
+    }
+  ]
+}

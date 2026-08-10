@@ -1,0 +1,48 @@
+{
+  "coinName": "1997年精制",
+  "slug": "4a6319e7",
+  "saleCount": 2,
+  "keywords": "币,1997年,年中,中国,国精,精制,制硬,硬币,币元,评级,年庆,庆祝,祝中,中华,华人,人民,民共,共和,和国,国香,香港,港特,特别,别行,行政,政区,区成,成立,立精,制流,流通,通纪,纪念,念币,币二,二枚,枚一,一套,外国/特区",
+  "priceStats": {
+    "low": 330,
+    "high": 2500,
+    "avg": 1415,
+    "latest": 330
+  },
+  "records": [
+    {
+      "coinName": "1997年中国精制硬币1元",
+      "normalizedBoxCode": "4418734004",
+      "displayBoxCode": "4418734-004",
+      "gradingCompany": "NGC",
+      "grade": "PF67 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10395609.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4418734-004/67/",
+      "price": 330,
+      "priceWithFee": 356.4,
+      "transactedAt": "2026-07-15 20:19:05",
+      "productCode": "873836005",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1997年,年中,中国,国精,精制,制硬,硬币,币元,评级"
+    },
+    {
+      "coinName": "1997年庆祝中华人民共和国香港特别行政区成立精制流通纪念币二枚一套",
+      "normalizedBoxCode": "8653167018",
+      "displayBoxCode": "8653167-018",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10358561.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8653167-018/69/",
+      "price": 2500,
+      "priceWithFee": 2700,
+      "transactedAt": "2026-06-24 19:16:05",
+      "productCode": "869944003",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1997年,年庆,庆祝,祝中,中华,华人,人民,民共,共和,和国,国香,香港,港特,特别,别行,行政,政区,区成,成立,立精,精制,制流,流通,通纪,纪念,念币,币二,二枚,枚一,一套,评级,外国/特区"
+    }
+  ]
+}

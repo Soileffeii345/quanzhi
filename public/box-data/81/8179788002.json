@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8179788002",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8179788002",
+      "displayBoxCode": "8179788-002",
+      "gradingCompany": "NGC",
+      "grade": "PF67 CAMEO",
+      "coinName": "1980年第13届冬季奥运会-男子滑降12克精制铜币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-tong/10393033.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8179788-002/67/",
+      "price": 390,
+      "priceWithFee": 403.65,
+      "transactedAt": "2026-07-13 20:46:50",
+      "productCode": "874260003",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/874260003A.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "铜,币,1980年,12克,奥运,年第,第届,届冬,冬季,季奥,运会,会男,男子,子滑,滑降,降克,克精,精制,制铜,铜币,评级"
+    }
+  ]
+}

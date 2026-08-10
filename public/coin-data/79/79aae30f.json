@@ -1,0 +1,65 @@
+{
+  "coinName": "1998年中国珍稀野生动物-扬子鳄流通纪念币",
+  "slug": "79aae30f",
+  "saleCount": 3,
+  "keywords": "币,1998年,年中,中国,国珍,珍稀,稀野,野生,生动,动物,物扬,扬子,子鳄,鳄流,流通,通纪,纪念,念币,币二,二枚",
+  "priceStats": {
+    "low": 120,
+    "high": 320,
+    "avg": 247,
+    "latest": 120
+  },
+  "records": [
+    {
+      "coinName": "1998年中国珍稀野生动物-扬子鳄流通纪念币二枚",
+      "normalizedBoxCode": "6193688008",
+      "displayBoxCode": "6193688-008",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10373833.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6193688-008/",
+      "price": 120,
+      "priceWithFee": 129.6,
+      "transactedAt": "2026-07-01 20:01:35",
+      "productCode": "871771002",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1998年,年中,中国,国珍,珍稀,稀野,野生,生动,动物,物扬,扬子,子鳄,鳄流,流通,通纪,纪念,念币,币二,二枚"
+    },
+    {
+      "coinName": "1998年中国珍稀野生动物-扬子鳄流通纪念币",
+      "normalizedBoxCode": "6411199030",
+      "displayBoxCode": "6411199-030",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10358266.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6411199-030/69/",
+      "price": 320,
+      "priceWithFee": 345.6,
+      "transactedAt": "2026-06-24 21:40:05",
+      "productCode": "869917007",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1998年,年中,中国,国珍,珍稀,稀野,野生,生动,动物,物扬,扬子,子鳄,鳄流,流通,通纪,纪念,念币"
+    },
+    {
+      "coinName": "1998年中国珍稀野生动物-扬子鳄流通纪念币",
+      "normalizedBoxCode": "6433238046",
+      "displayBoxCode": "6433238-046",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10358265.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6433238-046/69/",
+      "price": 300,
+      "priceWithFee": 324,
+      "transactedAt": "2026-06-24 19:14:45",
+      "productCode": "869917006",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1998年,年中,中国,国珍,珍稀,稀野,野生,生动,动物,物扬,扬子,子鳄,鳄流,流通,通纪,纪念,念币"
+    }
+  ]
+}

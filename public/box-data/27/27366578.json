@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "27366578",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "27366578",
+      "displayBoxCode": "27366578",
+      "gradingCompany": "PCGS",
+      "grade": "MS70",
+      "coinName": "2013年1/10盎司熊猫金币 X2",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/485029.html",
+      "officialCertUrl": "https://cn.pcgs.com/cert/27366578",
+      "price": 5000,
+      "priceWithFee": null,
+      "transactedAt": "2025-06-23 13:15:05",
+      "productCode": "KH071456.71457",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250623/large_sell_gzp29s4jvhc7s7tf.jpg",
+      "ocrConfidence": 31,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2013年,10盎司,熊猫,年盎,盎司,司熊,猫金,金币"
+    }
+  ]
+}

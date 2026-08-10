@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8824710006",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8824710006",
+      "displayBoxCode": "8824710-006",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1992年宪法颁布十周年、1993年宋庆龄诞辰100周年精制流通纪念币各一枚，共二枚",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10360940.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8824710-006/",
+      "price": 130,
+      "priceWithFee": 140.4,
+      "transactedAt": "2026-06-24 20:48:45",
+      "productCode": "870464004",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/870464004A.jpg",
+      "ocrConfidence": 45,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1992年,年宪,宪法,法颁,颁布,布十,十周,周年,年年,年宋,宋庆,庆龄,龄诞,诞辰,辰周,年精,精制,制流,流通,通纪,纪念,念币,币各,各一,一枚,枚共,共二,二枚,评级"
+    }
+  ]
+}

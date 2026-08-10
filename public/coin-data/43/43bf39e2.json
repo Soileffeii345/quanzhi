@@ -1,0 +1,31 @@
+{
+  "coinName": "2017年熊猫3克金银币",
+  "slug": "43bf39e2",
+  "saleCount": 1,
+  "keywords": "金,银,币,章,2017年,3克,熊猫,年克,克第,第届,届熊,猫金,金银,银币,币博,博览,览会,会双,双金,金属,属金,银章",
+  "priceStats": {
+    "low": 3100,
+    "high": 3100,
+    "avg": 3100,
+    "latest": 3100
+  },
+  "records": [
+    {
+      "coinName": "2017年3克第5届熊猫金银币博览会双金属金银章",
+      "normalizedBoxCode": "6718451003",
+      "displayBoxCode": "6718451-003",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/523011.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6718451-003/",
+      "price": 3100,
+      "priceWithFee": null,
+      "transactedAt": "2025-12-22 21:15:27",
+      "productCode": "AA603693",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,章,2017年,3克,熊猫,年克,克第,第届,届熊,猫金,金银,银币,币博,博览,览会,会双,双金,金属,属金,银章"
+    }
+  ]
+}

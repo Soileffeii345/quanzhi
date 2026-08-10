@@ -1,0 +1,31 @@
+{
+  "coinName": "2001年3.11克精制金币",
+  "slug": "3911b030",
+  "saleCount": 1,
+  "keywords": "金,币,2001年,10盎司,年中,中国,国石,石窟,窟艺,艺术,术敦,敦煌,煌盎,盎司,司精,精制,制金,金币,评级",
+  "priceStats": {
+    "low": 3600,
+    "high": 3600,
+    "avg": 3600,
+    "latest": 3600
+  },
+  "records": [
+    {
+      "coinName": "2001年中国石窟艺术-敦煌1/10盎司精制金币",
+      "normalizedBoxCode": "6336805003",
+      "displayBoxCode": "6336805-003",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10350679.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6336805-003/",
+      "price": 3600,
+      "priceWithFee": 3726,
+      "transactedAt": "2026-06-18 21:15:40",
+      "productCode": "869116009",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2001年,10盎司,年中,中国,国石,石窟,窟艺,艺术,术敦,敦煌,煌盎,盎司,司精,精制,制金,金币,评级"
+    }
+  ]
+}

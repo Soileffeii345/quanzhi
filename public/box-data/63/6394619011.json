@@ -1,0 +1,45 @@
+{
+  "ok": true,
+  "query": "6394619011",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6394619011",
+      "displayBoxCode": "6394619-011",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1998年中国珍稀野生动物-褐马鸡流通纪念币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10404414.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6394619-011/",
+      "price": 300,
+      "priceWithFee": 324,
+      "transactedAt": "2026-07-22 20:40:55",
+      "productCode": "875630001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/875630001A.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1998年,年中,中国,国珍,珍稀,稀野,野生,生动,动物,物褐,褐马,马鸡,鸡流,流通,通纪,纪念,念币"
+    },
+    {
+      "normalizedBoxCode": "6394619011",
+      "displayBoxCode": "6394619-011",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1998年中国珍稀野生动物-褐马鸡流通纪念币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10358264.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6394619-011/",
+      "price": 300,
+      "priceWithFee": 324,
+      "transactedAt": "2026-06-24 20:20:05",
+      "productCode": "869917005",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/869917005A.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1998年,年中,中国,国珍,珍稀,稀野,野生,生动,动物,物褐,褐马,马鸡,鸡流,流通,通纪,纪念,念币"
+    }
+  ]
+}

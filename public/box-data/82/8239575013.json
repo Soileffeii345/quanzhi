@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8239575013",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8239575013",
+      "displayBoxCode": "8239575-013",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2010年中国古典文学名著《水浒传》第（2）组-公孙胜斗法破高廉5盎司长方形精制彩银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10405309.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8239575-013/69/",
+      "price": 3050,
+      "priceWithFee": 3156.75,
+      "transactedAt": "2026-07-16 20:01:45",
+      "productCode": "875665003",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/875665003A.jpg",
+      "ocrConfidence": 54,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2010年,5盎司,年中,中国,国古,古典,典文,文学,学名,名著,著水,水浒,浒传,传第,第组,组公,公孙,孙胜,胜斗,斗法,法破,破高,高廉,廉盎,盎司,司长,长方,方形,形精,精制,制彩,彩银,银币,评级"
+    }
+  ]
+}

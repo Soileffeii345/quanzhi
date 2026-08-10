@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8579985003",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8579985003",
+      "displayBoxCode": "8579985-003",
+      "gradingCompany": "NGC",
+      "grade": "MS 70",
+      "coinName": "2024年15克熊猫金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/593184.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8579985-003/70/",
+      "price": 14200,
+      "priceWithFee": null,
+      "transactedAt": "2026-07-01 10:00:35",
+      "productCode": "KH140642",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260626/large_sell_sq0oky6bblvolbbd.jpg",
+      "ocrConfidence": 39,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2024年,15克,熊猫,年克,克熊,猫金,金币"
+    }
+  ]
+}

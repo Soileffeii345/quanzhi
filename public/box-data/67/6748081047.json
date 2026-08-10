@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6748081047",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6748081047",
+      "displayBoxCode": "6748081-047",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2003年1/10盎司观音幻彩金币 X2",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/469084.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6748081-047/69/",
+      "price": 4490,
+      "priceWithFee": null,
+      "transactedAt": "2025-03-19 14:54:42",
+      "productCode": "KH061586.61587",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250319/large_sell_ceuhft5cf3do2shx.jpg",
+      "ocrConfidence": 44,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2003年,10盎司,宗教,年盎,盎司,司观,观音,音幻,幻彩,彩金,金币"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "3293075039",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "3293075039",
+      "displayBoxCode": "3293075-039",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2009年美国北马里亚纳群岛银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/476376.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3293075-039/70/",
+      "price": 270,
+      "priceWithFee": null,
+      "transactedAt": "2025-05-08 20:40:11",
+      "productCode": "AA561301",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250505/large_sell_zic8dowknbrtdibg.jpg",
+      "ocrConfidence": 28,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2009年,年美,美国,国北,北马,马里,里亚,亚纳,纳群,群岛,岛银,银币,外国/特区"
+    }
+  ]
+}

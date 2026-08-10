@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "0644624057",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "0644624057",
+      "displayBoxCode": "0644624-057",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1997年1/10盎司传统文化第2组金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/452055.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/0644624-057/",
+      "price": 34000,
+      "priceWithFee": null,
+      "transactedAt": "2025-01-27 23:19:42",
+      "productCode": "AA503951.....55A",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20241010/large_sell_qazdhu1gd2lxfpjx.jpg",
+      "ocrConfidence": 32,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1997年,10盎司,年盎,盎司,司传,传统,统文,文化,化第,第组,组金,金币"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6730122009",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6730122009",
+      "displayBoxCode": "6730122-009",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2016年8克吉祥文化年年有余金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/523809.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6730122-009/",
+      "price": 8145,
+      "priceWithFee": null,
+      "transactedAt": "2025-12-23 11:24:50",
+      "productCode": "KH097367",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251223/large_sell_tl7q9tojkux2klrj.jpg",
+      "ocrConfidence": 50,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2016年,8克,吉祥文化,年克,克吉,吉祥,祥文,文化,化年,年年,年有,有余,余金,金币"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "5801870001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "5801870001",
+      "displayBoxCode": "5801870-001",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2002年中国石窟艺术-龙门石窟1/2盎司精制金币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10417723.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/5801870-001/",
+      "price": 21000,
+      "priceWithFee": 21735,
+      "transactedAt": "2026-07-23 21:00:55",
+      "productCode": "877176004",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/877176004A.jpg",
+      "ocrConfidence": 42,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2002年,2盎司,年中,中国,国石,石窟,窟艺,艺术,术龙,龙门,门石,窟盎,盎司,司精,精制,制金,金币,评级"
+    }
+  ]
+}

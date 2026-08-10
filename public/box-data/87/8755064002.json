@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8755064002",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8755064002",
+      "displayBoxCode": "8755064-002",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "coinName": "1992年国际环境保护年1盎司普制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10351252.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8755064-002/69/",
+      "price": 920,
+      "priceWithFee": 952.2,
+      "transactedAt": "2026-06-22 21:17:10",
+      "productCode": "869398036",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/869398036A.jpg",
+      "ocrConfidence": 39,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1992年,1盎司,年国,国际,际环,环境,境保,保护,护年,年盎,盎司,司普,普制,制银,银币"
+    }
+  ]
+}

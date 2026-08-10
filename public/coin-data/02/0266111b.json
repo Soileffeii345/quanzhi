@@ -1,0 +1,31 @@
+{
+  "coinName": "上海造币有限公司发行牛年生肖500克银章",
+  "slug": "0266111b",
+  "saleCount": 1,
+  "keywords": "银,币,章,500克,生肖,上海,海造,造币,币有,有限,限公,公司,司发,发行,行牛,牛年,年生,肖克,克银,银章",
+  "priceStats": {
+    "low": 7900,
+    "high": 7900,
+    "avg": 7900,
+    "latest": 7900
+  },
+  "records": [
+    {
+      "coinName": "上海造币有限公司发行牛年生肖500克银章",
+      "normalizedBoxCode": "8650799002",
+      "displayBoxCode": "8650799-002",
+      "gradingCompany": "NGC",
+      "grade": "MS 70",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10381776.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8650799-002/70/",
+      "price": 7900,
+      "priceWithFee": 8176.5,
+      "transactedAt": "2026-07-06 22:07:10",
+      "productCode": "872686005",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,章,500克,生肖,上海,海造,造币,币有,有限,限公,公司,司发,发行,行牛,牛年,年生,肖克,克银,银章"
+    }
+  ]
+}

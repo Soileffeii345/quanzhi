@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4893981001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4893981001",
+      "displayBoxCode": "4893981-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2018年1公斤人民币发行70周年银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/555474.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4893981-001/70/",
+      "price": 70000,
+      "priceWithFee": null,
+      "transactedAt": "2026-02-21 16:44:13",
+      "productCode": "KH119886",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260220/large_sell_limnpqfsp55qdtwc.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2018年,1公斤,年公,公斤,斤人,人民,民币,币发,发行,行周,周年,年银,银币"
+    }
+  ]
+}

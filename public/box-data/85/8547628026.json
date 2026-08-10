@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8547628026",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8547628026",
+      "displayBoxCode": "8547628-026",
+      "gradingCompany": "NGC",
+      "grade": "PF68 CAMEO",
+      "coinName": "2000年中国精制硬币伍分",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10359831.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8547628-026/68/",
+      "price": 460,
+      "priceWithFee": 496.8,
+      "transactedAt": "2026-06-24 21:31:25",
+      "productCode": "869854017",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/869854017A.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2000年,年中,中国,国精,精制,制硬,硬币,币伍,伍分,评级"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4406000013",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4406000013",
+      "displayBoxCode": "4406000-013",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2000年1/10盎司生肖龙彩金币(短辰龙)",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/499074.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4406000-013/70/",
+      "price": 4950,
+      "priceWithFee": null,
+      "transactedAt": "2025-10-09 10:41:59",
+      "productCode": "AA584057",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250908/large_sell_a4y35w3shf6baplp.jpg",
+      "ocrConfidence": 38,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2000年,10盎司,生肖,年盎,盎司,司生,肖龙,龙彩,彩金,金币,币短,短辰,辰龙"
+    }
+  ]
+}

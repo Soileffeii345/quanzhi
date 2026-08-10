@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2018109007",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2018109007",
+      "displayBoxCode": "2018109-007",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "coinName": "2010年上海造币有限公司成立90周年熊猫加字1盎司普制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10405209.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2018109-007/69/",
+      "price": 500,
+      "priceWithFee": 517.5,
+      "transactedAt": "2026-07-20 20:30:40",
+      "productCode": "875609003",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/875609003A.jpg",
+      "ocrConfidence": 31,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2010年,1盎司,熊猫,年上,上海,海造,造币,币有,有限,限公,公司,司成,成立,立周,周年,年熊,猫加,加字,字盎,盎司,司普,普制,制银,银币"
+    }
+  ]
+}

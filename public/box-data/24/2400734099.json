@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2400734099",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2400734099",
+      "displayBoxCode": "2400734-099",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2018年直布罗陀纸钞",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10371435.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2400734-099/",
+      "price": 170,
+      "priceWithFee": 188.7,
+      "transactedAt": "2026-07-07 22:01:35",
+      "productCode": "871453019",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/26/871453019B.jpg",
+      "ocrConfidence": 38,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,2018年,年直,直布,布罗,罗陀,陀纸,纸钞"
+    }
+  ]
+}

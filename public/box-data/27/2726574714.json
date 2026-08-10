@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2726574714",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2726574714",
+      "displayBoxCode": "2726574-714",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2013年美国1美元纸钞一枚、1982年荷兰纸钞一枚",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10409827.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2726574-714/",
+      "price": 220,
+      "priceWithFee": 244.2,
+      "transactedAt": "2026-07-21 22:22:20",
+      "productCode": "876296002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/876296002B.jpg",
+      "ocrConfidence": 30,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,2013年,年美,美国,国美,美元,元纸,纸钞,钞一,一枚,枚年,年荷,荷兰,兰纸,外国/特区"
+    }
+  ]
+}

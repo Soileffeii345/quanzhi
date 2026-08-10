@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8570626043",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8570626043",
+      "displayBoxCode": "8570626-043",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2025年吉祥文化-永结同心30克精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10356339.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8570626-043/",
+      "price": 1600,
+      "priceWithFee": 1656,
+      "transactedAt": "2026-06-20 21:19:05",
+      "productCode": "870228002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/24/868654009A.jpg",
+      "ocrConfidence": 37,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2025年,30克,吉祥文化,年吉,吉祥,祥文,文化,化永,永结,结同,同心,心克,克精,精制,制银,银币,评级"
+    }
+  ]
+}

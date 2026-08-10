@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "3878109060",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "3878109060",
+      "displayBoxCode": "3878109-060",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2014年1/4盎司青铜器第3组金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/470693.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3878109-060/70/",
+      "price": 5775,
+      "priceWithFee": null,
+      "transactedAt": "2025-03-29 13:22:46",
+      "productCode": "AA556892",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250328/large_sell_abutovuobqtexsak.jpg",
+      "ocrConfidence": 32,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,铜,币,2014年,4盎司,年盎,盎司,司青,青铜,铜器,器第,第组,组金,金币"
+    }
+  ]
+}

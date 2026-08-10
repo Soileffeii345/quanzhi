@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4500156003",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4500156003",
+      "displayBoxCode": "4500156-003",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 CAMEO",
+      "coinName": "1984年1/3盎司历史人物第1组秦始皇金币(CA/无标)",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/476962.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4500156-003/69/",
+      "price": 8295,
+      "priceWithFee": null,
+      "transactedAt": "2025-05-09 18:55:50",
+      "productCode": "KH066149",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250509/large_sell_zwl1y4zljeqhdt6z.jpg",
+      "ocrConfidence": 38,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1984年,3盎司,年盎,盎司,司历,历史,史人,人物,物第,第组,组秦,秦始,始皇,皇金,金币,币无,无标"
+    }
+  ]
+}

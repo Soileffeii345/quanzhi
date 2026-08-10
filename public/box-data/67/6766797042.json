@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6766797042",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6766797042",
+      "displayBoxCode": "6766797-042",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1996年22克丝绸之路第2组塑像图银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/413901.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6766797-042/",
+      "price": 3800,
+      "priceWithFee": null,
+      "transactedAt": "2024-01-23 22:55:14",
+      "productCode": "AA459907",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20240123/large_sell_vf3dky1altm5lfg4.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1996年,22克,年克,克丝,丝绸,绸之,之路,路第,第组,组塑,塑像,像图,图银,银币"
+    }
+  ]
+}

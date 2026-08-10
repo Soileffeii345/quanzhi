@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4534608013",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4534608013",
+      "displayBoxCode": "4534608-013",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2015年中国佛教圣地-九华山精制金银币二枚一套（含1/4盎司金、2盎司银）",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10405440.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4534608-013/70/",
+      "price": 9600,
+      "priceWithFee": 9936,
+      "transactedAt": "2026-07-16 21:37:35",
+      "productCode": "875775002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/06/838580010A.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,2015年,4盎司,宗教,年中,中国,国佛,佛教,教圣,圣地,地九,九华,华山,山精,精制,制金,金银,银币,币二,二枚,枚一,一套,套含,含盎,盎司,司金,金盎,司银,评级"
+    }
+  ]
+}

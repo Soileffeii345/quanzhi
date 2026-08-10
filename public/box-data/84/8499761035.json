@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8499761035",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8499761035",
+      "displayBoxCode": "8499761-035",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2021年3克吉祥文化琴瑟和鸣金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/503117.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8499761-035/69/",
+      "price": 3250,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-17 22:50:04",
+      "productCode": "KH102140",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250928/large_sell_l6zjjaftuferbcie.jpg",
+      "ocrConfidence": 37,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2021年,3克,吉祥文化,年克,克吉,吉祥,祥文,文化,化琴,琴瑟,瑟和,和鸣,鸣金,金币"
+    }
+  ]
+}

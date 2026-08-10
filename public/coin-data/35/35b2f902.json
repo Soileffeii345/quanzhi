@@ -1,0 +1,82 @@
+{
+  "coinName": "民国三十七年党徽一分硬币",
+  "slug": "35b2f902",
+  "saleCount": 4,
+  "keywords": "币,历史币,民国,国三,三十,十七,七年,年党,党徽,徽一,一分,分硬,硬币",
+  "priceStats": {
+    "low": 190,
+    "high": 200,
+    "avg": 195,
+    "latest": 190
+  },
+  "records": [
+    {
+      "coinName": "民国三十七年党徽一分硬币",
+      "normalizedBoxCode": "80521422",
+      "displayBoxCode": "80521422",
+      "gradingCompany": "PCGS",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguojindaijizhibi/10386720.shtml",
+      "officialCertUrl": "https://cn.pcgs.com/cert/80521422",
+      "price": 190,
+      "priceWithFee": 205.2,
+      "transactedAt": "2026-07-27 21:23:05",
+      "productCode": "873376031",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,历史币,民国,国三,三十,十七,七年,年党,党徽,徽一,一分,分硬,硬币"
+    },
+    {
+      "coinName": "民国三十七年党徽一分硬币",
+      "normalizedBoxCode": "89521335",
+      "displayBoxCode": "89521335",
+      "gradingCompany": "PCGS",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguojindaijizhibi/10361717.shtml",
+      "officialCertUrl": "https://cn.pcgs.com/cert/89521335",
+      "price": 200,
+      "priceWithFee": 216,
+      "transactedAt": "2026-07-13 20:03:45",
+      "productCode": "870156021",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,历史币,民国,国三,三十,十七,七年,年党,党徽,徽一,一分,分硬,硬币"
+    },
+    {
+      "coinName": "民国三十七年党徽一分硬币",
+      "normalizedBoxCode": "89521346",
+      "displayBoxCode": "89521346",
+      "gradingCompany": "PCGS",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguojindaijizhibi/10361720.shtml",
+      "officialCertUrl": "https://cn.pcgs.com/cert/89521346",
+      "price": 190,
+      "priceWithFee": 205.2,
+      "transactedAt": "2026-07-13 20:37:25",
+      "productCode": "870156024",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,历史币,民国,国三,三十,十七,七年,年党,党徽,徽一,一分,分硬,硬币"
+    },
+    {
+      "coinName": "民国三十七年党徽一分硬币",
+      "normalizedBoxCode": "89521359",
+      "displayBoxCode": "89521359",
+      "gradingCompany": "PCGS",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguojindaijizhibi/10361718.shtml",
+      "officialCertUrl": "https://cn.pcgs.com/cert/89521359",
+      "price": 200,
+      "priceWithFee": 216,
+      "transactedAt": "2026-07-13 20:20:45",
+      "productCode": "870156022",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,历史币,民国,国三,三十,十七,七年,年党,党徽,徽一,一分,分硬,硬币"
+    }
+  ]
+}

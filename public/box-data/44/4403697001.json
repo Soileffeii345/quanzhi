@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4403697001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4403697001",
+      "displayBoxCode": "4403697-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2002年1/2盎司民间神话第2组彩金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/503761.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4403697-001/69/",
+      "price": 14860,
+      "priceWithFee": null,
+      "transactedAt": "2025-10-22 07:03:57",
+      "productCode": "KH088586",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251001/large_sell_nrtvm1uh75j9f2ii.jpg",
+      "ocrConfidence": 29,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2002年,2盎司,年盎,盎司,司民,民间,间神,神话,话第,第组,组彩,彩金,金币"
+    }
+  ]
+}

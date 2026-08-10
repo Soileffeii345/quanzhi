@@ -18,7 +18,9 @@
       "productCode": "KH142102",
       "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260717/large_sell_8i96e5vcfde0ncch.jpg",
       "ocrConfidence": 45,
-      "verificationStatus": "official_pending"
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2020年,15克,熊猫,年克,克熊,猫金,金币"
     }
   ]
 }

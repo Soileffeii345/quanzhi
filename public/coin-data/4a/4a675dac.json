@@ -1,0 +1,65 @@
+{
+  "coinName": "1999年银币",
+  "slug": "4a675dac",
+  "saleCount": 3,
+  "keywords": "银,1999年,年香,香港,港渣,渣打,打银,银行,行壹,壹佰,佰圆,外国/特区,币,年美,美国,国总,总统,统夫,夫人,人多,多莉,莉麦,麦迪,迪逊,逊银,银币",
+  "priceStats": {
+    "low": 240,
+    "high": 490,
+    "avg": 330,
+    "latest": 240
+  },
+  "records": [
+    {
+      "coinName": "1999年香港渣打银行壹佰圆",
+      "normalizedBoxCode": "2261124045",
+      "displayBoxCode": "2261124-045",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/liantichao-jinianchao/10395228.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2261124-045/",
+      "price": 240,
+      "priceWithFee": 259.2,
+      "transactedAt": "2026-07-14 19:44:50",
+      "productCode": "874351003",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,1999年,年香,香港,港渣,渣打,打银,银行,行壹,壹佰,佰圆,外国/特区"
+    },
+    {
+      "coinName": "1999年香港渣打银行壹佰圆",
+      "normalizedBoxCode": "2261124063",
+      "displayBoxCode": "2261124-063",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/liantichao-jinianchao/10383105.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2261124-063/",
+      "price": 260,
+      "priceWithFee": 280.8,
+      "transactedAt": "2026-07-07 19:57:20",
+      "productCode": "872779004",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,1999年,年香,香港,港渣,渣打,打银,银行,行壹,壹佰,佰圆,外国/特区"
+    },
+    {
+      "coinName": "1999年美国总统夫人多莉·麦迪逊银币",
+      "normalizedBoxCode": "3622737022",
+      "displayBoxCode": "3622737-022",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/475974.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3622737-022/",
+      "price": 490,
+      "priceWithFee": null,
+      "transactedAt": "2025-05-01 07:09:18",
+      "productCode": "AA561009",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1999年,年美,美国,国总,总统,统夫,夫人,人多,多莉,莉麦,麦迪,迪逊,逊银,银币,外国/特区"
+    }
+  ]
+}

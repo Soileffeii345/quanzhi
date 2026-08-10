@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8825206034",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8825206034",
+      "displayBoxCode": "8825206-034",
+      "gradingCompany": "NGC",
+      "grade": "PF69 ULTRA CAMEO",
+      "coinName": "2001年中国民俗-中秋节1盎司精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10398450.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8825206-034/69/",
+      "price": 1560,
+      "priceWithFee": 1614.6,
+      "transactedAt": "2026-07-20 21:03:10",
+      "productCode": "874842009",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/874842009A.jpg",
+      "ocrConfidence": 39,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2001年,1盎司,年中,中国,国民,民俗,俗中,中秋,秋节,节盎,盎司,司精,精制,制银,银币,评级"
+    }
+  ]
+}

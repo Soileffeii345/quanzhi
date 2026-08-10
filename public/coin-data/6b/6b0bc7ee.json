@@ -1,0 +1,31 @@
+{
+  "coinName": "2024年生肖1公斤银币",
+  "slug": "6b0bc7ee",
+  "saleCount": 1,
+  "keywords": "银,币,2024年,1公斤,生肖,年公,公斤,斤生,肖龙,龙银,银币",
+  "priceStats": {
+    "low": 77000,
+    "high": 77000,
+    "avg": 77000,
+    "latest": 77000
+  },
+  "records": [
+    {
+      "coinName": "2024年1公斤生肖龙银币",
+      "normalizedBoxCode": "6716108002",
+      "displayBoxCode": "6716108-002",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/552786.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6716108-002/70/",
+      "price": 77000,
+      "priceWithFee": null,
+      "transactedAt": "2026-02-08 12:40:56",
+      "productCode": "KH118098",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2024年,1公斤,生肖,年公,公斤,斤生,肖龙,龙银,银币"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8504636041",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8504636041",
+      "displayBoxCode": "8504636-041",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "coinName": "2015年蒙古自然系列猎隼镂空1/2盎司镀金银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/wgjsbizhang/10365705.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8504636-041/69/",
+      "price": 500,
+      "priceWithFee": 530,
+      "transactedAt": "2026-06-26 20:38:05",
+      "productCode": "870452011",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/26/870452011A.jpg",
+      "ocrConfidence": 43,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,2015年,2盎司,年蒙,蒙古,古自,自然,然系,系列,列猎,猎隼,隼镂,镂空,空盎,盎司,司镀,镀金,金银,银币"
+    }
+  ]
+}

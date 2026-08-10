@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6733986047",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6733986047",
+      "displayBoxCode": "6733986-047",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2023年30克熊猫铂币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/537308.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6733986-047/70/",
+      "price": 23200,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-23 16:51:50",
+      "productCode": "KH111726",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260123/large_sell_08qyp52ourglbkjn.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "贵金属,币,2023年,30克,熊猫,年克,克熊,猫铂,铂币"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "ok": true,
+  "query": "4319440013",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4319440013",
+      "displayBoxCode": "4319440-013",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2016年8克宁波会馆设立90周年金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/569862.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4319440-013/69/",
+      "price": 8430,
+      "priceWithFee": null,
+      "transactedAt": "2026-04-04 12:21:06",
+      "productCode": "KH128317",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260404/large_sell_uewmai2rvccfa6bu.jpg",
+      "ocrConfidence": 48,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2016年,8克,年克,克宁,宁波,波会,会馆,馆设,设立,立周,周年,年金,金币"
+    },
+    {
+      "normalizedBoxCode": "4319440013",
+      "displayBoxCode": "4319440-013",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2016年8克宁波会馆设立90周年金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/499048.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4319440-013/69/",
+      "price": 7595,
+      "priceWithFee": null,
+      "transactedAt": "2025-10-23 15:06:51",
+      "productCode": "KH088973",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250907/large_sell_0okd4lr1znz1pmip.jpg",
+      "ocrConfidence": 48,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2016年,8克,年克,克宁,宁波,波会,会馆,馆设,设立,立周,周年,年金,金币"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "coinName": "1995年京剧3.11克精制金币",
+  "slug": "5160ad58",
+  "saleCount": 1,
+  "keywords": "金,币,1995年,10盎司,戏曲,年中,中国,国传,传统,统文,文化,化第,第组,组京,京剧,剧艺,艺术,术盎,盎司,司精,精制,制金,金币,评级",
+  "priceStats": {
+    "low": 2800,
+    "high": 2800,
+    "avg": 2800,
+    "latest": 2800
+  },
+  "records": [
+    {
+      "coinName": "1995年中国传统文化第（1）组-京剧艺术1/10盎司精制金币",
+      "normalizedBoxCode": "8758193019",
+      "displayBoxCode": "8758193-019",
+      "gradingCompany": "NGC",
+      "grade": "PF 67 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10356007.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8758193-019/67/",
+      "price": 2800,
+      "priceWithFee": 2898,
+      "transactedAt": "2026-06-25 20:49:05",
+      "productCode": "869853008",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1995年,10盎司,戏曲,年中,中国,国传,传统,统文,文化,化第,第组,组京,京剧,剧艺,艺术,术盎,盎司,司精,精制,制金,金币,评级"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "coinName": "2003年31.104克银币",
+  "slug": "50790c19",
+  "saleCount": 3,
+  "keywords": "银,币,2003年,1盎司,年盎,盎司,司植,植树,树节,节银,银币,司武,武陵,陵源,源御,御笔,笔峰,峰银,司春,春节",
+  "priceStats": {
+    "low": 480,
+    "high": 1800,
+    "avg": 1030,
+    "latest": 1800
+  },
+  "records": [
+    {
+      "coinName": "2003年1盎司植树节银币",
+      "normalizedBoxCode": "4533823019",
+      "displayBoxCode": "4533823-019",
+      "gradingCompany": "NGC",
+      "grade": "PF70 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/347910.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4533823-019/70/",
+      "price": 1800,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-23 08:16:24",
+      "productCode": "KH111190",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2003年,1盎司,年盎,盎司,司植,植树,树节,节银,银币"
+    },
+    {
+      "coinName": "2003年1盎司武陵源御笔峰银币",
+      "normalizedBoxCode": "6390685002",
+      "displayBoxCode": "6390685-002",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/509784.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6390685-002/",
+      "price": 480,
+      "priceWithFee": null,
+      "transactedAt": "2025-11-06 20:20:20",
+      "productCode": "KH089797",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2003年,1盎司,年盎,盎司,司武,武陵,陵源,源御,御笔,笔峰,峰银,银币"
+    },
+    {
+      "coinName": "2003年1盎司春节银币",
+      "normalizedBoxCode": "8201398020",
+      "displayBoxCode": "8201398-020",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/484953.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8201398-020/69/",
+      "price": 810,
+      "priceWithFee": null,
+      "transactedAt": "2025-06-22 20:52:50",
+      "productCode": "KH071429",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2003年,1盎司,年盎,盎司,司春,春节,节银,银币"
+    }
+  ]
+}

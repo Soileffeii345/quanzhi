@@ -1,0 +1,31 @@
+{
+  "coinName": "1984年熊猫7.776克金币",
+  "slug": "3e288b4a",
+  "saleCount": 1,
+  "keywords": "金,币,1984年,4盎司,熊猫,年盎,盎司,司熊,猫金,金币",
+  "priceStats": {
+    "low": 8600,
+    "high": 8600,
+    "avg": 8600,
+    "latest": 8600
+  },
+  "records": [
+    {
+      "coinName": "1984年1/4盎司熊猫金币",
+      "normalizedBoxCode": "3356530279",
+      "displayBoxCode": "3356530-279",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/484557.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3356530-279/69/",
+      "price": 8600,
+      "priceWithFee": null,
+      "transactedAt": "2025-07-15 20:49:17",
+      "productCode": "AA569178",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1984年,4盎司,熊猫,年盎,盎司,司熊,猫金,金币"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2050288029",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2050288029",
+      "displayBoxCode": "2050288-029",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2018年人民币发行70周年纪念钞伍拾圆",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/liantichao-jinianchao/10409349.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2050288-029/",
+      "price": 310,
+      "priceWithFee": 334.8,
+      "transactedAt": "2026-07-18 22:16:35",
+      "productCode": "876056007",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/876056007B.jpg",
+      "ocrConfidence": 30,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,钞,2018年,年人,人民,民币,币发,发行,行周,周年,年纪,纪念,念钞,钞伍,伍拾,拾圆"
+    }
+  ]
+}

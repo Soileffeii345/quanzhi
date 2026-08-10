@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6729173055",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6729173055",
+      "displayBoxCode": "6729173-055",
+      "gradingCompany": "NGC",
+      "grade": "PF 69",
+      "coinName": "1990年1/4盎司第11届亚运会第2组女子游泳金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/524851.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6729173-055/69/",
+      "price": 7950,
+      "priceWithFee": null,
+      "transactedAt": "2025-12-27 15:24:20",
+      "productCode": "AA593344A",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251029/large_sell_1jocjsdka9foag0i.jpg",
+      "ocrConfidence": 32,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1990年,4盎司,年盎,盎司,司第,第届,届亚,亚运,运会,会第,第组,组女,女子,子游,游泳,泳金,金币"
+    }
+  ]
+}

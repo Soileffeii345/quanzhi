@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2485426021",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2485426021",
+      "displayBoxCode": "2485426-021",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2016年渣打银行港币贰拾圆",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/liantichao-jinianchao/10383121.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2485426-021/",
+      "price": 140,
+      "priceWithFee": 151.2,
+      "transactedAt": "2026-07-04 20:54:05",
+      "productCode": "872778013",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/27/872778013B.jpg",
+      "ocrConfidence": 30,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2016年,年渣,渣打,打银,银行,行港,港币,币贰,贰拾,拾圆"
+    }
+  ]
+}

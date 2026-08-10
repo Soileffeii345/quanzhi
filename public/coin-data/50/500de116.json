@@ -1,0 +1,82 @@
+{
+  "coinName": "2019年生肖3克金币",
+  "slug": "500de116",
+  "saleCount": 4,
+  "keywords": "金,币,2019年,3克,生肖,年克,克生,肖猪,猪彩,彩金,金币,猪金",
+  "priceStats": {
+    "low": 3015,
+    "high": 3800,
+    "avg": 3429,
+    "latest": 3300
+  },
+  "records": [
+    {
+      "coinName": "2019年3克生肖猪彩金币",
+      "normalizedBoxCode": "0810910001",
+      "displayBoxCode": "0810910-001",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/523222.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/0810910-001/",
+      "price": 3300,
+      "priceWithFee": null,
+      "transactedAt": "2025-12-22 20:48:32",
+      "productCode": "AA603871",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2019年,3克,生肖,年克,克生,肖猪,猪彩,彩金,金币"
+    },
+    {
+      "coinName": "2019年3克生肖猪金币",
+      "normalizedBoxCode": "5755682004",
+      "displayBoxCode": "5755682-004",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/555329.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/5755682-004/70/",
+      "price": 3600,
+      "priceWithFee": null,
+      "transactedAt": "2026-02-16 05:50:58",
+      "productCode": "KH119367",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2019年,3克,生肖,年克,克生,肖猪,猪金,金币"
+    },
+    {
+      "coinName": "2019年3克生肖猪彩金币",
+      "normalizedBoxCode": "5810010006",
+      "displayBoxCode": "5810010-006",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/507381.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/5810010-006/70/",
+      "price": 3015,
+      "priceWithFee": null,
+      "transactedAt": "2025-10-21 14:31:51",
+      "productCode": "KH088674",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2019年,3克,生肖,年克,克生,肖猪,猪彩,彩金,金币"
+    },
+    {
+      "coinName": "2019年3克生肖猪金币",
+      "normalizedBoxCode": "6190459001",
+      "displayBoxCode": "6190459-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/512755.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6190459-001/70/",
+      "price": 3800,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-23 13:19:07",
+      "productCode": "KH111484",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2019年,3克,生肖,年克,克生,肖猪,猪金,金币"
+    }
+  ]
+}

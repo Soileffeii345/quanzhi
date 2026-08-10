@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "3300015023",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "3300015023",
+      "displayBoxCode": "3300015-023",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1997年中国近代名画飞禽-企鹅2/3盎司十二边形精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10422395.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3300015-023/69/",
+      "price": 1040,
+      "priceWithFee": 1076.4,
+      "transactedAt": "2026-07-27 22:02:10",
+      "productCode": "877827001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/877827001A.jpg",
+      "ocrConfidence": 30,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1997年,3盎司,年中,中国,国近,近代,代名,名画,画飞,飞禽,禽企,企鹅,鹅盎,盎司,司十,十二,二边,边形,形精,精制,制银,银币,评级"
+    }
+  ]
+}

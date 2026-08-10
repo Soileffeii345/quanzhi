@@ -1,0 +1,48 @@
+{
+  "coinName": "1991年生肖31.104克精制银币",
+  "slug": "211ec921",
+  "saleCount": 2,
+  "keywords": "银,币,1991年,1盎司,生肖,年辛,辛未,未羊,羊年,年生,肖盎,盎司,司精,精制,制银,银币,评级",
+  "priceStats": {
+    "low": 1500,
+    "high": 1540,
+    "avg": 1520,
+    "latest": 1500
+  },
+  "records": [
+    {
+      "coinName": "1991年辛未羊年生肖1盎司精制银币",
+      "normalizedBoxCode": "8766167069",
+      "displayBoxCode": "8766167-069",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10361107.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8766167-069/69/",
+      "price": 1500,
+      "priceWithFee": 1552.5,
+      "transactedAt": "2026-07-06 20:37:35",
+      "productCode": "870436007",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1991年,1盎司,生肖,年辛,辛未,未羊,羊年,年生,肖盎,盎司,司精,精制,制银,银币,评级"
+    },
+    {
+      "coinName": "1991年辛未羊年生肖1盎司精制银币",
+      "normalizedBoxCode": "8766167070",
+      "displayBoxCode": "8766167-070",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10361108.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8766167-070/69/",
+      "price": 1540,
+      "priceWithFee": 1593.9,
+      "transactedAt": "2026-07-13 21:49:45",
+      "productCode": "870436008",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1991年,1盎司,生肖,年辛,辛未,未羊,羊年,年生,肖盎,盎司,司精,精制,制银,银币,评级"
+    }
+  ]
+}

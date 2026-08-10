@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "5817533042",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "5817533042",
+      "displayBoxCode": "5817533-042",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2020年奥地利夜光恐龙纪念币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianbi/10390993.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/5817533-042/",
+      "price": 230,
+      "priceWithFee": 255.3,
+      "transactedAt": "2026-07-10 19:27:35",
+      "productCode": "873819003",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/27/873819003A.jpg",
+      "ocrConfidence": 38,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2020年,年奥,奥地,地利,利夜,夜光,光恐,恐龙,龙纪,纪念,念币"
+    }
+  ]
+}

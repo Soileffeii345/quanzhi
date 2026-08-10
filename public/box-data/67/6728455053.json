@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6728455053",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6728455053",
+      "displayBoxCode": "6728455-053",
+      "gradingCompany": "NGC",
+      "grade": "PF 67 ULTRA CAMEO",
+      "coinName": "1994年希望工程精制流通纪念币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10365302.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6728455-053/67/",
+      "price": 340,
+      "priceWithFee": 367.2,
+      "transactedAt": "2026-07-01 20:22:35",
+      "productCode": "870611007",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/26/870611007A.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1994年,年希,希望,望工,工程,程精,精制,制流,流通,通纪,纪念,念币,评级"
+    }
+  ]
+}

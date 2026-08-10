@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8612926046",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8612926046",
+      "displayBoxCode": "8612926-046",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2025年15克生肖蛇彩铂币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/537714.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8612926-046/",
+      "price": 11200,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-26 08:38:51",
+      "productCode": "KH112568",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260124/large_sell_umljmsbcnw1you9a.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "贵金属,币,2025年,15克,生肖,年克,克生,肖蛇,蛇彩,彩铂,铂币"
+    }
+  ]
+}

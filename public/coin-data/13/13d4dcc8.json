@@ -1,0 +1,48 @@
+{
+  "coinName": "1997年熊猫3.11克金币",
+  "slug": "13d4dcc8",
+  "saleCount": 2,
+  "keywords": "金,币,1997年,10盎司,熊猫,年盎,盎司,司熊,猫金,金币,币小,小字,字版,版细,细腿,版粗,粗腿",
+  "priceStats": {
+    "low": 4300,
+    "high": 4950,
+    "avg": 4625,
+    "latest": 4300
+  },
+  "records": [
+    {
+      "coinName": "1997年1/10盎司熊猫金币(小字版细腿)",
+      "normalizedBoxCode": "4416076005",
+      "displayBoxCode": "4416076-005",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/493842.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4416076-005/69/",
+      "price": 4300,
+      "priceWithFee": null,
+      "transactedAt": "2025-08-19 11:13:30",
+      "productCode": "AA577961",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1997年,10盎司,熊猫,年盎,盎司,司熊,猫金,金币,币小,小字,字版,版细,细腿"
+    },
+    {
+      "coinName": "1997年1/10盎司熊猫金币(小字版粗腿)",
+      "normalizedBoxCode": "4538378003",
+      "displayBoxCode": "4538378-003",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/553312.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4538378-003/",
+      "price": 4950,
+      "priceWithFee": null,
+      "transactedAt": "2026-02-13 21:52:31",
+      "productCode": "AA619598",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1997年,10盎司,熊猫,年盎,盎司,司熊,猫金,金币,币小,小字,字版,版粗,粗腿"
+    }
+  ]
+}

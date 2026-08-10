@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6172388081",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6172388081",
+      "displayBoxCode": "6172388-081",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1995年1/2盎司香港回归第1组金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/557899.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6172388-081/",
+      "price": 18925,
+      "priceWithFee": null,
+      "transactedAt": "2026-03-02 20:06:08",
+      "productCode": "KH121965",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260302/large_sell_03w9c9ji200ws0fj.jpg",
+      "ocrConfidence": 44,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1995年,2盎司,年盎,盎司,司香,香港,港回,回归,归第,第组,组金,金币,外国/特区"
+    }
+  ]
+}

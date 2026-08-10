@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "3306161033",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "3306161033",
+      "displayBoxCode": "3306161-033",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1997年1/4盎司北京故宫博物院乾清宫内景金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/502969.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3306161-033/69/",
+      "price": 8800,
+      "priceWithFee": null,
+      "transactedAt": "2025-10-03 09:55:44",
+      "productCode": "KH085121",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250927/large_sell_hqhckynjnultaxbf.jpg",
+      "ocrConfidence": 50,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1997年,4盎司,年盎,盎司,司北,北京,京故,故宫,宫博,博物,物院,院乾,乾清,清宫,宫内,内景,景金,金币"
+    }
+  ]
+}

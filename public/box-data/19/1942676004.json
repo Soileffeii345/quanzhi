@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "1942676004",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "1942676004",
+      "displayBoxCode": "1942676-004",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "第一版人民币打场20元",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/diyibanrenminbi/10399509.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1942676-004/",
+      "price": 8300,
+      "priceWithFee": 9130,
+      "transactedAt": "2026-07-23 20:45:10",
+      "productCode": "875023007",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/875023007B.jpg",
+      "ocrConfidence": 29,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,第一,一版,版人,人民,民币,币打,打场,场元"
+    }
+  ]
+}

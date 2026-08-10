@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8825158005",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8825158005",
+      "displayBoxCode": "8825158-005",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2026年15克国家宝藏银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/594304.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8825158-005/",
+      "price": 2800,
+      "priceWithFee": null,
+      "transactedAt": "2026-07-02 00:18:43",
+      "productCode": "KH140653",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260701/large_sell_mblfkicmujtynna6.jpg",
+      "ocrConfidence": 53,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2026年,15克,年克,克国,国家,家宝,宝藏,藏银,银币"
+    }
+  ]
+}

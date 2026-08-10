@@ -1,0 +1,31 @@
+{
+  "coinName": "1985年金币",
+  "slug": "4a52abe2",
+  "saleCount": 1,
+  "keywords": "金,铜,币,章,1985年,年财,财神,神黄,黄金,金万,万两,两铜,铜章,章上,上币",
+  "priceStats": {
+    "low": 300,
+    "high": 300,
+    "avg": 300,
+    "latest": 300
+  },
+  "records": [
+    {
+      "coinName": "1985年财神黄金万两铜章(上币33)",
+      "normalizedBoxCode": "6761012009",
+      "displayBoxCode": "6761012-009",
+      "gradingCompany": "NGC",
+      "grade": "PF 68 CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/583407.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6761012-009/68/",
+      "price": 300,
+      "priceWithFee": null,
+      "transactedAt": "2026-06-05 20:47:43",
+      "productCode": "AA650721",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,铜,币,章,1985年,年财,财神,神黄,黄金,金万,万两,两铜,铜章,章上,上币"
+    }
+  ]
+}

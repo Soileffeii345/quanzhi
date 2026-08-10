@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "7022402005",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "7022402005",
+      "displayBoxCode": "7022402-005",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "第三版人民币2元五星水印",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/disanbanrenminbi/10365197.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/7022402-005/",
+      "price": 1960,
+      "priceWithFee": 2116.8,
+      "transactedAt": "2026-06-25 19:23:10",
+      "productCode": "870637001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/26/870637001B.jpg",
+      "ocrConfidence": 37,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,第三,三版,版人,人民,民币,币元,元五,五星,星水,水印"
+    }
+  ]
+}

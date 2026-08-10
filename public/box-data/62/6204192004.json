@@ -1,0 +1,45 @@
+{
+  "ok": true,
+  "query": "6204192004",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6204192004",
+      "displayBoxCode": "6204192-004",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1997年1/2盎司12边企鹅金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/512609.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6204192-004/69/",
+      "price": 14815,
+      "priceWithFee": null,
+      "transactedAt": "2025-11-14 20:05:15",
+      "productCode": "KH087256A",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251014/large_sell_rij7rrmcfviuojyy.jpg",
+      "ocrConfidence": 30,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1997年,2盎司,年盎,盎司,司边,边企,企鹅,鹅金,金币"
+    },
+    {
+      "normalizedBoxCode": "6204192004",
+      "displayBoxCode": "6204192-004",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1997年1/2盎司12边企鹅金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/505635.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6204192-004/69/",
+      "price": 14875,
+      "priceWithFee": null,
+      "transactedAt": "2025-10-15 06:48:47",
+      "productCode": "KH087256",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251014/large_sell_rij7rrmcfviuojyy.jpg",
+      "ocrConfidence": 30,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1997年,2盎司,年盎,盎司,司边,边企,企鹅,鹅金,金币"
+    }
+  ]
+}

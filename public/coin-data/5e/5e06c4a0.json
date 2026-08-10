@@ -1,0 +1,31 @@
+{
+  "coinName": "2024年中国纸币精制金银币",
+  "slug": "5e06c4a0",
+  "saleCount": 1,
+  "keywords": "金,银,币,2024年,8克,年中,中国,国纸,纸币,币千,千年,年长,长方,方形,形精,精制,制金,金银,银币,币二,二枚,枚一,一套,套含,含克,克金,金克,克银,评级",
+  "priceStats": {
+    "low": 8700,
+    "high": 8700,
+    "avg": 8700,
+    "latest": 8700
+  },
+  "records": [
+    {
+      "coinName": "2024年中国纸币千年长方形精制金银币二枚一套（含8克金、30克银）",
+      "normalizedBoxCode": "8768352003",
+      "displayBoxCode": "8768352-003",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10416243.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8768352-003/",
+      "price": 8700,
+      "priceWithFee": 9004.5,
+      "transactedAt": "2026-07-25 21:44:05",
+      "productCode": "876906001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,2024年,8克,年中,中国,国纸,纸币,币千,千年,年长,长方,方形,形精,精制,制金,金银,银币,币二,二枚,枚一,一套,套含,含克,克金,金克,克银,评级"
+    }
+  ]
+}

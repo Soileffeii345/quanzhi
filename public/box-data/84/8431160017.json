@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8431160017",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8431160017",
+      "displayBoxCode": "8431160-017",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1983年癸亥猪年生肖8克精制金币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-jin/10359918.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8431160-017/69/",
+      "price": 55000,
+      "priceWithFee": 56925,
+      "transactedAt": "2026-06-25 20:53:35",
+      "productCode": "869589002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/869589002A.jpg",
+      "ocrConfidence": 32,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1983年,8克,生肖,年癸,癸亥,亥猪,猪年,年生,肖克,克精,精制,制金,金币,评级"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2782217012",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2782217012",
+      "displayBoxCode": "2782217-012",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1997年丁丑牛年生肖1/2盎司梅花形精制金币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-jin/10359383.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2782217-012/69/",
+      "price": 18400,
+      "priceWithFee": 19044,
+      "transactedAt": "2026-06-25 21:48:05",
+      "productCode": "869701001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/869701001A.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1997年,2盎司,生肖,年丁,丁丑,丑牛,牛年,年生,肖盎,盎司,司梅,梅花,花形,形精,精制,制金,金币,评级"
+    }
+  ]
+}

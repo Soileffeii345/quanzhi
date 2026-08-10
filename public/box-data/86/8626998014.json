@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8626998014",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8626998014",
+      "displayBoxCode": "8626998-014",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2026年中国龙31.104克普制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10389513.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8626998-014/",
+      "price": 620,
+      "priceWithFee": 641.7,
+      "transactedAt": "2026-07-11 21:12:05",
+      "productCode": "873582018",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/27/873582018A.jpg",
+      "ocrConfidence": 42,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2026年,31.104克,年中,中国,国龙,龙克,克普,普制,制银,银币"
+    }
+  ]
+}

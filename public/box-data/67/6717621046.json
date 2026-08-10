@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6717621046",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6717621046",
+      "displayBoxCode": "6717621-046",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2023年30克国家公园银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/479202.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6717621-046/70/",
+      "price": 1400,
+      "priceWithFee": null,
+      "transactedAt": "2025-12-27 00:38:32",
+      "productCode": "AA563400.01",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250523/large_sell_gazcdmun1i7e5zv0.jpg",
+      "ocrConfidence": 32,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2023年,30克,年克,克国,国家,家公,公园,园银,银币"
+    }
+  ]
+}

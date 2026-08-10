@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8185006037",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8185006037",
+      "displayBoxCode": "8185006-037",
+      "gradingCompany": "NGC",
+      "grade": "PF70 ULTRA CAMEO",
+      "coinName": "2024年30克吉祥文化心心相印银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/457189.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8185006-037/70/",
+      "price": 780,
+      "priceWithFee": null,
+      "transactedAt": "2025-05-08 08:29:19",
+      "productCode": "AA536325",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20241209/large_sell_rwnwvbbkyw2ubcny.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2024年,30克,吉祥文化,年克,克吉,吉祥,祥文,文化,化心,心心,心相,相印,印银,银币"
+    }
+  ]
+}

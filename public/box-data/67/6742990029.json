@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6742990029",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6742990029",
+      "displayBoxCode": "6742990-029",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "coinName": "2005年1盎司上海银行成立10周年银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/517556.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6742990-029/69/",
+      "price": 490,
+      "priceWithFee": null,
+      "transactedAt": "2025-12-12 01:18:54",
+      "productCode": "KH093197",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251203/large_sell_snqdivqfe4iul7bx.jpg",
+      "ocrConfidence": 47,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2005年,1盎司,年盎,盎司,司上,上海,海银,银行,行成,成立,立周,周年,年银,银币"
+    }
+  ]
+}

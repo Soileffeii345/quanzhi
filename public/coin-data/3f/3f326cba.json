@@ -1,0 +1,65 @@
+{
+  "coinName": "2023年熊猫30克铂币",
+  "slug": "3f326cba",
+  "saleCount": 3,
+  "keywords": "贵金属,币,2023年,30克,熊猫,年克,克熊,猫铂,铂币",
+  "priceStats": {
+    "low": 12400,
+    "high": 23200,
+    "avg": 17067,
+    "latest": 15600
+  },
+  "records": [
+    {
+      "coinName": "2023年30克熊猫铂币",
+      "normalizedBoxCode": "6731885007",
+      "displayBoxCode": "6731885-007",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/594828.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6731885-007/70/",
+      "price": 15600,
+      "priceWithFee": null,
+      "transactedAt": "2026-07-31 11:38:05",
+      "productCode": "AA663028",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "贵金属,币,2023年,30克,熊猫,年克,克熊,猫铂,铂币"
+    },
+    {
+      "coinName": "2023年30克熊猫铂币",
+      "normalizedBoxCode": "6731965002",
+      "displayBoxCode": "6731965-002",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/494103.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6731965-002/",
+      "price": 12400,
+      "priceWithFee": null,
+      "transactedAt": "2025-09-27 08:51:31",
+      "productCode": "AA578220",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "贵金属,币,2023年,30克,熊猫,年克,克熊,猫铂,铂币"
+    },
+    {
+      "coinName": "2023年30克熊猫铂币",
+      "normalizedBoxCode": "6733986047",
+      "displayBoxCode": "6733986-047",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/537308.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6733986-047/70/",
+      "price": 23200,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-23 16:51:50",
+      "productCode": "KH111726",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "贵金属,币,2023年,30克,熊猫,年克,克熊,猫铂,铂币"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "coinName": "31.104克熊猫银币若干 X2",
+  "slug": "692c1124",
+  "saleCount": 1,
+  "keywords": "银,币,1盎司,熊猫,盎司,司熊,猫银,银币,币若,若干",
+  "priceStats": {
+    "low": 920,
+    "high": 920,
+    "avg": 920,
+    "latest": 920
+  },
+  "records": [
+    {
+      "coinName": "1盎司熊猫银币若干 X2",
+      "normalizedBoxCode": "4287570039",
+      "displayBoxCode": "4287570-039",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/592511.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4287570-039/",
+      "price": 920,
+      "priceWithFee": null,
+      "transactedAt": "2026-07-01 23:33:07",
+      "productCode": "AA660137.38",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1盎司,熊猫,盎司,司熊,猫银,银币,币若,若干"
+    }
+  ]
+}

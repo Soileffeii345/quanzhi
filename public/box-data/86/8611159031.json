@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8611159031",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8611159031",
+      "displayBoxCode": "8611159-031",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1996年丙子鼠年生肖1盎司精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10414708.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8611159-031/",
+      "price": 2250,
+      "priceWithFee": 2328.75,
+      "transactedAt": "2026-07-20 22:05:40",
+      "productCode": "876731002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/876731002A.jpg",
+      "ocrConfidence": 40,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1996年,1盎司,生肖,年丙,丙子,子鼠,鼠年,年生,肖盎,盎司,司精,精制,制银,银币,评级"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2559394027",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2559394027",
+      "displayBoxCode": "2559394-027",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1988年香港上海汇丰银行壹佰圆",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xianggangzhichao/10410441.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2559394-027/",
+      "price": 310,
+      "priceWithFee": 344.1,
+      "transactedAt": "2026-07-21 19:13:35",
+      "productCode": "876073004",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/876073004B.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,1988年,年香,香港,港上,上海,海汇,汇丰,丰银,银行,行壹,壹佰,佰圆,外国/特区"
+    }
+  ]
+}

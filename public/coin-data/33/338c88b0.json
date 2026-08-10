@@ -1,0 +1,48 @@
+{
+  "coinName": "民国二十九年中央银行贰角",
+  "slug": "338c88b0",
+  "saleCount": 2,
+  "keywords": "银,历史币,民国,国二,二十,十九,九年,年中,中央,央银,银行,行贰,贰角",
+  "priceStats": {
+    "low": 130,
+    "high": 170,
+    "avg": 150,
+    "latest": 130
+  },
+  "records": [
+    {
+      "coinName": "民国二十九年中央银行贰角",
+      "normalizedBoxCode": "7021064012",
+      "displayBoxCode": "7021064-012",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10366737.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/7021064-012/",
+      "price": 130,
+      "priceWithFee": 144.3,
+      "transactedAt": "2026-07-14 20:54:35",
+      "productCode": "870327007",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国二,二十,十九,九年,年中,中央,央银,银行,行贰,贰角"
+    },
+    {
+      "coinName": "民国二十九年中央银行贰角",
+      "normalizedBoxCode": "8032101083",
+      "displayBoxCode": "8032101-083",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10361813.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8032101-083/",
+      "price": 170,
+      "priceWithFee": 188.7,
+      "transactedAt": "2026-07-07 21:13:50",
+      "productCode": "870325023",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国二,二十,十九,九年,年中,中央,央银,银行,行贰,贰角"
+    }
+  ]
+}

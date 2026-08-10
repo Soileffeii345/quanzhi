@@ -1,0 +1,31 @@
+{
+  "coinName": "2021年吉祥文化15克银币",
+  "slug": "4b69884f",
+  "saleCount": 1,
+  "keywords": "银,币,2021年,15克,吉祥文化,年克,克吉,吉祥,祥文,文化,化竹,竹报,报平,平安,安银,银币",
+  "priceStats": {
+    "low": 980,
+    "high": 980,
+    "avg": 980,
+    "latest": 980
+  },
+  "records": [
+    {
+      "coinName": "2021年15克吉祥文化竹报平安银币",
+      "normalizedBoxCode": "6200592001",
+      "displayBoxCode": "6200592-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 70",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/579669.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6200592-001/70/",
+      "price": 980,
+      "priceWithFee": null,
+      "transactedAt": "2026-05-15 14:53:08",
+      "productCode": "KH134832",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2021年,15克,吉祥文化,年克,克吉,吉祥,祥文,文化,化竹,竹报,报平,平安,安银,银币"
+    }
+  ]
+}

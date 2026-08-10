@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4415235004",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4415235004",
+      "displayBoxCode": "4415235-004",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2016年吉祥文化-年年有余30克精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10398697.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4415235-004/",
+      "price": 880,
+      "priceWithFee": 910.8,
+      "transactedAt": "2026-07-13 21:13:05",
+      "productCode": "874757001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/874757001A.jpg",
+      "ocrConfidence": 39,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2016年,30克,吉祥文化,年吉,吉祥,祥文,文化,化年,年年,年有,有余,余克,克精,精制,制银,银币,评级"
+    }
+  ]
+}

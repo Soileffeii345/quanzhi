@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2234244005",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2234244005",
+      "displayBoxCode": "2234244-005",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "第一版人民币列车（七位数）50元",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/diyibanrenminbi/10387364.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2234244-005/",
+      "price": 4500,
+      "priceWithFee": 4950,
+      "transactedAt": "2026-07-09 20:01:40",
+      "productCode": "873660003",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/27/873660003B.jpg",
+      "ocrConfidence": 28,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,第一,一版,版人,人民,民币,币列,列车,车七,七位,位数,数元"
+    }
+  ]
+}

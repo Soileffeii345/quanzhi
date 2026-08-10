@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "85464303",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "85464303",
+      "displayBoxCode": "85464303",
+      "gradingCompany": "PCGS",
+      "grade": "待复核",
+      "coinName": "东三省造宣统元宝一钱四分四厘银元",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguojindaijizhibi/10395567.shtml",
+      "officialCertUrl": "https://cn.pcgs.com/cert/85464303",
+      "price": 1500,
+      "priceWithFee": 1620,
+      "transactedAt": "2026-07-27 20:35:05",
+      "productCode": "874328008",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/874328008A.jpg",
+      "ocrConfidence": 29,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,龙洋,龙,东三,三省,省造,造宣,宣统,统元,元宝,宝一,一钱,钱四,四分,分四,四厘,厘银,银元"
+    }
+  ]
+}

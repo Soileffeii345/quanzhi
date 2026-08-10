@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6000791025",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6000791025",
+      "displayBoxCode": "6000791-025",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2005年乙酉鸡年生肖1盎司精制彩银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10377115.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6000791-025/70/",
+      "price": 1240,
+      "priceWithFee": 1283.4,
+      "transactedAt": "2026-07-06 19:36:20",
+      "productCode": "871558002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/26/871558002A.jpg",
+      "ocrConfidence": 41,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2005年,1盎司,生肖,年乙,乙酉,酉鸡,鸡年,年生,肖盎,盎司,司精,精制,制彩,彩银,银币,评级"
+    }
+  ]
+}

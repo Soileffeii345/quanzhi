@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6080017046",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6080017046",
+      "displayBoxCode": "6080017-046",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1995年中国传统文化第（1）组-京剧艺术、狮子舞、六合塔22克精制银币各一枚",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10412003.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6080017-046/",
+      "price": 1240,
+      "priceWithFee": 1283.4,
+      "transactedAt": "2026-07-20 21:14:10",
+      "productCode": "876312010",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/876312010A.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1995年,22克,戏曲,年中,中国,国传,传统,统文,文化,化第,第组,组京,京剧,剧艺,艺术,术狮,狮子,子舞,舞六,六合,合塔,塔克,克精,精制,制银,银币,币各,各一,一枚,评级"
+    }
+  ]
+}

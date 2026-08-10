@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8655850003",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8655850003",
+      "displayBoxCode": "8655850-003",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2021年8克书法艺术第3组金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/555163.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8655850-003/69/",
+      "price": 10600,
+      "priceWithFee": null,
+      "transactedAt": "2026-03-10 23:19:12",
+      "productCode": "KH122683",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260213/large_sell_r3fxnsprmxykstmm.jpg",
+      "ocrConfidence": 63,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2021年,8克,书法,年克,克书,法艺,艺术,术第,第组,组金,金币"
+    }
+  ]
+}

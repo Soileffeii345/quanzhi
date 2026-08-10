@@ -1,0 +1,31 @@
+{
+  "coinName": "1986年奥运会15.552克金币",
+  "slug": "5a458893",
+  "saleCount": 1,
+  "keywords": "金,币,1986年,2盎司,奥运,年韩,韩国,国盎,盎司,司汉,汉城,城奥,运会,会民,民族,族舞,舞蹈,蹈金,金币",
+  "priceStats": {
+    "low": 12830,
+    "high": 12830,
+    "avg": 12830,
+    "latest": 12830
+  },
+  "records": [
+    {
+      "coinName": "1986年韩国1/2盎司汉城奥运会民族舞蹈金币",
+      "normalizedBoxCode": "4233567006",
+      "displayBoxCode": "4233567-006",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/497790.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4233567-006/",
+      "price": 12830,
+      "priceWithFee": null,
+      "transactedAt": "2025-09-02 10:37:31",
+      "productCode": "KH080667",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1986年,2盎司,奥运,年韩,韩国,国盎,盎司,司汉,汉城,城奥,运会,会民,民族,族舞,舞蹈,蹈金,金币"
+    }
+  ]
+}

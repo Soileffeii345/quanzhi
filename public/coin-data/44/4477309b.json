@@ -1,0 +1,48 @@
+{
+  "coinName": "2011年金银币",
+  "slug": "4477309b",
+  "saleCount": 2,
+  "keywords": "金,银,币,2011年,年辛,辛亥,亥革,革命,命周,周年,年金,金银,银币",
+  "priceStats": {
+    "low": 11000,
+    "high": 11000,
+    "avg": 11000,
+    "latest": 11000
+  },
+  "records": [
+    {
+      "coinName": "2011年辛亥革命100周年金银币",
+      "normalizedBoxCode": "1619250594",
+      "displayBoxCode": "1619250-594",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/541155.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1619250-594/",
+      "price": 11000,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-29 09:49:54",
+      "productCode": "AA612301.02A",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,2011年,年辛,辛亥,亥革,革命,命周,周年,年金,金银,银币"
+    },
+    {
+      "coinName": "2011年辛亥革命100周年金银币",
+      "normalizedBoxCode": "8655792002",
+      "displayBoxCode": "8655792-002",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/541155.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8655792-002/69/",
+      "price": 11000,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-29 09:49:54",
+      "productCode": "AA612301.02A",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,2011年,年辛,辛亥,亥革,革命,命周,周年,年金,金银,银币"
+    }
+  ]
+}

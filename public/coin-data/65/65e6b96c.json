@@ -1,0 +1,31 @@
+{
+  "coinName": "1973年加拿大纸币",
+  "slug": "65e6b96c",
+  "saleCount": 1,
+  "keywords": "币,1973年,年加,加拿,拿大,大纸,纸币,外国/特区",
+  "priceStats": {
+    "low": 150,
+    "high": 150,
+    "avg": 150,
+    "latest": 150
+  },
+  "records": [
+    {
+      "coinName": "1973年加拿大纸币",
+      "normalizedBoxCode": "2400754019",
+      "displayBoxCode": "2400754-019",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10372844.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2400754-019/",
+      "price": 150,
+      "priceWithFee": 166.5,
+      "transactedAt": "2026-06-30 22:07:35",
+      "productCode": "871226018",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1973年,年加,加拿,拿大,大纸,纸币,外国/特区"
+    }
+  ]
+}

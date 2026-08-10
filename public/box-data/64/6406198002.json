@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6406198002",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6406198002",
+      "displayBoxCode": "6406198-002",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2009年1/4盎司建国60周年金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/467930.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6406198-002/",
+      "price": 5490,
+      "priceWithFee": null,
+      "transactedAt": "2025-03-13 13:17:09",
+      "productCode": "AA554440",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250313/large_sell_n5q91ypu3ejyr3qy.jpg",
+      "ocrConfidence": 40,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2009年,4盎司,重大事件,年盎,盎司,司建,建国,国周,周年,年金,金币"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8761122005",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8761122005",
+      "displayBoxCode": "8761122-005",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2010年中国京剧脸谱第（1）组-包拯1/4盎司精制彩金币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10363189.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8761122-005/69/",
+      "price": 7700,
+      "priceWithFee": 7969.5,
+      "transactedAt": "2026-07-02 21:01:30",
+      "productCode": "870614018",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/870614018A.jpg",
+      "ocrConfidence": 46,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2010年,4盎司,戏曲,年中,中国,国京,京剧,剧脸,脸谱,谱第,第组,组包,包拯,拯盎,盎司,司精,精制,制彩,彩金,金币,评级"
+    }
+  ]
+}

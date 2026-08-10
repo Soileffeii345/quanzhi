@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8825206011",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8825206011",
+      "displayBoxCode": "8825206-011",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "coinName": "1996年麒麟1/20盎司普制金币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10386380.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8825206-011/69/",
+      "price": 1800,
+      "priceWithFee": 1863,
+      "transactedAt": "2026-07-09 21:30:05",
+      "productCode": "873153002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/27/873153002A.jpg",
+      "ocrConfidence": 32,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1996年,20盎司,年麒,麒麟,麟盎,盎司,司普,普制,制金,金币"
+    }
+  ]
+}

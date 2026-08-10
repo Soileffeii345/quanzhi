@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8761461012",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8761461012",
+      "displayBoxCode": "8761461-012",
+      "gradingCompany": "NGC",
+      "grade": "PF 65 CAMEO",
+      "coinName": "1995年中国精制硬币壹角",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10369258.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8761461-012/65/",
+      "price": 55,
+      "priceWithFee": 59.4,
+      "transactedAt": "2026-07-01 19:48:35",
+      "productCode": "871225001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/26/871225001A.jpg",
+      "ocrConfidence": 27,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1995年,年中,中国,国精,精制,制硬,硬币,币壹,壹角,评级"
+    }
+  ]
+}

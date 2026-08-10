@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "3878117038",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "3878117038",
+      "displayBoxCode": "3878117-038",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "coinName": "1996年1/20盎司观音金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/494026.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3878117-038/69/",
+      "price": 1550,
+      "priceWithFee": null,
+      "transactedAt": "2025-08-19 08:36:52",
+      "productCode": "AA577235A",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250807/large_sell_ayufseyixw6tny0b.jpg",
+      "ocrConfidence": 38,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1996年,20盎司,宗教,年盎,盎司,司观,观音,音金,金币"
+    }
+  ]
+}

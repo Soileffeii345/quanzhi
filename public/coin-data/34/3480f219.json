@@ -1,0 +1,31 @@
+{
+  "coinName": "1999年建国15.552克金币",
+  "slug": "3480f219",
+  "saleCount": 1,
+  "keywords": "金,币,1999年,2盎司,重大事件,年盎,盎司,司建,建国,国周,周年,年金,金币",
+  "priceStats": {
+    "low": 11075,
+    "high": 11075,
+    "avg": 11075,
+    "latest": 11075
+  },
+  "records": [
+    {
+      "coinName": "1999年1/2盎司建国50周年金币",
+      "normalizedBoxCode": "8200892003",
+      "displayBoxCode": "8200892-003",
+      "gradingCompany": "NGC",
+      "grade": "PF69 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/468791.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8200892-003/69/",
+      "price": 11075,
+      "priceWithFee": null,
+      "transactedAt": "2025-03-18 09:59:19",
+      "productCode": "KH061480",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1999年,2盎司,重大事件,年盎,盎司,司建,建国,国周,周年,年金,金币"
+    }
+  ]
+}

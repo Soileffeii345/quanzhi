@@ -1,0 +1,31 @@
+{
+  "coinName": "1995年5.18克银币",
+  "slug": "0717719f",
+  "saleCount": 1,
+  "keywords": "银,章,1995年,5.18克,年克,克十,十二,二星,星座,座处,处女,女座,座银,银章",
+  "priceStats": {
+    "low": 200,
+    "high": 200,
+    "avg": 200,
+    "latest": 200
+  },
+  "records": [
+    {
+      "coinName": "1995年5.18克十二星座处女座银章",
+      "normalizedBoxCode": "8180953022",
+      "displayBoxCode": "8180953-022",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/467147.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8180953-022/69/",
+      "price": 200,
+      "priceWithFee": null,
+      "transactedAt": "2025-03-22 15:21:21",
+      "productCode": "AA553596",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,章,1995年,5.18克,年克,克十,十二,二星,星座,座处,处女,女座,座银,银章"
+    }
+  ]
+}

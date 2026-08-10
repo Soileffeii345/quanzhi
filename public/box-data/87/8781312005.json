@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8781312005",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8781312005",
+      "displayBoxCode": "8781312-005",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1986年丙寅虎年生肖15克精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10389542.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8781312-005/",
+      "price": 1660,
+      "priceWithFee": 1718.1,
+      "transactedAt": "2026-07-09 20:07:25",
+      "productCode": "873692002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/27/873692002A.jpg",
+      "ocrConfidence": 37,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1986年,15克,生肖,年丙,丙寅,寅虎,虎年,年生,肖克,克精,精制,制银,银币,评级"
+    }
+  ]
+}

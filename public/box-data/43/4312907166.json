@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4312907166",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4312907166",
+      "displayBoxCode": "4312907-166",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2015年熊猫1盎司普制银币二枚",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-xinyin/10403805.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4312907-166/",
+      "price": 910,
+      "priceWithFee": 941.85,
+      "transactedAt": "2026-07-20 21:02:10",
+      "productCode": "875426004",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/875426004A.jpg",
+      "ocrConfidence": 32,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2015年,1盎司,熊猫,年熊,猫盎,盎司,司普,普制,制银,银币,币二,二枚"
+    }
+  ]
+}

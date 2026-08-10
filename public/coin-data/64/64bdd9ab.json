@@ -1,0 +1,48 @@
+{
+  "coinName": "2013年5盎司精制铜币",
+  "slug": "64bdd9ab",
+  "saleCount": 2,
+  "keywords": "银,铜,币,2013年,5盎司,年中,中国,国青,青铜,铜器,器第,第组,组商,商司,司母,母辛,辛觥,觥盎,盎司,司精,精制,制银,银币,评级",
+  "priceStats": {
+    "low": 4100,
+    "high": 4950,
+    "avg": 4525,
+    "latest": 4950
+  },
+  "records": [
+    {
+      "coinName": "2013年中国青铜器第（2）组-商·司母辛觥5盎司精制银币",
+      "normalizedBoxCode": "8757170004",
+      "displayBoxCode": "8757170-004",
+      "gradingCompany": "NGC",
+      "grade": "PF70",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10417751.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8757170-004/70/",
+      "price": 4950,
+      "priceWithFee": 5123.25,
+      "transactedAt": "2026-07-23 20:06:45",
+      "productCode": "877172003",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,铜,币,2013年,5盎司,年中,中国,国青,青铜,铜器,器第,第组,组商,商司,司母,母辛,辛觥,觥盎,盎司,司精,精制,制银,银币,评级"
+    },
+    {
+      "coinName": "2013年中国青铜器第（2）组-商·司母辛觥5盎司精制银币",
+      "normalizedBoxCode": "8827680006",
+      "displayBoxCode": "8827680-006",
+      "gradingCompany": "NGC",
+      "grade": "PF 69",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10417750.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8827680-006/69/",
+      "price": 4100,
+      "priceWithFee": 4243.5,
+      "transactedAt": "2026-07-23 19:53:25",
+      "productCode": "877172002",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,铜,币,2013年,5盎司,年中,中国,国青,青铜,铜器,器第,第组,组商,商司,司母,母辛,辛觥,觥盎,盎司,司精,精制,制银,银币,评级"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "coinName": "2010年熊猫31.104克银币",
+  "slug": "77c8421a",
+  "saleCount": 2,
+  "keywords": "银,币,2010年,1盎司,熊猫,年盎,盎司,司熊,猫银,银币",
+  "priceStats": {
+    "low": 660,
+    "high": 4850,
+    "avg": 2755,
+    "latest": 4850
+  },
+  "records": [
+    {
+      "coinName": "2010年1盎司熊猫银币",
+      "normalizedBoxCode": "3556054039",
+      "displayBoxCode": "3556054-039",
+      "gradingCompany": "NGC",
+      "grade": "MS 68",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/521705.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3556054-039/68/",
+      "price": 4850,
+      "priceWithFee": null,
+      "transactedAt": "2025-12-22 07:57:30",
+      "productCode": "KH096334",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2010年,1盎司,熊猫,年盎,盎司,司熊,猫银,银币"
+    },
+    {
+      "coinName": "2010年1盎司熊猫银币",
+      "normalizedBoxCode": "6200580012",
+      "displayBoxCode": "6200580-012",
+      "gradingCompany": "NGC",
+      "grade": "MS 70",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/469498.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6200580-012/70/",
+      "price": 660,
+      "priceWithFee": null,
+      "transactedAt": "2025-06-03 20:35:06",
+      "productCode": "KH067970",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2010年,1盎司,熊猫,年盎,盎司,司熊,猫银,银币"
+    }
+  ]
+}

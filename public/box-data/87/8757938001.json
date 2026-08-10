@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8757938001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8757938001",
+      "displayBoxCode": "8757938-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1982年壬戌狗年生肖8克精制金币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-jin/10361120.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8757938-001/69/",
+      "price": 39000,
+      "priceWithFee": 40365,
+      "transactedAt": "2026-06-25 21:26:05",
+      "productCode": "870518010",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/870518010A.jpg",
+      "ocrConfidence": 41,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1982年,8克,生肖,年壬,壬戌,戌狗,狗年,年生,肖克,克精,精制,制金,金币,评级"
+    }
+  ]
+}

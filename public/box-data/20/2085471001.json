@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2085471001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2085471001",
+      "displayBoxCode": "2085471-001",
+      "gradingCompany": "NGC",
+      "grade": "PF70 ULTRA CAMEO",
+      "coinName": "2013年1/10盎司生肖蛇金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/461364.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2085471-001/70/",
+      "price": 2300,
+      "priceWithFee": null,
+      "transactedAt": "2025-03-03 20:10:02",
+      "productCode": "AA543504",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250114/large_sell_qfzuxmjlnfrt8hb4.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2013年,10盎司,生肖,年盎,盎司,司生,肖蛇,蛇金,金币"
+    }
+  ]
+}

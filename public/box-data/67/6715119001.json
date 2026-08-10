@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6715119001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6715119001",
+      "displayBoxCode": "6715119-001",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "coinName": "1996年20克麒麟银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/518416.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6715119-001/69/",
+      "price": 370,
+      "priceWithFee": null,
+      "transactedAt": "2025-12-09 10:45:55",
+      "productCode": "KH093800",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251208/large_sell_taf4mtw0ayuecn4p.jpg",
+      "ocrConfidence": 30,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1996年,20克,年克,克麒,麒麟,麟银,银币"
+    }
+  ]
+}

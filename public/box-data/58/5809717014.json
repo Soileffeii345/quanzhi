@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "5809717014",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "5809717014",
+      "displayBoxCode": "5809717-014",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2011年1/4盎司辛亥革命100周年金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/472443.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/5809717-014/70/",
+      "price": 5960,
+      "priceWithFee": null,
+      "transactedAt": "2025-04-10 13:23:54",
+      "productCode": "KH063967",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250410/large_sell_31nfv2hm0ttmcv6v.jpg",
+      "ocrConfidence": 39,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2011年,4盎司,年盎,盎司,司辛,辛亥,亥革,革命,命周,周年,年金,金币"
+    }
+  ]
+}

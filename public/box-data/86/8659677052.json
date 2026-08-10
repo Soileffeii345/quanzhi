@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8659677052",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8659677052",
+      "displayBoxCode": "8659677-052",
+      "gradingCompany": "NGC",
+      "grade": "PF 66 ULTRA CAMEO",
+      "coinName": "2006年世界文化遗产-颐和园精制流通纪念币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10359857.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8659677-052/66/",
+      "price": 85,
+      "priceWithFee": 91.8,
+      "transactedAt": "2026-06-24 21:47:25",
+      "productCode": "869854043",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/869854043A.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2006年,年世,世界,界文,文化,化遗,遗产,产颐,颐和,和园,园精,精制,制流,流通,通纪,纪念,念币,评级"
+    }
+  ]
+}

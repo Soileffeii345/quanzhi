@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8499199001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8499199001",
+      "displayBoxCode": "8499199-001",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "coinName": "2011年1/4盎司京沪高铁开通金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/500290.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8499199-001/69/",
+      "price": 6495,
+      "priceWithFee": null,
+      "transactedAt": "2025-09-14 09:05:11",
+      "productCode": "KH083520",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250914/large_sell_x2qhy7it4ibyxswe.jpg",
+      "ocrConfidence": 43,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2011年,4盎司,年盎,盎司,司京,京沪,沪高,高铁,铁开,开通,通金,金币"
+    }
+  ]
+}

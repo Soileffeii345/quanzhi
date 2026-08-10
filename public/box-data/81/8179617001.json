@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8179617001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8179617001",
+      "displayBoxCode": "8179617-001",
+      "gradingCompany": "NGC",
+      "grade": "PF69",
+      "coinName": "1994年1/10盎司四大菩萨金章",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/470337.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8179617-001/69/",
+      "price": 11800,
+      "priceWithFee": null,
+      "transactedAt": "2025-04-17 08:40:32",
+      "productCode": "AA556504.05.06.07",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250327/large_sell_l6gvxwktowunzemp.jpg",
+      "ocrConfidence": 43,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,章,1994年,10盎司,宗教,年盎,盎司,司四,四大,大菩,菩萨,萨金,金章"
+    }
+  ]
+}

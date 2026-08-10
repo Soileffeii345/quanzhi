@@ -1,0 +1,48 @@
+{
+  "coinName": "2012年60克银币",
+  "slug": "71676ac6",
+  "saleCount": 2,
+  "keywords": "银,章,2012年,60克,年克,克龙,龙门,门石,石窟,窟银,银章",
+  "priceStats": {
+    "low": 1400,
+    "high": 2600,
+    "avg": 2000,
+    "latest": 2600
+  },
+  "records": [
+    {
+      "coinName": "2012年60克龙门石窟银章",
+      "normalizedBoxCode": "5794797020",
+      "displayBoxCode": "5794797-020",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/528573.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/5794797-020/70/",
+      "price": 2600,
+      "priceWithFee": null,
+      "transactedAt": "2026-02-18 17:24:38",
+      "productCode": "AA607313A",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,章,2012年,60克,年克,克龙,龙门,门石,石窟,窟银,银章"
+    },
+    {
+      "coinName": "2012年60克龙门石窟银章",
+      "normalizedBoxCode": "5794797020",
+      "displayBoxCode": "5794797-020",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/527219.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/5794797-020/70/",
+      "price": 1400,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-06 11:01:59",
+      "productCode": "AA607313",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,章,2012年,60克,年克,克龙,龙门,门石,石窟,窟银,银章"
+    }
+  ]
+}

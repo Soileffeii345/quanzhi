@@ -1,0 +1,31 @@
+{
+  "coinName": "1995年丝绸之路3盎司精制金币",
+  "slug": "632c3621",
+  "saleCount": 1,
+  "keywords": "金,币,1995年,3盎司,年中,中国,国丝,丝绸,绸之,之路,路第,第组,组张,张骞,骞出,出使,使西,西域,域盎,盎司,司精,精制,制金,金币,评级",
+  "priceStats": {
+    "low": 18000,
+    "high": 18000,
+    "avg": 18000,
+    "latest": 18000
+  },
+  "records": [
+    {
+      "coinName": "1995年中国丝绸之路第（1）组-张骞出使西域1/3盎司精制金币",
+      "normalizedBoxCode": "3805378072",
+      "displayBoxCode": "3805378-072",
+      "gradingCompany": "NGC",
+      "grade": "PF70 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10359987.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3805378-072/70/",
+      "price": 18000,
+      "priceWithFee": 18630,
+      "transactedAt": "2026-06-25 21:52:05",
+      "productCode": "869600004",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1995年,3盎司,年中,中国,国丝,丝绸,绸之,之路,路第,第组,组张,张骞,骞出,出使,使西,西域,域盎,盎司,司精,精制,制金,金币,评级"
+    }
+  ]
+}

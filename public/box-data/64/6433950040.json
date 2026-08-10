@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6433950040",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6433950040",
+      "displayBoxCode": "6433950-040",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2012年英国5盎司奥运会飞马银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/538555.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6433950-040/69/",
+      "price": 4750,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-28 23:39:24",
+      "productCode": "KH113873",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260126/large_sell_hcg44beqyof9sgnw.jpg",
+      "ocrConfidence": 38,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2012年,5盎司,奥运,年英,英国,国盎,盎司,司奥,运会,会飞,飞马,马银,银币,外国/特区"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8575838008",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8575838008",
+      "displayBoxCode": "8575838-008",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1998年1/2盎司刘少奇诞辰100周年金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/551817.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8575838-008/",
+      "price": 18000,
+      "priceWithFee": null,
+      "transactedAt": "2026-02-04 14:56:04",
+      "productCode": "KH117576",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260203/large_sell_hy9jgj1tlmt6nqrl.jpg",
+      "ocrConfidence": 46,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1998年,2盎司,年盎,盎司,司刘,刘少,少奇,奇诞,诞辰,辰周,周年,年金,金币"
+    }
+  ]
+}

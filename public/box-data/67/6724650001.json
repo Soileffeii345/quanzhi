@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6724650001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6724650001",
+      "displayBoxCode": "6724650-001",
+      "gradingCompany": "NGC",
+      "grade": "PF69 CAMEO",
+      "coinName": "1983年第6届全国人民代表大会铜章(沈币40)",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/452068.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6724650-001/69/",
+      "price": 5700,
+      "priceWithFee": null,
+      "transactedAt": "2024-11-13 18:41:22",
+      "productCode": "KH057563",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20241022/large_sell_mn8qrulspnklvvga.jpg",
+      "ocrConfidence": 37,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "铜,币,章,1983年,年第,第届,届全,全国,国人,人民,民代,代表,表大,大会,会铜,铜章,章沈,沈币"
+    }
+  ]
+}

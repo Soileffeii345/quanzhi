@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8579105011",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8579105011",
+      "displayBoxCode": "8579105-011",
+      "gradingCompany": "NGC",
+      "grade": "PF 66 ULTRA CAMEO",
+      "coinName": "1996年中国精制硬币壹圆",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10360943.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8579105-011/66/",
+      "price": 240,
+      "priceWithFee": 259.2,
+      "transactedAt": "2026-06-24 21:51:25",
+      "productCode": "870464007",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/870464007A.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1996年,年中,中国,国精,精制,制硬,硬币,币壹,壹圆,评级"
+    }
+  ]
+}

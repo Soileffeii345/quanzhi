@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8818532099",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8818532099",
+      "displayBoxCode": "8818532-099",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2005年熊猫1/10盎司精制铂金币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-nianjiyiqian/10386237.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8818532-099/",
+      "price": 1780,
+      "priceWithFee": 1842.3,
+      "transactedAt": "2026-07-09 21:04:05",
+      "productCode": "873415006",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/27/873415006A.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,贵金属,币,2005年,10盎司,熊猫,年熊,猫盎,盎司,司精,精制,制铂,铂金,金币,评级"
+    }
+  ]
+}

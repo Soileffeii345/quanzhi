@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2507940003",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2507940003",
+      "displayBoxCode": "2507940-003",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2006年美国富兰克林诞辰300周年精制银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/434854.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2507940-003/70/",
+      "price": 650,
+      "priceWithFee": null,
+      "transactedAt": "2024-06-02 13:31:09",
+      "productCode": "AA483773",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20240601/large_sell_p9jz46ioielet8sy.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2006年,年美,美国,国富,富兰,兰克,克林,林诞,诞辰,辰周,周年,年精,精制,制银,银币,评级,外国/特区"
+    }
+  ]
+}

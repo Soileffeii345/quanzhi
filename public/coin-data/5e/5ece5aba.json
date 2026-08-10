@@ -1,0 +1,48 @@
+{
+  "coinName": "第四套/第四版人民币1990年版2元连号",
+  "slug": "5ece5aba",
+  "saleCount": 2,
+  "keywords": "币,1990年,第四,四套,套第,四版,版人,人民,民币,币年,年版,版元,元连,连号,号十,十枚,号二,二枚",
+  "priceStats": {
+    "low": 270,
+    "high": 640,
+    "avg": 455,
+    "latest": 640
+  },
+  "records": [
+    {
+      "coinName": "第四套/第四版人民币1990年版2元连号十枚",
+      "normalizedBoxCode": "2099598021",
+      "displayBoxCode": "2099598-021",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/disibanrenminbi/10400343.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2099598-021/",
+      "price": 640,
+      "priceWithFee": 691.2,
+      "transactedAt": "2026-07-18 20:58:35",
+      "productCode": "875072003",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1990年,第四,四套,套第,四版,版人,人民,民币,币年,年版,版元,元连,连号,号十,十枚"
+    },
+    {
+      "coinName": "第四套/第四版人民币1990年版2元连号二枚",
+      "normalizedBoxCode": "2226627002",
+      "displayBoxCode": "2226627-002",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/disibanrenminbi/10406107.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2226627-002/",
+      "price": 270,
+      "priceWithFee": 291.6,
+      "transactedAt": "2026-07-18 19:54:20",
+      "productCode": "875295016",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1990年,第四,四套,套第,四版,版人,人民,民币,币年,年版,版元,元连,连号,号二,二枚"
+    }
+  ]
+}

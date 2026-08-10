@@ -1,0 +1,48 @@
+{
+  "coinName": "1998年生肖31.104克精制金币",
+  "slug": "55d4cf61",
+  "saleCount": 2,
+  "keywords": "金,币,1998年,1盎司,生肖,年戊,戊寅,寅虎,虎年,年生,肖盎,盎司,司精,精制,制金,金币,评级",
+  "priceStats": {
+    "low": 46500,
+    "high": 49000,
+    "avg": 47750,
+    "latest": 46500
+  },
+  "records": [
+    {
+      "coinName": "1998年戊寅虎年生肖1盎司精制金币",
+      "normalizedBoxCode": "8545480023",
+      "displayBoxCode": "8545480-023",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-jin/10397597.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8545480-023/",
+      "price": 46500,
+      "priceWithFee": 48127.5,
+      "transactedAt": "2026-07-16 20:45:55",
+      "productCode": "874813003",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1998年,1盎司,生肖,年戊,戊寅,寅虎,虎年,年生,肖盎,盎司,司精,精制,制金,金币,评级"
+    },
+    {
+      "coinName": "1998年戊寅虎年生肖1盎司精制金币",
+      "normalizedBoxCode": "8545480024",
+      "displayBoxCode": "8545480-024",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-jin/10360905.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8545480-024/69/",
+      "price": 49000,
+      "priceWithFee": 50715,
+      "transactedAt": "2026-06-22 22:09:40",
+      "productCode": "870406001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1998年,1盎司,生肖,年戊,戊寅,寅虎,虎年,年生,肖盎,盎司,司精,精制,制金,金币,评级"
+    }
+  ]
+}

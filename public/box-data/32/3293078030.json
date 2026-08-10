@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "3293078030",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "3293078030",
+      "displayBoxCode": "3293078-030",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2009年美国波多黎各银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/476489.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3293078-030/70/",
+      "price": 270,
+      "priceWithFee": null,
+      "transactedAt": "2025-05-08 20:37:57",
+      "productCode": "AA561397",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250505/large_sell_oeagskxem9r3agdy.jpg",
+      "ocrConfidence": 29,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2009年,年美,美国,国波,波多,多黎,黎各,各银,银币,外国/特区"
+    }
+  ]
+}

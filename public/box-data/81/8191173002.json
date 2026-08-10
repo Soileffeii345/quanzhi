@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8191173002",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8191173002",
+      "displayBoxCode": "8191173-002",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2022年1公斤生肖虎银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/553248.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8191173-002/69/",
+      "price": 34000,
+      "priceWithFee": null,
+      "transactedAt": "2026-02-07 23:45:21",
+      "productCode": "KH118310",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260207/large_sell_gu4uzydcihjxpryb.jpg",
+      "ocrConfidence": 42,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2022年,1公斤,生肖,年公,公斤,斤生,肖虎,虎银,银币"
+    }
+  ]
+}

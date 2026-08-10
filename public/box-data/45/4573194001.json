@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4573194001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4573194001",
+      "displayBoxCode": "4573194-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2018年30克吉祥文化寿居耄耋银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/453422.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4573194-001/70/",
+      "price": 520,
+      "priceWithFee": null,
+      "transactedAt": "2025-05-17 07:54:13",
+      "productCode": "KH066662",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20241105/large_sell_3ioqxscyz3uncvtf.jpg",
+      "ocrConfidence": 41,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2018年,30克,吉祥文化,年克,克吉,吉祥,祥文,文化,化寿,寿居,居耄,耄耋,耋银,银币"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6734008041",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6734008041",
+      "displayBoxCode": "6734008-041",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2001年辛亥革命90周年精制纪念币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/480018.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6734008-041/",
+      "price": 480,
+      "priceWithFee": null,
+      "transactedAt": "2025-10-21 22:48:43",
+      "productCode": "KH080601",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250527/large_sell_nrnxdmraa03iiobo.jpg",
+      "ocrConfidence": 38,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2001年,年辛,辛亥,亥革,革命,命周,周年,年精,精制,制纪,纪念,念币,评级"
+    }
+  ]
+}

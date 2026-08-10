@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6757586014",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6757586014",
+      "displayBoxCode": "6757586-014",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1994年1/10盎司麒麟金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/418875.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6757586-014/",
+      "price": 2050,
+      "priceWithFee": null,
+      "transactedAt": "2024-03-07 18:45:11",
+      "productCode": "AA465368",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20240227/large_sell_3ybq5uhp7qqor4ti.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1994年,10盎司,年盎,盎司,司麒,麒麟,麟金,金币"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "coinName": "2010年生肖5盎司精制银币",
+  "slug": "30e9a0f7",
+  "saleCount": 1,
+  "keywords": "银,币,2010年,5盎司,生肖,年庚,庚寅,寅虎,虎年,年生,肖盎,盎司,司精,精制,制彩,彩银,银币,评级",
+  "priceStats": {
+    "low": 3600,
+    "high": 3600,
+    "avg": 3600,
+    "latest": 3600
+  },
+  "records": [
+    {
+      "coinName": "2010年庚寅虎年生肖5盎司精制彩银币",
+      "normalizedBoxCode": "8764782001",
+      "displayBoxCode": "8764782-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 68 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10381872.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8764782-001/68/",
+      "price": 3600,
+      "priceWithFee": 3726,
+      "transactedAt": "2026-07-09 20:36:05",
+      "productCode": "872626004",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2010年,5盎司,生肖,年庚,庚寅,寅虎,虎年,年生,肖盎,盎司,司精,精制,制彩,彩银,银币,评级"
+    }
+  ]
+}

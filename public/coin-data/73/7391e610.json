@@ -1,0 +1,31 @@
+{
+  "coinName": "1992年熊猫15.552克金币",
+  "slug": "7391e610",
+  "saleCount": 1,
+  "keywords": "金,币,1992年,2盎司,熊猫,年盎,盎司,司熊,猫金,金币,币小,小字,字版",
+  "priceStats": {
+    "low": 15800,
+    "high": 15800,
+    "avg": 15800,
+    "latest": 15800
+  },
+  "records": [
+    {
+      "coinName": "1992年1/2盎司熊猫金币(小字版)",
+      "normalizedBoxCode": "6725240002",
+      "displayBoxCode": "6725240-002",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/476857.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6725240-002/69/",
+      "price": 15800,
+      "priceWithFee": null,
+      "transactedAt": "2025-10-20 21:04:12",
+      "productCode": "KH088444",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1992年,2盎司,熊猫,年盎,盎司,司熊,猫金,金币,币小,小字,字版"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "coinName": "2024年2盎司银币",
+  "slug": "386c12f0",
+  "saleCount": 1,
+  "keywords": "银,币,2024年,2盎司,年乍,乍得,得盎,盎司,司龙,龙舟,舟异,异形,形银,银币",
+  "priceStats": {
+    "low": 2300,
+    "high": 2300,
+    "avg": 2300,
+    "latest": 2300
+  },
+  "records": [
+    {
+      "coinName": "2024年乍得2盎司龙舟异形银币",
+      "normalizedBoxCode": "6720569003",
+      "displayBoxCode": "6720569-003",
+      "gradingCompany": "NGC",
+      "grade": "MS 70",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/437691.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6720569-003/70/",
+      "price": 2300,
+      "priceWithFee": null,
+      "transactedAt": "2024-06-21 22:19:13",
+      "productCode": "AA487200",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2024年,2盎司,年乍,乍得,得盎,盎司,司龙,龙舟,舟异,异形,形银,银币"
+    }
+  ]
+}

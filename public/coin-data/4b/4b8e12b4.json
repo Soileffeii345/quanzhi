@@ -1,0 +1,31 @@
+{
+  "coinName": "1991年熊猫2盎司金币",
+  "slug": "4b8e12b4",
+  "saleCount": 1,
+  "keywords": "金,银,币,1991年,2盎司,熊猫,年盎,盎司,司熊,猫金,金币,币发,发行,行周,周年,年银,银币",
+  "priceStats": {
+    "low": 4200,
+    "high": 4200,
+    "avg": 4200,
+    "latest": 4200
+  },
+  "records": [
+    {
+      "coinName": "1991年2盎司熊猫金币发行10周年银币",
+      "normalizedBoxCode": "8777068086",
+      "displayBoxCode": "8777068-086",
+      "gradingCompany": "NGC",
+      "grade": "PF69 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/591791.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8777068-086/69/",
+      "price": 4200,
+      "priceWithFee": null,
+      "transactedAt": "2026-07-11 18:37:50",
+      "productCode": "AA659444",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,1991年,2盎司,熊猫,年盎,盎司,司熊,猫金,金币,币发,发行,行周,周年,年银,银币"
+    }
+  ]
+}

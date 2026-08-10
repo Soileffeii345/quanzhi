@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2400764081",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2400764081",
+      "displayBoxCode": "2400764-081",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2002年香港特别行政区政府港币拾元塑料钞",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/liantichao-jinianchao/10384851.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2400764-081/",
+      "price": 95,
+      "priceWithFee": 102.6,
+      "transactedAt": "2026-07-07 19:05:20",
+      "productCode": "873464001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/20/860499071B.jpg",
+      "ocrConfidence": 28,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,钞,2002年,年香,香港,港特,特别,别行,行政,政区,区政,政府,府港,港币,币拾,拾元,元塑,塑料,料钞,外国/特区"
+    }
+  ]
+}

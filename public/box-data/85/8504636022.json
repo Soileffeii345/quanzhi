@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8504636022",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8504636022",
+      "displayBoxCode": "8504636-022",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1992年加拿大金斯顿约克驿站马车25.175克银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/wgjsbizhang/10354160.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8504636-022/",
+      "price": 530,
+      "priceWithFee": 561.8,
+      "transactedAt": "2026-06-19 20:26:05",
+      "productCode": "869380021",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/869380021A.jpg",
+      "ocrConfidence": 37,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,1992年,25.175克,年加,加拿,拿大,大金,金斯,斯顿,顿约,约克,克驿,驿站,站马,马车,车克,克银,银币,外国/特区"
+    }
+  ]
+}

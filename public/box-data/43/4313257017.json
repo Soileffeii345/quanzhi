@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4313257017",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4313257017",
+      "displayBoxCode": "4313257-017",
+      "gradingCompany": "NGC",
+      "grade": "PF 67 ULTRA CAMEO",
+      "coinName": "2000年敦煌藏经洞发现100周年精制纪念币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/553593.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4313257-017/67/",
+      "price": 400,
+      "priceWithFee": null,
+      "transactedAt": "2026-07-29 14:06:12",
+      "productCode": "KH142214",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260208/large_sell_gvuh0tsu1d56otlx.jpg",
+      "ocrConfidence": 52,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2000年,年敦,敦煌,煌藏,藏经,经洞,洞发,发现,现周,周年,年精,精制,制纪,纪念,念币,评级"
+    }
+  ]
+}

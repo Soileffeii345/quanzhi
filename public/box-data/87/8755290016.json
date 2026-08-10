@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8755290016",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8755290016",
+      "displayBoxCode": "8755290-016",
+      "gradingCompany": "NGC",
+      "grade": "PF 68 ULTRA CAMEO",
+      "coinName": "1985年中国杰出历史人物第（2）组-屈原22克精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10367492.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8755290-016/68/",
+      "price": 490,
+      "priceWithFee": 507.15,
+      "transactedAt": "2026-06-29 20:29:20",
+      "productCode": "871175004",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/26/871175004A.jpg",
+      "ocrConfidence": 41,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1985年,22克,年中,中国,国杰,杰出,出历,历史,史人,人物,物第,第组,组屈,屈原,原克,克精,精制,制银,银币,评级"
+    }
+  ]
+}

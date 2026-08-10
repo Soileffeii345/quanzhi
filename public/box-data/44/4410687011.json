@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4410687011",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4410687011",
+      "displayBoxCode": "4410687-011",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2016年世界遗产-大足石刻精制金银币二枚一套（含8克金、30克银）",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10405171.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4410687-011/",
+      "price": 9600,
+      "priceWithFee": 9936,
+      "transactedAt": "2026-07-16 21:09:15",
+      "productCode": "875719001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/06/838580007A.jpg",
+      "ocrConfidence": 39,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,2016年,8克,年世,世界,界遗,遗产,产大,大足,足石,石刻,刻精,精制,制金,金银,银币,币二,二枚,枚一,一套,套含,含克,克金,金克,克银,评级"
+    }
+  ]
+}

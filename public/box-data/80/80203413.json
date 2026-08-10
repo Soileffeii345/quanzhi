@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "80203413",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "80203413",
+      "displayBoxCode": "80203413",
+      "gradingCompany": "PCGS",
+      "grade": "待复核",
+      "coinName": "2007年1盎司中国探月首发成功银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/534517.html",
+      "officialCertUrl": "https://cn.pcgs.com/cert/80203413",
+      "price": 950,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-29 20:18:53",
+      "productCode": "KH113638",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260119/large_sell_r3szhrwkxwnbepj3.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2007年,1盎司,年盎,盎司,司中,中国,国探,探月,月首,首发,发成,成功,功银,银币"
+    }
+  ]
+}

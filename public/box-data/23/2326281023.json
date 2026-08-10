@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2326281023",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2326281023",
+      "displayBoxCode": "2326281-023",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "民国三十三年北海银行山东地名拾圆",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jiefangquzhichao/10353234.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2326281-023/",
+      "price": 2500,
+      "priceWithFee": 2775,
+      "transactedAt": "2026-07-09 21:25:50",
+      "productCode": "869222005",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/869222005B.jpg",
+      "ocrConfidence": 27,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国三,三十,十三,三年,年北,北海,海银,银行,行山,山东,东地,地名,名拾,拾圆"
+    }
+  ]
+}

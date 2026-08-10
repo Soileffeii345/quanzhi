@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6719565065",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6719565065",
+      "displayBoxCode": "6719565-065",
+      "gradingCompany": "NGC",
+      "grade": "PF 68 ULTRA CAMEO",
+      "coinName": "1996年澳门鼠年生肖15.98克金币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10390205.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6719565-065/68/",
+      "price": 18600,
+      "priceWithFee": 19251,
+      "transactedAt": "2026-07-09 21:14:05",
+      "productCode": "873987001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/873987001A.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1996年,15.98克,生肖,年澳,澳门,门鼠,鼠年,年生,肖克,克金,金币,外国/特区"
+    }
+  ]
+}

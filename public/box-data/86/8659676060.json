@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8659676060",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8659676060",
+      "displayBoxCode": "8659676-060",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2005年世界文化遗产-青城山与都江堰精制流通纪念币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10369521.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8659676-060/",
+      "price": 130,
+      "priceWithFee": 140.4,
+      "transactedAt": "2026-07-01 19:13:05",
+      "productCode": "871224015",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/26/871224015A.jpg",
+      "ocrConfidence": 32,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2005年,年世,世界,界文,文化,化遗,遗产,产青,青城,城山,山与,与都,都江,江堰,堰精,精制,制流,流通,通纪,纪念,念币,评级"
+    }
+  ]
+}

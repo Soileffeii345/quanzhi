@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4379714024",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4379714024",
+      "displayBoxCode": "4379714-024",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2008年1/3盎司第29届奥运会第3组金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/503746.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4379714-024/70/",
+      "price": 23130,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-21 10:42:14",
+      "productCode": "KH109902",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250930/large_sell_lyorqbyzawdgosjd.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2008年,3盎司,奥运,年盎,盎司,司第,第届,届奥,运会,会第,第组,组金,金币"
+    }
+  ]
+}

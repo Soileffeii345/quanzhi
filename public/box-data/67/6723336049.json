@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6723336049",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6723336049",
+      "displayBoxCode": "6723336-049",
+      "gradingCompany": "NGC",
+      "grade": "PF69 ULTRA CAMEO",
+      "coinName": "1999年己卯兔年生肖1/2盎司梅花形精制金币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-jin/10359384.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6723336-049/69/",
+      "price": 18400,
+      "priceWithFee": 19044,
+      "transactedAt": "2026-06-25 20:26:05",
+      "productCode": "869701002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/869701002A.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1999年,2盎司,生肖,年己,己卯,卯兔,兔年,年生,肖盎,盎司,司梅,梅花,花形,形精,精制,制金,金币,评级"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6050619066",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6050619066",
+      "displayBoxCode": "6050619-066",
+      "gradingCompany": "NGC",
+      "grade": "PF69 ULTRA CAMEO",
+      "coinName": "2020年紫禁城建成600年5克精制银币二枚",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10373217.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6050619-066/69/",
+      "price": 360,
+      "priceWithFee": 372.6,
+      "transactedAt": "2026-07-13 21:59:45",
+      "productCode": "871910001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/27/871910001A.jpg",
+      "ocrConfidence": 41,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2020年,5克,年紫,紫禁,禁城,城建,建成,成年,年克,克精,精制,制银,银币,币二,二枚,评级"
+    }
+  ]
+}

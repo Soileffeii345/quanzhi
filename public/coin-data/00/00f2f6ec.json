@@ -1,0 +1,82 @@
+{
+  "coinName": "民国三十六年中央银行关金贰仟圆",
+  "slug": "00f2f6ec",
+  "saleCount": 4,
+  "keywords": "金,银,历史币,民国,国三,三十,十六,六年,年中,中央,央银,银行,行关,关金,金贰,贰仟,仟圆",
+  "priceStats": {
+    "low": 310,
+    "high": 750,
+    "avg": 443,
+    "latest": 380
+  },
+  "records": [
+    {
+      "coinName": "民国三十六年中央银行关金贰仟圆",
+      "normalizedBoxCode": "1907959054",
+      "displayBoxCode": "1907959-054",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10367312.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1907959-054/",
+      "price": 380,
+      "priceWithFee": 421.8,
+      "transactedAt": "2026-07-21 21:45:20",
+      "productCode": "870332013",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,历史币,民国,国三,三十,十六,六年,年中,中央,央银,银行,行关,关金,金贰,贰仟,仟圆"
+    },
+    {
+      "coinName": "民国三十六年中央银行关金贰仟圆",
+      "normalizedBoxCode": "2118321046",
+      "displayBoxCode": "2118321-046",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10367305.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2118321-046/",
+      "price": 330,
+      "priceWithFee": 366.3,
+      "transactedAt": "2026-07-21 21:44:35",
+      "productCode": "870332006",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,历史币,民国,国三,三十,十六,六年,年中,中央,央银,银行,行关,关金,金贰,贰仟,仟圆"
+    },
+    {
+      "coinName": "民国三十六年中央银行关金贰仟圆",
+      "normalizedBoxCode": "7001935005",
+      "displayBoxCode": "7001935-005",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10367302.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/7001935-005/",
+      "price": 310,
+      "priceWithFee": 344.1,
+      "transactedAt": "2026-07-21 21:51:35",
+      "productCode": "870332003",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,历史币,民国,国三,三十,十六,六年,年中,中央,央银,银行,行关,关金,金贰,贰仟,仟圆"
+    },
+    {
+      "coinName": "民国三十六年中央银行关金贰仟圆",
+      "normalizedBoxCode": "8019407022",
+      "displayBoxCode": "8019407-022",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10367316.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8019407-022/",
+      "price": 750,
+      "priceWithFee": 832.5,
+      "transactedAt": "2026-07-21 21:36:35",
+      "productCode": "870332017",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,历史币,民国,国三,三十,十六,六年,年中,中央,央银,银行,行关,关金,金贰,贰仟,仟圆"
+    }
+  ]
+}

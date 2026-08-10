@@ -1,0 +1,65 @@
+{
+  "coinName": "2013年黄山5盎司金币",
+  "slug": "67ffe3a1",
+  "saleCount": 3,
+  "keywords": "金,币,2013年,5盎司,名山,年盎,盎司,司黄,黄山,山金,金币",
+  "priceStats": {
+    "low": 123575,
+    "high": 184170,
+    "avg": 157308,
+    "latest": 184170
+  },
+  "records": [
+    {
+      "coinName": "2013年5盎司黄山金币",
+      "normalizedBoxCode": "4417093003",
+      "displayBoxCode": "4417093-003",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/547858.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4417093-003/69/",
+      "price": 184170,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-30 00:07:26",
+      "productCode": "KH116342",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2013年,5盎司,名山,年盎,盎司,司黄,黄山,山金,金币"
+    },
+    {
+      "coinName": "2013年5盎司黄山金币",
+      "normalizedBoxCode": "4417093003",
+      "displayBoxCode": "4417093-003",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/531620.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4417093-003/69/",
+      "price": 164180,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-14 19:44:55",
+      "productCode": "KH105458",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2013年,5盎司,名山,年盎,盎司,司黄,黄山,山金,金币"
+    },
+    {
+      "coinName": "2013年5盎司黄山金币",
+      "normalizedBoxCode": "4417093003",
+      "displayBoxCode": "4417093-003",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/490443.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4417093-003/69/",
+      "price": 123575,
+      "priceWithFee": null,
+      "transactedAt": "2025-07-24 04:37:55",
+      "productCode": "KH076412",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2013年,5盎司,名山,年盎,盎司,司黄,黄山,山金,金币"
+    }
+  ]
+}

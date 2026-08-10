@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2074699002",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2074699002",
+      "displayBoxCode": "2074699-002",
+      "gradingCompany": "NGC",
+      "grade": "MS 68",
+      "coinName": "1980年长城1元(无砖)",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/498400.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2074699-002/68/",
+      "price": 4350,
+      "priceWithFee": null,
+      "transactedAt": "2025-09-05 10:52:04",
+      "productCode": "KH082107",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250904/large_sell_rg0qk0ndnzbn5orl.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "1980年,年长,长城,城元,元无,无砖"
+    }
+  ]
+}

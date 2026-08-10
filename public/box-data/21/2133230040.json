@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2133230040",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2133230040",
+      "displayBoxCode": "2133230-040",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "第四套/第四版人民币1980年版100元",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/disibanrenminbi/10431561.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2133230-040/",
+      "price": 610,
+      "priceWithFee": 658.8,
+      "transactedAt": "2026-07-28 21:01:20",
+      "productCode": "878698007",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/878698007B.jpg",
+      "ocrConfidence": 29,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1980年,第四,四套,套第,四版,版人,人民,民币,币年,年版,版元"
+    }
+  ]
+}

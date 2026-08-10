@@ -1,0 +1,48 @@
+{
+  "coinName": "1993年生肖31.104克精制金币",
+  "slug": "256faa9c",
+  "saleCount": 2,
+  "keywords": "金,币,1993年,1盎司,生肖,年癸,癸酉,酉鸡,鸡年,年生,肖盎,盎司,司精,精制,制金,金币,评级",
+  "priceStats": {
+    "low": 40500,
+    "high": 43000,
+    "avg": 41750,
+    "latest": 43000
+  },
+  "records": [
+    {
+      "coinName": "1993年癸酉鸡年生肖1盎司精制金币",
+      "normalizedBoxCode": "6194549001",
+      "displayBoxCode": "6194549-001",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-jin/10423018.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6194549-001/",
+      "price": 43000,
+      "priceWithFee": 44505,
+      "transactedAt": "2026-07-23 20:52:35",
+      "productCode": "877835003",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1993年,1盎司,生肖,年癸,癸酉,酉鸡,鸡年,年生,肖盎,盎司,司精,精制,制金,金币,评级"
+    },
+    {
+      "coinName": "1993年癸酉鸡年生肖1盎司精制金币",
+      "normalizedBoxCode": "8447049001",
+      "displayBoxCode": "8447049-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-jin/10361110.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8447049-001/69/",
+      "price": 40500,
+      "priceWithFee": 41917.5,
+      "transactedAt": "2026-06-25 21:00:35",
+      "productCode": "870436010",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1993年,1盎司,生肖,年癸,癸酉,酉鸡,鸡年,年生,肖盎,盎司,司精,精制,制金,金币,评级"
+    }
+  ]
+}

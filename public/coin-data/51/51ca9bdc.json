@@ -1,0 +1,31 @@
+{
+  "coinName": "富滇银行贰角",
+  "slug": "51ca9bdc",
+  "saleCount": 1,
+  "keywords": "银,富滇,滇银,银行,行贰,贰角",
+  "priceStats": {
+    "low": 960,
+    "high": 960,
+    "avg": 960,
+    "latest": 960
+  },
+  "records": [
+    {
+      "coinName": "富滇银行贰角",
+      "normalizedBoxCode": "2277872024",
+      "displayBoxCode": "2277872-024",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/minguoshengshigejiyinhangzhichao/10369547.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2277872-024/",
+      "price": 960,
+      "priceWithFee": 1065.6,
+      "transactedAt": "2026-07-16 20:53:40",
+      "productCode": "871031012",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,富滇,滇银,银行,行贰,贰角"
+    }
+  ]
+}

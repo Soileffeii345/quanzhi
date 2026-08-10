@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8180073007",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8180073007",
+      "displayBoxCode": "8180073-007",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2026年30克梅花形生肖马彩银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/527641.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8180073-007/70/",
+      "price": 2200,
+      "priceWithFee": null,
+      "transactedAt": "2026-02-14 00:04:04",
+      "productCode": "AA607878",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260104/large_sell_01twwoqr3tnzm0el.jpg",
+      "ocrConfidence": 30,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2026年,30克,生肖,年克,克梅,梅花,花形,形生,肖马,马彩,彩银,银币"
+    }
+  ]
+}

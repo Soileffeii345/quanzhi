@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6181002059",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6181002059",
+      "displayBoxCode": "6181002-059",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1995年1/2盎司观音银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/549937.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6181002-059/69/",
+      "price": 7800,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-29 16:08:19",
+      "productCode": "KH116204",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260129/large_sell_zev76ddgbntjz3ig.jpg",
+      "ocrConfidence": 48,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1995年,2盎司,宗教,年盎,盎司,司观,观音,音银,银币"
+    }
+  ]
+}

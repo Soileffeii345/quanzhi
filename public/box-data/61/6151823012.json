@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6151823012",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6151823012",
+      "displayBoxCode": "6151823-012",
+      "gradingCompany": "NGC",
+      "grade": "PF70 ULTRA CAMEO",
+      "coinName": "2019年5克北京世园会金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/523758.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6151823-012/70/",
+      "price": 5155,
+      "priceWithFee": null,
+      "transactedAt": "2025-12-23 10:37:39",
+      "productCode": "KH097347",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251223/large_sell_byuzwzmbn5l8juvi.jpg",
+      "ocrConfidence": 49,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2019年,5克,年克,克北,北京,京世,世园,园会,会金,金币"
+    }
+  ]
+}

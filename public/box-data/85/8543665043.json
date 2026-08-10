@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8543665043",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8543665043",
+      "displayBoxCode": "8543665-043",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1987年5盎司美国长滩钱币邮票展银章",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/576509.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8543665-043/69/",
+      "price": 4850,
+      "priceWithFee": null,
+      "transactedAt": "2026-05-15 21:27:42",
+      "productCode": "KH133391",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260428/large_sell_qoeomrndneagihtn.jpg",
+      "ocrConfidence": 37,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,钞,章,1987年,5盎司,年盎,盎司,司美,美国,国长,长滩,滩钱,钱币,币邮,邮票,票展,展银,银章,外国/特区"
+    }
+  ]
+}

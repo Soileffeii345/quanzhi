@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8205432031",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8205432031",
+      "displayBoxCode": "8205432-031",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "coinName": "1995年熊猫1/2盎司普制银币（大字版）",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-jiuyin/10377232.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8205432-031/69/",
+      "price": 3800,
+      "priceWithFee": 3933,
+      "transactedAt": "2026-07-06 21:40:30",
+      "productCode": "871787002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/26/871787002A.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1995年,2盎司,熊猫,年熊,猫盎,盎司,司普,普制,制银,银币,币大,大字,字版"
+    }
+  ]
+}

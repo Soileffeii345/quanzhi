@@ -1,0 +1,31 @@
+{
+  "coinName": "1989年毛里塔尼亚纸币",
+  "slug": "7085673e",
+  "saleCount": 1,
+  "keywords": "币,1989年,年毛,毛里,里塔,塔尼,尼亚,亚纸,纸币",
+  "priceStats": {
+    "low": 190,
+    "high": 190,
+    "avg": 190,
+    "latest": 190
+  },
+  "records": [
+    {
+      "coinName": "1989年毛里塔尼亚纸币",
+      "normalizedBoxCode": "2400758013",
+      "displayBoxCode": "2400758-013",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10372893.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2400758-013/",
+      "price": 190,
+      "priceWithFee": 210.9,
+      "transactedAt": "2026-06-30 22:42:05",
+      "productCode": "871226067",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1989年,年毛,毛里,里塔,塔尼,尼亚,亚纸,纸币"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8522705002",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8522705002",
+      "displayBoxCode": "8522705-002",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1988年英国1/4盎司不列颠女神金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/497490.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8522705-002/69/",
+      "price": 6235,
+      "priceWithFee": null,
+      "transactedAt": "2025-08-31 10:06:55",
+      "productCode": "KH080335",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250831/large_sell_kanu1zmrhjbbsiw6.jpg",
+      "ocrConfidence": 49,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1988年,4盎司,年英,英国,国盎,盎司,司不,不列,列颠,颠女,女神,神金,金币,外国/特区"
+    }
+  ]
+}

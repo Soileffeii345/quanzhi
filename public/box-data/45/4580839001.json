@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4580839001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4580839001",
+      "displayBoxCode": "4580839-001",
+      "gradingCompany": "NGC",
+      "grade": "MS 70",
+      "coinName": "2018年熊猫普制金币五枚一套（含1克、3克、8克、15克、30克）",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-xinjin/10398837.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4580839-001/70/",
+      "price": 58000,
+      "priceWithFee": 60030,
+      "transactedAt": "2026-07-23 20:21:45",
+      "productCode": "874356027",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/874356027A.jpg",
+      "ocrConfidence": 41,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2018年,1克,熊猫,年熊,猫普,普制,制金,金币,币五,五枚,枚一,一套,套含,含克,克克"
+    }
+  ]
+}

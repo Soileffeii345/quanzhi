@@ -1,0 +1,31 @@
+{
+  "coinName": "民国三十七年关东银行壹圆",
+  "slug": "1297c53c",
+  "saleCount": 1,
+  "keywords": "银,历史币,民国,国三,三十,十七,七年,年关,关东,东银,银行,行壹,壹圆",
+  "priceStats": {
+    "low": 8600,
+    "high": 8600,
+    "avg": 8600,
+    "latest": 8600
+  },
+  "records": [
+    {
+      "coinName": "民国三十七年关东银行壹圆",
+      "normalizedBoxCode": "1910933005",
+      "displayBoxCode": "1910933-005",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jiefangquzhichao/10374611.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1910933-005/",
+      "price": 8600,
+      "priceWithFee": 9546,
+      "transactedAt": "2026-07-16 21:13:10",
+      "productCode": "871383001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国三,三十,十七,七年,年关,关东,东银,银行,行壹,壹圆"
+    }
+  ]
+}

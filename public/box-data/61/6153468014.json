@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6153468014",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6153468014",
+      "displayBoxCode": "6153468-014",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "中华苏维埃共和国一分铜币（后铸版）",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguojindaijizhibi/10364124.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6153468-014/",
+      "price": 35,
+      "priceWithFee": 37.8,
+      "transactedAt": "2026-07-20 19:58:35",
+      "productCode": "870114004",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/26/870114004A.jpg",
+      "ocrConfidence": 45,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "铜,币,历史币,苏区,中华,华苏,苏维,维埃,埃共,共和,和国,国一,一分,分铜,铜币,币后,后铸,铸版"
+    }
+  ]
+}

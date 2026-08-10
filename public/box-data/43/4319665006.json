@@ -1,0 +1,45 @@
+{
+  "ok": true,
+  "query": "4319665006",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4319665006",
+      "displayBoxCode": "4319665-006",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2016年1/10盎司生肖猴金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/499215.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4319665-006/",
+      "price": 2630,
+      "priceWithFee": null,
+      "transactedAt": "2025-09-09 10:55:35",
+      "productCode": "AA577156A",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250806/large_sell_xfwqb40fbldkbgzs.jpg",
+      "ocrConfidence": 37,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2016年,10盎司,生肖,年盎,盎司,司生,肖猴,猴金,金币"
+    },
+    {
+      "normalizedBoxCode": "4319665006",
+      "displayBoxCode": "4319665-006",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2016年1/10盎司生肖猴金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/493063.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4319665-006/",
+      "price": 2470,
+      "priceWithFee": null,
+      "transactedAt": "2025-08-11 12:31:14",
+      "productCode": "AA577156",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250806/large_sell_xfwqb40fbldkbgzs.jpg",
+      "ocrConfidence": 37,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2016年,10盎司,生肖,年盎,盎司,司生,肖猴,猴金,金币"
+    }
+  ]
+}

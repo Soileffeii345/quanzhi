@@ -1,0 +1,31 @@
+{
+  "coinName": "2026年吉祥文化5克精制金币",
+  "slug": "178842f4",
+  "saleCount": 1,
+  "keywords": "金,币,2026年,5克,吉祥文化,年吉,吉祥,祥文,文化,化克,克如,如意,意形,形精,精制,制金,金币,评级",
+  "priceStats": {
+    "low": 6600,
+    "high": 6600,
+    "avg": 6600,
+    "latest": 6600
+  },
+  "records": [
+    {
+      "coinName": "2026年吉祥文化5克如意形精制金币",
+      "normalizedBoxCode": "8815555025",
+      "displayBoxCode": "8815555-025",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10371759.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8815555-025/70/",
+      "price": 6600,
+      "priceWithFee": 6831,
+      "transactedAt": "2026-06-27 21:50:35",
+      "productCode": "871729001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2026年,5克,吉祥文化,年吉,吉祥,祥文,文化,化克,克如,如意,意形,形精,精制,制金,金币,评级"
+    }
+  ]
+}

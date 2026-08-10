@@ -1,0 +1,31 @@
+{
+  "coinName": "第一版人民币正阳门500元票样",
+  "slug": "61c8533a",
+  "saleCount": 1,
+  "keywords": "币,钞,第一,一版,版人,人民,民币,币正,正阳,阳门,门元,元票,票样",
+  "priceStats": {
+    "low": 15400,
+    "high": 15400,
+    "avg": 15400,
+    "latest": 15400
+  },
+  "records": [
+    {
+      "coinName": "第一版人民币正阳门500元票样",
+      "normalizedBoxCode": "2146536013",
+      "displayBoxCode": "2146536-013",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/diyibanrenminbi/10388168.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2146536-013/",
+      "price": 15400,
+      "priceWithFee": 16940,
+      "transactedAt": "2026-07-09 20:41:40",
+      "productCode": "872987003",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,钞,第一,一版,版人,人民,民币,币正,正阳,阳门,门元,元票,票样"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "3683919022",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "3683919022",
+      "displayBoxCode": "3683919-022",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1987年美国宪法200周年精制银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/520815.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3683919-022/",
+      "price": 550,
+      "priceWithFee": null,
+      "transactedAt": "2025-12-28 04:27:22",
+      "productCode": "KH095175",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251215/large_sell_ifdzyqzinobzko30.jpg",
+      "ocrConfidence": 29,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1987年,年美,美国,国宪,宪法,法周,周年,年精,精制,制银,银币,评级,外国/特区"
+    }
+  ]
+}

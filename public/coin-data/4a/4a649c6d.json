@@ -1,0 +1,31 @@
+{
+  "coinName": "1994年铜币",
+  "slug": "4a649c6d",
+  "saleCount": 1,
+  "keywords": "铜,币,章,1994年,宗教,年观,观音,音铜,铜章,章上,上币",
+  "priceStats": {
+    "low": 500,
+    "high": 500,
+    "avg": 500,
+    "latest": 500
+  },
+  "records": [
+    {
+      "coinName": "1994年观音铜章(上币36)",
+      "normalizedBoxCode": "6756357002",
+      "displayBoxCode": "6756357-002",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/465020.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6756357-002/69/",
+      "price": 500,
+      "priceWithFee": null,
+      "transactedAt": "2025-04-09 05:21:03",
+      "productCode": "KH063847",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "铜,币,章,1994年,宗教,年观,观音,音铜,铜章,章上,上币"
+    }
+  ]
+}

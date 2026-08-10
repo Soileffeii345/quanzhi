@@ -1,0 +1,48 @@
+{
+  "coinName": "2014年2盎司银币",
+  "slug": "4c2a3e0f",
+  "saleCount": 2,
+  "keywords": "银,章,2014年,2盎司,年盎,盎司,司古,古典,典园,园林,林圆,圆明,明园,园银,银章",
+  "priceStats": {
+    "low": 900,
+    "high": 1000,
+    "avg": 950,
+    "latest": 1000
+  },
+  "records": [
+    {
+      "coinName": "2014年2盎司古典园林圆明园银章",
+      "normalizedBoxCode": "4584077034",
+      "displayBoxCode": "4584077-034",
+      "gradingCompany": "NGC",
+      "grade": "PF 67 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/520349.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4584077-034/67/",
+      "price": 1000,
+      "priceWithFee": null,
+      "transactedAt": "2025-12-22 10:48:11",
+      "productCode": "KH094957",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,章,2014年,2盎司,年盎,盎司,司古,古典,典园,园林,林圆,圆明,明园,园银,银章"
+    },
+    {
+      "coinName": "2014年2盎司古典园林圆明园银章",
+      "normalizedBoxCode": "4638199087",
+      "displayBoxCode": "4638199-087",
+      "gradingCompany": "NGC",
+      "grade": "PF67 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/517568.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4638199-087/67/",
+      "price": 900,
+      "priceWithFee": null,
+      "transactedAt": "2025-12-12 21:36:26",
+      "productCode": "KH094308",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,章,2014年,2盎司,年盎,盎司,司古,古典,典园,园林,林圆,圆明,明园,园银,银章"
+    }
+  ]
+}

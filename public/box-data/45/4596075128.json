@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4596075128",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4596075128",
+      "displayBoxCode": "4596075-128",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2017年30克熊猫银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/511346.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4596075-128/",
+      "price": 480,
+      "priceWithFee": null,
+      "transactedAt": "2025-11-13 10:26:06",
+      "productCode": "KH090392",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251108/large_sell_n4mtyi8zg6dgpoyz.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2017年,30克,熊猫,年克,克熊,猫银,银币"
+    }
+  ]
+}

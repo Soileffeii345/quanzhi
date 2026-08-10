@@ -1,0 +1,45 @@
+{
+  "ok": true,
+  "query": "8617858054",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8617858054",
+      "displayBoxCode": "8617858-054",
+      "gradingCompany": "NGC",
+      "grade": "MS 67",
+      "coinName": "1993年中国珍稀野生动物-大熊猫流通纪念币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10405373.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8617858-054/67/",
+      "price": 180,
+      "priceWithFee": 194.4,
+      "transactedAt": "2026-07-22 20:21:45",
+      "productCode": "875755001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/869714007A.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1993年,熊猫,年中,中国,国珍,珍稀,稀野,野生,生动,动物,物大,大熊,猫流,流通,通纪,纪念,念币"
+    },
+    {
+      "normalizedBoxCode": "8617858054",
+      "displayBoxCode": "8617858-054",
+      "gradingCompany": "NGC",
+      "grade": "MS 67",
+      "coinName": "1993年中国珍稀野生动物-大熊猫流通纪念币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10362256.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8617858-054/67/",
+      "price": 180,
+      "priceWithFee": 194.4,
+      "transactedAt": "2026-06-24 20:06:05",
+      "productCode": "869714007",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/869714007A.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1993年,熊猫,年中,中国,国珍,珍稀,稀野,野生,生动,动物,物大,大熊,猫流,流通,通纪,纪念,念币"
+    }
+  ]
+}

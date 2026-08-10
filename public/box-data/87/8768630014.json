@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8768630014",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8768630014",
+      "displayBoxCode": "8768630-014",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2006年北京国际邮票钱币博览会熊猫加字1盎司普制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10397617.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8768630-014/",
+      "price": 930,
+      "priceWithFee": 962.55,
+      "transactedAt": "2026-07-13 20:31:00",
+      "productCode": "874841007",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/874841007A.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,钞,2006年,1盎司,熊猫,年北,北京,京国,国际,际邮,邮票,票钱,钱币,币博,博览,览会,会熊,猫加,加字,字盎,盎司,司普,普制,制银,银币"
+    }
+  ]
+}

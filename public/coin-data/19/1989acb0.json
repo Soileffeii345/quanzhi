@@ -1,0 +1,31 @@
+{
+  "coinName": "1903年62克银币",
+  "slug": "1989acb0",
+  "saleCount": 1,
+  "keywords": "银,章,1903年,62克,年英,英国,国约,约瑟,瑟夫,夫张,张伯,伯伦,伦出,出访,访南,南非,非克,克银,银章,外国/特区",
+  "priceStats": {
+    "low": 2050,
+    "high": 2050,
+    "avg": 2050,
+    "latest": 2050
+  },
+  "records": [
+    {
+      "coinName": "1903年英国约瑟夫张伯伦出访南非62克银章",
+      "normalizedBoxCode": "8614186004",
+      "displayBoxCode": "8614186-004",
+      "gradingCompany": "NGC",
+      "grade": "MS 62",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/wgjsbizhang/10379006.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8614186-004/62/",
+      "price": 2050,
+      "priceWithFee": 2173,
+      "transactedAt": "2026-07-03 19:27:35",
+      "productCode": "872197002",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,章,1903年,62克,年英,英国,国约,约瑟,瑟夫,夫张,张伯,伯伦,伦出,出访,访南,南非,非克,克银,银章,外国/特区"
+    }
+  ]
+}

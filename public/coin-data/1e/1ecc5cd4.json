@@ -1,0 +1,31 @@
+{
+  "coinName": "1983年熊猫15.552克普制金币",
+  "slug": "1ecc5cd4",
+  "saleCount": 1,
+  "keywords": "金,币,1983年,2盎司,熊猫,年熊,猫盎,盎司,司普,普制,制金,金币",
+  "priceStats": {
+    "low": 19400,
+    "high": 19400,
+    "avg": 19400,
+    "latest": 19400
+  },
+  "records": [
+    {
+      "coinName": "1983年熊猫1/2盎司普制金币",
+      "normalizedBoxCode": "8299718013",
+      "displayBoxCode": "8299718-013",
+      "gradingCompany": "NGC",
+      "grade": "MS69",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-jiujin/10381066.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8299718-013/69/",
+      "price": 19400,
+      "priceWithFee": 20079,
+      "transactedAt": "2026-07-09 21:38:05",
+      "productCode": "872764001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1983年,2盎司,熊猫,年熊,猫盎,盎司,司普,普制,制金,金币"
+    }
+  ]
+}

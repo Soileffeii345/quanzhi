@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6004456002",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6004456002",
+      "displayBoxCode": "6004456-002",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2020年5克紫禁城建成600年银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/483035.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6004456-002/70/",
+      "price": 850,
+      "priceWithFee": null,
+      "transactedAt": "2025-07-04 08:11:17",
+      "productCode": "AA567584",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250612/large_sell_smcbn7metiqgth5x.jpg",
+      "ocrConfidence": 32,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2020年,5克,年克,克紫,紫禁,禁城,城建,建成,成年,年银,银币"
+    }
+  ]
+}

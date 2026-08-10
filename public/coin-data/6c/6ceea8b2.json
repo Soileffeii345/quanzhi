@@ -1,0 +1,48 @@
+{
+  "coinName": "1998年生肖31.104克银币",
+  "slug": "6ceea8b2",
+  "saleCount": 2,
+  "keywords": "银,币,1998年,1盎司,生肖,年盎,盎司,司生,肖虎,虎彩,彩银,银币",
+  "priceStats": {
+    "low": 1800,
+    "high": 1800,
+    "avg": 1800,
+    "latest": 1800
+  },
+  "records": [
+    {
+      "coinName": "1998年1盎司生肖虎彩银币",
+      "normalizedBoxCode": "8499353001",
+      "displayBoxCode": "8499353-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/554598.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8499353-001/69/",
+      "price": 1800,
+      "priceWithFee": null,
+      "transactedAt": "2026-02-26 20:08:38",
+      "productCode": "KH120915",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1998年,1盎司,生肖,年盎,盎司,司生,肖虎,虎彩,彩银,银币"
+    },
+    {
+      "coinName": "1998年1盎司生肖虎彩银币",
+      "normalizedBoxCode": "8650277036",
+      "displayBoxCode": "8650277-036",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/530315.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8650277-036/69/",
+      "price": 1800,
+      "priceWithFee": null,
+      "transactedAt": "2026-02-02 22:07:57",
+      "productCode": "KH116651",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1998年,1盎司,生肖,年盎,盎司,司生,肖虎,虎彩,彩银,银币"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8512738013",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8512738013",
+      "displayBoxCode": "8512738-013",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1997年珍稀动物第（5）组1盎司精制银币二枚一套",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10382273.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8512738-013/69/",
+      "price": 1780,
+      "priceWithFee": 1842.3,
+      "transactedAt": "2026-07-09 20:21:25",
+      "productCode": "872627002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/27/872627002A.jpg",
+      "ocrConfidence": 39,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1997年,1盎司,年珍,珍稀,稀动,动物,物第,第组,组盎,盎司,司精,精制,制银,银币,币二,二枚,枚一,一套,评级"
+    }
+  ]
+}

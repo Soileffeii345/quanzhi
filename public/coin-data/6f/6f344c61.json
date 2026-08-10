@@ -1,0 +1,31 @@
+{
+  "coinName": "2001年2盎司精制银币",
+  "slug": "6f344c61",
+  "saleCount": 1,
+  "keywords": "银,币,2001年,2盎司,年中,中国,国石,石窟,窟艺,艺术,术敦,敦煌,煌盎,盎司,司精,精制,制银,银币,评级",
+  "priceStats": {
+    "low": 4250,
+    "high": 4250,
+    "avg": 4250,
+    "latest": 4250
+  },
+  "records": [
+    {
+      "coinName": "2001年中国石窟艺术-敦煌2盎司精制银币",
+      "normalizedBoxCode": "8766320005",
+      "displayBoxCode": "8766320-005",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10351447.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8766320-005/",
+      "price": 4250,
+      "priceWithFee": 4398.75,
+      "transactedAt": "2026-06-25 19:34:05",
+      "productCode": "869365003",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2001年,2盎司,年中,中国,国石,石窟,窟艺,艺术,术敦,敦煌,煌盎,盎司,司精,精制,制银,银币,评级"
+    }
+  ]
+}

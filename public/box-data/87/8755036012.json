@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8755036012",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8755036012",
+      "displayBoxCode": "8755036-012",
+      "gradingCompany": "NGC",
+      "grade": "MS 68",
+      "coinName": "1996年1盎司邮政百年加字银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/590610.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8755036-012/68/",
+      "price": 1200,
+      "priceWithFee": null,
+      "transactedAt": "2026-06-19 22:06:18",
+      "productCode": "KH139109",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260616/large_sell_a6axfxurfayn06ge.jpg",
+      "ocrConfidence": 49,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1996年,1盎司,年盎,盎司,司邮,邮政,政百,百年,年加,加字,字银,银币"
+    }
+  ]
+}

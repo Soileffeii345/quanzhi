@@ -1,0 +1,65 @@
+{
+  "coinName": "2019年吉祥文化100克银币",
+  "slug": "51b4eec3",
+  "saleCount": 3,
+  "keywords": "银,币,2019年,100克,吉祥文化,年克,克吉,吉祥,祥文,文化,化寿,寿居,居耄,耄耋,耋银,银币",
+  "priceStats": {
+    "low": 3300,
+    "high": 3500,
+    "avg": 3367,
+    "latest": 3300
+  },
+  "records": [
+    {
+      "coinName": "2019年100克吉祥文化寿居耄耋银币",
+      "normalizedBoxCode": "3559599333",
+      "displayBoxCode": "3559599-333",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/582428.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3559599-333/",
+      "price": 3300,
+      "priceWithFee": null,
+      "transactedAt": "2026-07-07 13:28:40",
+      "productCode": "KH141146",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2019年,100克,吉祥文化,年克,克吉,吉祥,祥文,文化,化寿,寿居,居耄,耄耋,耋银,银币"
+    },
+    {
+      "coinName": "2019年100克吉祥文化寿居耄耋银币",
+      "normalizedBoxCode": "5803162002",
+      "displayBoxCode": "5803162-002",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/569342.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/5803162-002/70/",
+      "price": 3500,
+      "priceWithFee": null,
+      "transactedAt": "2026-04-11 10:59:42",
+      "productCode": "DB203396",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2019年,100克,吉祥文化,年克,克吉,吉祥,祥文,文化,化寿,寿居,居耄,耄耋,耋银,银币"
+    },
+    {
+      "coinName": "2019年100克吉祥文化寿居耄耋银币",
+      "normalizedBoxCode": "8649482005",
+      "displayBoxCode": "8649482-005",
+      "gradingCompany": "NGC",
+      "grade": "pF70 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/582428.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8649482-005/70/",
+      "price": 3300,
+      "priceWithFee": null,
+      "transactedAt": "2026-07-07 13:28:40",
+      "productCode": "KH141146",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2019年,100克,吉祥文化,年克,克吉,吉祥,祥文,文化,化寿,寿居,居耄,耄耋,耋银,银币"
+    }
+  ]
+}

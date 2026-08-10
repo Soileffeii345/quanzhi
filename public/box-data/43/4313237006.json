@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4313237006",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4313237006",
+      "displayBoxCode": "4313237-006",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1988年1/2盎司第24届奥运会女子剑术金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/578632.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4313237-006/69/",
+      "price": 17600,
+      "priceWithFee": null,
+      "transactedAt": "2026-05-22 16:20:33",
+      "productCode": "KH135872",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260508/large_sell_phmu8umphg2m1uwg.jpg",
+      "ocrConfidence": 51,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1988年,2盎司,奥运,年盎,盎司,司第,第届,届奥,运会,会女,女子,子剑,剑术,术金,金币"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "coinName": "1990年龙凤2克银币",
+  "slug": "6ccafa5d",
+  "saleCount": 3,
+  "keywords": "银,币,1990年,2克,年克,克龙,龙凤,凤呈,呈祥,祥银,银币",
+  "priceStats": {
+    "low": 780,
+    "high": 950,
+    "avg": 843,
+    "latest": 780
+  },
+  "records": [
+    {
+      "coinName": "1990年2克龙凤呈祥银币",
+      "normalizedBoxCode": "4546632003",
+      "displayBoxCode": "4546632-003",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/523416.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4546632-003/69/",
+      "price": 780,
+      "priceWithFee": null,
+      "transactedAt": "2025-12-24 08:46:00",
+      "productCode": "KH097077",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1990年,2克,年克,克龙,龙凤,凤呈,呈祥,祥银,银币"
+    },
+    {
+      "coinName": "1990年2克龙凤呈祥银币",
+      "normalizedBoxCode": "6202783008",
+      "displayBoxCode": "6202783-008",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/499178.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6202783-008/",
+      "price": 950,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-06 23:14:42",
+      "productCode": "KH094707",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1990年,2克,年克,克龙,龙凤,凤呈,呈祥,祥银,银币"
+    },
+    {
+      "coinName": "1990年2克龙凤呈祥银币",
+      "normalizedBoxCode": "6718167013",
+      "displayBoxCode": "6718167-013",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/494387.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6718167-013/",
+      "price": 800,
+      "priceWithFee": null,
+      "transactedAt": "2025-12-17 12:46:44",
+      "productCode": "KH093937",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1990年,2克,年克,克龙,龙凤,凤呈,呈祥,祥银,银币"
+    }
+  ]
+}

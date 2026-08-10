@@ -1,0 +1,31 @@
+{
+  "coinName": "2018年62.2克银币",
+  "slug": "1afe852e",
+  "saleCount": 1,
+  "keywords": "银,币,2018年,62.2克,年纽,纽埃,埃古,古文,文明,明历,历法,法玛,玛雅,雅历,历高,高浮,浮雕,雕克,克银,银币",
+  "priceStats": {
+    "low": 1740,
+    "high": 1740,
+    "avg": 1740,
+    "latest": 1740
+  },
+  "records": [
+    {
+      "coinName": "2018年纽埃古文明历法玛雅历高浮雕62.2克银币",
+      "normalizedBoxCode": "8504637011",
+      "displayBoxCode": "8504637-011",
+      "gradingCompany": "NGC",
+      "grade": "MS 70",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/wgjsbizhang/10354150.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8504637-011/70/",
+      "price": 1740,
+      "priceWithFee": 1844.4,
+      "transactedAt": "2026-06-19 20:12:45",
+      "productCode": "869380011",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2018年,62.2克,年纽,纽埃,埃古,古文,文明,明历,历法,法玛,玛雅,雅历,历高,高浮,浮雕,雕克,克银,银币"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "3783787065",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "3783787065",
+      "displayBoxCode": "3783787-065",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "coinName": "2007年1盎司熊猫银币 X5",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/537254.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3783787-065/69/",
+      "price": 3880,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-23 15:15:17",
+      "productCode": "KH111673.....111677",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260123/large_sell_5wley7m7h7xlxzye.jpg",
+      "ocrConfidence": 46,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2007年,1盎司,熊猫,年盎,盎司,司熊,猫银,银币"
+    }
+  ]
+}

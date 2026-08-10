@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2434182013",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2434182013",
+      "displayBoxCode": "2434182-013",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "民国三十七年东北银行地方流通券壹仟圆",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jiefangquzhichao/10371391.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2434182-013/",
+      "price": 1040,
+      "priceWithFee": 1154.4,
+      "transactedAt": "2026-07-23 21:21:40",
+      "productCode": "871162008",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/26/871162008B.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国三,三十,十七,七年,年东,东北,北银,银行,行地,地方,方流,流通,通券,券壹,壹仟,仟圆"
+    }
+  ]
+}

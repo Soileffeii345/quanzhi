@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8613638001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8613638001",
+      "displayBoxCode": "8613638-001",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "coinName": "2025年海南热带雨林国家公园流通纪念币四枚",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10352603.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8613638-001/69/",
+      "price": 470,
+      "priceWithFee": 507.6,
+      "transactedAt": "2026-06-24 20:26:05",
+      "productCode": "869161004",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/869161004A.jpg",
+      "ocrConfidence": 45,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2025年,年海,海南,南热,热带,带雨,雨林,林国,国家,家公,公园,园流,流通,通纪,纪念,念币,币四,四枚"
+    }
+  ]
+}

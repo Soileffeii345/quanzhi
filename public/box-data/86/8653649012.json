@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8653649012",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8653649012",
+      "displayBoxCode": "8653649-012",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "coinName": "2013年1/2盎司熊猫金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/587887.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8653649-012/69/",
+      "price": 15055,
+      "priceWithFee": null,
+      "transactedAt": "2026-06-07 05:52:45",
+      "productCode": "KH137938",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260607/large_sell_gkw0oerbugsbvb6c.jpg",
+      "ocrConfidence": 39,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2013年,2盎司,熊猫,年盎,盎司,司熊,猫金,金币"
+    }
+  ]
+}

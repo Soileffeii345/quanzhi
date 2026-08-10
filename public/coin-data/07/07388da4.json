@@ -1,0 +1,31 @@
+{
+  "coinName": "1988年生肖12盎司精制银币",
+  "slug": "07388da4",
+  "saleCount": 1,
+  "keywords": "银,币,1988年,12盎司,生肖,年戊,戊辰,辰龙,龙年,年生,肖盎,盎司,司精,精制,制银,银币,评级",
+  "priceStats": {
+    "low": 26000,
+    "high": 26000,
+    "avg": 26000,
+    "latest": 26000
+  },
+  "records": [
+    {
+      "coinName": "1988年戊辰龙年生肖12盎司精制银币",
+      "normalizedBoxCode": "8764026001",
+      "displayBoxCode": "8764026-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10377172.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8764026-001/69/",
+      "price": 26000,
+      "priceWithFee": 26910,
+      "transactedAt": "2026-07-02 20:28:10",
+      "productCode": "871801004",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1988年,12盎司,生肖,年戊,戊辰,辰龙,龙年,年生,肖盎,盎司,司精,精制,制银,银币,评级"
+    }
+  ]
+}

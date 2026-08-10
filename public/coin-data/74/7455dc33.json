@@ -1,0 +1,31 @@
+{
+  "coinName": "2011年生肖15.552克精制金币",
+  "slug": "7455dc33",
+  "saleCount": 1,
+  "keywords": "金,币,2011年,2盎司,生肖,年辛,辛卯,卯兔,兔年,年生,肖盎,盎司,司梅,梅花,花形,形精,精制,制金,金币,评级",
+  "priceStats": {
+    "low": 16600,
+    "high": 16600,
+    "avg": 16600,
+    "latest": 16600
+  },
+  "records": [
+    {
+      "coinName": "2011年辛卯兔年生肖1/2盎司梅花形精制金币",
+      "normalizedBoxCode": "8752087012",
+      "displayBoxCode": "8752087-012",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-jin/10390826.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8752087-012/70/",
+      "price": 16600,
+      "priceWithFee": 17181,
+      "transactedAt": "2026-07-09 21:24:05",
+      "productCode": "873930021",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2011年,2盎司,生肖,年辛,辛卯,卯兔,兔年,年生,肖盎,盎司,司梅,梅花,花形,形精,精制,制金,金币,评级"
+    }
+  ]
+}

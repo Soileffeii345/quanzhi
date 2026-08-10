@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8185021006",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8185021006",
+      "displayBoxCode": "8185021-006",
+      "gradingCompany": "NGC",
+      "grade": "Ms70",
+      "coinName": "2025年8克菱形贺岁彩银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/501891.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8185021-006/70/",
+      "price": 200,
+      "priceWithFee": null,
+      "transactedAt": "2025-12-11 20:25:08",
+      "productCode": "AA586977",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250922/large_sell_uikw49mabjh6dfij.jpg",
+      "ocrConfidence": 30,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2025年,8克,吉祥文化,年克,克菱,菱形,形贺,贺岁,岁彩,彩银,银币"
+    }
+  ]
+}

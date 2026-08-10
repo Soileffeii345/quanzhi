@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6735190012",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6735190012",
+      "displayBoxCode": "6735190-012",
+      "gradingCompany": "NGC",
+      "grade": "PF69 ULTRA CAMEO",
+      "coinName": "1992年15克古代科技第1组铜铸币银币(UC)",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/513873.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6735190-012/69/",
+      "price": 500,
+      "priceWithFee": null,
+      "transactedAt": "2025-11-20 16:42:18",
+      "productCode": "AA597720",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251120/large_sell_iu472uupmmjsqbvv.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,铜,币,1992年,15克,年克,克古,古代,代科,科技,技第,第组,组铜,铜铸,铸币,币银,银币"
+    }
+  ]
+}

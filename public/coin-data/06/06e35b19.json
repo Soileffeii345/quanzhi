@@ -1,0 +1,82 @@
+{
+  "coinName": "1999年生肖31.104克精制银币",
+  "slug": "06e35b19",
+  "saleCount": 4,
+  "keywords": "银,币,1999年,1盎司,生肖,年己,己卯,卯兔,兔年,年生,肖盎,盎司,司精,精制,制银,银币,评级,制彩,彩银",
+  "priceStats": {
+    "low": 910,
+    "high": 1420,
+    "avg": 1153,
+    "latest": 1420
+  },
+  "records": [
+    {
+      "coinName": "1999年己卯兔年生肖1盎司精制银币",
+      "normalizedBoxCode": "8188481097",
+      "displayBoxCode": "8188481-097",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10410194.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8188481-097/69/",
+      "price": 1420,
+      "priceWithFee": 1469.7,
+      "transactedAt": "2026-07-20 20:47:40",
+      "productCode": "876281007",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1999年,1盎司,生肖,年己,己卯,卯兔,兔年,年生,肖盎,盎司,司精,精制,制银,银币,评级"
+    },
+    {
+      "coinName": "1999年己卯兔年生肖1盎司精制彩银币",
+      "normalizedBoxCode": "8610819086",
+      "displayBoxCode": "8610819-086",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10350693.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8610819-086/69/",
+      "price": 1080,
+      "priceWithFee": 1117.8,
+      "transactedAt": "2026-06-22 21:17:40",
+      "productCode": "869116023",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1999年,1盎司,生肖,年己,己卯,卯兔,兔年,年生,肖盎,盎司,司精,精制,制彩,彩银,银币,评级"
+    },
+    {
+      "coinName": "1999年己卯兔年生肖1盎司精制银币",
+      "normalizedBoxCode": "8757946004",
+      "displayBoxCode": "8757946-004",
+      "gradingCompany": "NGC",
+      "grade": "PF 67 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10351245.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8757946-004/67/",
+      "price": 910,
+      "priceWithFee": 941.85,
+      "transactedAt": "2026-06-22 21:48:40",
+      "productCode": "869398029",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1999年,1盎司,生肖,年己,己卯,卯兔,兔年,年生,肖盎,盎司,司精,精制,制银,银币,评级"
+    },
+    {
+      "coinName": "1999年己卯兔年生肖1盎司精制彩银币",
+      "normalizedBoxCode": "8819606032",
+      "displayBoxCode": "8819606-032",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10358629.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8819606-032/",
+      "price": 1200,
+      "priceWithFee": 1242,
+      "transactedAt": "2026-06-22 20:29:10",
+      "productCode": "870078004",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1999年,1盎司,生肖,年己,己卯,卯兔,兔年,年生,肖盎,盎司,司精,精制,制彩,彩银,银币,评级"
+    }
+  ]
+}

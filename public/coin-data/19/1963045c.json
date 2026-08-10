@@ -1,0 +1,48 @@
+{
+  "coinName": "1995年抗战31.104克金币",
+  "slug": "1963045c",
+  "saleCount": 2,
+  "keywords": "金,币,1995年,1盎司,重大事件,年盎,盎司,司抗,抗战,战胜,胜利,利周,周年,年金,金币,年南,南京,京大,大屠,屠杀,杀纪,纪念,念馆,馆金",
+  "priceStats": {
+    "low": 32000,
+    "high": 60000,
+    "avg": 46000,
+    "latest": 60000
+  },
+  "records": [
+    {
+      "coinName": "1995年1盎司抗战胜利50周年金币",
+      "normalizedBoxCode": "2922603003",
+      "displayBoxCode": "2922603-003",
+      "gradingCompany": "NGC",
+      "grade": "PF 68 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/454121.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2922603-003/68/",
+      "price": 60000,
+      "priceWithFee": null,
+      "transactedAt": "2025-03-28 21:53:44",
+      "productCode": "AA531456.57A",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1995年,1盎司,重大事件,年盎,盎司,司抗,抗战,战胜,胜利,利周,周年,年金,金币"
+    },
+    {
+      "coinName": "1995年1盎司抗战胜利50周年南京大屠杀纪念馆金币",
+      "normalizedBoxCode": "8196082000",
+      "displayBoxCode": "8196082-000",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/459462.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8196082-000/69/",
+      "price": 32000,
+      "priceWithFee": null,
+      "transactedAt": "2025-03-10 07:38:20",
+      "productCode": "AA537516A",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1995年,1盎司,重大事件,年盎,盎司,司抗,抗战,战胜,胜利,利周,周年,年南,南京,京大,大屠,屠杀,杀纪,纪念,念馆,馆金,金币"
+    }
+  ]
+}

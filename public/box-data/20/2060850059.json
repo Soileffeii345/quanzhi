@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2060850059",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2060850059",
+      "displayBoxCode": "2060850-059",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "中国银行外汇兑换券发行40周年1988年壹佰圆二连体纪念券",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/liantichao-jinianchao/10424793.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2060850-059/",
+      "price": 1020,
+      "priceWithFee": 1101.6,
+      "transactedAt": "2026-07-28 20:09:50",
+      "productCode": "877856001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/877856001B.jpg",
+      "ocrConfidence": 45,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,1988年,中国,国银,银行,行外,外汇,汇兑,兑换,换券,券发,发行,行周,周年,年年,年壹,壹佰,佰圆,圆二,二连,连体,体纪,纪念,念券"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2559422002",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2559422002",
+      "displayBoxCode": "2559422-002",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2008年中国银行澳门币拾圆",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/liantichao-jinianchao/10395659.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2559422-002/",
+      "price": 160,
+      "priceWithFee": 172.8,
+      "transactedAt": "2026-07-11 21:02:55",
+      "productCode": "874349004",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/874349004B.jpg",
+      "ocrConfidence": 28,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2008年,年中,中国,国银,银行,行澳,澳门,门币,币拾,拾圆,外国/特区"
+    }
+  ]
+}

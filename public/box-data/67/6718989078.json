@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6718989078",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6718989078",
+      "displayBoxCode": "6718989-078",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2006年丙戌狗年生肖1盎司梅花形精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10356021.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6718989-078/69/",
+      "price": 670,
+      "priceWithFee": 693.45,
+      "transactedAt": "2026-06-22 21:00:40",
+      "productCode": "869946005",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/869946005A.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2006年,1盎司,生肖,年丙,丙戌,戌狗,狗年,年生,肖盎,盎司,司梅,梅花,花形,形精,精制,制银,银币,评级"
+    }
+  ]
+}

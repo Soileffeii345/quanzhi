@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4313257004",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4313257004",
+      "displayBoxCode": "4313257-004",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "coinName": "1999年中国珍稀野生动物金斑喙凤蝶纪念币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/578686.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4313257-004/69/",
+      "price": 400,
+      "priceWithFee": null,
+      "transactedAt": "2026-05-13 05:48:21",
+      "productCode": "KH133818",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260509/large_sell_nkpu6bmzh7hu6vml.jpg",
+      "ocrConfidence": 42,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1999年,年中,中国,国珍,珍稀,稀野,野生,生动,动物,物金,金斑,斑喙,喙凤,凤蝶,蝶纪,纪念,念币"
+    }
+  ]
+}

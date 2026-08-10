@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "5807652004",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "5807652004",
+      "displayBoxCode": "5807652-004",
+      "gradingCompany": "NGC",
+      "grade": "MS 70",
+      "coinName": "2017年上币熊猫金币35周年双金属铜章(100)",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/503220.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/5807652-004/70/",
+      "price": 1100,
+      "priceWithFee": null,
+      "transactedAt": "2025-12-10 18:41:13",
+      "productCode": "KH093638",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250928/large_sell_cnbmkkhk3rlq3qvp.jpg",
+      "ocrConfidence": 46,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,铜,币,章,2017年,熊猫,年上,上币,币熊,猫金,金币,币周,周年,年双,双金,金属,属铜,铜章"
+    }
+  ]
+}

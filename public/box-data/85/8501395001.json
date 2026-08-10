@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8501395001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8501395001",
+      "displayBoxCode": "8501395-001",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2023年国家宝藏（文明曙光）15克精制金币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10377132.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8501395-001/",
+      "price": 16000,
+      "priceWithFee": 16560,
+      "transactedAt": "2026-07-02 21:09:30",
+      "productCode": "872031001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/26/872031001A.jpg",
+      "ocrConfidence": 28,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2023年,15克,年国,国家,家宝,宝藏,藏文,文明,明曙,曙光,光克,克精,精制,制金,金币,评级"
+    }
+  ]
+}

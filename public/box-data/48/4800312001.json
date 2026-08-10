@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4800312001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4800312001",
+      "displayBoxCode": "4800312-001",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2003年1/3盎司中国首次载人航天飞行成功彩金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/485087.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4800312-001/",
+      "price": 8280,
+      "priceWithFee": null,
+      "transactedAt": "2025-06-23 22:03:58",
+      "productCode": "KH071497",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250623/large_sell_uvz4fpmeoqsbb4ab.jpg",
+      "ocrConfidence": 55,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2003年,3盎司,年盎,盎司,司中,中国,国首,首次,次载,载人,人航,航天,天飞,飞行,行成,成功,功彩,彩金,金币"
+    }
+  ]
+}

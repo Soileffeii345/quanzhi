@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8827552002",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8827552002",
+      "displayBoxCode": "8827552-002",
+      "gradingCompany": "NGC",
+      "grade": "PF 67 ULTRA CAMEO",
+      "coinName": "1986年第13届世界杯足球赛1/2盎司精制银币二枚一套",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10416245.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8827552-002/67/",
+      "price": 1020,
+      "priceWithFee": 1055.7,
+      "transactedAt": "2026-07-27 20:24:10",
+      "productCode": "876906003",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/876906003A.jpg",
+      "ocrConfidence": 46,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1986年,2盎司,年第,第届,届世,世界,界杯,杯足,足球,球赛,赛盎,盎司,司精,精制,制银,银币,币二,二枚,枚一,一套,评级"
+    }
+  ]
+}

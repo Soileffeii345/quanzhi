@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8544495002",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8544495002",
+      "displayBoxCode": "8544495-002",
+      "gradingCompany": "NGC",
+      "grade": "PF 65 ULTRA CAMEO",
+      "coinName": "1993年宋庆龄诞辰100周年精制流通纪念币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10355207.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8544495-002/65/",
+      "price": 150,
+      "priceWithFee": 162,
+      "transactedAt": "2026-06-24 20:13:25",
+      "productCode": "869127014",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/869127014A.jpg",
+      "ocrConfidence": 44,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1993年,年宋,宋庆,庆龄,龄诞,诞辰,辰周,周年,年精,精制,制流,流通,通纪,纪念,念币,评级"
+    }
+  ]
+}

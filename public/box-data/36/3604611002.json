@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "3604611002",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "3604611002",
+      "displayBoxCode": "3604611-002",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1981年1/2盎司辛亥革命70周年金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/471902.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3604611-002/69/",
+      "price": 51000,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-13 06:08:58",
+      "productCode": "AA557896",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250406/large_sell_rz50o8ujbx7iwqsp.jpg",
+      "ocrConfidence": 32,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1981年,2盎司,年盎,盎司,司辛,辛亥,亥革,革命,命周,周年,年金,金币"
+    }
+  ]
+}

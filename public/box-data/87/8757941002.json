@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8757941002",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8757941002",
+      "displayBoxCode": "8757941-002",
+      "gradingCompany": "NGC",
+      "grade": "PF 68 ULTRA CAMEO",
+      "coinName": "1992年出土文物青铜器第（2）组-羊尊15克精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10387360.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8757941-002/68/",
+      "price": 930,
+      "priceWithFee": 962.55,
+      "transactedAt": "2026-07-09 20:06:05",
+      "productCode": "873643006",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/27/873643006A.jpg",
+      "ocrConfidence": 45,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,铜,币,1992年,15克,年出,出土,土文,文物,物青,青铜,铜器,器第,第组,组羊,羊尊,尊克,克精,精制,制银,银币,评级"
+    }
+  ]
+}

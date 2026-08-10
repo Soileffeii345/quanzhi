@@ -1,0 +1,48 @@
+{
+  "coinName": "1995年古代科技15克银币",
+  "slug": "2ad67daf",
+  "saleCount": 2,
+  "keywords": "银,币,1995年,15克,年克,克古,古代,代科,科技,技第,第组,组太,太极,极图,图银,银币",
+  "priceStats": {
+    "low": 400,
+    "high": 470,
+    "avg": 435,
+    "latest": 470
+  },
+  "records": [
+    {
+      "coinName": "1995年15克古代科技第4组太极图银币(UC)",
+      "normalizedBoxCode": "4087373036",
+      "displayBoxCode": "4087373-036",
+      "gradingCompany": "NGC",
+      "grade": "PF 68 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/449443.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4087373-036/68/",
+      "price": 470,
+      "priceWithFee": null,
+      "transactedAt": "2024-09-26 16:18:17",
+      "productCode": "KH056811",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1995年,15克,年克,克古,古代,代科,科技,技第,第组,组太,太极,极图,图银,银币"
+    },
+    {
+      "coinName": "1995年15克古代科技第4组太极图银币(UC)",
+      "normalizedBoxCode": "6715119002",
+      "displayBoxCode": "6715119-002",
+      "gradingCompany": "NGC",
+      "grade": "PF 66 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/517787.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6715119-002/66/",
+      "price": 400,
+      "priceWithFee": null,
+      "transactedAt": "2025-12-11 11:08:57",
+      "productCode": "KH094333",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1995年,15克,年克,克古,古代,代科,科技,技第,第组,组太,太极,极图,图银,银币"
+    }
+  ]
+}

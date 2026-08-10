@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8823192004",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8823192004",
+      "displayBoxCode": "8823192-004",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2024年中国极地科学考察30克精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10377215.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8823192-004/70/",
+      "price": 740,
+      "priceWithFee": 765.9,
+      "transactedAt": "2026-07-04 20:14:05",
+      "productCode": "872273001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/27/872273001A.jpg",
+      "ocrConfidence": 40,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2024年,30克,年中,中国,国极,极地,地科,科学,学考,考察,察克,克精,精制,制银,银币,评级"
+    }
+  ]
+}

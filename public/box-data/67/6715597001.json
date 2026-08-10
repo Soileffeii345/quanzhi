@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6715597001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6715597001",
+      "displayBoxCode": "6715597-001",
+      "gradingCompany": "NGC",
+      "grade": "PF69 ULTRA CAMEO",
+      "coinName": "2015年1盎司吉祥文化年年有余银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/462847.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6715597-001/69/",
+      "price": 420,
+      "priceWithFee": null,
+      "transactedAt": "2025-02-20 15:42:43",
+      "productCode": "AA545239",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250126/large_sell_nbxxorjhw3bzqutv.jpg",
+      "ocrConfidence": 25,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2015年,1盎司,吉祥文化,年盎,盎司,司吉,吉祥,祥文,文化,化年,年年,年有,有余,余银,银币"
+    }
+  ]
+}

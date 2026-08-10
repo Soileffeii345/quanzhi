@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8198603032",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8198603032",
+      "displayBoxCode": "8198603-032",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "1999年1盎司方形张大千银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/484396.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8198603-032/70/",
+      "price": 10200,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-29 05:48:32",
+      "productCode": "KH112070",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250618/large_sell_h7ahmiala5bgaeb3.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1999年,1盎司,年盎,盎司,司方,方形,形张,张大,大千,千银,银币"
+    }
+  ]
+}

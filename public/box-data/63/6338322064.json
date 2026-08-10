@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6338322064",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6338322064",
+      "displayBoxCode": "6338322-064",
+      "gradingCompany": "NGC",
+      "grade": "PF69 ULTRA CAMEO",
+      "coinName": "2006年丙戌狗年生肖1盎司精制彩银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10424133.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6338322-064/69/",
+      "price": 1020,
+      "priceWithFee": 1055.7,
+      "transactedAt": "2026-07-27 20:33:40",
+      "productCode": "877773034",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/877773034A.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2006年,1盎司,生肖,年丙,丙戌,戌狗,狗年,年生,肖盎,盎司,司精,精制,制彩,彩银,银币,评级"
+    }
+  ]
+}

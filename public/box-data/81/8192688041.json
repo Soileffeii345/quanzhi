@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8192688041",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8192688041",
+      "displayBoxCode": "8192688-041",
+      "gradingCompany": "NGC",
+      "grade": "Ms70",
+      "coinName": "2023年3克熊猫金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/498693.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8192688-041/70/",
+      "price": 3300,
+      "priceWithFee": null,
+      "transactedAt": "2025-10-08 22:09:31",
+      "productCode": "KH086034",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250906/large_sell_j6bhhh6clg1cj7gv.jpg",
+      "ocrConfidence": 43,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2023年,3克,熊猫,年克,克熊,猫金,金币"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8580901029",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8580901029",
+      "displayBoxCode": "8580901-029",
+      "gradingCompany": "NGC",
+      "grade": "PF70 ULTRA CAMEO",
+      "coinName": "2025年3克国家宝藏商鞅方升金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/487222.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8580901-029/70/",
+      "price": 3400,
+      "priceWithFee": null,
+      "transactedAt": "2025-07-05 18:02:22",
+      "productCode": "AA571655",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250705/large_sell_q307ou0jr7bwptvh.jpg",
+      "ocrConfidence": 37,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2025年,3克,年克,克国,国家,家宝,宝藏,藏商,商鞅,鞅方,方升,升金,金币"
+    }
+  ]
+}

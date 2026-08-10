@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4317425002",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4317425002",
+      "displayBoxCode": "4317425-002",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1996年1/10盎司熊猫金币发行15周年金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/526272.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4317425-002/",
+      "price": 4300,
+      "priceWithFee": null,
+      "transactedAt": "2026-02-03 07:30:37",
+      "productCode": "AA606582",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251230/large_sell_n6rtbp2bqsjbzxnl.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1996年,10盎司,熊猫,年盎,盎司,司熊,猫金,金币,币发,发行,行周,周年,年金"
+    }
+  ]
+}

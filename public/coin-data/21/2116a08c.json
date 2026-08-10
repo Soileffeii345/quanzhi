@@ -1,0 +1,31 @@
+{
+  "coinName": "1994年3盎司精制银币",
+  "slug": "2116a08c",
+  "saleCount": 1,
+  "keywords": "银,币,1994年,3盎司,年中,中国,国近,近代,代名,名画,画飞,飞禽,禽喜,喜鹊,鹊盎,盎司,司十,十二,二边,边形,形精,精制,制银,银币,评级",
+  "priceStats": {
+    "low": 2900,
+    "high": 2900,
+    "avg": 2900,
+    "latest": 2900
+  },
+  "records": [
+    {
+      "coinName": "1994年中国近代名画飞禽-喜鹊2/3盎司十二边形精制银币",
+      "normalizedBoxCode": "6376689002",
+      "displayBoxCode": "6376689-002",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10389107.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6376689-002/",
+      "price": 2900,
+      "priceWithFee": 3001.5,
+      "transactedAt": "2026-07-09 20:44:05",
+      "productCode": "873690005",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1994年,3盎司,年中,中国,国近,近代,代名,名画,画飞,飞禽,禽喜,喜鹊,鹊盎,盎司,司十,十二,二边,边形,形精,精制,制银,银币,评级"
+    }
+  ]
+}

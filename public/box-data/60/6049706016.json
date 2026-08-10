@@ -1,0 +1,45 @@
+{
+  "ok": true,
+  "query": "6049706016",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6049706016",
+      "displayBoxCode": "6049706-016",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1994年1/3盎司奥运会100周年金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/520273.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6049706-016/",
+      "price": 10200,
+      "priceWithFee": null,
+      "transactedAt": "2025-12-12 20:54:03",
+      "productCode": "KH094881",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251212/large_sell_eknwahhup0pdrnzw.jpg",
+      "ocrConfidence": 37,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1994年,3盎司,奥运,年盎,盎司,司奥,运会,会周,周年,年金,金币"
+    },
+    {
+      "normalizedBoxCode": "6049706016",
+      "displayBoxCode": "6049706-016",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1994年1/3盎司奥运会100周年金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/481492.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6049706-016/",
+      "price": 8230,
+      "priceWithFee": null,
+      "transactedAt": "2025-06-04 16:40:21",
+      "productCode": "AA565766",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250604/large_sell_humb10vdikpwlvre.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1994年,3盎司,奥运,年盎,盎司,司奥,运会,会周,周年,年金,金币"
+    }
+  ]
+}

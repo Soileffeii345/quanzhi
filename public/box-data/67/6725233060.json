@@ -1,0 +1,45 @@
+{
+  "ok": true,
+  "query": "6725233060",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6725233060",
+      "displayBoxCode": "6725233-060",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2014年1/10盎司生肖马彩金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/479406.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6725233-060/70/",
+      "price": 2750,
+      "priceWithFee": null,
+      "transactedAt": "2025-06-25 13:49:06",
+      "productCode": "AA563663",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250524/large_sell_gglmeyyrutcpgaxw.jpg",
+      "ocrConfidence": 29,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2014年,10盎司,生肖,年盎,盎司,司生,肖马,马彩,彩金,金币"
+    },
+    {
+      "normalizedBoxCode": "6725233060",
+      "displayBoxCode": "6725233-060",
+      "gradingCompany": "NGC",
+      "grade": "PF70 ULTRA CAMEO",
+      "coinName": "2014年1/10盎司生肖马彩金币 X4",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/476604.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6725233-060/70/",
+      "price": 10200,
+      "priceWithFee": null,
+      "transactedAt": "2025-05-06 21:03:36",
+      "productCode": "KH065931.65932.65933.65934",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250506/large_sell_lhxgtfybjdmms7af.jpg",
+      "ocrConfidence": 37,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2014年,10盎司,生肖,年盎,盎司,司生,肖马,马彩,彩金,金币"
+    }
+  ]
+}

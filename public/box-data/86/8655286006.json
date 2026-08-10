@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8655286006",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8655286006",
+      "displayBoxCode": "8655286-006",
+      "gradingCompany": "NGC",
+      "grade": "MS 70",
+      "coinName": "2026年中国龙31.104克普制银币（龙腾献瑞智能卡）",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10380481.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8655286-006/70/",
+      "price": 1080,
+      "priceWithFee": 1117.8,
+      "transactedAt": "2026-07-04 20:13:05",
+      "productCode": "872936002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/21/863211013A.jpg",
+      "ocrConfidence": 42,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2026年,31.104克,年中,中国,国龙,龙克,克普,普制,制银,银币,币龙,龙腾,腾献,献瑞,瑞智,智能,能卡"
+    }
+  ]
+}

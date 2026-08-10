@@ -1,0 +1,48 @@
+{
+  "coinName": "2023年熊猫1克金币",
+  "slug": "4d092643",
+  "saleCount": 2,
+  "keywords": "金,币,2023年,1克,熊猫,年克,克熊,猫金,金币",
+  "priceStats": {
+    "low": 1000,
+    "high": 1200,
+    "avg": 1100,
+    "latest": 1200
+  },
+  "records": [
+    {
+      "coinName": "2023年1克熊猫金币",
+      "normalizedBoxCode": "8191988050",
+      "displayBoxCode": "8191988-050",
+      "gradingCompany": "NGC",
+      "grade": "MS 70",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/507329.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8191988-050/70/",
+      "price": 1200,
+      "priceWithFee": null,
+      "transactedAt": "2025-11-11 09:11:42",
+      "productCode": "KH090191",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2023年,1克,熊猫,年克,克熊,猫金,金币"
+    },
+    {
+      "coinName": "2023年1克熊猫金币",
+      "normalizedBoxCode": "8205688047",
+      "displayBoxCode": "8205688-047",
+      "gradingCompany": "NGC",
+      "grade": "MS 70",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/498691.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8205688-047/70/",
+      "price": 1000,
+      "priceWithFee": null,
+      "transactedAt": "2025-09-09 08:12:32",
+      "productCode": "KH082431",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2023年,1克,熊猫,年克,克熊,猫金,金币"
+    }
+  ]
+}

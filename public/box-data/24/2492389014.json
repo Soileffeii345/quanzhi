@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2492389014",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2492389014",
+      "displayBoxCode": "2492389-014",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2008年第29届奥林匹克运动会纪念钞拾圆",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/liantichao-jinianchao/10395990.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2492389-014/",
+      "price": 2100,
+      "priceWithFee": 2268,
+      "transactedAt": "2026-07-21 20:04:35",
+      "productCode": "874454016",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/874454016B.jpg",
+      "ocrConfidence": 32,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,2008年,年第,第届,届奥,奥林,林匹,匹克,克运,运动,动会,会纪,纪念,念钞,钞拾,拾圆"
+    }
+  ]
+}

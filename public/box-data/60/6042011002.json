@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6042011002",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6042011002",
+      "displayBoxCode": "6042011-002",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1999年建国50周年纪念钞伍拾圆",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/liantichao-jinianchao/10395476.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6042011-002/",
+      "price": 210,
+      "priceWithFee": 226.8,
+      "transactedAt": "2026-07-14 20:05:20",
+      "productCode": "874287004",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/874287004B.jpg",
+      "ocrConfidence": 31,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,1999年,重大事件,年建,建国,国周,周年,年纪,纪念,念钞,钞伍,伍拾,拾圆"
+    }
+  ]
+}

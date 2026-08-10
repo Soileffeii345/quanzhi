@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "0752220011",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "0752220011",
+      "displayBoxCode": "0752220-011",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "coinName": "1998年1/10盎司大唐镇库金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/534749.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/0752220-011/69/",
+      "price": 4100,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-26 22:26:30",
+      "productCode": "AA613620",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260120/large_sell_hkzknr7sdpazidd9.jpg",
+      "ocrConfidence": 31,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1998年,10盎司,年盎,盎司,司大,大唐,唐镇,镇库,库金,金币"
+    }
+  ]
+}

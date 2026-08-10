@@ -1,0 +1,65 @@
+{
+  "coinName": "2014年生肖精制",
+  "slug": "23939aa9",
+  "saleCount": 3,
+  "keywords": "币,2014年,生肖,年甲,甲午,午马,马年,年生,肖精,精制,制流,流通,通纪,纪念,念币,评级,吉祥文化,肖贺,贺岁,岁精",
+  "priceStats": {
+    "low": 140,
+    "high": 300,
+    "avg": 243,
+    "latest": 290
+  },
+  "records": [
+    {
+      "coinName": "2014年甲午马年生肖精制流通纪念币",
+      "normalizedBoxCode": "5795267004",
+      "displayBoxCode": "5795267-004",
+      "gradingCompany": "NGC",
+      "grade": "PF 67 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10395451.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/5795267-004/67/",
+      "price": 290,
+      "priceWithFee": 313.2,
+      "transactedAt": "2026-07-15 19:55:30",
+      "productCode": "874369005",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2014年,生肖,年甲,甲午,午马,马年,年生,肖精,精制,制流,流通,通纪,纪念,念币,评级"
+    },
+    {
+      "coinName": "2014年甲午马年生肖精制流通纪念币",
+      "normalizedBoxCode": "6172958019",
+      "displayBoxCode": "6172958-019",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10357832.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6172958-019/69/",
+      "price": 300,
+      "priceWithFee": 324,
+      "transactedAt": "2026-06-24 19:52:05",
+      "productCode": "869767016",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2014年,生肖,年甲,甲午,午马,马年,年生,肖精,精制,制流,流通,通纪,纪念,念币,评级"
+    },
+    {
+      "coinName": "2014年甲午马年生肖贺岁精制流通纪念币",
+      "normalizedBoxCode": "6721093021",
+      "displayBoxCode": "6721093-021",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10362253.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6721093-021/",
+      "price": 140,
+      "priceWithFee": 151.2,
+      "transactedAt": "2026-06-24 19:11:25",
+      "productCode": "869714004",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2014年,生肖,吉祥文化,年甲,甲午,午马,马年,年生,肖贺,贺岁,岁精,精制,制流,流通,通纪,纪念,念币,评级"
+    }
+  ]
+}

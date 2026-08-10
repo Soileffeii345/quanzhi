@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6049710011",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6049710011",
+      "displayBoxCode": "6049710-011",
+      "gradingCompany": "NGC",
+      "grade": "PF70 ULTRA CAMEO",
+      "coinName": "1993年15克出土文物第3组铜牵马俑银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/575109.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6049710-011/70/",
+      "price": 4900,
+      "priceWithFee": null,
+      "transactedAt": "2026-04-25 11:26:55",
+      "productCode": "KH131547",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260423/large_sell_cdphlolxtcfwy8cl.jpg",
+      "ocrConfidence": 50,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,铜,币,1993年,15克,年克,克出,出土,土文,文物,物第,第组,组铜,铜牵,牵马,马俑,俑银,银币"
+    }
+  ]
+}

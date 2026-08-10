@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "3806008001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "3806008001",
+      "displayBoxCode": "3806008-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2013年1公斤熊猫银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/477804.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3806008-001/70/",
+      "price": 11000,
+      "priceWithFee": null,
+      "transactedAt": "2025-05-15 23:24:30",
+      "productCode": "KH066578",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250515/large_sell_bwgkc9cluazo8fge.jpg",
+      "ocrConfidence": 44,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2013年,1公斤,熊猫,年公,公斤,斤熊,猫银,银币"
+    }
+  ]
+}

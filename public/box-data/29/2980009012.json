@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2980009012",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2980009012",
+      "displayBoxCode": "2980009-012",
+      "gradingCompany": "NGC",
+      "grade": "PF70",
+      "coinName": "2004年1/2盎司邓小平诞辰100周年金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/434652.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2980009-012/70/",
+      "price": 11800,
+      "priceWithFee": null,
+      "transactedAt": "2024-07-04 00:19:57",
+      "productCode": "AA483556",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20240531/large_sell_dydklsj2cjxdde5f.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2004年,2盎司,年盎,盎司,司邓,邓小,小平,平诞,诞辰,辰周,周年,年金,金币"
+    }
+  ]
+}

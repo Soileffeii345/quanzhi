@@ -1,0 +1,31 @@
+{
+  "coinName": "2017年5盎司银币",
+  "slug": "334f3dd5",
+  "saleCount": 1,
+  "keywords": "银,章,2017年,5盎司,宗教,年盎,盎司,司观,观音,音菩,菩萨,萨银,银章",
+  "priceStats": {
+    "low": 5800,
+    "high": 5800,
+    "avg": 5800,
+    "latest": 5800
+  },
+  "records": [
+    {
+      "coinName": "2017年5盎司观音菩萨银章",
+      "normalizedBoxCode": "4547959017",
+      "displayBoxCode": "4547959-017",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/529049.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4547959-017/70/",
+      "price": 5800,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-22 08:45:55",
+      "productCode": "KH108775",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,章,2017年,5盎司,宗教,年盎,盎司,司观,观音,音菩,菩萨,萨银,银章"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2559422007",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2559422007",
+      "displayBoxCode": "2559422-007",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2014年中国银行港币100元",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/liantichao-jinianchao/10420626.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2559422-007/",
+      "price": 300,
+      "priceWithFee": 324,
+      "transactedAt": "2026-07-25 20:36:10",
+      "productCode": "877014011",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/877014011B.jpg",
+      "ocrConfidence": 31,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2014年,年中,中国,国银,银行,行港,港币,币元"
+    }
+  ]
+}

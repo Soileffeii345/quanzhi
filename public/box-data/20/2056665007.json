@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2056665007",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2056665007",
+      "displayBoxCode": "2056665-007",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "第二版人民币水库5角浅版有水印",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/dierbanrenminbi/10366063.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2056665-007/",
+      "price": 310,
+      "priceWithFee": 334.8,
+      "transactedAt": "2026-06-27 21:10:25",
+      "productCode": "871101006",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/26/871101006B.jpg",
+      "ocrConfidence": 28,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,第二,二版,版人,人民,民币,币水,水库,库角,角浅,浅版,版有,有水,水印"
+    }
+  ]
+}

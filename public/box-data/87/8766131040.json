@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8766131040",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8766131040",
+      "displayBoxCode": "8766131-040",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2013年中国佛教圣地-普陀山1/4盎司精制金币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10360176.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8766131-040/70/",
+      "price": 8800,
+      "priceWithFee": 9108,
+      "transactedAt": "2026-06-25 20:38:35",
+      "productCode": "870428008",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/870428008A.jpg",
+      "ocrConfidence": 38,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2013年,4盎司,宗教,年中,中国,国佛,佛教,教圣,圣地,地普,普陀,陀山,山盎,盎司,司精,精制,制金,金币,评级"
+    }
+  ]
+}

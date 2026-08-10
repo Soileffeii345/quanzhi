@@ -1,0 +1,31 @@
+{
+  "coinName": "1922年银币",
+  "slug": "49e4db7e",
+  "saleCount": 1,
+  "keywords": "银,币,1922年,年美,美国,国和,和平,平银,银币,外国/特区",
+  "priceStats": {
+    "low": 580,
+    "high": 580,
+    "avg": 580,
+    "latest": 580
+  },
+  "records": [
+    {
+      "coinName": "1922年美国和平银币",
+      "normalizedBoxCode": "8189981034",
+      "displayBoxCode": "8189981-034",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/517705.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8189981-034/",
+      "price": 580,
+      "priceWithFee": null,
+      "transactedAt": "2025-12-31 09:41:28",
+      "productCode": "AA600232",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1922年,年美,美国,国和,和平,平银,银币,外国/特区"
+    }
+  ]
+}

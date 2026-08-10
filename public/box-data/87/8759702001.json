@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8759702001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8759702001",
+      "displayBoxCode": "8759702-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 69",
+      "coinName": "2026年守护地球家园500克半球形精制银币、3克精制金币各一枚",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10395551.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8759702-001/69/",
+      "price": 24500,
+      "priceWithFee": 25357.5,
+      "transactedAt": "2026-07-16 21:18:25",
+      "productCode": "874500001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/874500001A.jpg",
+      "ocrConfidence": 51,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,2026年,500克,年守,守护,护地,地球,球家,家园,园克,克半,半球,球形,形精,精制,制银,银币,币克,克精,制金,金币,币各,各一,一枚,评级"
+    }
+  ]
+}

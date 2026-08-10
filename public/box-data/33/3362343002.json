@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "3362343002",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "3362343002",
+      "displayBoxCode": "3362343-002",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "coinName": "1999年昆明世界园艺博览会-月季花镀金1盎司普制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10400958.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3362343-002/69/",
+      "price": 720,
+      "priceWithFee": 745.2,
+      "transactedAt": "2026-07-13 21:10:10",
+      "productCode": "875122002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/875122002A.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,1999年,1盎司,年昆,昆明,明世,世界,界园,园艺,艺博,博览,览会,会月,月季,季花,花镀,镀金,金盎,盎司,司普,普制,制银,银币"
+    }
+  ]
+}

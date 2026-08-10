@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6001380107",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6001380107",
+      "displayBoxCode": "6001380-107",
+      "gradingCompany": "NGC",
+      "grade": "PF 68 ULTRA CAMEO",
+      "coinName": "1995年台湾光复回归祖国50周年-中国地图1盎司精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10393019.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6001380-107/68/",
+      "price": 2700,
+      "priceWithFee": 2794.5,
+      "transactedAt": "2026-07-16 19:37:35",
+      "productCode": "874056013",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/874056013A.jpg",
+      "ocrConfidence": 37,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1995年,1盎司,年台,台湾,湾光,光复,复回,回归,归祖,祖国,国周,周年,年中,中国,国地,地图,图盎,盎司,司精,精制,制银,银币,评级"
+    }
+  ]
+}

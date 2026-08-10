@@ -1,0 +1,31 @@
+{
+  "coinName": "1993年毛泽东3盎司精制金币",
+  "slug": "012a4322",
+  "saleCount": 1,
+  "keywords": "金,币,1993年,3盎司,年中,中国,国杰,杰出,出历,历史,史人,人物,物第,第组,组毛,毛泽,泽东,东盎,盎司,司精,精制,制金,金币,评级",
+  "priceStats": {
+    "low": 25000,
+    "high": 25000,
+    "avg": 25000,
+    "latest": 25000
+  },
+  "records": [
+    {
+      "coinName": "1993年中国杰出历史人物第（10）组-毛泽东1/3盎司精制金币",
+      "normalizedBoxCode": "8764098006",
+      "displayBoxCode": "8764098-006",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10377173.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8764098-006/69/",
+      "price": 25000,
+      "priceWithFee": 25875,
+      "transactedAt": "2026-07-02 21:10:50",
+      "productCode": "871801005",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1993年,3盎司,年中,中国,国杰,杰出,出历,历史,史人,人物,物第,第组,组毛,毛泽,泽东,东盎,盎司,司精,精制,制金,金币,评级"
+    }
+  ]
+}

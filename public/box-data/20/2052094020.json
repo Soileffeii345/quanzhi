@@ -1,0 +1,45 @@
+{
+  "ok": true,
+  "query": "2052094020",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2052094020",
+      "displayBoxCode": "2052094-020",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "第一版人民币工厂与火车100元正反面票样各一枚",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/diyibanrenminbi/10408210.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2052094-020/",
+      "price": 2980,
+      "priceWithFee": 3278,
+      "transactedAt": "2026-07-21 20:53:35",
+      "productCode": "876165001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/27/873622004B.jpg",
+      "ocrConfidence": 43,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,钞,第一,一版,版人,人民,民币,币工,工厂,厂与,与火,火车,车元,元正,正反,反面,面票,票样,样各,各一,一枚"
+    },
+    {
+      "normalizedBoxCode": "2052094020",
+      "displayBoxCode": "2052094-020",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "第一版人民币工厂与火车100元正反面票样各一枚",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/diyibanrenminbi/10387112.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2052094-020/",
+      "price": 2550,
+      "priceWithFee": 2805,
+      "transactedAt": "2026-07-09 20:44:10",
+      "productCode": "873622004",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/27/873622004B.jpg",
+      "ocrConfidence": 43,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,钞,第一,一版,版人,人民,民币,币工,工厂,厂与,与火,火车,车元,元正,正反,反面,面票,票样,样各,各一,一枚"
+    }
+  ]
+}

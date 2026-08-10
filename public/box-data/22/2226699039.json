@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2226699039",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2226699039",
+      "displayBoxCode": "2226699-039",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "第四套/第四版人民币1990年版1元、1980年版1元各一枚",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/disibanrenminbi/10406109.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2226699-039/",
+      "price": 170,
+      "priceWithFee": 183.6,
+      "transactedAt": "2026-07-18 19:26:35",
+      "productCode": "875295018",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/875295018B.jpg",
+      "ocrConfidence": 30,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1990年,第四,四套,套第,四版,版人,人民,民币,币年,年版,版元,元年,元各,各一,一枚"
+    }
+  ]
+}

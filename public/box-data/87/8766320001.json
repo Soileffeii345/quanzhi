@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8766320001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8766320001",
+      "displayBoxCode": "8766320-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1992年龙马精神1/4盎司精制金币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10351446.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8766320-001/69/",
+      "price": 11200,
+      "priceWithFee": 11592,
+      "transactedAt": "2026-06-25 21:45:35",
+      "productCode": "869365002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/869365002A.jpg",
+      "ocrConfidence": 47,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1992年,4盎司,年龙,龙马,马精,精神,神盎,盎司,司精,精制,制金,金币,评级"
+    }
+  ]
+}

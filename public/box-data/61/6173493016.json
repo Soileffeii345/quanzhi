@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6173493016",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6173493016",
+      "displayBoxCode": "6173493-016",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1996年1盎司红军长征胜利60周年长征途中银币(少光版)",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/540745.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6173493-016/69/",
+      "price": 2200,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-28 15:55:03",
+      "productCode": "KH114983",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260128/large_sell_fm8zjloc0xltqagp.jpg",
+      "ocrConfidence": 48,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1996年,1盎司,年盎,盎司,司红,红军,军长,长征,征胜,胜利,利周,周年,年长,征途,途中,中银,银币,币少,少光,光版"
+    }
+  ]
+}

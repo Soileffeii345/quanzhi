@@ -1,0 +1,45 @@
+{
+  "ok": true,
+  "query": "8191988024",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8191988024",
+      "displayBoxCode": "8191988-024",
+      "gradingCompany": "NGC",
+      "grade": "MS 70",
+      "coinName": "2023年8克熊猫金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/504561.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8191988-024/70/",
+      "price": 7355,
+      "priceWithFee": null,
+      "transactedAt": "2025-10-10 16:58:15",
+      "productCode": "KH086609",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251010/large_sell_piixlrbaw6qehdlw.jpg",
+      "ocrConfidence": 48,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2023年,8克,熊猫,年克,克熊,猫金,金币"
+    },
+    {
+      "normalizedBoxCode": "8191988024",
+      "displayBoxCode": "8191988-024",
+      "gradingCompany": "NGC",
+      "grade": "MS 70",
+      "coinName": "2023年8克熊猫金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/502476.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8191988-024/70/",
+      "price": 7305,
+      "priceWithFee": null,
+      "transactedAt": "2025-10-07 18:38:23",
+      "productCode": "KH086128",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250925/large_sell_uhba1wh24kd7hqda.jpg",
+      "ocrConfidence": 52,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2023年,8克,熊猫,年克,克熊,猫金,金币"
+    }
+  ]
+}

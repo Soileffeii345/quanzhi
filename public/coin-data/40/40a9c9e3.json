@@ -1,0 +1,31 @@
+{
+  "coinName": "2019.21年150克方形书法艺术第2、3组银币",
+  "slug": "40a9c9e3",
+  "saleCount": 1,
+  "keywords": "银,币,150克,书法,年克,克方,方形,形书,法艺,艺术,术第,第组,组银,银币",
+  "priceStats": {
+    "low": 8300,
+    "high": 8300,
+    "avg": 8300,
+    "latest": 8300
+  },
+  "records": [
+    {
+      "coinName": "2019.21年150克方形书法艺术第2、3组银币",
+      "normalizedBoxCode": "6153021003",
+      "displayBoxCode": "6153021-003",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/430914.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6153021-003/70/",
+      "price": 8300,
+      "priceWithFee": null,
+      "transactedAt": "2024-05-07 17:26:18",
+      "productCode": "KH054571",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,150克,书法,年克,克方,方形,形书,法艺,艺术,术第,第组,组银,银币"
+    }
+  ]
+}

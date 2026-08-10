@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8610819084",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8610819084",
+      "displayBoxCode": "8610819-084",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2008年戊子鼠年生肖1盎司精制彩银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10350692.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8610819-084/70/",
+      "price": 980,
+      "priceWithFee": 1014.3,
+      "transactedAt": "2026-06-22 19:19:10",
+      "productCode": "869116022",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/869116022A.jpg",
+      "ocrConfidence": 39,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2008年,1盎司,生肖,年戊,戊子,子鼠,鼠年,年生,肖盎,盎司,司精,精制,制彩,彩银,银币,评级"
+    }
+  ]
+}

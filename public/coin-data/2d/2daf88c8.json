@@ -1,0 +1,31 @@
+{
+  "coinName": "2008年31.1克银币",
+  "slug": "2daf88c8",
+  "saleCount": 1,
+  "keywords": "银,币,2008年,31.1克,年吉,吉尔,尔吉,吉斯,斯斯,斯坦,坦首,首都,都比,比什,什凯,凯克,克克,克彩,彩银,银币",
+  "priceStats": {
+    "low": 1120,
+    "high": 1120,
+    "avg": 1120,
+    "latest": 1120
+  },
+  "records": [
+    {
+      "coinName": "2008年吉尔吉斯斯坦首都比什凯克31.1克彩银币",
+      "normalizedBoxCode": "8504636036",
+      "displayBoxCode": "8504636-036",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/wgjsbizhang/10354145.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8504636-036/69/",
+      "price": 1120,
+      "priceWithFee": 1187.2,
+      "transactedAt": "2026-06-19 20:58:45",
+      "productCode": "869380006",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2008年,31.1克,年吉,吉尔,尔吉,吉斯,斯斯,斯坦,坦首,首都,都比,比什,什凯,凯克,克克,克彩,彩银,银币"
+    }
+  ]
+}

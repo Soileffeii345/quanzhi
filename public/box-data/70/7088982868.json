@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "7088982868",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "7088982868",
+      "displayBoxCode": "7088982-868",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2025年30克熊猫银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/511210.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/7088982-868/",
+      "price": 2000,
+      "priceWithFee": null,
+      "transactedAt": "2025-12-11 09:31:07",
+      "productCode": "KH093236",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251107/large_sell_df6m7zq4vfcuhqxc.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2025年,30克,熊猫,年克,克熊,猫银,银币"
+    }
+  ]
+}

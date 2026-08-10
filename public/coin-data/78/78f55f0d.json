@@ -1,0 +1,48 @@
+{
+  "coinName": "1996年15.552克精制金币",
+  "slug": "78f55f0d",
+  "saleCount": 2,
+  "keywords": "金,币,1996年,2盎司,年中,中国,国古,古典,典文,文学,学名,名著,著三,三国,国演,演义,义第,第组,组官,官渡,渡之,之战,战盎,盎司,司精,精制,制金,金币,评级",
+  "priceStats": {
+    "low": 23500,
+    "high": 24500,
+    "avg": 24000,
+    "latest": 24500
+  },
+  "records": [
+    {
+      "coinName": "1996年中国古典文学名著《三国演义》第（2）组-官渡之战1/2盎司精制金币",
+      "normalizedBoxCode": "4538468002",
+      "displayBoxCode": "4538468-002",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10424299.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4538468-002/69/",
+      "price": 24500,
+      "priceWithFee": 25357.5,
+      "transactedAt": "2026-07-27 22:09:10",
+      "productCode": "877959007",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1996年,2盎司,年中,中国,国古,古典,典文,文学,学名,名著,著三,三国,国演,演义,义第,第组,组官,官渡,渡之,之战,战盎,盎司,司精,精制,制金,金币,评级"
+    },
+    {
+      "coinName": "1996年中国古典文学名著《三国演义》第（2）组-官渡之战1/2盎司精制金币",
+      "normalizedBoxCode": "8512306056",
+      "displayBoxCode": "8512306-056",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10382280.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8512306-056/69/",
+      "price": 23500,
+      "priceWithFee": 24322.5,
+      "transactedAt": "2026-07-09 21:01:25",
+      "productCode": "872627009",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1996年,2盎司,年中,中国,国古,古典,典文,文学,学名,名著,著三,三国,国演,演义,义第,第组,组官,官渡,渡之,之战,战盎,盎司,司精,精制,制金,金币,评级"
+    }
+  ]
+}

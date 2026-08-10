@@ -1,0 +1,65 @@
+{
+  "coinName": "1989年熊猫3.11克金币",
+  "slug": "12651617",
+  "saleCount": 3,
+  "keywords": "金,币,1989年,10盎司,熊猫,年盎,盎司,司熊,猫金,金币,币大,大字,字版",
+  "priceStats": {
+    "low": 3850,
+    "high": 4150,
+    "avg": 4017,
+    "latest": 3850
+  },
+  "records": [
+    {
+      "coinName": "1989年1/10盎司熊猫金币(大字版)",
+      "normalizedBoxCode": "5814521008",
+      "displayBoxCode": "5814521-008",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/584492.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/5814521-008/69/",
+      "price": 3850,
+      "priceWithFee": null,
+      "transactedAt": "2026-05-27 21:31:05",
+      "productCode": "KH136561",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1989年,10盎司,熊猫,年盎,盎司,司熊,猫金,金币,币大,大字,字版"
+    },
+    {
+      "coinName": "1989年1/10盎司熊猫金币(大字版)",
+      "normalizedBoxCode": "6727655015",
+      "displayBoxCode": "6727655-015",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/562371.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6727655-015/69/",
+      "price": 4050,
+      "priceWithFee": null,
+      "transactedAt": "2026-03-13 23:48:12",
+      "productCode": "KH124528",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1989年,10盎司,熊猫,年盎,盎司,司熊,猫金,金币,币大,大字,字版"
+    },
+    {
+      "coinName": "1989年1/10盎司熊猫金币(大字版)",
+      "normalizedBoxCode": "8186481006",
+      "displayBoxCode": "8186481-006",
+      "gradingCompany": "NGC",
+      "grade": "Ms69",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/562375.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8186481-006/69/",
+      "price": 4150,
+      "priceWithFee": null,
+      "transactedAt": "2026-03-14 00:38:45",
+      "productCode": "KH124539",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1989年,10盎司,熊猫,年盎,盎司,司熊,猫金,金币,币大,大字,字版"
+    }
+  ]
+}

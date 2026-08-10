@@ -1,0 +1,31 @@
+{
+  "coinName": "1992年冬奥3盎司金币",
+  "slug": "0430bd16",
+  "saleCount": 1,
+  "keywords": "金,币,1992年,3盎司,奥运,年盎,盎司,司第,第届,届冬,冬奥,奥会,会花,花样,样滑,滑冰,冰金,金币",
+  "priceStats": {
+    "low": 7500,
+    "high": 7500,
+    "avg": 7500,
+    "latest": 7500
+  },
+  "records": [
+    {
+      "coinName": "1992年1/3盎司第17届冬奥会花样滑冰金币",
+      "normalizedBoxCode": "2796718008",
+      "displayBoxCode": "2796718-008",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/413524.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2796718-008/",
+      "price": 7500,
+      "priceWithFee": null,
+      "transactedAt": "2024-01-23 14:59:59",
+      "productCode": "AA459562",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1992年,3盎司,奥运,年盎,盎司,司第,第届,届冬,冬奥,奥会,会花,花样,样滑,滑冰,冰金,金币"
+    }
+  ]
+}

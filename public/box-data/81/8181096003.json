@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8181096003",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8181096003",
+      "displayBoxCode": "8181096-003",
+      "gradingCompany": "NGC",
+      "grade": "Ms69",
+      "coinName": "1997年1/20盎司吉庆有余金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/528145.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8181096-003/69/",
+      "price": 2100,
+      "priceWithFee": null,
+      "transactedAt": "2026-02-18 11:22:40",
+      "productCode": "KH103463",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260105/large_sell_1ej9igvi5ly3j8jn.jpg",
+      "ocrConfidence": 37,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1997年,20盎司,年盎,盎司,司吉,吉庆,庆有,有余,余金,金币"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "coinName": "1950年美国10美元纸币",
+  "slug": "0db16d62",
+  "saleCount": 1,
+  "keywords": "币,1950年,年美,美国,国美,美元,元纸,纸币,外国/特区",
+  "priceStats": {
+    "low": 1340,
+    "high": 1340,
+    "avg": 1340,
+    "latest": 1340
+  },
+  "records": [
+    {
+      "coinName": "1950年美国10美元纸币",
+      "normalizedBoxCode": "2370666057",
+      "displayBoxCode": "2370666-057",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10387941.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2370666-057/",
+      "price": 1340,
+      "priceWithFee": 1487.4,
+      "transactedAt": "2026-07-14 21:59:50",
+      "productCode": "873172009",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1950年,年美,美国,国美,美元,元纸,纸币,外国/特区"
+    }
+  ]
+}

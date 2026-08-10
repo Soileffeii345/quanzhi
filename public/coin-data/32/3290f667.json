@@ -1,0 +1,31 @@
+{
+  "coinName": "2009年丹麦纸钞",
+  "slug": "3290f667",
+  "saleCount": 1,
+  "keywords": "钞,2009年,年丹,丹麦,麦纸,纸钞",
+  "priceStats": {
+    "low": 120,
+    "high": 120,
+    "avg": 120,
+    "latest": 120
+  },
+  "records": [
+    {
+      "coinName": "2009年丹麦纸钞",
+      "normalizedBoxCode": "1881521019",
+      "displayBoxCode": "1881521-019",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10373871.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1881521-019/",
+      "price": 120,
+      "priceWithFee": 133.2,
+      "transactedAt": "2026-06-30 22:48:35",
+      "productCode": "871685001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,2009年,年丹,丹麦,麦纸,纸钞"
+    }
+  ]
+}

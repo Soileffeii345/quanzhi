@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6753685014",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6753685014",
+      "displayBoxCode": "6753685-014",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1999年1盎司富贵有余彩银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/573328.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6753685-014/69/",
+      "price": 1000,
+      "priceWithFee": null,
+      "transactedAt": "2026-04-20 10:23:39",
+      "productCode": "KH130370",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260416/large_sell_hlw1f0tzaunww8s2.jpg",
+      "ocrConfidence": 28,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1999年,1盎司,年盎,盎司,司富,富贵,贵有,有余,余彩,彩银,银币"
+    }
+  ]
+}

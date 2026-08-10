@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8197049001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8197049001",
+      "displayBoxCode": "8197049-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1994年12盎司生肖狗银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/594937.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8197049-001/69/",
+      "price": 43800,
+      "priceWithFee": null,
+      "transactedAt": "2026-08-08 02:46:12",
+      "productCode": "KH143972",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260704/large_sell_6wmacns2qqayxtsw.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1994年,12盎司,生肖,年盎,盎司,司生,肖狗,狗银,银币"
+    }
+  ]
+}

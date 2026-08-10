@@ -1,0 +1,31 @@
+{
+  "coinName": "1850年美国50美元纸币",
+  "slug": "3550283f",
+  "saleCount": 1,
+  "keywords": "币,1850年,年美,美国,国美,美元,元纸,纸币,外国/特区",
+  "priceStats": {
+    "low": 1520,
+    "high": 1520,
+    "avg": 1520,
+    "latest": 1520
+  },
+  "records": [
+    {
+      "coinName": "1850年美国50美元纸币",
+      "normalizedBoxCode": "1512706023",
+      "displayBoxCode": "1512706-023",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10387939.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1512706-023/",
+      "price": 1520,
+      "priceWithFee": 1687.2,
+      "transactedAt": "2026-07-14 22:09:35",
+      "productCode": "873172007",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1850年,年美,美国,国美,美元,元纸,纸币,外国/特区"
+    }
+  ]
+}

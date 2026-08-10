@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2022211024",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2022211024",
+      "displayBoxCode": "2022211-024",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1996年1/2盎司方形长江三峡金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/437418.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2022211-024/69/",
+      "price": 9700,
+      "priceWithFee": null,
+      "transactedAt": "2024-07-09 23:22:06",
+      "productCode": "AA486878",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20240619/large_sell_n5qzcdpmvb1bf7no.jpg",
+      "ocrConfidence": 37,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1996年,2盎司,年盎,盎司,司方,方形,形长,长江,江三,三峡,峡金,金币"
+    }
+  ]
+}

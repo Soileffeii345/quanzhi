@@ -1,0 +1,48 @@
+{
+  "coinName": "中央银行贰角",
+  "slug": "0502f8c4",
+  "saleCount": 2,
+  "keywords": "银,中央,央银,银行,行贰,贰角",
+  "priceStats": {
+    "low": 190,
+    "high": 190,
+    "avg": 190,
+    "latest": 190
+  },
+  "records": [
+    {
+      "coinName": "中央银行贰角",
+      "normalizedBoxCode": "7031093148",
+      "displayBoxCode": "7031093-148",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10366734.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/7031093-148/",
+      "price": 190,
+      "priceWithFee": 210.9,
+      "transactedAt": "2026-07-14 21:27:35",
+      "productCode": "870327004",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,中央,央银,银行,行贰,贰角"
+    },
+    {
+      "coinName": "中央银行贰角",
+      "normalizedBoxCode": "8036175067",
+      "displayBoxCode": "8036175-067",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10361812.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8036175-067/",
+      "price": 190,
+      "priceWithFee": 210.9,
+      "transactedAt": "2026-07-07 21:26:35",
+      "productCode": "870325022",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,中央,央银,银行,行贰,贰角"
+    }
+  ]
+}

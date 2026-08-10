@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2348860061",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2348860061",
+      "displayBoxCode": "2348860-061",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1931年中华苏维埃共和国国家银行湘鄂西特区分行贰角",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jiefangquzhichao/10395062.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2348860-061/",
+      "price": 16800,
+      "priceWithFee": 18648,
+      "transactedAt": "2026-07-23 20:10:40",
+      "productCode": "874373001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/874373001B.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,1931年,历史币,苏区,年中,中华,华苏,苏维,维埃,埃共,共和,和国,国国,国家,家银,银行,行湘,湘鄂,鄂西,西特,特区,区分,分行,行贰,贰角"
+    }
+  ]
+}

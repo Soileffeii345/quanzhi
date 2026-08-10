@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "1922941036",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "1922941036",
+      "displayBoxCode": "1922941-036",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1872年美国50美元纸币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10387938.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1922941-036/",
+      "price": 2950,
+      "priceWithFee": 3274.5,
+      "transactedAt": "2026-07-14 21:45:35",
+      "productCode": "873172006",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/27/873172006B.jpg",
+      "ocrConfidence": 32,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1872年,年美,美国,国美,美元,元纸,纸币,外国/特区"
+    }
+  ]
+}

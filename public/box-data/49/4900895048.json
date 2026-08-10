@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4900895048",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4900895048",
+      "displayBoxCode": "4900895-048",
+      "gradingCompany": "NGC",
+      "grade": "MS 70",
+      "coinName": "2019年福字贺岁8克普制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10425118.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4900895-048/70/",
+      "price": 250,
+      "priceWithFee": 258.75,
+      "transactedAt": "2026-07-27 22:02:40",
+      "productCode": "877934005",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/877934005A.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2019年,8克,吉祥文化,年福,福字,字贺,贺岁,岁克,克普,普制,制银,银币"
+    }
+  ]
+}

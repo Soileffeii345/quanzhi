@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4557622128",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4557622128",
+      "displayBoxCode": "4557622-128",
+      "gradingCompany": "NGC",
+      "grade": "MS 70",
+      "coinName": "2017年15克熊猫金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/496099.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4557622-128/70/",
+      "price": 11990,
+      "priceWithFee": null,
+      "transactedAt": "2025-08-23 19:43:33",
+      "productCode": "KH079685",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250823/large_sell_3pffswpfhvlrd7ry.jpg",
+      "ocrConfidence": 45,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2017年,15克,熊猫,年克,克熊,猫金,金币"
+    }
+  ]
+}

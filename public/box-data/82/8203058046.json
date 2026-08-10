@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8203058046",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8203058046",
+      "displayBoxCode": "8203058-046",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2015年1盎司生肖羊彩银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/484954.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8203058-046/69/",
+      "price": 700,
+      "priceWithFee": null,
+      "transactedAt": "2025-06-22 20:58:13",
+      "productCode": "KH071430",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250622/large_sell_7e45z3bnewdtkdxd.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2015年,1盎司,生肖,年盎,盎司,司生,肖羊,羊彩,彩银,银币"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8825288000",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8825288000",
+      "displayBoxCode": "8825288-000",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2026年国家宝藏（融合交流）15克精制银币三枚一套",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10398767.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8825288-000/",
+      "price": 2800,
+      "priceWithFee": 2898,
+      "transactedAt": "2026-07-11 21:20:05",
+      "productCode": "874950008",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/874950008A.jpg",
+      "ocrConfidence": 45,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2026年,15克,年国,国家,家宝,宝藏,藏融,融合,合交,交流,流克,克精,精制,制银,银币,币三,三枚,枚一,一套,评级"
+    }
+  ]
+}

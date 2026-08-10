@@ -1,0 +1,45 @@
+{
+  "ok": true,
+  "query": "6726321007",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6726321007",
+      "displayBoxCode": "6726321-007",
+      "gradingCompany": "NGC",
+      "grade": "MS 68",
+      "coinName": "1997年1/2盎司熊猫银币(雾状)",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/434620.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6726321-007/68/",
+      "price": 310,
+      "priceWithFee": null,
+      "transactedAt": "2024-05-31 12:37:17",
+      "productCode": "AA478287A",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20240506/large_sell_p7dhymvim3empg0x.jpg",
+      "ocrConfidence": 31,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1997年,2盎司,熊猫,年盎,盎司,司熊,猫银,银币,币雾,雾状"
+    },
+    {
+      "normalizedBoxCode": "6726321007",
+      "displayBoxCode": "6726321-007",
+      "gradingCompany": "NGC",
+      "grade": "MS 68",
+      "coinName": "1997年1/2盎司熊猫银币(雾状)",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/430665.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6726321-007/68/",
+      "price": 240,
+      "priceWithFee": null,
+      "transactedAt": "2024-05-30 22:54:47",
+      "productCode": "AA478287",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20240506/large_sell_p7dhymvim3empg0x.jpg",
+      "ocrConfidence": 31,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1997年,2盎司,熊猫,年盎,盎司,司熊,猫银,银币,币雾,雾状"
+    }
+  ]
+}

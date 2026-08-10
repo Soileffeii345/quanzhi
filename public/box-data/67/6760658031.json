@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6760658031",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6760658031",
+      "displayBoxCode": "6760658-031",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1990年第11届亚洲运动会流通纪念币二枚一套",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10373838.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6760658-031/",
+      "price": 280,
+      "priceWithFee": 302.4,
+      "transactedAt": "2026-07-01 21:06:05",
+      "productCode": "871771007",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/26/871771007A.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1990年,年第,第届,届亚,亚洲,洲运,运动,动会,会流,流通,通纪,纪念,念币,币二,二枚,枚一,一套"
+    }
+  ]
+}

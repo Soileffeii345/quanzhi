@@ -1,0 +1,48 @@
+{
+  "coinName": "1987年22克精制银币",
+  "slug": "0e4f5b4c",
+  "saleCount": 2,
+  "keywords": "银,币,1987年,22克,年中,中国,国杰,杰出,出历,历史,史人,人物,物第,第组,组李,李白,白克,克精,精制,制银,银币,评级,李春,春克,币霜,霜隙,隙版",
+  "priceStats": {
+    "low": 550,
+    "high": 1220,
+    "avg": 885,
+    "latest": 550
+  },
+  "records": [
+    {
+      "coinName": "1987年中国杰出历史人物第（4）组-李白22克精制银币",
+      "normalizedBoxCode": "8511249005",
+      "displayBoxCode": "8511249-005",
+      "gradingCompany": "NGC",
+      "grade": "PF 68 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10395221.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8511249-005/68/",
+      "price": 550,
+      "priceWithFee": 569.25,
+      "transactedAt": "2026-07-13 20:05:10",
+      "productCode": "874318002",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1987年,22克,年中,中国,国杰,杰出,出历,历史,史人,人物,物第,第组,组李,李白,白克,克精,精制,制银,银币,评级"
+    },
+    {
+      "coinName": "1987年中国杰出历史人物第（4）组-李春22克精制银币（霜隙版）",
+      "normalizedBoxCode": "8585343040",
+      "displayBoxCode": "8585343-040",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10376621.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8585343-040/69/",
+      "price": 1220,
+      "priceWithFee": 1262.7,
+      "transactedAt": "2026-07-02 20:12:10",
+      "productCode": "871886016",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1987年,22克,年中,中国,国杰,杰出,出历,历史,史人,人物,物第,第组,组李,李春,春克,克精,精制,制银,银币,币霜,霜隙,隙版,评级"
+    }
+  ]
+}

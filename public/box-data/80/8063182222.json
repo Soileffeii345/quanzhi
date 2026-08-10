@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8063182222",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8063182222",
+      "displayBoxCode": "8063182-222",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2015年航天纪念钞壹佰圆",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/liantichao-jinianchao/10431579.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8063182-222/",
+      "price": 170,
+      "priceWithFee": 183.6,
+      "transactedAt": "2026-07-28 19:49:50",
+      "productCode": "878698025",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/878698025A.jpg",
+      "ocrConfidence": 40,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,2015年,年航,航天,天纪,纪念,念钞,钞壹,壹佰,佰圆"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8571110145",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8571110145",
+      "displayBoxCode": "8571110-145",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2021年千手观音70克银章",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10395099.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8571110-145/",
+      "price": 1960,
+      "priceWithFee": 2028.6,
+      "transactedAt": "2026-07-11 20:44:05",
+      "productCode": "874357004",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/874357004A.jpg",
+      "ocrConfidence": 32,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,章,2021年,70克,宗教,年千,千手,手观,观音,音克,克银,银章"
+    }
+  ]
+}

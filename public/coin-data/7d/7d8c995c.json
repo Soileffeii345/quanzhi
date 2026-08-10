@@ -1,0 +1,31 @@
+{
+  "coinName": "2018年2盎司金银币",
+  "slug": "7d8c995c",
+  "saleCount": 1,
+  "keywords": "金,银,币,2018年,2盎司,宗教,年帕,帕劳,劳弥,弥勒,勒笑,笑佛,佛高,高浮,浮雕,雕盎,盎司,司镀,镀金,金银,银币",
+  "priceStats": {
+    "low": 1840,
+    "high": 1840,
+    "avg": 1840,
+    "latest": 1840
+  },
+  "records": [
+    {
+      "coinName": "2018年帕劳弥勒笑佛高浮雕2盎司镀金银币",
+      "normalizedBoxCode": "8504392036",
+      "displayBoxCode": "8504392-036",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/wgjsbizhang/10415190.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8504392-036/69/",
+      "price": 1840,
+      "priceWithFee": 1950.4,
+      "transactedAt": "2026-07-24 21:05:55",
+      "productCode": "876743018",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,2018年,2盎司,宗教,年帕,帕劳,劳弥,弥勒,勒笑,笑佛,佛高,高浮,浮雕,雕盎,盎司,司镀,镀金,金银,银币"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6196436024",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6196436024",
+      "displayBoxCode": "6196436-024",
+      "gradingCompany": "NGC",
+      "grade": "PF 64 ULTRA CAMEO",
+      "coinName": "2008年1盎司第29届奥运会第3组彩银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/553541.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6196436-024/64/",
+      "price": 2500,
+      "priceWithFee": null,
+      "transactedAt": "2026-02-08 17:45:09",
+      "productCode": "KH118443",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260208/large_sell_uw3qh2jjqj02a8w4.jpg",
+      "ocrConfidence": 41,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2008年,1盎司,奥运,年盎,盎司,司第,第届,届奥,运会,会第,第组,组彩,彩银,银币"
+    }
+  ]
+}

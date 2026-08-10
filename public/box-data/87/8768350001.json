@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8768350001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8768350001",
+      "displayBoxCode": "8768350-001",
+      "gradingCompany": "NGC",
+      "grade": "MS 70",
+      "coinName": "2026年熊猫100克普制铂金币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-nianjiyihou/10390899.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8768350-001/70/",
+      "price": 54000,
+      "priceWithFee": 55890,
+      "transactedAt": "2026-07-09 21:46:45",
+      "productCode": "873925001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/27/873925001A.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,贵金属,币,2026年,100克,熊猫,年熊,猫克,克普,普制,制铂,铂金,金币"
+    }
+  ]
+}

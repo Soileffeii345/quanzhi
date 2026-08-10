@@ -1,0 +1,31 @@
+{
+  "coinName": "2009年10克",
+  "slug": "48ba4910",
+  "saleCount": 1,
+  "keywords": "金,币,章,2009年,10克,年克,克第,第一,一套,套人,人民,民币,币微,微缩,缩壹,壹仟,仟圆,圆金,金章",
+  "priceStats": {
+    "low": 8000,
+    "high": 8000,
+    "avg": 8000,
+    "latest": 8000
+  },
+  "records": [
+    {
+      "coinName": "2009年10克第一套人民币微缩壹仟圆金章",
+      "normalizedBoxCode": "6000749003",
+      "displayBoxCode": "6000749-003",
+      "gradingCompany": "NGC",
+      "grade": "MS 70",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/476966.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6000749-003/70/",
+      "price": 8000,
+      "priceWithFee": null,
+      "transactedAt": "2025-05-10 01:21:40",
+      "productCode": "KH066156",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,章,2009年,10克,年克,克第,第一,一套,套人,人民,民币,币微,微缩,缩壹,壹仟,仟圆,圆金,金章"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8612366034",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8612366034",
+      "displayBoxCode": "8612366-034",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1995年妈祖1/4盎司精制金币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10378826.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8612366-034/",
+      "price": 12000,
+      "priceWithFee": 12420,
+      "transactedAt": "2026-07-02 21:28:10",
+      "productCode": "872238011",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/27/872238011A.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1995年,4盎司,年妈,妈祖,祖盎,盎司,司精,精制,制金,金币,评级"
+    }
+  ]
+}

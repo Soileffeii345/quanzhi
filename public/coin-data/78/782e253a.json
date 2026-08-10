@@ -1,0 +1,31 @@
+{
+  "coinName": "民国34年中央银行壹仟元",
+  "slug": "782e253a",
+  "saleCount": 1,
+  "keywords": "银,历史币,民国,国年,年中,中央,央银,银行,行壹,壹仟,仟元",
+  "priceStats": {
+    "low": 330,
+    "high": 330,
+    "avg": 330,
+    "latest": 330
+  },
+  "records": [
+    {
+      "coinName": "民国34年中央银行壹仟元",
+      "normalizedBoxCode": "2487144054",
+      "displayBoxCode": "2487144-054",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10361783.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2487144-054/",
+      "price": 330,
+      "priceWithFee": 366.3,
+      "transactedAt": "2026-07-09 19:51:40",
+      "productCode": "869632003",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国年,年中,中央,央银,银行,行壹,壹仟,仟元"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6763555015",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6763555015",
+      "displayBoxCode": "6763555-015",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1993年毛泽东诞辰100周年5盎司精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10359573.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6763555-015/69/",
+      "price": 29500,
+      "priceWithFee": 30532.5,
+      "transactedAt": "2026-06-25 20:12:35",
+      "productCode": "870438001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/870438001A.jpg",
+      "ocrConfidence": 51,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1993年,5盎司,年毛,毛泽,泽东,东诞,诞辰,辰周,周年,年盎,盎司,司精,精制,制银,银币,评级"
+    }
+  ]
+}

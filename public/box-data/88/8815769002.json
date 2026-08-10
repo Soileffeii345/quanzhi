@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8815769002",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8815769002",
+      "displayBoxCode": "8815769-002",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "coinName": "1999年熊猫1盎司普制银币（小字版）",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-jiuyin/10368357.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8815769-002/69/",
+      "price": 2050,
+      "priceWithFee": 2121.75,
+      "transactedAt": "2026-06-29 20:12:40",
+      "productCode": "870958010",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/26/870958010A.jpg",
+      "ocrConfidence": 39,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1999年,1盎司,熊猫,年熊,猫盎,盎司,司普,普制,制银,银币,币小,小字,字版"
+    }
+  ]
+}

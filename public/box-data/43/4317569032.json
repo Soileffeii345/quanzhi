@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4317569032",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4317569032",
+      "displayBoxCode": "4317569-032",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2016年30克吉祥文化并蒂同心银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/478184.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4317569-032/",
+      "price": 800,
+      "priceWithFee": null,
+      "transactedAt": "2025-05-20 09:17:52",
+      "productCode": "AA562560",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250518/large_sell_i1ajtdsujzcvzz62.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2016年,30克,吉祥文化,年克,克吉,吉祥,祥文,文化,化并,并蒂,蒂同,同心,心银,银币"
+    }
+  ]
+}

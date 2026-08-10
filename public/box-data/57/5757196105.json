@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "5757196105",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "5757196105",
+      "displayBoxCode": "5757196-105",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2004年中国宝岛台湾-鹅銮鼻、日月潭精制流通纪念币各一枚，共二枚",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10372267.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/5757196-105/69/",
+      "price": 630,
+      "priceWithFee": 680.4,
+      "transactedAt": "2026-07-01 19:39:05",
+      "productCode": "871391052",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/26/871391052A.jpg",
+      "ocrConfidence": 42,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2004年,年中,中国,国宝,宝岛,岛台,台湾,湾鹅,鹅銮,銮鼻,鼻日,日月,月潭,潭精,精制,制流,流通,通纪,纪念,念币,币各,各一,一枚,枚共,共二,二枚,评级"
+    }
+  ]
+}

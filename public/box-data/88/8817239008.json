@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8817239008",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8817239008",
+      "displayBoxCode": "8817239-008",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "coinName": "2006年熊猫1盎司普制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-jiuyin/10417572.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8817239-008/69/",
+      "price": 680,
+      "priceWithFee": 703.8,
+      "transactedAt": "2026-07-20 19:57:10",
+      "productCode": "877004007",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/877004007A.jpg",
+      "ocrConfidence": 38,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2006年,1盎司,熊猫,年熊,猫盎,盎司,司普,普制,制银,银币"
+    }
+  ]
+}

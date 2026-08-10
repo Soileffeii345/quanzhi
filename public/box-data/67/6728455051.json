@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6728455051",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6728455051",
+      "displayBoxCode": "6728455-051",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1994年希望工程精制流通纪念币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10365300.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6728455-051/",
+      "price": 330,
+      "priceWithFee": 356.4,
+      "transactedAt": "2026-07-01 19:33:05",
+      "productCode": "870611005",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/26/870611005A.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1994年,年希,希望,望工,工程,程精,精制,制流,流通,通纪,纪念,念币,评级"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8815432100",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8815432100",
+      "displayBoxCode": "8815432-100",
+      "gradingCompany": "NGC",
+      "grade": "PF69 ULTRA CAMEO",
+      "coinName": "1982年澳大利亚布里斯班英联邦运动会20克银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianbi/10385565.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8815432-100/69/",
+      "price": 590,
+      "priceWithFee": 654.9,
+      "transactedAt": "2026-07-10 20:28:25",
+      "productCode": "873385001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/27/873385001A.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1982年,20克,年澳,澳大,大利,利亚,亚布,布里,里斯,斯班,班英,英联,联邦,邦运,运动,动会,会克,克银,银币,外国/特区"
+    }
+  ]
+}

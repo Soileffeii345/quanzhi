@@ -1,0 +1,31 @@
+{
+  "coinName": "2022年熊猫150克银币",
+  "slug": "5b6b74b4",
+  "saleCount": 1,
+  "keywords": "银,币,2022年,150克,熊猫,年克,克熊,猫银,银币",
+  "priceStats": {
+    "low": 1500,
+    "high": 1500,
+    "avg": 1500,
+    "latest": 1500
+  },
+  "records": [
+    {
+      "coinName": "2022年150克熊猫银币",
+      "normalizedBoxCode": "6190985013",
+      "displayBoxCode": "6190985-013",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/447479.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6190985-013/70/",
+      "price": 1500,
+      "priceWithFee": null,
+      "transactedAt": "2024-09-12 09:06:23",
+      "productCode": "AA499578",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2022年,150克,熊猫,年克,克熊,猫银,银币"
+    }
+  ]
+}

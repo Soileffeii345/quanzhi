@@ -1,0 +1,48 @@
+{
+  "coinName": "1987年熊猫20盎司金币",
+  "slug": "7aca1e7f",
+  "saleCount": 2,
+  "keywords": "金,币,1987年,20盎司,熊猫,年盎,盎司,司熊,猫金,金币,币版",
+  "priceStats": {
+    "low": 1300,
+    "high": 2400,
+    "avg": 1850,
+    "latest": 2400
+  },
+  "records": [
+    {
+      "coinName": "1987年1/20盎司熊猫金币(S版)",
+      "normalizedBoxCode": "8181780048",
+      "displayBoxCode": "8181780-048",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/554265.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8181780-048/69/",
+      "price": 2400,
+      "priceWithFee": null,
+      "transactedAt": "2026-02-23 10:11:04",
+      "productCode": "KH118821",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1987年,20盎司,熊猫,年盎,盎司,司熊,猫金,金币,币版"
+    },
+    {
+      "coinName": "1987年1/20盎司熊猫金币(S版)",
+      "normalizedBoxCode": "8190122015",
+      "displayBoxCode": "8190122-015",
+      "gradingCompany": "NGC",
+      "grade": "Ms69",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/462876.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8190122-015/69/",
+      "price": 1300,
+      "priceWithFee": null,
+      "transactedAt": "2025-02-22 09:53:14",
+      "productCode": "AA545256",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1987年,20盎司,熊猫,年盎,盎司,司熊,猫金,金币,币版"
+    }
+  ]
+}

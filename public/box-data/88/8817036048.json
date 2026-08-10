@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8817036048",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8817036048",
+      "displayBoxCode": "8817036-048",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1997年澳门99回归祖国第（1）组1盎司精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10355335.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8817036-048/69/",
+      "price": 670,
+      "priceWithFee": 693.45,
+      "transactedAt": "2026-06-22 20:55:10",
+      "productCode": "869812005",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/869812005A.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1997年,1盎司,年澳,澳门,门回,回归,归祖,祖国,国第,第组,组盎,盎司,司精,精制,制银,银币,评级,外国/特区"
+    }
+  ]
+}

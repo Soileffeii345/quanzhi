@@ -1,0 +1,65 @@
+{
+  "coinName": "2002年生肖31.104克银币",
+  "slug": "35db4ce5",
+  "saleCount": 3,
+  "keywords": "银,币,2002年,1盎司,生肖,年盎,盎司,司生,肖马,马彩,彩银,银币,司扇,扇形,形生,马银",
+  "priceStats": {
+    "low": 1050,
+    "high": 1500,
+    "avg": 1350,
+    "latest": 1500
+  },
+  "records": [
+    {
+      "coinName": "2002年1盎司生肖马彩银币",
+      "normalizedBoxCode": "4415085009",
+      "displayBoxCode": "4415085-009",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/526001.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4415085-009/70/",
+      "price": 1500,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-19 21:21:11",
+      "productCode": "AA606186",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2002年,1盎司,生肖,年盎,盎司,司生,肖马,马彩,彩银,银币"
+    },
+    {
+      "coinName": "2002年1盎司生肖马彩银币",
+      "normalizedBoxCode": "6746978050",
+      "displayBoxCode": "6746978-050",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/526002.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6746978-050/",
+      "price": 1500,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-13 13:12:51",
+      "productCode": "AA606187",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2002年,1盎司,生肖,年盎,盎司,司生,肖马,马彩,彩银,银币"
+    },
+    {
+      "coinName": "2002年1盎司扇形生肖马银币",
+      "normalizedBoxCode": "8574182002",
+      "displayBoxCode": "8574182-002",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/590168.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8574182-002/69/",
+      "price": 1050,
+      "priceWithFee": null,
+      "transactedAt": "2026-07-08 12:09:43",
+      "productCode": "AA657962",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2002年,1盎司,生肖,年盎,盎司,司扇,扇形,形生,肖马,马银,银币"
+    }
+  ]
+}

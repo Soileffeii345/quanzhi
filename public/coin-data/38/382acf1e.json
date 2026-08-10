@@ -1,0 +1,31 @@
+{
+  "coinName": "明治十七年日本26.96克银币",
+  "slug": "382acf1e",
+  "saleCount": 1,
+  "keywords": "银,币,26.96克,明治,治十,十七,七年,年日,日本,本克,克银,银币,外国/特区",
+  "priceStats": {
+    "low": 730,
+    "high": 730,
+    "avg": 730,
+    "latest": 730
+  },
+  "records": [
+    {
+      "coinName": "明治十七年日本26.96克银币",
+      "normalizedBoxCode": "6042721003",
+      "displayBoxCode": "6042721-003",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/wgjsbizhang/10352200.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6042721-003/",
+      "price": 730,
+      "priceWithFee": 773.8,
+      "transactedAt": "2026-06-26 20:03:55",
+      "productCode": "869266017",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,26.96克,明治,治十,十七,七年,年日,日本,本克,克银,银币,外国/特区"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8504392044",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8504392044",
+      "displayBoxCode": "8504392-044",
+      "gradingCompany": "NGC",
+      "grade": "MS 70",
+      "coinName": "2020年澳大利亚二战胜利75周年2盎司银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/wgjsbizhang/10365702.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8504392-044/70/",
+      "price": 1420,
+      "priceWithFee": 1505.2,
+      "transactedAt": "2026-06-26 20:20:35",
+      "productCode": "870452008",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/26/870452008A.jpg",
+      "ocrConfidence": 37,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2020年,2盎司,年澳,澳大,大利,利亚,亚二,二战,战胜,胜利,利周,周年,年盎,盎司,司银,银币,外国/特区"
+    }
+  ]
+}

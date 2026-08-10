@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "1874356038",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "1874356038",
+      "displayBoxCode": "1874356-038",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1993年香港渣打银行拾圆",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xianggangzhichao/10420621.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1874356-038/",
+      "price": 130,
+      "priceWithFee": 144.3,
+      "transactedAt": "2026-07-25 19:15:10",
+      "productCode": "877014006",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/877014006B.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,1993年,年香,香港,港渣,渣打,打银,银行,行拾,拾圆,外国/特区"
+    }
+  ]
+}

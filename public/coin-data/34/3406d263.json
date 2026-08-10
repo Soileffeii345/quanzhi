@@ -1,0 +1,31 @@
+{
+  "coinName": "1986年中华人民共和国国库券拾圆",
+  "slug": "3406d263",
+  "saleCount": 1,
+  "keywords": "1986年,年中,中华,华人,人民,民共,共和,和国,国国,国库,库券,券拾,拾圆",
+  "priceStats": {
+    "low": 200,
+    "high": 200,
+    "avg": 200,
+    "latest": 200
+  },
+  "records": [
+    {
+      "coinName": "1986年中华人民共和国国库券拾圆",
+      "normalizedBoxCode": "2048090011",
+      "displayBoxCode": "2048090-011",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/gupiao-zhaiquan/10356553.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2048090-011/",
+      "price": 200,
+      "priceWithFee": 222,
+      "transactedAt": "2026-06-27 21:21:55",
+      "productCode": "869687006",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "1986年,年中,中华,华人,人民,民共,共和,和国,国国,国库,库券,券拾,拾圆"
+    }
+  ]
+}

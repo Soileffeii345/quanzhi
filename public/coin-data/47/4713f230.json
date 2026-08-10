@@ -1,0 +1,31 @@
+{
+  "coinName": "中国造币公司发行1982年壬戌狗年生肖纪念章",
+  "slug": "4713f230",
+  "saleCount": 1,
+  "keywords": "币,章,1982年,生肖,中国,国造,造币,币公,公司,司发,发行,行年,年壬,壬戌,戌狗,狗年,年生,肖纪,纪念,念章",
+  "priceStats": {
+    "low": 410,
+    "high": 410,
+    "avg": 410,
+    "latest": 410
+  },
+  "records": [
+    {
+      "coinName": "中国造币公司发行1982年壬戌狗年生肖纪念章",
+      "normalizedBoxCode": "8817052006",
+      "displayBoxCode": "8817052-006",
+      "gradingCompany": "NGC",
+      "grade": "PF 68 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/tongzhang/10373713.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8817052-006/68/",
+      "price": 410,
+      "priceWithFee": 455.1,
+      "transactedAt": "2026-07-03 20:09:20",
+      "productCode": "871842002",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,章,1982年,生肖,中国,国造,造币,币公,公司,司发,发行,行年,年壬,壬戌,戌狗,狗年,年生,肖纪,纪念,念章"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2277459019",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2277459019",
+      "displayBoxCode": "2277459-019",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "民国三十年中国农民银行壹佰圆",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10377366.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2277459-019/",
+      "price": 370,
+      "priceWithFee": 410.7,
+      "transactedAt": "2026-07-23 21:33:40",
+      "productCode": "872356008",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/27/872356008B.jpg",
+      "ocrConfidence": 30,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国三,三十,十年,年中,中国,国农,农民,民银,银行,行壹,壹佰,佰圆"
+    }
+  ]
+}

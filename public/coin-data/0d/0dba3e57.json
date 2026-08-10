@@ -1,0 +1,31 @@
+{
+  "coinName": "1998年生肖3.11克金币",
+  "slug": "0dba3e57",
+  "saleCount": 1,
+  "keywords": "金,币,1998年,10盎司,生肖,年盎,盎司,司生,肖虎,虎金,金币",
+  "priceStats": {
+    "low": 2205,
+    "high": 2205,
+    "avg": 2205,
+    "latest": 2205
+  },
+  "records": [
+    {
+      "coinName": "1998年1/10盎司生肖虎金币",
+      "normalizedBoxCode": "4410645008",
+      "displayBoxCode": "4410645-008",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/468416.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4410645-008/69/",
+      "price": 2205,
+      "priceWithFee": null,
+      "transactedAt": "2025-03-15 15:48:24",
+      "productCode": "KH061173",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1998年,10盎司,生肖,年盎,盎司,司生,肖虎,虎金,金币"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "29242336",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "29242336",
+      "displayBoxCode": "29242336",
+      "gradingCompany": "PCGS",
+      "grade": "MS69",
+      "coinName": "2012年1盎司华夏银行成立20周年银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/528131.html",
+      "officialCertUrl": "https://cn.pcgs.com/cert/29242336",
+      "price": 900,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-27 01:19:21",
+      "productCode": "KH101517",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260105/large_sell_hjzaq3bklaalmmol.jpg",
+      "ocrConfidence": 37,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2012年,1盎司,年盎,盎司,司华,华夏,夏银,银行,行成,成立,立周,周年,年银,银币"
+    }
+  ]
+}

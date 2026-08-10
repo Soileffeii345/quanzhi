@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6402402008",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6402402008",
+      "displayBoxCode": "6402402-008",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1979年1/2盎司建国30周年人民英雄纪念碑金币(CA/无标)",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/463669.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6402402-008/",
+      "price": 10660,
+      "priceWithFee": null,
+      "transactedAt": "2025-02-10 19:57:36",
+      "productCode": "KH058918",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250210/large_sell_gsm1yq85cuyio4hi.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1979年,2盎司,重大事件,年盎,盎司,司建,建国,国周,周年,年人,人民,民英,英雄,雄纪,纪念,念碑,碑金,金币,币无,无标"
+    }
+  ]
+}

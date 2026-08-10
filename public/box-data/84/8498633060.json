@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8498633060",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8498633060",
+      "displayBoxCode": "8498633-060",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2007年1盎司中信银行成立20周年银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/506122.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8498633-060/",
+      "price": 800,
+      "priceWithFee": null,
+      "transactedAt": "2025-10-18 22:13:16",
+      "productCode": "AA590736",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251016/large_sell_ejzaoa5ntppwv7vp.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2007年,1盎司,年盎,盎司,司中,中信,信银,银行,行成,成立,立周,周年,年银,银币"
+    }
+  ]
+}

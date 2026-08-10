@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4415241011",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4415241011",
+      "displayBoxCode": "4415241-011",
+      "gradingCompany": "NGC",
+      "grade": "PF 69",
+      "coinName": "1995年22克古代科技第4组印刷术银币(UC)",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/506202.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4415241-011/69/",
+      "price": 4650,
+      "priceWithFee": null,
+      "transactedAt": "2025-10-17 23:36:54",
+      "productCode": "KH087709",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251016/large_sell_x6jmpustoirmyq60.jpg",
+      "ocrConfidence": 47,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1995年,22克,年克,克古,古代,代科,科技,技第,第组,组印,印刷,刷术,术银,银币"
+    }
+  ]
+}

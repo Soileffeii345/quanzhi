@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6191877016",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6191877016",
+      "displayBoxCode": "6191877-016",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1995年麒麟1/4盎司金+1/8盎司银精制双金属币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-shuangjinshu/10410190.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6191877-016/",
+      "price": 12400,
+      "priceWithFee": 12834,
+      "transactedAt": "2026-07-23 20:56:45",
+      "productCode": "876281003",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/876281003A.jpg",
+      "ocrConfidence": 44,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,1995年,4盎司,年麒,麒麟,麟盎,盎司,司金,金盎,司银,银精,精制,制双,双金,金属,属币,评级"
+    }
+  ]
+}

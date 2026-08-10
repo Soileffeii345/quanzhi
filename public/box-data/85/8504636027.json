@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8504636027",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8504636027",
+      "displayBoxCode": "8504636-027",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2001年澳大利亚千禧年系列未来33.15克三色双金属镀金银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/wgjsbizhang/10365700.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8504636-027/69/",
+      "price": 1520,
+      "priceWithFee": 1611.2,
+      "transactedAt": "2026-06-26 20:13:55",
+      "productCode": "870452006",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/26/870452006A.jpg",
+      "ocrConfidence": 38,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,2001年,33.15克,年澳,澳大,大利,利亚,亚千,千禧,禧年,年系,系列,列未,未来,来克,克三,三色,色双,双金,金属,属镀,镀金,金银,银币,外国/特区"
+    }
+  ]
+}

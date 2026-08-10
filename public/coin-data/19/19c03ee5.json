@@ -1,0 +1,31 @@
+{
+  "coinName": "1996年生肖12盎司精制银币",
+  "slug": "19c03ee5",
+  "saleCount": 1,
+  "keywords": "银,币,1996年,12盎司,生肖,年丙,丙子,子鼠,鼠年,年生,肖盎,盎司,司精,精制,制银,银币,评级",
+  "priceStats": {
+    "low": 41500,
+    "high": 41500,
+    "avg": 41500,
+    "latest": 41500
+  },
+  "records": [
+    {
+      "coinName": "1996年丙子鼠年生肖12盎司精制银币",
+      "normalizedBoxCode": "8450191006",
+      "displayBoxCode": "8450191-006",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10362460.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8450191-006/69/",
+      "price": 41500,
+      "priceWithFee": 42952.5,
+      "transactedAt": "2026-06-25 20:13:05",
+      "productCode": "869585002",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1996年,12盎司,生肖,年丙,丙子,子鼠,鼠年,年生,肖盎,盎司,司精,精制,制银,银币,评级"
+    }
+  ]
+}

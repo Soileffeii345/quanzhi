@@ -1,0 +1,31 @@
+{
+  "coinName": "2001年生肖3.11克金币",
+  "slug": "05176891",
+  "saleCount": 1,
+  "keywords": "金,币,2001年,10盎司,生肖,年盎,盎司,司生,肖蛇,蛇金,金币",
+  "priceStats": {
+    "low": 2180,
+    "high": 2180,
+    "avg": 2180,
+    "latest": 2180
+  },
+  "records": [
+    {
+      "coinName": "2001年1/10盎司生肖蛇金币",
+      "normalizedBoxCode": "6001808030",
+      "displayBoxCode": "6001808-030",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/468475.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6001808-030/",
+      "price": 2180,
+      "priceWithFee": null,
+      "transactedAt": "2025-03-18 11:58:20",
+      "productCode": "AA554920",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2001年,10盎司,生肖,年盎,盎司,司生,肖蛇,蛇金,金币"
+    }
+  ]
+}

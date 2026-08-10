@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6193744033",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6193744033",
+      "displayBoxCode": "6193744-033",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1992年出土文物青铜器第（2）组-长信宫灯15克精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10389114.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6193744-033/",
+      "price": 940,
+      "priceWithFee": 972.9,
+      "transactedAt": "2026-07-13 21:51:50",
+      "productCode": "873690012",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/27/873690012A.jpg",
+      "ocrConfidence": 39,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,铜,币,1992年,15克,年出,出土,土文,文物,物青,青铜,铜器,器第,第组,组长,长信,信宫,宫灯,灯克,克精,精制,制银,银币,评级"
+    }
+  ]
+}

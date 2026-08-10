@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8509957006",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8509957006",
+      "displayBoxCode": "8509957-006",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2023年60克千里江山图彩银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/553052.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8509957-006/70/",
+      "price": 8500,
+      "priceWithFee": null,
+      "transactedAt": "2026-02-06 23:02:11",
+      "productCode": "KH118177",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260206/large_sell_49bakfjmjrtvxe2k.jpg",
+      "ocrConfidence": 41,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2023年,60克,年克,克千,千里,里江,江山,山图,图彩,彩银,银币"
+    }
+  ]
+}

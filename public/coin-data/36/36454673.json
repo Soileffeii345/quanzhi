@@ -1,0 +1,31 @@
+{
+  "coinName": "1985年31.104克精制银币",
+  "slug": "36454673",
+  "saleCount": 1,
+  "keywords": "银,币,1985年,1盎司,年西,西藏,藏自,自治,治区,区成,成立,立周,周年,年布,布达,达拉,拉宫,宫盎,盎司,司精,精制,制银,银币,评级",
+  "priceStats": {
+    "low": 7800,
+    "high": 7800,
+    "avg": 7800,
+    "latest": 7800
+  },
+  "records": [
+    {
+      "coinName": "1985年西藏自治区成立20周年-布达拉宫1盎司精制银币",
+      "normalizedBoxCode": "4286842001",
+      "displayBoxCode": "4286842-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10389112.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4286842-001/69/",
+      "price": 7800,
+      "priceWithFee": 8073,
+      "transactedAt": "2026-07-09 20:14:05",
+      "productCode": "873690010",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1985年,1盎司,年西,西藏,藏自,自治,治区,区成,成立,立周,周年,年布,布达,达拉,拉宫,宫盎,盎司,司精,精制,制银,银币,评级"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8655778006",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8655778006",
+      "displayBoxCode": "8655778-006",
+      "gradingCompany": "NGC",
+      "grade": "PF 67 ULTRA CAMEO",
+      "coinName": "2026丙午马年生肖15克精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10362315.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8655778-006/67/",
+      "price": 550,
+      "priceWithFee": 569.25,
+      "transactedAt": "2026-07-04 19:46:35",
+      "productCode": "870684001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/26/870684001A.jpg",
+      "ocrConfidence": 41,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,15克,生肖,丙午,午马,马年,年生,肖克,克精,精制,制银,银币,评级"
+    }
+  ]
+}

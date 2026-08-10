@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6739116035",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6739116035",
+      "displayBoxCode": "6739116-035",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2010年上海世博会精制流通纪念币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10395504.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6739116-035/",
+      "price": 360,
+      "priceWithFee": 388.8,
+      "transactedAt": "2026-07-15 21:00:20",
+      "productCode": "874330012",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/874330012A.jpg",
+      "ocrConfidence": 41,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2010年,重大事件,年上,上海,海世,世博,博会,会精,精制,制流,流通,通纪,纪念,念币,评级"
+    }
+  ]
+}

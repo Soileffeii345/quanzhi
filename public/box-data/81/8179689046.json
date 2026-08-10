@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8179689046",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8179689046",
+      "displayBoxCode": "8179689-046",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "1990年1盎司熊猫银币(P版)",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/551479.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8179689-046/70/",
+      "price": 4500,
+      "priceWithFee": null,
+      "transactedAt": "2026-02-02 20:35:38",
+      "productCode": "KH117397",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260202/large_sell_vv4dym3wl08qpm6d.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1990年,1盎司,熊猫,年盎,盎司,司熊,猫银,银币,币版"
+    }
+  ]
+}

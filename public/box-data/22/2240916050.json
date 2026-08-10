@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2240916050",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2240916050",
+      "displayBoxCode": "2240916-050",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2017年加拿大塑料钞",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10392439.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2240916-050/",
+      "price": 180,
+      "priceWithFee": 199.8,
+      "transactedAt": "2026-07-14 22:06:20",
+      "productCode": "873792021",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/873792021B.jpg",
+      "ocrConfidence": 26,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,2017年,年加,加拿,拿大,大塑,塑料,料钞,外国/特区"
+    }
+  ]
+}

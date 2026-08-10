@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2382133006",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2382133006",
+      "displayBoxCode": "2382133-006",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1949年中央银行金圆券拾万圆",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10364107.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2382133-006/",
+      "price": 3250,
+      "priceWithFee": 3607.5,
+      "transactedAt": "2026-07-09 19:54:10",
+      "productCode": "869951006",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/869951006B.jpg",
+      "ocrConfidence": 32,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,1949年,年中,中央,央银,银行,行金,金圆,圆券,券拾,拾万,万圆"
+    }
+  ]
+}

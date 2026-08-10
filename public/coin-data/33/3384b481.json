@@ -1,0 +1,48 @@
+{
+  "coinName": "2002年生肖31.104克普制银币",
+  "slug": "3384b481",
+  "saleCount": 2,
+  "keywords": "银,币,2002年,1盎司,生肖,年壬,壬午,午马,马年,年生,肖盎,盎司,司扇,扇形,形普,普制,制银,银币",
+  "priceStats": {
+    "low": 900,
+    "high": 980,
+    "avg": 940,
+    "latest": 980
+  },
+  "records": [
+    {
+      "coinName": "2002年壬午马年生肖1盎司扇形普制银币",
+      "normalizedBoxCode": "8610819025",
+      "displayBoxCode": "8610819-025",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10350676.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8610819-025/69/",
+      "price": 980,
+      "priceWithFee": 1014.3,
+      "transactedAt": "2026-06-22 19:18:10",
+      "productCode": "869116006",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2002年,1盎司,生肖,年壬,壬午,午马,马年,年生,肖盎,盎司,司扇,扇形,形普,普制,制银,银币"
+    },
+    {
+      "coinName": "2002年壬午马年生肖1盎司扇形普制银币",
+      "normalizedBoxCode": "8754710050",
+      "displayBoxCode": "8754710-050",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10410197.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8754710-050/69/",
+      "price": 900,
+      "priceWithFee": 931.5,
+      "transactedAt": "2026-07-20 20:48:10",
+      "productCode": "876281010",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2002年,1盎司,生肖,年壬,壬午,午马,马年,年生,肖盎,盎司,司扇,扇形,形普,普制,制银,银币"
+    }
+  ]
+}

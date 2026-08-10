@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "5776052023",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "5776052023",
+      "displayBoxCode": "5776052-023",
+      "gradingCompany": "NGC",
+      "grade": "Pr69 ULTRA CAMEO",
+      "coinName": "1995年妈祖1/2盎司精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10407540.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/5776052-023/69/",
+      "price": 1460,
+      "priceWithFee": 1511.1,
+      "transactedAt": "2026-07-20 21:06:40",
+      "productCode": "875918015",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/875918015A.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1995年,2盎司,年妈,妈祖,祖盎,盎司,司精,精制,制银,银币,评级"
+    }
+  ]
+}

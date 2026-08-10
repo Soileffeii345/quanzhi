@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8204444054",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8204444054",
+      "displayBoxCode": "8204444-054",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "coinName": "1993年1/10盎司熊猫金币(小字版)",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/470950.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8204444-054/69/",
+      "price": 2335,
+      "priceWithFee": null,
+      "transactedAt": "2025-04-02 08:45:34",
+      "productCode": "AA557086",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250329/large_sell_rwvqqdu7e6lrda4s.jpg",
+      "ocrConfidence": 32,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1993年,10盎司,熊猫,年盎,盎司,司熊,猫金,金币,币小,小字,字版"
+    }
+  ]
+}

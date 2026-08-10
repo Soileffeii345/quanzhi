@@ -1,0 +1,48 @@
+{
+  "coinName": "1956年中国硬币贰分",
+  "slug": "2b02ac05",
+  "saleCount": 2,
+  "keywords": "币,1956年,年中,中国,国硬,硬币,币贰,贰分",
+  "priceStats": {
+    "low": 210,
+    "high": 240,
+    "avg": 225,
+    "latest": 210
+  },
+  "records": [
+    {
+      "coinName": "1956年中国硬币贰分",
+      "normalizedBoxCode": "8613810002",
+      "displayBoxCode": "8613810-002",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10415748.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8613810-002/",
+      "price": 210,
+      "priceWithFee": 226.8,
+      "transactedAt": "2026-07-22 20:31:45",
+      "productCode": "876760008",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1956年,年中,中国,国硬,硬币,币贰,贰分"
+    },
+    {
+      "coinName": "1956年中国硬币贰分",
+      "normalizedBoxCode": "8613810011",
+      "displayBoxCode": "8613810-011",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10397603.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8613810-011/",
+      "price": 240,
+      "priceWithFee": 259.2,
+      "transactedAt": "2026-07-15 21:11:35",
+      "productCode": "874845002",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1956年,年中,中国,国硬,硬币,币贰,贰分"
+    }
+  ]
+}

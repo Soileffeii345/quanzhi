@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6180925045",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6180925045",
+      "displayBoxCode": "6180925-045",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2002年8边红楼梦第2组熙凤弄权彩银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/563222.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6180925-045/69/",
+      "price": 860,
+      "priceWithFee": null,
+      "transactedAt": "2026-03-17 15:29:23",
+      "productCode": "KH125112",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260316/large_sell_laeitr0ejxhth9uo.jpg",
+      "ocrConfidence": 39,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2002年,年边,边红,红楼,楼梦,梦第,第组,组熙,熙凤,凤弄,弄权,权彩,彩银,银币"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6727255026",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6727255026",
+      "displayBoxCode": "6727255-026",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2022年30克中国空间站建成彩银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/548864.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6727255-026/70/",
+      "price": 980,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-29 13:18:58",
+      "productCode": "KH115986",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260129/large_sell_sstb911sabskw3np.jpg",
+      "ocrConfidence": 45,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2022年,30克,年克,克中,中国,国空,空间,间站,站建,建成,成彩,彩银,银币"
+    }
+  ]
+}

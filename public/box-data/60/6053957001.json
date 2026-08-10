@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6053957001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6053957001",
+      "displayBoxCode": "6053957-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2021年8克首次火星探测任务成功金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/503844.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6053957-001/70/",
+      "price": 7315,
+      "priceWithFee": null,
+      "transactedAt": "2025-10-08 12:36:18",
+      "productCode": "KH086228",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251005/large_sell_edhyo9lxyjmeg5gs.jpg",
+      "ocrConfidence": 29,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2021年,8克,年克,克首,首次,次火,火星,星探,探测,测任,任务,务成,成功,功金,金币"
+    }
+  ]
+}

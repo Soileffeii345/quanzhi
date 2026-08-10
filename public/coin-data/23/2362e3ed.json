@@ -1,0 +1,31 @@
+{
+  "coinName": "1993年古代科技5盎司精制银币",
+  "slug": "2362e3ed",
+  "saleCount": 1,
+  "keywords": "银,币,1993年,5盎司,年中,中国,国古,古代,代科,科技,技发,发明,明发,发现,现第,第组,组太,太极,极图,图盎,盎司,司精,精制,制银,银币,评级",
+  "priceStats": {
+    "low": 30500,
+    "high": 30500,
+    "avg": 30500,
+    "latest": 30500
+  },
+  "records": [
+    {
+      "coinName": "1993年中国古代科技发明发现第（2）组-太极图5盎司精制银币",
+      "normalizedBoxCode": "8202772002",
+      "displayBoxCode": "8202772-002",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10362459.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8202772-002/69/",
+      "price": 30500,
+      "priceWithFee": 31567.5,
+      "transactedAt": "2026-06-25 20:04:05",
+      "productCode": "869585001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1993年,5盎司,年中,中国,国古,古代,代科,科技,技发,发明,明发,发现,现第,第组,组太,太极,极图,图盎,盎司,司精,精制,制银,银币,评级"
+    }
+  ]
+}

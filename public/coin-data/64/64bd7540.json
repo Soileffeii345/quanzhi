@@ -1,0 +1,65 @@
+{
+  "coinName": "2013年5盎司精制金币",
+  "slug": "64bd7540",
+  "saleCount": 3,
+  "keywords": "金,币,2013年,5盎司,宗教,年中,中国,国佛,佛教,教圣,圣地,地普,普陀,陀山,山盎,盎司,司精,精制,制金,金币,评级",
+  "priceStats": {
+    "low": 179000,
+    "high": 185000,
+    "avg": 182000,
+    "latest": 185000
+  },
+  "records": [
+    {
+      "coinName": "2013年中国佛教圣地-普陀山5盎司精制金币",
+      "normalizedBoxCode": "80923642",
+      "displayBoxCode": "80923642",
+      "gradingCompany": "PCGS",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10360183.shtml",
+      "officialCertUrl": "https://cn.pcgs.com/cert/80923642",
+      "price": 185000,
+      "priceWithFee": 191475,
+      "transactedAt": "2026-06-25 21:29:35",
+      "productCode": "870428015",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2013年,5盎司,宗教,年中,中国,国佛,佛教,教圣,圣地,地普,普陀,陀山,山盎,盎司,司精,精制,制金,金币,评级"
+    },
+    {
+      "coinName": "2013年中国佛教圣地-普陀山5盎司精制金币",
+      "normalizedBoxCode": "8656256001",
+      "displayBoxCode": "8656256-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10418884.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8656256-001/69/",
+      "price": 179000,
+      "priceWithFee": 185265,
+      "transactedAt": "2026-07-23 20:36:45",
+      "productCode": "877329001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2013年,5盎司,宗教,年中,中国,国佛,佛教,教圣,圣地,地普,普陀,陀山,山盎,盎司,司精,精制,制金,金币,评级"
+    },
+    {
+      "coinName": "2013年中国佛教圣地-普陀山5盎司精制金币",
+      "normalizedBoxCode": "8656258001",
+      "displayBoxCode": "8656258-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10379031.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8656258-001/69/",
+      "price": 182000,
+      "priceWithFee": 188370,
+      "transactedAt": "2026-07-02 20:43:00",
+      "productCode": "872402005",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2013年,5盎司,宗教,年中,中国,国佛,佛教,教圣,圣地,地普,普陀,陀山,山盎,盎司,司精,精制,制金,金币,评级"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "coinName": "沈阳造币有限公司发行2013年中国四大佛教名山之普陀山南海观音80克银章",
+  "slug": "41114bc9",
+  "saleCount": 1,
+  "keywords": "银,币,章,2013年,80克,宗教,沈阳,阳造,造币,币有,有限,限公,公司,司发,发行,行年,年中,中国,国四,四大,大佛,佛教,教名,名山,山之,之普,普陀,陀山,山南,南海,海观,观音,音克,克银,银章",
+  "priceStats": {
+    "low": 2600,
+    "high": 2600,
+    "avg": 2600,
+    "latest": 2600
+  },
+  "records": [
+    {
+      "coinName": "沈阳造币有限公司发行2013年中国四大佛教名山之普陀山南海观音80克银章",
+      "normalizedBoxCode": "8756820006",
+      "displayBoxCode": "8756820-006",
+      "gradingCompany": "NGC",
+      "grade": "PF 70",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10381774.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8756820-006/70/",
+      "price": 2600,
+      "priceWithFee": 2691,
+      "transactedAt": "2026-07-06 20:30:55",
+      "productCode": "872686003",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,章,2013年,80克,宗教,沈阳,阳造,造币,币有,有限,限公,公司,司发,发行,行年,年中,中国,国四,四大,大佛,佛教,教名,名山,山之,之普,普陀,陀山,山南,南海,海观,观音,音克,克银,银章"
+    }
+  ]
+}

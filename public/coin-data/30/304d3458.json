@@ -1,0 +1,31 @@
+{
+  "coinName": "2009年31.104克金币",
+  "slug": "304d3458",
+  "saleCount": 1,
+  "keywords": "金,银,币,2009年,1盎司,年盎,盎司,司贵,贵金,金属,属发,发行,行周,周年,年银,银币",
+  "priceStats": {
+    "low": 550,
+    "high": 550,
+    "avg": 550,
+    "latest": 550
+  },
+  "records": [
+    {
+      "coinName": "2009年1盎司贵金属发行30周年银币",
+      "normalizedBoxCode": "4320122018",
+      "displayBoxCode": "4320122-018",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/523352.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4320122-018/69/",
+      "price": 550,
+      "priceWithFee": null,
+      "transactedAt": "2025-12-23 21:21:32",
+      "productCode": "KH096960",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,2009年,1盎司,年盎,盎司,司贵,贵金,金属,属发,发行,行周,周年,年银,银币"
+    }
+  ]
+}

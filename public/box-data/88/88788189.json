@@ -1,0 +1,45 @@
+{
+  "ok": true,
+  "query": "88788189",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "88788189",
+      "displayBoxCode": "88788189",
+      "gradingCompany": "PCGS",
+      "grade": "待复核",
+      "coinName": "2005年1/2盎司陈云诞辰100周年金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/523691.html",
+      "officialCertUrl": "https://cn.pcgs.com/cert/88788189",
+      "price": 15835,
+      "priceWithFee": null,
+      "transactedAt": "2025-12-23 09:40:26",
+      "productCode": "KH095857A",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251218/large_sell_w7seh4infwdktbq6.jpg",
+      "ocrConfidence": 37,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2005年,2盎司,年盎,盎司,司陈,陈云,云诞,诞辰,辰周,周年,年金,金币"
+    },
+    {
+      "normalizedBoxCode": "88788189",
+      "displayBoxCode": "88788189",
+      "gradingCompany": "PCGS",
+      "grade": "待复核",
+      "coinName": "2005年1/2盎司陈云诞辰100周年金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/521671.html",
+      "officialCertUrl": "https://cn.pcgs.com/cert/88788189",
+      "price": 15315,
+      "priceWithFee": null,
+      "transactedAt": "2025-12-18 14:20:45",
+      "productCode": "KH095857",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251218/large_sell_w7seh4infwdktbq6.jpg",
+      "ocrConfidence": 37,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2005年,2盎司,年盎,盎司,司陈,陈云,云诞,诞辰,辰周,周年,年金,金币"
+    }
+  ]
+}

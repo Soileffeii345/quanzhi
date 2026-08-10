@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8556193039",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8556193039",
+      "displayBoxCode": "8556193-039",
+      "gradingCompany": "NGC",
+      "grade": "PF 68 ULTRA CAMEO",
+      "coinName": "1980年第13届冬奥会女子花样铜币(UC)",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/567833.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8556193-039/68/",
+      "price": 550,
+      "priceWithFee": null,
+      "transactedAt": "2026-03-29 18:35:00",
+      "productCode": "KH127146",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260328/large_sell_svmzcbv9j2mov9vh.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "铜,币,1980年,奥运,年第,第届,届冬,冬奥,奥会,会女,女子,子花,花样,样铜,铜币"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "coinName": "2005年31.104克彩色银币",
+  "slug": "2f22cca4",
+  "saleCount": 1,
+  "keywords": "银,币,2005年,1盎司,年蒙,蒙古,古日,日本,本横,横纲,纲相,相扑,扑选,选手,手盎,盎司,司彩,彩色,色银,银币,币三,三枚,枚一,一套,外国/特区",
+  "priceStats": {
+    "low": 3200,
+    "high": 3200,
+    "avg": 3200,
+    "latest": 3200
+  },
+  "records": [
+    {
+      "coinName": "2005年蒙古日本横纲相扑选手1盎司彩色银币三枚一套",
+      "normalizedBoxCode": "8504637056",
+      "displayBoxCode": "8504637-056",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/wgjsbizhang/10415200.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8504637-056/70/",
+      "price": 3200,
+      "priceWithFee": 3392,
+      "transactedAt": "2026-07-24 20:11:45",
+      "productCode": "876743028",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2005年,1盎司,年蒙,蒙古,古日,日本,本横,横纲,纲相,相扑,扑选,选手,手盎,盎司,司彩,彩色,色银,银币,币三,三枚,枚一,一套,外国/特区"
+    }
+  ]
+}

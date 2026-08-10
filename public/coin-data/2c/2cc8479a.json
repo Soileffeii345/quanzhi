@@ -1,0 +1,31 @@
+{
+  "coinName": "民国三十三年中央银行伍佰圆",
+  "slug": "2cc8479a",
+  "saleCount": 1,
+  "keywords": "银,历史币,民国,国三,三十,十三,三年,年中,中央,央银,银行,行伍,伍佰,佰圆",
+  "priceStats": {
+    "low": 490,
+    "high": 490,
+    "avg": 490,
+    "latest": 490
+  },
+  "records": [
+    {
+      "coinName": "民国三十三年中央银行伍佰圆",
+      "normalizedBoxCode": "2486161011",
+      "displayBoxCode": "2486161-011",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10374658.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2486161-011/",
+      "price": 490,
+      "priceWithFee": 543.9,
+      "transactedAt": "2026-07-14 21:26:50",
+      "productCode": "871426006",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国三,三十,十三,三年,年中,中央,央银,银行,行伍,伍佰,佰圆"
+    }
+  ]
+}

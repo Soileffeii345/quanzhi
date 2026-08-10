@@ -1,0 +1,31 @@
+{
+  "coinName": "1993年周恩来22克银币",
+  "slug": "4ffc3815",
+  "saleCount": 1,
+  "keywords": "银,币,1993年,22克,年克,克历,历史,史人,人物,物第,第组,组周,周恩,恩来,来银,银币",
+  "priceStats": {
+    "low": 4000,
+    "high": 4000,
+    "avg": 4000,
+    "latest": 4000
+  },
+  "records": [
+    {
+      "coinName": "1993年22克历史人物第10组周恩来银币(UC)",
+      "normalizedBoxCode": "8617051006",
+      "displayBoxCode": "8617051-006",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/520791.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8617051-006/",
+      "price": 4000,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-08 11:56:36",
+      "productCode": "AA602520",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1993年,22克,年克,克历,历史,史人,人物,物第,第组,组周,周恩,恩来,来银,银币"
+    }
+  ]
+}

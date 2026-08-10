@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "5807190048",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "5807190048",
+      "displayBoxCode": "5807190-048",
+      "gradingCompany": "NGC",
+      "grade": "MS 70",
+      "coinName": "2020年8克贺岁银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/400938.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/5807190-048/70/",
+      "price": 240,
+      "priceWithFee": null,
+      "transactedAt": "2023-11-20 13:25:56",
+      "productCode": "KH050500",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20231119/large_sell_ajsjsaitnh3x5lr4.jpg",
+      "ocrConfidence": 43,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2020年,8克,吉祥文化,年克,克贺,贺岁,岁银,银币"
+    }
+  ]
+}

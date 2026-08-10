@@ -1,0 +1,31 @@
+{
+  "coinName": "2021年吉祥文化30克银币",
+  "slug": "4b481532",
+  "saleCount": 1,
+  "keywords": "银,币,2021年,30克,吉祥文化,年克,克吉,吉祥,祥文,文化,化琴,琴瑟,瑟和,和鸣,鸣银,银币",
+  "priceStats": {
+    "low": 1400,
+    "high": 1400,
+    "avg": 1400,
+    "latest": 1400
+  },
+  "records": [
+    {
+      "coinName": "2021年30克吉祥文化琴瑟和鸣银币",
+      "normalizedBoxCode": "6725828044",
+      "displayBoxCode": "6725828-044",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/478244.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6725828-044/70/",
+      "price": 1400,
+      "priceWithFee": null,
+      "transactedAt": "2025-05-24 15:47:12",
+      "productCode": "KH066853",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2021年,30克,吉祥文化,年克,克吉,吉祥,祥文,文化,化琴,琴瑟,瑟和,和鸣,鸣银,银币"
+    }
+  ]
+}

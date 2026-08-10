@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "7017293022",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "7017293022",
+      "displayBoxCode": "7017293-022",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2015年航天纪念钞壹佰圆二枚（豹子号）",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/liantichao-jinianchao/10389731.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/7017293-022/",
+      "price": 270,
+      "priceWithFee": 291.6,
+      "transactedAt": "2026-07-07 19:30:50",
+      "productCode": "873927001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2025/42/813287003B.jpg",
+      "ocrConfidence": 30,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,2015年,年航,航天,天纪,纪念,念钞,钞壹,壹佰,佰圆,圆二,二枚,枚豹,豹子,子号"
+    }
+  ]
+}

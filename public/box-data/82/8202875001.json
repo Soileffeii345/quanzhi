@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8202875001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8202875001",
+      "displayBoxCode": "8202875-001",
+      "gradingCompany": "NGC",
+      "grade": "PF70 ULTRA CAMEO",
+      "coinName": "2019年8克书法艺术第2组金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/471080.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8202875-001/70/",
+      "price": 5985,
+      "priceWithFee": null,
+      "transactedAt": "2025-03-31 13:15:36",
+      "productCode": "KH063293",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250331/large_sell_dmgjoehfzspyuqbc.jpg",
+      "ocrConfidence": 40,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2019年,8克,书法,年克,克书,法艺,艺术,术第,第组,组金,金币"
+    }
+  ]
+}

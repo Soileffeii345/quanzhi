@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8504621034",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8504621034",
+      "displayBoxCode": "8504621-034",
+      "gradingCompany": "NGC",
+      "grade": "MS 68",
+      "coinName": "2010年熊猫1盎司普制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-jiuyin/10401095.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8504621-034/68/",
+      "price": 510,
+      "priceWithFee": 527.85,
+      "transactedAt": "2026-07-13 19:47:40",
+      "productCode": "875134019",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/875134019A.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2010年,1盎司,熊猫,年熊,猫盎,盎司,司普,普制,制银,银币"
+    }
+  ]
+}

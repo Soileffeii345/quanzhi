@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4320390004",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4320390004",
+      "displayBoxCode": "4320390-004",
+      "gradingCompany": "NGC",
+      "grade": "PF 68 ULTRA CAMEO",
+      "coinName": "2000年1/10盎司观音幻彩金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/489717.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4320390-004/68/",
+      "price": 2550,
+      "priceWithFee": null,
+      "transactedAt": "2025-07-20 15:30:20",
+      "productCode": "KH074909",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250719/large_sell_bb0mobzajpxlssmp.jpg",
+      "ocrConfidence": 55,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2000年,10盎司,宗教,年盎,盎司,司观,观音,音幻,幻彩,彩金,金币"
+    }
+  ]
+}

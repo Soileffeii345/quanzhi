@@ -1,0 +1,45 @@
+{
+  "ok": true,
+  "query": "4638927020",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4638927020",
+      "displayBoxCode": "4638927-020",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2008年1公斤第29届奥运会第3组拔河彩银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/490587.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4638927-020/69/",
+      "price": 9435,
+      "priceWithFee": null,
+      "transactedAt": "2025-07-25 12:16:52",
+      "productCode": "KH072255A",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250703/large_sell_qmiqjdbf6zxzqzwl.jpg",
+      "ocrConfidence": 38,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2008年,1公斤,奥运,年公,公斤,斤第,第届,届奥,运会,会第,第组,组拔,拔河,河彩,彩银,银币"
+    },
+    {
+      "normalizedBoxCode": "4638927020",
+      "displayBoxCode": "4638927-020",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2008年1公斤第29届奥运会第3组拔河彩银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/486973.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4638927-020/69/",
+      "price": 8905,
+      "priceWithFee": null,
+      "transactedAt": "2025-07-03 23:35:00",
+      "productCode": "KH072255",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250703/large_sell_qmiqjdbf6zxzqzwl.jpg",
+      "ocrConfidence": 38,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2008年,1公斤,奥运,年公,公斤,斤第,第届,届奥,运会,会第,第组,组拔,拔河,河彩,彩银,银币"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6720808005",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6720808005",
+      "displayBoxCode": "6720808-005",
+      "gradingCompany": "NGC",
+      "grade": "PF69 ULTRA CAMEO",
+      "coinName": "1997年中国近代国画大师齐白石-松鼠葡萄1/2盎司长方形精制金币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10359971.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6720808-005/69/",
+      "price": 31500,
+      "priceWithFee": 32602.5,
+      "transactedAt": "2026-06-25 21:19:05",
+      "productCode": "869596002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/869596002A.jpg",
+      "ocrConfidence": 39,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1997年,2盎司,年中,中国,国近,近代,代国,国画,画大,大师,师齐,齐白,白石,石松,松鼠,鼠葡,葡萄,萄盎,盎司,司长,长方,方形,形精,精制,制金,金币,评级"
+    }
+  ]
+}

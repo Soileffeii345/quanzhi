@@ -23,6 +23,22 @@ function allDigits(text) {
   return String(text ?? "").replace(/\D/g, "");
 }
 
+// Retry wrapper for DB writes
+function dbRun(stmt, ...params) {
+  for (let attempt = 0; attempt < 10; attempt++) {
+    try { return stmt.run(...params); }
+    catch (e) {
+      if (e.errstr === 'database is locked' && attempt < 9) {
+        const delay = 50 + Math.random() * 200;
+        const waitStart = Date.now();
+        while (Date.now() - waitStart < delay) { /* spin */ }
+        continue;
+      }
+      throw e;
+    }
+  }
+}
+
 const recognitionModes = [PSM.SPARSE_TEXT, PSM.SINGLE_BLOCK, PSM.SINGLE_LINE, PSM.RAW_LINE];
 const result = { selected: candidates.length, matched: 0, mismatched: 0, timedOut: 0, failed: 0 };
 let cursor = 0;
@@ -62,15 +78,15 @@ async function runWorker() {
           }
         }
         if (matchedAttempt) {
-          setStatus.run("ocr_double_match", `首轮OCR与增强数字OCR逐位一致；模式 ${matchedAttempt.mode}，可信度 ${matchedAttempt.confidence}。`, candidate.normalized_box_code, candidate.platform, candidate.detail_url);
+          dbRun(setStatus,"ocr_double_match", `首轮OCR与增强数字OCR逐位一致；模式 ${matchedAttempt.mode}，可信度 ${matchedAttempt.confidence}。`, candidate.normalized_box_code, candidate.platform, candidate.detail_url);
           result.matched += 1;
         } else {
-          setStatus.run("ocr_mismatch", `四种版面模式均未包含完整候选盒号；不得进入正式索引。`, candidate.normalized_box_code, candidate.platform, candidate.detail_url);
+          dbRun(setStatus,"ocr_mismatch", `四种版面模式均未包含完整候选盒号；不得进入正式索引。`, candidate.normalized_box_code, candidate.platform, candidate.detail_url);
           result.mismatched += 1;
         }
       } catch (error) {
         const timedOut = error instanceof Error && error.message === "OCR_TIMEOUT";
-        setStatus.run(timedOut ? "ocr_retry_needed" : "ocr_failed", timedOut ? "二次OCR超时，等待重试。" : `二次OCR失败：${error instanceof Error ? error.message : String(error)}`, candidate.normalized_box_code, candidate.platform, candidate.detail_url);
+        dbRun(setStatus,timedOut ? "ocr_retry_needed" : "ocr_failed", timedOut ? "二次OCR超时，等待重试。" : `二次OCR失败：${error instanceof Error ? error.message : String(error)}`, candidate.normalized_box_code, candidate.platform, candidate.detail_url);
         result[timedOut ? "timedOut" : "failed"] += 1;
         if (timedOut) {
           await worker.terminate().catch(() => undefined);

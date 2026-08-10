@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8659676011",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8659676011",
+      "displayBoxCode": "8659676-011",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2004年世界文化遗产-苏州古典园林精制流通纪念币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10359875.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8659676-011/",
+      "price": 360,
+      "priceWithFee": 388.8,
+      "transactedAt": "2026-06-24 19:10:45",
+      "productCode": "869854061",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/869854061A.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2004年,年世,世界,界文,文化,化遗,遗产,产苏,苏州,州古,古典,典园,园林,林精,精制,制流,流通,通纪,纪念,念币,评级"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "coinName": "1991年熊猫31.104克精制银币",
+  "slug": "4201c8c1",
+  "saleCount": 1,
+  "keywords": "银,币,1991年,1盎司,熊猫,年熊,猫盎,盎司,司精,精制,制银,银币,币版,评级",
+  "priceStats": {
+    "low": 2200,
+    "high": 2200,
+    "avg": 2200,
+    "latest": 2200
+  },
+  "records": [
+    {
+      "coinName": "1991年熊猫1盎司精制银币（P版）",
+      "normalizedBoxCode": "8757946003",
+      "displayBoxCode": "8757946-003",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-xinyin/10351231.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8757946-003/69/",
+      "price": 2200,
+      "priceWithFee": 2277,
+      "transactedAt": "2026-06-18 20:44:10",
+      "productCode": "869398015",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1991年,1盎司,熊猫,年熊,猫盎,盎司,司精,精制,制银,银币,币版,评级"
+    }
+  ]
+}

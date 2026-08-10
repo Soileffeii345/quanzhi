@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6749381002",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6749381002",
+      "displayBoxCode": "6749381-002",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1985年5盎司香港国际硬币展银章",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/411221.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6749381-002/69/",
+      "price": 14600,
+      "priceWithFee": null,
+      "transactedAt": "2024-02-20 09:54:35",
+      "productCode": "AA456849",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20240108/large_sell_nneqivras7pdqoma.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,章,1985年,5盎司,年盎,盎司,司香,香港,港国,国际,际硬,硬币,币展,展银,银章,外国/特区"
+    }
+  ]
+}

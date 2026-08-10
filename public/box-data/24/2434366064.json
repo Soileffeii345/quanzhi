@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2434366064",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2434366064",
+      "displayBoxCode": "2434366-064",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2024年毛里求斯塑料钞",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10392433.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2434366-064/",
+      "price": 65,
+      "priceWithFee": 72.15,
+      "transactedAt": "2026-07-14 21:54:50",
+      "productCode": "873792015",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/873792015B.jpg",
+      "ocrConfidence": 26,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,2024年,年毛,毛里,里求,求斯,斯塑,塑料,料钞"
+    }
+  ]
+}

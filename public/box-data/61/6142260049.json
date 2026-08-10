@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6142260049",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6142260049",
+      "displayBoxCode": "6142260-049",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1986年1/3盎司野生动物基金会牦牛金币(断山)",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/506181.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6142260-049/",
+      "price": 10115,
+      "priceWithFee": null,
+      "transactedAt": "2025-10-16 18:46:30",
+      "productCode": "AA590783",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251016/large_sell_vayskfbsn3qo37j7.jpg",
+      "ocrConfidence": 32,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1986年,3盎司,年盎,盎司,司野,野生,生动,动物,物基,基金,金会,会牦,牦牛,牛金,金币,币断,断山"
+    }
+  ]
+}

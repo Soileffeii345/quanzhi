@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2253231019",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2253231019",
+      "displayBoxCode": "2253231-019",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "第二版人民币民族大团结红5元",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/dierbanrenminbi/10399473.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2253231-019/",
+      "price": 103000,
+      "priceWithFee": 111240,
+      "transactedAt": "2026-07-23 20:42:40",
+      "productCode": "875007001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/875007001B.jpg",
+      "ocrConfidence": 23,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,第二,二版,版人,人民,民币,币民,民族,族大,大团,团结,结红,红元"
+    }
+  ]
+}

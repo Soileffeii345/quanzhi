@@ -1,0 +1,45 @@
+{
+  "ok": true,
+  "query": "2210535001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2210535001",
+      "displayBoxCode": "2210535-001",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "第三版人民币5元",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/disanbanrenminbi/10397169.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2210535-001/",
+      "price": 2750,
+      "priceWithFee": 2970,
+      "transactedAt": "2026-07-11 21:51:10",
+      "productCode": "874915002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/869669003B.jpg",
+      "ocrConfidence": 31,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,第三,三版,版人,人民,民币,币元"
+    },
+    {
+      "normalizedBoxCode": "2210535001",
+      "displayBoxCode": "2210535-001",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "第三版人民币5元",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/disanbanrenminbi/10355944.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2210535-001/",
+      "price": 2850,
+      "priceWithFee": 3078,
+      "transactedAt": "2026-06-27 20:33:40",
+      "productCode": "869669003",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/869669003B.jpg",
+      "ocrConfidence": 31,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,第三,三版,版人,人民,民币,币元"
+    }
+  ]
+}

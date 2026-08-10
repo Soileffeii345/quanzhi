@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8825278003",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8825278003",
+      "displayBoxCode": "8825278-003",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2020年熊猫150克精制金币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-xinjin/10390807.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8825278-003/70/",
+      "price": 149000,
+      "priceWithFee": 154215,
+      "transactedAt": "2026-07-09 21:20:45",
+      "productCode": "873930002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/27/873930002A.jpg",
+      "ocrConfidence": 58,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2020年,150克,熊猫,年熊,猫克,克精,精制,制金,金币,评级"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2922603003",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2922603003",
+      "displayBoxCode": "2922603-003",
+      "gradingCompany": "NGC",
+      "grade": "PF 68 ULTRA CAMEO",
+      "coinName": "1995年1盎司抗战胜利50周年金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/454121.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2922603-003/68/",
+      "price": 60000,
+      "priceWithFee": null,
+      "transactedAt": "2025-03-28 21:53:44",
+      "productCode": "AA531456.57A",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20241101/large_sell_w7lwfr5gbkyemjho.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1995年,1盎司,重大事件,年盎,盎司,司抗,抗战,战胜,胜利,利周,周年,年金,金币"
+    }
+  ]
+}

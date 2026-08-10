@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6148159045",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6148159045",
+      "displayBoxCode": "6148159-045",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1980年第13届冬季奥运会-女子速度滑冰12克精制铜币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-tong/10350821.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6148159-045/",
+      "price": 420,
+      "priceWithFee": 434.7,
+      "transactedAt": "2026-06-22 20:18:10",
+      "productCode": "868336001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/868336001A.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "铜,币,1980年,12克,奥运,年第,第届,届冬,冬季,季奥,运会,会女,女子,子速,速度,度滑,滑冰,冰克,克精,精制,制铜,铜币,评级"
+    }
+  ]
+}

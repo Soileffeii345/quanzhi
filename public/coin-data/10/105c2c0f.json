@@ -1,0 +1,48 @@
+{
+  "coinName": "2014年开曼群岛纸钞",
+  "slug": "105c2c0f",
+  "saleCount": 2,
+  "keywords": "钞,2014年,年开,开曼,曼群,群岛,岛纸,纸钞",
+  "priceStats": {
+    "low": 100,
+    "high": 130,
+    "avg": 115,
+    "latest": 100
+  },
+  "records": [
+    {
+      "coinName": "2014年开曼群岛纸钞",
+      "normalizedBoxCode": "2435482036",
+      "displayBoxCode": "2435482-036",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10392455.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2435482-036/",
+      "price": 100,
+      "priceWithFee": 111,
+      "transactedAt": "2026-07-14 21:57:20",
+      "productCode": "873792037",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,2014年,年开,开曼,曼群,群岛,岛纸,纸钞"
+    },
+    {
+      "coinName": "2014年开曼群岛纸钞",
+      "normalizedBoxCode": "2435482049",
+      "displayBoxCode": "2435482-049",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10399180.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2435482-049/",
+      "price": 130,
+      "priceWithFee": 144.3,
+      "transactedAt": "2026-07-21 22:21:20",
+      "productCode": "875054019",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,2014年,年开,开曼,曼群,群岛,岛纸,纸钞"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "coinName": "2008年生肖1公斤银币",
+  "slug": "34e869b0",
+  "saleCount": 1,
+  "keywords": "银,币,2008年,1公斤,生肖,年公,公斤,斤生,肖鼠,鼠银,银币",
+  "priceStats": {
+    "low": 26000,
+    "high": 26000,
+    "avg": 26000,
+    "latest": 26000
+  },
+  "records": [
+    {
+      "coinName": "2008年1公斤生肖鼠银币",
+      "normalizedBoxCode": "6001830002",
+      "displayBoxCode": "6001830-002",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/515476.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6001830-002/69/",
+      "price": 26000,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-05 13:45:20",
+      "productCode": "KH093953",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2008年,1公斤,生肖,年公,公斤,斤生,肖鼠,鼠银,银币"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6178213014",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6178213014",
+      "displayBoxCode": "6178213-014",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1998年中国传统吉祥图-万象更新1/2盎司、1盎司精制彩银币各一枚，共二枚",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10408771.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6178213-014/",
+      "price": 840,
+      "priceWithFee": 869.4,
+      "transactedAt": "2026-07-20 20:33:40",
+      "productCode": "876088009",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/876088009A.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1998年,2盎司,吉祥文化,年中,中国,国传,传统,统吉,吉祥,祥图,图万,万象,象更,更新,新盎,盎司,司盎,司精,精制,制彩,彩银,银币,币各,各一,一枚,枚共,共二,二枚,评级"
+    }
+  ]
+}

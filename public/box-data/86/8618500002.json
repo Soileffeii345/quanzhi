@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8618500002",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8618500002",
+      "displayBoxCode": "8618500-002",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1988年宁夏回族自治区成立30周年流通纪念币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10409971.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8618500-002/",
+      "price": 600,
+      "priceWithFee": 648,
+      "transactedAt": "2026-07-22 20:05:05",
+      "productCode": "875950004",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/875950004A.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1988年,年宁,宁夏,夏回,回族,族自,自治,治区,区成,成立,立周,周年,年流,流通,通纪,纪念,念币"
+    }
+  ]
+}

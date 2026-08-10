@@ -1,0 +1,31 @@
+{
+  "coinName": "2015年28.28克彩色银币",
+  "slug": "607d4d40",
+  "saleCount": 1,
+  "keywords": "银,币,2015年,28.28克,年吉,吉尔,尔吉,吉斯,斯斯,斯坦,坦突,突厥,厥汗,汗国,国塔,塔姆,姆加,加印,印记,记克,克彩,彩色,色银,银币",
+  "priceStats": {
+    "low": 910,
+    "high": 910,
+    "avg": 910,
+    "latest": 910
+  },
+  "records": [
+    {
+      "coinName": "2015年吉尔吉斯斯坦突厥汗国塔姆加印记28.28克彩色银币",
+      "normalizedBoxCode": "8504637048",
+      "displayBoxCode": "8504637-048",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/wgjsbizhang/10415195.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8504637-048/",
+      "price": 910,
+      "priceWithFee": 964.6,
+      "transactedAt": "2026-07-24 20:10:55",
+      "productCode": "876743023",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2015年,28.28克,年吉,吉尔,尔吉,吉斯,斯斯,斯坦,坦突,突厥,厥汗,汗国,国塔,塔姆,姆加,加印,印记,记克,克彩,彩色,色银,银币"
+    }
+  ]
+}

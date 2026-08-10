@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4317662079",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4317662079",
+      "displayBoxCode": "4317662-079",
+      "gradingCompany": "NGC",
+      "grade": "MS 67",
+      "coinName": "1995年中国抗日战争和世界反法西斯战争胜利50周年流通纪念币二枚",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10373891.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4317662-079/67/",
+      "price": 130,
+      "priceWithFee": 140.4,
+      "transactedAt": "2026-07-01 19:44:05",
+      "productCode": "871684004",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/26/871684004A.jpg",
+      "ocrConfidence": 41,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1995年,年中,中国,国抗,抗日,日战,战争,争和,和世,世界,界反,反法,法西,西斯,斯战,争胜,胜利,利周,周年,年流,流通,通纪,纪念,念币,币二,二枚"
+    }
+  ]
+}

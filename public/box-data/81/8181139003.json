@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8181139003",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8181139003",
+      "displayBoxCode": "8181139-003",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2024年8克方形纸币千年金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/445279.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8181139-003/",
+      "price": 5300,
+      "priceWithFee": null,
+      "transactedAt": "2024-10-03 14:27:17",
+      "productCode": "AA496839",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20240815/large_sell_r50bpmq8jcz0x133.jpg",
+      "ocrConfidence": 30,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2024年,8克,年克,克方,方形,形纸,纸币,币千,千年,年金,金币"
+    }
+  ]
+}

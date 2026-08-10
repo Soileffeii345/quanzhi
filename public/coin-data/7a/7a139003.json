@@ -1,0 +1,31 @@
+{
+  "coinName": "2000年生肖31.104克普制银币",
+  "slug": "7a139003",
+  "saleCount": 1,
+  "keywords": "银,币,2000年,1盎司,生肖,年庚,庚辰,辰龙,龙年,年生,肖盎,盎司,司扇,扇形,形普,普制,制银,银币",
+  "priceStats": {
+    "low": 880,
+    "high": 880,
+    "avg": 880,
+    "latest": 880
+  },
+  "records": [
+    {
+      "coinName": "2000年庚辰龙年生肖1盎司扇形普制银币",
+      "normalizedBoxCode": "8610578014",
+      "displayBoxCode": "8610578-014",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10368363.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8610578-014/",
+      "price": 880,
+      "priceWithFee": 910.8,
+      "transactedAt": "2026-06-29 20:13:05",
+      "productCode": "870958016",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2000年,1盎司,生肖,年庚,庚辰,辰龙,龙年,年生,肖盎,盎司,司扇,扇形,形普,普制,制银,银币"
+    }
+  ]
+}

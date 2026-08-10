@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4312478005",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4312478005",
+      "displayBoxCode": "4312478-005",
+      "gradingCompany": "NGC",
+      "grade": "PF70",
+      "coinName": "2009年1/3盎司水浒传第1组彩金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/506291.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4312478-005/70/",
+      "price": 10180,
+      "priceWithFee": null,
+      "transactedAt": "2025-10-19 12:23:45",
+      "productCode": "KH088182",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251016/large_sell_bwy4rwechnooxnhe.jpg",
+      "ocrConfidence": 43,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2009年,3盎司,年盎,盎司,司水,水浒,浒传,传第,第组,组彩,彩金,金币"
+    }
+  ]
+}

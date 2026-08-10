@@ -1,0 +1,82 @@
+{
+  "coinName": "1997年生肖31.104克银币",
+  "slug": "1d8f9f31",
+  "saleCount": 4,
+  "keywords": "银,币,1997年,1盎司,生肖,年盎,盎司,司生,肖牛,牛银,银币,币精",
+  "priceStats": {
+    "low": 1900,
+    "high": 2150,
+    "avg": 2050,
+    "latest": 2150
+  },
+  "records": [
+    {
+      "coinName": "1997年1盎司生肖牛银币(精)",
+      "normalizedBoxCode": "2022481041",
+      "displayBoxCode": "2022481-041",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/410483.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2022481-041/69/",
+      "price": 2150,
+      "priceWithFee": null,
+      "transactedAt": "2024-03-11 11:26:51",
+      "productCode": "AA456153",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1997年,1盎司,生肖,年盎,盎司,司生,肖牛,牛银,银币,币精"
+    },
+    {
+      "coinName": "1997年1盎司生肖牛银币(精)",
+      "normalizedBoxCode": "3555154033",
+      "displayBoxCode": "3555154-033",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/489135.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3555154-033/69/",
+      "price": 1900,
+      "priceWithFee": null,
+      "transactedAt": "2025-07-22 15:01:45",
+      "productCode": "AA573239",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1997年,1盎司,生肖,年盎,盎司,司生,肖牛,牛银,银币,币精"
+    },
+    {
+      "coinName": "1997年1盎司生肖牛银币(精)",
+      "normalizedBoxCode": "6429491002",
+      "displayBoxCode": "6429491-002",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/566381.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6429491-002/69/",
+      "price": 2100,
+      "priceWithFee": null,
+      "transactedAt": "2026-04-11 14:00:52",
+      "productCode": "KH129040",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1997年,1盎司,生肖,年盎,盎司,司生,肖牛,牛银,银币,币精"
+    },
+    {
+      "coinName": "1997年1盎司生肖牛银币(精)",
+      "normalizedBoxCode": "8619770053",
+      "displayBoxCode": "8619770-053",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/538585.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8619770-053/69/",
+      "price": 2050,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-28 12:49:53",
+      "productCode": "KH114849",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1997年,1盎司,生肖,年盎,盎司,司生,肖牛,牛银,银币,币精"
+    }
+  ]
+}

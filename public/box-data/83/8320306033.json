@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8320306033",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8320306033",
+      "displayBoxCode": "8320306-033",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1983年马可波罗1克精制金币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10426998.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8320306-033/",
+      "price": 1720,
+      "priceWithFee": 1780.2,
+      "transactedAt": "2026-07-27 22:17:40",
+      "productCode": "878107003",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/878107003A.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1983年,1克,年马,马可,可波,波罗,罗克,克精,精制,制金,金币,评级"
+    }
+  ]
+}

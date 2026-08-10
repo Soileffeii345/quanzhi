@@ -1,0 +1,48 @@
+{
+  "coinName": "2006年15.552克金币",
+  "slug": "115921ae",
+  "saleCount": 2,
+  "keywords": "金,币,2006年,2盎司,年盎,盎司,司岳,岳麓,麓书,书院,院金,金币",
+  "priceStats": {
+    "low": 11885,
+    "high": 12485,
+    "avg": 12185,
+    "latest": 11885
+  },
+  "records": [
+    {
+      "coinName": "2006年1/2盎司岳麓书院金币",
+      "normalizedBoxCode": "2103643010",
+      "displayBoxCode": "2103643-010",
+      "gradingCompany": "NGC",
+      "grade": "PF70",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/472438.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2103643-010/70/",
+      "price": 11885,
+      "priceWithFee": null,
+      "transactedAt": "2025-04-10 12:20:46",
+      "productCode": "KH063962",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2006年,2盎司,年盎,盎司,司岳,岳麓,麓书,书院,院金,金币"
+    },
+    {
+      "coinName": "2006年1/2盎司岳麓书院金币",
+      "normalizedBoxCode": "8501564001",
+      "displayBoxCode": "8501564-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/497386.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8501564-001/69/",
+      "price": 12485,
+      "priceWithFee": null,
+      "transactedAt": "2025-08-30 11:19:28",
+      "productCode": "KH080275",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2006年,2盎司,年盎,盎司,司岳,岳麓,麓书,书院,院金,金币"
+    }
+  ]
+}

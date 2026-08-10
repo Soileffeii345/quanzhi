@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8499499002",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8499499002",
+      "displayBoxCode": "8499499-002",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1995年1/3盎司丝绸之路第1组张骞出使西域金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/469232.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8499499-002/69/",
+      "price": 7500,
+      "priceWithFee": null,
+      "transactedAt": "2025-03-20 13:04:52",
+      "productCode": "AA555512",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250320/large_sell_a9dqlo6cvp8p0mas.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1995年,3盎司,年盎,盎司,司丝,丝绸,绸之,之路,路第,第组,组张,张骞,骞出,出使,使西,西域,域金,金币"
+    }
+  ]
+}

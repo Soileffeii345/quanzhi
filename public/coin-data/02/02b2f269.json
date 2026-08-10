@@ -1,0 +1,31 @@
+{
+  "coinName": "2012年7.776克银币",
+  "slug": "02b2f269",
+  "saleCount": 1,
+  "keywords": "金,银,币,2012年,4盎司,年盎,盎司,司中,中国,国银,银行,行成,成立,立周,周年,年金,金币",
+  "priceStats": {
+    "low": 8860,
+    "high": 8860,
+    "avg": 8860,
+    "latest": 8860
+  },
+  "records": [
+    {
+      "coinName": "2012年1/4盎司中国银行成立100周年金币",
+      "normalizedBoxCode": "6429383002",
+      "displayBoxCode": "6429383-002",
+      "gradingCompany": "NGC",
+      "grade": "MS69",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/537621.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6429383-002/69/",
+      "price": 8860,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-25 03:28:06",
+      "productCode": "KH112415",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,2012年,4盎司,年盎,盎司,司中,中国,国银,银行,行成,成立,立周,周年,年金,金币"
+    }
+  ]
+}

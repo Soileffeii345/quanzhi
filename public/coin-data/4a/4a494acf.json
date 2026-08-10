@@ -1,0 +1,31 @@
+{
+  "coinName": "2000年京剧15.552克精制金币",
+  "slug": "4a494acf",
+  "saleCount": 1,
+  "keywords": "金,币,2000年,2盎司,戏曲,年中,中国,国京,京剧,剧艺,艺术,术第,第组,组梁,梁红,红玉,玉盎,盎司,司精,精制,制彩,彩金,金币,评级",
+  "priceStats": {
+    "low": 15200,
+    "high": 15200,
+    "avg": 15200,
+    "latest": 15200
+  },
+  "records": [
+    {
+      "coinName": "2000年中国京剧艺术第（2）组-梁红玉1/2盎司精制彩金币",
+      "normalizedBoxCode": "8499963005",
+      "displayBoxCode": "8499963-005",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10386678.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8499963-005/69/",
+      "price": 15200,
+      "priceWithFee": 15732,
+      "transactedAt": "2026-07-09 21:47:25",
+      "productCode": "873412001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2000年,2盎司,戏曲,年中,中国,国京,京剧,剧艺,艺术,术第,第组,组梁,梁红,红玉,玉盎,盎司,司精,精制,制彩,彩金,金币,评级"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8390929001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8390929001",
+      "displayBoxCode": "8390929-001",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1995年1盎司麒麟金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/553952.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8390929-001/",
+      "price": 53500,
+      "priceWithFee": null,
+      "transactedAt": "2026-06-01 21:36:13",
+      "productCode": "KH137209",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260209/large_sell_nfvdvwxb8n5qcz7n.jpg",
+      "ocrConfidence": 32,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1995年,1盎司,年盎,盎司,司麒,麒麟,麟金,金币"
+    }
+  ]
+}

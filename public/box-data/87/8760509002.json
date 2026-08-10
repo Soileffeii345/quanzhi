@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8760509002",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8760509002",
+      "displayBoxCode": "8760509-002",
+      "gradingCompany": "NGC",
+      "grade": "PF70",
+      "coinName": "2024年国家宝藏（启蒙奠基）-何尊15克精制金币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10417581.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8760509-002/70/",
+      "price": 18000,
+      "priceWithFee": 18630,
+      "transactedAt": "2026-07-23 20:31:45",
+      "productCode": "877170006",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/877170006A.jpg",
+      "ocrConfidence": 28,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2024年,15克,年国,国家,家宝,宝藏,藏启,启蒙,蒙奠,奠基,基何,何尊,尊克,克精,精制,制金,金币,评级"
+    }
+  ]
+}

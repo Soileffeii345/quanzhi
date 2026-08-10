@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8497556001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8497556001",
+      "displayBoxCode": "8497556-001",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1998年莲座观音1盎司普制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10350404.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8497556-001/",
+      "price": 780,
+      "priceWithFee": 807.3,
+      "transactedAt": "2026-06-22 22:03:40",
+      "productCode": "868926009",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/868926009A.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1998年,1盎司,宗教,年莲,莲座,座观,观音,音盎,盎司,司普,普制,制银,银币"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8755009001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8755009001",
+      "displayBoxCode": "8755009-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2016年丙申猴年生肖5盎司长方形精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10351260.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8755009-001/69/",
+      "price": 3200,
+      "priceWithFee": 3312,
+      "transactedAt": "2026-06-18 20:02:40",
+      "productCode": "869398044",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/869398044A.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2016年,5盎司,生肖,年丙,丙申,申猴,猴年,年生,肖盎,盎司,司长,长方,方形,形精,精制,制银,银币,评级"
+    }
+  ]
+}

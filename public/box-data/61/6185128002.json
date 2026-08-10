@@ -1,0 +1,45 @@
+{
+  "ok": true,
+  "query": "6185128002",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6185128002",
+      "displayBoxCode": "6185128-002",
+      "gradingCompany": "NGC",
+      "grade": "PF70",
+      "coinName": "2014年1/4盎司青铜器第3组金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/507225.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6185128-002/70/",
+      "price": 7815,
+      "priceWithFee": null,
+      "transactedAt": "2025-10-21 14:16:58",
+      "productCode": "AA589895A",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251012/large_sell_lekytpsm97d3ss3s.jpg",
+      "ocrConfidence": 32,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,铜,币,2014年,4盎司,年盎,盎司,司青,青铜,铜器,器第,第组,组金,金币"
+    },
+    {
+      "normalizedBoxCode": "6185128002",
+      "displayBoxCode": "6185128-002",
+      "gradingCompany": "NGC",
+      "grade": "PF70",
+      "coinName": "2014年1/4盎司青铜器第3组金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/505063.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6185128-002/70/",
+      "price": 7600,
+      "priceWithFee": null,
+      "transactedAt": "2025-10-17 07:31:05",
+      "productCode": "AA589895",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251012/large_sell_lekytpsm97d3ss3s.jpg",
+      "ocrConfidence": 32,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,铜,币,2014年,4盎司,年盎,盎司,司青,青铜,铜器,器第,第组,组金,金币"
+    }
+  ]
+}

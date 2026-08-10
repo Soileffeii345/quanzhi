@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8652101006",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8652101006",
+      "displayBoxCode": "8652101-006",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2025年30克新疆维吾尔自治区成立70周年银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/506985.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8652101-006/69/",
+      "price": 780,
+      "priceWithFee": null,
+      "transactedAt": "2025-10-24 12:44:04",
+      "productCode": "AA591362",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251020/large_sell_11ylh2wonwh59jbh.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2025年,30克,新疆版,年克,克新,新疆,疆维,维吾,吾尔,尔自,自治,治区,区成,成立,立周,周年,年银,银币"
+    }
+  ]
+}

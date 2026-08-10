@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2056682003",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2056682003",
+      "displayBoxCode": "2056682-003",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "第一版人民币军舰10000元（老假票）",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/diyibanrenminbi/10390301.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2056682-003/",
+      "price": 2250,
+      "priceWithFee": 2475,
+      "transactedAt": "2026-07-16 20:12:10",
+      "productCode": "874003001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/874003001B.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,钞,第一,一版,版人,人民,民币,币军,军舰,舰元,元老,老假,假票"
+    }
+  ]
+}

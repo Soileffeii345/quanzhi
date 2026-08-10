@@ -1,0 +1,65 @@
+{
+  "coinName": "1997年熊猫15.552克银币",
+  "slug": "006d7d5a",
+  "saleCount": 3,
+  "keywords": "银,币,1997年,2盎司,熊猫,年盎,盎司,司熊,猫银,银币,币雾,雾状",
+  "priceStats": {
+    "low": 240,
+    "high": 500,
+    "avg": 350,
+    "latest": 310
+  },
+  "records": [
+    {
+      "coinName": "1997年1/2盎司熊猫银币(雾状)",
+      "normalizedBoxCode": "6726321007",
+      "displayBoxCode": "6726321-007",
+      "gradingCompany": "NGC",
+      "grade": "MS 68",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/434620.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6726321-007/68/",
+      "price": 310,
+      "priceWithFee": null,
+      "transactedAt": "2024-05-31 12:37:17",
+      "productCode": "AA478287A",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1997年,2盎司,熊猫,年盎,盎司,司熊,猫银,银币,币雾,雾状"
+    },
+    {
+      "coinName": "1997年1/2盎司熊猫银币(雾状)",
+      "normalizedBoxCode": "6726321007",
+      "displayBoxCode": "6726321-007",
+      "gradingCompany": "NGC",
+      "grade": "MS 68",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/430665.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6726321-007/68/",
+      "price": 240,
+      "priceWithFee": null,
+      "transactedAt": "2024-05-30 22:54:47",
+      "productCode": "AA478287",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1997年,2盎司,熊猫,年盎,盎司,司熊,猫银,银币,币雾,雾状"
+    },
+    {
+      "coinName": "1997年1/2盎司熊猫银币(雾状)",
+      "normalizedBoxCode": "6726321008",
+      "displayBoxCode": "6726321-008",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/430658.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6726321-008/69/",
+      "price": 500,
+      "priceWithFee": null,
+      "transactedAt": "2024-05-29 14:46:25",
+      "productCode": "AA478281",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1997年,2盎司,熊猫,年盎,盎司,司熊,猫银,银币,币雾,雾状"
+    }
+  ]
+}

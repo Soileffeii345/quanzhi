@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2318562081",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2318562081",
+      "displayBoxCode": "2318562-081",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "美国100美元纸钞",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10359402.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2318562-081/",
+      "price": 1540,
+      "priceWithFee": 1709.4,
+      "transactedAt": "2026-06-30 22:03:20",
+      "productCode": "870108002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/870108002B.jpg",
+      "ocrConfidence": 25,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,美国,国美,美元,元纸,纸钞,外国/特区"
+    }
+  ]
+}

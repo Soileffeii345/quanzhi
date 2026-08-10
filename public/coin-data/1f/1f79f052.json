@@ -1,0 +1,31 @@
+{
+  "coinName": "1965年23.4克金币",
+  "slug": "1f79f052",
+  "saleCount": 1,
+  "keywords": "金,币,1965年,23.4克,年秘,秘鲁,鲁克,克金,金币",
+  "priceStats": {
+    "low": 19800,
+    "high": 19800,
+    "avg": 19800,
+    "latest": 19800
+  },
+  "records": [
+    {
+      "coinName": "1965年秘鲁23.4克金币",
+      "normalizedBoxCode": "4238615005",
+      "displayBoxCode": "4238615-005",
+      "gradingCompany": "NGC",
+      "grade": "MS 64",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/wgjsbizhang/10377795.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4238615-005/64/",
+      "price": 19800,
+      "priceWithFee": 20988,
+      "transactedAt": "2026-07-03 19:38:25",
+      "productCode": "871997001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1965年,23.4克,年秘,秘鲁,鲁克,克金,金币"
+    }
+  ]
+}

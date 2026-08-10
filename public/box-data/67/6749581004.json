@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6749581004",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6749581004",
+      "displayBoxCode": "6749581-004",
+      "gradingCompany": "NGC",
+      "grade": "Ms 70",
+      "coinName": "2020年3克熊猫金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/440795.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6749581-004/70/",
+      "price": 2200,
+      "priceWithFee": null,
+      "transactedAt": "2024-07-11 18:24:38",
+      "productCode": "KH055452",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20240711/large_sell_bem48itm8i2jbzzm.jpg",
+      "ocrConfidence": 30,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2020年,3克,熊猫,年克,克熊,猫金,金币"
+    }
+  ]
+}

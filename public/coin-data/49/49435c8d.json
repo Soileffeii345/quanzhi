@@ -1,0 +1,31 @@
+{
+  "coinName": "2003年熊猫3.11克金币",
+  "slug": "49435c8d",
+  "saleCount": 1,
+  "keywords": "金,币,2003年,10盎司,熊猫,年盎,盎司,司熊,猫金,金币",
+  "priceStats": {
+    "low": 3000,
+    "high": 3000,
+    "avg": 3000,
+    "latest": 3000
+  },
+  "records": [
+    {
+      "coinName": "2003年1/10盎司熊猫金币",
+      "normalizedBoxCode": "3037415002",
+      "displayBoxCode": "3037415-002",
+      "gradingCompany": "NGC",
+      "grade": "Ms70",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/434910.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3037415-002/70/",
+      "price": 3000,
+      "priceWithFee": null,
+      "transactedAt": "2024-07-11 23:38:55",
+      "productCode": "AA483819",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2003年,10盎司,熊猫,年盎,盎司,司熊,猫金,金币"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8193281002",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8193281002",
+      "displayBoxCode": "8193281-002",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2024年应县佛宫寺释迦塔金银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/514538.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8193281-002/70/",
+      "price": 10800,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-11 00:11:33",
+      "productCode": "KH101031",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251123/large_sell_59lcdkumfx7yuamw.jpg",
+      "ocrConfidence": 39,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,2024年,宗教,年应,应县,县佛,佛宫,宫寺,寺释,释迦,迦塔,塔金,金银,银币"
+    }
+  ]
+}

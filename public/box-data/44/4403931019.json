@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4403931019",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4403931019",
+      "displayBoxCode": "4403931-019",
+      "gradingCompany": "NGC",
+      "grade": "PF70 ULTRA CAMEO",
+      "coinName": "2016年中国古代戏剧家-汤显祖30克精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10356013.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4403931-019/70/",
+      "price": 710,
+      "priceWithFee": 734.85,
+      "transactedAt": "2026-06-29 20:17:15",
+      "productCode": "869943002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/869943002A.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2016年,30克,年中,中国,国古,古代,代戏,戏剧,剧家,家汤,汤显,显祖,祖克,克精,精制,制银,银币,评级"
+    }
+  ]
+}

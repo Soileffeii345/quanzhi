@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2325192005",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2325192005",
+      "displayBoxCode": "2325192-005",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "第三版人民币背绿1角连号三枚",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/disanbanrenminbi/10399480.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2325192-005/",
+      "price": 6200,
+      "priceWithFee": 6696,
+      "transactedAt": "2026-07-23 20:43:40",
+      "productCode": "875007008",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/875007008B.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,第三,三版,版人,人民,民币,币背,背绿,绿角,角连,连号,号三,三枚"
+    }
+  ]
+}

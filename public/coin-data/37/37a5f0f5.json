@@ -1,0 +1,82 @@
+{
+  "coinName": "2004年3.11克精制铂金币",
+  "slug": "37a5f0f5",
+  "saleCount": 4,
+  "keywords": "金,贵金属,币,2004年,10盎司,宗教,年观,观音,音盎,盎司,司精,精制,制铂,铂金,金币,评级",
+  "priceStats": {
+    "low": 1900,
+    "high": 1940,
+    "avg": 1925,
+    "latest": 1900
+  },
+  "records": [
+    {
+      "coinName": "2004年观音1/10盎司精制铂金币",
+      "normalizedBoxCode": "8317036011",
+      "displayBoxCode": "8317036-011",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-bojin/10376845.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8317036-011/",
+      "price": 1900,
+      "priceWithFee": 1966.5,
+      "transactedAt": "2026-07-02 21:14:10",
+      "productCode": "872113006",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,贵金属,币,2004年,10盎司,宗教,年观,观音,音盎,盎司,司精,精制,制铂,铂金,金币,评级"
+    },
+    {
+      "coinName": "2004年观音1/10盎司精制铂金币",
+      "normalizedBoxCode": "8817036013",
+      "displayBoxCode": "8817036-013",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-bojin/10390825.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8817036-013/69/",
+      "price": 1940,
+      "priceWithFee": 2007.9,
+      "transactedAt": "2026-07-09 21:45:25",
+      "productCode": "873930020",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,贵金属,币,2004年,10盎司,宗教,年观,观音,音盎,盎司,司精,精制,制铂,铂金,金币,评级"
+    },
+    {
+      "coinName": "2004年观音1/10盎司精制铂金币",
+      "normalizedBoxCode": "8817036018",
+      "displayBoxCode": "8817036-018",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-bojin/10360175.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8817036-018/69/",
+      "price": 1940,
+      "priceWithFee": 2007.9,
+      "transactedAt": "2026-06-25 21:03:35",
+      "productCode": "870428007",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,贵金属,币,2004年,10盎司,宗教,年观,观音,音盎,盎司,司精,精制,制铂,铂金,金币,评级"
+    },
+    {
+      "coinName": "2004年观音1/10盎司精制铂金币",
+      "normalizedBoxCode": "8817036020",
+      "displayBoxCode": "8817036-020",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-bojin/10355331.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8817036-020/69/",
+      "price": 1920,
+      "priceWithFee": 1987.2,
+      "transactedAt": "2026-06-25 20:24:35",
+      "productCode": "869812001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,贵金属,币,2004年,10盎司,宗教,年观,观音,音盎,盎司,司精,精制,制铂,铂金,金币,评级"
+    }
+  ]
+}

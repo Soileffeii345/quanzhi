@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4324556020",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4324556020",
+      "displayBoxCode": "4324556-020",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2008年1/4盎司宁夏回族自治区成立50周年金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/541103.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4324556-020/70/",
+      "price": 9405,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-28 13:07:26",
+      "productCode": "KH115072",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260128/large_sell_k7yf1obmtew3cufc.jpg",
+      "ocrConfidence": 52,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2008年,4盎司,年盎,盎司,司宁,宁夏,夏回,回族,族自,自治,治区,区成,成立,立周,周年,年金,金币"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2252926074",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2252926074",
+      "displayBoxCode": "2252926-074",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "第四套/第四版人民币1990年版50元",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/disibanrenminbi/10377575.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2252926-074/",
+      "price": 140,
+      "priceWithFee": 151.2,
+      "transactedAt": "2026-07-04 19:00:25",
+      "productCode": "872397001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/22/865135003B.jpg",
+      "ocrConfidence": 29,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1990年,第四,四套,套第,四版,版人,人民,民币,币年,年版,版元"
+    }
+  ]
+}

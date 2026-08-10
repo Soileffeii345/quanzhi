@@ -1,0 +1,65 @@
+{
+  "coinName": "2020年乌拉圭塑料钞",
+  "slug": "5a6b85a7",
+  "saleCount": 3,
+  "keywords": "钞,2020年,年乌,乌拉,拉圭,圭塑,塑料,料钞",
+  "priceStats": {
+    "low": 80,
+    "high": 120,
+    "avg": 98,
+    "latest": 80
+  },
+  "records": [
+    {
+      "coinName": "2020年乌拉圭塑料钞",
+      "normalizedBoxCode": "2400725010",
+      "displayBoxCode": "2400725-010",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10371465.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2400725-010/",
+      "price": 80,
+      "priceWithFee": 88.8,
+      "transactedAt": "2026-07-07 21:42:20",
+      "productCode": "871453049",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,2020年,年乌,乌拉,拉圭,圭塑,塑料,料钞"
+    },
+    {
+      "coinName": "2020年乌拉圭塑料钞",
+      "normalizedBoxCode": "2400749047",
+      "displayBoxCode": "2400749-047",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10372851.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2400749-047/",
+      "price": 95,
+      "priceWithFee": 105.45,
+      "transactedAt": "2026-06-30 22:08:20",
+      "productCode": "871226025",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,2020年,年乌,乌拉,拉圭,圭塑,塑料,料钞"
+    },
+    {
+      "coinName": "2020年乌拉圭塑料钞",
+      "normalizedBoxCode": "2400749075",
+      "displayBoxCode": "2400749-075",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10372852.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2400749-075/",
+      "price": 120,
+      "priceWithFee": 133.2,
+      "transactedAt": "2026-06-30 22:36:20",
+      "productCode": "871226026",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,2020年,年乌,乌拉,拉圭,圭塑,塑料,料钞"
+    }
+  ]
+}

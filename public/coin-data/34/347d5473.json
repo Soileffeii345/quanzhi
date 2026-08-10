@@ -1,0 +1,31 @@
+{
+  "coinName": "1993年20克银币",
+  "slug": "347d5473",
+  "saleCount": 1,
+  "keywords": "银,币,1993年,20克,年澳,澳大,大利,利亚,亚首,首都,都领,领地,地克,克银,银币,外国/特区",
+  "priceStats": {
+    "low": 410,
+    "high": 410,
+    "avg": 410,
+    "latest": 410
+  },
+  "records": [
+    {
+      "coinName": "1993年澳大利亚首都领地20克银币",
+      "normalizedBoxCode": "8504637050",
+      "displayBoxCode": "8504637-050",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/wgjsbizhang/10354149.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8504637-050/",
+      "price": 410,
+      "priceWithFee": 434.6,
+      "transactedAt": "2026-06-19 19:50:45",
+      "productCode": "869380010",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1993年,20克,年澳,澳大,大利,利亚,亚首,首都,都领,领地,地克,克银,银币,外国/特区"
+    }
+  ]
+}

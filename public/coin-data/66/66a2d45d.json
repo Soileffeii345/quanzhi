@@ -1,0 +1,65 @@
+{
+  "coinName": "1980年6克精制铜币",
+  "slug": "66a2d45d",
+  "saleCount": 3,
+  "keywords": "铜,币,1980年,6克,年中,中国,国奥,奥林,林匹,匹克,克委,委员,员会,会古,古代,代射,射艺,艺克,克精,精制,制铜,铜币,评级",
+  "priceStats": {
+    "low": 640,
+    "high": 700,
+    "avg": 677,
+    "latest": 700
+  },
+  "records": [
+    {
+      "coinName": "1980年中国奥林匹克委员会-古代射艺6克精制铜币",
+      "normalizedBoxCode": "3968138079",
+      "displayBoxCode": "3968138-079",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-tong/10350825.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3968138-079/69/",
+      "price": 700,
+      "priceWithFee": 724.5,
+      "transactedAt": "2026-06-22 20:49:40",
+      "productCode": "868336005",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "铜,币,1980年,6克,年中,中国,国奥,奥林,林匹,匹克,克委,委员,员会,会古,古代,代射,射艺,艺克,克精,精制,制铜,铜币,评级"
+    },
+    {
+      "coinName": "1980年中国奥林匹克委员会-古代射艺6克精制铜币",
+      "normalizedBoxCode": "8820450044",
+      "displayBoxCode": "8820450-044",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-tong/10429567.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8820450-044/",
+      "price": 640,
+      "priceWithFee": 662.4,
+      "transactedAt": "2026-07-27 20:37:40",
+      "productCode": "878538002",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "铜,币,1980年,6克,年中,中国,国奥,奥林,林匹,匹克,克委,委员,员会,会古,古代,代射,射艺,艺克,克精,精制,制铜,铜币,评级"
+    },
+    {
+      "coinName": "1980年中国奥林匹克委员会-古代射艺6克精制铜币",
+      "normalizedBoxCode": "8820450044",
+      "displayBoxCode": "8820450-044",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-tong/10410316.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8820450-044/",
+      "price": 690,
+      "priceWithFee": 714.15,
+      "transactedAt": "2026-07-20 20:58:10",
+      "productCode": "876410001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "铜,币,1980年,6克,年中,中国,国奥,奥林,林匹,匹克,克委,委员,员会,会古,古代,代射,射艺,艺克,克精,精制,制铜,铜币,评级"
+    }
+  ]
+}

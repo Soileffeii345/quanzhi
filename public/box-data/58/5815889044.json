@@ -1,0 +1,45 @@
+{
+  "ok": true,
+  "query": "5815889044",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "5815889044",
+      "displayBoxCode": "5815889-044",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1993年中国杰出历史人物第（10）组-刘少奇22克精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10408988.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/5815889-044/69/",
+      "price": 700,
+      "priceWithFee": 724.5,
+      "transactedAt": "2026-07-20 21:44:40",
+      "productCode": "876012006",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/876012006A.jpg",
+      "ocrConfidence": 39,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1993年,22克,年中,中国,国杰,杰出,出历,历史,史人,人物,物第,第组,组刘,刘少,少奇,奇克,克精,精制,制银,银币,评级"
+    },
+    {
+      "normalizedBoxCode": "5815889044",
+      "displayBoxCode": "5815889-044",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1993年中国杰出历史人物第（10）组-刘少奇22克精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10351426.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/5815889-044/69/",
+      "price": 680,
+      "priceWithFee": 703.8,
+      "transactedAt": "2026-06-22 20:51:10",
+      "productCode": "869274004",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/869274004A.jpg",
+      "ocrConfidence": 42,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1993年,22克,年中,中国,国杰,杰出,出历,历史,史人,人物,物第,第组,组刘,刘少,少奇,奇克,克精,精制,制银,银币,评级"
+    }
+  ]
+}

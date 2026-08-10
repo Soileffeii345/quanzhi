@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8504318041",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8504318041",
+      "displayBoxCode": "8504318-041",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2000年熊猫1盎司普制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-jiuyin/10392192.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8504318-041/",
+      "price": 2200,
+      "priceWithFee": 2277,
+      "transactedAt": "2026-07-09 19:34:05",
+      "productCode": "873591001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/873591001A.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2000年,1盎司,熊猫,年熊,猫盎,盎司,司普,普制,制银,银币"
+    }
+  ]
+}

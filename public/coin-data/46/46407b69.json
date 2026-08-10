@@ -1,0 +1,31 @@
+{
+  "coinName": "民国三十七年一分铜币",
+  "slug": "46407b69",
+  "saleCount": 1,
+  "keywords": "铜,币,历史币,民国,国三,三十,十七,七年,年一,一分,分铜,铜币",
+  "priceStats": {
+    "low": 210,
+    "high": 210,
+    "avg": 210,
+    "latest": 210
+  },
+  "records": [
+    {
+      "coinName": "民国三十七年一分铜币",
+      "normalizedBoxCode": "89521370",
+      "displayBoxCode": "89521370",
+      "gradingCompany": "PCGS",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguojindaijizhibi/10373629.shtml",
+      "officialCertUrl": "https://cn.pcgs.com/cert/89521370",
+      "price": 210,
+      "priceWithFee": 226.8,
+      "transactedAt": "2026-07-20 20:10:05",
+      "productCode": "871433048",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "铜,币,历史币,民国,国三,三十,十七,七年,年一,一分,分铜,铜币"
+    }
+  ]
+}

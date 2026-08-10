@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "1954765228",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "1954765228",
+      "displayBoxCode": "1954765-228",
+      "gradingCompany": "NGC",
+      "grade": "PF70",
+      "coinName": "2005年美国西佛吉尼亚州银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/476059.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1954765-228/70/",
+      "price": 260,
+      "priceWithFee": null,
+      "transactedAt": "2025-05-01 07:16:34",
+      "productCode": "AA561037",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250430/large_sell_yzvhfkb4mfni7eff.jpg",
+      "ocrConfidence": 32,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2005年,宗教,年美,美国,国西,西佛,佛吉,吉尼,尼亚,亚州,州银,银币,外国/特区"
+    }
+  ]
+}

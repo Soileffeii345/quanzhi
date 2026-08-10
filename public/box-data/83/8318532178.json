@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8318532178",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8318532178",
+      "displayBoxCode": "8318532-178",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2004年中国古典文学名著《西游记》第（2）组1盎司精制彩银币二枚一套",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10386283.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8318532-178/",
+      "price": 1600,
+      "priceWithFee": 1656,
+      "transactedAt": "2026-07-06 22:21:10",
+      "productCode": "873413001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/27/873413001A.jpg",
+      "ocrConfidence": 43,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2004年,1盎司,年中,中国,国古,古典,典文,文学,学名,名著,著西,西游,游记,记第,第组,组盎,盎司,司精,精制,制彩,彩银,银币,币二,二枚,枚一,一套,评级"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2213821064",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2213821064",
+      "displayBoxCode": "2213821-064",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1949年贵州省银行壹角",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/minguoshengshigejiyinhangzhichao/10353231.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2213821-064/",
+      "price": 430,
+      "priceWithFee": 477.3,
+      "transactedAt": "2026-07-09 19:43:20",
+      "productCode": "869222002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/869222002B.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,1949年,年贵,贵州,州省,省银,银行,行壹,壹角"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "coinName": "1999年生肖31.104克精制金币",
+  "slug": "06e3c2de",
+  "saleCount": 1,
+  "keywords": "金,币,1999年,1盎司,生肖,年己,己卯,卯兔,兔年,年生,肖盎,盎司,司精,精制,制金,金币,评级",
+  "priceStats": {
+    "low": 62800,
+    "high": 62800,
+    "avg": 62800,
+    "latest": 62800
+  },
+  "records": [
+    {
+      "coinName": "1999年己卯兔年生肖1盎司精制金币",
+      "normalizedBoxCode": "8545480029",
+      "displayBoxCode": "8545480-029",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-jin/10360908.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8545480-029/",
+      "price": 62800,
+      "priceWithFee": 64998,
+      "transactedAt": "2026-06-22 22:10:10",
+      "productCode": "870406004",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1999年,1盎司,生肖,年己,己卯,卯兔,兔年,年生,肖盎,盎司,司精,精制,制金,金币,评级"
+    }
+  ]
+}

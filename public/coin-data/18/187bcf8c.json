@@ -1,0 +1,48 @@
+{
+  "coinName": "1992年22克银币",
+  "slug": "187bcf8c",
+  "saleCount": 2,
+  "keywords": "银,币,1992年,22克,年克,克国,国际,际环,环境,境保,保护,护年,年银,银币",
+  "priceStats": {
+    "low": 850,
+    "high": 850,
+    "avg": 850,
+    "latest": 850
+  },
+  "records": [
+    {
+      "coinName": "1992年22克国际环境保护年银币",
+      "normalizedBoxCode": "8757831014",
+      "displayBoxCode": "8757831-014",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/586221.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8757831-014/69/",
+      "price": 850,
+      "priceWithFee": null,
+      "transactedAt": "2026-06-27 18:40:47",
+      "productCode": "AA653673",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1992年,22克,年克,克国,国际,际环,环境,境保,保护,护年,年银,银币"
+    },
+    {
+      "coinName": "1992年22克国际环境保护年银币",
+      "normalizedBoxCode": "8758238009",
+      "displayBoxCode": "8758238-009",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/587550.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8758238-009/69/",
+      "price": 850,
+      "priceWithFee": null,
+      "transactedAt": "2026-06-27 11:30:07",
+      "productCode": "AA655043",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1992年,22克,年克,克国,国际,际环,环境,境保,保护,护年,年银,银币"
+    }
+  ]
+}

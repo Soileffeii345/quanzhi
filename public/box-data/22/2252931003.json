@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2252931003",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2252931003",
+      "displayBoxCode": "2252931-003",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2021年美国1美元纸钞",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10364182.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2252931-003/",
+      "price": 170,
+      "priceWithFee": 188.7,
+      "transactedAt": "2026-06-30 22:03:05",
+      "productCode": "870377004",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/870377004B.jpg",
+      "ocrConfidence": 30,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,2021年,年美,美国,国美,美元,元纸,纸钞,外国/特区"
+    }
+  ]
+}

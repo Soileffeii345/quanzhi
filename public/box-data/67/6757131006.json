@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6757131006",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6757131006",
+      "displayBoxCode": "6757131-006",
+      "gradingCompany": "NGC",
+      "grade": "PF70 ULTRA CAMEO",
+      "coinName": "2023年5克吉祥文化人寿年丰金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/449995.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6757131-006/70/",
+      "price": 3550,
+      "priceWithFee": null,
+      "transactedAt": "2024-10-16 21:17:33",
+      "productCode": "AA503075",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20240930/large_sell_h3wshue5lavccua0.jpg",
+      "ocrConfidence": 30,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2023年,5克,吉祥文化,年克,克吉,吉祥,祥文,文化,化人,人寿,寿年,年丰,丰金,金币"
+    }
+  ]
+}

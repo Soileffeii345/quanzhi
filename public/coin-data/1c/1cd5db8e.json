@@ -1,0 +1,31 @@
+{
+  "coinName": "2023年15.552克银币",
+  "slug": "1cd5db8e",
+  "saleCount": 1,
+  "keywords": "银,币,2023年,2盎司,生肖,年加,加纳,纳兔,兔年,年镶,镶嵌,嵌施,施华,华洛,洛世,世奇,奇水,水晶,晶盎,盎司,司银,银币",
+  "priceStats": {
+    "low": 680,
+    "high": 680,
+    "avg": 680,
+    "latest": 680
+  },
+  "records": [
+    {
+      "coinName": "2023年加纳兔年镶嵌施华洛世奇水晶1/2盎司银币",
+      "normalizedBoxCode": "8815432005",
+      "displayBoxCode": "8815432-005",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianbi/10385569.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8815432-005/70/",
+      "price": 680,
+      "priceWithFee": 754.8,
+      "transactedAt": "2026-07-10 20:29:15",
+      "productCode": "873385005",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2023年,2盎司,生肖,年加,加纳,纳兔,兔年,年镶,镶嵌,嵌施,施华,华洛,洛世,世奇,奇水,水晶,晶盎,盎司,司银,银币"
+    }
+  ]
+}

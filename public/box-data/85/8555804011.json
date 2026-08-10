@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8555804011",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8555804011",
+      "displayBoxCode": "8555804-011",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1990年27克第25届奥运会跳高银币(UC)",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/576559.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8555804-011/68/",
+      "price": 650,
+      "priceWithFee": null,
+      "transactedAt": "2026-04-29 22:03:58",
+      "productCode": "KH132504",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260429/large_sell_esuboljbp7svxn2x.jpg",
+      "ocrConfidence": 46,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1990年,27克,奥运,年克,克第,第届,届奥,运会,会跳,跳高,高银,银币"
+    }
+  ]
+}

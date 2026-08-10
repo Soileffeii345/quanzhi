@@ -1,0 +1,31 @@
+{
+  "coinName": "清 乾隆通宝、嘉庆通宝、道光通宝各1枚，共3枚",
+  "slug": "4dc6ea99",
+  "saleCount": 1,
+  "keywords": "清乾,乾隆,隆通,通宝,宝嘉,嘉庆,庆通,宝道,道光,光通,宝各,各枚,枚共,共枚",
+  "priceStats": {
+    "low": 300,
+    "high": 300,
+    "avg": 300,
+    "latest": 300
+  },
+  "records": [
+    {
+      "coinName": "清 乾隆通宝、嘉庆通宝、道光通宝各1枚，共3枚",
+      "normalizedBoxCode": "00289036",
+      "displayBoxCode": "00289036",
+      "gradingCompany": "PCGS",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/guqian/10361584.shtml",
+      "officialCertUrl": "https://cn.pcgs.com/cert/00289036",
+      "price": 300,
+      "priceWithFee": 330,
+      "transactedAt": "2026-07-13 21:37:25",
+      "productCode": "870157006",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "清乾,乾隆,隆通,通宝,宝嘉,嘉庆,庆通,宝道,道光,光通,宝各,各枚,枚共,共枚"
+    }
+  ]
+}

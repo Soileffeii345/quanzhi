@@ -1,0 +1,48 @@
+{
+  "coinName": "2023年吉祥文化100克银币",
+  "slug": "7b5fc7fe",
+  "saleCount": 2,
+  "keywords": "银,币,2023年,100克,吉祥文化,年克,克吉,吉祥,祥文,文化,化人,人寿,寿年,年丰,丰银,银币",
+  "priceStats": {
+    "low": 4900,
+    "high": 6000,
+    "avg": 5450,
+    "latest": 6000
+  },
+  "records": [
+    {
+      "coinName": "2023年100克吉祥文化人寿年丰银币",
+      "normalizedBoxCode": "6749722003",
+      "displayBoxCode": "6749722-003",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/564714.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6749722-003/70/",
+      "price": 6000,
+      "priceWithFee": null,
+      "transactedAt": "2026-04-21 00:30:05",
+      "productCode": "DB203234",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2023年,100克,吉祥文化,年克,克吉,吉祥,祥文,文化,化人,人寿,寿年,年丰,丰银,银币"
+    },
+    {
+      "coinName": "2023年100克吉祥文化人寿年丰银币",
+      "normalizedBoxCode": "8186937008",
+      "displayBoxCode": "8186937-008",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/556407.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8186937-008/69/",
+      "price": 4900,
+      "priceWithFee": null,
+      "transactedAt": "2026-02-28 11:04:54",
+      "productCode": "KH120982",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2023年,100克,吉祥文化,年克,克吉,吉祥,祥文,文化,化人,人寿,寿年,年丰,丰银,银币"
+    }
+  ]
+}

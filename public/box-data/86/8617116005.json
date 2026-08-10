@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8617116005",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8617116005",
+      "displayBoxCode": "8617116-005",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "coinName": "2013年1盎司熊猫金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/501960.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8617116-005/69/",
+      "price": 26610,
+      "priceWithFee": null,
+      "transactedAt": "2025-09-25 05:55:47",
+      "productCode": "KH084818",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250922/large_sell_bk49zzfpheq76cl2.jpg",
+      "ocrConfidence": 54,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2013年,1盎司,熊猫,年盎,盎司,司熊,猫金,金币"
+    }
+  ]
+}

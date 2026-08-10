@@ -1,0 +1,31 @@
+{
+  "coinName": "1999年建国精制",
+  "slug": "640dc2e0",
+  "saleCount": 1,
+  "keywords": "币,1999年,重大事件,年建,建国,国周,周年,年精,精制,制纪,纪念,念币,评级",
+  "priceStats": {
+    "low": 380,
+    "high": 380,
+    "avg": 380,
+    "latest": 380
+  },
+  "records": [
+    {
+      "coinName": "1999年建国50周年精制纪念币",
+      "normalizedBoxCode": "8193586043",
+      "displayBoxCode": "8193586-043",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/436902.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8193586-043/",
+      "price": 380,
+      "priceWithFee": null,
+      "transactedAt": "2024-11-16 13:07:59",
+      "productCode": "AA485469A",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1999年,重大事件,年建,建国,国周,周年,年精,精制,制纪,纪念,念币,评级"
+    }
+  ]
+}

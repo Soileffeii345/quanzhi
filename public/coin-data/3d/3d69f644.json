@@ -1,0 +1,31 @@
+{
+  "coinName": "第一版人民币推煤车20元",
+  "slug": "3d69f644",
+  "saleCount": 1,
+  "keywords": "币,第一,一版,版人,人民,民币,币推,推煤,煤车,车元",
+  "priceStats": {
+    "low": 3650,
+    "high": 3650,
+    "avg": 3650,
+    "latest": 3650
+  },
+  "records": [
+    {
+      "coinName": "第一版人民币推煤车20元",
+      "normalizedBoxCode": "2155768010",
+      "displayBoxCode": "2155768-010",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/diyibanrenminbi/10387368.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2155768-010/",
+      "price": 3650,
+      "priceWithFee": 4015,
+      "transactedAt": "2026-07-09 20:02:30",
+      "productCode": "873660007",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,第一,一版,版人,人民,民币,币推,推煤,煤车,车元"
+    }
+  ]
+}

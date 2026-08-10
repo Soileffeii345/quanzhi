@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2400725010",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2400725010",
+      "displayBoxCode": "2400725-010",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2020年乌拉圭塑料钞",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10371465.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2400725-010/",
+      "price": 80,
+      "priceWithFee": 88.8,
+      "transactedAt": "2026-07-07 21:42:20",
+      "productCode": "871453049",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/26/871453049B.jpg",
+      "ocrConfidence": 27,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,2020年,年乌,乌拉,拉圭,圭塑,塑料,料钞"
+    }
+  ]
+}

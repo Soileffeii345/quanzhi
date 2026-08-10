@@ -1,0 +1,48 @@
+{
+  "coinName": "2015年熊猫2盎司金银币",
+  "slug": "41339a0a",
+  "saleCount": 2,
+  "keywords": "金,银,币,章,2015年,2盎司,熊猫,年盎,盎司,司第,第届,届熊,猫金,金银,银币,币博,博览,览会,会银,银章",
+  "priceStats": {
+    "low": 900,
+    "high": 1000,
+    "avg": 950,
+    "latest": 1000
+  },
+  "records": [
+    {
+      "coinName": "2015年2盎司第3届熊猫金银币博览会银章",
+      "normalizedBoxCode": "4584074005",
+      "displayBoxCode": "4584074-005",
+      "gradingCompany": "NGC",
+      "grade": "PF 66 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/520345.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4584074-005/66/",
+      "price": 1000,
+      "priceWithFee": null,
+      "transactedAt": "2025-12-23 07:22:46",
+      "productCode": "KH094954",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,章,2015年,2盎司,熊猫,年盎,盎司,司第,第届,届熊,猫金,金银,银币,币博,博览,览会,会银,银章"
+    },
+    {
+      "coinName": "2015年2盎司第3届熊猫金银币博览会银章",
+      "normalizedBoxCode": "4638192010",
+      "displayBoxCode": "4638192-010",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/517566.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4638192-010/",
+      "price": 900,
+      "priceWithFee": null,
+      "transactedAt": "2025-12-12 21:37:20",
+      "productCode": "KH094310",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,章,2015年,2盎司,熊猫,年盎,盎司,司第,第届,届熊,猫金,金银,银币,币博,博览,览会,会银,银章"
+    }
+  ]
+}

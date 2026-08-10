@@ -1,0 +1,31 @@
+{
+  "coinName": "1995年熊猫15.552克普制金币",
+  "slug": "71905e37",
+  "saleCount": 1,
+  "keywords": "金,币,1995年,2盎司,熊猫,年熊,猫盎,盎司,司普,普制,制金,金币,币小,小字,字版",
+  "priceStats": {
+    "low": 73000,
+    "high": 73000,
+    "avg": 73000,
+    "latest": 73000
+  },
+  "records": [
+    {
+      "coinName": "1995年熊猫1/2盎司普制金币（小字版）",
+      "normalizedBoxCode": "8759006014",
+      "displayBoxCode": "8759006-014",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-jiujin/10360188.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8759006-014/69/",
+      "price": 73000,
+      "priceWithFee": 75555,
+      "transactedAt": "2026-06-25 21:05:05",
+      "productCode": "870428020",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1995年,2盎司,熊猫,年熊,猫盎,盎司,司普,普制,制金,金币,币小,小字,字版"
+    }
+  ]
+}

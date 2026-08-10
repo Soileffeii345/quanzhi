@@ -1,0 +1,31 @@
+{
+  "coinName": "1995年银币",
+  "slug": "4a652c28",
+  "saleCount": 1,
+  "keywords": "银,1995年,年香,香港,港渣,渣打,打银,银行,行贰,贰拾,拾圆,外国/特区",
+  "priceStats": {
+    "low": 140,
+    "high": 140,
+    "avg": 140,
+    "latest": 140
+  },
+  "records": [
+    {
+      "coinName": "1995年香港渣打银行贰拾圆",
+      "normalizedBoxCode": "2034608011",
+      "displayBoxCode": "2034608-011",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/liantichao-jinianchao/10383117.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2034608-011/",
+      "price": 140,
+      "priceWithFee": 151.2,
+      "transactedAt": "2026-07-04 20:06:05",
+      "productCode": "872778009",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,1995年,年香,香港,港渣,渣打,打银,银行,行贰,贰拾,拾圆,外国/特区"
+    }
+  ]
+}

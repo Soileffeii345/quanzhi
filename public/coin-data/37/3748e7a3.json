@@ -1,0 +1,48 @@
+{
+  "coinName": "1994年生肖31.104克精制金币",
+  "slug": "3748e7a3",
+  "saleCount": 2,
+  "keywords": "金,币,1994年,1盎司,生肖,年甲,甲戌,戌狗,狗年,年生,肖盎,盎司,司精,精制,制金,金币,评级",
+  "priceStats": {
+    "low": 45000,
+    "high": 52800,
+    "avg": 48900,
+    "latest": 45000
+  },
+  "records": [
+    {
+      "coinName": "1994年甲戌狗年生肖1盎司精制金币",
+      "normalizedBoxCode": "6743839002",
+      "displayBoxCode": "6743839-002",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-jin/10403528.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6743839-002/69/",
+      "price": 45000,
+      "priceWithFee": 46575,
+      "transactedAt": "2026-07-16 21:10:05",
+      "productCode": "875460001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1994年,1盎司,生肖,年甲,甲戌,戌狗,狗年,年生,肖盎,盎司,司精,精制,制金,金币,评级"
+    },
+    {
+      "coinName": "1994年甲戌狗年生肖1盎司精制金币",
+      "normalizedBoxCode": "8545480006",
+      "displayBoxCode": "8545480-006",
+      "gradingCompany": "NGC",
+      "grade": "PF69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-jin/10360907.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8545480-006/69/",
+      "price": 52800,
+      "priceWithFee": 54648,
+      "transactedAt": "2026-06-22 22:11:40",
+      "productCode": "870406003",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1994年,1盎司,生肖,年甲,甲戌,戌狗,狗年,年生,肖盎,盎司,司精,精制,制金,金币,评级"
+    }
+  ]
+}

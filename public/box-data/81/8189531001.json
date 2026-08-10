@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8189531001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8189531001",
+      "displayBoxCode": "8189531-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1986年1/3盎司国际和平年金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/456732.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8189531-001/69/",
+      "price": 41800,
+      "priceWithFee": null,
+      "transactedAt": "2026-08-06 17:31:55",
+      "productCode": "AA535073A",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260714/large_sell_qjqebnj7yyjvztuk.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1986年,3盎司,年盎,盎司,司国,国际,际和,和平,平年,年金,金币"
+    }
+  ]
+}

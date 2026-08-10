@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4312410010",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4312410010",
+      "displayBoxCode": "4312410-010",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "coinName": "2016年熊猫金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/572291.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4312410-010/69/",
+      "price": 60640,
+      "priceWithFee": null,
+      "transactedAt": "2026-04-13 15:10:03",
+      "productCode": "KH129776",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260413/large_sell_sly96jh8bmn4fbw3.jpg",
+      "ocrConfidence": 41,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2016年,熊猫,年熊,猫金,金币"
+    }
+  ]
+}

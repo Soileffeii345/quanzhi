@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2400731020",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2400731020",
+      "displayBoxCode": "2400731-020",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "阿联酋纸钞",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10371490.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2400731-020/",
+      "price": 110,
+      "priceWithFee": 122.1,
+      "transactedAt": "2026-07-07 22:08:20",
+      "productCode": "871453074",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/26/871453074B.jpg",
+      "ocrConfidence": 30,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,阿联,联酋,酋纸,纸钞"
+    }
+  ]
+}

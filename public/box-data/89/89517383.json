@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "89517383",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "89517383",
+      "displayBoxCode": "89517383",
+      "gradingCompany": "PCGS",
+      "grade": "MS68",
+      "coinName": "2025年中国龙31.104克普制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10350401.shtml",
+      "officialCertUrl": "https://cn.pcgs.com/cert/89517383",
+      "price": 600,
+      "priceWithFee": 621,
+      "transactedAt": "2026-06-20 19:38:35",
+      "productCode": "868926006",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/868926006A.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2025年,31.104克,年中,中国,国龙,龙克,克普,普制,制银,银币"
+    }
+  ]
+}

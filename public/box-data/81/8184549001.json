@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8184549001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8184549001",
+      "displayBoxCode": "8184549-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1995年1/2盎司香港回归第1组金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/499350.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8184549-001/69/",
+      "price": 12990,
+      "priceWithFee": null,
+      "transactedAt": "2025-09-14 09:47:14",
+      "productCode": "AA584490",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250909/large_sell_aovgaufw6j9sqsz0.jpg",
+      "ocrConfidence": 41,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1995年,2盎司,年盎,盎司,司香,香港,港回,回归,归第,第组,组金,金币,外国/特区"
+    }
+  ]
+}

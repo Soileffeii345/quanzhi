@@ -1,0 +1,65 @@
+{
+  "coinName": "2024年30克精制银币",
+  "slug": "619b8b1a",
+  "saleCount": 3,
+  "keywords": "银,币,2024年,30克,年中,中国,国极,极地,地科,科学,学考,考察,察周,周年,年克,克精,精制,制银,银币,评级,察克",
+  "priceStats": {
+    "low": 740,
+    "high": 770,
+    "avg": 757,
+    "latest": 770
+  },
+  "records": [
+    {
+      "coinName": "2024年中国极地科学考察40周年30克精制银币",
+      "normalizedBoxCode": "8757175003",
+      "displayBoxCode": "8757175-003",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10365682.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8757175-003/70/",
+      "price": 770,
+      "priceWithFee": 796.95,
+      "transactedAt": "2026-06-27 21:05:35",
+      "productCode": "870644003",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2024年,30克,年中,中国,国极,极地,地科,科学,学考,考察,察周,周年,年克,克精,精制,制银,银币,评级"
+    },
+    {
+      "coinName": "2024年中国极地科学考察40周年30克精制银币",
+      "normalizedBoxCode": "8757175004",
+      "displayBoxCode": "8757175-004",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10365681.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8757175-004/70/",
+      "price": 760,
+      "priceWithFee": 786.6,
+      "transactedAt": "2026-06-27 20:31:05",
+      "productCode": "870644002",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2024年,30克,年中,中国,国极,极地,地科,科学,学考,考察,察周,周年,年克,克精,精制,制银,银币,评级"
+    },
+    {
+      "coinName": "2024年中国极地科学考察30克精制银币",
+      "normalizedBoxCode": "8823192004",
+      "displayBoxCode": "8823192-004",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10377215.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8823192-004/70/",
+      "price": 740,
+      "priceWithFee": 765.9,
+      "transactedAt": "2026-07-04 20:14:05",
+      "productCode": "872273001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2024年,30克,年中,中国,国极,极地,地科,科学,学考,考察,察克,克精,精制,制银,银币,评级"
+    }
+  ]
+}

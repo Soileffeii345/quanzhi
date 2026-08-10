@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8649981006",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8649981006",
+      "displayBoxCode": "8649981-006",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2003年1/10盎司观音铂币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/556576.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8649981-006/",
+      "price": 2450,
+      "priceWithFee": null,
+      "transactedAt": "2026-02-27 15:03:18",
+      "productCode": "KH121046",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260226/large_sell_xshxvfm38kpxl0kq.jpg",
+      "ocrConfidence": 43,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "贵金属,币,2003年,10盎司,宗教,年盎,盎司,司观,观音,音铂,铂币"
+    }
+  ]
+}

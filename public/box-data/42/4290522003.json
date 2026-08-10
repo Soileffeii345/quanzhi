@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4290522003",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4290522003",
+      "displayBoxCode": "4290522-003",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1994年1/20盎司熊猫金币(大字版)",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/488956.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4290522-003/",
+      "price": 1250,
+      "priceWithFee": null,
+      "transactedAt": "2025-07-18 18:15:32",
+      "productCode": "AA573088",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250716/large_sell_mmeovtqdcedv88aq.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1994年,20盎司,熊猫,年盎,盎司,司熊,猫金,金币,币大,大字,字版"
+    }
+  ]
+}

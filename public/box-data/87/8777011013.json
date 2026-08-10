@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8777011013",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8777011013",
+      "displayBoxCode": "8777011-013",
+      "gradingCompany": "NGC",
+      "grade": "PF 68 ULTRA CAMEO",
+      "coinName": "2013年癸巳蛇年生肖精制流通纪念币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10396446.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8777011-013/68/",
+      "price": 1720,
+      "priceWithFee": 1857.6,
+      "transactedAt": "2026-07-15 19:33:50",
+      "productCode": "874407034",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/874407034A.jpg",
+      "ocrConfidence": 47,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2013年,生肖,年癸,癸巳,巳蛇,蛇年,年生,肖精,精制,制流,流通,通纪,纪念,念币,评级"
+    }
+  ]
+}

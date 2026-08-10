@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "3365174022",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "3365174022",
+      "displayBoxCode": "3365174-022",
+      "gradingCompany": "NGC",
+      "grade": "MS 63",
+      "coinName": "民国十年广东省造贰毫银元",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguojindaijizhibi/10392369.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3365174-022/63/",
+      "price": 250,
+      "priceWithFee": 270,
+      "transactedAt": "2026-07-27 19:51:05",
+      "productCode": "873157001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/873157001A.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,广东,粤造,民国,国十,十年,年广,东省,省造,造贰,贰毫,毫银,银元"
+    }
+  ]
+}

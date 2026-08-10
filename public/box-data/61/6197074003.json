@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6197074003",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6197074003",
+      "displayBoxCode": "6197074-003",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2021年8克建党100周年天眼金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/486887.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6197074-003/",
+      "price": 6380,
+      "priceWithFee": null,
+      "transactedAt": "2025-07-03 17:34:31",
+      "productCode": "AA571313",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250703/large_sell_svvprktoqxzhwmc2.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2021年,8克,重大事件,年克,克建,建党,党周,周年,年天,天眼,眼金,金币"
+    }
+  ]
+}

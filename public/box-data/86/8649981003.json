@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8649981003",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8649981003",
+      "displayBoxCode": "8649981-003",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2003年1/10盎司观音铂币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/556355.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8649981-003/69/",
+      "price": 2450,
+      "priceWithFee": null,
+      "transactedAt": "2026-02-26 18:20:45",
+      "productCode": "KH120971",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260226/large_sell_ix2r7ubha6rsqqmz.jpg",
+      "ocrConfidence": 48,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "贵金属,币,2003年,10盎司,宗教,年盎,盎司,司观,观音,音铂,铂币"
+    }
+  ]
+}

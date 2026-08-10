@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8178830003",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8178830003",
+      "displayBoxCode": "8178830-003",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1997年1盎司观音银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/439350.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8178830-003/",
+      "price": 720,
+      "priceWithFee": null,
+      "transactedAt": "2024-07-19 14:31:30",
+      "productCode": "AA488291A",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20240626/large_sell_pbxjurucmls45ckj.jpg",
+      "ocrConfidence": 32,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1997年,1盎司,宗教,年盎,盎司,司观,观音,音银,银币"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "coinName": "2022年3盎司金币",
+  "slug": "6176b5d6",
+  "saleCount": 1,
+  "keywords": "金,银,币,2022年,3盎司,年澳,澳大,大利,利亚,亚盎,盎司,司考,考拉,拉周,周年,年镀,镀金,金银,银币,外国/特区",
+  "priceStats": {
+    "low": 1750,
+    "high": 1750,
+    "avg": 1750,
+    "latest": 1750
+  },
+  "records": [
+    {
+      "coinName": "2022年澳大利亚3盎司考拉15周年&quot;镀金&quot;银币",
+      "normalizedBoxCode": "6714929004",
+      "displayBoxCode": "6714929-004",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/445821.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6714929-004/70/",
+      "price": 1750,
+      "priceWithFee": null,
+      "transactedAt": "2024-09-06 07:39:39",
+      "productCode": "AA497511",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,2022年,3盎司,年澳,澳大,大利,利亚,亚盎,盎司,司考,考拉,拉周,周年,年镀,镀金,金银,银币,外国/特区"
+    }
+  ]
+}

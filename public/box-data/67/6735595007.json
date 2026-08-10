@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6735595007",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6735595007",
+      "displayBoxCode": "6735595-007",
+      "gradingCompany": "NGC",
+      "grade": "Pr68 ULTRA CAMEO",
+      "coinName": "1980年中国奥委会古代射艺金币(UC)",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/528788.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6735595-007/68/",
+      "price": 10250,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-13 16:18:34",
+      "productCode": "AA608879",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260107/large_sell_eqnkx7u4ecurehvx.jpg",
+      "ocrConfidence": 32,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1980年,年中,中国,国奥,奥委,委会,会古,古代,代射,射艺,艺金,金币"
+    }
+  ]
+}

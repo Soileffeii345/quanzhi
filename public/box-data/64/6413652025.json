@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6413652025",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6413652025",
+      "displayBoxCode": "6413652-025",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2022年奥地利夜光恐龙纪念币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianbi/10391004.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6413652-025/",
+      "price": 80,
+      "priceWithFee": 88.8,
+      "transactedAt": "2026-07-10 19:10:55",
+      "productCode": "873819014",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/27/873819014A.jpg",
+      "ocrConfidence": 32,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2022年,年奥,奥地,地利,利夜,夜光,光恐,恐龙,龙纪,纪念,念币"
+    }
+  ]
+}

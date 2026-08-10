@@ -1,0 +1,48 @@
+{
+  "coinName": "1991年孙中山8克精制金币",
+  "slug": "0b74c8f3",
+  "saleCount": 2,
+  "keywords": "金,银,币,1991年,8克,孙小头,孙中山,小头,年辛,辛亥,亥革,革命,命周,周年,年孙,孙中,中山,山坐,坐像,像克,克精,精制,制金,金币,币孙,山立,立像,像盎,盎司,司精,制银,银币,币各,各一,一枚,评级",
+  "priceStats": {
+    "low": 13000,
+    "high": 25500,
+    "avg": 19250,
+    "latest": 25500
+  },
+  "records": [
+    {
+      "coinName": "1991年辛亥革命80周年-孙中山坐像8克精制金币、孙中山立像1盎司精制银币各一枚",
+      "normalizedBoxCode": "6741181011",
+      "displayBoxCode": "6741181-011",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10359988.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6741181-011/69/",
+      "price": 25500,
+      "priceWithFee": 26392.5,
+      "transactedAt": "2026-06-25 20:58:35",
+      "productCode": "869600005",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,1991年,8克,孙小头,孙中山,小头,年辛,辛亥,亥革,革命,命周,周年,年孙,孙中,中山,山坐,坐像,像克,克精,精制,制金,金币,币孙,山立,立像,像盎,盎司,司精,制银,银币,币各,各一,一枚,评级"
+    },
+    {
+      "coinName": "1991年辛亥革命80周年-孙中山坐像8克精制金币",
+      "normalizedBoxCode": "8762062001",
+      "displayBoxCode": "8762062-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10350865.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8762062-001/69/",
+      "price": 13000,
+      "priceWithFee": 13455,
+      "transactedAt": "2026-06-18 21:13:10",
+      "productCode": "869588003",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1991年,8克,孙小头,孙中山,小头,年辛,辛亥,亥革,革命,命周,周年,年孙,孙中,中山,山坐,坐像,像克,克精,精制,制金,金币,评级"
+    }
+  ]
+}

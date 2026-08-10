@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8821109011",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8821109011",
+      "displayBoxCode": "8821109-011",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2012年壬辰龙年生肖1盎司精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10423687.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8821109-011/70/",
+      "price": 1360,
+      "priceWithFee": 1407.6,
+      "transactedAt": "2026-07-27 20:04:40",
+      "productCode": "877786005",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/877786005A.jpg",
+      "ocrConfidence": 30,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2012年,1盎司,生肖,年壬,壬辰,辰龙,龙年,年生,肖盎,盎司,司精,精制,制银,银币,评级"
+    }
+  ]
+}

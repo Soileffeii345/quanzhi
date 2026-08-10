@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6400834001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6400834001",
+      "displayBoxCode": "6400834-001",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1908年英国站洋26.96克银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguojindaijizhibi/10386400.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6400834-001/",
+      "price": 710,
+      "priceWithFee": 766.8,
+      "transactedAt": "2026-07-27 21:25:05",
+      "productCode": "873131001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/27/873131001A.jpg",
+      "ocrConfidence": 39,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1908年,26.96克,站洋,年英,英国,国站,洋克,克银,银币,外国/特区"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "coinName": "宣统三年大清银币壹圆银元",
+  "slug": "1e0bbd61",
+  "saleCount": 1,
+  "keywords": "银,币,历史币,龙洋,龙,宣三,宣统,统三,三年,年大,大清,清银,银币,币壹,壹圆,圆银,银元",
+  "priceStats": {
+    "low": 38500,
+    "high": 38500,
+    "avg": 38500,
+    "latest": 38500
+  },
+  "records": [
+    {
+      "coinName": "宣统三年大清银币壹圆银元",
+      "normalizedBoxCode": "5786590019",
+      "displayBoxCode": "5786590-019",
+      "gradingCompany": "NGC",
+      "grade": "MS 62",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguojindaijizhibi/10373656.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/5786590-019/62/",
+      "price": 38500,
+      "priceWithFee": 41580,
+      "transactedAt": "2026-07-20 20:16:05",
+      "productCode": "871433075",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,历史币,龙洋,龙,宣三,宣统,统三,三年,年大,大清,清银,银币,币壹,壹圆,圆银,银元"
+    }
+  ]
+}

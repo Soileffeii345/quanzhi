@@ -1,0 +1,31 @@
+{
+  "coinName": "2019年建国1公斤银币",
+  "slug": "03a4fcb4",
+  "saleCount": 1,
+  "keywords": "银,币,2019年,1公斤,重大事件,年公,公斤,斤建,建国,国周,周年,年银,银币",
+  "priceStats": {
+    "low": 10600,
+    "high": 10600,
+    "avg": 10600,
+    "latest": 10600
+  },
+  "records": [
+    {
+      "coinName": "2019年1公斤建国70周年银币",
+      "normalizedBoxCode": "5796772001",
+      "displayBoxCode": "5796772-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/425314.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/5796772-001/70/",
+      "price": 10600,
+      "priceWithFee": null,
+      "transactedAt": "2024-10-16 20:20:11",
+      "productCode": "KH053890",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2019年,1公斤,重大事件,年公,公斤,斤建,建国,国周,周年,年银,银币"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6715203001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6715203001",
+      "displayBoxCode": "6715203-001",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1980年中国奥林匹克委员会-古代射艺20克加厚精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10419098.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6715203-001/",
+      "price": 12200,
+      "priceWithFee": 12627,
+      "transactedAt": "2026-07-27 21:59:40",
+      "productCode": "877213001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/877213001A.jpg",
+      "ocrConfidence": 41,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1980年,20克,年中,中国,国奥,奥林,林匹,匹克,克委,委员,员会,会古,古代,代射,射艺,艺克,克加,加厚,厚精,精制,制银,银币,评级"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8617200012",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8617200012",
+      "displayBoxCode": "8617200-012",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1990年熊猫1/10盎司普制金币（大字版）",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-jiujin/10390803.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8617200-012/",
+      "price": 3150,
+      "priceWithFee": 3260.25,
+      "transactedAt": "2026-07-09 21:18:45",
+      "productCode": "874036001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/16/855059001A.jpg",
+      "ocrConfidence": 41,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1990年,10盎司,熊猫,年熊,猫盎,盎司,司普,普制,制金,金币,币大,大字,字版"
+    }
+  ]
+}

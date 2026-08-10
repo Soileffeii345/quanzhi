@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8617477010",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8617477010",
+      "displayBoxCode": "8617477-010",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2003年佛指舍利1/2盎司精制金币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10419125.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8617477-010/69/",
+      "price": 15200,
+      "priceWithFee": 15732,
+      "transactedAt": "2026-07-23 20:50:05",
+      "productCode": "877325003",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/877325003A.jpg",
+      "ocrConfidence": 37,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2003年,2盎司,宗教,年佛,佛指,指舍,舍利,利盎,盎司,司精,精制,制金,金币,评级"
+    }
+  ]
+}

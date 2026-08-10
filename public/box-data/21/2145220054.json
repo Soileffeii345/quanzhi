@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2145220054",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2145220054",
+      "displayBoxCode": "2145220-054",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2002年香港渣打银行壹仟圆",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/liantichao-jinianchao/10368260.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2145220-054/",
+      "price": 1540,
+      "priceWithFee": 1663.2,
+      "transactedAt": "2026-06-27 19:13:25",
+      "productCode": "871302005",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/26/871302005B.jpg",
+      "ocrConfidence": 38,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,2002年,年香,香港,港渣,渣打,打银,银行,行壹,壹仟,仟圆,外国/特区"
+    }
+  ]
+}

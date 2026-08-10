@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4419912021",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4419912021",
+      "displayBoxCode": "4419912-021",
+      "gradingCompany": "NGC",
+      "grade": "PF 67 ULTRA CAMEO",
+      "coinName": "2002年8边红楼梦第2组宝钗扑蝶彩银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/562183.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4419912-021/67/",
+      "price": 680,
+      "priceWithFee": null,
+      "transactedAt": "2026-03-16 13:41:54",
+      "productCode": "KH124989",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260313/large_sell_lj0om6fojwltehsg.jpg",
+      "ocrConfidence": 39,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2002年,年边,边红,红楼,楼梦,梦第,第组,组宝,宝钗,钗扑,扑蝶,蝶彩,彩银,银币"
+    }
+  ]
+}

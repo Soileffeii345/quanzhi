@@ -1,0 +1,48 @@
+{
+  "coinName": "2025年贺岁8克银币",
+  "slug": "21469c77",
+  "saleCount": 2,
+  "keywords": "银,币,2025年,8克,吉祥文化,年克,克菱,菱形,形贺,贺岁,岁彩,彩银,银币",
+  "priceStats": {
+    "low": 200,
+    "high": 300,
+    "avg": 250,
+    "latest": 300
+  },
+  "records": [
+    {
+      "coinName": "2025年8克菱形贺岁彩银币",
+      "normalizedBoxCode": "8185020030",
+      "displayBoxCode": "8185020-030",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/529155.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8185020-030/70/",
+      "price": 300,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-09 15:27:18",
+      "productCode": "KH102060",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2025年,8克,吉祥文化,年克,克菱,菱形,形贺,贺岁,岁彩,彩银,银币"
+    },
+    {
+      "coinName": "2025年8克菱形贺岁彩银币",
+      "normalizedBoxCode": "8185021006",
+      "displayBoxCode": "8185021-006",
+      "gradingCompany": "NGC",
+      "grade": "Ms70",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/501891.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8185021-006/70/",
+      "price": 200,
+      "priceWithFee": null,
+      "transactedAt": "2025-12-11 20:25:08",
+      "productCode": "AA586977",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2025年,8克,吉祥文化,年克,克菱,菱形,形贺,贺岁,岁彩,彩银,银币"
+    }
+  ]
+}

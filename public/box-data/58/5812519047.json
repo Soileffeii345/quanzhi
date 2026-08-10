@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "5812519047",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "5812519047",
+      "displayBoxCode": "5812519-047",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2004年中国宝岛台湾-日月潭精制流通纪念币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10402699.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/5812519-047/",
+      "price": 270,
+      "priceWithFee": 291.6,
+      "transactedAt": "2026-07-22 19:09:15",
+      "productCode": "875481001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/10/845012007A.jpg",
+      "ocrConfidence": 43,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2004年,年中,中国,国宝,宝岛,岛台,台湾,湾日,日月,月潭,潭精,精制,制流,流通,通纪,纪念,念币,评级"
+    }
+  ]
+}

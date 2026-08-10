@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8188485025",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8188485025",
+      "displayBoxCode": "8188485-025",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2016年3克20国杭州峰会金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/467939.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8188485-025/69/",
+      "price": 2130,
+      "priceWithFee": null,
+      "transactedAt": "2025-03-14 09:46:22",
+      "productCode": "AA554449",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250313/large_sell_wqkaypvf7oqtdkcl.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2016年,3克,年克,克国,国杭,杭州,州峰,峰会,会金,金币"
+    }
+  ]
+}

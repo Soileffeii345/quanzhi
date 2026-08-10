@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8547628032",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8547628032",
+      "displayBoxCode": "8547628-032",
+      "gradingCompany": "NGC",
+      "grade": "PF 68 ULTRA CAMEO",
+      "coinName": "1999年中国人民政治协商会议成立50周年精制流通纪念币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10359835.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8547628-032/68/",
+      "price": 440,
+      "priceWithFee": 475.2,
+      "transactedAt": "2026-06-24 21:10:45",
+      "productCode": "869854021",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/869854021A.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1999年,年中,中国,国人,人民,民政,政治,治协,协商,商会,会议,议成,成立,立周,周年,年精,精制,制流,流通,通纪,纪念,念币,评级"
+    }
+  ]
+}

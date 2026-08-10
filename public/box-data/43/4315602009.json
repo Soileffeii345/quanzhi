@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4315602009",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4315602009",
+      "displayBoxCode": "4315602-009",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2016年8克宁波会馆设立90周年金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/471429.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4315602-009/70/",
+      "price": 6040,
+      "priceWithFee": null,
+      "transactedAt": "2025-04-02 14:37:57",
+      "productCode": "KH063489",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250402/large_sell_iszjleiiiriaapvx.jpg",
+      "ocrConfidence": 44,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2016年,8克,年克,克宁,宁波,波会,会馆,馆设,设立,立周,周年,年金,金币"
+    }
+  ]
+}

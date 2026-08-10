@@ -1,0 +1,31 @@
+{
+  "coinName": "1974年19.44克银币",
+  "slug": "44236230",
+  "saleCount": 1,
+  "keywords": "银,币,1974年,19.44克,年尼,尼泊,泊尔,尔国,国际,际儿,儿童,童年,年克,克银,银币",
+  "priceStats": {
+    "low": 540,
+    "high": 540,
+    "avg": 540,
+    "latest": 540
+  },
+  "records": [
+    {
+      "coinName": "1974年尼泊尔国际儿童年19.44克银币",
+      "normalizedBoxCode": "8617292100",
+      "displayBoxCode": "8617292-100",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/wgjsbizhang/10397577.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8617292-100/69/",
+      "price": 540,
+      "priceWithFee": 572.4,
+      "transactedAt": "2026-07-17 19:20:05",
+      "productCode": "874984003",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1974年,19.44克,年尼,尼泊,泊尔,尔国,国际,际儿,儿童,童年,年克,克银,银币"
+    }
+  ]
+}

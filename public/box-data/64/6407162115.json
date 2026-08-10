@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6407162115",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6407162115",
+      "displayBoxCode": "6407162-115",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "民国三年袁像壹圆银元",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguojindaijizhibi/10384056.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6407162-115/",
+      "price": 870,
+      "priceWithFee": 939.6,
+      "transactedAt": "2026-07-20 19:36:35",
+      "productCode": "873372001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/17/856724003A.jpg",
+      "ocrConfidence": 31,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,袁大头,大头,袁头,民国,国三,三年,年袁,袁像,像壹,壹圆,圆银,银元"
+    }
+  ]
+}

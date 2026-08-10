@@ -1,0 +1,65 @@
+{
+  "coinName": "2000年1分",
+  "slug": "7e57d88e",
+  "saleCount": 3,
+  "keywords": "2000年,年分",
+  "priceStats": {
+    "low": 300,
+    "high": 300,
+    "avg": 300,
+    "latest": 300
+  },
+  "records": [
+    {
+      "coinName": "2000年1分",
+      "normalizedBoxCode": "6406388048",
+      "displayBoxCode": "6406388-048",
+      "gradingCompany": "NGC",
+      "grade": "MS 70",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/555804.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6406388-048/70/",
+      "price": 300,
+      "priceWithFee": null,
+      "transactedAt": "2026-02-27 21:21:27",
+      "productCode": "KH121150",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "2000年,年分"
+    },
+    {
+      "coinName": "2000年1分",
+      "normalizedBoxCode": "6720113005",
+      "displayBoxCode": "6720113-005",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/555804.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6720113-005/",
+      "price": 300,
+      "priceWithFee": null,
+      "transactedAt": "2026-02-27 21:21:27",
+      "productCode": "KH121150",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "2000年,年分"
+    },
+    {
+      "coinName": "2000年1分",
+      "normalizedBoxCode": "6740113006",
+      "displayBoxCode": "6740113-006",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/555804.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6740113-006/",
+      "price": 300,
+      "priceWithFee": null,
+      "transactedAt": "2026-02-27 21:21:27",
+      "productCode": "KH121150",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "2000年,年分"
+    }
+  ]
+}

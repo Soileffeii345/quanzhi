@@ -1,0 +1,31 @@
+{
+  "coinName": "1990年熊猫7.776克普制金币",
+  "slug": "08d577eb",
+  "saleCount": 1,
+  "keywords": "金,币,1990年,4盎司,熊猫,年熊,猫盎,盎司,司普,普制,制金,金币,币小,小字,字版",
+  "priceStats": {
+    "low": 11000,
+    "high": 11000,
+    "avg": 11000,
+    "latest": 11000
+  },
+  "records": [
+    {
+      "coinName": "1990年熊猫1/4盎司普制金币（小字版）",
+      "normalizedBoxCode": "8757500003",
+      "displayBoxCode": "8757500-003",
+      "gradingCompany": "NGC",
+      "grade": "MS 68",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-jiujin/10407535.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8757500-003/68/",
+      "price": 11000,
+      "priceWithFee": 11385,
+      "transactedAt": "2026-07-23 20:24:15",
+      "productCode": "875918010",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1990年,4盎司,熊猫,年熊,猫盎,盎司,司普,普制,制金,金币,币小,小字,字版"
+    }
+  ]
+}

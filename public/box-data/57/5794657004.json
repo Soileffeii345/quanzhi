@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "5794657004",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "5794657004",
+      "displayBoxCode": "5794657-004",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2002年1/10盎司观音幻彩金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/554838.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/5794657-004/69/",
+      "price": 4300,
+      "priceWithFee": null,
+      "transactedAt": "2026-03-02 09:46:06",
+      "productCode": "KH119840",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260212/large_sell_ghrxgdtyotifocsu.jpg",
+      "ocrConfidence": 44,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2002年,10盎司,宗教,年盎,盎司,司观,观音,音幻,幻彩,彩金,金币"
+    }
+  ]
+}

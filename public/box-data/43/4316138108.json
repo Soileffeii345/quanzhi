@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4316138108",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4316138108",
+      "displayBoxCode": "4316138-108",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2016年丙申猴年生肖流通纪念币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10358292.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4316138-108/",
+      "price": 25,
+      "priceWithFee": 27,
+      "transactedAt": "2026-06-24 19:01:25",
+      "productCode": "870360001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/23/866240009A.jpg",
+      "ocrConfidence": 32,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2016年,生肖,年丙,丙申,申猴,猴年,年生,肖流,流通,通纪,纪念,念币"
+    }
+  ]
+}

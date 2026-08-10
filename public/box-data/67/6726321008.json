@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6726321008",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6726321008",
+      "displayBoxCode": "6726321-008",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "coinName": "1997年1/2盎司熊猫银币(雾状)",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/430658.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6726321-008/69/",
+      "price": 500,
+      "priceWithFee": null,
+      "transactedAt": "2024-05-29 14:46:25",
+      "productCode": "AA478281",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20240506/large_sell_emhrgnvjnyizn9fr.jpg",
+      "ocrConfidence": 31,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1997年,2盎司,熊猫,年盎,盎司,司熊,猫银,银币,币雾,雾状"
+    }
+  ]
+}

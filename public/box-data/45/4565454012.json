@@ -1,0 +1,45 @@
+{
+  "ok": true,
+  "query": "4565454012",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4565454012",
+      "displayBoxCode": "4565454-012",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2003年1/3盎司中国首次载人航天飞行成功彩金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/550323.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4565454-012/",
+      "price": 12320,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-30 11:56:53",
+      "productCode": "KH116628",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260130/large_sell_i0o6z9m8zmd2xfln.jpg",
+      "ocrConfidence": 45,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2003年,3盎司,年盎,盎司,司中,中国,国首,首次,次载,载人,人航,航天,天飞,飞行,行成,成功,功彩,彩金,金币"
+    },
+    {
+      "normalizedBoxCode": "4565454012",
+      "displayBoxCode": "4565454-012",
+      "gradingCompany": "NGC",
+      "grade": "PF69",
+      "coinName": "2003年1/3盎司中国首次载人航天飞行成功彩金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/534637.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4565454-012/69/",
+      "price": 10925,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-19 23:09:45",
+      "productCode": "KH109289",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260119/large_sell_pxrko7zkqup6vfpd.jpg",
+      "ocrConfidence": 47,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2003年,3盎司,年盎,盎司,司中,中国,国首,首次,次载,载人,人航,航天,天飞,飞行,行成,成功,功彩,彩金,金币"
+    }
+  ]
+}

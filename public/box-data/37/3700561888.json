@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "3700561888",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "3700561888",
+      "displayBoxCode": "3700561-888",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2020年中国银行庚子鼠年生肖澳门币拾圆",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/liantichao-jinianchao/10373156.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3700561-888/",
+      "price": 260,
+      "priceWithFee": 280.8,
+      "transactedAt": "2026-06-30 18:17:35",
+      "productCode": "871392001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/26/871392001A.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2020年,生肖,年中,中国,国银,银行,行庚,庚子,子鼠,鼠年,年生,肖澳,澳门,门币,币拾,拾圆,外国/特区"
+    }
+  ]
+}

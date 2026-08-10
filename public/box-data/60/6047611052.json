@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6047611052",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6047611052",
+      "displayBoxCode": "6047611-052",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1940年中央储备银行伍角",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/difangsipiao/10366754.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6047611-052/",
+      "price": 250,
+      "priceWithFee": 277.5,
+      "transactedAt": "2026-07-14 21:07:35",
+      "productCode": "870327024",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/26/870327024B.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,1940年,年中,中央,央储,储备,备银,银行,行伍,伍角"
+    }
+  ]
+}

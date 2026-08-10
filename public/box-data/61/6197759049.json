@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6197759049",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6197759049",
+      "displayBoxCode": "6197759-049",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1997年1/4盎司北京故宫博物院金水桥金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/463196.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6197759-049/",
+      "price": 10800,
+      "priceWithFee": null,
+      "transactedAt": "2025-02-07 21:37:10",
+      "productCode": "KH058779",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250207/large_sell_bc4ra7rnjpmcgps3.jpg",
+      "ocrConfidence": 38,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1997年,4盎司,年盎,盎司,司北,北京,京故,故宫,宫博,博物,物院,院金,金水,水桥,桥金,金币"
+    }
+  ]
+}

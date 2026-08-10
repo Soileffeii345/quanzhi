@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2785821029",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2785821029",
+      "displayBoxCode": "2785821-029",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1994年1/2盎司12边喜鹊金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/497402.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2785821-029/69/",
+      "price": 29000,
+      "priceWithFee": null,
+      "transactedAt": "2025-09-01 15:22:37",
+      "productCode": "AA582421",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250830/large_sell_kveabtxbzuhexcmp.jpg",
+      "ocrConfidence": 32,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1994年,2盎司,年盎,盎司,司边,边喜,喜鹊,鹊金,金币"
+    }
+  ]
+}

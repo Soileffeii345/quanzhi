@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4421069002",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4421069002",
+      "displayBoxCode": "4421069-002",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2013年5盎司青铜器第2组金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/545859.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4421069-002/69/",
+      "price": 195590,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-29 08:45:39",
+      "productCode": "KH115755",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260129/large_sell_pxnr7swtpvljgjiu.jpg",
+      "ocrConfidence": 49,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,铜,币,2013年,5盎司,年盎,盎司,司青,青铜,铜器,器第,第组,组金,金币"
+    }
+  ]
+}

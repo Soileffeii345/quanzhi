@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4287928029",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4287928029",
+      "displayBoxCode": "4287928-029",
+      "gradingCompany": "NGC",
+      "grade": "PF70 ULTRA CAMEO",
+      "coinName": "2017年3克中国黄梅戏女驸马金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/565707.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4287928-029/70/",
+      "price": 4500,
+      "priceWithFee": null,
+      "transactedAt": "2026-03-27 19:19:32",
+      "productCode": "AA632750",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260322/large_sell_jtm9fzupacx74ice.jpg",
+      "ocrConfidence": 30,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2017年,3克,戏曲,年克,克中,中国,国黄,黄梅,梅戏,戏女,女驸,驸马,马金,金币"
+    }
+  ]
+}

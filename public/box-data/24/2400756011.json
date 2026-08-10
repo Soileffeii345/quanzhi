@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2400756011",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2400756011",
+      "displayBoxCode": "2400756-011",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1920年德国纸钞",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10371408.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2400756-011/",
+      "price": 130,
+      "priceWithFee": 144.3,
+      "transactedAt": "2026-07-07 21:36:50",
+      "productCode": "871451011",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/26/871451011B.jpg",
+      "ocrConfidence": 27,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,1920年,年德,德国,国纸,纸钞,外国/特区"
+    }
+  ]
+}

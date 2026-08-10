@@ -1,0 +1,31 @@
+{
+  "coinName": "1986年熊猫7.776克金币",
+  "slug": "5ff0b9f4",
+  "saleCount": 1,
+  "keywords": "金,币,1986年,4盎司,熊猫,年盎,盎司,司熊,猫金,金币",
+  "priceStats": {
+    "low": 22800,
+    "high": 22800,
+    "avg": 22800,
+    "latest": 22800
+  },
+  "records": [
+    {
+      "coinName": "1986年1/4盎司熊猫金币",
+      "normalizedBoxCode": "6706539012",
+      "displayBoxCode": "6706539-012",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/487556.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6706539-012/",
+      "price": 22800,
+      "priceWithFee": null,
+      "transactedAt": "2025-07-22 15:43:33",
+      "productCode": "AA571916",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1986年,4盎司,熊猫,年盎,盎司,司熊,猫金,金币"
+    }
+  ]
+}

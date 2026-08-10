@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4802333001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4802333001",
+      "displayBoxCode": "4802333-001",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1991年1盎司熊猫金币发行10周年金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/520506.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4802333-001/",
+      "price": 39600,
+      "priceWithFee": null,
+      "transactedAt": "2026-02-28 21:00:30",
+      "productCode": "KH120734",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251213/large_sell_tu5pxojs4cjvd20n.jpg",
+      "ocrConfidence": 44,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1991年,1盎司,熊猫,年盎,盎司,司熊,猫金,金币,币发,发行,行周,周年,年金"
+    }
+  ]
+}

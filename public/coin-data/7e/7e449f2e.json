@@ -1,0 +1,31 @@
+{
+  "coinName": "2000年银币",
+  "slug": "7e449f2e",
+  "saleCount": 1,
+  "keywords": "银,币,2000年,年边,边红,红楼,楼梦,梦第,第组,组彩,彩银,银币",
+  "priceStats": {
+    "low": 3450,
+    "high": 3450,
+    "avg": 3450,
+    "latest": 3450
+  },
+  "records": [
+    {
+      "coinName": "2000年8边红楼梦第1组彩银币",
+      "normalizedBoxCode": "5817819005",
+      "displayBoxCode": "5817819-005",
+      "gradingCompany": "NGC",
+      "grade": "PF 68 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/562785.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/5817819-005/68/",
+      "price": 3450,
+      "priceWithFee": null,
+      "transactedAt": "2026-03-15 13:00:23",
+      "productCode": "KH124880",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2000年,年边,边红,红楼,楼梦,梦第,第组,组彩,彩银,银币"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6337757001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6337757001",
+      "displayBoxCode": "6337757-001",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1988年1盎司生肖龙金币(大字版)",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/432254.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6337757-001/",
+      "price": 25200,
+      "priceWithFee": null,
+      "transactedAt": "2024-06-18 14:40:15",
+      "productCode": "AA480329",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20240516/large_sell_8iwyzgznknguyzjf.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1988年,1盎司,生肖,年盎,盎司,司生,肖龙,龙金,金币,币大,大字,字版"
+    }
+  ]
+}

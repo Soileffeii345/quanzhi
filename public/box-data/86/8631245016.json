@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8631245016",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8631245016",
+      "displayBoxCode": "8631245-016",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1999年己卯兔年生肖2/3盎司梅花形精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10360147.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8631245-016/69/",
+      "price": 1440,
+      "priceWithFee": 1490.4,
+      "transactedAt": "2026-06-29 20:26:25",
+      "productCode": "870148006",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/870148006A.jpg",
+      "ocrConfidence": 32,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1999年,3盎司,生肖,年己,己卯,卯兔,兔年,年生,肖盎,盎司,司梅,梅花,花形,形精,精制,制银,银币,评级"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "coinName": "1998年澳门回归15.552克金币",
+  "slug": "3a8e3c74",
+  "saleCount": 3,
+  "keywords": "金,币,1998年,2盎司,年盎,盎司,司澳,澳门,门回,回归,归第,第组,组金,金币,外国/特区",
+  "priceStats": {
+    "low": 8500,
+    "high": 15850,
+    "avg": 12357,
+    "latest": 12720
+  },
+  "records": [
+    {
+      "coinName": "1998年1/2盎司澳门回归第2组金币",
+      "normalizedBoxCode": "5803195034",
+      "displayBoxCode": "5803195-034",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/474800.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/5803195-034/70/",
+      "price": 12720,
+      "priceWithFee": null,
+      "transactedAt": "2025-04-24 11:04:21",
+      "productCode": "AA559901",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1998年,2盎司,年盎,盎司,司澳,澳门,门回,回归,归第,第组,组金,金币,外国/特区"
+    },
+    {
+      "coinName": "1998年1/2盎司澳门回归第2组金币",
+      "normalizedBoxCode": "6180989020",
+      "displayBoxCode": "6180989-020",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/523734.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6180989-020/",
+      "price": 15850,
+      "priceWithFee": null,
+      "transactedAt": "2025-12-23 11:35:19",
+      "productCode": "KH097338",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1998年,2盎司,年盎,盎司,司澳,澳门,门回,回归,归第,第组,组金,金币,外国/特区"
+    },
+    {
+      "coinName": "1998年1/2盎司澳门回归第2组金币",
+      "normalizedBoxCode": "6203751033",
+      "displayBoxCode": "6203751-033",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/423593.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6203751-033/",
+      "price": 8500,
+      "priceWithFee": null,
+      "transactedAt": "2024-04-02 22:55:20",
+      "productCode": "AA470342",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1998年,2盎司,年盎,盎司,司澳,澳门,门回,回归,归第,第组,组金,金币,外国/特区"
+    }
+  ]
+}

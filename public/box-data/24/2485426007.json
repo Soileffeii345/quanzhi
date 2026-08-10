@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2485426007",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2485426007",
+      "displayBoxCode": "2485426-007",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2018年香港特别行政区政府港币拾圆塑料钞",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/liantichao-jinianchao/10383109.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2485426-007/",
+      "price": 150,
+      "priceWithFee": 162,
+      "transactedAt": "2026-07-04 20:05:05",
+      "productCode": "872778001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/27/872778001B.jpg",
+      "ocrConfidence": 37,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,钞,2018年,年香,香港,港特,特别,别行,行政,政区,区政,政府,府港,港币,币拾,拾圆,圆塑,塑料,料钞,外国/特区"
+    }
+  ]
+}

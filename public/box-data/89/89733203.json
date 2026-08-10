@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "89733203",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "89733203",
+      "displayBoxCode": "89733203",
+      "gradingCompany": "PCGS",
+      "grade": "VF30",
+      "coinName": "四川省造光绪元宝库平七钱二分银元",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguojindaijizhibi/10373596.shtml",
+      "officialCertUrl": "https://cn.pcgs.com/cert/89733203",
+      "price": 3700,
+      "priceWithFee": 3996,
+      "transactedAt": "2026-07-20 20:28:35",
+      "productCode": "871433015",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/26/871433015A.jpg",
+      "ocrConfidence": 29,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,龙洋,龙,元宝,四川,川造,川省,省造,造光,光绪,绪元,宝库,库平,平七,七钱,钱二,二分,分银,银元"
+    }
+  ]
+}

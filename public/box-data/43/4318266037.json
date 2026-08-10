@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4318266037",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4318266037",
+      "displayBoxCode": "4318266-037",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1987年内蒙古自治区成立40周年流通纪念币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10395614.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4318266-037/",
+      "price": 65,
+      "priceWithFee": 70.2,
+      "transactedAt": "2026-07-15 20:54:55",
+      "productCode": "873836010",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/873836010A.jpg",
+      "ocrConfidence": 37,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1987年,年内,内蒙,蒙古,古自,自治,治区,区成,成立,立周,周年,年流,流通,通纪,纪念,念币"
+    }
+  ]
+}

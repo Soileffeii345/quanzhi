@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4638069003",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4638069003",
+      "displayBoxCode": "4638069-003",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2010年武当山金银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/528606.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4638069-003/69/",
+      "price": 9400,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-21 09:59:36",
+      "productCode": "KH101814",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260107/large_sell_ez8buqh3uiegggh7.jpg",
+      "ocrConfidence": 37,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,2010年,年武,武当,当山,山金,金银,银币"
+    }
+  ]
+}

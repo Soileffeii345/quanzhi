@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8759100004",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8759100004",
+      "displayBoxCode": "8759100-004",
+      "gradingCompany": "NGC",
+      "grade": "PF70 ULTRA CAMEO",
+      "coinName": "2026年30克武夷山国家公园彩银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/576193.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8759100-004/70/",
+      "price": 1450,
+      "priceWithFee": null,
+      "transactedAt": "2026-04-28 12:33:19",
+      "productCode": "KH132259",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260427/large_sell_8g2p5fczajqnutgb.jpg",
+      "ocrConfidence": 39,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2026年,30克,名山,年克,克武,武夷,夷山,山国,国家,家公,公园,园彩,彩银,银币"
+    }
+  ]
+}

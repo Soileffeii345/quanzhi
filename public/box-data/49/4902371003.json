@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4902371003",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4902371003",
+      "displayBoxCode": "4902371-003",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2011年1/4盎司京剧脸谱第2组关羽彩金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/470986.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4902371-003/70/",
+      "price": 5775,
+      "priceWithFee": null,
+      "transactedAt": "2025-03-30 11:31:30",
+      "productCode": "KH063204",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250330/large_sell_b6m4xc9eiwq0h0h6.jpg",
+      "ocrConfidence": 71,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2011年,4盎司,戏曲,年盎,盎司,司京,京剧,剧脸,脸谱,谱第,第组,组关,关羽,羽彩,彩金,金币"
+    }
+  ]
+}

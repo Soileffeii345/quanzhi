@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6160123026",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6160123026",
+      "displayBoxCode": "6160123-026",
+      "gradingCompany": "NGC",
+      "grade": "Ms 66",
+      "coinName": "1981年长城币四枚一套",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10356540.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6160123-026/66/",
+      "price": 420,
+      "priceWithFee": 453.6,
+      "transactedAt": "2026-06-24 20:16:05",
+      "productCode": "869686001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/869686001A.jpg",
+      "ocrConfidence": 40,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1981年,年长,长城,城币,币四,四枚,枚一,一套"
+    }
+  ]
+}
