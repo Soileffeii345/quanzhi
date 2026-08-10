@@ -23,6 +23,7 @@ const PLATFORM_CONFIG: Record<string, { color: string }> = {
 
 export default function CollectionPage() {
   const [boxes, setBoxes] = useState<BoxInfo[]>([]);
+  const [coins, setCoins] = useState<string[]>([]);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState("");
 
@@ -31,6 +32,8 @@ export default function CollectionPage() {
     try {
       const raw = window.localStorage.getItem("quanzhi-saved-boxes");
       const savedBoxes: string[] = raw ? JSON.parse(raw) : [];
+      const savedCoinsRaw = window.localStorage.getItem("quanzhi-saved-coins");
+      setCoins(savedCoinsRaw ? JSON.parse(savedCoinsRaw) : []);
       if (savedBoxes.length === 0) {
         setBoxes([]);
         return;
@@ -93,9 +96,17 @@ export default function CollectionPage() {
     setBoxes((prev) => prev.filter((b) => b.boxCode !== code));
   }, []);
 
+  function removeCoin(name: string) {
+    const next = coins.filter((coin) => coin !== name);
+    setCoins(next);
+    window.localStorage.setItem("quanzhi-saved-coins", JSON.stringify(next));
+  }
+
   function clearAll() {
     window.localStorage.removeItem("quanzhi-saved-boxes");
+    window.localStorage.removeItem("quanzhi-saved-coins");
     setBoxes([]);
+    setCoins([]);
   }
 
   function exportCsv() {
@@ -158,13 +169,13 @@ export default function CollectionPage() {
               color: "#101828",
               letterSpacing: "-1px",
             }}>
-              {boxes.length > 0 ? `已收藏 ${boxes.length} 枚评级币` : "暂无收藏"}
+              {boxes.length + coins.length > 0 ? `已收藏 ${boxes.length + coins.length} 项` : "暂无收藏"}
             </h1>
             <p style={{ margin: 0, color: "#667085", fontSize: 13 }}>
-              在首页查询盒号后点击收藏，随时跟踪价格变化
+              可收藏具体评级盒号或币种行情，随时回来查看
             </p>
           </div>
-          {boxes.length > 0 && (
+          {boxes.length + coins.length > 0 && (
             <div style={{ display: "flex", gap: 8 }}>
               <button
                 onClick={exportCsv}
@@ -228,7 +239,7 @@ export default function CollectionPage() {
           </div>
         )}
 
-        {!loading && boxes.length === 0 && (
+        {!loading && boxes.length === 0 && coins.length === 0 && (
           <div style={{
             textAlign: "center",
             padding: 64,
@@ -241,7 +252,7 @@ export default function CollectionPage() {
               还没有收藏任何评级币
             </h2>
             <p style={{ color: "#667085", margin: "0 0 22px", fontSize: 13, lineHeight: 1.7 }}>
-              在首页搜索盒号后，点击「☆ 收藏盒号」即可加入收藏夹，
+              在首页搜索盒号后收藏评级币，或在币种详情页点击「☆ 收藏币种」，
               <br />
               随时跟踪价格变化。
             </p>
@@ -262,6 +273,22 @@ export default function CollectionPage() {
               去查行情 →
             </Link>
           </div>
+        )}
+
+        {!loading && coins.length > 0 && (
+          <section style={{ marginBottom: 24 }}>
+            <h2 style={{ margin: "0 0 10px", fontSize: 15, color: "#101828" }}>收藏的币种行情</h2>
+            <div style={{ display: "grid", gridTemplateColumns: "repeat(auto-fit, minmax(260px, 1fr))", gap: 10 }}>
+              {coins.map((coin) => (
+                <div key={coin} style={{ display: "flex", alignItems: "center", justifyContent: "space-between", gap: 10, padding: "14px 16px", border: "1px solid #e4e7ec", borderRadius: 12, background: "#fff" }}>
+                  <Link href={`/coin?name=${encodeURIComponent(coin)}`} style={{ color: "#101828", fontSize: 13, fontWeight: 600, textDecoration: "none", lineHeight: 1.5 }}>
+                    {coin} →
+                  </Link>
+                  <button type="button" onClick={() => removeCoin(coin)} title="取消收藏" style={{ border: 0, background: "transparent", color: "#98a2b3", cursor: "pointer", fontSize: 16 }}>×</button>
+                </div>
+              ))}
+            </div>
+          </section>
         )}
 
         {!loading &&

@@ -91,6 +91,7 @@ export default function CoinPage({ searchParams }: { searchParams?: { name?: str
   const [finishFilter, setFinishFilter] = useState("全部");
   const [candidateSort, setCandidateSort] = useState("relevance");
   const [recordSort, setRecordSort] = useState("latest");
+  const [savedCoins, setSavedCoins] = useState<string[]>([]);
 
   const initialName = urlName;
   const didFetch = useRef(false);
@@ -160,6 +161,23 @@ export default function CoinPage({ searchParams }: { searchParams?: { name?: str
       void fetchCoin(initialName);
     }
   });
+
+  useEffect(() => {
+    try {
+      const raw = window.localStorage.getItem("quanzhi-saved-coins");
+      setSavedCoins(raw ? JSON.parse(raw) : []);
+    } catch {
+      setSavedCoins([]);
+    }
+  }, []);
+
+  function toggleSavedCoin(coinName: string) {
+    const next = savedCoins.includes(coinName)
+      ? savedCoins.filter((item) => item !== coinName)
+      : [coinName, ...savedCoins].slice(0, 100);
+    setSavedCoins(next);
+    window.localStorage.setItem("quanzhi-saved-coins", JSON.stringify(next));
+  }
 
   function searchSubmit(e: React.FormEvent) {
     e.preventDefault();
@@ -443,15 +461,19 @@ export default function CoinPage({ searchParams }: { searchParams?: { name?: str
               <span style={{ fontSize: 12, fontWeight: 700, color: "#155eef", textTransform: "uppercase", letterSpacing: 1 }}>
                 币种详情
               </span>
-              <h1 style={{
-                fontSize: 28,
-                fontWeight: 800,
-                margin: "6px 0 10px",
-                color: "#101828",
-                letterSpacing: "-1px",
-              }}>
-                {data.coinName}
-              </h1>
+              <div style={{ display: "flex", alignItems: "center", justifyContent: "space-between", gap: 12, flexWrap: "wrap", margin: "6px 0 10px" }}>
+                <h1 style={{ fontSize: 28, fontWeight: 800, margin: 0, color: "#101828", letterSpacing: "-1px" }}>
+                  {data.coinName}
+                </h1>
+                <button
+                  type="button"
+                  onClick={() => toggleSavedCoin(data.coinName)}
+                  aria-pressed={savedCoins.includes(data.coinName)}
+                  style={{ padding: "8px 14px", border: savedCoins.includes(data.coinName) ? "1px solid #fdb022" : "1px solid #d0d5dd", borderRadius: 9, background: savedCoins.includes(data.coinName) ? "#fffaeb" : "#fff", color: savedCoins.includes(data.coinName) ? "#b54708" : "#344054", fontSize: 12, fontWeight: 600, cursor: "pointer" }}
+                >
+                  {savedCoins.includes(data.coinName) ? "★ 已收藏" : "☆ 收藏币种"}
+                </button>
+              </div>
               <div style={{ display: "flex", gap: 20, flexWrap: "wrap", fontSize: 13, color: "#667085" }}>
                 <span>收录 <b style={{ color: "#155eef" }}>{data.saleCount}</b> 条成交记录</span>
                 {data.priceStats.latest && (

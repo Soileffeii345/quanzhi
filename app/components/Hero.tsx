@@ -2,7 +2,7 @@
 
 import { type FormEvent, useRef, useState } from "react";
 import type { OcrResult } from "../lib/types";
-import { normalizeCertificateQuery } from "../lib/search-ranking";
+import { normalizeCertificateQuery, scoreCoinSearch } from "../lib/search-ranking";
 
 type Suggestion = { name: string; slug: string; count: number };
 
@@ -43,6 +43,8 @@ export default function Hero({
   const [suggestions, setSuggestions] = useState<Suggestion[]>([]);
   const [showSuggestions, setShowSuggestions] = useState(false);
   const debounceRef = useRef<ReturnType<typeof setTimeout>>(undefined);
+  const suggestionIndexRef = useRef<Array<{ coinName: string; slug: string; saleCount: number; keywords?: string }> | null>(null);
+  const suggestionRequestRef = useRef(0);
 
   function handleInputChange(value: string) {
     onQueryChange(value);
@@ -60,14 +62,36 @@ export default function Hero({
       return;
     }
     debounceRef.current = setTimeout(async () => {
+      const requestId = ++suggestionRequestRef.current;
+      const term = value.trim();
       try {
-        const resp = await fetch(`/api/suggest?q=${encodeURIComponent(value.trim())}`);
+        const resp = await fetch(`/api/suggest?q=${encodeURIComponent(term)}`);
         if (resp.ok) {
           const data = await resp.json() as { suggestions: Suggestion[] };
-          setSuggestions(data.suggestions ?? []);
-          setShowSuggestions((data.suggestions ?? []).length > 0);
+          let next = data.suggestions ?? [];
+          // Cloudflare Workers cannot always self-fetch a bound static asset from
+          // an API route. Fall back to the public static index in the browser.
+          if (next.length === 0) {
+            if (!suggestionIndexRef.current) {
+              const indexResponse = await fetch("/coin-data/index.json");
+              if (indexResponse.ok) {
+                const index = await indexResponse.json() as { coins?: Array<{ coinName: string; slug: string; saleCount: number; keywords?: string }> };
+                suggestionIndexRef.current = index.coins ?? [];
+              }
+            }
+            next = (suggestionIndexRef.current ?? [])
+              .map((coin) => ({ ...coin, score: scoreCoinSearch(term, coin) }))
+              .filter((coin) => coin.score > 0)
+              .sort((a, b) => b.score - a.score || b.saleCount - a.saleCount)
+              .slice(0, 8)
+              .map((coin) => ({ name: coin.coinName, slug: coin.slug, count: coin.saleCount }));
+          }
+          if (requestId !== suggestionRequestRef.current) return;
+          setSuggestions(next);
+          setShowSuggestions(next.length > 0);
         }
       } catch {
+        if (requestId !== suggestionRequestRef.current) return;
         setSuggestions([]);
       }
     }, 200);
