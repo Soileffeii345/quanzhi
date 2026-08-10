@@ -2,7 +2,7 @@
   "coinName": "2006年银币",
   "slug": "7e4154e8",
   "saleCount": 5,
-  "keywords": "银,币,2006年,年美,美国,国内,内华,华达,达州,州银,银币,外国/特区,内布,布拉,拉斯,斯加,加州,国科,科罗,罗拉,拉多,多州,国南,南达,达科,科他,他州,国北,北达",
+  "keywords": "银,币,2006年,年美,美国,国南,南达,达科,科他,他州,州银,银币,外国/特区,国内,内华,华达,达州,国科,科罗,罗拉,拉多,多州,内布,布拉,拉斯,斯加,加州,国北,北达",
   "priceStats": {
     "low": 260,
     "high": 270,
@@ -10,6 +10,23 @@
     "latest": 270
   },
   "records": [
+    {
+      "coinName": "2006年美国南达科他州银币",
+      "normalizedBoxCode": "1534229045",
+      "displayBoxCode": "1534229-045",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/476373.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1534229-045/70/",
+      "price": 270,
+      "priceWithFee": null,
+      "transactedAt": "2025-05-08 20:39:45",
+      "productCode": "AA561299",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2006年,年美,美国,国南,南达,达科,科他,他州,州银,银币,外国/特区"
+    },
     {
       "coinName": "2006年美国内华达州银币",
       "normalizedBoxCode": "1534229001",
@@ -26,23 +43,6 @@
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "银,币,2006年,年美,美国,国内,内华,华达,达州,州银,银币,外国/特区"
-    },
-    {
-      "coinName": "2006年美国内布拉斯加州银币",
-      "normalizedBoxCode": "1534229014",
-      "displayBoxCode": "1534229-014",
-      "gradingCompany": "NGC",
-      "grade": "待复核",
-      "platform": "易金在线",
-      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/476493.html",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/1534229-014/",
-      "price": 270,
-      "priceWithFee": null,
-      "transactedAt": "2025-05-08 20:37:01",
-      "productCode": "AA561399",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "银,币,2006年,年美,美国,国内,内布,布拉,拉斯,斯加,加州,州银,银币,外国/特区"
     },
     {
       "coinName": "2006年美国科罗拉多州银币",
@@ -62,21 +62,21 @@
       "keywords": "银,币,2006年,年美,美国,国科,科罗,罗拉,拉多,多州,州银,银币,外国/特区"
     },
     {
-      "coinName": "2006年美国南达科他州银币",
-      "normalizedBoxCode": "1534229045",
-      "displayBoxCode": "1534229-045",
+      "coinName": "2006年美国内布拉斯加州银币",
+      "normalizedBoxCode": "1534229014",
+      "displayBoxCode": "1534229-014",
       "gradingCompany": "NGC",
-      "grade": "PF 70 ULTRA CAMEO",
+      "grade": "待复核",
       "platform": "易金在线",
-      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/476373.html",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/1534229-045/70/",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/476493.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1534229-014/",
       "price": 270,
       "priceWithFee": null,
-      "transactedAt": "2025-05-08 20:39:45",
-      "productCode": "AA561299",
+      "transactedAt": "2025-05-08 20:37:01",
+      "productCode": "AA561399",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
-      "keywords": "银,币,2006年,年美,美国,国南,南达,达科,科他,他州,州银,银币,外国/特区"
+      "keywords": "银,币,2006年,年美,美国,国内,内布,布拉,拉斯,斯加,加州,州银,银币,外国/特区"
     },
     {
       "coinName": "2006年美国北达科他州银币",

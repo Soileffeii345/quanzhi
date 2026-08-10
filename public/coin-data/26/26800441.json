@@ -7,26 +7,9 @@
     "low": 15850,
     "high": 16000,
     "avg": 15925,
-    "latest": 16000
+    "latest": 15850
   },
   "records": [
-    {
-      "coinName": "2013年1/2盎司梅花形生肖蛇金币",
-      "normalizedBoxCode": "6752750009",
-      "displayBoxCode": "6752750-009",
-      "gradingCompany": "NGC",
-      "grade": "PF 70 ULTRA CAMEO",
-      "platform": "易金在线",
-      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/514704.html",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/6752750-009/70/",
-      "price": 16000,
-      "priceWithFee": null,
-      "transactedAt": "2025-11-28 14:49:25",
-      "productCode": "KH092332",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "金,币,2013年,2盎司,生肖,年盎,盎司,司梅,梅花,花形,形生,肖蛇,蛇金,金币"
-    },
     {
       "coinName": "2013年1/2盎司梅花形生肖蛇金币",
       "normalizedBoxCode": "8498695033",
@@ -40,6 +23,23 @@
       "priceWithFee": null,
       "transactedAt": "2025-12-23 10:20:03",
       "productCode": "KH097342",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2013年,2盎司,生肖,年盎,盎司,司梅,梅花,花形,形生,肖蛇,蛇金,金币"
+    },
+    {
+      "coinName": "2013年1/2盎司梅花形生肖蛇金币",
+      "normalizedBoxCode": "6752750009",
+      "displayBoxCode": "6752750-009",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/514704.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6752750-009/70/",
+      "price": 16000,
+      "priceWithFee": null,
+      "transactedAt": "2025-11-28 14:49:25",
+      "productCode": "KH092332",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "金,币,2013年,2盎司,生肖,年盎,盎司,司梅,梅花,花形,形生,肖蛇,蛇金,金币"

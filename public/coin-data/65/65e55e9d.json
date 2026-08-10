@@ -7,9 +7,43 @@
     "low": 380,
     "high": 2910,
     "avg": 926,
-    "latest": 430
+    "latest": 2910
   },
   "records": [
+    {
+      "coinName": "2013年1盎司熊猫银币 X5",
+      "normalizedBoxCode": "3777055015",
+      "displayBoxCode": "3777055-015",
+      "gradingCompany": "NGC",
+      "grade": "MS 70",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/524152.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3777055-015/70/",
+      "price": 2910,
+      "priceWithFee": null,
+      "transactedAt": "2025-12-24 16:14:20",
+      "productCode": "KH097835.....97839",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2013年,1盎司,熊猫,年盎,盎司,司熊,猫银,银币"
+    },
+    {
+      "coinName": "2013年1盎司熊猫银币",
+      "normalizedBoxCode": "3781440072",
+      "displayBoxCode": "3781440-072",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/521428.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3781440-072/",
+      "price": 490,
+      "priceWithFee": null,
+      "transactedAt": "2025-12-18 16:19:11",
+      "productCode": "KH095742",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2013年,1盎司,熊猫,年盎,盎司,司熊,猫银,银币"
+    },
     {
       "coinName": "2013年1盎司熊猫银币",
       "normalizedBoxCode": "2785033015",
@@ -45,23 +79,6 @@
       "keywords": "银,币,2013年,1盎司,熊猫,年盎,盎司,司熊,猫银,银币"
     },
     {
-      "coinName": "2013年1盎司熊猫银币 X5",
-      "normalizedBoxCode": "3777055015",
-      "displayBoxCode": "3777055-015",
-      "gradingCompany": "NGC",
-      "grade": "MS 70",
-      "platform": "易金在线",
-      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/524152.html",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/3777055-015/70/",
-      "price": 2910,
-      "priceWithFee": null,
-      "transactedAt": "2025-12-24 16:14:20",
-      "productCode": "KH097835.....97839",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "银,币,2013年,1盎司,熊猫,年盎,盎司,司熊,猫银,银币"
-    },
-    {
       "coinName": "2013年1盎司熊猫银币",
       "normalizedBoxCode": "3779494380",
       "displayBoxCode": "3779494-380",
@@ -74,23 +91,6 @@
       "priceWithFee": null,
       "transactedAt": "2025-03-13 09:23:22",
       "productCode": "KH060755",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "银,币,2013年,1盎司,熊猫,年盎,盎司,司熊,猫银,银币"
-    },
-    {
-      "coinName": "2013年1盎司熊猫银币",
-      "normalizedBoxCode": "3781440072",
-      "displayBoxCode": "3781440-072",
-      "gradingCompany": "NGC",
-      "grade": "待复核",
-      "platform": "易金在线",
-      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/521428.html",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/3781440-072/",
-      "price": 490,
-      "priceWithFee": null,
-      "transactedAt": "2025-12-18 16:19:11",
-      "productCode": "KH095742",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "银,币,2013年,1盎司,熊猫,年盎,盎司,司熊,猫银,银币"

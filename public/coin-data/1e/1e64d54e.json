@@ -2,14 +2,48 @@
   "coinName": "1996年3.11克金币",
   "slug": "1e64d54e",
   "saleCount": 4,
-  "keywords": "金,章,1996年,10盎司,年盎,盎司,司郑,郑和,和诞,诞辰,辰周,周年,年金,金章,司母,母亲,亲节,节金,币,宗教,司观,观音,音金,金币",
+  "keywords": "金,币,1996年,10盎司,宗教,年盎,盎司,司观,观音,音金,金币,章,司郑,郑和,和诞,诞辰,辰周,周年,年金,金章,司母,母亲,亲节,节金",
   "priceStats": {
     "low": 2815,
     "high": 4100,
     "avg": 3379,
-    "latest": 3000
+    "latest": 4100
   },
   "records": [
+    {
+      "coinName": "1996年1/10盎司观音金币",
+      "normalizedBoxCode": "8610647022",
+      "displayBoxCode": "8610647-022",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/571062.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8610647-022/",
+      "price": 4100,
+      "priceWithFee": null,
+      "transactedAt": "2026-04-15 09:15:40",
+      "productCode": "AA638477",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1996年,10盎司,宗教,年盎,盎司,司观,观音,音金,金币"
+    },
+    {
+      "coinName": "1996年1/10盎司观音金币",
+      "normalizedBoxCode": "6753718002",
+      "displayBoxCode": "6753718-002",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/509114.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6753718-002/",
+      "price": 2815,
+      "priceWithFee": null,
+      "transactedAt": "2025-10-29 14:13:21",
+      "productCode": "AA593258",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1996年,10盎司,宗教,年盎,盎司,司观,观音,音金,金币"
+    },
     {
       "coinName": "1996年1/10盎司郑和诞辰625周年金章",
       "normalizedBoxCode": "6000869001",
@@ -43,40 +77,6 @@
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "金,章,1996年,10盎司,年盎,盎司,司母,母亲,亲节,节金,金章"
-    },
-    {
-      "coinName": "1996年1/10盎司观音金币",
-      "normalizedBoxCode": "6753718002",
-      "displayBoxCode": "6753718-002",
-      "gradingCompany": "NGC",
-      "grade": "待复核",
-      "platform": "易金在线",
-      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/509114.html",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/6753718-002/",
-      "price": 2815,
-      "priceWithFee": null,
-      "transactedAt": "2025-10-29 14:13:21",
-      "productCode": "AA593258",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "金,币,1996年,10盎司,宗教,年盎,盎司,司观,观音,音金,金币"
-    },
-    {
-      "coinName": "1996年1/10盎司观音金币",
-      "normalizedBoxCode": "8610647022",
-      "displayBoxCode": "8610647-022",
-      "gradingCompany": "NGC",
-      "grade": "待复核",
-      "platform": "易金在线",
-      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/571062.html",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/8610647-022/",
-      "price": 4100,
-      "priceWithFee": null,
-      "transactedAt": "2026-04-15 09:15:40",
-      "productCode": "AA638477",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "金,币,1996年,10盎司,宗教,年盎,盎司,司观,观音,音金,金币"
     }
   ]
 }

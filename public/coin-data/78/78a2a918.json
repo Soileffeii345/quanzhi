@@ -7,26 +7,9 @@
     "low": 930,
     "high": 960,
     "avg": 945,
-    "latest": 960
+    "latest": 930
   },
   "records": [
-    {
-      "coinName": "2022年中国空间站建成30克精制银币",
-      "normalizedBoxCode": "6409465013",
-      "displayBoxCode": "6409465-013",
-      "gradingCompany": "NGC",
-      "grade": "待复核",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10376598.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/6409465-013/",
-      "price": 960,
-      "priceWithFee": 993.6,
-      "transactedAt": "2026-07-04 21:00:05",
-      "productCode": "871748003",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "银,币,2022年,30克,年中,中国,国空,空间,间站,站建,建成,成克,克精,精制,制银,银币,评级"
-    },
     {
       "coinName": "2022年中国空间站建成30克精制银币",
       "normalizedBoxCode": "8649658003",
@@ -40,6 +23,23 @@
       "priceWithFee": 962.55,
       "transactedAt": "2026-07-25 19:42:05",
       "productCode": "877786001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2022年,30克,年中,中国,国空,空间,间站,站建,建成,成克,克精,精制,制银,银币,评级"
+    },
+    {
+      "coinName": "2022年中国空间站建成30克精制银币",
+      "normalizedBoxCode": "6409465013",
+      "displayBoxCode": "6409465-013",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10376598.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6409465-013/",
+      "price": 960,
+      "priceWithFee": 993.6,
+      "transactedAt": "2026-07-04 21:00:05",
+      "productCode": "871748003",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "银,币,2022年,30克,年中,中国,国空,空间,间站,站建,建成,成克,克精,精制,制银,银币,评级"

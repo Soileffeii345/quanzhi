@@ -7,26 +7,9 @@
     "low": 3550,
     "high": 8400,
     "avg": 5975,
-    "latest": 3550
+    "latest": 8400
   },
   "records": [
-    {
-      "coinName": "1982年1/10盎司熊猫金币(长枝)",
-      "normalizedBoxCode": "3362942009",
-      "displayBoxCode": "3362942-009",
-      "gradingCompany": "NGC",
-      "grade": "MS 68",
-      "platform": "易金在线",
-      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/485184.html",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/3362942-009/68/",
-      "price": 3550,
-      "priceWithFee": null,
-      "transactedAt": "2025-06-26 17:35:15",
-      "productCode": "AA569663",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "金,币,1982年,10盎司,熊猫,年盎,盎司,司熊,猫金,金币,币长,长枝"
-    },
     {
       "coinName": "1982年1/10盎司熊猫金币(长枝)",
       "normalizedBoxCode": "4186010002",
@@ -40,6 +23,23 @@
       "priceWithFee": null,
       "transactedAt": "2026-03-11 08:24:31",
       "productCode": "AA625864",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1982年,10盎司,熊猫,年盎,盎司,司熊,猫金,金币,币长,长枝"
+    },
+    {
+      "coinName": "1982年1/10盎司熊猫金币(长枝)",
+      "normalizedBoxCode": "3362942009",
+      "displayBoxCode": "3362942-009",
+      "gradingCompany": "NGC",
+      "grade": "MS 68",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/485184.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3362942-009/68/",
+      "price": 3550,
+      "priceWithFee": null,
+      "transactedAt": "2025-06-26 17:35:15",
+      "productCode": "AA569663",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "金,币,1982年,10盎司,熊猫,年盎,盎司,司熊,猫金,金币,币长,长枝"

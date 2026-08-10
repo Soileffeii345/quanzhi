@@ -7,26 +7,9 @@
     "low": 1300,
     "high": 1460,
     "avg": 1380,
-    "latest": 1460
+    "latest": 1300
   },
   "records": [
-    {
-      "coinName": "1995年妈祖1/2盎司精制银币",
-      "normalizedBoxCode": "5776052023",
-      "displayBoxCode": "5776052-023",
-      "gradingCompany": "NGC",
-      "grade": "Pr69 ULTRA CAMEO",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10407540.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/5776052-023/69/",
-      "price": 1460,
-      "priceWithFee": 1511.1,
-      "transactedAt": "2026-07-20 21:06:40",
-      "productCode": "875918015",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "银,币,1995年,2盎司,年妈,妈祖,祖盎,盎司,司精,精制,制银,银币,评级"
-    },
     {
       "coinName": "1995年妈祖1/2盎司精制银币",
       "normalizedBoxCode": "6181395014",
@@ -40,6 +23,23 @@
       "priceWithFee": 1345.5,
       "transactedAt": "2026-07-27 21:09:10",
       "productCode": "878311004",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1995年,2盎司,年妈,妈祖,祖盎,盎司,司精,精制,制银,银币,评级"
+    },
+    {
+      "coinName": "1995年妈祖1/2盎司精制银币",
+      "normalizedBoxCode": "5776052023",
+      "displayBoxCode": "5776052-023",
+      "gradingCompany": "NGC",
+      "grade": "Pr69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10407540.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/5776052-023/69/",
+      "price": 1460,
+      "priceWithFee": 1511.1,
+      "transactedAt": "2026-07-20 21:06:40",
+      "productCode": "875918015",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "银,币,1995年,2盎司,年妈,妈祖,祖盎,盎司,司精,精制,制银,银币,评级"

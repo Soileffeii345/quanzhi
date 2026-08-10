@@ -7,26 +7,9 @@
     "low": 4550,
     "high": 4650,
     "avg": 4600,
-    "latest": 4550
+    "latest": 4650
   },
   "records": [
-    {
-      "coinName": "2018年熊猫150克精制银币",
-      "normalizedBoxCode": "4531600010",
-      "displayBoxCode": "4531600-010",
-      "gradingCompany": "NGC",
-      "grade": "PF 70 ULTRA CAMEO",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-xinyin/10398817.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/4531600-010/70/",
-      "price": 4550,
-      "priceWithFee": 4709.25,
-      "transactedAt": "2026-07-16 19:45:05",
-      "productCode": "874356007",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "银,币,2018年,150克,熊猫,年熊,猫克,克精,精制,制银,银币,评级"
-    },
     {
       "coinName": "2018年熊猫150克精制银币",
       "normalizedBoxCode": "4531600028",
@@ -40,6 +23,23 @@
       "priceWithFee": 4812.75,
       "transactedAt": "2026-07-23 19:35:55",
       "productCode": "874356008",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2018年,150克,熊猫,年熊,猫克,克精,精制,制银,银币,评级"
+    },
+    {
+      "coinName": "2018年熊猫150克精制银币",
+      "normalizedBoxCode": "4531600010",
+      "displayBoxCode": "4531600-010",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-xinyin/10398817.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4531600-010/70/",
+      "price": 4550,
+      "priceWithFee": 4709.25,
+      "transactedAt": "2026-07-16 19:45:05",
+      "productCode": "874356007",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "银,币,2018年,150克,熊猫,年熊,猫克,克精,精制,制银,银币,评级"

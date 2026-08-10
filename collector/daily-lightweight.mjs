@@ -7,12 +7,11 @@
  *   - 只处理增量数据（不重扫已有）
  *   - 每日运行时间控制在 20 分钟内
  *   - 失败不阻塞，单步骤失败记录后继续
- *   - 最终导出 + 构建 + Cloudflare Workers 部署
+ *   - 最终只导出经审计的公开数据；部署由 GitHub Actions 统一负责
  *
  * 用法：
  *   node collector/daily-lightweight.mjs             # 完整更新
  *   node collector/daily-lightweight.mjs --dry-run    # 仅检查，不写入
- *   node collector/daily-lightweight.mjs --no-deploy   # 跳过构建和部署
  */
 
 import { execSync } from "node:child_process";
@@ -26,7 +25,6 @@ const collectorDir = dirname(fileURLToPath(import.meta.url));
 const rootDir = resolve(collectorDir, "..");
 const args = process.argv.slice(2);
 const dryRun = args.includes("--dry-run");
-const noDeploy = args.includes("--no-deploy");
 
 // ── 日志 ──────────────────────────────────────────────
 const logLines = [];
@@ -73,55 +71,6 @@ function checkDB() {
     database.prepare("SELECT COUNT(*) FROM box_sales").get();
     return true;
   } catch {
-    return false;
-  }
-}
-
-async function buildAndDeploy() {
-  if (dryRun || noDeploy) {
-    log("⏭ 跳过构建和部署");
-    return true;
-  }
-
-  // Step 1: Build
-  log("▶ 构建网站 (vinext build)");
-  try {
-    const t0 = Date.now();
-    execSync("npm run build", {
-      cwd: rootDir,
-      stdio: "pipe",
-      timeout: 300_000,
-      maxBuffer: 10 * 1024 * 1024,
-    });
-    const elapsed = ((Date.now() - t0) / 1000).toFixed(1);
-    log(`  ✓ 构建完成 (${elapsed}s)`);
-
-  } catch (error) {
-    const stderr = error.stderr?.toString().slice(-300) || error.message;
-    log(`  ✗ 构建失败: ${stderr.replace(/\n/g, " ")}`);
-    return false;
-  }
-
-  // Step 2: Deploy to Cloudflare Workers
-  log("▶ 部署到 Cloudflare Workers");
-  try {
-    const t0 = Date.now();
-    execSync("npx wrangler deploy --config wrangler.jsonc", {
-      cwd: resolve(rootDir, "dist", "server"),
-      stdio: "pipe",
-      timeout: 300_000,
-      maxBuffer: 2 * 1024 * 1024,
-    });
-    const elapsed = ((Date.now() - t0) / 1000).toFixed(1);
-    log(`  ✓ 已部署到 Cloudflare (${elapsed}s)`);
-    log(`  🌐 https://quanzhi.quanzhi.workers.dev`);
-    return true;
-  } catch (error) {
-    const stdout = error.stdout?.toString() || "";
-    const urlMatch = stdout.match(/https:\/\/[a-z0-9-]+\.quanzhi\.workers\.dev/);
-    if (urlMatch) log(`  ⚠ 部署可能已成功: ${urlMatch[0]}`);
-    const stderr = error.stderr?.toString().slice(-300) || error.message;
-    log(`  ✗ 部署失败: ${stderr.replace(/\n/g, " ")}`);
     return false;
   }
 }
@@ -185,11 +134,6 @@ async function main() {
     results.push({ step: "静态导出", ok: false });
     results.push({ step: "HTML导出", ok: false });
   }
-
-  // Phase 6: 构建 + Cloudflare Workers 部署
-  log("\n── Phase 6: 发布 ──");
-  const deployed = auditOk ? await buildAndDeploy() : false;
-  results.push({ step: "构建部署", ok: deployed });
 
   // ── Summary ──
   const after = {

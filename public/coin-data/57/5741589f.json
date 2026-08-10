@@ -7,26 +7,9 @@
     "low": 10000,
     "high": 10400,
     "avg": 10193,
-    "latest": 10400
+    "latest": 10180
   },
   "records": [
-    {
-      "coinName": "1989年1/3盎司历史人物第6组成吉思汗金币",
-      "normalizedBoxCode": "4288566006",
-      "displayBoxCode": "4288566-006",
-      "gradingCompany": "NGC",
-      "grade": "PF 69 ULTRA CAMEO",
-      "platform": "易金在线",
-      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/511486.html",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/4288566-006/69/",
-      "price": 10400,
-      "priceWithFee": null,
-      "transactedAt": "2025-11-10 16:57:33",
-      "productCode": "KH090498",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "金,币,1989年,3盎司,年盎,盎司,司历,历史,史人,人物,物第,第组,组成,成吉,吉思,思汗,汗金,金币"
-    },
     {
       "coinName": "1989年1/3盎司历史人物第6组成吉思汗金币",
       "normalizedBoxCode": "4417285001",
@@ -57,6 +40,23 @@
       "priceWithFee": null,
       "transactedAt": "2025-12-01 08:54:03",
       "productCode": "AA596477",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1989年,3盎司,年盎,盎司,司历,历史,史人,人物,物第,第组,组成,成吉,吉思,思汗,汗金,金币"
+    },
+    {
+      "coinName": "1989年1/3盎司历史人物第6组成吉思汗金币",
+      "normalizedBoxCode": "4288566006",
+      "displayBoxCode": "4288566-006",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/511486.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4288566-006/69/",
+      "price": 10400,
+      "priceWithFee": null,
+      "transactedAt": "2025-11-10 16:57:33",
+      "productCode": "KH090498",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "金,币,1989年,3盎司,年盎,盎司,司历,历史,史人,人物,物第,第组,组成,成吉,吉思,思汗,汗金,金币"

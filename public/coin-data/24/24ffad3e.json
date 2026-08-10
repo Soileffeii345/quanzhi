@@ -2,31 +2,14 @@
   "coinName": "1988年精制银币",
   "slug": "24ffad3e",
   "saleCount": 6,
-  "keywords": "银,币,1988年,年中,中国,国人,人民,民银,银行,行成,成立,立周,周年,年精,精制,制纪,纪念,念币,评级,制流,流通,通纪",
+  "keywords": "银,币,1988年,年中,中国,国人,人民,民银,银行,行成,成立,立周,周年,年精,精制,制流,流通,通纪,纪念,念币,评级,制纪",
   "priceStats": {
     "low": 4250,
     "high": 10600,
     "avg": 7000,
-    "latest": 7800
+    "latest": 4250
   },
   "records": [
-    {
-      "coinName": "1988年中国人民银行成立40周年精制纪念币",
-      "normalizedBoxCode": "8191357048",
-      "displayBoxCode": "8191357-048",
-      "gradingCompany": "NGC",
-      "grade": "PF 68",
-      "platform": "易金在线",
-      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/451900.html",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/8191357-048/68/",
-      "price": 7800,
-      "priceWithFee": null,
-      "transactedAt": "2024-11-05 21:32:41",
-      "productCode": "AA505766",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "银,币,1988年,年中,中国,国人,人民,民银,银行,行成,成立,立周,周年,年精,精制,制纪,纪念,念币,评级"
-    },
     {
       "coinName": "1988年中国人民银行成立40周年精制流通纪念币",
       "normalizedBoxCode": "8504451050",
@@ -40,23 +23,6 @@
       "priceWithFee": 4590,
       "transactedAt": "2026-07-15 22:13:15",
       "productCode": "875135001",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "银,币,1988年,年中,中国,国人,人民,民银,银行,行成,成立,立周,周年,年精,精制,制流,流通,通纪,纪念,念币,评级"
-    },
-    {
-      "coinName": "1988年中国人民银行成立40周年精制流通纪念币",
-      "normalizedBoxCode": "8547628039",
-      "displayBoxCode": "8547628-039",
-      "gradingCompany": "NGC",
-      "grade": "PF 69 CAMEO",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10359839.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/8547628-039/69/",
-      "price": 8200,
-      "priceWithFee": 8856,
-      "transactedAt": "2026-06-24 20:36:45",
-      "productCode": "869854025",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "银,币,1988年,年中,中国,国人,人民,民银,银行,行成,成立,立周,周年,年精,精制,制流,流通,通纪,纪念,念币,评级"
@@ -80,6 +46,40 @@
     },
     {
       "coinName": "1988年中国人民银行成立40周年精制流通纪念币",
+      "normalizedBoxCode": "8760583013",
+      "displayBoxCode": "8760583-013",
+      "gradingCompany": "NGC",
+      "grade": "PF67 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10358560.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8760583-013/67/",
+      "price": 4650,
+      "priceWithFee": 5022,
+      "transactedAt": "2026-06-24 20:58:45",
+      "productCode": "869944002",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1988年,年中,中国,国人,人民,民银,银行,行成,成立,立周,周年,年精,精制,制流,流通,通纪,纪念,念币,评级"
+    },
+    {
+      "coinName": "1988年中国人民银行成立40周年精制流通纪念币",
+      "normalizedBoxCode": "8547628039",
+      "displayBoxCode": "8547628-039",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10359839.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8547628-039/69/",
+      "price": 8200,
+      "priceWithFee": 8856,
+      "transactedAt": "2026-06-24 20:36:45",
+      "productCode": "869854025",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1988年,年中,中国,国人,人民,民银,银行,行成,成立,立周,周年,年精,精制,制流,流通,通纪,纪念,念币,评级"
+    },
+    {
+      "coinName": "1988年中国人民银行成立40周年精制流通纪念币",
       "normalizedBoxCode": "8757929005",
       "displayBoxCode": "8757929-005",
       "gradingCompany": "NGC",
@@ -96,21 +96,21 @@
       "keywords": "银,币,1988年,年中,中国,国人,人民,民银,银行,行成,成立,立周,周年,年精,精制,制流,流通,通纪,纪念,念币,评级"
     },
     {
-      "coinName": "1988年中国人民银行成立40周年精制流通纪念币",
-      "normalizedBoxCode": "8760583013",
-      "displayBoxCode": "8760583-013",
+      "coinName": "1988年中国人民银行成立40周年精制纪念币",
+      "normalizedBoxCode": "8191357048",
+      "displayBoxCode": "8191357-048",
       "gradingCompany": "NGC",
-      "grade": "PF67 ULTRA CAMEO",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10358560.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/8760583-013/67/",
-      "price": 4650,
-      "priceWithFee": 5022,
-      "transactedAt": "2026-06-24 20:58:45",
-      "productCode": "869944002",
+      "grade": "PF 68",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/451900.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8191357-048/68/",
+      "price": 7800,
+      "priceWithFee": null,
+      "transactedAt": "2024-11-05 21:32:41",
+      "productCode": "AA505766",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
-      "keywords": "银,币,1988年,年中,中国,国人,人民,民银,银行,行成,成立,立周,周年,年精,精制,制流,流通,通纪,纪念,念币,评级"
+      "keywords": "银,币,1988年,年中,中国,国人,人民,民银,银行,行成,成立,立周,周年,年精,精制,制纪,纪念,念币,评级"
     }
   ]
 }

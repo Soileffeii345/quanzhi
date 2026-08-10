@@ -2,14 +2,31 @@
   "coinName": "1995年熊猫31.104克普制银币",
   "slug": "3edfb9f3",
   "saleCount": 5,
-  "keywords": "银,币,1995年,1盎司,熊猫,年熊,猫盎,盎司,司普,普制,制银,银币,币细,细枝,枝小,小字,字版,币粗,粗枝,枝版,枝大,大字",
+  "keywords": "银,币,1995年,1盎司,熊猫,年熊,猫盎,盎司,司普,普制,制银,银币,币细,细枝,枝大,大字,字版,枝小,小字,币粗,粗枝,枝版",
   "priceStats": {
     "low": 730,
     "high": 1380,
     "avg": 966,
-    "latest": 1220
+    "latest": 740
   },
   "records": [
+    {
+      "coinName": "1995年熊猫1盎司普制银币（细枝大字版）",
+      "normalizedBoxCode": "8760746003",
+      "displayBoxCode": "8760746-003",
+      "gradingCompany": "NGC",
+      "grade": "MS 68",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-jiuyin/10431485.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8760746-003/68/",
+      "price": 740,
+      "priceWithFee": 765.9,
+      "transactedAt": "2026-07-27 21:20:10",
+      "productCode": "878713002",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1995年,1盎司,熊猫,年熊,猫盎,盎司,司普,普制,制银,银币,币细,细枝,枝大,大字,字版"
+    },
     {
       "coinName": "1995年熊猫1盎司普制银币（细枝小字版）",
       "normalizedBoxCode": "6721891006",
@@ -26,6 +43,23 @@
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "银,币,1995年,1盎司,熊猫,年熊,猫盎,盎司,司普,普制,制银,银币,币细,细枝,枝小,小字,字版"
+    },
+    {
+      "coinName": "1995年熊猫1盎司普制银币（粗枝版）",
+      "normalizedBoxCode": "8754710051",
+      "displayBoxCode": "8754710-051",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-jiuyin/10400961.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8754710-051/69/",
+      "price": 730,
+      "priceWithFee": 755.55,
+      "transactedAt": "2026-07-13 20:11:00",
+      "productCode": "875148001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1995年,1盎司,熊猫,年熊,猫盎,盎司,司普,普制,制银,银币,币粗,粗枝,枝版"
     },
     {
       "coinName": "1995年熊猫1盎司普制银币（细枝小字版）",
@@ -60,40 +94,6 @@
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "银,币,1995年,1盎司,熊猫,年熊,猫盎,盎司,司普,普制,制银,银币,币粗,粗枝,枝版"
-    },
-    {
-      "coinName": "1995年熊猫1盎司普制银币（粗枝版）",
-      "normalizedBoxCode": "8754710051",
-      "displayBoxCode": "8754710-051",
-      "gradingCompany": "NGC",
-      "grade": "MS 69",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-jiuyin/10400961.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/8754710-051/69/",
-      "price": 730,
-      "priceWithFee": 755.55,
-      "transactedAt": "2026-07-13 20:11:00",
-      "productCode": "875148001",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "银,币,1995年,1盎司,熊猫,年熊,猫盎,盎司,司普,普制,制银,银币,币粗,粗枝,枝版"
-    },
-    {
-      "coinName": "1995年熊猫1盎司普制银币（细枝大字版）",
-      "normalizedBoxCode": "8760746003",
-      "displayBoxCode": "8760746-003",
-      "gradingCompany": "NGC",
-      "grade": "MS 68",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-jiuyin/10431485.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/8760746-003/68/",
-      "price": 740,
-      "priceWithFee": 765.9,
-      "transactedAt": "2026-07-27 21:20:10",
-      "productCode": "878713002",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "银,币,1995年,1盎司,熊猫,年熊,猫盎,盎司,司普,普制,制银,银币,币细,细枝,枝大,大字,字版"
     }
   ]
 }

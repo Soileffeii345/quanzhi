@@ -7,26 +7,9 @@
     "low": 120,
     "high": 140,
     "avg": 130,
-    "latest": 130
+    "latest": 140
   },
   "records": [
-    {
-      "coinName": "黎巴嫩纸币",
-      "normalizedBoxCode": "2400758066",
-      "displayBoxCode": "2400758-066",
-      "gradingCompany": "NGC",
-      "grade": "待复核",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/waiguozhichao/10372885.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/2400758-066/",
-      "price": 130,
-      "priceWithFee": 144.3,
-      "transactedAt": "2026-06-30 22:11:35",
-      "productCode": "871226059",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "币,黎巴,巴嫩,嫩纸,纸币"
-    },
     {
       "coinName": "黎巴嫩纸币",
       "normalizedBoxCode": "2400758067",
@@ -40,6 +23,23 @@
       "priceWithFee": 155.4,
       "transactedAt": "2026-06-30 22:40:50",
       "productCode": "871226058",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,黎巴,巴嫩,嫩纸,纸币"
+    },
+    {
+      "coinName": "黎巴嫩纸币",
+      "normalizedBoxCode": "2400758066",
+      "displayBoxCode": "2400758-066",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10372885.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2400758-066/",
+      "price": 130,
+      "priceWithFee": 144.3,
+      "transactedAt": "2026-06-30 22:11:35",
+      "productCode": "871226059",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "币,黎巴,巴嫩,嫩纸,纸币"

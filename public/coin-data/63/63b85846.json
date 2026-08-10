@@ -2,31 +2,14 @@
   "coinName": "1998年15.552克银币",
   "slug": "63b85846",
   "saleCount": 3,
-  "keywords": "银,币,1998年,2盎司,年盎,盎司,司万,万象,象更,更新,新彩,彩银,银币,宗教,司观,观音,音银",
+  "keywords": "银,币,1998年,2盎司,宗教,年盎,盎司,司观,观音,音银,银币,司万,万象,象更,更新,新彩,彩银",
   "priceStats": {
     "low": 500,
     "high": 21600,
     "avg": 14567,
-    "latest": 500
+    "latest": 21600
   },
   "records": [
-    {
-      "coinName": "1998年1/2盎司万象更新彩银币",
-      "normalizedBoxCode": "4635900050",
-      "displayBoxCode": "4635900-050",
-      "gradingCompany": "NGC",
-      "grade": "PF69 ULTRA CAMEO",
-      "platform": "易金在线",
-      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/526117.html",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/4635900-050/69/",
-      "price": 500,
-      "priceWithFee": null,
-      "transactedAt": "2026-01-01 20:55:38",
-      "productCode": "AA606355",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "银,币,1998年,2盎司,年盎,盎司,司万,万象,象更,更新,新彩,彩银,银币"
-    },
     {
       "coinName": "1998年1/2盎司观音银币",
       "normalizedBoxCode": "8175551005",
@@ -60,6 +43,23 @@
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "银,币,1998年,2盎司,宗教,年盎,盎司,司观,观音,音银,银币"
+    },
+    {
+      "coinName": "1998年1/2盎司万象更新彩银币",
+      "normalizedBoxCode": "4635900050",
+      "displayBoxCode": "4635900-050",
+      "gradingCompany": "NGC",
+      "grade": "PF69 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/526117.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4635900-050/69/",
+      "price": 500,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-01 20:55:38",
+      "productCode": "AA606355",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1998年,2盎司,年盎,盎司,司万,万象,象更,更新,新彩,彩银,银币"
     }
   ]
 }

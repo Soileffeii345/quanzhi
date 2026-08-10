@@ -2,47 +2,30 @@
   "coinName": "2000年5盎司银币",
   "slug": "2c35bfad",
   "saleCount": 5,
-  "keywords": "银,币,2000年,5盎司,年盎,盎司,司扇,扇形,形红,红楼,楼梦,梦第,第组,组彩,彩银,银币,司千,千年,年纪,纪念,念银",
+  "keywords": "银,币,2000年,5盎司,年盎,盎司,司千,千年,年纪,纪念,念银,银币,司扇,扇形,形红,红楼,楼梦,梦第,第组,组彩,彩银",
   "priceStats": {
     "low": 2800,
     "high": 6500,
     "avg": 4200,
-    "latest": 2800
+    "latest": 6500
   },
   "records": [
     {
-      "coinName": "2000年5盎司扇形红楼梦第1组彩银币",
-      "normalizedBoxCode": "6181932004",
-      "displayBoxCode": "6181932-004",
+      "coinName": "2000年5盎司千年纪念银币",
+      "normalizedBoxCode": "8499392001",
+      "displayBoxCode": "8499392-001",
       "gradingCompany": "NGC",
       "grade": "PF 69 ULTRA CAMEO",
       "platform": "易金在线",
-      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/487940.html",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/6181932-004/69/",
-      "price": 2800,
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/558221.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8499392-001/69/",
+      "price": 6500,
       "priceWithFee": null,
-      "transactedAt": "2025-07-12 16:35:04",
-      "productCode": "DB201002",
+      "transactedAt": "2026-03-05 19:05:25",
+      "productCode": "KH122196",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
-      "keywords": "银,币,2000年,5盎司,年盎,盎司,司扇,扇形,形红,红楼,楼梦,梦第,第组,组彩,彩银,银币"
-    },
-    {
-      "coinName": "2000年5盎司扇形红楼梦第1组彩银币",
-      "normalizedBoxCode": "6719287010",
-      "displayBoxCode": "6719287-010",
-      "gradingCompany": "NGC",
-      "grade": "PF 68 ULTRA CAMEO",
-      "platform": "易金在线",
-      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/528796.html",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/6719287-010/68/",
-      "price": 3350,
-      "priceWithFee": null,
-      "transactedAt": "2026-01-07 20:20:37",
-      "productCode": "KH101851",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "银,币,2000年,5盎司,年盎,盎司,司扇,扇形,形红,红楼,楼梦,梦第,第组,组彩,彩银,银币"
+      "keywords": "银,币,2000年,5盎司,年盎,盎司,司千,千年,年纪,纪念,念银,银币"
     },
     {
       "coinName": "2000年5盎司扇形红楼梦第1组彩银币",
@@ -79,21 +62,38 @@
       "keywords": "银,币,2000年,5盎司,年盎,盎司,司千,千年,年纪,纪念,念银,银币"
     },
     {
-      "coinName": "2000年5盎司千年纪念银币",
-      "normalizedBoxCode": "8499392001",
-      "displayBoxCode": "8499392-001",
+      "coinName": "2000年5盎司扇形红楼梦第1组彩银币",
+      "normalizedBoxCode": "6719287010",
+      "displayBoxCode": "6719287-010",
+      "gradingCompany": "NGC",
+      "grade": "PF 68 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/528796.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6719287-010/68/",
+      "price": 3350,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-07 20:20:37",
+      "productCode": "KH101851",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2000年,5盎司,年盎,盎司,司扇,扇形,形红,红楼,楼梦,梦第,第组,组彩,彩银,银币"
+    },
+    {
+      "coinName": "2000年5盎司扇形红楼梦第1组彩银币",
+      "normalizedBoxCode": "6181932004",
+      "displayBoxCode": "6181932-004",
       "gradingCompany": "NGC",
       "grade": "PF 69 ULTRA CAMEO",
       "platform": "易金在线",
-      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/558221.html",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/8499392-001/69/",
-      "price": 6500,
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/487940.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6181932-004/69/",
+      "price": 2800,
       "priceWithFee": null,
-      "transactedAt": "2026-03-05 19:05:25",
-      "productCode": "KH122196",
+      "transactedAt": "2025-07-12 16:35:04",
+      "productCode": "DB201002",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
-      "keywords": "银,币,2000年,5盎司,年盎,盎司,司千,千年,年纪,纪念,念银,银币"
+      "keywords": "银,币,2000年,5盎司,年盎,盎司,司扇,扇形,形红,红楼,楼梦,梦第,第组,组彩,彩银,银币"
     }
   ]
 }

@@ -7,9 +7,26 @@
     "low": 630,
     "high": 910,
     "avg": 783,
-    "latest": 810
+    "latest": 630
   },
   "records": [
+    {
+      "coinName": "2002年熊猫1盎司普制银币",
+      "normalizedBoxCode": "8817239003",
+      "displayBoxCode": "8817239-003",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-jiuyin/10417567.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8817239-003/69/",
+      "price": 630,
+      "priceWithFee": 652.05,
+      "transactedAt": "2026-07-20 19:55:40",
+      "productCode": "877004002",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2002年,1盎司,熊猫,年熊,猫盎,盎司,司普,普制,制银,银币"
+    },
     {
       "coinName": "2002年熊猫1盎司普制银币",
       "normalizedBoxCode": "6632079128",
@@ -40,23 +57,6 @@
       "priceWithFee": 941.85,
       "transactedAt": "2026-06-22 20:12:10",
       "productCode": "869398021",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "银,币,2002年,1盎司,熊猫,年熊,猫盎,盎司,司普,普制,制银,银币"
-    },
-    {
-      "coinName": "2002年熊猫1盎司普制银币",
-      "normalizedBoxCode": "8817239003",
-      "displayBoxCode": "8817239-003",
-      "gradingCompany": "NGC",
-      "grade": "MS 69",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-jiuyin/10417567.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/8817239-003/69/",
-      "price": 630,
-      "priceWithFee": 652.05,
-      "transactedAt": "2026-07-20 19:55:40",
-      "productCode": "877004002",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "银,币,2002年,1盎司,熊猫,年熊,猫盎,盎司,司普,普制,制银,银币"

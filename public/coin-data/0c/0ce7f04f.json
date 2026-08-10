@@ -2,31 +2,14 @@
   "coinName": "1998年31.104克精制银币",
   "slug": "0ce7f04f",
   "saleCount": 5,
-  "keywords": "银,币,1998年,1盎司,年刘,刘少,少奇,奇诞,诞辰,辰周,周年,年盎,盎司,司精,精制,制银,银币,币二,二枚,枚一,一套,评级,年澳,澳门,门回,回归,归祖,祖国,国第,第组,组盎,外国/特区,吉祥文化,年中,中国,国传,传统,统吉,吉祥,祥图,图万,万象,象更,更新,新盎,制彩,彩银",
+  "keywords": "银,币,1998年,1盎司,年澳,澳门,门回,回归,归祖,祖国,国第,第组,组盎,盎司,司精,精制,制银,银币,评级,外国/特区,吉祥文化,年中,中国,国传,传统,统吉,吉祥,祥图,图万,万象,象更,更新,新盎,制彩,彩银,年刘,刘少,少奇,奇诞,诞辰,辰周,周年,年盎,币二,二枚,枚一,一套",
   "priceStats": {
     "low": 510,
     "high": 1620,
     "avg": 754,
-    "latest": 1620
+    "latest": 520
   },
   "records": [
-    {
-      "coinName": "1998年刘少奇诞辰100周年1盎司精制银币二枚一套",
-      "normalizedBoxCode": "6149195011",
-      "displayBoxCode": "6149195-011",
-      "gradingCompany": "NGC",
-      "grade": "PF 69 ULTRA CAMEO",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10386643.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/6149195-011/69/",
-      "price": 1620,
-      "priceWithFee": 1676.7,
-      "transactedAt": "2026-07-09 20:08:45",
-      "productCode": "873397012",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "银,币,1998年,1盎司,年刘,刘少,少奇,奇诞,诞辰,辰周,周年,年盎,盎司,司精,精制,制银,银币,币二,二枚,枚一,一套,评级"
-    },
     {
       "coinName": "1998年澳门99回归祖国第（2）组1盎司精制银币",
       "normalizedBoxCode": "8754540019",
@@ -94,6 +77,23 @@
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "银,币,1998年,1盎司,吉祥文化,年中,中国,国传,传统,统吉,吉祥,祥图,图万,万象,象更,更新,新盎,盎司,司精,精制,制彩,彩银,银币,评级"
+    },
+    {
+      "coinName": "1998年刘少奇诞辰100周年1盎司精制银币二枚一套",
+      "normalizedBoxCode": "6149195011",
+      "displayBoxCode": "6149195-011",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10386643.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6149195-011/69/",
+      "price": 1620,
+      "priceWithFee": 1676.7,
+      "transactedAt": "2026-07-09 20:08:45",
+      "productCode": "873397012",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1998年,1盎司,年刘,刘少,少奇,奇诞,诞辰,辰周,周年,年盎,盎司,司精,精制,制银,银币,币二,二枚,枚一,一套,评级"
     }
   ]
 }

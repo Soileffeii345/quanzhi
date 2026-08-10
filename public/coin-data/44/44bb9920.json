@@ -7,26 +7,9 @@
     "low": 3800,
     "high": 4600,
     "avg": 4200,
-    "latest": 3800
+    "latest": 4600
   },
   "records": [
-    {
-      "coinName": "2019年3克吉祥文化珠联璧合金币",
-      "normalizedBoxCode": "5753042005",
-      "displayBoxCode": "5753042-005",
-      "gradingCompany": "NGC",
-      "grade": "待复核",
-      "platform": "易金在线",
-      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/529668.html",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/5753042-005/",
-      "price": 3800,
-      "priceWithFee": null,
-      "transactedAt": "2026-01-10 21:29:12",
-      "productCode": "KH102257",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "金,币,2019年,3克,吉祥文化,年克,克吉,吉祥,祥文,文化,化珠,珠联,联璧,璧合,合金,金币"
-    },
     {
       "coinName": "2019年3克吉祥文化珠联璧合金币",
       "normalizedBoxCode": "6730424001",
@@ -40,6 +23,23 @@
       "priceWithFee": null,
       "transactedAt": "2026-01-25 21:59:15",
       "productCode": "AA612319",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2019年,3克,吉祥文化,年克,克吉,吉祥,祥文,文化,化珠,珠联,联璧,璧合,合金,金币"
+    },
+    {
+      "coinName": "2019年3克吉祥文化珠联璧合金币",
+      "normalizedBoxCode": "5753042005",
+      "displayBoxCode": "5753042-005",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/529668.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/5753042-005/",
+      "price": 3800,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-10 21:29:12",
+      "productCode": "KH102257",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "金,币,2019年,3克,吉祥文化,年克,克吉,吉祥,祥文,文化,化珠,珠联,联璧,璧合,合金,金币"

@@ -2,30 +2,30 @@
   "coinName": "2025年30克银币",
   "slug": "4461ac67",
   "saleCount": 5,
-  "keywords": "银,币,2025年,30克,年克,克西,西南,南财,财经,经大,大学,学建,建校,校周,周年,年彩,彩银,银币,克中,中国,国电,电影,影诞,诞生,生周,新疆版,克新,新疆,疆维,维吾,吾尔,尔自,自治,治区,区成,成立,立周,年银",
+  "keywords": "银,币,2025年,30克,年克,克中,中国,国电,电影,影诞,诞生,生周,周年,年彩,彩银,银币,新疆版,克新,新疆,疆维,维吾,吾尔,尔自,自治,治区,区成,成立,立周,年银,克西,西南,南财,财经,经大,大学,学建,建校,校周",
   "priceStats": {
     "low": 620,
     "high": 1200,
     "avg": 960,
-    "latest": 620
+    "latest": 1100
   },
   "records": [
     {
-      "coinName": "2025年30克西南财经大学建校100周年彩银币",
-      "normalizedBoxCode": "8572200002",
-      "displayBoxCode": "8572200-002",
+      "coinName": "2025年30克中国电影诞生120周年彩银币",
+      "normalizedBoxCode": "8615613011",
+      "displayBoxCode": "8615613-011",
       "gradingCompany": "NGC",
-      "grade": "PF 69 ULTRA CAMEO",
+      "grade": "待复核",
       "platform": "易金在线",
-      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/489365.html",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/8572200-002/69/",
-      "price": 620,
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/575677.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8615613-011/",
+      "price": 1100,
       "priceWithFee": null,
-      "transactedAt": "2025-07-20 08:23:21",
-      "productCode": "KH074916",
+      "transactedAt": "2026-05-12 13:18:37",
+      "productCode": "AA642894",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
-      "keywords": "银,币,2025年,30克,年克,克西,西南,南财,财经,经大,大学,学建,建校,校周,周年,年彩,彩银,银币"
+      "keywords": "银,币,2025年,30克,年克,克中,中国,国电,电影,影诞,诞生,生周,周年,年彩,彩银,银币"
     },
     {
       "coinName": "2025年30克中国电影诞生120周年彩银币",
@@ -40,23 +40,6 @@
       "priceWithFee": null,
       "transactedAt": "2026-05-12 13:17:44",
       "productCode": "AA642898",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "银,币,2025年,30克,年克,克中,中国,国电,电影,影诞,诞生,生周,周年,年彩,彩银,银币"
-    },
-    {
-      "coinName": "2025年30克中国电影诞生120周年彩银币",
-      "normalizedBoxCode": "8615613011",
-      "displayBoxCode": "8615613-011",
-      "gradingCompany": "NGC",
-      "grade": "待复核",
-      "platform": "易金在线",
-      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/575677.html",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/8615613-011/",
-      "price": 1100,
-      "priceWithFee": null,
-      "transactedAt": "2026-05-12 13:18:37",
-      "productCode": "AA642894",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "银,币,2025年,30克,年克,克中,中国,国电,电影,影诞,诞生,生周,周年,年彩,彩银,银币"
@@ -94,6 +77,23 @@
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "银,币,2025年,30克,新疆版,年克,克新,新疆,疆维,维吾,吾尔,尔自,自治,治区,区成,成立,立周,周年,年银,银币"
+    },
+    {
+      "coinName": "2025年30克西南财经大学建校100周年彩银币",
+      "normalizedBoxCode": "8572200002",
+      "displayBoxCode": "8572200-002",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/489365.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8572200-002/69/",
+      "price": 620,
+      "priceWithFee": null,
+      "transactedAt": "2025-07-20 08:23:21",
+      "productCode": "KH074916",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2025年,30克,年克,克西,西南,南财,财经,经大,大学,学建,建校,校周,周年,年彩,彩银,银币"
     }
   ]
 }

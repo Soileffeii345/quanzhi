@@ -7,9 +7,26 @@
     "low": 700,
     "high": 910,
     "avg": 765,
-    "latest": 730
+    "latest": 720
   },
   "records": [
+    {
+      "coinName": "民国三十八年华中银行伍仟圆",
+      "normalizedBoxCode": "2217014002",
+      "displayBoxCode": "2217014-002",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jiefangquzhichao/10369793.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2217014-002/",
+      "price": 720,
+      "priceWithFee": 799.2,
+      "transactedAt": "2026-07-16 21:30:10",
+      "productCode": "871037002",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国三,三十,十八,八年,年华,华中,中银,银行,行伍,伍仟,仟圆"
+    },
     {
       "coinName": "民国三十八年华中银行伍仟圆",
       "normalizedBoxCode": "2117736003",
@@ -57,23 +74,6 @@
       "priceWithFee": 1010.1,
       "transactedAt": "2026-07-14 20:50:20",
       "productCode": "871037004",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "银,历史币,民国,国三,三十,十八,八年,年华,华中,中银,银行,行伍,伍仟,仟圆"
-    },
-    {
-      "coinName": "民国三十八年华中银行伍仟圆",
-      "normalizedBoxCode": "2217014002",
-      "displayBoxCode": "2217014-002",
-      "gradingCompany": "NGC",
-      "grade": "待复核",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/jiefangquzhichao/10369793.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/2217014-002/",
-      "price": 720,
-      "priceWithFee": 799.2,
-      "transactedAt": "2026-07-16 21:30:10",
-      "productCode": "871037002",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "银,历史币,民国,国三,三十,十八,八年,年华,华中,中银,银行,行伍,伍仟,仟圆"

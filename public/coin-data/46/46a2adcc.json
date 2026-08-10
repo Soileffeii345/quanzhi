@@ -7,26 +7,9 @@
     "low": 35,
     "high": 60,
     "avg": 48,
-    "latest": 35
+    "latest": 60
   },
   "records": [
-    {
-      "coinName": "2004年邓小平诞辰100周年流通纪念币",
-      "normalizedBoxCode": "6729358040",
-      "displayBoxCode": "6729358-040",
-      "gradingCompany": "NGC",
-      "grade": "待复核",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10352609.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/6729358-040/",
-      "price": 35,
-      "priceWithFee": 37.8,
-      "transactedAt": "2026-06-24 19:22:45",
-      "productCode": "869161010",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "币,2004年,年邓,邓小,小平,平诞,诞辰,辰周,周年,年流,流通,通纪,纪念,念币"
-    },
     {
       "coinName": "2004年邓小平诞辰100周年流通纪念币二枚",
       "normalizedBoxCode": "6729358044",
@@ -43,6 +26,23 @@
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "币,2004年,年邓,邓小,小平,平诞,诞辰,辰周,周年,年流,流通,通纪,纪念,念币,币二,二枚"
+    },
+    {
+      "coinName": "2004年邓小平诞辰100周年流通纪念币",
+      "normalizedBoxCode": "6729358040",
+      "displayBoxCode": "6729358-040",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10352609.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6729358-040/",
+      "price": 35,
+      "priceWithFee": 37.8,
+      "transactedAt": "2026-06-24 19:22:45",
+      "productCode": "869161010",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2004年,年邓,邓小,小平,平诞,诞辰,辰周,周年,年流,流通,通纪,纪念,念币"
     }
   ]
 }

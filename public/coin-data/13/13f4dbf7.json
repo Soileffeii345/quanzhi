@@ -7,26 +7,9 @@
     "low": 5200,
     "high": 6100,
     "avg": 5650,
-    "latest": 6100
+    "latest": 5200
   },
   "records": [
-    {
-      "coinName": "第一版人民币六和塔（蓝色）20元",
-      "normalizedBoxCode": "1935227001",
-      "displayBoxCode": "1935227-001",
-      "gradingCompany": "NGC",
-      "grade": "待复核",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/diyibanrenminbi/10399510.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/1935227-001/",
-      "price": 6100,
-      "priceWithFee": 6710,
-      "transactedAt": "2026-07-23 20:18:10",
-      "productCode": "875023008",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "币,第一,一版,版人,人民,民币,币六,六和,和塔,塔蓝,蓝色,色元"
-    },
     {
       "coinName": "第一版人民币六和塔（蓝色）20元",
       "normalizedBoxCode": "7024113007",
@@ -40,6 +23,23 @@
       "priceWithFee": 5720,
       "transactedAt": "2026-07-23 21:09:40",
       "productCode": "875023009",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,第一,一版,版人,人民,民币,币六,六和,和塔,塔蓝,蓝色,色元"
+    },
+    {
+      "coinName": "第一版人民币六和塔（蓝色）20元",
+      "normalizedBoxCode": "1935227001",
+      "displayBoxCode": "1935227-001",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/diyibanrenminbi/10399510.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1935227-001/",
+      "price": 6100,
+      "priceWithFee": 6710,
+      "transactedAt": "2026-07-23 20:18:10",
+      "productCode": "875023008",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "币,第一,一版,版人,人民,民币,币六,六和,和塔,塔蓝,蓝色,色元"

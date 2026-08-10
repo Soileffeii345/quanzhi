@@ -2,31 +2,14 @@
   "coinName": "1990年27克银币",
   "slug": "4d9274d7",
   "saleCount": 2,
-  "keywords": "银,币,1990年,27克,年克,克世,世界,界文,文化,化名,名人,人第,第组,组荷,荷马,马银,银币,组贝,贝多,多芬,芬银",
+  "keywords": "银,币,1990年,27克,年克,克世,世界,界文,文化,化名,名人,人第,第组,组贝,贝多,多芬,芬银,银币,组荷,荷马,马银",
   "priceStats": {
     "low": 370,
     "high": 420,
     "avg": 395,
-    "latest": 420
+    "latest": 370
   },
   "records": [
-    {
-      "coinName": "1990年27克世界文化名人第1组荷马银币",
-      "normalizedBoxCode": "6149819025",
-      "displayBoxCode": "6149819-025",
-      "gradingCompany": "NGC",
-      "grade": "待复核",
-      "platform": "易金在线",
-      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/492374.html",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/6149819-025/",
-      "price": 420,
-      "priceWithFee": null,
-      "transactedAt": "2025-08-03 17:13:48",
-      "productCode": "KH077597",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "银,币,1990年,27克,年克,克世,世界,界文,文化,化名,名人,人第,第组,组荷,荷马,马银,银币"
-    },
     {
       "coinName": "1990年27克世界文化名人第1组贝多芬银币",
       "normalizedBoxCode": "6732785046",
@@ -43,6 +26,23 @@
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "银,币,1990年,27克,年克,克世,世界,界文,文化,化名,名人,人第,第组,组贝,贝多,多芬,芬银,银币"
+    },
+    {
+      "coinName": "1990年27克世界文化名人第1组荷马银币",
+      "normalizedBoxCode": "6149819025",
+      "displayBoxCode": "6149819-025",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/492374.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6149819-025/",
+      "price": 420,
+      "priceWithFee": null,
+      "transactedAt": "2025-08-03 17:13:48",
+      "productCode": "KH077597",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1990年,27克,年克,克世,世界,界文,文化,化名,名人,人第,第组,组荷,荷马,马银,银币"
     }
   ]
 }

@@ -7,9 +7,26 @@
     "low": 480,
     "high": 1150,
     "avg": 817,
-    "latest": 820
+    "latest": 1150
   },
   "records": [
+    {
+      "coinName": "1992年27克世界文化名人第3组达芬奇银币",
+      "normalizedBoxCode": "8192986020",
+      "displayBoxCode": "8192986-020",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/550284.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8192986-020/70/",
+      "price": 1150,
+      "priceWithFee": null,
+      "transactedAt": "2026-02-01 19:45:49",
+      "productCode": "AA617081",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1992年,27克,年克,克世,世界,界文,文化,化名,名人,人第,第组,组达,达芬,芬奇,奇银,银币"
+    },
     {
       "coinName": "1992年27克世界文化名人第3组达芬奇银币",
       "normalizedBoxCode": "6198512052",
@@ -43,23 +60,6 @@
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "银,币,1992年,27克,年克,克世,世界,界文,文化,化名,名人,人第,第组,组柴,柴科,科夫,夫斯,斯基,基银,银币"
-    },
-    {
-      "coinName": "1992年27克世界文化名人第3组达芬奇银币",
-      "normalizedBoxCode": "8192986020",
-      "displayBoxCode": "8192986-020",
-      "gradingCompany": "NGC",
-      "grade": "PF 70 ULTRA CAMEO",
-      "platform": "易金在线",
-      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/550284.html",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/8192986-020/70/",
-      "price": 1150,
-      "priceWithFee": null,
-      "transactedAt": "2026-02-01 19:45:49",
-      "productCode": "AA617081",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "银,币,1992年,27克,年克,克世,世界,界文,文化,化名,名人,人第,第组,组达,达芬,芬奇,奇银,银币"
     }
   ]
 }

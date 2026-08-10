@@ -2,31 +2,14 @@
   "coinName": "1983年精制",
   "slug": "4a4ecfe2",
   "saleCount": 3,
-  "keywords": "币,1983年,年中,中国,国精,精制,制硬,硬币,币壹,壹分,评级,币贰,贰分,币伍,伍分",
+  "keywords": "币,1983年,年中,中国,国精,精制,制硬,硬币,币贰,贰分,评级,币伍,伍分,币壹,壹分",
   "priceStats": {
     "low": 180,
     "high": 320,
     "avg": 257,
-    "latest": 320
+    "latest": 180
   },
   "records": [
-    {
-      "coinName": "1983年中国精制硬币壹分",
-      "normalizedBoxCode": "8618500048",
-      "displayBoxCode": "8618500-048",
-      "gradingCompany": "NGC",
-      "grade": "待复核",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10402325.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/8618500-048/",
-      "price": 320,
-      "priceWithFee": 345.6,
-      "transactedAt": "2026-07-15 20:37:50",
-      "productCode": "875161004",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "币,1983年,年中,中国,国精,精制,制硬,硬币,币壹,壹分,评级"
-    },
     {
       "coinName": "1983年中国精制硬币贰分",
       "normalizedBoxCode": "8618500050",
@@ -60,6 +43,23 @@
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "币,1983年,年中,中国,国精,精制,制硬,硬币,币伍,伍分,评级"
+    },
+    {
+      "coinName": "1983年中国精制硬币壹分",
+      "normalizedBoxCode": "8618500048",
+      "displayBoxCode": "8618500-048",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10402325.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8618500-048/",
+      "price": 320,
+      "priceWithFee": 345.6,
+      "transactedAt": "2026-07-15 20:37:50",
+      "productCode": "875161004",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1983年,年中,中国,国精,精制,制硬,硬币,币壹,壹分,评级"
     }
   ]
 }

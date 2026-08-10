@@ -130,7 +130,6 @@ async function main() {
   );
   console.log(`已有赵涌 platform_products: ${existingUrls.size}`);
 
-  let totalDiscovered = 0;
   let totalIngested = 0;
   let totalImages = 0;
   let totalSkipped = 0;
@@ -142,18 +141,15 @@ async function main() {
     const kw = uniqueKw[i];
     try {
       const urls = await searchZhao(kw);
-      let newUrls = 0;
       for (const url of urls) {
         if (!existingUrls.has(url) && !allDetailUrls.has(url)) {
           allDetailUrls.add(url);
-          newUrls++;
         }
       }
-      totalDiscovered += urls.length;
       if ((i + 1) % 50 === 0 || i === uniqueKw.length - 1) {
         console.log(`[搜索 ${i + 1}/${uniqueKw.length}] ${kw}: ${urls.length}条 (新URL累计: ${allDetailUrls.size})`);
       }
-    } catch (e) {
+    } catch {
       if ((i + 1) % 50 === 0) console.log(`[搜索 ${i + 1}/${uniqueKw.length}] ${kw}: 错误`);
     }
     if (i < uniqueKw.length - 1) await new Promise(r => setTimeout(r, SEARCH_DELAY_MS));

@@ -2,30 +2,30 @@
   "coinName": "1995年31.104克精制银币",
   "slug": "04faf32e",
   "saleCount": 4,
-  "keywords": "银,币,1995年,1盎司,年台,台湾,湾光,光复,复回,回归,归祖,祖国,国周,周年,台北,北中,中山,山堂,堂盎,盎司,司精,精制,制银,银币,评级,年中,中国,国地,地图,图盎,年抗,抗日,日战,战争,争胜,胜利,利周,年卢,卢沟,沟桥,桥盎,年盎,币二,二枚,枚一,一套",
+  "keywords": "银,币,1995年,1盎司,年抗,抗日,日战,战争,争胜,胜利,利周,周年,年卢,卢沟,沟桥,桥盎,盎司,司精,精制,制银,银币,评级,年台,台湾,湾光,光复,复回,回归,归祖,祖国,国周,年中,中国,国地,地图,图盎,台北,北中,中山,山堂,堂盎,年盎,币二,二枚,枚一,一套",
   "priceStats": {
     "low": 1820,
     "high": 3300,
     "avg": 2668,
-    "latest": 3300
+    "latest": 1820
   },
   "records": [
     {
-      "coinName": "1995年台湾光复回归祖国50周年-台北中山堂1盎司精制银币",
-      "normalizedBoxCode": "6001380011",
-      "displayBoxCode": "6001380-011",
+      "coinName": "1995年抗日战争胜利50周年-卢沟桥1盎司精制银币",
+      "normalizedBoxCode": "8649590004",
+      "displayBoxCode": "8649590-004",
       "gradingCompany": "NGC",
       "grade": "PF 69 ULTRA CAMEO",
       "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10393018.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/6001380-011/69/",
-      "price": 3300,
-      "priceWithFee": 3415.5,
-      "transactedAt": "2026-07-16 19:36:45",
-      "productCode": "874056012",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10410192.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8649590-004/69/",
+      "price": 1820,
+      "priceWithFee": 1883.7,
+      "transactedAt": "2026-07-23 20:02:35",
+      "productCode": "876281005",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
-      "keywords": "银,币,1995年,1盎司,年台,台湾,湾光,光复,复回,回归,归祖,祖国,国周,周年,台北,北中,中山,山堂,堂盎,盎司,司精,精制,制银,银币,评级"
+      "keywords": "银,币,1995年,1盎司,年抗,抗日,日战,战争,争胜,胜利,利周,周年,年卢,卢沟,沟桥,桥盎,盎司,司精,精制,制银,银币,评级"
     },
     {
       "coinName": "1995年台湾光复回归祖国50周年-中国地图1盎司精制银币",
@@ -45,21 +45,21 @@
       "keywords": "银,币,1995年,1盎司,年台,台湾,湾光,光复,复回,回归,归祖,祖国,国周,周年,年中,中国,国地,地图,图盎,盎司,司精,精制,制银,银币,评级"
     },
     {
-      "coinName": "1995年抗日战争胜利50周年-卢沟桥1盎司精制银币",
-      "normalizedBoxCode": "8649590004",
-      "displayBoxCode": "8649590-004",
+      "coinName": "1995年台湾光复回归祖国50周年-台北中山堂1盎司精制银币",
+      "normalizedBoxCode": "6001380011",
+      "displayBoxCode": "6001380-011",
       "gradingCompany": "NGC",
       "grade": "PF 69 ULTRA CAMEO",
       "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10410192.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/8649590-004/69/",
-      "price": 1820,
-      "priceWithFee": 1883.7,
-      "transactedAt": "2026-07-23 20:02:35",
-      "productCode": "876281005",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10393018.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6001380-011/69/",
+      "price": 3300,
+      "priceWithFee": 3415.5,
+      "transactedAt": "2026-07-16 19:36:45",
+      "productCode": "874056012",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
-      "keywords": "银,币,1995年,1盎司,年抗,抗日,日战,战争,争胜,胜利,利周,周年,年卢,卢沟,沟桥,桥盎,盎司,司精,精制,制银,银币,评级"
+      "keywords": "银,币,1995年,1盎司,年台,台湾,湾光,光复,复回,回归,归祖,祖国,国周,周年,台北,北中,中山,山堂,堂盎,盎司,司精,精制,制银,银币,评级"
     },
     {
       "coinName": "1995年抗日战争胜利50周年1盎司精制银币二枚一套",

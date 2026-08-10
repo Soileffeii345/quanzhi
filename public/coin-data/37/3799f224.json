@@ -7,26 +7,9 @@
     "low": 2200,
     "high": 2600,
     "avg": 2400,
-    "latest": 2600
+    "latest": 2200
   },
   "records": [
-    {
-      "coinName": "1988年戊辰龙年生肖15克精制银币",
-      "normalizedBoxCode": "8757933013",
-      "displayBoxCode": "8757933-013",
-      "gradingCompany": "NGC",
-      "grade": "PF 69 ULTRA CAMEO",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10351228.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/8757933-013/69/",
-      "price": 2600,
-      "priceWithFee": 2691,
-      "transactedAt": "2026-06-18 20:31:40",
-      "productCode": "869398012",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "银,币,1988年,15克,生肖,年戊,戊辰,辰龙,龙年,年生,肖克,克精,精制,制银,银币,评级"
-    },
     {
       "coinName": "1988年戊辰龙年生肖15克精制银币",
       "normalizedBoxCode": "8768111010",
@@ -40,6 +23,23 @@
       "priceWithFee": 2277,
       "transactedAt": "2026-07-13 20:11:50",
       "productCode": "875148003",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1988年,15克,生肖,年戊,戊辰,辰龙,龙年,年生,肖克,克精,精制,制银,银币,评级"
+    },
+    {
+      "coinName": "1988年戊辰龙年生肖15克精制银币",
+      "normalizedBoxCode": "8757933013",
+      "displayBoxCode": "8757933-013",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10351228.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8757933-013/69/",
+      "price": 2600,
+      "priceWithFee": 2691,
+      "transactedAt": "2026-06-18 20:31:40",
+      "productCode": "869398012",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "银,币,1988年,15克,生肖,年戊,戊辰,辰龙,龙年,年生,肖克,克精,精制,制银,银币,评级"

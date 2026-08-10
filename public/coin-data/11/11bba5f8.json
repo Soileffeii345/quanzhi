@@ -7,26 +7,9 @@
     "low": 90,
     "high": 110,
     "avg": 100,
-    "latest": 90
+    "latest": 110
   },
   "records": [
-    {
-      "coinName": "澳大利亚纸钞",
-      "normalizedBoxCode": "2435482061",
-      "displayBoxCode": "2435482-061",
-      "gradingCompany": "NGC",
-      "grade": "待复核",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/waiguozhichao/10392462.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/2435482-061/",
-      "price": 90,
-      "priceWithFee": 99.9,
-      "transactedAt": "2026-07-14 21:58:20",
-      "productCode": "873792044",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "钞,澳大,大利,利亚,亚纸,纸钞,外国/特区"
-    },
     {
       "coinName": "澳大利亚纸钞",
       "normalizedBoxCode": "2435482069",
@@ -40,6 +23,23 @@
       "priceWithFee": 122.1,
       "transactedAt": "2026-07-21 22:12:05",
       "productCode": "875054020",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,澳大,大利,利亚,亚纸,纸钞,外国/特区"
+    },
+    {
+      "coinName": "澳大利亚纸钞",
+      "normalizedBoxCode": "2435482061",
+      "displayBoxCode": "2435482-061",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10392462.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2435482-061/",
+      "price": 90,
+      "priceWithFee": 99.9,
+      "transactedAt": "2026-07-14 21:58:20",
+      "productCode": "873792044",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "钞,澳大,大利,利亚,亚纸,纸钞,外国/特区"

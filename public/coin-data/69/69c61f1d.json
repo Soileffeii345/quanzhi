@@ -2,31 +2,14 @@
   "coinName": "1993年毛泽东",
   "slug": "69c61f1d",
   "saleCount": 2,
-  "keywords": "币,1993年,年毛,毛泽,泽东,东诞,诞辰,辰周,周年,年流,流通,通纪,纪念,念币,币三,三枚,年宋,宋庆,庆龄,龄诞,周毛,币各,各一,一枚,枚共,共二,二枚",
+  "keywords": "币,1993年,年宋,宋庆,庆龄,龄诞,诞辰,辰周,周毛,毛泽,泽东,东诞,周年,年流,流通,通纪,纪念,念币,币各,各一,一枚,枚共,共二,二枚,年毛,币三,三枚",
   "priceStats": {
     "low": 130,
     "high": 270,
     "avg": 200,
-    "latest": 270
+    "latest": 130
   },
   "records": [
-    {
-      "coinName": "1993年毛泽东诞辰100周年流通纪念币三枚",
-      "normalizedBoxCode": "8504511049",
-      "displayBoxCode": "8504511-049",
-      "gradingCompany": "NGC",
-      "grade": "MS 66",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10397584.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/8504511-049/66/",
-      "price": 270,
-      "priceWithFee": 291.6,
-      "transactedAt": "2026-07-15 21:58:15",
-      "productCode": "874506006",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "币,1993年,年毛,毛泽,泽东,东诞,诞辰,辰周,周年,年流,流通,通纪,纪念,念币,币三,三枚"
-    },
     {
       "coinName": "1993年宋庆龄诞辰100周、毛泽东诞辰100周年流通纪念币各一枚，共二枚",
       "normalizedBoxCode": "8761467003",
@@ -43,6 +26,23 @@
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "币,1993年,年宋,宋庆,庆龄,龄诞,诞辰,辰周,周毛,毛泽,泽东,东诞,周年,年流,流通,通纪,纪念,念币,币各,各一,一枚,枚共,共二,二枚"
+    },
+    {
+      "coinName": "1993年毛泽东诞辰100周年流通纪念币三枚",
+      "normalizedBoxCode": "8504511049",
+      "displayBoxCode": "8504511-049",
+      "gradingCompany": "NGC",
+      "grade": "MS 66",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10397584.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8504511-049/66/",
+      "price": 270,
+      "priceWithFee": 291.6,
+      "transactedAt": "2026-07-15 21:58:15",
+      "productCode": "874506006",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1993年,年毛,毛泽,泽东,东诞,诞辰,辰周,周年,年流,流通,通纪,纪念,念币,币三,三枚"
     }
   ]
 }

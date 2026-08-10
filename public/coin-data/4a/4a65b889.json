@@ -2,30 +2,30 @@
   "coinName": "1996年银币",
   "slug": "4a65b889",
   "saleCount": 3,
-  "keywords": "银,币,1996年,年中,中国,国银,银行,行港,港币,币元,年香,香港,港上,上海,海汇,汇丰,丰银,币贰,贰拾,拾元,外国/特区,港渣,渣打,打银,行壹,壹佰,佰圆",
+  "keywords": "银,1996年,年香,香港,港渣,渣打,打银,银行,行壹,壹佰,佰圆,外国/特区,币,港上,上海,海汇,汇丰,丰银,行港,港币,币贰,贰拾,拾元,年中,中国,国银,币元",
   "priceStats": {
     "low": 160,
     "high": 930,
     "avg": 507,
-    "latest": 930
+    "latest": 430
   },
   "records": [
     {
-      "coinName": "1996年中国银行港币500元",
-      "normalizedBoxCode": "2483094066",
-      "displayBoxCode": "2483094-066",
+      "coinName": "1996年香港渣打银行壹佰圆",
+      "normalizedBoxCode": "8054205059",
+      "displayBoxCode": "8054205-059",
       "gradingCompany": "NGC",
       "grade": "待复核",
       "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/xianggangzhichao/10366053.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/2483094-066/",
-      "price": 930,
-      "priceWithFee": 1032.3,
-      "transactedAt": "2026-06-30 21:08:50",
-      "productCode": "870512001",
+      "detailUrl": "https://zhaoonline.com/xianggangzhichao/10410439.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8054205-059/",
+      "price": 430,
+      "priceWithFee": 477.3,
+      "transactedAt": "2026-07-21 21:05:50",
+      "productCode": "876073002",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
-      "keywords": "银,币,1996年,年中,中国,国银,银行,行港,港币,币元"
+      "keywords": "银,1996年,年香,香港,港渣,渣打,打银,银行,行壹,壹佰,佰圆,外国/特区"
     },
     {
       "coinName": "1996年香港上海汇丰银行港币贰拾元",
@@ -45,21 +45,21 @@
       "keywords": "银,币,1996年,年香,香港,港上,上海,海汇,汇丰,丰银,银行,行港,港币,币贰,贰拾,拾元,外国/特区"
     },
     {
-      "coinName": "1996年香港渣打银行壹佰圆",
-      "normalizedBoxCode": "8054205059",
-      "displayBoxCode": "8054205-059",
+      "coinName": "1996年中国银行港币500元",
+      "normalizedBoxCode": "2483094066",
+      "displayBoxCode": "2483094-066",
       "gradingCompany": "NGC",
       "grade": "待复核",
       "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/xianggangzhichao/10410439.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/8054205-059/",
-      "price": 430,
-      "priceWithFee": 477.3,
-      "transactedAt": "2026-07-21 21:05:50",
-      "productCode": "876073002",
+      "detailUrl": "https://zhaoonline.com/xianggangzhichao/10366053.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2483094-066/",
+      "price": 930,
+      "priceWithFee": 1032.3,
+      "transactedAt": "2026-06-30 21:08:50",
+      "productCode": "870512001",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
-      "keywords": "银,1996年,年香,香港,港渣,渣打,打银,银行,行壹,壹佰,佰圆,外国/特区"
+      "keywords": "银,币,1996年,年中,中国,国银,银行,行港,港币,币元"
     }
   ]
 }

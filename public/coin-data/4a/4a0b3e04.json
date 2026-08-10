@@ -7,9 +7,26 @@
     "low": 250,
     "high": 410,
     "avg": 333,
-    "latest": 250
+    "latest": 340
   },
   "records": [
+    {
+      "coinName": "1946年中央银行贰角",
+      "normalizedBoxCode": "2159569051",
+      "displayBoxCode": "2159569-051",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10366736.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2159569-051/",
+      "price": 340,
+      "priceWithFee": 377.4,
+      "transactedAt": "2026-07-14 21:05:50",
+      "productCode": "870327006",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,1946年,年中,中央,央银,银行,行贰,贰角"
+    },
     {
       "coinName": "1946年中央银行贰角",
       "normalizedBoxCode": "2051472075",
@@ -40,23 +57,6 @@
       "priceWithFee": 455.1,
       "transactedAt": "2026-07-07 21:19:05",
       "productCode": "870325021",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "银,1946年,年中,中央,央银,银行,行贰,贰角"
-    },
-    {
-      "coinName": "1946年中央银行贰角",
-      "normalizedBoxCode": "2159569051",
-      "displayBoxCode": "2159569-051",
-      "gradingCompany": "NGC",
-      "grade": "待复核",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10366736.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/2159569-051/",
-      "price": 340,
-      "priceWithFee": 377.4,
-      "transactedAt": "2026-07-14 21:05:50",
-      "productCode": "870327006",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "银,1946年,年中,中央,央银,银行,行贰,贰角"

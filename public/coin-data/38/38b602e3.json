@@ -29,6 +29,23 @@
     },
     {
       "coinName": "2006年熊猫1盎司普制银币",
+      "normalizedBoxCode": "8817239008",
+      "displayBoxCode": "8817239-008",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-jiuyin/10417572.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8817239-008/69/",
+      "price": 680,
+      "priceWithFee": 703.8,
+      "transactedAt": "2026-07-20 19:57:10",
+      "productCode": "877004007",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2006年,1盎司,熊猫,年熊,猫盎,盎司,司普,普制,制银,银币"
+    },
+    {
+      "coinName": "2006年熊猫1盎司普制银币",
       "normalizedBoxCode": "8504621030",
       "displayBoxCode": "8504621-030",
       "gradingCompany": "NGC",
@@ -77,23 +94,6 @@
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "银,币,2006年,1盎司,熊猫,年中,中国,国民,民生,生银,银行,行成,成立,立周,周年,年熊,猫加,加字,字盎,盎司,司普,普制,制银,银币"
-    },
-    {
-      "coinName": "2006年熊猫1盎司普制银币",
-      "normalizedBoxCode": "8817239008",
-      "displayBoxCode": "8817239-008",
-      "gradingCompany": "NGC",
-      "grade": "MS 69",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-jiuyin/10417572.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/8817239-008/69/",
-      "price": 680,
-      "priceWithFee": 703.8,
-      "transactedAt": "2026-07-20 19:57:10",
-      "productCode": "877004007",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "银,币,2006年,1盎司,熊猫,年熊,猫盎,盎司,司普,普制,制银,银币"
     }
   ]
 }

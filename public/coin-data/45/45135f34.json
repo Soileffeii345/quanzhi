@@ -7,26 +7,9 @@
     "low": 500,
     "high": 520,
     "avg": 510,
-    "latest": 500
+    "latest": 520
   },
   "records": [
-    {
-      "coinName": "1992年15克古代科技第1组铜铸币银币(UC)",
-      "normalizedBoxCode": "6735190012",
-      "displayBoxCode": "6735190-012",
-      "gradingCompany": "NGC",
-      "grade": "PF69 ULTRA CAMEO",
-      "platform": "易金在线",
-      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/513873.html",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/6735190-012/69/",
-      "price": 500,
-      "priceWithFee": null,
-      "transactedAt": "2025-11-20 16:42:18",
-      "productCode": "AA597720",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "银,铜,币,1992年,15克,年克,克古,古代,代科,科技,技第,第组,组铜,铜铸,铸币,币银,银币"
-    },
     {
       "coinName": "1992年15克古代科技第1组铜铸币银币(UC)",
       "normalizedBoxCode": "8504607048",
@@ -40,6 +23,23 @@
       "priceWithFee": null,
       "transactedAt": "2026-06-25 13:45:27",
       "productCode": "KH139240",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,铜,币,1992年,15克,年克,克古,古代,代科,科技,技第,第组,组铜,铜铸,铸币,币银,银币"
+    },
+    {
+      "coinName": "1992年15克古代科技第1组铜铸币银币(UC)",
+      "normalizedBoxCode": "6735190012",
+      "displayBoxCode": "6735190-012",
+      "gradingCompany": "NGC",
+      "grade": "PF69 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/513873.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6735190-012/69/",
+      "price": 500,
+      "priceWithFee": null,
+      "transactedAt": "2025-11-20 16:42:18",
+      "productCode": "AA597720",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "银,铜,币,1992年,15克,年克,克古,古代,代科,科技,技第,第组,组铜,铜铸,铸币,币银,银币"

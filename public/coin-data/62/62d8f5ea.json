@@ -7,26 +7,9 @@
     "low": 3250,
     "high": 3350,
     "avg": 3300,
-    "latest": 3350
+    "latest": 3250
   },
   "records": [
-    {
-      "coinName": "1996年金莲观音1/10盎司普制金币",
-      "normalizedBoxCode": "8617461005",
-      "displayBoxCode": "8617461-005",
-      "gradingCompany": "NGC",
-      "grade": "待复核",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10397693.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/8617461-005/",
-      "price": 3350,
-      "priceWithFee": 3467.25,
-      "transactedAt": "2026-07-16 21:41:45",
-      "productCode": "874840001",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "金,币,1996年,10盎司,宗教,年金,金莲,莲观,观音,音盎,盎司,司普,普制,制金,金币"
-    },
     {
       "coinName": "1996年金莲观音1/10盎司普制金币",
       "normalizedBoxCode": "8823192001",
@@ -40,6 +23,23 @@
       "priceWithFee": 3363.75,
       "transactedAt": "2026-07-23 21:01:45",
       "productCode": "877176006",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1996年,10盎司,宗教,年金,金莲,莲观,观音,音盎,盎司,司普,普制,制金,金币"
+    },
+    {
+      "coinName": "1996年金莲观音1/10盎司普制金币",
+      "normalizedBoxCode": "8617461005",
+      "displayBoxCode": "8617461-005",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10397693.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8617461-005/",
+      "price": 3350,
+      "priceWithFee": 3467.25,
+      "transactedAt": "2026-07-16 21:41:45",
+      "productCode": "874840001",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "金,币,1996年,10盎司,宗教,年金,金莲,莲观,观音,音盎,盎司,司普,普制,制金,金币"

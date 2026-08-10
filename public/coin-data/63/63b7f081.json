@@ -2,31 +2,14 @@
   "coinName": "1998年15.552克金币",
   "slug": "63b7f081",
   "saleCount": 2,
-  "keywords": "金,币,1998年,2盎司,年盎,盎司,司方,方形,形桂,桂林,林山,山水,水南,南溪,溪山,山金,金币,司刘,刘少,少奇,奇诞,诞辰,辰周,周年,年金",
+  "keywords": "金,币,1998年,2盎司,年盎,盎司,司刘,刘少,少奇,奇诞,诞辰,辰周,周年,年金,金币,司方,方形,形桂,桂林,林山,山水,水南,南溪,溪山,山金",
   "priceStats": {
     "low": 18000,
     "high": 18800,
     "avg": 18400,
-    "latest": 18800
+    "latest": 18000
   },
   "records": [
-    {
-      "coinName": "1998年1/2盎司方形桂林山水南溪山金币",
-      "normalizedBoxCode": "6743769005",
-      "displayBoxCode": "6743769-005",
-      "gradingCompany": "NGC",
-      "grade": "待复核",
-      "platform": "易金在线",
-      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/426137.html",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/6743769-005/",
-      "price": 18800,
-      "priceWithFee": null,
-      "transactedAt": "2024-04-24 21:46:32",
-      "productCode": "AA472864",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "金,币,1998年,2盎司,年盎,盎司,司方,方形,形桂,桂林,林山,山水,水南,南溪,溪山,山金,金币"
-    },
     {
       "coinName": "1998年1/2盎司刘少奇诞辰100周年金币",
       "normalizedBoxCode": "8575838008",
@@ -43,6 +26,23 @@
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "金,币,1998年,2盎司,年盎,盎司,司刘,刘少,少奇,奇诞,诞辰,辰周,周年,年金,金币"
+    },
+    {
+      "coinName": "1998年1/2盎司方形桂林山水南溪山金币",
+      "normalizedBoxCode": "6743769005",
+      "displayBoxCode": "6743769-005",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/426137.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6743769-005/",
+      "price": 18800,
+      "priceWithFee": null,
+      "transactedAt": "2024-04-24 21:46:32",
+      "productCode": "AA472864",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1998年,2盎司,年盎,盎司,司方,方形,形桂,桂林,林山,山水,水南,南溪,溪山,山金,金币"
     }
   ]
 }

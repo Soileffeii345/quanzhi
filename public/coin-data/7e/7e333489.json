@@ -7,26 +7,9 @@
     "low": 25,
     "high": 30,
     "avg": 27,
-    "latest": 25
+    "latest": 30
   },
   "records": [
-    {
-      "coinName": "2016年丙申猴年生肖贺岁流通纪念币",
-      "normalizedBoxCode": "4316018035",
-      "displayBoxCode": "4316018-035",
-      "gradingCompany": "NGC",
-      "grade": "MS 69",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10404592.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/4316018-035/69/",
-      "price": 25,
-      "priceWithFee": 27,
-      "transactedAt": "2026-07-15 19:16:20",
-      "productCode": "875541008",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "币,2016年,生肖,吉祥文化,年丙,丙申,申猴,猴年,年生,肖贺,贺岁,岁流,流通,通纪,纪念,念币"
-    },
     {
       "coinName": "2016年丙申猴年生肖贺岁流通纪念币",
       "normalizedBoxCode": "4316066065",
@@ -40,6 +23,23 @@
       "priceWithFee": 32.4,
       "transactedAt": "2026-07-15 21:38:40",
       "productCode": "875541009",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2016年,生肖,吉祥文化,年丙,丙申,申猴,猴年,年生,肖贺,贺岁,岁流,流通,通纪,纪念,念币"
+    },
+    {
+      "coinName": "2016年丙申猴年生肖贺岁流通纪念币",
+      "normalizedBoxCode": "4316018035",
+      "displayBoxCode": "4316018-035",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10404592.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4316018-035/69/",
+      "price": 25,
+      "priceWithFee": 27,
+      "transactedAt": "2026-07-15 19:16:20",
+      "productCode": "875541008",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "币,2016年,生肖,吉祥文化,年丙,丙申,申猴,猴年,年生,肖贺,贺岁,岁流,流通,通纪,纪念,念币"

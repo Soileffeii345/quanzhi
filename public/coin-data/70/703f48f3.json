@@ -7,26 +7,9 @@
     "low": 240,
     "high": 260,
     "avg": 250,
-    "latest": 260
+    "latest": 240
   },
   "records": [
-    {
-      "coinName": "2021年8克贺岁银币",
-      "normalizedBoxCode": "6053534036",
-      "displayBoxCode": "6053534-036",
-      "gradingCompany": "NGC",
-      "grade": "Ms70",
-      "platform": "易金在线",
-      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/478250.html",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/6053534-036/70/",
-      "price": 260,
-      "priceWithFee": null,
-      "transactedAt": "2025-05-18 23:56:01",
-      "productCode": "KH066838",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "银,币,2021年,8克,吉祥文化,年克,克贺,贺岁,岁银,银币"
-    },
     {
       "coinName": "2021年8克贺岁银币",
       "normalizedBoxCode": "6151968035",
@@ -40,6 +23,23 @@
       "priceWithFee": null,
       "transactedAt": "2025-08-03 16:45:36",
       "productCode": "KH077644",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2021年,8克,吉祥文化,年克,克贺,贺岁,岁银,银币"
+    },
+    {
+      "coinName": "2021年8克贺岁银币",
+      "normalizedBoxCode": "6053534036",
+      "displayBoxCode": "6053534-036",
+      "gradingCompany": "NGC",
+      "grade": "Ms70",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/478250.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6053534-036/70/",
+      "price": 260,
+      "priceWithFee": null,
+      "transactedAt": "2025-05-18 23:56:01",
+      "productCode": "KH066838",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "银,币,2021年,8克,吉祥文化,年克,克贺,贺岁,岁银,银币"

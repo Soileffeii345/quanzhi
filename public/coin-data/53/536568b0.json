@@ -7,26 +7,9 @@
     "low": 16400,
     "high": 17800,
     "avg": 17100,
-    "latest": 17800
+    "latest": 16400
   },
   "records": [
-    {
-      "coinName": "1995年第43届世界乒乓球锦标赛-男子单打1/3盎司精制金币",
-      "normalizedBoxCode": "8202766015",
-      "displayBoxCode": "8202766-015",
-      "gradingCompany": "NGC",
-      "grade": "待复核",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10359985.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/8202766-015/",
-      "price": 17800,
-      "priceWithFee": 18423,
-      "transactedAt": "2026-06-25 20:58:05",
-      "productCode": "869600002",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "金,币,1995年,3盎司,年第,第届,届世,世界,界乒,乒乓,乓球,球锦,锦标,标赛,赛男,男子,子单,单打,打盎,盎司,司精,精制,制金,金币,评级"
-    },
     {
       "coinName": "1995年第43届世界乒乓球锦标赛-男子单打1/3盎司精制金币",
       "normalizedBoxCode": "8656076032",
@@ -40,6 +23,23 @@
       "priceWithFee": 16974,
       "transactedAt": "2026-07-09 21:44:45",
       "productCode": "873930016",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1995年,3盎司,年第,第届,届世,世界,界乒,乒乓,乓球,球锦,锦标,标赛,赛男,男子,子单,单打,打盎,盎司,司精,精制,制金,金币,评级"
+    },
+    {
+      "coinName": "1995年第43届世界乒乓球锦标赛-男子单打1/3盎司精制金币",
+      "normalizedBoxCode": "8202766015",
+      "displayBoxCode": "8202766-015",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10359985.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8202766-015/",
+      "price": 17800,
+      "priceWithFee": 18423,
+      "transactedAt": "2026-06-25 20:58:05",
+      "productCode": "869600002",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "金,币,1995年,3盎司,年第,第届,届世,世界,界乒,乒乓,乓球,球锦,锦标,标赛,赛男,男子,子单,单打,打盎,盎司,司精,精制,制金,金币,评级"

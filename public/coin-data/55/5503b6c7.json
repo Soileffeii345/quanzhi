@@ -2,7 +2,7 @@
   "coinName": "1997年7.776克金币",
   "slug": "5503b6c7",
   "saleCount": 3,
-  "keywords": "金,币,1997年,4盎司,年盎,盎司,司北,北京,京故,故宫,宫博,博物,物院,院乾,乾清,清宫,宫内,内景,景金,金币,院御,御花,花园,园金,院金,金水,水桥,桥金",
+  "keywords": "金,币,1997年,4盎司,年盎,盎司,司北,北京,京故,故宫,宫博,博物,物院,院御,御花,花园,园金,金币,院乾,乾清,清宫,宫内,内景,景金,院金,金水,水桥,桥金",
   "priceStats": {
     "low": 8800,
     "high": 10800,
@@ -10,23 +10,6 @@
     "latest": 8800
   },
   "records": [
-    {
-      "coinName": "1997年1/4盎司北京故宫博物院乾清宫内景金币",
-      "normalizedBoxCode": "3306161033",
-      "displayBoxCode": "3306161-033",
-      "gradingCompany": "NGC",
-      "grade": "PF 69 ULTRA CAMEO",
-      "platform": "易金在线",
-      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/502969.html",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/3306161-033/69/",
-      "price": 8800,
-      "priceWithFee": null,
-      "transactedAt": "2025-10-03 09:55:44",
-      "productCode": "KH085121",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "金,币,1997年,4盎司,年盎,盎司,司北,北京,京故,故宫,宫博,博物,物院,院乾,乾清,清宫,宫内,内景,景金,金币"
-    },
     {
       "coinName": "1997年1/4盎司北京故宫博物院御花园金币",
       "normalizedBoxCode": "3396161034",
@@ -43,6 +26,23 @@
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "金,币,1997年,4盎司,年盎,盎司,司北,北京,京故,故宫,宫博,博物,物院,院御,御花,花园,园金,金币"
+    },
+    {
+      "coinName": "1997年1/4盎司北京故宫博物院乾清宫内景金币",
+      "normalizedBoxCode": "3306161033",
+      "displayBoxCode": "3306161-033",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/502969.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3306161-033/69/",
+      "price": 8800,
+      "priceWithFee": null,
+      "transactedAt": "2025-10-03 09:55:44",
+      "productCode": "KH085121",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1997年,4盎司,年盎,盎司,司北,北京,京故,故宫,宫博,博物,物院,院乾,乾清,清宫,宫内,内景,景金,金币"
     },
     {
       "coinName": "1997年1/4盎司北京故宫博物院金水桥金币",

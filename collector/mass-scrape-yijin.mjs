@@ -166,10 +166,6 @@ async function scrapeListPages() {
 // We insert these as price reference records
 async function scrapeSearchResults() {
   console.log("\n--- Phase 2: Search results ---");
-  const existingUrls = new Set(
-    database.prepare("SELECT detail_url FROM box_sales WHERE platform = '易金在线' AND detail_url IS NOT NULL").all().map((r) => r.detail_url)
-  );
-
   const insert = database.prepare(`
     INSERT OR IGNORE INTO box_sales
     (normalized_box_code, display_box_code, grading_company, grade, coin_name,

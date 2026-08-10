@@ -7,9 +7,26 @@
     "low": 12345,
     "high": 12495,
     "avg": 12418,
-    "latest": 12345
+    "latest": 12415
   },
   "records": [
+    {
+      "coinName": "2016年1/2盎司梅花形生肖猴金币",
+      "normalizedBoxCode": "5809425019",
+      "displayBoxCode": "5809425-019",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/495174.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/5809425-019/70/",
+      "price": 12415,
+      "priceWithFee": null,
+      "transactedAt": "2025-08-18 14:39:56",
+      "productCode": "KH079256",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2016年,2盎司,生肖,年盎,盎司,司梅,梅花,花形,形生,肖猴,猴金,金币"
+    },
     {
       "coinName": "2016年1/2盎司梅花形生肖猴金币",
       "normalizedBoxCode": "4320583001",
@@ -40,23 +57,6 @@
       "priceWithFee": null,
       "transactedAt": "2025-06-20 22:41:34",
       "productCode": "KH071278",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "金,币,2016年,2盎司,生肖,年盎,盎司,司梅,梅花,花形,形生,肖猴,猴金,金币"
-    },
-    {
-      "coinName": "2016年1/2盎司梅花形生肖猴金币",
-      "normalizedBoxCode": "5809425019",
-      "displayBoxCode": "5809425-019",
-      "gradingCompany": "NGC",
-      "grade": "PF 70 ULTRA CAMEO",
-      "platform": "易金在线",
-      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/495174.html",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/5809425-019/70/",
-      "price": 12415,
-      "priceWithFee": null,
-      "transactedAt": "2025-08-18 14:39:56",
-      "productCode": "KH079256",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "金,币,2016年,2盎司,生肖,年盎,盎司,司梅,梅花,花形,形生,肖猴,猴金,金币"

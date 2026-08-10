@@ -29,23 +29,6 @@
     },
     {
       "coinName": "2023年3克大熊猫国家公园金币",
-      "normalizedBoxCode": "6730122017",
-      "displayBoxCode": "6730122-017",
-      "gradingCompany": "NGC",
-      "grade": "PF 69 ULTRA CAMEO",
-      "platform": "易金在线",
-      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/492700.html",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/6730122-017/69/",
-      "price": 2380,
-      "priceWithFee": null,
-      "transactedAt": "2025-08-04 18:47:48",
-      "productCode": "KH077803",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "金,币,2023年,3克,熊猫,年克,克大,大熊,猫国,国家,家公,公园,园金,金币"
-    },
-    {
-      "coinName": "2023年3克大熊猫国家公园金币",
       "normalizedBoxCode": "8185586001",
       "displayBoxCode": "8185586-001",
       "gradingCompany": "NGC",
@@ -77,6 +60,23 @@
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "金,币,2023年,3克,熊猫,年克,克熊,猫金,金币"
+    },
+    {
+      "coinName": "2023年3克大熊猫国家公园金币",
+      "normalizedBoxCode": "6730122017",
+      "displayBoxCode": "6730122-017",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/492700.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6730122-017/69/",
+      "price": 2380,
+      "priceWithFee": null,
+      "transactedAt": "2025-08-04 18:47:48",
+      "productCode": "KH077803",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2023年,3克,熊猫,年克,克大,大熊,猫国,国家,家公,公园,园金,金币"
     }
   ]
 }

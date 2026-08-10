@@ -7,26 +7,9 @@
     "low": 370,
     "high": 550,
     "avg": 460,
-    "latest": 370
+    "latest": 550
   },
   "records": [
-    {
-      "coinName": "1996年20克麒麟银币",
-      "normalizedBoxCode": "6715119001",
-      "displayBoxCode": "6715119-001",
-      "gradingCompany": "NGC",
-      "grade": "MS 69",
-      "platform": "易金在线",
-      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/518416.html",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/6715119-001/69/",
-      "price": 370,
-      "priceWithFee": null,
-      "transactedAt": "2025-12-09 10:45:55",
-      "productCode": "KH093800",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "银,币,1996年,20克,年克,克麒,麒麟,麟银,银币"
-    },
     {
       "coinName": "1996年20克麒麟银币",
       "normalizedBoxCode": "6725891034",
@@ -40,6 +23,23 @@
       "priceWithFee": null,
       "transactedAt": "2026-04-17 23:37:54",
       "productCode": "KH127722",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1996年,20克,年克,克麒,麒麟,麟银,银币"
+    },
+    {
+      "coinName": "1996年20克麒麟银币",
+      "normalizedBoxCode": "6715119001",
+      "displayBoxCode": "6715119-001",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/518416.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6715119-001/69/",
+      "price": 370,
+      "priceWithFee": null,
+      "transactedAt": "2025-12-09 10:45:55",
+      "productCode": "KH093800",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "银,币,1996年,20克,年克,克麒,麒麟,麟银,银币"

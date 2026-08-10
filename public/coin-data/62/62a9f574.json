@@ -7,26 +7,9 @@
     "low": 5835,
     "high": 7820,
     "avg": 6828,
-    "latest": 5835
+    "latest": 7820
   },
   "records": [
-    {
-      "coinName": "2016年8克熊猫金币",
-      "normalizedBoxCode": "3993620127",
-      "displayBoxCode": "3993620-127",
-      "gradingCompany": "NGC",
-      "grade": "MS 70",
-      "platform": "易金在线",
-      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/469172.html",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/3993620-127/70/",
-      "price": 5835,
-      "priceWithFee": null,
-      "transactedAt": "2025-03-20 10:07:18",
-      "productCode": "KH061671",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "金,币,2016年,8克,熊猫,年克,克熊,猫金,金币"
-    },
     {
       "coinName": "2016年8克熊猫金币",
       "normalizedBoxCode": "3994336104",
@@ -40,6 +23,23 @@
       "priceWithFee": null,
       "transactedAt": "2026-06-06 10:43:20",
       "productCode": "KH137841",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2016年,8克,熊猫,年克,克熊,猫金,金币"
+    },
+    {
+      "coinName": "2016年8克熊猫金币",
+      "normalizedBoxCode": "3993620127",
+      "displayBoxCode": "3993620-127",
+      "gradingCompany": "NGC",
+      "grade": "MS 70",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/469172.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3993620-127/70/",
+      "price": 5835,
+      "priceWithFee": null,
+      "transactedAt": "2025-03-20 10:07:18",
+      "productCode": "KH061671",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "金,币,2016年,8克,熊猫,年克,克熊,猫金,金币"

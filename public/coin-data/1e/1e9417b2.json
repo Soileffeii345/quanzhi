@@ -2,30 +2,30 @@
   "coinName": "2016年吉祥文化30克银币",
   "slug": "1e9417b2",
   "saleCount": 3,
-  "keywords": "银,币,2016年,30克,吉祥文化,年克,克吉,吉祥,祥文,文化,化并,并蒂,蒂同,同心,心银,银币,化五,五福,福拱,拱寿,寿银,化瓜,瓜瓞,瓞绵,绵绵,绵银",
+  "keywords": "银,币,2016年,30克,吉祥文化,年克,克吉,吉祥,祥文,文化,化瓜,瓜瓞,瓞绵,绵绵,绵银,银币,化五,五福,福拱,拱寿,寿银,化并,并蒂,蒂同,同心,心银",
   "priceStats": {
     "low": 310,
     "high": 800,
     "avg": 603,
-    "latest": 800
+    "latest": 700
   },
   "records": [
     {
-      "coinName": "2016年30克吉祥文化并蒂同心银币",
-      "normalizedBoxCode": "4317569032",
-      "displayBoxCode": "4317569-032",
+      "coinName": "2016年30克吉祥文化瓜瓞绵绵银币",
+      "normalizedBoxCode": "4325088005",
+      "displayBoxCode": "4325088-005",
       "gradingCompany": "NGC",
-      "grade": "待复核",
+      "grade": "PF 69 ULTRA CAMEO",
       "platform": "易金在线",
-      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/478184.html",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/4317569-032/",
-      "price": 800,
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/527728.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4325088-005/69/",
+      "price": 700,
       "priceWithFee": null,
-      "transactedAt": "2025-05-20 09:17:52",
-      "productCode": "AA562560",
+      "transactedAt": "2026-01-05 12:54:17",
+      "productCode": "KH101335",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
-      "keywords": "银,币,2016年,30克,吉祥文化,年克,克吉,吉祥,祥文,文化,化并,并蒂,蒂同,同心,心银,银币"
+      "keywords": "银,币,2016年,30克,吉祥文化,年克,克吉,吉祥,祥文,文化,化瓜,瓜瓞,瓞绵,绵绵,绵银,银币"
     },
     {
       "coinName": "2016年30克吉祥文化五福拱寿银币",
@@ -45,21 +45,21 @@
       "keywords": "银,币,2016年,30克,吉祥文化,年克,克吉,吉祥,祥文,文化,化五,五福,福拱,拱寿,寿银,银币"
     },
     {
-      "coinName": "2016年30克吉祥文化瓜瓞绵绵银币",
-      "normalizedBoxCode": "4325088005",
-      "displayBoxCode": "4325088-005",
+      "coinName": "2016年30克吉祥文化并蒂同心银币",
+      "normalizedBoxCode": "4317569032",
+      "displayBoxCode": "4317569-032",
       "gradingCompany": "NGC",
-      "grade": "PF 69 ULTRA CAMEO",
+      "grade": "待复核",
       "platform": "易金在线",
-      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/527728.html",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/4325088-005/69/",
-      "price": 700,
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/478184.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4317569-032/",
+      "price": 800,
       "priceWithFee": null,
-      "transactedAt": "2026-01-05 12:54:17",
-      "productCode": "KH101335",
+      "transactedAt": "2025-05-20 09:17:52",
+      "productCode": "AA562560",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
-      "keywords": "银,币,2016年,30克,吉祥文化,年克,克吉,吉祥,祥文,文化,化瓜,瓜瓞,瓞绵,绵绵,绵银,银币"
+      "keywords": "银,币,2016年,30克,吉祥文化,年克,克吉,吉祥,祥文,文化,化并,并蒂,蒂同,同心,心银,银币"
     }
   ]
 }

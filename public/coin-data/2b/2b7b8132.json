@@ -2,31 +2,14 @@
   "coinName": "2014年生肖31.104克精制银币",
   "slug": "2b7b8132",
   "saleCount": 2,
-  "keywords": "银,币,2014年,1盎司,生肖,年甲,甲午,午马,马年,年生,肖盎,盎司,司精,精制,制彩,彩银,银币,评级,制银",
+  "keywords": "银,币,2014年,1盎司,生肖,年甲,甲午,午马,马年,年生,肖盎,盎司,司精,精制,制银,银币,评级,制彩,彩银",
   "priceStats": {
     "low": 820,
     "high": 1220,
     "avg": 1020,
-    "latest": 820
+    "latest": 1220
   },
   "records": [
-    {
-      "coinName": "2014年甲午马年生肖1盎司精制彩银币",
-      "normalizedBoxCode": "2803560051",
-      "displayBoxCode": "2803560-051",
-      "gradingCompany": "NGC",
-      "grade": "PF 69 ULTRA CAMEO",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10381110.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/2803560-051/69/",
-      "price": 820,
-      "priceWithFee": 848.7,
-      "transactedAt": "2026-07-06 20:23:25",
-      "productCode": "872386015",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "银,币,2014年,1盎司,生肖,年甲,甲午,午马,马年,年生,肖盎,盎司,司精,精制,制彩,彩银,银币,评级"
-    },
     {
       "coinName": "2014年甲午马年生肖1盎司精制银币",
       "normalizedBoxCode": "8757500001",
@@ -43,6 +26,23 @@
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "银,币,2014年,1盎司,生肖,年甲,甲午,午马,马年,年生,肖盎,盎司,司精,精制,制银,银币,评级"
+    },
+    {
+      "coinName": "2014年甲午马年生肖1盎司精制彩银币",
+      "normalizedBoxCode": "2803560051",
+      "displayBoxCode": "2803560-051",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10381110.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2803560-051/69/",
+      "price": 820,
+      "priceWithFee": 848.7,
+      "transactedAt": "2026-07-06 20:23:25",
+      "productCode": "872386015",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2014年,1盎司,生肖,年甲,甲午,午马,马年,年生,肖盎,盎司,司精,精制,制彩,彩银,银币,评级"
     }
   ]
 }

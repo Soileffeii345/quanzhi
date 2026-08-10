@@ -7,26 +7,9 @@
     "low": 69000,
     "high": 222000,
     "avg": 145500,
-    "latest": 222000
+    "latest": 69000
   },
   "records": [
-    {
-      "coinName": "第二版人民币大黑拾",
-      "normalizedBoxCode": "1871504002",
-      "displayBoxCode": "1871504-002",
-      "gradingCompany": "NGC",
-      "grade": "待复核",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/dierbanrenminbi/10358662.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/1871504-002/",
-      "price": 222000,
-      "priceWithFee": 239760,
-      "transactedAt": "2026-06-25 20:40:10",
-      "productCode": "870138009",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "币,第二,二版,版人,人民,民币,币大,大黑,黑拾"
-    },
     {
       "coinName": "第二版人民币大黑拾",
       "normalizedBoxCode": "2489228001",
@@ -40,6 +23,23 @@
       "priceWithFee": 74520,
       "transactedAt": "2026-06-27 20:54:10",
       "productCode": "870138017",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,第二,二版,版人,人民,民币,币大,大黑,黑拾"
+    },
+    {
+      "coinName": "第二版人民币大黑拾",
+      "normalizedBoxCode": "1871504002",
+      "displayBoxCode": "1871504-002",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/dierbanrenminbi/10358662.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1871504-002/",
+      "price": 222000,
+      "priceWithFee": 239760,
+      "transactedAt": "2026-06-25 20:40:10",
+      "productCode": "870138009",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "币,第二,二版,版人,人民,民币,币大,大黑,黑拾"

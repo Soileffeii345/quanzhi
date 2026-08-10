@@ -2,7 +2,7 @@
 
 import { createReadStream, createWriteStream, existsSync } from "node:fs";
 import { open, rename, stat, unlink } from "node:fs/promises";
-import { dirname, resolve } from "node:path";
+import { resolve } from "node:path";
 import { pipeline } from "node:stream/promises";
 import { createGunzip, createGzip } from "node:zlib";
 

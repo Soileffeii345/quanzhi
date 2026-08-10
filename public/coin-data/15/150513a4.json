@@ -7,26 +7,9 @@
     "low": 3155,
     "high": 4700,
     "avg": 3928,
-    "latest": 3155
+    "latest": 4700
   },
   "records": [
-    {
-      "coinName": "2011年5盎司熊猫银币",
-      "normalizedBoxCode": "6000665033",
-      "displayBoxCode": "6000665-033",
-      "gradingCompany": "NGC",
-      "grade": "PF 69 ULTRA CAMEO",
-      "platform": "易金在线",
-      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/525450.html",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/6000665-033/69/",
-      "price": 3155,
-      "priceWithFee": null,
-      "transactedAt": "2025-12-28 13:46:15",
-      "productCode": "KH100115",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "银,币,2011年,5盎司,熊猫,年盎,盎司,司熊,猫银,银币"
-    },
     {
       "coinName": "2011年5盎司熊猫银币",
       "normalizedBoxCode": "6410085057",
@@ -40,6 +23,23 @@
       "priceWithFee": null,
       "transactedAt": "2026-02-23 08:28:38",
       "productCode": "KH120091",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2011年,5盎司,熊猫,年盎,盎司,司熊,猫银,银币"
+    },
+    {
+      "coinName": "2011年5盎司熊猫银币",
+      "normalizedBoxCode": "6000665033",
+      "displayBoxCode": "6000665-033",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/525450.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6000665-033/69/",
+      "price": 3155,
+      "priceWithFee": null,
+      "transactedAt": "2025-12-28 13:46:15",
+      "productCode": "KH100115",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "银,币,2011年,5盎司,熊猫,年盎,盎司,司熊,猫银,银币"

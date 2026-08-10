@@ -7,26 +7,9 @@
     "low": 14600,
     "high": 20800,
     "avg": 17700,
-    "latest": 14600
+    "latest": 20800
   },
   "records": [
-    {
-      "coinName": "1983年1/2盎司熊猫金币",
-      "normalizedBoxCode": "3357418002",
-      "displayBoxCode": "3357418-002",
-      "gradingCompany": "NGC",
-      "grade": "MS 68",
-      "platform": "易金在线",
-      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/484606.html",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/3357418-002/68/",
-      "price": 14600,
-      "priceWithFee": null,
-      "transactedAt": "2025-06-22 18:39:08",
-      "productCode": "AA569204",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "金,币,1983年,2盎司,熊猫,年盎,盎司,司熊,猫金,金币"
-    },
     {
       "coinName": "1983年1/2盎司熊猫金币",
       "normalizedBoxCode": "3641739014",
@@ -40,6 +23,23 @@
       "priceWithFee": null,
       "transactedAt": "2026-03-22 15:23:21",
       "productCode": "KH126177",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1983年,2盎司,熊猫,年盎,盎司,司熊,猫金,金币"
+    },
+    {
+      "coinName": "1983年1/2盎司熊猫金币",
+      "normalizedBoxCode": "3357418002",
+      "displayBoxCode": "3357418-002",
+      "gradingCompany": "NGC",
+      "grade": "MS 68",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/484606.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3357418-002/68/",
+      "price": 14600,
+      "priceWithFee": null,
+      "transactedAt": "2025-06-22 18:39:08",
+      "productCode": "AA569204",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "金,币,1983年,2盎司,熊猫,年盎,盎司,司熊,猫金,金币"

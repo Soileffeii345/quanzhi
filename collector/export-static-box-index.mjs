@@ -160,28 +160,34 @@ for (const [canonical, sales] of canonicalMap) {
 const coinIndex = [];
 
 for (const [coinName, sales] of coinGroups) {
+  // Coin detail pages and the index use transaction time as the single
+  // definition of "latest". The source rows are ordered by certificate code,
+  // so sort each coin group explicitly before calculating price summaries.
+  const sortedSales = [...sales].sort((a, b) =>
+    String(b.transacted_at ?? "").localeCompare(String(a.transacted_at ?? ""))
+  );
   const slug = coinSlug(coinName);
   const prefix = slug.slice(0, 2);
   const directory = resolve(coinOutputRoot, prefix);
   await mkdir(directory, { recursive: true });
 
-  const prices = sales.filter((s) => s.price !== null).map((s) => s.price);
+  const prices = sortedSales.filter((s) => s.price !== null).map((s) => s.price);
 
   // Collect unique keywords for this coin
-  const coinKeywords = [...new Set(sales.flatMap(s => (s.keywords || '').split(',').filter(Boolean)))];
+  const coinKeywords = [...new Set(sortedSales.flatMap(s => (s.keywords || '').split(',').filter(Boolean)))];
 
   const coinData = {
     coinName,
     slug,
-    saleCount: sales.length,
+    saleCount: sortedSales.length,
     keywords: coinKeywords.join(','),
     priceStats: {
       low: prices.length > 0 ? Math.min(...prices) : null,
       high: prices.length > 0 ? Math.max(...prices) : null,
       avg: prices.length > 0 ? Math.round(prices.reduce((a, b) => a + b, 0) / prices.length) : null,
-      latest: sales[0]?.price ?? null,
+      latest: sortedSales.find((sale) => sale.price !== null)?.price ?? null,
     },
-    records: sales.map((row) => ({
+    records: sortedSales.map((row) => ({
       coinName: row.coin_name,
       normalizedBoxCode: row.normalized_box_code,
       displayBoxCode: row.display_box_code,
@@ -203,10 +209,10 @@ for (const [coinName, sales] of coinGroups) {
   coinIndex.push({
     coinName,
     slug,
-    saleCount: sales.length,
+    saleCount: sortedSales.length,
     keywords: coinKeywords.join(','),
-    latestPrice: sales[0]?.price ?? null,
-    latestDate: sales[0]?.transacted_at ?? null,
+    latestPrice: sortedSales.find((sale) => sale.price !== null)?.price ?? null,
+    latestDate: sortedSales.find((sale) => sale.price !== null)?.transacted_at ?? null,
     priceLow: coinData.priceStats.low,
     priceHigh: coinData.priceStats.high,
   });

@@ -7,26 +7,9 @@
     "low": 700,
     "high": 750,
     "avg": 725,
-    "latest": 750
+    "latest": 700
   },
   "records": [
-    {
-      "coinName": "1997年麒麟1盎司普制银币",
-      "normalizedBoxCode": "3365301011",
-      "displayBoxCode": "3365301-011",
-      "gradingCompany": "NGC",
-      "grade": "待复核",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10362481.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/3365301-011/",
-      "price": 750,
-      "priceWithFee": 776.25,
-      "transactedAt": "2026-06-29 21:00:10",
-      "productCode": "869617003",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "银,币,1997年,1盎司,年麒,麒麟,麟盎,盎司,司普,普制,制银,银币"
-    },
     {
       "coinName": "1997年麒麟1盎司普制银币",
       "normalizedBoxCode": "6744674001",
@@ -40,6 +23,23 @@
       "priceWithFee": 724.5,
       "transactedAt": "2026-07-13 21:29:20",
       "productCode": "874056020",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1997年,1盎司,年麒,麒麟,麟盎,盎司,司普,普制,制银,银币"
+    },
+    {
+      "coinName": "1997年麒麟1盎司普制银币",
+      "normalizedBoxCode": "3365301011",
+      "displayBoxCode": "3365301-011",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10362481.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3365301-011/",
+      "price": 750,
+      "priceWithFee": 776.25,
+      "transactedAt": "2026-06-29 21:00:10",
+      "productCode": "869617003",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "银,币,1997年,1盎司,年麒,麒麟,麟盎,盎司,司普,普制,制银,银币"

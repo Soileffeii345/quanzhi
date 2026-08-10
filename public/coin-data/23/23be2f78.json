@@ -7,26 +7,9 @@
     "low": 6400,
     "high": 9600,
     "avg": 8000,
-    "latest": 6400
+    "latest": 9600
   },
   "records": [
-    {
-      "coinName": "1982年1/4盎司熊猫金币(长枝)",
-      "normalizedBoxCode": "2866757003",
-      "displayBoxCode": "2866757-003",
-      "gradingCompany": "NGC",
-      "grade": "待复核",
-      "platform": "易金在线",
-      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/466023.html",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/2866757-003/",
-      "price": 6400,
-      "priceWithFee": null,
-      "transactedAt": "2025-03-06 09:18:52",
-      "productCode": "AA550587A",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "金,币,1982年,4盎司,熊猫,年盎,盎司,司熊,猫金,金币,币长,长枝"
-    },
     {
       "coinName": "1982年1/4盎司熊猫金币(长枝)",
       "normalizedBoxCode": "3395727013",
@@ -40,6 +23,23 @@
       "priceWithFee": null,
       "transactedAt": "2025-06-26 23:31:05",
       "productCode": "AA569168",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1982年,4盎司,熊猫,年盎,盎司,司熊,猫金,金币,币长,长枝"
+    },
+    {
+      "coinName": "1982年1/4盎司熊猫金币(长枝)",
+      "normalizedBoxCode": "2866757003",
+      "displayBoxCode": "2866757-003",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/466023.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2866757-003/",
+      "price": 6400,
+      "priceWithFee": null,
+      "transactedAt": "2025-03-06 09:18:52",
+      "productCode": "AA550587A",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "金,币,1982年,4盎司,熊猫,年盎,盎司,司熊,猫金,金币,币长,长枝"

@@ -164,12 +164,15 @@ export default function CoinPage({ searchParams }: { searchParams?: { name?: str
   });
 
   useEffect(() => {
-    try {
-      const raw = window.localStorage.getItem("quanzhi-saved-coins");
-      setSavedCoins(raw ? JSON.parse(raw) : []);
-    } catch {
-      setSavedCoins([]);
-    }
+    const timer = window.setTimeout(() => {
+      try {
+        const raw = window.localStorage.getItem("quanzhi-saved-coins");
+        setSavedCoins(raw ? JSON.parse(raw) : []);
+      } catch {
+        setSavedCoins([]);
+      }
+    }, 0);
+    return () => window.clearTimeout(timer);
   }, []);
 
   function toggleSavedCoin(coinName: string) {
@@ -189,15 +192,6 @@ export default function CoinPage({ searchParams }: { searchParams?: { name?: str
     }
   }
 
-  const trendRecords =
-    data?.records
-      .filter((r) => r.price !== null && r.transactedAt)
-      .map((r) => ({
-        price: r.price!,
-        transactedAt: r.transactedAt,
-        platform: r.platform,
-      })) ?? [];
-
   // Unique grades for filter
   const allGrades = [...new Set(data?.records.map((r) => r.grade).filter(Boolean) ?? [])].sort((a, b) => {
     const na = parseInt(a.match(/\d+/)?.[0] ?? "0") || 0;
@@ -208,6 +202,14 @@ export default function CoinPage({ searchParams }: { searchParams?: { name?: str
   const filteredRecords = gradeFilter === "全部"
     ? (data?.records ?? [])
     : (data?.records ?? []).filter((r) => r.grade === gradeFilter);
+  const trendRecords = filteredRecords
+    .filter((record) => record.price !== null && record.transactedAt)
+    .map((record) => ({
+      price: record.price!,
+      transactedAt: record.transactedAt,
+      platform: record.platform,
+      detailUrl: record.detailUrl,
+    }));
   const parsedMinPrice = minPrice === "" ? null : Number(minPrice);
   const parsedMaxPrice = maxPrice === "" ? null : Number(maxPrice);
   const invalidPriceRange = parsedMinPrice !== null && parsedMaxPrice !== null && parsedMinPrice > parsedMaxPrice;

@@ -7,26 +7,9 @@
     "low": 150,
     "high": 240,
     "avg": 198,
-    "latest": 190
+    "latest": 240
   },
   "records": [
-    {
-      "coinName": "2025年中国人民抗日战争暨世界反法西斯战争胜利80周年流通纪念币",
-      "normalizedBoxCode": "8577801022",
-      "displayBoxCode": "8577801-022",
-      "gradingCompany": "NGC",
-      "grade": "MS 69",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10395454.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/8577801-022/69/",
-      "price": 190,
-      "priceWithFee": 205.2,
-      "transactedAt": "2026-07-15 20:22:00",
-      "productCode": "874369008",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "币,2025年,年中,中国,国人,人民,民抗,抗日,日战,战争,争暨,暨世,世界,界反,反法,法西,西斯,斯战,争胜,胜利,利周,周年,年流,流通,通纪,纪念,念币"
-    },
     {
       "coinName": "2025年中国人民抗日战争暨世界反法西斯战争胜利80周年流通纪念币",
       "normalizedBoxCode": "8577802003",
@@ -40,6 +23,23 @@
       "priceWithFee": 259.2,
       "transactedAt": "2026-07-15 21:47:50",
       "productCode": "874369007",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2025年,年中,中国,国人,人民,民抗,抗日,日战,战争,争暨,暨世,世界,界反,反法,法西,西斯,斯战,争胜,胜利,利周,周年,年流,流通,通纪,纪念,念币"
+    },
+    {
+      "coinName": "2025年中国人民抗日战争暨世界反法西斯战争胜利80周年流通纪念币",
+      "normalizedBoxCode": "8577801022",
+      "displayBoxCode": "8577801-022",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10395454.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8577801-022/69/",
+      "price": 190,
+      "priceWithFee": 205.2,
+      "transactedAt": "2026-07-15 20:22:00",
+      "productCode": "874369008",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "币,2025年,年中,中国,国人,人民,民抗,抗日,日战,战争,争暨,暨世,世界,界反,反法,法西,西斯,斯战,争胜,胜利,利周,周年,年流,流通,通纪,纪念,念币"

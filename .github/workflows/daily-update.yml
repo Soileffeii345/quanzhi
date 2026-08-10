@@ -44,7 +44,7 @@ jobs:
           npm run data:audit
 
       - name: Collect, verify, and export new data
-        run: npm run data:update -- --no-deploy
+        run: npm run data:update
 
       - name: Block publication when evidence checks fail
         run: |

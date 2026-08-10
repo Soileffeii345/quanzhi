@@ -2,31 +2,14 @@
   "coinName": "1997年20盎司金币",
   "slug": "774c5bb3",
   "saleCount": 2,
-  "keywords": "金,币,1997年,20盎司,宗教,年盎,盎司,司观,观音,音金,金币,司吉,吉庆,庆有,有余,余金",
+  "keywords": "金,币,1997年,20盎司,年盎,盎司,司吉,吉庆,庆有,有余,余金,金币,宗教,司观,观音,音金",
   "priceStats": {
     "low": 1100,
     "high": 2100,
     "avg": 1600,
-    "latest": 1100
+    "latest": 2100
   },
   "records": [
-    {
-      "coinName": "1997年1/20盎司观音金币",
-      "normalizedBoxCode": "4320296021",
-      "displayBoxCode": "4320296-021",
-      "gradingCompany": "NGC",
-      "grade": "MS 65",
-      "platform": "易金在线",
-      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/469151.html",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/4320296-021/65/",
-      "price": 1100,
-      "priceWithFee": null,
-      "transactedAt": "2025-03-19 21:08:44",
-      "productCode": "KH061638",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "金,币,1997年,20盎司,宗教,年盎,盎司,司观,观音,音金,金币"
-    },
     {
       "coinName": "1997年1/20盎司吉庆有余金币",
       "normalizedBoxCode": "8181096003",
@@ -43,6 +26,23 @@
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "金,币,1997年,20盎司,年盎,盎司,司吉,吉庆,庆有,有余,余金,金币"
+    },
+    {
+      "coinName": "1997年1/20盎司观音金币",
+      "normalizedBoxCode": "4320296021",
+      "displayBoxCode": "4320296-021",
+      "gradingCompany": "NGC",
+      "grade": "MS 65",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/469151.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4320296-021/65/",
+      "price": 1100,
+      "priceWithFee": null,
+      "transactedAt": "2025-03-19 21:08:44",
+      "productCode": "KH061638",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1997年,20盎司,宗教,年盎,盎司,司观,观音,音金,金币"
     }
   ]
 }

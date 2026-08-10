@@ -2,30 +2,30 @@
   "coinName": "2001年熊猫20盎司金币",
   "slug": "271e6e35",
   "saleCount": 3,
-  "keywords": "金,币,2001年,20盎司,熊猫,年盎,盎司,司熊,猫金,金币,币无,无版,币版",
+  "keywords": "金,币,2001年,20盎司,熊猫,年盎,盎司,司熊,猫金,金币,币版,币无,无版",
   "priceStats": {
     "low": 1300,
     "high": 1890,
     "avg": 1530,
-    "latest": 1300
+    "latest": 1890
   },
   "records": [
     {
-      "coinName": "2001年1/20盎司熊猫金币(无D版)",
-      "normalizedBoxCode": "6050203046",
-      "displayBoxCode": "6050203-046",
+      "coinName": "2001年1/20盎司熊猫金币(D版)",
+      "normalizedBoxCode": "8656987001",
+      "displayBoxCode": "8656987-001",
       "gradingCompany": "NGC",
-      "grade": "MS 69",
+      "grade": "待复核",
       "platform": "易金在线",
-      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/477074.html",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/6050203-046/69/",
-      "price": 1300,
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/557634.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8656987-001/",
+      "price": 1890,
       "priceWithFee": null,
-      "transactedAt": "2025-05-10 17:45:23",
-      "productCode": "KH066205",
+      "transactedAt": "2026-03-02 07:56:48",
+      "productCode": "KH121809",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
-      "keywords": "金,币,2001年,20盎司,熊猫,年盎,盎司,司熊,猫金,金币,币无,无版"
+      "keywords": "金,币,2001年,20盎司,熊猫,年盎,盎司,司熊,猫金,金币,币版"
     },
     {
       "coinName": "2001年1/20盎司熊猫金币(无D版)",
@@ -45,21 +45,21 @@
       "keywords": "金,币,2001年,20盎司,熊猫,年盎,盎司,司熊,猫金,金币,币无,无版"
     },
     {
-      "coinName": "2001年1/20盎司熊猫金币(D版)",
-      "normalizedBoxCode": "8656987001",
-      "displayBoxCode": "8656987-001",
+      "coinName": "2001年1/20盎司熊猫金币(无D版)",
+      "normalizedBoxCode": "6050203046",
+      "displayBoxCode": "6050203-046",
       "gradingCompany": "NGC",
-      "grade": "待复核",
+      "grade": "MS 69",
       "platform": "易金在线",
-      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/557634.html",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/8656987-001/",
-      "price": 1890,
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/477074.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6050203-046/69/",
+      "price": 1300,
       "priceWithFee": null,
-      "transactedAt": "2026-03-02 07:56:48",
-      "productCode": "KH121809",
+      "transactedAt": "2025-05-10 17:45:23",
+      "productCode": "KH066205",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
-      "keywords": "金,币,2001年,20盎司,熊猫,年盎,盎司,司熊,猫金,金币,币版"
+      "keywords": "金,币,2001年,20盎司,熊猫,年盎,盎司,司熊,猫金,金币,币无,无版"
     }
   ]
 }

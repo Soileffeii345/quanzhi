@@ -7,26 +7,9 @@
     "low": 750,
     "high": 1000,
     "avg": 875,
-    "latest": 750
+    "latest": 1000
   },
   "records": [
-    {
-      "coinName": "2024年喀麦隆20克悟空仿古银币",
-      "normalizedBoxCode": "8186569002",
-      "displayBoxCode": "8186569-002",
-      "gradingCompany": "NGC",
-      "grade": "待复核",
-      "platform": "易金在线",
-      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/488701.html",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/8186569-002/",
-      "price": 750,
-      "priceWithFee": null,
-      "transactedAt": "2025-08-21 09:36:19",
-      "productCode": "AA572912",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "银,币,2024年,20克,年喀,喀麦,麦隆,隆克,克悟,悟空,空仿,仿古,古银,银币"
-    },
     {
       "coinName": "2024年喀麦隆20克悟空仿古银币",
       "normalizedBoxCode": "8186569006",
@@ -40,6 +23,23 @@
       "priceWithFee": null,
       "transactedAt": "2026-01-27 10:32:02",
       "productCode": "AA596088",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2024年,20克,年喀,喀麦,麦隆,隆克,克悟,悟空,空仿,仿古,古银,银币"
+    },
+    {
+      "coinName": "2024年喀麦隆20克悟空仿古银币",
+      "normalizedBoxCode": "8186569002",
+      "displayBoxCode": "8186569-002",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/488701.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8186569-002/",
+      "price": 750,
+      "priceWithFee": null,
+      "transactedAt": "2025-08-21 09:36:19",
+      "productCode": "AA572912",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "银,币,2024年,20克,年喀,喀麦,麦隆,隆克,克悟,悟空,空仿,仿古,古银,银币"

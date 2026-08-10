@@ -7,26 +7,9 @@
     "low": 65,
     "high": 120,
     "avg": 98,
-    "latest": 120
+    "latest": 110
   },
   "records": [
-    {
-      "coinName": "1957年中国硬币伍分",
-      "normalizedBoxCode": "8648606071",
-      "displayBoxCode": "8648606-071",
-      "gradingCompany": "NGC",
-      "grade": "待复核",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10397604.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/8648606-071/",
-      "price": 120,
-      "priceWithFee": 129.6,
-      "transactedAt": "2026-07-15 21:12:00",
-      "productCode": "874845003",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "币,1957年,年中,中国,国硬,硬币,币伍,伍分"
-    },
     {
       "coinName": "1957年中国硬币伍分",
       "normalizedBoxCode": "8648606076",
@@ -40,6 +23,23 @@
       "priceWithFee": 118.8,
       "transactedAt": "2026-07-22 20:03:25",
       "productCode": "876760006",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1957年,年中,中国,国硬,硬币,币伍,伍分"
+    },
+    {
+      "coinName": "1957年中国硬币伍分",
+      "normalizedBoxCode": "8648606071",
+      "displayBoxCode": "8648606-071",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10397604.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8648606-071/",
+      "price": 120,
+      "priceWithFee": 129.6,
+      "transactedAt": "2026-07-15 21:12:00",
+      "productCode": "874845003",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "币,1957年,年中,中国,国硬,硬币,币伍,伍分"

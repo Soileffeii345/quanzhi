@@ -2,31 +2,14 @@
   "coinName": "2021年31.104克银币",
   "slug": "06b44427",
   "saleCount": 2,
-  "keywords": "银,币,2021年,1盎司,年英,英国,国盎,盎司,司不,不列,列颠,颠女,女神,神狮,狮子,子银,银币,外国/特区,章,年盎,司克,克里,里姆,姆特,特吻,吻仿,仿古,古银,银章",
+  "keywords": "银,章,2021年,1盎司,年盎,盎司,司克,克里,里姆,姆特,特吻,吻仿,仿古,古银,银章,币,年英,英国,国盎,司不,不列,列颠,颠女,女神,神狮,狮子,子银,银币,外国/特区",
   "priceStats": {
     "low": 800,
     "high": 1050,
     "avg": 925,
-    "latest": 800
+    "latest": 1050
   },
   "records": [
-    {
-      "coinName": "2021年英国1盎司不列颠女神狮子银币",
-      "normalizedBoxCode": "6174216002",
-      "displayBoxCode": "6174216-002",
-      "gradingCompany": "NGC",
-      "grade": "待复核",
-      "platform": "易金在线",
-      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/509126.html",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/6174216-002/",
-      "price": 800,
-      "priceWithFee": null,
-      "transactedAt": "2025-11-03 10:03:57",
-      "productCode": "AA593280",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "银,币,2021年,1盎司,年英,英国,国盎,盎司,司不,不列,列颠,颠女,女神,神狮,狮子,子银,银币,外国/特区"
-    },
     {
       "coinName": "2021年1盎司克里姆特吻仿古银章",
       "normalizedBoxCode": "8198494005",
@@ -43,6 +26,23 @@
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "银,章,2021年,1盎司,年盎,盎司,司克,克里,里姆,姆特,特吻,吻仿,仿古,古银,银章"
+    },
+    {
+      "coinName": "2021年英国1盎司不列颠女神狮子银币",
+      "normalizedBoxCode": "6174216002",
+      "displayBoxCode": "6174216-002",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/509126.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6174216-002/",
+      "price": 800,
+      "priceWithFee": null,
+      "transactedAt": "2025-11-03 10:03:57",
+      "productCode": "AA593280",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2021年,1盎司,年英,英国,国盎,盎司,司不,不列,列颠,颠女,女神,神狮,狮子,子银,银币,外国/特区"
     }
   ]
 }

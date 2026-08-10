@@ -7,26 +7,9 @@
     "low": 9700,
     "high": 14515,
     "avg": 12108,
-    "latest": 9700
+    "latest": 14515
   },
   "records": [
-    {
-      "coinName": "1996年1/2盎司方形长江三峡金币",
-      "normalizedBoxCode": "2022211024",
-      "displayBoxCode": "2022211-024",
-      "gradingCompany": "NGC",
-      "grade": "PF 69 ULTRA CAMEO",
-      "platform": "易金在线",
-      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/437418.html",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/2022211-024/69/",
-      "price": 9700,
-      "priceWithFee": null,
-      "transactedAt": "2024-07-09 23:22:06",
-      "productCode": "AA486878",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "金,币,1996年,2盎司,年盎,盎司,司方,方形,形长,长江,江三,三峡,峡金,金币"
-    },
     {
       "coinName": "1996年1/2盎司方形长江三峡金币",
       "normalizedBoxCode": "6754769018",
@@ -40,6 +23,23 @@
       "priceWithFee": null,
       "transactedAt": "2025-10-13 19:55:52",
       "productCode": "KH086987",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1996年,2盎司,年盎,盎司,司方,方形,形长,长江,江三,三峡,峡金,金币"
+    },
+    {
+      "coinName": "1996年1/2盎司方形长江三峡金币",
+      "normalizedBoxCode": "2022211024",
+      "displayBoxCode": "2022211-024",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/437418.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2022211-024/69/",
+      "price": 9700,
+      "priceWithFee": null,
+      "transactedAt": "2024-07-09 23:22:06",
+      "productCode": "AA486878",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "金,币,1996年,2盎司,年盎,盎司,司方,方形,形长,长江,江三,三峡,峡金,金币"

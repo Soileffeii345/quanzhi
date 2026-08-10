@@ -2,30 +2,30 @@
   "coinName": "1992年古代科技22克精制银币",
   "slug": "100a9ae0",
   "saleCount": 3,
-  "keywords": "银,币,1992年,22克,年中,中国,国古,古代,代科,科技,技发,发明,明发,发现,现第,第组,组风,风筝,筝克,克精,精制,制银,银币,评级,组航,航海,海造,造船,船克,组地,地动,动仪,仪克",
+  "keywords": "银,币,1992年,22克,年中,中国,国古,古代,代科,科技,技发,发明,明发,发现,现第,第组,组地,地动,动仪,仪克,克精,精制,制银,银币,评级,组航,航海,海造,造船,船克,组风,风筝,筝克",
   "priceStats": {
     "low": 640,
     "high": 690,
     "avg": 667,
-    "latest": 640
+    "latest": 690
   },
   "records": [
     {
-      "coinName": "1992年中国古代科技发明发现第（1）组-风筝22克精制银币",
-      "normalizedBoxCode": "4580439018",
-      "displayBoxCode": "4580439-018",
+      "coinName": "1992年中国古代科技发明发现第（1）组-地动仪22克精制银币",
+      "normalizedBoxCode": "8813176012",
+      "displayBoxCode": "8813176-012",
       "gradingCompany": "NGC",
-      "grade": "PF68 ULTRA CAMEO",
+      "grade": "PF69 ULTRA CAMEO",
       "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10388789.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/4580439-018/68/",
-      "price": 640,
-      "priceWithFee": 662.4,
-      "transactedAt": "2026-07-06 21:37:35",
-      "productCode": "873740012",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10386640.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8813176-012/69/",
+      "price": 690,
+      "priceWithFee": 714.15,
+      "transactedAt": "2026-07-13 20:41:50",
+      "productCode": "873397009",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
-      "keywords": "银,币,1992年,22克,年中,中国,国古,古代,代科,科技,技发,发明,明发,发现,现第,第组,组风,风筝,筝克,克精,精制,制银,银币,评级"
+      "keywords": "银,币,1992年,22克,年中,中国,国古,古代,代科,科技,技发,发明,明发,发现,现第,第组,组地,地动,动仪,仪克,克精,精制,制银,银币,评级"
     },
     {
       "coinName": "1992年中国古代科技发明发现第（1）组-航海造船22克精制银币",
@@ -45,21 +45,21 @@
       "keywords": "银,币,1992年,22克,年中,中国,国古,古代,代科,科技,技发,发明,明发,发现,现第,第组,组航,航海,海造,造船,船克,克精,精制,制银,银币,评级"
     },
     {
-      "coinName": "1992年中国古代科技发明发现第（1）组-地动仪22克精制银币",
-      "normalizedBoxCode": "8813176012",
-      "displayBoxCode": "8813176-012",
+      "coinName": "1992年中国古代科技发明发现第（1）组-风筝22克精制银币",
+      "normalizedBoxCode": "4580439018",
+      "displayBoxCode": "4580439-018",
       "gradingCompany": "NGC",
-      "grade": "PF69 ULTRA CAMEO",
+      "grade": "PF68 ULTRA CAMEO",
       "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10386640.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/8813176-012/69/",
-      "price": 690,
-      "priceWithFee": 714.15,
-      "transactedAt": "2026-07-13 20:41:50",
-      "productCode": "873397009",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10388789.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4580439-018/68/",
+      "price": 640,
+      "priceWithFee": 662.4,
+      "transactedAt": "2026-07-06 21:37:35",
+      "productCode": "873740012",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
-      "keywords": "银,币,1992年,22克,年中,中国,国古,古代,代科,科技,技发,发明,明发,发现,现第,第组,组地,地动,动仪,仪克,克精,精制,制银,银币,评级"
+      "keywords": "银,币,1992年,22克,年中,中国,国古,古代,代科,科技,技发,发明,明发,发现,现第,第组,组风,风筝,筝克,克精,精制,制银,银币,评级"
     }
   ]
 }

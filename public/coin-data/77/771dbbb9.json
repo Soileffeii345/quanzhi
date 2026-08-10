@@ -7,26 +7,9 @@
     "low": 150,
     "high": 220,
     "avg": 185,
-    "latest": 150
+    "latest": 220
   },
   "records": [
-    {
-      "coinName": "民国二年军政府造四川铜币壹百文铜币",
-      "normalizedBoxCode": "89793725",
-      "displayBoxCode": "89793725",
-      "gradingCompany": "PCGS",
-      "grade": "XF40",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/zhongguojindaijizhibi/10373592.shtml",
-      "officialCertUrl": "https://cn.pcgs.com/cert/89793725",
-      "price": 150,
-      "priceWithFee": 162,
-      "transactedAt": "2026-07-20 20:03:05",
-      "productCode": "871433011",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "铜,币,历史币,四川,川造,民国,国二,二年,年军,军政,政府,府造,造四,川铜,铜币,币壹,壹百,百文,文铜"
-    },
     {
       "coinName": "民国二年军政府造四川铜币壹百文铜币",
       "normalizedBoxCode": "89793726",
@@ -40,6 +23,23 @@
       "priceWithFee": 237.6,
       "transactedAt": "2026-07-20 20:48:35",
       "productCode": "871433010",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "铜,币,历史币,四川,川造,民国,国二,二年,年军,军政,政府,府造,造四,川铜,铜币,币壹,壹百,百文,文铜"
+    },
+    {
+      "coinName": "民国二年军政府造四川铜币壹百文铜币",
+      "normalizedBoxCode": "89793725",
+      "displayBoxCode": "89793725",
+      "gradingCompany": "PCGS",
+      "grade": "XF40",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguojindaijizhibi/10373592.shtml",
+      "officialCertUrl": "https://cn.pcgs.com/cert/89793725",
+      "price": 150,
+      "priceWithFee": 162,
+      "transactedAt": "2026-07-20 20:03:05",
+      "productCode": "871433011",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "铜,币,历史币,四川,川造,民国,国二,二年,年军,军政,政府,府造,造四,川铜,铜币,币壹,壹百,百文,文铜"

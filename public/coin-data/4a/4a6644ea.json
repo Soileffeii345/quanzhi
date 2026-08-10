@@ -2,31 +2,14 @@
   "coinName": "1997年银币",
   "slug": "4a6644ea",
   "saleCount": 2,
-  "keywords": "银,币,1997年,年中,中国,国银,银行,行港,港币,币元,年香,香港,港上,上海,海汇,汇丰,丰银,外国/特区",
+  "keywords": "银,币,1997年,年香,香港,港上,上海,海汇,汇丰,丰银,银行,行港,港币,币元,外国/特区,年中,中国,国银",
   "priceStats": {
     "low": 170,
     "high": 1460,
     "avg": 815,
-    "latest": 1460
+    "latest": 170
   },
   "records": [
-    {
-      "coinName": "1997年中国银行港币1000元",
-      "normalizedBoxCode": "1873769023",
-      "displayBoxCode": "1873769-023",
-      "gradingCompany": "NGC",
-      "grade": "待复核",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/liantichao-jinianchao/10396411.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/1873769-023/",
-      "price": 1460,
-      "priceWithFee": 1576.8,
-      "transactedAt": "2026-07-14 18:40:50",
-      "productCode": "874271004",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "银,币,1997年,年中,中国,国银,银行,行港,港币,币元"
-    },
     {
       "coinName": "1997年香港上海汇丰银行港币100元",
       "normalizedBoxCode": "2485921020",
@@ -43,6 +26,23 @@
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "银,币,1997年,年香,香港,港上,上海,海汇,汇丰,丰银,银行,行港,港币,币元,外国/特区"
+    },
+    {
+      "coinName": "1997年中国银行港币1000元",
+      "normalizedBoxCode": "1873769023",
+      "displayBoxCode": "1873769-023",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/liantichao-jinianchao/10396411.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1873769-023/",
+      "price": 1460,
+      "priceWithFee": 1576.8,
+      "transactedAt": "2026-07-14 18:40:50",
+      "productCode": "874271004",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1997年,年中,中国,国银,银行,行港,港币,币元"
     }
   ]
 }

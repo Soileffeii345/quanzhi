@@ -6,12 +6,10 @@
     "node": ">=22.13.0"
   },
   "scripts": {
-    "dev": "vinext dev",
+    "dev": "next dev",
     "build": "next build",
-    "build:cloudflare": "vinext build && node scripts/prepare-wrangler.mjs",
     "build:vercel": "next build",
-    "build:netlify": "vite build",
-    "start": "vinext start",
+    "start": "next start",
     "test": "npm run build && node --test tests/rendered-html.test.mjs && node --experimental-strip-types --test tests/search-ranking.test.ts tests/search-quality.test.ts",
     "lint": "eslint . --ignore-pattern dist --ignore-pattern .next --ignore-pattern .netlify",
     "data:audit": "node collector/audit-data.mjs",
@@ -20,31 +18,22 @@
     "data:update": "node collector/daily-lightweight.mjs",
     "data:status": "node collector/check-progress.mjs",
     "db:backup": "node scripts/database-backup.mjs pack",
-    "db:restore": "node scripts/database-backup.mjs unpack",
-    "db:generate": "drizzle-kit generate"
+    "db:restore": "node scripts/database-backup.mjs unpack"
   },
   "dependencies": {
     "cheerio": "^1.2.0",
-    "next": "16.2.6",
-    "nitro": "^3.0.260610-beta",
+    "next": "16.3.0",
     "react": "19.2.6",
     "react-dom": "19.2.6",
     "tesseract.js": "^7.0.0"
   },
   "devDependencies": {
-    "@cloudflare/vite-plugin": "1.37.1",
     "@types/node": "22.19.19",
     "@types/react": "19.2.14",
     "@types/react-dom": "19.2.3",
-    "@vitejs/plugin-react": "6.0.2",
-    "@vitejs/plugin-rsc": "0.5.26",
     "eslint": "9.39.4",
-    "eslint-config-next": "16.2.6",
-    "react-server-dom-webpack": "19.2.6",
-    "typescript": "5.9.3",
-    "vinext": "0.0.50",
-    "vite": "8.0.13",
-    "wrangler": "^4.92.0"
+    "eslint-config-next": "16.3.0",
+    "typescript": "5.9.3"
   },
   "type": "module"
 }

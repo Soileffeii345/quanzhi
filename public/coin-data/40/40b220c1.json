@@ -7,26 +7,9 @@
     "low": 4220,
     "high": 8800,
     "avg": 6510,
-    "latest": 4220
+    "latest": 8800
   },
   "records": [
-    {
-      "coinName": "2018年5克吉祥文化珠联璧合金币",
-      "normalizedBoxCode": "8188642014",
-      "displayBoxCode": "8188642-014",
-      "gradingCompany": "NGC",
-      "grade": "PF 70 ULTRA CAMEO",
-      "platform": "易金在线",
-      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/474457.html",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/8188642-014/70/",
-      "price": 4220,
-      "priceWithFee": null,
-      "transactedAt": "2025-04-22 09:31:52",
-      "productCode": "KH065084",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "金,币,2018年,5克,吉祥文化,年克,克吉,吉祥,祥文,文化,化珠,珠联,联璧,璧合,合金,金币"
-    },
     {
       "coinName": "2018年5克吉祥文化珠联璧合金币",
       "normalizedBoxCode": "8499460001",
@@ -40,6 +23,23 @@
       "priceWithFee": null,
       "transactedAt": "2026-08-08 08:41:41",
       "productCode": "KH143980",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2018年,5克,吉祥文化,年克,克吉,吉祥,祥文,文化,化珠,珠联,联璧,璧合,合金,金币"
+    },
+    {
+      "coinName": "2018年5克吉祥文化珠联璧合金币",
+      "normalizedBoxCode": "8188642014",
+      "displayBoxCode": "8188642-014",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/474457.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8188642-014/70/",
+      "price": 4220,
+      "priceWithFee": null,
+      "transactedAt": "2025-04-22 09:31:52",
+      "productCode": "KH065084",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "金,币,2018年,5克,吉祥文化,年克,克吉,吉祥,祥文,文化,化珠,珠联,联璧,璧合,合金,金币"

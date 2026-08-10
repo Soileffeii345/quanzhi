@@ -7,25 +7,25 @@
     "low": 2545,
     "high": 3570,
     "avg": 3221,
-    "latest": 3220
+    "latest": 3550
   },
   "records": [
     {
-      "coinName": "2012年1/10盎司熊猫金币",
-      "normalizedBoxCode": "25079077",
-      "displayBoxCode": "25079077",
-      "gradingCompany": "PCGS",
-      "grade": "MS70",
+      "coinName": "2012年1/10盎司熊猫金币发行30周年金币",
+      "normalizedBoxCode": "6730750006",
+      "displayBoxCode": "6730750-006",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
       "platform": "易金在线",
-      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/507730.html",
-      "officialCertUrl": "https://cn.pcgs.com/cert/25079077",
-      "price": 3220,
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/563168.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6730750-006/",
+      "price": 3550,
       "priceWithFee": null,
-      "transactedAt": "2025-12-24 09:41:33",
-      "productCode": "KH097566",
+      "transactedAt": "2026-03-16 12:25:08",
+      "productCode": "KH125096",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
-      "keywords": "金,币,2012年,10盎司,熊猫,年盎,盎司,司熊,猫金,金币"
+      "keywords": "金,币,2012年,10盎司,熊猫,年盎,盎司,司熊,猫金,金币,币发,发行,行周,周年,年金"
     },
     {
       "coinName": "2012年1/10盎司熊猫金币",
@@ -45,6 +45,23 @@
       "keywords": "金,币,2012年,10盎司,熊猫,年盎,盎司,司熊,猫金,金币"
     },
     {
+      "coinName": "2012年1/10盎司熊猫金币",
+      "normalizedBoxCode": "25079077",
+      "displayBoxCode": "25079077",
+      "gradingCompany": "PCGS",
+      "grade": "MS70",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/507730.html",
+      "officialCertUrl": "https://cn.pcgs.com/cert/25079077",
+      "price": 3220,
+      "priceWithFee": null,
+      "transactedAt": "2025-12-24 09:41:33",
+      "productCode": "KH097566",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2012年,10盎司,熊猫,年盎,盎司,司熊,猫金,金币"
+    },
+    {
       "coinName": "2012年1/10盎司熊猫金币发行30周年金币",
       "normalizedBoxCode": "5801031020",
       "displayBoxCode": "5801031-020",
@@ -57,23 +74,6 @@
       "priceWithFee": null,
       "transactedAt": "2025-09-02 10:02:00",
       "productCode": "KH080588",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "金,币,2012年,10盎司,熊猫,年盎,盎司,司熊,猫金,金币,币发,发行,行周,周年,年金"
-    },
-    {
-      "coinName": "2012年1/10盎司熊猫金币发行30周年金币",
-      "normalizedBoxCode": "6730750006",
-      "displayBoxCode": "6730750-006",
-      "gradingCompany": "NGC",
-      "grade": "待复核",
-      "platform": "易金在线",
-      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/563168.html",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/6730750-006/",
-      "price": 3550,
-      "priceWithFee": null,
-      "transactedAt": "2026-03-16 12:25:08",
-      "productCode": "KH125096",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "金,币,2012年,10盎司,熊猫,年盎,盎司,司熊,猫金,金币,币发,发行,行周,周年,年金"

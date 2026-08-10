@@ -176,7 +176,7 @@ async function main() {
         const dbTotal = database.prepare("SELECT COUNT(*) c FROM box_sales").get().c;
         console.log(`[${i + 1}/${KEYWORDS.length}] ${kw}: ${results.length} fetched, ${toInsert.length} new (total new: ${totalNew}, boxes: ${totalBoxes}, DB total: ${dbTotal})`);
       }
-    } catch (e) {
+    } catch {
       if ((i + 1) % 10 === 0) console.log(`[${i + 1}/${KEYWORDS.length}] ${kw}: ERROR (total new so far: ${totalNew})`);
     }
 

@@ -7,26 +7,9 @@
     "low": 11000,
     "high": 11600,
     "avg": 11300,
-    "latest": 11600
+    "latest": 11000
   },
   "records": [
-    {
-      "coinName": "2026年15克生肖马彩铂币",
-      "normalizedBoxCode": "5813612003",
-      "displayBoxCode": "5813612-003",
-      "gradingCompany": "NGC",
-      "grade": "PF 70 ULTRA CAMEO",
-      "platform": "易金在线",
-      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/557185.html",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/5813612-003/70/",
-      "price": 11600,
-      "priceWithFee": null,
-      "transactedAt": "2026-03-01 10:17:33",
-      "productCode": "KH121487",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "贵金属,币,2026年,15克,生肖,年克,克生,肖马,马彩,彩铂,铂币"
-    },
     {
       "coinName": "2026年15克生肖马彩铂币",
       "normalizedBoxCode": "8660707003",
@@ -40,6 +23,23 @@
       "priceWithFee": null,
       "transactedAt": "2026-03-07 09:41:48",
       "productCode": "KH122972",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "贵金属,币,2026年,15克,生肖,年克,克生,肖马,马彩,彩铂,铂币"
+    },
+    {
+      "coinName": "2026年15克生肖马彩铂币",
+      "normalizedBoxCode": "5813612003",
+      "displayBoxCode": "5813612-003",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/557185.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/5813612-003/70/",
+      "price": 11600,
+      "priceWithFee": null,
+      "transactedAt": "2026-03-01 10:17:33",
+      "productCode": "KH121487",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "贵金属,币,2026年,15克,生肖,年克,克生,肖马,马彩,彩铂,铂币"

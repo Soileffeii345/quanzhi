@@ -7,26 +7,9 @@
     "low": 1480,
     "high": 1700,
     "avg": 1607,
-    "latest": 1700
+    "latest": 1480
   },
   "records": [
-    {
-      "coinName": "1996年玉瓶观音1盎司加厚精制银币",
-      "normalizedBoxCode": "8764265013",
-      "displayBoxCode": "8764265-013",
-      "gradingCompany": "NGC",
-      "grade": "PF69 ULTRA CAMEO",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10390584.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/8764265-013/69/",
-      "price": 1700,
-      "priceWithFee": 1759.5,
-      "transactedAt": "2026-07-09 20:32:05",
-      "productCode": "873736002",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "银,币,1996年,1盎司,宗教,年玉,玉瓶,瓶观,观音,音盎,盎司,司加,加厚,厚精,精制,制银,银币,评级"
-    },
     {
       "coinName": "1996年玉瓶观音1盎司加厚精制银币",
       "normalizedBoxCode": "8764265014",
@@ -40,6 +23,23 @@
       "priceWithFee": 1531.8,
       "transactedAt": "2026-07-20 21:52:10",
       "productCode": "876880001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1996年,1盎司,宗教,年玉,玉瓶,瓶观,观音,音盎,盎司,司加,加厚,厚精,精制,制银,银币,评级"
+    },
+    {
+      "coinName": "1996年玉瓶观音1盎司加厚精制银币",
+      "normalizedBoxCode": "8764265013",
+      "displayBoxCode": "8764265-013",
+      "gradingCompany": "NGC",
+      "grade": "PF69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10390584.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8764265-013/69/",
+      "price": 1700,
+      "priceWithFee": 1759.5,
+      "transactedAt": "2026-07-09 20:32:05",
+      "productCode": "873736002",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "银,币,1996年,1盎司,宗教,年玉,玉瓶,瓶观,观音,音盎,盎司,司加,加厚,厚精,精制,制银,银币,评级"

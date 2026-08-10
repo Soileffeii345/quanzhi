@@ -2,31 +2,14 @@
   "coinName": "2013年银币",
   "slug": "7e30e18a",
   "saleCount": 5,
-  "keywords": "银,币,2013年,年香,香港,港上,上海,海汇,汇丰,丰银,银行,行港,港币,币贰,贰拾,拾元,外国/特区,币元,行有,有限,限公,公司,司港,年中,中国,国银,币伍,伍佰,佰圆",
+  "keywords": "银,币,2013年,年香,香港,港上,上海,海汇,汇丰,丰银,银行,行港,港币,币元,外国/特区,币贰,贰拾,拾元,行有,有限,限公,公司,司港,年中,中国,国银,币伍,伍佰,佰圆",
   "priceStats": {
     "low": 150,
     "high": 600,
     "avg": 338,
-    "latest": 170
+    "latest": 150
   },
   "records": [
-    {
-      "coinName": "2013年香港上海汇丰银行港币贰拾元",
-      "normalizedBoxCode": "2559394010",
-      "displayBoxCode": "2559394-010",
-      "gradingCompany": "NGC",
-      "grade": "待复核",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/liantichao-jinianchao/10409171.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/2559394-010/",
-      "price": 170,
-      "priceWithFee": 183.6,
-      "transactedAt": "2026-07-18 22:24:20",
-      "productCode": "876072007",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "银,币,2013年,年香,香港,港上,上海,海汇,汇丰,丰银,银行,行港,港币,币贰,贰拾,拾元,外国/特区"
-    },
     {
       "coinName": "2013年香港上海汇丰银行港币20元",
       "normalizedBoxCode": "2559394011",
@@ -43,6 +26,23 @@
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "银,币,2013年,年香,香港,港上,上海,海汇,汇丰,丰银,银行,行港,港币,币元,外国/特区"
+    },
+    {
+      "coinName": "2013年香港上海汇丰银行港币贰拾元",
+      "normalizedBoxCode": "2559394010",
+      "displayBoxCode": "2559394-010",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/liantichao-jinianchao/10409171.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2559394-010/",
+      "price": 170,
+      "priceWithFee": 183.6,
+      "transactedAt": "2026-07-18 22:24:20",
+      "productCode": "876072007",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2013年,年香,香港,港上,上海,海汇,汇丰,丰银,银行,行港,港币,币贰,贰拾,拾元,外国/特区"
     },
     {
       "coinName": "2013年香港上海汇丰银行 有限公司港币贰拾元",

@@ -7,9 +7,26 @@
     "low": 190,
     "high": 780,
     "avg": 480,
-    "latest": 190
+    "latest": 220
   },
   "records": [
+    {
+      "coinName": "民国三十四年中央银行壹仟圆",
+      "normalizedBoxCode": "8031737052",
+      "displayBoxCode": "8031737-052",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10380117.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8031737-052/",
+      "price": 220,
+      "priceWithFee": 244.2,
+      "transactedAt": "2026-07-23 21:34:40",
+      "productCode": "871531014",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国三,三十,十四,四年,年中,中央,央银,银行,行壹,壹仟,仟圆"
+    },
     {
       "coinName": "民国三十四年中央银行壹仟圆",
       "normalizedBoxCode": "2051318070",
@@ -23,6 +40,23 @@
       "priceWithFee": 210.9,
       "transactedAt": "2026-07-23 20:36:10",
       "productCode": "871531013",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国三,三十,十四,四年,年中,中央,央银,银行,行壹,壹仟,仟圆"
+    },
+    {
+      "coinName": "民国三十四年中央银行壹仟圆",
+      "normalizedBoxCode": "2206281016",
+      "displayBoxCode": "2206281-016",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10373127.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2206281-016/",
+      "price": 730,
+      "priceWithFee": 810.3,
+      "transactedAt": "2026-07-16 21:16:10",
+      "productCode": "870981003",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "银,历史币,民国,国三,三十,十四,四年,年中,中央,央银,银行,行壹,壹仟,仟圆"
@@ -43,40 +77,6 @@
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "银,历史币,民国,国三,三十,十四,四年,年中,中央,央银,银行,行壹,壹仟,仟圆,圆三,三枚"
-    },
-    {
-      "coinName": "民国三十四年中央银行壹仟圆",
-      "normalizedBoxCode": "2206281016",
-      "displayBoxCode": "2206281-016",
-      "gradingCompany": "NGC",
-      "grade": "待复核",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10373127.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/2206281-016/",
-      "price": 730,
-      "priceWithFee": 810.3,
-      "transactedAt": "2026-07-16 21:16:10",
-      "productCode": "870981003",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "银,历史币,民国,国三,三十,十四,四年,年中,中央,央银,银行,行壹,壹仟,仟圆"
-    },
-    {
-      "coinName": "民国三十四年中央银行壹仟圆",
-      "normalizedBoxCode": "8031737052",
-      "displayBoxCode": "8031737-052",
-      "gradingCompany": "NGC",
-      "grade": "待复核",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10380117.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/8031737-052/",
-      "price": 220,
-      "priceWithFee": 244.2,
-      "transactedAt": "2026-07-23 21:34:40",
-      "productCode": "871531014",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "银,历史币,民国,国三,三十,十四,四年,年中,中央,央银,银行,行壹,壹仟,仟圆"
     }
   ]
 }

@@ -2,14 +2,31 @@
   "coinName": "1995年22克精制银币",
   "slug": "29610a6b",
   "saleCount": 3,
-  "keywords": "银,币,1995年,22克,年中,中国,国传,传统,统文,文化,化第,第组,组六,六合,合塔,塔克,克精,精制,制银,银币,评级,组狮,狮子,子舞,舞克,组唐,唐太,太宗,宗克",
+  "keywords": "银,币,1995年,22克,年中,中国,国传,传统,统文,文化,化第,第组,组唐,唐太,太宗,宗克,克精,精制,制银,银币,评级,组六,六合,合塔,塔克,组狮,狮子,子舞,舞克",
   "priceStats": {
     "low": 590,
     "high": 930,
     "avg": 703,
-    "latest": 930
+    "latest": 590
   },
   "records": [
+    {
+      "coinName": "1995年中国传统文化第（1）组-唐太宗22克精制银币",
+      "normalizedBoxCode": "8647090047",
+      "displayBoxCode": "8647090-047",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10397406.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8647090-047/69/",
+      "price": 590,
+      "priceWithFee": 610.65,
+      "transactedAt": "2026-07-13 21:36:50",
+      "productCode": "874839005",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1995年,22克,年中,中国,国传,传统,统文,文化,化第,第组,组唐,唐太,太宗,宗克,克精,精制,制银,银币,评级"
+    },
     {
       "coinName": "1995年中国传统文化第（1）组-六合塔22克精制银币",
       "normalizedBoxCode": "6647864055",
@@ -43,23 +60,6 @@
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "银,币,1995年,22克,年中,中国,国传,传统,统文,文化,化第,第组,组狮,狮子,子舞,舞克,克精,精制,制银,银币,评级"
-    },
-    {
-      "coinName": "1995年中国传统文化第（1）组-唐太宗22克精制银币",
-      "normalizedBoxCode": "8647090047",
-      "displayBoxCode": "8647090-047",
-      "gradingCompany": "NGC",
-      "grade": "PF 69 ULTRA CAMEO",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10397406.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/8647090-047/69/",
-      "price": 590,
-      "priceWithFee": 610.65,
-      "transactedAt": "2026-07-13 21:36:50",
-      "productCode": "874839005",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "银,币,1995年,22克,年中,中国,国传,传统,统文,文化,化第,第组,组唐,唐太,太宗,宗克,克精,精制,制银,银币,评级"
     }
   ]
 }

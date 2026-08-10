@@ -2,31 +2,14 @@
   "coinName": "1986年22克精制银币",
   "slug": "662d15b5",
   "saleCount": 2,
-  "keywords": "银,币,1986年,22克,年中,中国,国杰,杰出,出历,历史,史人,人物,物第,第组,组祖,祖冲,冲之,之克,克精,精制,制银,银币,评级,组蔡,蔡伦,伦克",
+  "keywords": "银,币,1986年,22克,年中,中国,国杰,杰出,出历,历史,史人,人物,物第,第组,组蔡,蔡伦,伦克,克精,精制,制银,银币,评级,组祖,祖冲,冲之,之克",
   "priceStats": {
     "low": 510,
     "high": 630,
     "avg": 570,
-    "latest": 630
+    "latest": 510
   },
   "records": [
-    {
-      "coinName": "1986年中国杰出历史人物第（3）组-祖冲之22克精制银币",
-      "normalizedBoxCode": "6756393018",
-      "displayBoxCode": "6756393-018",
-      "gradingCompany": "NGC",
-      "grade": "PF 69 ULTRA CAMEO",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10388813.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/6756393-018/69/",
-      "price": 630,
-      "priceWithFee": 652.05,
-      "transactedAt": "2026-07-06 22:14:55",
-      "productCode": "873781003",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "银,币,1986年,22克,年中,中国,国杰,杰出,出历,历史,史人,人物,物第,第组,组祖,祖冲,冲之,之克,克精,精制,制银,银币,评级"
-    },
     {
       "coinName": "1986年中国杰出历史人物第（3）组-蔡伦22克精制银币",
       "normalizedBoxCode": "8647090091",
@@ -43,6 +26,23 @@
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "银,币,1986年,22克,年中,中国,国杰,杰出,出历,历史,史人,人物,物第,第组,组蔡,蔡伦,伦克,克精,精制,制银,银币,评级"
+    },
+    {
+      "coinName": "1986年中国杰出历史人物第（3）组-祖冲之22克精制银币",
+      "normalizedBoxCode": "6756393018",
+      "displayBoxCode": "6756393-018",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10388813.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6756393-018/69/",
+      "price": 630,
+      "priceWithFee": 652.05,
+      "transactedAt": "2026-07-06 22:14:55",
+      "productCode": "873781003",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1986年,22克,年中,中国,国杰,杰出,出历,历史,史人,人物,物第,第组,组祖,祖冲,冲之,之克,克精,精制,制银,银币,评级"
     }
   ]
 }

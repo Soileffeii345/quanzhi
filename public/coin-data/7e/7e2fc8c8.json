@@ -2,31 +2,14 @@
   "coinName": "2015年银币",
   "slug": "7e2fc8c8",
   "saleCount": 3,
-  "keywords": "银,币,2015年,年香,香港,港上,上海,海汇,汇丰,丰银,银行,行有,有限,限公,公司,司港,港币,币壹,壹佰,佰伍,伍拾,拾圆,外国/特区,钞,行成,成立,立周,周年,年纪,纪念,念钞,钞港,年中,中国,国银,行港,币贰,贰拾,圆二,二枚",
+  "keywords": "银,币,钞,2015年,年香,香港,港上,上海,海汇,汇丰,丰银,银行,行成,成立,立周,周年,年纪,纪念,念钞,钞港,港币,币壹,壹佰,佰伍,伍拾,拾圆,外国/特区,行有,有限,限公,公司,司港,年中,中国,国银,行港,币贰,贰拾,圆二,二枚",
   "priceStats": {
     "low": 150,
     "high": 900,
     "avg": 527,
-    "latest": 530
+    "latest": 900
   },
   "records": [
-    {
-      "coinName": "2015年香港上海汇丰银行有限公司港币壹佰伍拾圆",
-      "normalizedBoxCode": "2118013016",
-      "displayBoxCode": "2118013-016",
-      "gradingCompany": "NGC",
-      "grade": "待复核",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/liantichao-jinianchao/10373873.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/2118013-016/",
-      "price": 530,
-      "priceWithFee": 572.4,
-      "transactedAt": "2026-06-30 19:13:35",
-      "productCode": "871685003",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "银,币,2015年,年香,香港,港上,上海,海汇,汇丰,丰银,银行,行有,有限,限公,公司,司港,港币,币壹,壹佰,佰伍,伍拾,拾圆,外国/特区"
-    },
     {
       "coinName": "2015年香港上海汇丰银行成立150周年纪念钞港币壹佰伍拾圆",
       "normalizedBoxCode": "6020570004",
@@ -43,6 +26,23 @@
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "银,币,钞,2015年,年香,香港,港上,上海,海汇,汇丰,丰银,银行,行成,成立,立周,周年,年纪,纪念,念钞,钞港,港币,币壹,壹佰,佰伍,伍拾,拾圆,外国/特区"
+    },
+    {
+      "coinName": "2015年香港上海汇丰银行有限公司港币壹佰伍拾圆",
+      "normalizedBoxCode": "2118013016",
+      "displayBoxCode": "2118013-016",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/liantichao-jinianchao/10373873.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2118013-016/",
+      "price": 530,
+      "priceWithFee": 572.4,
+      "transactedAt": "2026-06-30 19:13:35",
+      "productCode": "871685003",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2015年,年香,香港,港上,上海,海汇,汇丰,丰银,银行,行有,有限,限公,公司,司港,港币,币壹,壹佰,佰伍,伍拾,拾圆,外国/特区"
     },
     {
       "coinName": "2015年中国银行港币贰拾圆二枚",

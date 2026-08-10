@@ -2,7 +2,7 @@
   "coinName": "2002年31.104克银币",
   "slug": "2a2a3ea6",
   "saleCount": 4,
-  "keywords": "银,币,2002年,1盎司,年朝,朝鲜,鲜奥,奥地,地利,利最,最后,后的,的先,先令,令盎,盎司,司银,银币,年盎,司乒,乒乓,乓球,球建,建队,队周,周年,年彩,彩银,司端,端午,午节,节银,利先,令退,退市,市镶,镶嵌,嵌红,红玉,玉髓,髓盎",
+  "keywords": "银,币,2002年,1盎司,年朝,朝鲜,鲜奥,奥地,地利,利最,最后,后的,的先,先令,令盎,盎司,司银,银币,利先,令退,退市,市镶,镶嵌,嵌红,红玉,玉髓,髓盎,年盎,司端,端午,午节,节银,司乒,乒乓,乓球,球建,建队,队周,周年,年彩,彩银",
   "priceStats": {
     "low": 480,
     "high": 910,
@@ -28,21 +28,21 @@
       "keywords": "银,币,2002年,1盎司,年朝,朝鲜,鲜奥,奥地,地利,利最,最后,后的,的先,先令,令盎,盎司,司银,银币"
     },
     {
-      "coinName": "2002年1盎司乒乓球建队50周年彩银币",
-      "normalizedBoxCode": "6719038032",
-      "displayBoxCode": "6719038-032",
+      "coinName": "2002年朝鲜奥地利先令退市镶嵌红玉髓1盎司银币",
+      "normalizedBoxCode": "8504392025",
+      "displayBoxCode": "8504392-025",
       "gradingCompany": "NGC",
-      "grade": "PF69",
-      "platform": "易金在线",
-      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/518393.html",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/6719038-032/",
-      "price": 750,
-      "priceWithFee": null,
-      "transactedAt": "2025-12-13 16:29:32",
-      "productCode": "KH093715",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/wgjsbizhang/10365706.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8504392-025/69/",
+      "price": 910,
+      "priceWithFee": 964.6,
+      "transactedAt": "2026-06-26 20:21:25",
+      "productCode": "870452012",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
-      "keywords": "银,币,2002年,1盎司,年盎,盎司,司乒,乒乓,乓球,球建,建队,队周,周年,年彩,彩银,银币"
+      "keywords": "银,币,2002年,1盎司,年朝,朝鲜,鲜奥,奥地,地利,利先,先令,令退,退市,市镶,镶嵌,嵌红,红玉,玉髓,髓盎,盎司,司银,银币"
     },
     {
       "coinName": "2002年1盎司端午节银币",
@@ -62,21 +62,21 @@
       "keywords": "银,币,2002年,1盎司,年盎,盎司,司端,端午,午节,节银,银币"
     },
     {
-      "coinName": "2002年朝鲜奥地利先令退市镶嵌红玉髓1盎司银币",
-      "normalizedBoxCode": "8504392025",
-      "displayBoxCode": "8504392-025",
+      "coinName": "2002年1盎司乒乓球建队50周年彩银币",
+      "normalizedBoxCode": "6719038032",
+      "displayBoxCode": "6719038-032",
       "gradingCompany": "NGC",
-      "grade": "PF 69 ULTRA CAMEO",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/wgjsbizhang/10365706.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/8504392-025/69/",
-      "price": 910,
-      "priceWithFee": 964.6,
-      "transactedAt": "2026-06-26 20:21:25",
-      "productCode": "870452012",
+      "grade": "PF69",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/518393.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6719038-032/",
+      "price": 750,
+      "priceWithFee": null,
+      "transactedAt": "2025-12-13 16:29:32",
+      "productCode": "KH093715",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
-      "keywords": "银,币,2002年,1盎司,年朝,朝鲜,鲜奥,奥地,地利,利先,先令,令退,退市,市镶,镶嵌,嵌红,红玉,玉髓,髓盎,盎司,司银,银币"
+      "keywords": "银,币,2002年,1盎司,年盎,盎司,司乒,乒乓,乓球,球建,建队,队周,周年,年彩,彩银,银币"
     }
   ]
 }

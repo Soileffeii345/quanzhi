@@ -7,26 +7,9 @@
     "low": 2300,
     "high": 8600,
     "avg": 4667,
-    "latest": 3100
+    "latest": 2300
   },
   "records": [
-    {
-      "coinName": "第一版人民币锯木与犁田10元横波纹水印",
-      "normalizedBoxCode": "1910015006",
-      "displayBoxCode": "1910015-006",
-      "gradingCompany": "NGC",
-      "grade": "待复核",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/diyibanrenminbi/10383774.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/1910015-006/",
-      "price": 3100,
-      "priceWithFee": 3410,
-      "transactedAt": "2026-07-16 20:10:42",
-      "productCode": "872631002",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "币,第一,一版,版人,人民,民币,币锯,锯木,木与,与犁,犁田,田元,元横,横波,波纹,纹水,水印"
-    },
     {
       "coinName": "第一版人民币锯木与犁田10元横波纹水印",
       "normalizedBoxCode": "1990852001",
@@ -40,6 +23,23 @@
       "priceWithFee": 2530,
       "transactedAt": "2026-07-23 21:08:10",
       "productCode": "874340004",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,第一,一版,版人,人民,民币,币锯,锯木,木与,与犁,犁田,田元,元横,横波,波纹,纹水,水印"
+    },
+    {
+      "coinName": "第一版人民币锯木与犁田10元横波纹水印",
+      "normalizedBoxCode": "1910015006",
+      "displayBoxCode": "1910015-006",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/diyibanrenminbi/10383774.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1910015-006/",
+      "price": 3100,
+      "priceWithFee": 3410,
+      "transactedAt": "2026-07-16 20:10:42",
+      "productCode": "872631002",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "币,第一,一版,版人,人民,民币,币锯,锯木,木与,与犁,犁田,田元,元横,横波,波纹,纹水,水印"

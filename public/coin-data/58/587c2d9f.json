@@ -7,9 +7,26 @@
     "low": 1200,
     "high": 1820,
     "avg": 1580,
-    "latest": 1720
+    "latest": 1200
   },
   "records": [
+    {
+      "coinName": "1985年乙丑牛年生肖15克精制银币",
+      "normalizedBoxCode": "8768111011",
+      "displayBoxCode": "8768111-011",
+      "gradingCompany": "NGC",
+      "grade": "PF 68 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10350322.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8768111-011/68/",
+      "price": 1200,
+      "priceWithFee": 1242,
+      "transactedAt": "2026-06-22 21:35:10",
+      "productCode": "869323002",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1985年,15克,生肖,年乙,乙丑,丑牛,牛年,年生,肖克,克精,精制,制银,银币,评级"
+    },
     {
       "coinName": "1985年乙丑牛年生肖15克精制银币",
       "normalizedBoxCode": "8757326004",
@@ -40,23 +57,6 @@
       "priceWithFee": 1883.7,
       "transactedAt": "2026-06-18 20:02:10",
       "productCode": "869398038",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "银,币,1985年,15克,生肖,年乙,乙丑,丑牛,牛年,年生,肖克,克精,精制,制银,银币,评级"
-    },
-    {
-      "coinName": "1985年乙丑牛年生肖15克精制银币",
-      "normalizedBoxCode": "8768111011",
-      "displayBoxCode": "8768111-011",
-      "gradingCompany": "NGC",
-      "grade": "PF 68 ULTRA CAMEO",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10350322.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/8768111-011/68/",
-      "price": 1200,
-      "priceWithFee": 1242,
-      "transactedAt": "2026-06-22 21:35:10",
-      "productCode": "869323002",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "银,币,1985年,15克,生肖,年乙,乙丑,丑牛,牛年,年生,肖克,克精,精制,制银,银币,评级"

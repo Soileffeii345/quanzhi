@@ -2,14 +2,31 @@
   "coinName": "2002年银币",
   "slug": "7e43866c",
   "saleCount": 8,
-  "keywords": "银,2002年,年香,香港,港渣,渣打,打银,银行,行贰,贰拾,拾圆,外国/特区,行壹,壹仟,仟圆,币,港上,上海,海汇,汇丰,丰银,行港,港币,币伍,伍拾,拾元,年边,边红,红楼,楼梦,梦第,第组,组熙,熙凤,凤弄,弄权,权彩,彩银,银币,币低,低年,年版,组宝,宝钗,钗扑,扑蝶,蝶彩,组惜,惜春,春作,作画,画彩",
+  "keywords": "银,币,2002年,年香,香港,港上,上海,海汇,汇丰,丰银,银行,行港,港币,币伍,伍拾,拾元,外国/特区,港渣,渣打,打银,行贰,贰拾,拾圆,行壹,壹仟,仟圆,年边,边红,红楼,楼梦,梦第,第组,组熙,熙凤,凤弄,弄权,权彩,彩银,银币,组宝,宝钗,钗扑,扑蝶,蝶彩,币低,低年,年版,组惜,惜春,春作,作画,画彩",
   "priceStats": {
     "low": 100,
     "high": 1540,
     "avg": 648,
-    "latest": 100
+    "latest": 200
   },
   "records": [
+    {
+      "coinName": "2002年香港上海汇丰银行港币伍拾元",
+      "normalizedBoxCode": "2485921014",
+      "displayBoxCode": "2485921-014",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/liantichao-jinianchao/10409176.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2485921-014/",
+      "price": 200,
+      "priceWithFee": 216,
+      "transactedAt": "2026-07-18 20:34:20",
+      "productCode": "876072012",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2002年,年香,香港,港上,上海,海汇,汇丰,丰银,银行,行港,港币,币伍,伍拾,拾元,外国/特区"
+    },
     {
       "coinName": "2002年香港渣打银行贰拾圆",
       "normalizedBoxCode": "2105821057",
@@ -45,55 +62,21 @@
       "keywords": "银,2002年,年香,香港,港渣,渣打,打银,银行,行壹,壹仟,仟圆,外国/特区"
     },
     {
-      "coinName": "2002年香港上海汇丰银行港币伍拾元",
-      "normalizedBoxCode": "2485921014",
-      "displayBoxCode": "2485921-014",
+      "coinName": "2002年8边红楼梦第2组熙凤弄权彩银币",
+      "normalizedBoxCode": "6180925045",
+      "displayBoxCode": "6180925-045",
       "gradingCompany": "NGC",
-      "grade": "待复核",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/liantichao-jinianchao/10409176.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/2485921-014/",
-      "price": 200,
-      "priceWithFee": 216,
-      "transactedAt": "2026-07-18 20:34:20",
-      "productCode": "876072012",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "银,币,2002年,年香,香港,港上,上海,海汇,汇丰,丰银,银行,行港,港币,币伍,伍拾,拾元,外国/特区"
-    },
-    {
-      "coinName": "2002年8边红楼梦第2组熙凤弄权彩银币(低年版)",
-      "normalizedBoxCode": "4419912018",
-      "displayBoxCode": "4419912-018",
-      "gradingCompany": "NGC",
-      "grade": "PF 67 ULTRA CAMEO",
+      "grade": "PF 69 ULTRA CAMEO",
       "platform": "易金在线",
-      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/562333.html",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/4419912-018/67/",
-      "price": 700,
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/563222.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6180925-045/69/",
+      "price": 860,
       "priceWithFee": null,
-      "transactedAt": "2026-03-16 13:30:50",
-      "productCode": "KH124988",
+      "transactedAt": "2026-03-17 15:29:23",
+      "productCode": "KH125112",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
-      "keywords": "银,币,2002年,年边,边红,红楼,楼梦,梦第,第组,组熙,熙凤,凤弄,弄权,权彩,彩银,银币,币低,低年,年版"
-    },
-    {
-      "coinName": "2002年8边红楼梦第2组宝钗扑蝶彩银币(低年版)",
-      "normalizedBoxCode": "4419912020",
-      "displayBoxCode": "4419912-020",
-      "gradingCompany": "NGC",
-      "grade": "待复核",
-      "platform": "易金在线",
-      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/521310.html",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/4419912-020/",
-      "price": 500,
-      "priceWithFee": null,
-      "transactedAt": "2025-12-19 07:45:20",
-      "productCode": "AA602807",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "银,币,2002年,年边,边红,红楼,楼梦,梦第,第组,组宝,宝钗,钗扑,扑蝶,蝶彩,彩银,银币,币低,低年,年版"
+      "keywords": "银,币,2002年,年边,边红,红楼,楼梦,梦第,第组,组熙,熙凤,凤弄,弄权,权彩,彩银,银币"
     },
     {
       "coinName": "2002年8边红楼梦第2组宝钗扑蝶彩银币",
@@ -113,6 +96,23 @@
       "keywords": "银,币,2002年,年边,边红,红楼,楼梦,梦第,第组,组宝,宝钗,钗扑,扑蝶,蝶彩,彩银,银币"
     },
     {
+      "coinName": "2002年8边红楼梦第2组熙凤弄权彩银币(低年版)",
+      "normalizedBoxCode": "4419912018",
+      "displayBoxCode": "4419912-018",
+      "gradingCompany": "NGC",
+      "grade": "PF 67 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/562333.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4419912-018/67/",
+      "price": 700,
+      "priceWithFee": null,
+      "transactedAt": "2026-03-16 13:30:50",
+      "productCode": "KH124988",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2002年,年边,边红,红楼,楼梦,梦第,第组,组熙,熙凤,凤弄,弄权,权彩,彩银,银币,币低,低年,年版"
+    },
+    {
       "coinName": "2002年8边红楼梦第2组惜春作画彩银币",
       "normalizedBoxCode": "4419912022",
       "displayBoxCode": "4419912-022",
@@ -130,21 +130,21 @@
       "keywords": "银,币,2002年,年边,边红,红楼,楼梦,梦第,第组,组惜,惜春,春作,作画,画彩,彩银,银币"
     },
     {
-      "coinName": "2002年8边红楼梦第2组熙凤弄权彩银币",
-      "normalizedBoxCode": "6180925045",
-      "displayBoxCode": "6180925-045",
+      "coinName": "2002年8边红楼梦第2组宝钗扑蝶彩银币(低年版)",
+      "normalizedBoxCode": "4419912020",
+      "displayBoxCode": "4419912-020",
       "gradingCompany": "NGC",
-      "grade": "PF 69 ULTRA CAMEO",
+      "grade": "待复核",
       "platform": "易金在线",
-      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/563222.html",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/6180925-045/69/",
-      "price": 860,
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/521310.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4419912-020/",
+      "price": 500,
       "priceWithFee": null,
-      "transactedAt": "2026-03-17 15:29:23",
-      "productCode": "KH125112",
+      "transactedAt": "2025-12-19 07:45:20",
+      "productCode": "AA602807",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
-      "keywords": "银,币,2002年,年边,边红,红楼,楼梦,梦第,第组,组熙,熙凤,凤弄,弄权,权彩,彩银,银币"
+      "keywords": "银,币,2002年,年边,边红,红楼,楼梦,梦第,第组,组宝,宝钗,钗扑,扑蝶,蝶彩,彩银,银币,币低,低年,年版"
     }
   ]
 }

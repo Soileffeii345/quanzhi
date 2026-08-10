@@ -7,26 +7,9 @@
     "low": 7700,
     "high": 8300,
     "avg": 8000,
-    "latest": 7700
+    "latest": 8300
   },
   "records": [
-    {
-      "coinName": "1990年龙凤2盎司精制银币",
-      "normalizedBoxCode": "6001327002",
-      "displayBoxCode": "6001327-002",
-      "gradingCompany": "NGC",
-      "grade": "PF 69 ULTRA CAMEO",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10393009.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/6001327-002/69/",
-      "price": 7700,
-      "priceWithFee": 7969.5,
-      "transactedAt": "2026-07-16 19:51:45",
-      "productCode": "874056003",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "银,币,1990年,2盎司,年龙,龙凤,凤盎,盎司,司精,精制,制银,银币,评级"
-    },
     {
       "coinName": "1990年龙凤2盎司精制银币",
       "normalizedBoxCode": "6742389001",
@@ -40,6 +23,23 @@
       "priceWithFee": 8590.5,
       "transactedAt": "2026-07-23 20:01:45",
       "productCode": "876281001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1990年,2盎司,年龙,龙凤,凤盎,盎司,司精,精制,制银,银币,评级"
+    },
+    {
+      "coinName": "1990年龙凤2盎司精制银币",
+      "normalizedBoxCode": "6001327002",
+      "displayBoxCode": "6001327-002",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10393009.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6001327-002/69/",
+      "price": 7700,
+      "priceWithFee": 7969.5,
+      "transactedAt": "2026-07-16 19:51:45",
+      "productCode": "874056003",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "银,币,1990年,2盎司,年龙,龙凤,凤盎,盎司,司精,精制,制银,银币,评级"

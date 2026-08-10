@@ -7,26 +7,9 @@
     "low": 550,
     "high": 720,
     "avg": 637,
-    "latest": 720
+    "latest": 640
   },
   "records": [
-    {
-      "coinName": "2004年熊猫1盎司普制银币",
-      "normalizedBoxCode": "8504621028",
-      "displayBoxCode": "8504621-028",
-      "gradingCompany": "NGC",
-      "grade": "MS 69",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-jiuyin/10401089.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/8504621-028/69/",
-      "price": 720,
-      "priceWithFee": 745.2,
-      "transactedAt": "2026-07-13 21:54:20",
-      "productCode": "875134013",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "银,币,2004年,1盎司,熊猫,年熊,猫盎,盎司,司普,普制,制银,银币"
-    },
     {
       "coinName": "2004年熊猫1盎司普制银币",
       "normalizedBoxCode": "8817239006",
@@ -57,6 +40,23 @@
       "priceWithFee": 569.25,
       "transactedAt": "2026-07-20 19:56:40",
       "productCode": "877004005",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2004年,1盎司,熊猫,年熊,猫盎,盎司,司普,普制,制银,银币"
+    },
+    {
+      "coinName": "2004年熊猫1盎司普制银币",
+      "normalizedBoxCode": "8504621028",
+      "displayBoxCode": "8504621-028",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-jiuyin/10401089.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8504621-028/69/",
+      "price": 720,
+      "priceWithFee": 745.2,
+      "transactedAt": "2026-07-13 21:54:20",
+      "productCode": "875134013",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "银,币,2004年,1盎司,熊猫,年熊,猫盎,盎司,司普,普制,制银,银币"

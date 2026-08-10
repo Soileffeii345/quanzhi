@@ -2,31 +2,14 @@
   "coinName": "2017年吉祥文化30克银币",
   "slug": "5c0f330d",
   "saleCount": 2,
-  "keywords": "银,币,2017年,30克,吉祥文化,年克,克吉,吉祥,祥文,文化,化五,五福,福拱,拱寿,寿银,银币,化年,年年,年有,有余,余银",
+  "keywords": "银,币,2017年,30克,吉祥文化,年克,克吉,吉祥,祥文,文化,化年,年年,年有,有余,余银,银币,化五,五福,福拱,拱寿,寿银",
   "priceStats": {
     "low": 600,
     "high": 1200,
     "avg": 900,
-    "latest": 1200
+    "latest": 600
   },
   "records": [
-    {
-      "coinName": "2017年30克吉祥文化五福拱寿银币",
-      "normalizedBoxCode": "4403399018",
-      "displayBoxCode": "4403399-018",
-      "gradingCompany": "NGC",
-      "grade": "PF 70 ULTRA CAMEO",
-      "platform": "易金在线",
-      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/479004.html",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/4403399-018/70/",
-      "price": 1200,
-      "priceWithFee": null,
-      "transactedAt": "2025-05-26 17:52:04",
-      "productCode": "AA563284",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "银,币,2017年,30克,吉祥文化,年克,克吉,吉祥,祥文,文化,化五,五福,福拱,拱寿,寿银,银币"
-    },
     {
       "coinName": "2017年30克吉祥文化年年有余银币",
       "normalizedBoxCode": "4565655025",
@@ -43,6 +26,23 @@
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "银,币,2017年,30克,吉祥文化,年克,克吉,吉祥,祥文,文化,化年,年年,年有,有余,余银,银币"
+    },
+    {
+      "coinName": "2017年30克吉祥文化五福拱寿银币",
+      "normalizedBoxCode": "4403399018",
+      "displayBoxCode": "4403399-018",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/479004.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4403399-018/70/",
+      "price": 1200,
+      "priceWithFee": null,
+      "transactedAt": "2025-05-26 17:52:04",
+      "productCode": "AA563284",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2017年,30克,吉祥文化,年克,克吉,吉祥,祥文,文化,化五,五福,福拱,拱寿,寿银,银币"
     }
   ]
 }

@@ -2,31 +2,14 @@
   "coinName": "1994年珍稀动物27克银币",
   "slug": "1d68d8a7",
   "saleCount": 3,
-  "keywords": "银,币,1994年,27克,年克,克珍,珍稀,稀动,动物,物第,第组,组野,野骆,骆驼,驼银,银币,币低,低年,年版,组银",
+  "keywords": "银,币,1994年,27克,年克,克珍,珍稀,稀动,动物,物第,第组,组银,银币,组野,野骆,骆驼,驼银,币低,低年,年版",
   "priceStats": {
     "low": 820,
     "high": 1950,
     "avg": 1573,
-    "latest": 820
+    "latest": 1950
   },
   "records": [
-    {
-      "coinName": "1994年27克珍稀动物第4组野骆驼银币(低年版)",
-      "normalizedBoxCode": "6189213008",
-      "displayBoxCode": "6189213-008",
-      "gradingCompany": "NGC",
-      "grade": "PF69 ULTRA CAMEO",
-      "platform": "易金在线",
-      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/480127.html",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/6189213-008/69/",
-      "price": 820,
-      "priceWithFee": null,
-      "transactedAt": "2025-05-28 21:28:17",
-      "productCode": "AA564298",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "银,币,1994年,27克,年克,克珍,珍稀,稀动,动物,物第,第组,组野,野骆,骆驼,驼银,银币,币低,低年,年版"
-    },
     {
       "coinName": "1994年27克珍稀动物第4组银币",
       "normalizedBoxCode": "8605505056",
@@ -60,6 +43,23 @@
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "银,币,1994年,27克,年克,克珍,珍稀,稀动,动物,物第,第组,组银,银币"
+    },
+    {
+      "coinName": "1994年27克珍稀动物第4组野骆驼银币(低年版)",
+      "normalizedBoxCode": "6189213008",
+      "displayBoxCode": "6189213-008",
+      "gradingCompany": "NGC",
+      "grade": "PF69 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/480127.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6189213-008/69/",
+      "price": 820,
+      "priceWithFee": null,
+      "transactedAt": "2025-05-28 21:28:17",
+      "productCode": "AA564298",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1994年,27克,年克,克珍,珍稀,稀动,动物,物第,第组,组野,野骆,骆驼,驼银,银币,币低,低年,年版"
     }
   ]
 }

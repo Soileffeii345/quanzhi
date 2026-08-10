@@ -7,26 +7,9 @@
     "low": 1050,
     "high": 2250,
     "avg": 1650,
-    "latest": 2250
+    "latest": 1050
   },
   "records": [
-    {
-      "coinName": "2000年1盎司京剧艺术第2组霸王别姬彩银币",
-      "normalizedBoxCode": "5815268077",
-      "displayBoxCode": "5815268-077",
-      "gradingCompany": "NGC",
-      "grade": "待复核",
-      "platform": "易金在线",
-      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/494966.html",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/5815268-077/",
-      "price": 2250,
-      "priceWithFee": null,
-      "transactedAt": "2025-08-18 11:26:08",
-      "productCode": "AA579120A",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "银,币,2000年,1盎司,戏曲,年盎,盎司,司京,京剧,剧艺,艺术,术第,第组,组霸,霸王,王别,别姬,姬彩,彩银,银币"
-    },
     {
       "coinName": "2000年1盎司京剧艺术第2组霸王别姬彩银币",
       "normalizedBoxCode": "6733642006",
@@ -40,6 +23,23 @@
       "priceWithFee": null,
       "transactedAt": "2026-03-11 18:03:10",
       "productCode": "KH123475",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2000年,1盎司,戏曲,年盎,盎司,司京,京剧,剧艺,艺术,术第,第组,组霸,霸王,王别,别姬,姬彩,彩银,银币"
+    },
+    {
+      "coinName": "2000年1盎司京剧艺术第2组霸王别姬彩银币",
+      "normalizedBoxCode": "5815268077",
+      "displayBoxCode": "5815268-077",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/494966.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/5815268-077/",
+      "price": 2250,
+      "priceWithFee": null,
+      "transactedAt": "2025-08-18 11:26:08",
+      "productCode": "AA579120A",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "银,币,2000年,1盎司,戏曲,年盎,盎司,司京,京剧,剧艺,艺术,术第,第组,组霸,霸王,王别,别姬,姬彩,彩银,银币"

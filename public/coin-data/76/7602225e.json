@@ -28,40 +28,6 @@
       "keywords": "金,币,2005年,2盎司,生肖,年盎,盎司,司梅,梅花,花形,形生,肖鸡,鸡金,金币"
     },
     {
-      "coinName": "2005年1/2盎司扇形生肖鸡金币",
-      "normalizedBoxCode": "4379018009",
-      "displayBoxCode": "4379018-009",
-      "gradingCompany": "NGC",
-      "grade": "MS 69",
-      "platform": "易金在线",
-      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/499404.html",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/4379018-009/69/",
-      "price": 13135,
-      "priceWithFee": null,
-      "transactedAt": "2025-09-09 19:38:15",
-      "productCode": "KH082927",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "金,币,2005年,2盎司,生肖,年盎,盎司,司扇,扇形,形生,肖鸡,鸡金,金币"
-    },
-    {
-      "coinName": "2005年1/2盎司扇形生肖鸡金币",
-      "normalizedBoxCode": "4379018009",
-      "displayBoxCode": "4379018-009",
-      "gradingCompany": "NGC",
-      "grade": "MS 69",
-      "platform": "易金在线",
-      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/473695.html",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/4379018-009/69/",
-      "price": 12345,
-      "priceWithFee": null,
-      "transactedAt": "2025-04-17 15:31:10",
-      "productCode": "KH064631",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "金,币,2005年,2盎司,生肖,年盎,盎司,司扇,扇形,形生,肖鸡,鸡金,金币"
-    },
-    {
       "coinName": "2005年1/2盎司梅花形生肖鸡金币",
       "normalizedBoxCode": "5794185003",
       "displayBoxCode": "5794185-003",
@@ -79,6 +45,23 @@
       "keywords": "金,币,2005年,2盎司,生肖,年盎,盎司,司梅,梅花,花形,形生,肖鸡,鸡金,金币"
     },
     {
+      "coinName": "2005年1/2盎司扇形生肖鸡金币",
+      "normalizedBoxCode": "4379018009",
+      "displayBoxCode": "4379018-009",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/499404.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4379018-009/69/",
+      "price": 13135,
+      "priceWithFee": null,
+      "transactedAt": "2025-09-09 19:38:15",
+      "productCode": "KH082927",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2005年,2盎司,生肖,年盎,盎司,司扇,扇形,形生,肖鸡,鸡金,金币"
+    },
+    {
       "coinName": "2005年1/2盎司梅花形生肖鸡金币",
       "normalizedBoxCode": "6183502028",
       "displayBoxCode": "6183502-028",
@@ -91,23 +74,6 @@
       "priceWithFee": null,
       "transactedAt": "2025-09-03 14:04:19",
       "productCode": "KH080924",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "金,币,2005年,2盎司,生肖,年盎,盎司,司梅,梅花,花形,形生,肖鸡,鸡金,金币"
-    },
-    {
-      "coinName": "2005年1/2盎司梅花形生肖鸡金币",
-      "normalizedBoxCode": "6415510001",
-      "displayBoxCode": "6415510-001",
-      "gradingCompany": "NGC",
-      "grade": "待复核",
-      "platform": "易金在线",
-      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/468150.html",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/6415510-001/",
-      "price": 11100,
-      "priceWithFee": null,
-      "transactedAt": "2025-03-14 01:07:18",
-      "productCode": "KH060838",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "金,币,2005年,2盎司,生肖,年盎,盎司,司梅,梅花,花形,形生,肖鸡,鸡金,金币"
@@ -131,6 +97,23 @@
     },
     {
       "coinName": "2005年1/2盎司扇形生肖鸡金币",
+      "normalizedBoxCode": "4379018009",
+      "displayBoxCode": "4379018-009",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/473695.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4379018-009/69/",
+      "price": 12345,
+      "priceWithFee": null,
+      "transactedAt": "2025-04-17 15:31:10",
+      "productCode": "KH064631",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2005年,2盎司,生肖,年盎,盎司,司扇,扇形,形生,肖鸡,鸡金,金币"
+    },
+    {
+      "coinName": "2005年1/2盎司扇形生肖鸡金币",
       "normalizedBoxCode": "8499689022",
       "displayBoxCode": "8499689-022",
       "gradingCompany": "NGC",
@@ -145,6 +128,23 @@
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "金,币,2005年,2盎司,生肖,年盎,盎司,司扇,扇形,形生,肖鸡,鸡金,金币"
+    },
+    {
+      "coinName": "2005年1/2盎司梅花形生肖鸡金币",
+      "normalizedBoxCode": "6415510001",
+      "displayBoxCode": "6415510-001",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/468150.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6415510-001/",
+      "price": 11100,
+      "priceWithFee": null,
+      "transactedAt": "2025-03-14 01:07:18",
+      "productCode": "KH060838",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2005年,2盎司,生肖,年盎,盎司,司梅,梅花,花形,形生,肖鸡,鸡金,金币"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "coinName": "1995年古代科技22克银币",
   "slug": "2ac60a51",
   "saleCount": 5,
-  "keywords": "银,币,1995年,22克,年克,克古,古代,代科,科技,技第,第组,组火,火药,药银,银币,组印,印刷,刷术,术银,组围,围棋,棋银",
+  "keywords": "银,币,1995年,22克,年克,克古,古代,代科,科技,技第,第组,组印,印刷,刷术,术银,银币,组火,火药,药银,组围,围棋,棋银",
   "priceStats": {
     "low": 480,
     "high": 4650,
@@ -10,23 +10,6 @@
     "latest": 1200
   },
   "records": [
-    {
-      "coinName": "1995年22克古代科技第4组火药银币(UC)",
-      "normalizedBoxCode": "3545639008",
-      "displayBoxCode": "3545639-008",
-      "gradingCompany": "NGC",
-      "grade": "PF 69 ULTRA CAMEO",
-      "platform": "易金在线",
-      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/552626.html",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/3545639-008/69/",
-      "price": 1200,
-      "priceWithFee": null,
-      "transactedAt": "2026-02-05 18:54:38",
-      "productCode": "KH117986",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "银,币,1995年,22克,年克,克古,古代,代科,科技,技第,第组,组火,火药,药银,银币"
-    },
     {
       "coinName": "1995年22克古代科技第4组印刷术银币(UC)",
       "normalizedBoxCode": "3545964206",
@@ -43,6 +26,23 @@
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "银,币,1995年,22克,年克,克古,古代,代科,科技,技第,第组,组印,印刷,刷术,术银,银币"
+    },
+    {
+      "coinName": "1995年22克古代科技第4组火药银币(UC)",
+      "normalizedBoxCode": "3545639008",
+      "displayBoxCode": "3545639-008",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/552626.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3545639-008/69/",
+      "price": 1200,
+      "priceWithFee": null,
+      "transactedAt": "2026-02-05 18:54:38",
+      "productCode": "KH117986",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1995年,22克,年克,克古,古代,代科,科技,技第,第组,组火,火药,药银,银币"
     },
     {
       "coinName": "1995年22克古代科技第4组围棋银币(UC)",
@@ -62,23 +62,6 @@
       "keywords": "银,币,1995年,22克,年克,克古,古代,代科,科技,技第,第组,组围,围棋,棋银,银币"
     },
     {
-      "coinName": "1995年22克古代科技第4组印刷术银币(UC)",
-      "normalizedBoxCode": "4415241011",
-      "displayBoxCode": "4415241-011",
-      "gradingCompany": "NGC",
-      "grade": "PF 69",
-      "platform": "易金在线",
-      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/506202.html",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/4415241-011/69/",
-      "price": 4650,
-      "priceWithFee": null,
-      "transactedAt": "2025-10-17 23:36:54",
-      "productCode": "KH087709",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "银,币,1995年,22克,年克,克古,古代,代科,科技,技第,第组,组印,印刷,刷术,术银,银币"
-    },
-    {
       "coinName": "1995年22克古代科技第4组火药银币(UC)",
       "normalizedBoxCode": "4415241026",
       "displayBoxCode": "4415241-026",
@@ -94,6 +77,23 @@
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "银,币,1995年,22克,年克,克古,古代,代科,科技,技第,第组,组火,火药,药银,银币"
+    },
+    {
+      "coinName": "1995年22克古代科技第4组印刷术银币(UC)",
+      "normalizedBoxCode": "4415241011",
+      "displayBoxCode": "4415241-011",
+      "gradingCompany": "NGC",
+      "grade": "PF 69",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/506202.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4415241-011/69/",
+      "price": 4650,
+      "priceWithFee": null,
+      "transactedAt": "2025-10-17 23:36:54",
+      "productCode": "KH087709",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1995年,22克,年克,克古,古代,代科,科技,技第,第组,组印,印刷,刷术,术银,银币"
     }
   ]
 }

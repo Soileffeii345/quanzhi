@@ -7,26 +7,9 @@
     "low": 21000,
     "high": 31000,
     "avg": 26000,
-    "latest": 21000
+    "latest": 31000
   },
   "records": [
-    {
-      "coinName": "2002年1公斤龙门石窟银币",
-      "normalizedBoxCode": "8189513002",
-      "displayBoxCode": "8189513-002",
-      "gradingCompany": "NGC",
-      "grade": "PF 69 ULTRA CAMEO",
-      "platform": "易金在线",
-      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/474119.html",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/8189513-002/69/",
-      "price": 21000,
-      "priceWithFee": null,
-      "transactedAt": "2025-04-23 21:19:42",
-      "productCode": "AA559504",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "银,币,2002年,1公斤,年公,公斤,斤龙,龙门,门石,石窟,窟银,银币"
-    },
     {
       "coinName": "2002年1公斤龙门石窟银币",
       "normalizedBoxCode": "8613961003",
@@ -40,6 +23,23 @@
       "priceWithFee": null,
       "transactedAt": "2026-01-25 12:46:32",
       "productCode": "KH105939",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2002年,1公斤,年公,公斤,斤龙,龙门,门石,石窟,窟银,银币"
+    },
+    {
+      "coinName": "2002年1公斤龙门石窟银币",
+      "normalizedBoxCode": "8189513002",
+      "displayBoxCode": "8189513-002",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/474119.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8189513-002/69/",
+      "price": 21000,
+      "priceWithFee": null,
+      "transactedAt": "2025-04-23 21:19:42",
+      "productCode": "AA559504",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "银,币,2002年,1公斤,年公,公斤,斤龙,龙门,门石,石窟,窟银,银币"

@@ -2,31 +2,14 @@
   "coinName": "2018年吉祥文化5克精制金币",
   "slug": "2a0ff435",
   "saleCount": 3,
-  "keywords": "金,币,2018年,5克,吉祥文化,年吉,吉祥,祥文,文化,化珠,珠联,联璧,璧合,合克,克精,精制,制金,金币,评级,化榴,榴开,开百,百子,子克,化寿,寿居,居耄,耄耋,耋克",
+  "keywords": "金,币,2018年,5克,吉祥文化,年吉,吉祥,祥文,文化,化榴,榴开,开百,百子,子克,克精,精制,制金,金币,评级,化寿,寿居,居耄,耄耋,耋克,化珠,珠联,联璧,璧合,合克",
   "priceStats": {
     "low": 4750,
     "high": 5000,
     "avg": 4883,
-    "latest": 5000
+    "latest": 4900
   },
   "records": [
-    {
-      "coinName": "2018年吉祥文化-珠联璧合5克精制金币",
-      "normalizedBoxCode": "8581409064",
-      "displayBoxCode": "8581409-064",
-      "gradingCompany": "NGC",
-      "grade": "PF 69 ULTRA CAMEO",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10360153.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/8581409-064/69/",
-      "price": 5000,
-      "priceWithFee": 5175,
-      "transactedAt": "2026-06-25 20:29:05",
-      "productCode": "870451006",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "金,币,2018年,5克,吉祥文化,年吉,吉祥,祥文,文化,化珠,珠联,联璧,璧合,合克,克精,精制,制金,金币,评级"
-    },
     {
       "coinName": "2018年吉祥文化-榴开百子5克精制金币",
       "normalizedBoxCode": "8581409066",
@@ -60,6 +43,23 @@
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "金,币,2018年,5克,吉祥文化,年吉,吉祥,祥文,文化,化寿,寿居,居耄,耄耋,耋克,克精,精制,制金,金币,评级"
+    },
+    {
+      "coinName": "2018年吉祥文化-珠联璧合5克精制金币",
+      "normalizedBoxCode": "8581409064",
+      "displayBoxCode": "8581409-064",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10360153.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8581409-064/69/",
+      "price": 5000,
+      "priceWithFee": 5175,
+      "transactedAt": "2026-06-25 20:29:05",
+      "productCode": "870451006",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2018年,5克,吉祥文化,年吉,吉祥,祥文,文化,化珠,珠联,联璧,璧合,合克,克精,精制,制金,金币,评级"
     }
   ]
 }

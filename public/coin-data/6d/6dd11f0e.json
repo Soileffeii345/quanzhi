@@ -7,26 +7,9 @@
     "low": 2050,
     "high": 6800,
     "avg": 4425,
-    "latest": 6800
+    "latest": 2050
   },
   "records": [
-    {
-      "coinName": "1989年1盎司熊猫银币(P版)",
-      "normalizedBoxCode": "2080269002",
-      "displayBoxCode": "2080269-002",
-      "gradingCompany": "NGC",
-      "grade": "待复核",
-      "platform": "易金在线",
-      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/433048.html",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/2080269-002/",
-      "price": 6800,
-      "priceWithFee": null,
-      "transactedAt": "2024-05-22 22:42:04",
-      "productCode": "AA481504",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "银,币,1989年,1盎司,熊猫,年盎,盎司,司熊,猫银,银币,币版"
-    },
     {
       "coinName": "1989年1盎司熊猫银币(P版)",
       "normalizedBoxCode": "4210400013",
@@ -40,6 +23,23 @@
       "priceWithFee": null,
       "transactedAt": "2026-01-29 17:17:56",
       "productCode": "KH116292",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1989年,1盎司,熊猫,年盎,盎司,司熊,猫银,银币,币版"
+    },
+    {
+      "coinName": "1989年1盎司熊猫银币(P版)",
+      "normalizedBoxCode": "2080269002",
+      "displayBoxCode": "2080269-002",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/433048.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2080269-002/",
+      "price": 6800,
+      "priceWithFee": null,
+      "transactedAt": "2024-05-22 22:42:04",
+      "productCode": "AA481504",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "银,币,1989年,1盎司,熊猫,年盎,盎司,司熊,猫银,银币,币版"

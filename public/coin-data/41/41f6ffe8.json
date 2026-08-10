@@ -7,26 +7,9 @@
     "low": 18000,
     "high": 18200,
     "avg": 18100,
-    "latest": 18000
+    "latest": 18200
   },
   "records": [
-    {
-      "coinName": "1996年丙子鼠年生肖1/2盎司梅花形精制金币",
-      "normalizedBoxCode": "8648828060",
-      "displayBoxCode": "8648828-060",
-      "gradingCompany": "NGC",
-      "grade": "PF 69 ULTRA CAMEO",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-jin/10373904.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/8648828-060/69/",
-      "price": 18000,
-      "priceWithFee": 18630,
-      "transactedAt": "2026-07-02 21:07:30",
-      "productCode": "871825004",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "金,币,1996年,2盎司,生肖,年丙,丙子,子鼠,鼠年,年生,肖盎,盎司,司梅,梅花,花形,形精,精制,制金,金币,评级"
-    },
     {
       "coinName": "1996年丙子鼠年生肖1/2盎司梅花形精制金币",
       "normalizedBoxCode": "8648828064",
@@ -40,6 +23,23 @@
       "priceWithFee": 18837,
       "transactedAt": "2026-07-02 21:12:50",
       "productCode": "872113003",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1996年,2盎司,生肖,年丙,丙子,子鼠,鼠年,年生,肖盎,盎司,司梅,梅花,花形,形精,精制,制金,金币,评级"
+    },
+    {
+      "coinName": "1996年丙子鼠年生肖1/2盎司梅花形精制金币",
+      "normalizedBoxCode": "8648828060",
+      "displayBoxCode": "8648828-060",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-jin/10373904.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8648828-060/69/",
+      "price": 18000,
+      "priceWithFee": 18630,
+      "transactedAt": "2026-07-02 21:07:30",
+      "productCode": "871825004",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "金,币,1996年,2盎司,生肖,年丙,丙子,子鼠,鼠年,年生,肖盎,盎司,司梅,梅花,花形,形精,精制,制金,金币,评级"

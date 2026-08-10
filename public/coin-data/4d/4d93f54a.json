@@ -7,26 +7,9 @@
     "low": 3540,
     "high": 4500,
     "avg": 3870,
-    "latest": 3570
+    "latest": 4500
   },
   "records": [
-    {
-      "coinName": "2012年5盎司青铜器第1组银币",
-      "normalizedBoxCode": "4403595003",
-      "displayBoxCode": "4403595-003",
-      "gradingCompany": "NGC",
-      "grade": "PF 69 ULTRA CAMEO",
-      "platform": "易金在线",
-      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/534251.html",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/4403595-003/69/",
-      "price": 3570,
-      "priceWithFee": null,
-      "transactedAt": "2026-01-19 09:55:06",
-      "productCode": "KH108754",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "银,铜,币,2012年,5盎司,年盎,盎司,司青,青铜,铜器,器第,第组,组银,银币"
-    },
     {
       "coinName": "2012年5盎司青铜器第1组银币",
       "normalizedBoxCode": "4533605012",
@@ -40,6 +23,23 @@
       "priceWithFee": null,
       "transactedAt": "2026-01-26 16:35:14",
       "productCode": "DB202279A",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,铜,币,2012年,5盎司,年盎,盎司,司青,青铜,铜器,器第,第组,组银,银币"
+    },
+    {
+      "coinName": "2012年5盎司青铜器第1组银币",
+      "normalizedBoxCode": "4403595003",
+      "displayBoxCode": "4403595-003",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/534251.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4403595-003/69/",
+      "price": 3570,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-19 09:55:06",
+      "productCode": "KH108754",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "银,铜,币,2012年,5盎司,年盎,盎司,司青,青铜,铜器,器第,第组,组银,银币"

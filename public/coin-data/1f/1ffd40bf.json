@@ -7,26 +7,9 @@
     "low": 1760,
     "high": 2150,
     "avg": 1955,
-    "latest": 1760
+    "latest": 2150
   },
   "records": [
-    {
-      "coinName": "1988年第15届冬季奥运会-男子滑降27克精制银币（错将15届写成16届）",
-      "normalizedBoxCode": "4419150001",
-      "displayBoxCode": "4419150-001",
-      "gradingCompany": "NGC",
-      "grade": "PF 69 CAMEO",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10362683.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/4419150-001/69/",
-      "price": 1760,
-      "priceWithFee": 1821.6,
-      "transactedAt": "2026-06-25 19:50:05",
-      "productCode": "870828001",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "银,币,1988年,27克,奥运,年第,第届,届冬,冬季,季奥,运会,会男,男子,子滑,滑降,降克,克精,精制,制银,银币,币错,错将,将届,届写,写成,成届,评级"
-    },
     {
       "coinName": "1988年第15届冬季奥运会-男子滑降27克精制银币（错将15届写成16届）",
       "normalizedBoxCode": "6656691008",
@@ -40,6 +23,23 @@
       "priceWithFee": 2225.25,
       "transactedAt": "2026-07-09 20:49:25",
       "productCode": "872427006",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1988年,27克,奥运,年第,第届,届冬,冬季,季奥,运会,会男,男子,子滑,滑降,降克,克精,精制,制银,银币,币错,错将,将届,届写,写成,成届,评级"
+    },
+    {
+      "coinName": "1988年第15届冬季奥运会-男子滑降27克精制银币（错将15届写成16届）",
+      "normalizedBoxCode": "4419150001",
+      "displayBoxCode": "4419150-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10362683.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4419150-001/69/",
+      "price": 1760,
+      "priceWithFee": 1821.6,
+      "transactedAt": "2026-06-25 19:50:05",
+      "productCode": "870828001",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "银,币,1988年,27克,奥运,年第,第届,届冬,冬季,季奥,运会,会男,男子,子滑,滑降,降克,克精,精制,制银,银币,币错,错将,将届,届写,写成,成届,评级"

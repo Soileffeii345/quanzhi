@@ -2,14 +2,31 @@
   "coinName": "2019年吉祥文化30克银币",
   "slug": "5155c88b",
   "saleCount": 3,
-  "keywords": "银,币,2019年,30克,吉祥文化,年克,克吉,吉祥,祥文,文化,化珠,珠联,联璧,璧合,合银,银币,化喜,喜上,上眉,眉梢,梢银",
+  "keywords": "银,币,2019年,30克,吉祥文化,年克,克吉,吉祥,祥文,文化,化喜,喜上,上眉,眉梢,梢银,银币,化珠,珠联,联璧,璧合,合银",
   "priceStats": {
     "low": 1050,
     "high": 3800,
     "avg": 2217,
-    "latest": 1050
+    "latest": 1800
   },
   "records": [
+    {
+      "coinName": "2019年30克吉祥文化喜上眉梢银币",
+      "normalizedBoxCode": "4905513076",
+      "displayBoxCode": "4905513-076",
+      "gradingCompany": "NGC",
+      "grade": "PF 70",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/574442.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4905513-076/70/",
+      "price": 1800,
+      "priceWithFee": null,
+      "transactedAt": "2026-04-21 13:09:16",
+      "productCode": "KH131116",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2019年,30克,吉祥文化,年克,克吉,吉祥,祥文,文化,化喜,喜上,上眉,眉梢,梢银,银币"
+    },
     {
       "coinName": "2019年30克吉祥文化珠联璧合银币",
       "normalizedBoxCode": "0743755002",
@@ -43,23 +60,6 @@
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "银,币,2019年,30克,吉祥文化,年克,克吉,吉祥,祥文,文化,化珠,珠联,联璧,璧合,合银,银币"
-    },
-    {
-      "coinName": "2019年30克吉祥文化喜上眉梢银币",
-      "normalizedBoxCode": "4905513076",
-      "displayBoxCode": "4905513-076",
-      "gradingCompany": "NGC",
-      "grade": "PF 70",
-      "platform": "易金在线",
-      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/574442.html",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/4905513-076/70/",
-      "price": 1800,
-      "priceWithFee": null,
-      "transactedAt": "2026-04-21 13:09:16",
-      "productCode": "KH131116",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "银,币,2019年,30克,吉祥文化,年克,克吉,吉祥,祥文,文化,化喜,喜上,上眉,眉梢,梢银,银币"
     }
   ]
 }

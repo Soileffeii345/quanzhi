@@ -7,9 +7,26 @@
     "low": 750,
     "high": 1120,
     "avg": 919,
-    "latest": 1080
+    "latest": 920
   },
   "records": [
+    {
+      "coinName": "1994年熊猫1盎司普制银币（大字版）",
+      "normalizedBoxCode": "8610578001",
+      "displayBoxCode": "8610578-001",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-jiuyin/10424120.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8610578-001/",
+      "price": 920,
+      "priceWithFee": 952.2,
+      "transactedAt": "2026-07-27 21:48:10",
+      "productCode": "877773021",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1994年,1盎司,熊猫,年熊,猫盎,盎司,司普,普制,制银,银币,币大,大字,字版"
+    },
     {
       "coinName": "1994年熊猫1盎司普制银币（大字版）",
       "normalizedBoxCode": "6180495005",
@@ -26,23 +43,6 @@
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "银,币,1994年,1盎司,熊猫,年熊,猫盎,盎司,司普,普制,制银,银币,币大,大字,字版"
-    },
-    {
-      "coinName": "1994年熊猫1盎司普制银币（小字版）",
-      "normalizedBoxCode": "8505701084",
-      "displayBoxCode": "8505701-084",
-      "gradingCompany": "NGC",
-      "grade": "MS 67",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-jiuyin/10361098.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/8505701-084/67/",
-      "price": 750,
-      "priceWithFee": 776.25,
-      "transactedAt": "2026-06-29 20:41:00",
-      "productCode": "870270004",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "银,币,1994年,1盎司,熊猫,年熊,猫盎,盎司,司普,普制,制银,银币,币小,小字,字版"
     },
     {
       "coinName": "1994年熊猫1盎司普制银币（小字版）",
@@ -63,20 +63,37 @@
     },
     {
       "coinName": "1994年熊猫1盎司普制银币（大字版）",
-      "normalizedBoxCode": "8610578001",
-      "displayBoxCode": "8610578-001",
+      "normalizedBoxCode": "8760729001",
+      "displayBoxCode": "8760729-001",
       "gradingCompany": "NGC",
       "grade": "待复核",
       "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-jiuyin/10424120.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/8610578-001/",
-      "price": 920,
-      "priceWithFee": 952.2,
-      "transactedAt": "2026-07-27 21:48:10",
-      "productCode": "877773021",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-jiuyin/10368349.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8760729-001/",
+      "price": 1120,
+      "priceWithFee": 1159.2,
+      "transactedAt": "2026-06-29 20:48:55",
+      "productCode": "870958002",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "银,币,1994年,1盎司,熊猫,年熊,猫盎,盎司,司普,普制,制银,银币,币大,大字,字版"
+    },
+    {
+      "coinName": "1994年熊猫1盎司普制银币（小字版）",
+      "normalizedBoxCode": "8505701084",
+      "displayBoxCode": "8505701-084",
+      "gradingCompany": "NGC",
+      "grade": "MS 67",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-jiuyin/10361098.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8505701-084/67/",
+      "price": 750,
+      "priceWithFee": 776.25,
+      "transactedAt": "2026-06-29 20:41:00",
+      "productCode": "870270004",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1994年,1盎司,熊猫,年熊,猫盎,盎司,司普,普制,制银,银币,币小,小字,字版"
     },
     {
       "coinName": "1994年熊猫1盎司普制银币（大字版）",
@@ -111,23 +128,6 @@
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "银,币,1994年,1盎司,熊猫,年熊,猫盎,盎司,司普,普制,制银,银币,币小,小字,字版"
-    },
-    {
-      "coinName": "1994年熊猫1盎司普制银币（大字版）",
-      "normalizedBoxCode": "8760729001",
-      "displayBoxCode": "8760729-001",
-      "gradingCompany": "NGC",
-      "grade": "待复核",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-jiuyin/10368349.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/8760729-001/",
-      "price": 1120,
-      "priceWithFee": 1159.2,
-      "transactedAt": "2026-06-29 20:48:55",
-      "productCode": "870958002",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "银,币,1994年,1盎司,熊猫,年熊,猫盎,盎司,司普,普制,制银,银币,币大,大字,字版"
     }
   ]
 }

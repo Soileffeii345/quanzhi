@@ -2,48 +2,14 @@
   "coinName": "1933年16.66克银币",
   "slug": "43dc8f8c",
   "saleCount": 4,
-  "keywords": "银,币,1933年,16.66克,年墨,墨西,西哥,哥克,克银,银币,外国/特区,鹰洋,哥鹰,洋克",
+  "keywords": "银,币,1933年,16.66克,鹰洋,年墨,墨西,西哥,哥鹰,洋克,克银,银币,外国/特区,哥克",
   "priceStats": {
     "low": 370,
     "high": 510,
     "avg": 438,
-    "latest": 490
+    "latest": 370
   },
   "records": [
-    {
-      "coinName": "1933年墨西哥16.66克银币",
-      "normalizedBoxCode": "8604633027",
-      "displayBoxCode": "8604633-027",
-      "gradingCompany": "NGC",
-      "grade": "待复核",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/wgjsbizhang/10358562.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/8604633-027/",
-      "price": 490,
-      "priceWithFee": 519.4,
-      "transactedAt": "2026-06-26 19:23:25",
-      "productCode": "869944004",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "银,币,1933年,16.66克,年墨,墨西,西哥,哥克,克银,银币,外国/特区"
-    },
-    {
-      "coinName": "1933年墨西哥16.66克银币",
-      "normalizedBoxCode": "8604633034",
-      "displayBoxCode": "8604633-034",
-      "gradingCompany": "NGC",
-      "grade": "MS66",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/wgjsbizhang/10358563.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/8604633-034/66/",
-      "price": 380,
-      "priceWithFee": 402.8,
-      "transactedAt": "2026-06-26 20:46:25",
-      "productCode": "869944005",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "银,币,1933年,16.66克,年墨,墨西,西哥,哥克,克银,银币,外国/特区"
-    },
     {
       "coinName": "1933年墨西哥鹰洋16.66克银币",
       "normalizedBoxCode": "8604633035",
@@ -77,6 +43,40 @@
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "银,币,1933年,16.66克,鹰洋,年墨,墨西,西哥,哥鹰,洋克,克银,银币,外国/特区"
+    },
+    {
+      "coinName": "1933年墨西哥16.66克银币",
+      "normalizedBoxCode": "8604633034",
+      "displayBoxCode": "8604633-034",
+      "gradingCompany": "NGC",
+      "grade": "MS66",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/wgjsbizhang/10358563.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8604633-034/66/",
+      "price": 380,
+      "priceWithFee": 402.8,
+      "transactedAt": "2026-06-26 20:46:25",
+      "productCode": "869944005",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1933年,16.66克,年墨,墨西,西哥,哥克,克银,银币,外国/特区"
+    },
+    {
+      "coinName": "1933年墨西哥16.66克银币",
+      "normalizedBoxCode": "8604633027",
+      "displayBoxCode": "8604633-027",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/wgjsbizhang/10358562.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8604633-027/",
+      "price": 490,
+      "priceWithFee": 519.4,
+      "transactedAt": "2026-06-26 19:23:25",
+      "productCode": "869944004",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1933年,16.66克,年墨,墨西,西哥,哥克,克银,银币,外国/特区"
     }
   ]
 }

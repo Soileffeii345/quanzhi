@@ -2,31 +2,14 @@
   "coinName": "2017年150克银币",
   "slug": "02bcb53b",
   "saleCount": 6,
-  "keywords": "银,币,2017年,150克,年克,克建,建军,军周,周年,年银,银币,克世,世界,界遗,遗产,产曲,曲阜,阜三,三孔,孔银",
+  "keywords": "银,币,2017年,150克,年克,克世,世界,界遗,遗产,产曲,曲阜,阜三,三孔,孔银,银币,克建,建军,军周,周年,年银",
   "priceStats": {
     "low": 1300,
     "high": 4500,
     "avg": 2883,
-    "latest": 2500
+    "latest": 4500
   },
   "records": [
-    {
-      "coinName": "2017年150克建军90周年银币",
-      "normalizedBoxCode": "0020200200",
-      "displayBoxCode": "0020200-200",
-      "gradingCompany": "NGC",
-      "grade": "待复核",
-      "platform": "易金在线",
-      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/449776.html",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/0020200-200/",
-      "price": 2500,
-      "priceWithFee": null,
-      "transactedAt": "2024-10-13 10:02:44",
-      "productCode": "KH057105",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "银,币,2017年,150克,年克,克建,建军,军周,周年,年银,银币"
-    },
     {
       "coinName": "2017年150克世界遗产曲阜“三孔”银币",
       "normalizedBoxCode": "4796702018",
@@ -40,6 +23,23 @@
       "priceWithFee": null,
       "transactedAt": "2026-02-04 21:52:22",
       "productCode": "DB202556",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2017年,150克,年克,克世,世界,界遗,遗产,产曲,曲阜,阜三,三孔,孔银,银币"
+    },
+    {
+      "coinName": "2017年150克世界遗产曲阜“三孔”银币",
+      "normalizedBoxCode": "5754338026",
+      "displayBoxCode": "5754338-026",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/525642.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/5754338-026/69/",
+      "price": 3850,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-13 23:12:41",
+      "productCode": "KH102146",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "银,币,2017年,150克,年克,克世,世界,界遗,遗产,产曲,曲阜,阜三,三孔,孔银,银币"
@@ -63,20 +63,37 @@
     },
     {
       "coinName": "2017年150克世界遗产曲阜“三孔”银币",
-      "normalizedBoxCode": "5754338026",
-      "displayBoxCode": "5754338-026",
+      "normalizedBoxCode": "8205516005",
+      "displayBoxCode": "8205516-005",
       "gradingCompany": "NGC",
-      "grade": "PF 69 ULTRA CAMEO",
+      "grade": "PF 67 ULTRA CAMEO",
       "platform": "易金在线",
-      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/525642.html",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/5754338-026/69/",
-      "price": 3850,
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/466175.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8205516-005/67/",
+      "price": 1300,
       "priceWithFee": null,
-      "transactedAt": "2026-01-13 23:12:41",
-      "productCode": "KH102146",
+      "transactedAt": "2025-02-27 11:59:53",
+      "productCode": "AA552659",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "银,币,2017年,150克,年克,克世,世界,界遗,遗产,产曲,曲阜,阜三,三孔,孔银,银币"
+    },
+    {
+      "coinName": "2017年150克建军90周年银币",
+      "normalizedBoxCode": "0020200200",
+      "displayBoxCode": "0020200-200",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/449776.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/0020200-200/",
+      "price": 2500,
+      "priceWithFee": null,
+      "transactedAt": "2024-10-13 10:02:44",
+      "productCode": "KH057105",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2017年,150克,年克,克建,建军,军周,周年,年银,银币"
     },
     {
       "coinName": "2017年150克建军90周年银币",
@@ -94,23 +111,6 @@
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "银,币,2017年,150克,年克,克建,建军,军周,周年,年银,银币"
-    },
-    {
-      "coinName": "2017年150克世界遗产曲阜“三孔”银币",
-      "normalizedBoxCode": "8205516005",
-      "displayBoxCode": "8205516-005",
-      "gradingCompany": "NGC",
-      "grade": "PF 67 ULTRA CAMEO",
-      "platform": "易金在线",
-      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/466175.html",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/8205516-005/67/",
-      "price": 1300,
-      "priceWithFee": null,
-      "transactedAt": "2025-02-27 11:59:53",
-      "productCode": "AA552659",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "银,币,2017年,150克,年克,克世,世界,界遗,遗产,产曲,曲阜,阜三,三孔,孔银,银币"
     }
   ]
 }

@@ -7,26 +7,9 @@
     "low": 320,
     "high": 480,
     "avg": 400,
-    "latest": 320
+    "latest": 480
   },
   "records": [
-    {
-      "coinName": "机制光绪通宝",
-      "normalizedBoxCode": "87354769",
-      "displayBoxCode": "87354769",
-      "gradingCompany": "PCGS",
-      "grade": "待复核",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/zhongguojindaijizhibi/10364062.shtml",
-      "officialCertUrl": "https://cn.pcgs.com/cert/87354769",
-      "price": 320,
-      "priceWithFee": 345.6,
-      "transactedAt": "2026-07-13 20:33:45",
-      "productCode": "869579006",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "历史币,机制,制光,光绪,绪通,通宝"
-    },
     {
       "coinName": "机制光绪通宝（宝福）",
       "normalizedBoxCode": "89522635",
@@ -43,6 +26,23 @@
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "历史币,机制,制光,光绪,绪通,通宝,宝宝,宝福"
+    },
+    {
+      "coinName": "机制光绪通宝",
+      "normalizedBoxCode": "87354769",
+      "displayBoxCode": "87354769",
+      "gradingCompany": "PCGS",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguojindaijizhibi/10364062.shtml",
+      "officialCertUrl": "https://cn.pcgs.com/cert/87354769",
+      "price": 320,
+      "priceWithFee": 345.6,
+      "transactedAt": "2026-07-13 20:33:45",
+      "productCode": "869579006",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "历史币,机制,制光,光绪,绪通,通宝"
     }
   ]
 }

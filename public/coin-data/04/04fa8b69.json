@@ -2,30 +2,30 @@
   "coinName": "1995年31.104克精制金币",
   "slug": "04fa8b69",
   "saleCount": 3,
-  "keywords": "金,币,1995年,1盎司,年抗,抗日,日战,战争,争胜,胜利,利周,周年,年卢,卢沟,沟桥,桥盎,盎司,司精,精制,制金,金币,评级,年中,中国,国古,古典,典文,文学,学名,名著,著三,三国,国演,演义,义第,第组,组刘,刘备,备盎,组诸,诸葛,葛亮,亮盎",
+  "keywords": "金,币,1995年,1盎司,年中,中国,国古,古典,典文,文学,学名,名著,著三,三国,国演,演义,义第,第组,组诸,诸葛,葛亮,亮盎,盎司,司精,精制,制金,金币,评级,组刘,刘备,备盎,年抗,抗日,日战,战争,争胜,胜利,利周,周年,年卢,卢沟,沟桥,桥盎",
   "priceStats": {
     "low": 46000,
     "high": 114000,
     "avg": 87000,
-    "latest": 46000
+    "latest": 101000
   },
   "records": [
     {
-      "coinName": "1995年抗日战争胜利50周年-卢沟桥1盎司精制金币",
-      "normalizedBoxCode": "8197092011",
-      "displayBoxCode": "8197092-011",
+      "coinName": "1995年中国古典文学名著《三国演义》第（1）组-诸葛亮1盎司精制金币",
+      "normalizedBoxCode": "8752629004",
+      "displayBoxCode": "8752629-004",
       "gradingCompany": "NGC",
-      "grade": "PF69 ULTRA CAMEO",
+      "grade": "PF 69",
       "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10359991.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/8197092-011/69/",
-      "price": 46000,
-      "priceWithFee": 47610,
-      "transactedAt": "2026-06-25 21:18:05",
-      "productCode": "869602003",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10379356.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8752629-004/69/",
+      "price": 101000,
+      "priceWithFee": 104535,
+      "transactedAt": "2026-07-02 20:53:30",
+      "productCode": "872407008",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
-      "keywords": "金,币,1995年,1盎司,年抗,抗日,日战,战争,争胜,胜利,利周,周年,年卢,卢沟,沟桥,桥盎,盎司,司精,精制,制金,金币,评级"
+      "keywords": "金,币,1995年,1盎司,年中,中国,国古,古典,典文,文学,学名,名著,著三,三国,国演,演义,义第,第组,组诸,诸葛,葛亮,亮盎,盎司,司精,精制,制金,金币,评级"
     },
     {
       "coinName": "1995年中国古典文学名著《三国演义》第（1）组-刘备1盎司精制金币",
@@ -45,21 +45,21 @@
       "keywords": "金,币,1995年,1盎司,年中,中国,国古,古典,典文,文学,学名,名著,著三,三国,国演,演义,义第,第组,组刘,刘备,备盎,盎司,司精,精制,制金,金币,评级"
     },
     {
-      "coinName": "1995年中国古典文学名著《三国演义》第（1）组-诸葛亮1盎司精制金币",
-      "normalizedBoxCode": "8752629004",
-      "displayBoxCode": "8752629-004",
+      "coinName": "1995年抗日战争胜利50周年-卢沟桥1盎司精制金币",
+      "normalizedBoxCode": "8197092011",
+      "displayBoxCode": "8197092-011",
       "gradingCompany": "NGC",
-      "grade": "PF 69",
+      "grade": "PF69 ULTRA CAMEO",
       "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10379356.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/8752629-004/69/",
-      "price": 101000,
-      "priceWithFee": 104535,
-      "transactedAt": "2026-07-02 20:53:30",
-      "productCode": "872407008",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10359991.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8197092-011/69/",
+      "price": 46000,
+      "priceWithFee": 47610,
+      "transactedAt": "2026-06-25 21:18:05",
+      "productCode": "869602003",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
-      "keywords": "金,币,1995年,1盎司,年中,中国,国古,古典,典文,文学,学名,名著,著三,三国,国演,演义,义第,第组,组诸,诸葛,葛亮,亮盎,盎司,司精,精制,制金,金币,评级"
+      "keywords": "金,币,1995年,1盎司,年抗,抗日,日战,战争,争胜,胜利,利周,周年,年卢,卢沟,沟桥,桥盎,盎司,司精,精制,制金,金币,评级"
     }
   ]
 }

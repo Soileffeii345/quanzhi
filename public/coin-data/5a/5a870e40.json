@@ -7,26 +7,9 @@
     "low": 29000,
     "high": 31500,
     "avg": 30333,
-    "latest": 31500
+    "latest": 29000
   },
   "records": [
-    {
-      "coinName": "2025年吉祥文化-瑞气盈门20克精制金币",
-      "normalizedBoxCode": "8499333024",
-      "displayBoxCode": "8499333-024",
-      "gradingCompany": "NGC",
-      "grade": "PF 70 ULTRA CAMEO",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10357710.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/8499333-024/70/",
-      "price": 31500,
-      "priceWithFee": 32602.5,
-      "transactedAt": "2026-06-20 21:30:35",
-      "productCode": "869815001",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "金,币,2025年,20克,吉祥文化,年吉,吉祥,祥文,文化,化瑞,瑞气,气盈,盈门,门克,克精,精制,制金,金币,评级"
-    },
     {
       "coinName": "2025年吉祥文化-瑞气盈门20克精制金币",
       "normalizedBoxCode": "8499333027",
@@ -57,6 +40,23 @@
       "priceWithFee": 31567.5,
       "transactedAt": "2026-06-29 21:52:15",
       "productCode": "871749008",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2025年,20克,吉祥文化,年吉,吉祥,祥文,文化,化瑞,瑞气,气盈,盈门,门克,克精,精制,制金,金币,评级"
+    },
+    {
+      "coinName": "2025年吉祥文化-瑞气盈门20克精制金币",
+      "normalizedBoxCode": "8499333024",
+      "displayBoxCode": "8499333-024",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10357710.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8499333-024/70/",
+      "price": 31500,
+      "priceWithFee": 32602.5,
+      "transactedAt": "2026-06-20 21:30:35",
+      "productCode": "869815001",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "金,币,2025年,20克,吉祥文化,年吉,吉祥,祥文,文化,化瑞,瑞气,气盈,盈门,门克,克精,精制,制金,金币,评级"

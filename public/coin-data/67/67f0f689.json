@@ -2,31 +2,14 @@
   "coinName": "1996年古代科技15.552克金币",
   "slug": "67f0f689",
   "saleCount": 2,
-  "keywords": "金,币,1996年,2盎司,年盎,盎司,司古,古代,代科,科技,技第,第组,组船,船舵,舵金,金币,组马,马具,具金",
+  "keywords": "金,币,1996年,2盎司,年盎,盎司,司古,古代,代科,科技,技第,第组,组马,马具,具金,金币,组船,船舵,舵金",
   "priceStats": {
     "low": 28400,
     "high": 28600,
     "avg": 28500,
-    "latest": 28600
+    "latest": 28400
   },
   "records": [
-    {
-      "coinName": "1996年1/2盎司古代科技第5组船舵金币",
-      "normalizedBoxCode": "6186843002",
-      "displayBoxCode": "6186843-002",
-      "gradingCompany": "NGC",
-      "grade": "PF 69 ULTRA CAMEO",
-      "platform": "易金在线",
-      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/490215.html",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/6186843-002/69/",
-      "price": 28600,
-      "priceWithFee": null,
-      "transactedAt": "2025-08-17 22:46:40",
-      "productCode": "AA574196",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "金,币,1996年,2盎司,年盎,盎司,司古,古代,代科,科技,技第,第组,组船,船舵,舵金,金币"
-    },
     {
       "coinName": "1996年1/2盎司古代科技第5组马具金币",
       "normalizedBoxCode": "6186843004",
@@ -43,6 +26,23 @@
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "金,币,1996年,2盎司,年盎,盎司,司古,古代,代科,科技,技第,第组,组马,马具,具金,金币"
+    },
+    {
+      "coinName": "1996年1/2盎司古代科技第5组船舵金币",
+      "normalizedBoxCode": "6186843002",
+      "displayBoxCode": "6186843-002",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/490215.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6186843-002/69/",
+      "price": 28600,
+      "priceWithFee": null,
+      "transactedAt": "2025-08-17 22:46:40",
+      "productCode": "AA574196",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1996年,2盎司,年盎,盎司,司古,古代,代科,科技,技第,第组,组船,船舵,舵金,金币"
     }
   ]
 }

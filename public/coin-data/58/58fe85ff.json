@@ -7,9 +7,26 @@
     "low": 15600,
     "high": 25600,
     "avg": 21733,
-    "latest": 25600
+    "latest": 15600
   },
   "records": [
+    {
+      "coinName": "1996年1/2盎司红军长征胜利60周年金币",
+      "normalizedBoxCode": "8183657006",
+      "displayBoxCode": "8183657-006",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/485369.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8183657-006/69/",
+      "price": 15600,
+      "priceWithFee": null,
+      "transactedAt": "2025-07-23 17:36:48",
+      "productCode": "AA569733",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1996年,2盎司,年盎,盎司,司红,红军,军长,长征,征胜,胜利,利周,周年,年金,金币"
+    },
     {
       "coinName": "1996年1/2盎司红军长征胜利60周年金币",
       "normalizedBoxCode": "6148972039",
@@ -40,23 +57,6 @@
       "priceWithFee": null,
       "transactedAt": "2025-03-10 08:14:09",
       "productCode": "AA499852A",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "金,币,1996年,2盎司,年盎,盎司,司红,红军,军长,长征,征胜,胜利,利周,周年,年金,金币"
-    },
-    {
-      "coinName": "1996年1/2盎司红军长征胜利60周年金币",
-      "normalizedBoxCode": "8183657006",
-      "displayBoxCode": "8183657-006",
-      "gradingCompany": "NGC",
-      "grade": "PF 69 ULTRA CAMEO",
-      "platform": "易金在线",
-      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/485369.html",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/8183657-006/69/",
-      "price": 15600,
-      "priceWithFee": null,
-      "transactedAt": "2025-07-23 17:36:48",
-      "productCode": "AA569733",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "金,币,1996年,2盎司,年盎,盎司,司红,红军,军长,长征,征胜,胜利,利周,周年,年金,金币"

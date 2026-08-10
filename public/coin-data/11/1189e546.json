@@ -7,26 +7,9 @@
     "low": 9100,
     "high": 9500,
     "avg": 9300,
-    "latest": 9100
+    "latest": 9500
   },
   "records": [
-    {
-      "coinName": "2025年8克抗战胜利80周年金币",
-      "normalizedBoxCode": "8612985001",
-      "displayBoxCode": "8612985-001",
-      "gradingCompany": "NGC",
-      "grade": "PF 70 ULTRA CAMEO",
-      "platform": "易金在线",
-      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/503049.html",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/8612985-001/70/",
-      "price": 9100,
-      "priceWithFee": null,
-      "transactedAt": "2025-10-14 12:19:52",
-      "productCode": "AA588201",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "金,币,2025年,8克,重大事件,年克,克抗,抗战,战胜,胜利,利周,周年,年金,金币"
-    },
     {
       "coinName": "2025年8克抗战胜利80周年金币",
       "normalizedBoxCode": "8613895002",
@@ -40,6 +23,23 @@
       "priceWithFee": null,
       "transactedAt": "2025-11-25 14:50:55",
       "productCode": "AA595821",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2025年,8克,重大事件,年克,克抗,抗战,战胜,胜利,利周,周年,年金,金币"
+    },
+    {
+      "coinName": "2025年8克抗战胜利80周年金币",
+      "normalizedBoxCode": "8612985001",
+      "displayBoxCode": "8612985-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/503049.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8612985-001/70/",
+      "price": 9100,
+      "priceWithFee": null,
+      "transactedAt": "2025-10-14 12:19:52",
+      "productCode": "AA588201",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "金,币,2025年,8克,重大事件,年克,克抗,抗战,战胜,胜利,利周,周年,年金,金币"

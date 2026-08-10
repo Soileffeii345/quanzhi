@@ -7,26 +7,9 @@
     "low": 3950,
     "high": 4400,
     "avg": 4133,
-    "latest": 4400
+    "latest": 3950
   },
   "records": [
-    {
-      "coinName": "2025年乙巳蛇年生肖精制金银币二枚一套（含3克金、15克银）",
-      "normalizedBoxCode": "8188009016",
-      "displayBoxCode": "8188009-016",
-      "gradingCompany": "NGC",
-      "grade": "PF 70 ULTRA CAMEO",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-jin/10379128.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/8188009-016/70/",
-      "price": 4400,
-      "priceWithFee": 4554,
-      "transactedAt": "2026-07-09 21:28:05",
-      "productCode": "872255001",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "金,银,币,2025年,3克,生肖,年乙,乙巳,巳蛇,蛇年,年生,肖精,精制,制金,金银,银币,币二,二枚,枚一,一套,套含,含克,克金,金克,克银,评级"
-    },
     {
       "coinName": "2025年乙巳蛇年生肖精制金银币二枚一套（含3克金、15克银）",
       "normalizedBoxCode": "8612303024",
@@ -40,6 +23,23 @@
       "priceWithFee": 4088.25,
       "transactedAt": "2026-07-13 22:26:25",
       "productCode": "875104011",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,2025年,3克,生肖,年乙,乙巳,巳蛇,蛇年,年生,肖精,精制,制金,金银,银币,币二,二枚,枚一,一套,套含,含克,克金,金克,克银,评级"
+    },
+    {
+      "coinName": "2025年乙巳蛇年生肖精制金银币二枚一套（含3克金、15克银）",
+      "normalizedBoxCode": "8188009016",
+      "displayBoxCode": "8188009-016",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-jin/10379128.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8188009-016/70/",
+      "price": 4400,
+      "priceWithFee": 4554,
+      "transactedAt": "2026-07-09 21:28:05",
+      "productCode": "872255001",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "金,银,币,2025年,3克,生肖,年乙,乙巳,巳蛇,蛇年,年生,肖精,精制,制金,金银,银币,币二,二枚,枚一,一套,套含,含克,克金,金克,克银,评级"

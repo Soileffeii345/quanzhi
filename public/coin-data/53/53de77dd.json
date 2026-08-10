@@ -2,31 +2,14 @@
   "coinName": "2015年精制金银币",
   "slug": "53de77dd",
   "saleCount": 2,
-  "keywords": "金,银,币,2015年,2盎司,年长,长春,春电,电影,影制,制片,片厂,厂成,成立,立周,周年,年精,精制,制金,金银,银币,币三,三枚,枚一,一套,套含,含盎,盎司,司银,银盎,司金,评级,4盎司,宗教,年中,中国,国佛,佛教,教圣,圣地,地九,九华,华山,山精,币二,二枚,金盎",
+  "keywords": "金,银,币,2015年,4盎司,宗教,年中,中国,国佛,佛教,教圣,圣地,地九,九华,华山,山精,精制,制金,金银,银币,币二,二枚,枚一,一套,套含,含盎,盎司,司金,金盎,司银,评级,2盎司,年长,长春,春电,电影,影制,制片,片厂,厂成,成立,立周,周年,年精,币三,三枚,银盎",
   "priceStats": {
     "low": 3500,
     "high": 9600,
     "avg": 6550,
-    "latest": 3500
+    "latest": 9600
   },
   "records": [
-    {
-      "coinName": "2015年长春电影制片厂成立70周年精制金银币三枚一套（含1/2盎司银*2、1/10盎司金）",
-      "normalizedBoxCode": "4320165023",
-      "displayBoxCode": "4320165-023",
-      "gradingCompany": "NGC",
-      "grade": "PF69 ULTRA CAMEO",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10390868.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/4320165-023/69/",
-      "price": 3500,
-      "priceWithFee": 3622.5,
-      "transactedAt": "2026-07-09 21:31:25",
-      "productCode": "873714011",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "金,银,币,2015年,2盎司,年长,长春,春电,电影,影制,制片,片厂,厂成,成立,立周,周年,年精,精制,制金,金银,银币,币三,三枚,枚一,一套,套含,含盎,盎司,司银,银盎,司金,评级"
-    },
     {
       "coinName": "2015年中国佛教圣地-九华山精制金银币二枚一套（含1/4盎司金、2盎司银）",
       "normalizedBoxCode": "4534608013",
@@ -43,6 +26,23 @@
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "金,银,币,2015年,4盎司,宗教,年中,中国,国佛,佛教,教圣,圣地,地九,九华,华山,山精,精制,制金,金银,银币,币二,二枚,枚一,一套,套含,含盎,盎司,司金,金盎,司银,评级"
+    },
+    {
+      "coinName": "2015年长春电影制片厂成立70周年精制金银币三枚一套（含1/2盎司银*2、1/10盎司金）",
+      "normalizedBoxCode": "4320165023",
+      "displayBoxCode": "4320165-023",
+      "gradingCompany": "NGC",
+      "grade": "PF69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10390868.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4320165-023/69/",
+      "price": 3500,
+      "priceWithFee": 3622.5,
+      "transactedAt": "2026-07-09 21:31:25",
+      "productCode": "873714011",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,2015年,2盎司,年长,长春,春电,电影,影制,制片,片厂,厂成,成立,立周,周年,年精,精制,制金,金银,银币,币三,三枚,枚一,一套,套含,含盎,盎司,司银,银盎,司金,评级"
     }
   ]
 }

@@ -2,31 +2,14 @@
   "coinName": "1993年熊猫20盎司金币",
   "slug": "0597adc2",
   "saleCount": 3,
-  "keywords": "金,币,1993年,20盎司,熊猫,年盎,盎司,司熊,猫金,金币,币大,大字,字版,币小,小字",
+  "keywords": "金,币,1993年,20盎司,熊猫,年盎,盎司,司熊,猫金,金币,币小,小字,字版,币大,大字",
   "priceStats": {
     "low": 1250,
     "high": 2600,
     "avg": 2000,
-    "latest": 1250
+    "latest": 2150
   },
   "records": [
-    {
-      "coinName": "1993年1/20盎司熊猫金币(大字版)",
-      "normalizedBoxCode": "4290522001",
-      "displayBoxCode": "4290522-001",
-      "gradingCompany": "NGC",
-      "grade": "MS 68",
-      "platform": "易金在线",
-      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/488962.html",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/4290522-001/68/",
-      "price": 1250,
-      "priceWithFee": null,
-      "transactedAt": "2025-07-18 18:15:29",
-      "productCode": "AA573089",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "金,币,1993年,20盎司,熊猫,年盎,盎司,司熊,猫金,金币,币大,大字,字版"
-    },
     {
       "coinName": "1993年1/20盎司熊猫金币(小字版)",
       "normalizedBoxCode": "6761068001",
@@ -57,6 +40,23 @@
       "priceWithFee": null,
       "transactedAt": "2025-09-29 12:16:38",
       "productCode": "AA577447A",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1993年,20盎司,熊猫,年盎,盎司,司熊,猫金,金币,币大,大字,字版"
+    },
+    {
+      "coinName": "1993年1/20盎司熊猫金币(大字版)",
+      "normalizedBoxCode": "4290522001",
+      "displayBoxCode": "4290522-001",
+      "gradingCompany": "NGC",
+      "grade": "MS 68",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/488962.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4290522-001/68/",
+      "price": 1250,
+      "priceWithFee": null,
+      "transactedAt": "2025-07-18 18:15:29",
+      "productCode": "AA573089",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "金,币,1993年,20盎司,熊猫,年盎,盎司,司熊,猫金,金币,币大,大字,字版"

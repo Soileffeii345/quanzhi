@@ -7,26 +7,9 @@
     "low": 2200,
     "high": 4200,
     "avg": 3417,
-    "latest": 2200
+    "latest": 4200
   },
   "records": [
-    {
-      "coinName": "2014年5盎司熊猫银币",
-      "normalizedBoxCode": "3877699008",
-      "displayBoxCode": "3877699-008",
-      "gradingCompany": "NGC",
-      "grade": "PF 67 ULTRA CAMEO",
-      "platform": "易金在线",
-      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/517569.html",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/3877699-008/67/",
-      "price": 2200,
-      "priceWithFee": null,
-      "transactedAt": "2025-12-06 10:41:21",
-      "productCode": "KH093228",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "银,币,2014年,5盎司,熊猫,年盎,盎司,司熊,猫银,银币"
-    },
     {
       "coinName": "2014年5盎司熊猫银币",
       "normalizedBoxCode": "3877699014",
@@ -57,6 +40,23 @@
       "priceWithFee": null,
       "transactedAt": "2026-01-19 09:11:49",
       "productCode": "KH108245",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2014年,5盎司,熊猫,年盎,盎司,司熊,猫银,银币"
+    },
+    {
+      "coinName": "2014年5盎司熊猫银币",
+      "normalizedBoxCode": "3877699008",
+      "displayBoxCode": "3877699-008",
+      "gradingCompany": "NGC",
+      "grade": "PF 67 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/517569.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3877699-008/67/",
+      "price": 2200,
+      "priceWithFee": null,
+      "transactedAt": "2025-12-06 10:41:21",
+      "productCode": "KH093228",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "银,币,2014年,5盎司,熊猫,年盎,盎司,司熊,猫银,银币"

@@ -7,26 +7,9 @@
     "low": 16600,
     "high": 22500,
     "avg": 19550,
-    "latest": 22500
+    "latest": 16600
   },
   "records": [
-    {
-      "coinName": "2011年辛卯兔年生肖1公斤精制银币",
-      "normalizedBoxCode": "8191700006",
-      "displayBoxCode": "8191700-006",
-      "gradingCompany": "NGC",
-      "grade": "PF 68 ULTRA CAMEO",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10388239.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/8191700-006/68/",
-      "price": 22500,
-      "priceWithFee": 23287.5,
-      "transactedAt": "2026-07-09 20:56:05",
-      "productCode": "873787001",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "银,币,2011年,1公斤,生肖,年辛,辛卯,卯兔,兔年,年生,肖公,公斤,斤精,精制,制银,银币,评级"
-    },
     {
       "coinName": "2011年辛卯兔年生肖1公斤精制银币",
       "normalizedBoxCode": "8499690013",
@@ -40,6 +23,23 @@
       "priceWithFee": 17181,
       "transactedAt": "2026-07-23 20:05:55",
       "productCode": "876350001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2011年,1公斤,生肖,年辛,辛卯,卯兔,兔年,年生,肖公,公斤,斤精,精制,制银,银币,评级"
+    },
+    {
+      "coinName": "2011年辛卯兔年生肖1公斤精制银币",
+      "normalizedBoxCode": "8191700006",
+      "displayBoxCode": "8191700-006",
+      "gradingCompany": "NGC",
+      "grade": "PF 68 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10388239.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8191700-006/68/",
+      "price": 22500,
+      "priceWithFee": 23287.5,
+      "transactedAt": "2026-07-09 20:56:05",
+      "productCode": "873787001",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "银,币,2011年,1公斤,生肖,年辛,辛卯,卯兔,兔年,年生,肖公,公斤,斤精,精制,制银,银币,评级"

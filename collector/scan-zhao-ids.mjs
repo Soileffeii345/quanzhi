@@ -9,7 +9,7 @@ const END_ID = 10460000; // ~110,000 IDs to scan
 
 function clean(s) { return (s ?? "").replace(/\s+/g, " ").trim(); }
 
-async function parseZhaoDetail(url, id) {
+async function parseZhaoDetail(url) {
   const resp = await fetch(url, {
     headers: {
       "user-agent": "QuanzhiIndexer/2.0",
@@ -56,7 +56,7 @@ async function parseZhaoDetail(url, id) {
 async function tryFetch(id) {
   try {
     const url = `https://zhaoonline.com/xiongmaoxilie-jiujin/${id}.shtml`;
-    return await parseZhaoDetail(url, id);
+    return await parseZhaoDetail(url);
   } catch {
     return null;
   }
@@ -95,7 +95,7 @@ async function main() {
           images += pageImages.length;
           existingUrls.add(page.detailUrl);
         }
-      } catch (e) {
+      } catch {
         errors++;
       }
 

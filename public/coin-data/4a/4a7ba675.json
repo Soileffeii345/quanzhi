@@ -7,26 +7,9 @@
     "low": 2250,
     "high": 2350,
     "avg": 2300,
-    "latest": 2250
+    "latest": 2350
   },
   "records": [
-    {
-      "coinName": "1984年陈嘉庚诞辰110周年纪念24克精制银币",
-      "normalizedBoxCode": "8757909007",
-      "displayBoxCode": "8757909-007",
-      "gradingCompany": "NGC",
-      "grade": "待复核",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10351242.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/8757909-007/",
-      "price": 2250,
-      "priceWithFee": 2328.75,
-      "transactedAt": "2026-06-18 20:45:40",
-      "productCode": "869398026",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "银,币,1984年,24克,年陈,陈嘉,嘉庚,庚诞,诞辰,辰周,周年,年纪,纪念,念克,克精,精制,制银,银币,评级"
-    },
     {
       "coinName": "1984年陈嘉庚诞辰110周年纪念24克精制银币",
       "normalizedBoxCode": "8818556034",
@@ -40,6 +23,23 @@
       "priceWithFee": 2432.25,
       "transactedAt": "2026-07-06 20:33:50",
       "productCode": "873154003",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1984年,24克,年陈,陈嘉,嘉庚,庚诞,诞辰,辰周,周年,年纪,纪念,念克,克精,精制,制银,银币,评级"
+    },
+    {
+      "coinName": "1984年陈嘉庚诞辰110周年纪念24克精制银币",
+      "normalizedBoxCode": "8757909007",
+      "displayBoxCode": "8757909-007",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10351242.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8757909-007/",
+      "price": 2250,
+      "priceWithFee": 2328.75,
+      "transactedAt": "2026-06-18 20:45:40",
+      "productCode": "869398026",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "银,币,1984年,24克,年陈,陈嘉,嘉庚,庚诞,诞辰,辰周,周年,年纪,纪念,念克,克精,精制,制银,银币,评级"

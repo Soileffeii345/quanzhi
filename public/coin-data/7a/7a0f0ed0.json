@@ -2,14 +2,31 @@
   "coinName": "1992年15克精制铜币",
   "slug": "7a0f0ed0",
   "saleCount": 5,
-  "keywords": "银,铜,币,1992年,15克,年出,出土,土文,文物,物青,青铜,铜器,器第,第组,组卧,卧鹿,鹿克,克精,精制,制银,银币,评级,组克,币四,四枚,枚一,一套,组羊,羊尊,尊克,组长,长信,信宫,宫灯,灯克",
+  "keywords": "银,铜,币,1992年,15克,年出,出土,土文,文物,物青,青铜,铜器,器第,第组,组长,长信,信宫,宫灯,灯克,克精,精制,制银,银币,评级,组卧,卧鹿,鹿克,组羊,羊尊,尊克,组克,币四,四枚,枚一,一套",
   "priceStats": {
     "low": 870,
     "high": 8200,
     "avg": 2408,
-    "latest": 1100
+    "latest": 940
   },
   "records": [
+    {
+      "coinName": "1992年出土文物青铜器第（2）组-长信宫灯15克精制银币",
+      "normalizedBoxCode": "6193744033",
+      "displayBoxCode": "6193744-033",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10389114.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6193744-033/",
+      "price": 940,
+      "priceWithFee": 972.9,
+      "transactedAt": "2026-07-13 21:51:50",
+      "productCode": "873690012",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,铜,币,1992年,15克,年出,出土,土文,文物,物青,青铜,铜器,器第,第组,组长,长信,信宫,宫灯,灯克,克精,精制,制银,银币,评级"
+    },
     {
       "coinName": "1992年出土文物青铜器第（2）组-卧鹿15克精制银币",
       "normalizedBoxCode": "3549476002",
@@ -28,21 +45,21 @@
       "keywords": "银,铜,币,1992年,15克,年出,出土,土文,文物,物青,青铜,铜器,器第,第组,组卧,卧鹿,鹿克,克精,精制,制银,银币,评级"
     },
     {
-      "coinName": "1992年出土文物青铜器第（2）组15克精制银币四枚一套",
-      "normalizedBoxCode": "6148521021",
-      "displayBoxCode": "6148521-021",
+      "coinName": "1992年出土文物青铜器第（2）组-羊尊15克精制银币",
+      "normalizedBoxCode": "8757941002",
+      "displayBoxCode": "8757941-002",
       "gradingCompany": "NGC",
-      "grade": "PF 69 ULTRA CAMEO",
+      "grade": "PF 68 ULTRA CAMEO",
       "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10362477.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/6148521-021/69/",
-      "price": 8200,
-      "priceWithFee": 8487,
-      "transactedAt": "2026-06-25 20:03:05",
-      "productCode": "869608002",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10387360.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8757941-002/68/",
+      "price": 930,
+      "priceWithFee": 962.55,
+      "transactedAt": "2026-07-09 20:06:05",
+      "productCode": "873643006",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
-      "keywords": "银,铜,币,1992年,15克,年出,出土,土文,文物,物青,青铜,铜器,器第,第组,组克,克精,精制,制银,银币,币四,四枚,枚一,一套,评级"
+      "keywords": "银,铜,币,1992年,15克,年出,出土,土文,文物,物青,青铜,铜器,器第,第组,组羊,羊尊,尊克,克精,精制,制银,银币,评级"
     },
     {
       "coinName": "1992年出土文物青铜器第（2）组-羊尊15克精制银币",
@@ -62,38 +79,21 @@
       "keywords": "银,铜,币,1992年,15克,年出,出土,土文,文物,物青,青铜,铜器,器第,第组,组羊,羊尊,尊克,克精,精制,制银,银币,评级"
     },
     {
-      "coinName": "1992年出土文物青铜器第（2）组-长信宫灯15克精制银币",
-      "normalizedBoxCode": "6193744033",
-      "displayBoxCode": "6193744-033",
+      "coinName": "1992年出土文物青铜器第（2）组15克精制银币四枚一套",
+      "normalizedBoxCode": "6148521021",
+      "displayBoxCode": "6148521-021",
       "gradingCompany": "NGC",
-      "grade": "待复核",
+      "grade": "PF 69 ULTRA CAMEO",
       "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10389114.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/6193744-033/",
-      "price": 940,
-      "priceWithFee": 972.9,
-      "transactedAt": "2026-07-13 21:51:50",
-      "productCode": "873690012",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10362477.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6148521-021/69/",
+      "price": 8200,
+      "priceWithFee": 8487,
+      "transactedAt": "2026-06-25 20:03:05",
+      "productCode": "869608002",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
-      "keywords": "银,铜,币,1992年,15克,年出,出土,土文,文物,物青,青铜,铜器,器第,第组,组长,长信,信宫,宫灯,灯克,克精,精制,制银,银币,评级"
-    },
-    {
-      "coinName": "1992年出土文物青铜器第（2）组-羊尊15克精制银币",
-      "normalizedBoxCode": "8757941002",
-      "displayBoxCode": "8757941-002",
-      "gradingCompany": "NGC",
-      "grade": "PF 68 ULTRA CAMEO",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10387360.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/8757941-002/68/",
-      "price": 930,
-      "priceWithFee": 962.55,
-      "transactedAt": "2026-07-09 20:06:05",
-      "productCode": "873643006",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "银,铜,币,1992年,15克,年出,出土,土文,文物,物青,青铜,铜器,器第,第组,组羊,羊尊,尊克,克精,精制,制银,银币,评级"
+      "keywords": "银,铜,币,1992年,15克,年出,出土,土文,文物,物青,青铜,铜器,器第,第组,组克,克精,精制,制银,银币,币四,四枚,枚一,一套,评级"
     }
   ]
 }

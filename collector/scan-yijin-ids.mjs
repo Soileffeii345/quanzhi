@@ -154,7 +154,7 @@ async function main() {
           images += pageImages.length;
           existingUrls.add(page.detailUrl);
         }
-      } catch (e) {
+      } catch {
         errors++;
       }
 

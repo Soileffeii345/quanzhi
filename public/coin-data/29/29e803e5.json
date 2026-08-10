@@ -7,26 +7,9 @@
     "low": 900,
     "high": 980,
     "avg": 938,
-    "latest": 920
+    "latest": 950
   },
   "records": [
-    {
-      "coinName": "2025年西南财经大学建校100周年30克精制银币",
-      "normalizedBoxCode": "8575558003",
-      "displayBoxCode": "8575558-003",
-      "gradingCompany": "NGC",
-      "grade": "PF 70 ULTRA CAMEO",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10405208.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/8575558-003/70/",
-      "price": 920,
-      "priceWithFee": 952.2,
-      "transactedAt": "2026-07-20 19:35:10",
-      "productCode": "875609002",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "银,币,2025年,30克,年西,西南,南财,财经,经大,大学,学建,建校,校周,周年,年克,克精,精制,制银,银币,评级"
-    },
     {
       "coinName": "2025年西南财经大学建校100周年30克精制银币",
       "normalizedBoxCode": "8579955002",
@@ -62,21 +45,21 @@
       "keywords": "银,币,2025年,30克,年中,中国,国电,电影,影诞,诞生,生周,周年,年克,克精,精制,制银,银币,评级"
     },
     {
-      "coinName": "2025年中国电影诞生120周年30克精制银币",
-      "normalizedBoxCode": "8655902007",
-      "displayBoxCode": "8655902-007",
+      "coinName": "2025年西南财经大学建校100周年30克精制银币",
+      "normalizedBoxCode": "8575558003",
+      "displayBoxCode": "8575558-003",
       "gradingCompany": "NGC",
       "grade": "PF 70 ULTRA CAMEO",
       "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10354365.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/8655902-007/70/",
-      "price": 980,
-      "priceWithFee": 1014.3,
-      "transactedAt": "2026-06-20 21:20:05",
-      "productCode": "869814007",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10405208.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8575558-003/70/",
+      "price": 920,
+      "priceWithFee": 952.2,
+      "transactedAt": "2026-07-20 19:35:10",
+      "productCode": "875609002",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
-      "keywords": "银,币,2025年,30克,年中,中国,国电,电影,影诞,诞生,生周,周年,年克,克精,精制,制银,银币,评级"
+      "keywords": "银,币,2025年,30克,年西,西南,南财,财经,经大,大学,学建,建校,校周,周年,年克,克精,精制,制银,银币,评级"
     },
     {
       "coinName": "2025年中国人民抗日战争暨世界反法西斯战争胜利80周年30克精制银币",
@@ -111,6 +94,23 @@
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "银,币,2025年,30克,年中,中国,国人,人民,民抗,抗日,日战,战争,争暨,暨世,世界,界反,反法,法西,西斯,斯战,争胜,胜利,利周,周年,年克,克精,精制,制银,银币,评级"
+    },
+    {
+      "coinName": "2025年中国电影诞生120周年30克精制银币",
+      "normalizedBoxCode": "8655902007",
+      "displayBoxCode": "8655902-007",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10354365.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8655902-007/70/",
+      "price": 980,
+      "priceWithFee": 1014.3,
+      "transactedAt": "2026-06-20 21:20:05",
+      "productCode": "869814007",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2025年,30克,年中,中国,国电,电影,影诞,诞生,生周,周年,年克,克精,精制,制银,银币,评级"
     }
   ]
 }

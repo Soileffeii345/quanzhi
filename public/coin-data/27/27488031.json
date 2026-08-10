@@ -2,30 +2,30 @@
   "coinName": "2002年生肖31.104克精制银币",
   "slug": "27488031",
   "saleCount": 6,
-  "keywords": "银,币,2002年,1盎司,生肖,年壬,壬午,午马,马年,年生,肖盎,盎司,司梅,梅花,花形,形精,精制,制银,银币,评级,司精,制彩,彩银",
+  "keywords": "银,币,2002年,1盎司,生肖,年壬,壬午,午马,马年,年生,肖盎,盎司,司精,精制,制彩,彩银,银币,评级,司梅,梅花,花形,形精,制银",
   "priceStats": {
     "low": 1200,
     "high": 3050,
     "avg": 1622,
-    "latest": 3050
+    "latest": 1400
   },
   "records": [
     {
-      "coinName": "2002年壬午马年生肖1盎司梅花形精制银币",
-      "normalizedBoxCode": "0397530027",
-      "displayBoxCode": "0397530-027",
+      "coinName": "2002年壬午马年生肖1盎司精制彩银币",
+      "normalizedBoxCode": "6756251002",
+      "displayBoxCode": "6756251-002",
       "gradingCompany": "NGC",
-      "grade": "待复核",
+      "grade": "PF 70 ULTRA CAMEO",
       "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10376701.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/0397530-027/",
-      "price": 3050,
-      "priceWithFee": 3156.75,
-      "transactedAt": "2026-07-06 20:01:45",
-      "productCode": "872086007",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10424127.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6756251-002/70/",
+      "price": 1400,
+      "priceWithFee": 1449,
+      "transactedAt": "2026-07-27 21:29:10",
+      "productCode": "877773028",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
-      "keywords": "银,币,2002年,1盎司,生肖,年壬,壬午,午马,马年,年生,肖盎,盎司,司梅,梅花,花形,形精,精制,制银,银币,评级"
+      "keywords": "银,币,2002年,1盎司,生肖,年壬,壬午,午马,马年,年生,肖盎,盎司,司精,精制,制彩,彩银,银币,评级"
     },
     {
       "coinName": "2002年壬午马年生肖1盎司精制彩银币",
@@ -46,23 +46,6 @@
     },
     {
       "coinName": "2002年壬午马年生肖1盎司精制彩银币",
-      "normalizedBoxCode": "6756251002",
-      "displayBoxCode": "6756251-002",
-      "gradingCompany": "NGC",
-      "grade": "PF 70 ULTRA CAMEO",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10424127.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/6756251-002/70/",
-      "price": 1400,
-      "priceWithFee": 1449,
-      "transactedAt": "2026-07-27 21:29:10",
-      "productCode": "877773028",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "银,币,2002年,1盎司,生肖,年壬,壬午,午马,马年,年生,肖盎,盎司,司精,精制,制彩,彩银,银币,评级"
-    },
-    {
-      "coinName": "2002年壬午马年生肖1盎司精制彩银币",
       "normalizedBoxCode": "8610819082",
       "displayBoxCode": "8610819-082",
       "gradingCompany": "NGC",
@@ -77,6 +60,23 @@
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "银,币,2002年,1盎司,生肖,年壬,壬午,午马,马年,年生,肖盎,盎司,司精,精制,制彩,彩银,银币,评级"
+    },
+    {
+      "coinName": "2002年壬午马年生肖1盎司梅花形精制银币",
+      "normalizedBoxCode": "0397530027",
+      "displayBoxCode": "0397530-027",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10376701.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/0397530-027/",
+      "price": 3050,
+      "priceWithFee": 3156.75,
+      "transactedAt": "2026-07-06 20:01:45",
+      "productCode": "872086007",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2002年,1盎司,生肖,年壬,壬午,午马,马年,年生,肖盎,盎司,司梅,梅花,花形,形精,精制,制银,银币,评级"
     },
     {
       "coinName": "2002年壬午马年生肖1盎司精制彩银币",

@@ -2,48 +2,14 @@
   "coinName": "2004年3.11克金币",
   "slug": "54f42c9f",
   "saleCount": 4,
-  "keywords": "金,币,2004年,10盎司,宗教,年盎,盎司,司观,观音,音幻,幻彩,彩金,金币,年观,音盎,司幻",
+  "keywords": "金,币,2004年,10盎司,宗教,年观,观音,音盎,盎司,司幻,幻彩,彩金,金币,年盎,司观,音幻",
   "priceStats": {
     "low": 3000,
     "high": 7400,
     "avg": 5000,
-    "latest": 3000
+    "latest": 4400
   },
   "records": [
-    {
-      "coinName": "2004年1/10盎司观音幻彩金币",
-      "normalizedBoxCode": "6195339060",
-      "displayBoxCode": "6195339-060",
-      "gradingCompany": "NGC",
-      "grade": "PF 69 ULTRA CAMEO",
-      "platform": "易金在线",
-      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/455500.html",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/6195339-060/69/",
-      "price": 3000,
-      "priceWithFee": null,
-      "transactedAt": "2025-02-19 21:00:27",
-      "productCode": "AA534246",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "金,币,2004年,10盎司,宗教,年盎,盎司,司观,观音,音幻,幻彩,彩金,金币"
-    },
-    {
-      "coinName": "2004年1/10盎司观音幻彩金币",
-      "normalizedBoxCode": "6402603020",
-      "displayBoxCode": "6402603-020",
-      "gradingCompany": "NGC",
-      "grade": "PF70 ULTRA CAMEO",
-      "platform": "易金在线",
-      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/527673.html",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/6402603-020/70/",
-      "price": 7400,
-      "priceWithFee": null,
-      "transactedAt": "2026-06-09 19:02:09",
-      "productCode": "KH138211",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "金,币,2004年,10盎司,宗教,年盎,盎司,司观,观音,音幻,幻彩,彩金,金币"
-    },
     {
       "coinName": "2004年观音1/10盎司幻彩金币",
       "normalizedBoxCode": "8752837048",
@@ -77,6 +43,40 @@
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "金,币,2004年,10盎司,宗教,年观,观音,音盎,盎司,司幻,幻彩,彩金,金币"
+    },
+    {
+      "coinName": "2004年1/10盎司观音幻彩金币",
+      "normalizedBoxCode": "6402603020",
+      "displayBoxCode": "6402603-020",
+      "gradingCompany": "NGC",
+      "grade": "PF70 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/527673.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6402603-020/70/",
+      "price": 7400,
+      "priceWithFee": null,
+      "transactedAt": "2026-06-09 19:02:09",
+      "productCode": "KH138211",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2004年,10盎司,宗教,年盎,盎司,司观,观音,音幻,幻彩,彩金,金币"
+    },
+    {
+      "coinName": "2004年1/10盎司观音幻彩金币",
+      "normalizedBoxCode": "6195339060",
+      "displayBoxCode": "6195339-060",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/455500.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6195339-060/69/",
+      "price": 3000,
+      "priceWithFee": null,
+      "transactedAt": "2025-02-19 21:00:27",
+      "productCode": "AA534246",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2004年,10盎司,宗教,年盎,盎司,司观,观音,音幻,幻彩,彩金,金币"
     }
   ]
 }

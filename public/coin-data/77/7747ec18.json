@@ -2,31 +2,14 @@
   "coinName": "1993年30克精制银币",
   "slug": "7747ec18",
   "saleCount": 2,
-  "keywords": "银,币,1993年,30克,年宋,宋庆,庆龄,龄诞,诞辰,辰周,周年,年坐,坐像,像克,克精,精制,制银,银币,评级,年站,站像",
+  "keywords": "银,币,1993年,30克,年宋,宋庆,庆龄,龄诞,诞辰,辰周,周年,年站,站像,像克,克精,精制,制银,银币,评级,年坐,坐像",
   "priceStats": {
     "low": 3750,
     "high": 19600,
     "avg": 11675,
-    "latest": 19600
+    "latest": 3750
   },
   "records": [
-    {
-      "coinName": "1993年宋庆龄诞辰100周年-坐像30克精制银币",
-      "normalizedBoxCode": "8445109011",
-      "displayBoxCode": "8445109-011",
-      "gradingCompany": "NGC",
-      "grade": "PF 69 ULTRA CAMEO",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10362464.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/8445109-011/69/",
-      "price": 19600,
-      "priceWithFee": 20286,
-      "transactedAt": "2026-06-25 19:55:05",
-      "productCode": "869605001",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "银,币,1993年,30克,年宋,宋庆,庆龄,龄诞,诞辰,辰周,周年,年坐,坐像,像克,克精,精制,制银,银币,评级"
-    },
     {
       "coinName": "1993年宋庆龄诞辰100周年-站像30克精制银币",
       "normalizedBoxCode": "8764263003",
@@ -43,6 +26,23 @@
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "银,币,1993年,30克,年宋,宋庆,庆龄,龄诞,诞辰,辰周,周年,年站,站像,像克,克精,精制,制银,银币,评级"
+    },
+    {
+      "coinName": "1993年宋庆龄诞辰100周年-坐像30克精制银币",
+      "normalizedBoxCode": "8445109011",
+      "displayBoxCode": "8445109-011",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10362464.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8445109-011/69/",
+      "price": 19600,
+      "priceWithFee": 20286,
+      "transactedAt": "2026-06-25 19:55:05",
+      "productCode": "869605001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1993年,30克,年宋,宋庆,庆龄,龄诞,诞辰,辰周,周年,年坐,坐像,像克,克精,精制,制银,银币,评级"
     }
   ]
 }

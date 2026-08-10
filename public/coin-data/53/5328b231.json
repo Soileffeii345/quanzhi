@@ -28,23 +28,6 @@
       "keywords": "币,1984年,年精,精制,制长,长城,城币,币伍,伍角,角大,大字,字版,评级"
     },
     {
-      "coinName": "1984年精制长城币贰角",
-      "normalizedBoxCode": "8544529064",
-      "displayBoxCode": "8544529-064",
-      "gradingCompany": "NGC",
-      "grade": "待复核",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10355219.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/8544529-064/",
-      "price": 2350,
-      "priceWithFee": 2538,
-      "transactedAt": "2026-07-01 19:30:35",
-      "productCode": "869634003",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "币,1984年,年精,精制,制长,长城,城币,币贰,贰角,评级"
-    },
-    {
       "coinName": "1984年精制长城币伍角",
       "normalizedBoxCode": "8544529066",
       "displayBoxCode": "8544529-066",
@@ -60,6 +43,23 @@
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "币,1984年,年精,精制,制长,长城,城币,币伍,伍角,评级"
+    },
+    {
+      "coinName": "1984年精制长城币贰角",
+      "normalizedBoxCode": "8544529064",
+      "displayBoxCode": "8544529-064",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10355219.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8544529-064/",
+      "price": 2350,
+      "priceWithFee": 2538,
+      "transactedAt": "2026-07-01 19:30:35",
+      "productCode": "869634003",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1984年,年精,精制,制长,长城,城币,币贰,贰角,评级"
     },
     {
       "coinName": "1984年精制长城币壹角",

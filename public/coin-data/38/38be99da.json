@@ -7,26 +7,9 @@
     "low": 490,
     "high": 530,
     "avg": 510,
-    "latest": 490
+    "latest": 530
   },
   "records": [
-    {
-      "coinName": "1992年中国杰出历史人物第（9）组-郑成功20克精制银币",
-      "normalizedBoxCode": "3765515044",
-      "displayBoxCode": "3765515-044",
-      "gradingCompany": "NGC",
-      "grade": "Pr68 ULTRA CAMEO",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10407550.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/3765515-044/68/",
-      "price": 490,
-      "priceWithFee": 507.15,
-      "transactedAt": "2026-07-20 21:08:10",
-      "productCode": "875918025",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "银,币,1992年,20克,年中,中国,国杰,杰出,出历,历史,史人,人物,物第,第组,组郑,郑成,成功,功克,克精,精制,制银,银币,评级"
-    },
     {
       "coinName": "1992年中国杰出历史人物第（9）组-郑成功20克精制银币",
       "normalizedBoxCode": "8765515045",
@@ -40,6 +23,23 @@
       "priceWithFee": 548.55,
       "transactedAt": "2026-07-20 21:40:10",
       "productCode": "875918026",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1992年,20克,年中,中国,国杰,杰出,出历,历史,史人,人物,物第,第组,组郑,郑成,成功,功克,克精,精制,制银,银币,评级"
+    },
+    {
+      "coinName": "1992年中国杰出历史人物第（9）组-郑成功20克精制银币",
+      "normalizedBoxCode": "3765515044",
+      "displayBoxCode": "3765515-044",
+      "gradingCompany": "NGC",
+      "grade": "Pr68 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10407550.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3765515-044/68/",
+      "price": 490,
+      "priceWithFee": 507.15,
+      "transactedAt": "2026-07-20 21:08:10",
+      "productCode": "875918025",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "银,币,1992年,20克,年中,中国,国杰,杰出,出历,历史,史人,人物,物第,第组,组郑,郑成,成功,功克,克精,精制,制银,银币,评级"

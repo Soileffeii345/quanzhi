@@ -2,30 +2,30 @@
   "coinName": "2021年金币",
   "slug": "7e204990",
   "saleCount": 3,
-  "keywords": "金,铜,章,2021年,宗教,年千,千手,手观,观音,音镀,镀金,金铜,铜章,金纪,纪念,念章",
+  "keywords": "金,章,2021年,宗教,年千,千手,手观,观音,音镀,镀金,金纪,纪念,念章,铜,金铜,铜章",
   "priceStats": {
     "low": 170,
     "high": 290,
     "avg": 217,
-    "latest": 290
+    "latest": 170
   },
   "records": [
     {
-      "coinName": "2021年千手观音&quot;镀金&quot;铜章(45)",
-      "normalizedBoxCode": "6333885044",
-      "displayBoxCode": "6333885-044",
+      "coinName": "2021年千手观音镀金纪念章",
+      "normalizedBoxCode": "8203148072",
+      "displayBoxCode": "8203148-072",
       "gradingCompany": "NGC",
-      "grade": "待复核",
-      "platform": "易金在线",
-      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/550305.html",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/6333885-044/",
-      "price": 290,
-      "priceWithFee": null,
-      "transactedAt": "2026-02-02 13:26:39",
-      "productCode": "KH117275",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/tongzhang/10405183.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8203148-072/70/",
+      "price": 170,
+      "priceWithFee": 188.7,
+      "transactedAt": "2026-07-24 19:40:10",
+      "productCode": "875612002",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
-      "keywords": "金,铜,章,2021年,宗教,年千,千手,手观,观音,音镀,镀金,金铜,铜章"
+      "keywords": "金,章,2021年,宗教,年千,千手,手观,观音,音镀,镀金,金纪,纪念,念章"
     },
     {
       "coinName": "2021年千手观音镀金纪念章",
@@ -45,21 +45,21 @@
       "keywords": "金,章,2021年,宗教,年千,千手,手观,观音,音镀,镀金,金纪,纪念,念章"
     },
     {
-      "coinName": "2021年千手观音镀金纪念章",
-      "normalizedBoxCode": "8203148072",
-      "displayBoxCode": "8203148-072",
+      "coinName": "2021年千手观音&quot;镀金&quot;铜章(45)",
+      "normalizedBoxCode": "6333885044",
+      "displayBoxCode": "6333885-044",
       "gradingCompany": "NGC",
-      "grade": "PF 70 ULTRA CAMEO",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/tongzhang/10405183.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/8203148-072/70/",
-      "price": 170,
-      "priceWithFee": 188.7,
-      "transactedAt": "2026-07-24 19:40:10",
-      "productCode": "875612002",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/550305.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6333885-044/",
+      "price": 290,
+      "priceWithFee": null,
+      "transactedAt": "2026-02-02 13:26:39",
+      "productCode": "KH117275",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
-      "keywords": "金,章,2021年,宗教,年千,千手,手观,观音,音镀,镀金,金纪,纪念,念章"
+      "keywords": "金,铜,章,2021年,宗教,年千,千手,手观,观音,音镀,镀金,金铜,铜章"
     }
   ]
 }

@@ -7,26 +7,9 @@
     "low": 4050,
     "high": 4400,
     "avg": 4225,
-    "latest": 4400
+    "latest": 4050
   },
   "records": [
-    {
-      "coinName": "第一版人民币压路机50元",
-      "normalizedBoxCode": "2485060007",
-      "displayBoxCode": "2485060-007",
-      "gradingCompany": "NGC",
-      "grade": "待复核",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/diyibanrenminbi/10377182.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/2485060-007/",
-      "price": 4400,
-      "priceWithFee": 4840,
-      "transactedAt": "2026-07-07 21:05:35",
-      "productCode": "871837007",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "币,第一,一版,版人,人民,民币,币压,压路,路机,机元"
-    },
     {
       "coinName": "第一版人民币压路机50元",
       "normalizedBoxCode": "2566588001",
@@ -40,6 +23,23 @@
       "priceWithFee": 4455,
       "transactedAt": "2026-07-23 21:32:40",
       "productCode": "876089002",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,第一,一版,版人,人民,民币,币压,压路,路机,机元"
+    },
+    {
+      "coinName": "第一版人民币压路机50元",
+      "normalizedBoxCode": "2485060007",
+      "displayBoxCode": "2485060-007",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/diyibanrenminbi/10377182.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2485060-007/",
+      "price": 4400,
+      "priceWithFee": 4840,
+      "transactedAt": "2026-07-07 21:05:35",
+      "productCode": "871837007",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "币,第一,一版,版人,人民,民币,币压,压路,路机,机元"

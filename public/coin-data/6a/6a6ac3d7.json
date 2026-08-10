@@ -2,31 +2,14 @@
   "coinName": "2008年7.776克金币",
   "slug": "6a6ac3d7",
   "saleCount": 5,
-  "keywords": "金,币,2008年,4盎司,年盎,盎司,司海,海南,南经,经济,济特,特区,区成,成立,立周,周年,年金,金币,司宁,宁夏,夏回,回族,族自,自治,治区,司交,交行,行成",
+  "keywords": "金,币,2008年,4盎司,年盎,盎司,司宁,宁夏,夏回,回族,族自,自治,治区,区成,成立,立周,周年,年金,金币,司海,海南,南经,经济,济特,特区,司交,交行,行成",
   "priceStats": {
     "low": 5595,
     "high": 9405,
     "avg": 7280,
-    "latest": 5595
+    "latest": 9405
   },
   "records": [
-    {
-      "coinName": "2008年1/4盎司海南经济特区成立20周年金币",
-      "normalizedBoxCode": "2018033025",
-      "displayBoxCode": "2018033-025",
-      "gradingCompany": "NGC",
-      "grade": "PF 69 ULTRA CAMEO",
-      "platform": "易金在线",
-      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/469800.html",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/2018033-025/69/",
-      "price": 5595,
-      "priceWithFee": null,
-      "transactedAt": "2025-03-24 03:24:20",
-      "productCode": "KH062262",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "金,币,2008年,4盎司,年盎,盎司,司海,海南,南经,经济,济特,特区,区成,成立,立周,周年,年金,金币"
-    },
     {
       "coinName": "2008年1/4盎司宁夏回族自治区成立50周年金币",
       "normalizedBoxCode": "4324556020",
@@ -91,6 +74,23 @@
       "priceWithFee": null,
       "transactedAt": "2025-04-29 01:27:44",
       "productCode": "KH065567",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2008年,4盎司,年盎,盎司,司海,海南,南经,经济,济特,特区,区成,成立,立周,周年,年金,金币"
+    },
+    {
+      "coinName": "2008年1/4盎司海南经济特区成立20周年金币",
+      "normalizedBoxCode": "2018033025",
+      "displayBoxCode": "2018033-025",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/469800.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2018033-025/69/",
+      "price": 5595,
+      "priceWithFee": null,
+      "transactedAt": "2025-03-24 03:24:20",
+      "productCode": "KH062262",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "金,币,2008年,4盎司,年盎,盎司,司海,海南,南经,经济,济特,特区,区成,成立,立周,周年,年金,金币"

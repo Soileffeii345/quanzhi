@@ -7,26 +7,9 @@
     "low": 8125,
     "high": 8620,
     "avg": 8373,
-    "latest": 8125
+    "latest": 8620
   },
   "records": [
-    {
-      "coinName": "2014年1/3盎司扇形生肖马金币",
-      "normalizedBoxCode": "4406029003",
-      "displayBoxCode": "4406029-003",
-      "gradingCompany": "NGC",
-      "grade": "PF 69 ULTRA CAMEO",
-      "platform": "易金在线",
-      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/486674.html",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/4406029-003/69/",
-      "price": 8125,
-      "priceWithFee": null,
-      "transactedAt": "2025-07-07 14:46:29",
-      "productCode": "AA571019",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "金,币,2014年,3盎司,生肖,年盎,盎司,司扇,扇形,形生,肖马,马金,金币"
-    },
     {
       "coinName": "2014年1/3盎司扇形生肖马金币",
       "normalizedBoxCode": "8576139017",
@@ -40,6 +23,23 @@
       "priceWithFee": null,
       "transactedAt": "2025-09-07 09:04:43",
       "productCode": "KH082575",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2014年,3盎司,生肖,年盎,盎司,司扇,扇形,形生,肖马,马金,金币"
+    },
+    {
+      "coinName": "2014年1/3盎司扇形生肖马金币",
+      "normalizedBoxCode": "4406029003",
+      "displayBoxCode": "4406029-003",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/486674.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4406029-003/69/",
+      "price": 8125,
+      "priceWithFee": null,
+      "transactedAt": "2025-07-07 14:46:29",
+      "productCode": "AA571019",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "金,币,2014年,3盎司,生肖,年盎,盎司,司扇,扇形,形生,肖马,马金,金币"

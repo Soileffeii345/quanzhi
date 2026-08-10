@@ -69,8 +69,8 @@ export default function Hero({
         if (resp.ok) {
           const data = await resp.json() as { suggestions: Suggestion[] };
           let next = data.suggestions ?? [];
-          // Cloudflare Workers cannot always self-fetch a bound static asset from
-          // an API route. Fall back to the public static index in the browser.
+          // Keep a browser-side fallback so suggestions remain available when
+          // the API is temporarily unavailable but the static index still works.
           if (next.length === 0) {
             if (!suggestionIndexRef.current) {
               const indexResponse = await fetch("/coin-data/index.json");

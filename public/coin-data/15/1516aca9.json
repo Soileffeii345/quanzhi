@@ -7,26 +7,9 @@
     "low": 12240,
     "high": 36800,
     "avg": 24520,
-    "latest": 12240
+    "latest": 36800
   },
   "records": [
-    {
-      "coinName": "2013年1公斤普陀山银币",
-      "normalizedBoxCode": "4410647003",
-      "displayBoxCode": "4410647-003",
-      "gradingCompany": "NGC",
-      "grade": "待复核",
-      "platform": "易金在线",
-      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/505914.html",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/4410647-003/",
-      "price": 12240,
-      "priceWithFee": null,
-      "transactedAt": "2025-10-15 19:24:08",
-      "productCode": "KH087464",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "银,币,2013年,1公斤,年公,公斤,斤普,普陀,陀山,山银,银币"
-    },
     {
       "coinName": "2013年1公斤普陀山银币",
       "normalizedBoxCode": "6740229001",
@@ -40,6 +23,23 @@
       "priceWithFee": null,
       "transactedAt": "2026-01-30 09:59:10",
       "productCode": "KH115933",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2013年,1公斤,年公,公斤,斤普,普陀,陀山,山银,银币"
+    },
+    {
+      "coinName": "2013年1公斤普陀山银币",
+      "normalizedBoxCode": "4410647003",
+      "displayBoxCode": "4410647-003",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/505914.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4410647-003/",
+      "price": 12240,
+      "priceWithFee": null,
+      "transactedAt": "2025-10-15 19:24:08",
+      "productCode": "KH087464",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "银,币,2013年,1公斤,年公,公斤,斤普,普陀,陀山,山银,银币"

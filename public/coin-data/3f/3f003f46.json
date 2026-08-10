@@ -7,26 +7,9 @@
     "low": 2750,
     "high": 3000,
     "avg": 2867,
-    "latest": 2750
+    "latest": 2850
   },
   "records": [
-    {
-      "coinName": "2013年癸巳蛇年生肖5盎司精制彩银币",
-      "normalizedBoxCode": "6423353004",
-      "displayBoxCode": "6423353-004",
-      "gradingCompany": "NGC",
-      "grade": "PF 69 ULTRA CAMEO",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10354959.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/6423353-004/69/",
-      "price": 2750,
-      "priceWithFee": 2846.25,
-      "transactedAt": "2026-06-25 19:48:35",
-      "productCode": "869753001",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "银,币,2013年,5盎司,生肖,年癸,癸巳,巳蛇,蛇年,年生,肖盎,盎司,司精,精制,制彩,彩银,银币,评级"
-    },
     {
       "coinName": "2013年癸巳蛇年生肖5盎司精制彩银币",
       "normalizedBoxCode": "8504633009",
@@ -57,6 +40,23 @@
       "priceWithFee": 3105,
       "transactedAt": "2026-07-09 20:41:25",
       "productCode": "873643004",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2013年,5盎司,生肖,年癸,癸巳,巳蛇,蛇年,年生,肖盎,盎司,司精,精制,制彩,彩银,银币,评级"
+    },
+    {
+      "coinName": "2013年癸巳蛇年生肖5盎司精制彩银币",
+      "normalizedBoxCode": "6423353004",
+      "displayBoxCode": "6423353-004",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10354959.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6423353-004/69/",
+      "price": 2750,
+      "priceWithFee": 2846.25,
+      "transactedAt": "2026-06-25 19:48:35",
+      "productCode": "869753001",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "银,币,2013年,5盎司,生肖,年癸,癸巳,巳蛇,蛇年,年生,肖盎,盎司,司精,精制,制彩,彩银,银币,评级"
