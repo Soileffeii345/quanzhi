@@ -118,7 +118,7 @@ async function main() {
 
   // Phase 4: 官方核验
   log("\n── Phase 4: 核验 ──");
-  results.push({ step: "官方核验", ok: run("verify-official-and-transaction.mjs", "核验官方评级与成交", 120_000) });
+  results.push({ step: "状态核验", ok: run("verify-official-and-transaction.mjs", "复核在售状态、价格与成交", 600_000) });
 
   // Phase 5: 导出静态 JSON
   log("\n── Phase 5: 导出 ──");

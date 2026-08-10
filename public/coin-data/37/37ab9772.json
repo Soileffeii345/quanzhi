@@ -1,15 +1,32 @@
 {
   "coinName": "1995年15.552克精制金币",
   "slug": "37ab9772",
-  "saleCount": 6,
-  "keywords": "金,币,1995年,2盎司,年台,台湾,湾光,光复,复回,回归,归祖,祖国,国周,周年,年盎,盎司,司精,精制,制金,金币,币二,二枚,枚一,一套,评级,年中,中国,国古,古典,典文,文学,学名,名著,著三,三国,国演,演义,义第,第组,组桃,桃园,园三,三结,结义,义盎,年恐,恐龙,龙应,应县,县木,木塔,塔重,重庆,庆合,合川,川马,马门,门溪,溪龙,龙盎",
+  "saleCount": 7,
+  "keywords": "金,币,1995年,2盎司,年恐,恐龙,龙应,应县,县木,木塔,塔重,重庆,庆合,合川,川马,马门,门溪,溪龙,龙盎,盎司,司精,精制,制金,金币,评级,年台,台湾,湾光,光复,复回,回归,归祖,祖国,国周,周年,年盎,币二,二枚,枚一,一套,年中,中国,国古,古典,典文,文学,学名,名著,著三,三国,国演,演义,义第,第组,组桃,桃园,园三,三结,结义,义盎",
   "priceStats": {
     "low": 23500,
     "high": 58000,
-    "avg": 39000,
-    "latest": 35500
+    "avg": 36929,
+    "latest": 24500
   },
   "records": [
+    {
+      "coinName": "1995年恐龙-应县木塔-重庆合川马门溪龙1/2盎司精制金币",
+      "normalizedBoxCode": "8601854001",
+      "displayBoxCode": "8601854-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10439289.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8601854-001/69/",
+      "price": 24500,
+      "priceWithFee": 25357.5,
+      "transactedAt": "2026-08-06 20:28:25",
+      "productCode": "879629002",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1995年,2盎司,年恐,恐龙,龙应,应县,县木,木塔,塔重,重庆,庆合,合川,川马,马门,门溪,溪龙,龙盎,盎司,司精,精制,制金,金币,评级"
+    },
     {
       "coinName": "1995年台湾光复回归祖国50周年1/2盎司精制金币二枚一套",
       "normalizedBoxCode": "8317480022",

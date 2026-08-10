@@ -1,0 +1,31 @@
+{
+  "coinName": "2018年2盎司彩色银币",
+  "slug": "4b0b0e32",
+  "saleCount": 1,
+  "keywords": "银,币,2018年,2盎司,年纽,纽埃,埃暗,暗美,美人,人系,系列,列卡,卡珊,珊德,德拉,拉特,特洛,洛伊,伊公,公主,主盎,盎司,司高,高浮,浮雕,雕彩,彩色,色银,银币",
+  "priceStats": {
+    "low": 1740,
+    "high": 1740,
+    "avg": 1740,
+    "latest": 1740
+  },
+  "records": [
+    {
+      "coinName": "2018年纽埃暗美人系列《卡珊德拉.特洛伊公主》2盎司高浮雕彩色银币",
+      "normalizedBoxCode": "8822043002",
+      "displayBoxCode": "8822043-002",
+      "gradingCompany": "NGC",
+      "grade": "MS 70",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/wgjsbizhang/10448238.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8822043-002/70/",
+      "price": 1740,
+      "priceWithFee": 1844.4,
+      "transactedAt": "2026-08-07 19:50:05",
+      "productCode": "881011007",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2018年,2盎司,年纽,纽埃,埃暗,暗美,美人,人系,系列,列卡,卡珊,珊德,德拉,拉特,特洛,洛伊,伊公,公主,主盎,盎司,司高,高浮,浮雕,雕彩,彩色,色银,银币"
+    }
+  ]
+}

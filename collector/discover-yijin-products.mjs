@@ -1,13 +1,13 @@
 import { mkdir, writeFile } from "node:fs/promises";
 import { load } from "cheerio";
 
-const maxPages = Number(Object.fromEntries(process.argv.slice(2).map((item) => item.split("="))).pages ?? 1000);
+const maxPages = Number(Object.fromEntries(process.argv.slice(2).map((item) => item.split("="))).pages ?? 5);
 const output = new URL("./data/yijin-product-ids.json", import.meta.url);
 const ids = new Set();
 let page = 1;
 
 while (page <= maxPages) {
-  const url = `https://www.yjzx.com/web2020/material/list.html?page=${page}`;
+  const url = `https://www.yjzx.com/web2020/sell/list.html?page=${page}`;
   const response = await fetch(url, { headers: { "user-agent": "QuanzhiBoxIndexer/0.1 (+low-frequency public product discovery)" } });
   if (!response.ok) throw new Error(`易金列表第 ${page} 页返回 ${response.status}`);
   const $ = load(await response.text());

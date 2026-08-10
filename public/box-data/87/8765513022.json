@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8765513022",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8765513022",
+      "displayBoxCode": "8765513-022",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2011年辛亥革命100周年1盎司精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10446359.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8765513-022/",
+      "price": 670,
+      "priceWithFee": 693.45,
+      "transactedAt": "2026-08-10 20:20:10",
+      "productCode": "880814016",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/32/880814016A.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2011年,1盎司,年辛,辛亥,亥革,革命,命周,周年,年盎,盎司,司精,精制,制银,银币,评级"
+    }
+  ]
+}

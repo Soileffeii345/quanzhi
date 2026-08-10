@@ -1,0 +1,48 @@
+{
+  "coinName": "2000年中国硬币1角",
+  "slug": "65efc7b5",
+  "saleCount": 2,
+  "keywords": "币,2000年,年中,中国,国硬,硬币,币角",
+  "priceStats": {
+    "low": 560,
+    "high": 600,
+    "avg": 580,
+    "latest": 600
+  },
+  "records": [
+    {
+      "coinName": "2000年中国硬币1角",
+      "normalizedBoxCode": "8617953044",
+      "displayBoxCode": "8617953-044",
+      "gradingCompany": "NGC",
+      "grade": "MS 66",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10444831.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8617953-044/66/",
+      "price": 600,
+      "priceWithFee": 648,
+      "transactedAt": "2026-08-05 21:00:05",
+      "productCode": "880458003",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2000年,年中,中国,国硬,硬币,币角"
+    },
+    {
+      "coinName": "2000年中国硬币1角",
+      "normalizedBoxCode": "8617953027",
+      "displayBoxCode": "8617953-027",
+      "gradingCompany": "NGC",
+      "grade": "MS 66",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10444830.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8617953-027/66/",
+      "price": 560,
+      "priceWithFee": 604.8,
+      "transactedAt": "2026-08-05 20:09:35",
+      "productCode": "880458002",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2000年,年中,中国,国硬,硬币,币角"
+    }
+  ]
+}

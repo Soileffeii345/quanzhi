@@ -1,15 +1,32 @@
 {
   "coinName": "1999年建国",
   "slug": "4a60612c",
-  "saleCount": 17,
-  "keywords": "钞,1999年,重大事件,年建,建国,国周,周年,年纪,纪念,念钞,钞元,钞伍,伍拾,拾圆",
+  "saleCount": 18,
+  "keywords": "钞,1999年,重大事件,年建,建国,国周,周年,年纪,纪念,念钞,钞伍,伍拾,拾圆,钞元",
   "priceStats": {
     "low": 190,
     "high": 720,
-    "avg": 429,
-    "latest": 720
+    "avg": 426,
+    "latest": 360
   },
   "records": [
+    {
+      "coinName": "1999年建国50周年纪念钞伍拾圆",
+      "normalizedBoxCode": "2396364036",
+      "displayBoxCode": "2396364-036",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/liantichao-jinianchao/10446852.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2396364-036/",
+      "price": 360,
+      "priceWithFee": 388.8,
+      "transactedAt": "2026-08-08 20:07:50",
+      "productCode": "880921001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,1999年,重大事件,年建,建国,国周,周年,年纪,纪念,念钞,钞伍,伍拾,拾圆"
+    },
     {
       "coinName": "1999年建国50周年纪念钞50元",
       "normalizedBoxCode": "2396001038",

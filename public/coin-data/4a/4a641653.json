@@ -1,15 +1,32 @@
 {
   "coinName": "1994年31.104克精制银币",
   "slug": "4a641653",
-  "saleCount": 1,
+  "saleCount": 2,
   "keywords": "银,币,1994年,1盎司,年中,中国,国新,新加,加坡,坡友,友好,好盎,盎司,司精,精制,制银,银币,评级",
   "priceStats": {
     "low": 540,
-    "high": 540,
-    "avg": 540,
-    "latest": 540
+    "high": 850,
+    "avg": 695,
+    "latest": 850
   },
   "records": [
+    {
+      "coinName": "1994年中国-新加坡友好1盎司精制银币",
+      "normalizedBoxCode": "8765515012",
+      "displayBoxCode": "8765515-012",
+      "gradingCompany": "NGC",
+      "grade": "PF69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10446354.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8765515-012/69/",
+      "price": 850,
+      "priceWithFee": 879.75,
+      "transactedAt": "2026-08-10 20:19:40",
+      "productCode": "880814011",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1994年,1盎司,年中,中国,国新,新加,加坡,坡友,友好,好盎,盎司,司精,精制,制银,银币,评级"
+    },
     {
       "coinName": "1994年中国-新加坡友好1盎司精制银币",
       "normalizedBoxCode": "8765515016",

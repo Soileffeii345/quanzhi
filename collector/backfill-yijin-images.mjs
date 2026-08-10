@@ -40,40 +40,29 @@ async function fetchDetail(id) {
   const $ = load(html);
   const title = clean($("h2.cointit").first().text());
   const pageText = clean($("body").text());
-  const price = Number(pageText.match(/成交价格[：:]\s*¥?\s*([0-9,]+(?:\.\d+)?)/)?.[1]?.replaceAll(",", "") ?? 0);
-  const transactedAt = pageText.match(/成交时间[：:]\s*(20\d{2}-\d{2}-\d{2}\s+\d{2}:\d{2}:\d{2})/)?.[1] ?? "";
+  const active = /立即购买/.test(pageText) && /当前售价/.test(pageText);
+  const price = Number(pageText.match(/(?:当前售价|成交价格)[：:]?\s*¥?\s*([0-9,]+(?:\.\d+)?)/)?.[1]?.replaceAll(",", "") ?? 0);
+  const transactedAt = pageText.match(/(?:上架时间|成交时间)[：:]?\s*(20\d{2}-\d{2}-\d{2}\s+\d{2}:\d{2}:\d{2})/)?.[1] ?? "";
   const productCode = $(".dmc-detailview .p1 span[title]").attr("title")?.trim() ?? "";
   const sourceImageUrls = Array.from(new Set($("img[data-original*='AuctionImages']").map((_, node) => normalizeImage($(node).attr("data-original"), detailUrl)).get()));
   if (!title || !price || !transactedAt || sourceImageUrls.length === 0) return null;
-  return { id, platform: "易金在线", title, detailUrl, price, priceWithFee: null, transactedAt, productCode, sourceImageUrls };
+  return { id, platform: "易金在线", title, detailUrl, price, priceWithFee: null, transactedAt, productCode, sourceImageUrls, active };
 }
 
 await mkdir(new URL("pages/", outputRoot), { recursive: true });
 await mkdir(new URL("boxes/", outputRoot), { recursive: true });
 let worker = await createWorker("eng");
 const summary = { platform: "易金在线", start, end, pages: 0, images: 0, boxes: 0, errors: [] };
+const discoveredIdsPath = new URL("./data/yijin-product-ids.json", import.meta.url);
 const ids = args.ids
   ? JSON.parse(await readFile(args.ids, "utf8")).ids.map(Number)
-  : Array.from({ length: start - end + 1 }, (_, index) => start - index);
+  : JSON.parse(await readFile(discoveredIdsPath, "utf8")).ids.map(Number);
 const offset = Number(args.offset ?? 0);
-const selectedIds = args.limit ? ids.slice(offset, offset + Number(args.limit)) : ids.slice(offset);
+const selectedIds = ids.slice(offset, offset + Number(args.limit ?? 30));
 
 async function recognizeWithTimeout(imageUrl, timeoutMs = 20000) {
-  let timer;
-  try {
-    return await Promise.race([
-      worker.recognize(imageUrl),
-      new Promise((_, reject) => { timer = setTimeout(() => reject(new Error("OCR_TIMEOUT")), timeoutMs); }),
-    ]);
-  } catch (error) {
-    if (error instanceof Error && error.message === "OCR_TIMEOUT") {
-      await worker.terminate().catch(() => undefined);
-      worker = await createWorker("eng");
-    }
-    throw error;
-  } finally {
-    clearTimeout(timer);
-  }
+  void timeoutMs;
+  return worker.recognize(imageUrl);
 }
 
 try {
@@ -123,7 +112,7 @@ try {
           boxEvidenceImageUrl: imageUrl,
           ocrText,
           ocrConfidence: Math.round(result.data.confidence),
-          verificationStatus: "image_exact",
+          verificationStatus: page.active ? "active_listing" : "image_exact",
           evidenceNote: "平台商品原图OCR包含完整盒号；上线展示前仍需抽样复核。",
           collectedAt: new Date().toISOString(),
         });

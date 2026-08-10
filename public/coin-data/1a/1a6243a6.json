@@ -1,0 +1,31 @@
+{
+  "coinName": "2005年25克金银币",
+  "slug": "1a6243a6",
+  "saleCount": 1,
+  "keywords": "金,银,币,2005年,25克,年利,利比,比里,里亚,亚教,教皇,皇宗,宗教,教出,出缺,缺镶,镶嵌,嵌施,施华,华洛,洛世,世奇,奇水,水晶,晶克,克异,异形,形镀,镀金,金银,银币",
+  "priceStats": {
+    "low": 1200,
+    "high": 1200,
+    "avg": 1200,
+    "latest": 1200
+  },
+  "records": [
+    {
+      "coinName": "2005年利比里亚教皇宗教出缺镶嵌施华洛世奇水晶25克异形镀金银币",
+      "normalizedBoxCode": "8815432008",
+      "displayBoxCode": "8815432-008",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/wgjsbizhang/10448233.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8815432-008/",
+      "price": 1200,
+      "priceWithFee": 1272,
+      "transactedAt": "2026-08-07 20:11:45",
+      "productCode": "881011002",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,2005年,25克,年利,利比,比里,里亚,亚教,教皇,皇宗,宗教,教出,出缺,缺镶,镶嵌,嵌施,施华,华洛,洛世,世奇,奇水,水晶,晶克,克异,异形,形镀,镀金,金银,银币"
+    }
+  ]
+}

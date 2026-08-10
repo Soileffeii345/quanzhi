@@ -1,15 +1,49 @@
 {
   "coinName": "2001年精制",
   "slug": "7e473dd0",
-  "saleCount": 4,
-  "keywords": "币,2001年,年西,西藏,藏和,和平,平解,解放,放周,周年,年精,精制,制流,流通,通纪,纪念,念币,评级,年辛,辛亥,亥革,革命,命周,制纪",
+  "saleCount": 6,
+  "keywords": "币,2001年,年辛,辛亥,亥革,革命,命周,周年,年精,精制,制流,流通,通纪,纪念,念币,评级,年西,西藏,藏和,和平,平解,解放,放周,制纪",
   "priceStats": {
     "low": 180,
     "high": 480,
-    "avg": 328,
-    "latest": 310
+    "avg": 342,
+    "latest": 410
   },
   "records": [
+    {
+      "coinName": "2001年辛亥革命90周年精制流通纪念币",
+      "normalizedBoxCode": "8574497008",
+      "displayBoxCode": "8574497-008",
+      "gradingCompany": "NGC",
+      "grade": "PF 69",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10441516.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8574497-008/69/",
+      "price": 410,
+      "priceWithFee": 442.8,
+      "transactedAt": "2026-08-05 20:38:05",
+      "productCode": "879976008",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2001年,年辛,辛亥,亥革,革命,命周,周年,年精,精制,制流,流通,通纪,纪念,念币,评级"
+    },
+    {
+      "coinName": "2001年西藏和平解放50周年精制流通纪念币",
+      "normalizedBoxCode": "6726255024",
+      "displayBoxCode": "6726255-024",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10441517.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6726255-024/69/",
+      "price": 330,
+      "priceWithFee": 356.4,
+      "transactedAt": "2026-08-05 20:23:05",
+      "productCode": "879976009",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2001年,年西,西藏,藏和,和平,平解,解放,放周,周年,年精,精制,制流,流通,通纪,纪念,念币,评级"
+    },
     {
       "coinName": "2001年西藏和平解放50周年精制流通纪念币",
       "normalizedBoxCode": "6049948010",

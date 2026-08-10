@@ -1,0 +1,48 @@
+{
+  "coinName": "福建官局造光绪元宝十文铜币",
+  "slug": "4b0863fe",
+  "saleCount": 2,
+  "keywords": "铜,币,历史币,龙洋,龙,元宝,福建,建官,官局,局造,造光,光绪,绪元,宝十,十文,文铜,铜币",
+  "priceStats": {
+    "low": 15,
+    "high": 30,
+    "avg": 23,
+    "latest": 15
+  },
+  "records": [
+    {
+      "coinName": "福建官局造光绪元宝十文铜币",
+      "normalizedBoxCode": "1310729594",
+      "displayBoxCode": "1310729-594",
+      "gradingCompany": "NGC",
+      "grade": "XF 45",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguojindaijizhibi/10413720.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1310729-594/45/",
+      "price": 15,
+      "priceWithFee": 16.2,
+      "transactedAt": "2026-08-10 19:43:05",
+      "productCode": "876805001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "铜,币,历史币,龙洋,龙,元宝,福建,建官,官局,局造,造光,光绪,绪元,宝十,十文,文铜,铜币"
+    },
+    {
+      "coinName": "福建官局造光绪元宝十文铜币",
+      "normalizedBoxCode": "1310738705",
+      "displayBoxCode": "1310738-705",
+      "gradingCompany": "NGC",
+      "grade": "XF 45",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguojindaijizhibi/10413723.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1310738-705/45/",
+      "price": 30,
+      "priceWithFee": 32.4,
+      "transactedAt": "2026-08-10 19:32:35",
+      "productCode": "876805004",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "铜,币,历史币,龙洋,龙,元宝,福建,建官,官局,局造,造光,光绪,绪元,宝十,十文,文铜,铜币"
+    }
+  ]
+}

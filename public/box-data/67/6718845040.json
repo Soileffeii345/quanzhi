@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6718845040",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6718845040",
+      "displayBoxCode": "6718845-040",
+      "gradingCompany": "NGC",
+      "grade": "Ms70",
+      "coinName": "2021年情人节、上海造币有限公司发行虎头背文殊菩萨纪念章各一枚，共二枚",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/tongzhang/10341461.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6718845-040/70/",
+      "price": 230,
+      "priceWithFee": 255.3,
+      "transactedAt": "2026-08-07 19:54:20",
+      "productCode": "868629004",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/24/868629004A.jpg",
+      "ocrConfidence": 37,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,章,2021年,宗教,年情,情人,人节,节上,上海,海造,造币,币有,有限,限公,公司,司发,发行,行虎,虎头,头背,背文,文殊,殊菩,菩萨,萨纪,纪念,念章,章各,各一,一枚,枚共,共二,二枚"
+    }
+  ]
+}

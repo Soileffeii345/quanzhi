@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8652950012",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8652950012",
+      "displayBoxCode": "8652950-012",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1998年戊寅虎年生肖1/2盎司梅花形精制金币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-jin/10446346.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8652950-012/69/",
+      "price": 16600,
+      "priceWithFee": 17181,
+      "transactedAt": "2026-08-06 20:25:55",
+      "productCode": "880814003",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/32/880814003A.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1998年,2盎司,生肖,年戊,戊寅,寅虎,虎年,年生,肖盎,盎司,司梅,梅花,花形,形精,精制,制金,金币,评级"
+    }
+  ]
+}

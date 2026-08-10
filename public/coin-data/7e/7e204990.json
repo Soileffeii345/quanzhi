@@ -1,15 +1,32 @@
 {
   "coinName": "2021年金币",
   "slug": "7e204990",
-  "saleCount": 3,
-  "keywords": "金,章,2021年,宗教,年千,千手,手观,观音,音镀,镀金,金纪,纪念,念章,铜,金铜,铜章",
+  "saleCount": 4,
+  "keywords": "金,银,铜,章,2021年,宗教,年千,千手,手观,观音,音镀,镀金,金镀,镀银,银纪,纪念,念章,章紫,紫铜,铜章,章各,各一,一枚,枚共,共三,三枚,金纪,金铜",
   "priceStats": {
     "low": 170,
-    "high": 290,
-    "avg": 217,
-    "latest": 170
+    "high": 420,
+    "avg": 268,
+    "latest": 420
   },
   "records": [
+    {
+      "coinName": "2021年千手观音镀金、镀银纪念章、紫铜章各一枚，共三枚",
+      "normalizedBoxCode": "8501845046",
+      "displayBoxCode": "8501845-046",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/tongzhang/10280338.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8501845-046/",
+      "price": 420,
+      "priceWithFee": 466.2,
+      "transactedAt": "2026-08-07 19:53:30",
+      "productCode": "861003011",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,铜,章,2021年,宗教,年千,千手,手观,观音,音镀,镀金,金镀,镀银,银纪,纪念,念章,章紫,紫铜,铜章,章各,各一,一枚,枚共,共三,三枚"
+    },
     {
       "coinName": "2021年千手观音镀金纪念章",
       "normalizedBoxCode": "8203148072",

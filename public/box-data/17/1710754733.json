@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "1710754733",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "1710754733",
+      "displayBoxCode": "1710754-733",
+      "gradingCompany": "NGC",
+      "grade": "AU 55",
+      "coinName": "1923年美国和平女神26.73克银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/wgjsbizhang/10444903.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1710754-733/55/",
+      "price": 420,
+      "priceWithFee": 445.2,
+      "transactedAt": "2026-08-07 19:10:55",
+      "productCode": "880639002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/878259002A.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1923年,26.73克,年美,美国,国和,和平,平女,女神,神克,克银,银币,外国/特区"
+    }
+  ]
+}

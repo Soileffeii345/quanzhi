@@ -1,15 +1,32 @@
 {
   "coinName": "2005年生肖15.552克精制金币",
   "slug": "0ac192aa",
-  "saleCount": 1,
+  "saleCount": 2,
   "keywords": "金,币,2005年,2盎司,生肖,年乙,乙酉,酉鸡,鸡年,年生,肖盎,盎司,司梅,梅花,花形,形精,精制,制金,金币,评级",
   "priceStats": {
     "low": 16000,
-    "high": 16000,
-    "avg": 16000,
-    "latest": 16000
+    "high": 16200,
+    "avg": 16100,
+    "latest": 16200
   },
   "records": [
+    {
+      "coinName": "2005年乙酉鸡年生肖1/2盎司梅花形精制金币",
+      "normalizedBoxCode": "8498805023",
+      "displayBoxCode": "8498805-023",
+      "gradingCompany": "NGC",
+      "grade": "PF 70",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-jin/10443143.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8498805-023/70/",
+      "price": 16200,
+      "priceWithFee": 16767,
+      "transactedAt": "2026-08-06 20:52:35",
+      "productCode": "880291003",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2005年,2盎司,生肖,年乙,乙酉,酉鸡,鸡年,年生,肖盎,盎司,司梅,梅花,花形,形精,精制,制金,金币,评级"
+    },
     {
       "coinName": "2005年乙酉鸡年生肖1/2盎司梅花形精制金币",
       "normalizedBoxCode": "8761328007",

@@ -1,0 +1,31 @@
+{
+  "coinName": "2006年生肖3.11克普制金币",
+  "slug": "1d856b3a",
+  "saleCount": 1,
+  "keywords": "金,币,2006年,10盎司,生肖,年丙,丙戌,戌狗,狗年,年生,肖盎,盎司,司普,普制,制金,金币",
+  "priceStats": {
+    "low": 3100,
+    "high": 3100,
+    "avg": 3100,
+    "latest": 3100
+  },
+  "records": [
+    {
+      "coinName": "2006年丙戌狗年生肖1/10盎司普制金币",
+      "normalizedBoxCode": "8188709006",
+      "displayBoxCode": "8188709-006",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-jin/10444881.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8188709-006/69/",
+      "price": 3100,
+      "priceWithFee": 3208.5,
+      "transactedAt": "2026-08-06 20:21:45",
+      "productCode": "880419010",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2006年,10盎司,生肖,年丙,丙戌,戌狗,狗年,年生,肖盎,盎司,司普,普制,制金,金币"
+    }
+  ]
+}

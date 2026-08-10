@@ -1,0 +1,31 @@
+{
+  "coinName": "1987年3盎司精制金币",
+  "slug": "3853b991",
+  "saleCount": 1,
+  "keywords": "金,币,1987年,3盎司,年中,中国,国杰,杰出,出历,历史,史人,人物,物第,第组,组李,李世,世民,民盎,盎司,司精,精制,制金,金币,评级",
+  "priceStats": {
+    "low": 10200,
+    "high": 10200,
+    "avg": 10200,
+    "latest": 10200
+  },
+  "records": [
+    {
+      "coinName": "1987年中国杰出历史人物第（4）组-李世民1/3盎司精制金币",
+      "normalizedBoxCode": "6733279002",
+      "displayBoxCode": "6733279-002",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10439294.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6733279-002/69/",
+      "price": 10200,
+      "priceWithFee": 10557,
+      "transactedAt": "2026-08-06 20:30:05",
+      "productCode": "879629007",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1987年,3盎司,年中,中国,国杰,杰出,出历,历史,史人,人物,物第,第组,组李,李世,世民,民盎,盎司,司精,精制,制金,金币,评级"
+    }
+  ]
+}

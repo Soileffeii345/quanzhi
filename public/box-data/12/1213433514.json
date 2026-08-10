@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "1213433514",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "1213433514",
+      "displayBoxCode": "1213433-514",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "民国十六年总理纪念币正面像贰角银元",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguojindaijizhibi/10416432.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1213433-514/",
+      "price": 1800,
+      "priceWithFee": 1944,
+      "transactedAt": "2026-08-10 20:14:05",
+      "productCode": "877112001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/869166001A.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,历史币,民国,国十,十六,六年,年总,总理,理纪,纪念,念币,币正,正面,面像,像贰,贰角,角银,银元"
+    }
+  ]
+}

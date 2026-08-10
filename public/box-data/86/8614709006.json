@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8614709006",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8614709006",
+      "displayBoxCode": "8614709-006",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2004年观音1/10盎司精制铂金币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-bojin/10444853.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8614709-006/69/",
+      "price": 1940,
+      "priceWithFee": 2007.9,
+      "transactedAt": "2026-08-06 20:55:55",
+      "productCode": "880533005",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/31/880533005A.jpg",
+      "ocrConfidence": 42,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,贵金属,币,2004年,10盎司,宗教,年观,观音,音盎,盎司,司精,精制,制铂,铂金,金币,评级"
+    }
+  ]
+}

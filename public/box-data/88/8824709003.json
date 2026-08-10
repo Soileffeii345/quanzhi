@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8824709003",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8824709003",
+      "displayBoxCode": "8824709-003",
+      "gradingCompany": "NGC",
+      "grade": "Ms69",
+      "coinName": "2002年熊猫普制金币五枚一套（含1/20盎司、1/10盎司、1/4盎司、1/2盎司、1盎司）",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-jiujin/10441050.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8824709-003/69/",
+      "price": 64000,
+      "priceWithFee": 66240,
+      "transactedAt": "2026-08-06 20:56:45",
+      "productCode": "880142001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/32/880142001A.jpg",
+      "ocrConfidence": 30,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2002年,20盎司,熊猫,年熊,猫普,普制,制金,金币,币五,五枚,枚一,一套,套含,含盎,盎司,司盎"
+    }
+  ]
+}

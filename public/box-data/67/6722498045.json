@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6722498045",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6722498045",
+      "displayBoxCode": "6722498-045",
+      "gradingCompany": "NGC",
+      "grade": "Ms69",
+      "coinName": "1991年全民义务植树运动10周年流通纪念币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10441903.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6722498-045/69/",
+      "price": 200,
+      "priceWithFee": 216,
+      "transactedAt": "2026-08-05 19:31:05",
+      "productCode": "880228002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/22/865072015A.jpg",
+      "ocrConfidence": 37,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1991年,年全,全民,民义,义务,务植,植树,树运,运动,动周,周年,年流,流通,通纪,纪念,念币"
+    }
+  ]
+}

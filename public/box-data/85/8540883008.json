@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8540883008",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8540883008",
+      "displayBoxCode": "8540883-008",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2000年纪念敦煌藏经洞发现100周年精制流通纪念币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10435069.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8540883-008/69/",
+      "price": 7000,
+      "priceWithFee": 7560,
+      "transactedAt": "2026-08-05 19:22:05",
+      "productCode": "879093008",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/31/879093008A.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2000年,年纪,纪念,念敦,敦煌,煌藏,藏经,经洞,洞发,发现,现周,周年,年精,精制,制流,流通,通纪,念币,评级"
+    }
+  ]
+}

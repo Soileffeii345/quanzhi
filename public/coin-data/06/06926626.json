@@ -1,15 +1,32 @@
 {
   "coinName": "2016年吉祥文化30克精制银币",
   "slug": "06926626",
-  "saleCount": 12,
+  "saleCount": 13,
   "keywords": "银,币,2016年,30克,吉祥文化,年吉,吉祥,祥文,文化,化五,五福,福拱,拱寿,寿克,克精,精制,制银,银币,评级,化瓜,瓜瓞,瓞绵,绵绵,绵克,化年,年年,年有,有余,余克,化并,并蒂,蒂同,同心,心克",
   "priceStats": {
     "low": 560,
-    "high": 880,
-    "avg": 695,
-    "latest": 830
+    "high": 920,
+    "avg": 712,
+    "latest": 920
   },
   "records": [
+    {
+      "coinName": "2016年吉祥文化-五福拱寿30克精制银币",
+      "normalizedBoxCode": "4414581064",
+      "displayBoxCode": "4414581-064",
+      "gradingCompany": "NGC",
+      "grade": "PF70 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10445325.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4414581-064/70/",
+      "price": 920,
+      "priceWithFee": 952.2,
+      "transactedAt": "2026-08-10 19:33:40",
+      "productCode": "880669002",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2016年,30克,吉祥文化,年吉,吉祥,祥文,文化,化五,五福,福拱,拱寿,寿克,克精,精制,制银,银币,评级"
+    },
     {
       "coinName": "2016年吉祥文化-五福拱寿30克精制银币",
       "normalizedBoxCode": "4414581060",

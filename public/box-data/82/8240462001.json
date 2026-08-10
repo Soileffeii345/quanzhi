@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8240462001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8240462001",
+      "displayBoxCode": "8240462-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 69",
+      "coinName": "1982年中国精制硬币壹圆",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10437762.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8240462-001/69/",
+      "price": 6400,
+      "priceWithFee": 6912,
+      "transactedAt": "2026-08-05 19:52:05",
+      "productCode": "878948008",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/31/878948008A.jpg",
+      "ocrConfidence": 32,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1982年,年中,中国,国精,精制,制硬,硬币,币壹,壹圆,评级"
+    }
+  ]
+}

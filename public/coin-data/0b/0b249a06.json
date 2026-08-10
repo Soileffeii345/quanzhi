@@ -1,0 +1,31 @@
+{
+  "coinName": "2002年-2008年朝鲜硬币样币",
+  "slug": "0b249a06",
+  "saleCount": 1,
+  "keywords": "币,2002年,样币,年年,年朝,朝鲜,鲜硬,硬币,币样,币五,五枚,枚一,一套",
+  "priceStats": {
+    "low": 380,
+    "high": 380,
+    "avg": 380,
+    "latest": 380
+  },
+  "records": [
+    {
+      "coinName": "2002年-2008年朝鲜硬币样币五枚一套",
+      "normalizedBoxCode": "1100709030",
+      "displayBoxCode": "1100709-030",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianbi/10448697.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1100709-030/",
+      "price": 380,
+      "priceWithFee": 421.8,
+      "transactedAt": "2026-08-07 19:29:15",
+      "productCode": "880857001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2002年,样币,年年,年朝,朝鲜,鲜硬,硬币,币样,币五,五枚,枚一,一套"
+    }
+  ]
+}

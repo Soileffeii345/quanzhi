@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "5753855001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "5753855001",
+      "displayBoxCode": "5753855-001",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "coinName": "2020年庚子鼠年生肖流通纪念币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10439144.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/5753855-001/69/",
+      "price": 210,
+      "priceWithFee": 226.8,
+      "transactedAt": "2026-08-05 19:11:35",
+      "productCode": "879850001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/22/863990005A.jpg",
+      "ocrConfidence": 44,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2020年,生肖,年庚,庚子,子鼠,鼠年,年生,肖流,流通,通纪,纪念,念币"
+    }
+  ]
+}

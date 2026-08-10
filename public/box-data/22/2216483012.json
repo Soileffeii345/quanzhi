@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2216483012",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2216483012",
+      "displayBoxCode": "2216483-012",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "第三版人民币汽车1分三枚",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/disanbanrenminbi/10446088.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2216483-012/",
+      "price": 130,
+      "priceWithFee": 140.4,
+      "transactedAt": "2026-08-08 20:24:35",
+      "productCode": "880567013",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/32/880567013B.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,第三,三版,版人,人民,民币,币汽,汽车,车分,分三,三枚"
+    }
+  ]
+}

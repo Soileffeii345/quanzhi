@@ -1,15 +1,32 @@
 {
   "coinName": "2010年生肖1公斤银币",
   "slug": "6af08d37",
-  "saleCount": 1,
-  "keywords": "银,币,2010年,1公斤,生肖,年公,公斤,斤生,肖虎,虎银,银币",
+  "saleCount": 2,
+  "keywords": "银,币,2010年,1公斤,生肖,年澳,澳大,大利,利亚,亚虎,虎年,年生,肖公,公斤,斤银,银币,外国/特区,年公,斤生,肖虎,虎银",
   "priceStats": {
-    "low": 32000,
+    "low": 14600,
     "high": 32000,
-    "avg": 32000,
-    "latest": 32000
+    "avg": 23300,
+    "latest": 14600
   },
   "records": [
+    {
+      "coinName": "2010年澳大利亚虎年生肖1公斤银币",
+      "normalizedBoxCode": "8824986014",
+      "displayBoxCode": "8824986-014",
+      "gradingCompany": "NGC",
+      "grade": "MS69",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/wgjsbizhang/10443554.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8824986-014/69/",
+      "price": 14600,
+      "priceWithFee": 15476,
+      "transactedAt": "2026-08-07 20:09:15",
+      "productCode": "880217005",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2010年,1公斤,生肖,年澳,澳大,大利,利亚,亚虎,虎年,年生,肖公,公斤,斤银,银币,外国/特区"
+    },
     {
       "coinName": "2010年1公斤生肖虎银币",
       "normalizedBoxCode": "3396081011",

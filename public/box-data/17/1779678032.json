@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "1779678032",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "1779678032",
+      "displayBoxCode": "1779678-032",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1979年中国银行外汇兑换券5元",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waihuiduihuanquan/10445004.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1779678-032/",
+      "price": 480,
+      "priceWithFee": 518.4,
+      "transactedAt": "2026-08-08 20:24:05",
+      "productCode": "880449005",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/31/880449005B.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,1979年,年中,中国,国银,银行,行外,外汇,汇兑,兑换,换券,券元"
+    }
+  ]
+}

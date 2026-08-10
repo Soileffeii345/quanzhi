@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "5800270001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "5800270001",
+      "displayBoxCode": "5800270-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 70",
+      "coinName": "2020年世界遗产（良渚古城遗址）500克精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10439878.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/5800270-001/70/",
+      "price": 19600,
+      "priceWithFee": 20286,
+      "transactedAt": "2026-08-06 19:50:05",
+      "productCode": "879528004",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/31/879528004A.jpg",
+      "ocrConfidence": 47,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2020年,500克,年世,世界,界遗,遗产,产良,良渚,渚古,古城,城遗,遗址,址克,克精,精制,制银,银币,评级"
+    }
+  ]
+}

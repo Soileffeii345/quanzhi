@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8543665050",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8543665050",
+      "displayBoxCode": "8543665-050",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1987年美国长滩钱币邮票展-大熊猫5盎司银章",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10446362.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8543665-050/69/",
+      "price": 3600,
+      "priceWithFee": 3726,
+      "transactedAt": "2026-08-06 20:05:55",
+      "productCode": "880814019",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/32/880814019A.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,钞,章,1987年,5盎司,熊猫,年美,美国,国长,长滩,滩钱,钱币,币邮,邮票,票展,展大,大熊,猫盎,盎司,司银,银章,外国/特区"
+    }
+  ]
+}

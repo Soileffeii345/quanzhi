@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4894963014",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4894963014",
+      "displayBoxCode": "4894963-014",
+      "gradingCompany": "NGC",
+      "grade": "MS 68",
+      "coinName": "1975年中国硬币壹分",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10441526.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4894963-014/68/",
+      "price": 120,
+      "priceWithFee": 129.6,
+      "transactedAt": "2026-08-05 19:40:05",
+      "productCode": "879992002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/31/879992002A.jpg",
+      "ocrConfidence": 32,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1975年,年中,中国,国硬,硬币,币壹,壹分"
+    }
+  ]
+}

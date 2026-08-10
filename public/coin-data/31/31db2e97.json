@@ -1,0 +1,82 @@
+{
+  "coinName": "湖南省造光绪元宝当十铜币",
+  "slug": "31db2e97",
+  "saleCount": 4,
+  "keywords": "铜,币,历史币,龙洋,龙,元宝,湖南,南省,省造,造光,光绪,绪元,宝当,当十,十铜,铜币",
+  "priceStats": {
+    "low": 310,
+    "high": 310,
+    "avg": 310,
+    "latest": 310
+  },
+  "records": [
+    {
+      "coinName": "湖南省造光绪元宝当十铜币",
+      "normalizedBoxCode": "8656427003",
+      "displayBoxCode": "8656427-003",
+      "gradingCompany": "NGC",
+      "grade": "AU 55",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguojindaijizhibi/10403142.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8656427-003/55/",
+      "price": 310,
+      "priceWithFee": 334.8,
+      "transactedAt": "2026-08-10 20:31:35",
+      "productCode": "875427020",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "铜,币,历史币,龙洋,龙,元宝,湖南,南省,省造,造光,光绪,绪元,宝当,当十,十铜,铜币"
+    },
+    {
+      "coinName": "湖南省造光绪元宝当十铜币",
+      "normalizedBoxCode": "8610137037",
+      "displayBoxCode": "8610137-037",
+      "gradingCompany": "NGC",
+      "grade": "XF 45",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguojindaijizhibi/10403141.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8610137-037/45/",
+      "price": 310,
+      "priceWithFee": 334.8,
+      "transactedAt": "2026-08-10 19:57:05",
+      "productCode": "875427019",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "铜,币,历史币,龙洋,龙,元宝,湖南,南省,省造,造光,光绪,绪元,宝当,当十,十铜,铜币"
+    },
+    {
+      "coinName": "湖南省造光绪元宝当十铜币",
+      "normalizedBoxCode": "8647030035",
+      "displayBoxCode": "8647030-035",
+      "gradingCompany": "NGC",
+      "grade": "AU 50",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguojindaijizhibi/10403140.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8647030-035/50/",
+      "price": 310,
+      "priceWithFee": 334.8,
+      "transactedAt": "2026-08-10 19:49:05",
+      "productCode": "875427018",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "铜,币,历史币,龙洋,龙,元宝,湖南,南省,省造,造光,光绪,绪元,宝当,当十,十铜,铜币"
+    },
+    {
+      "coinName": "湖南省造光绪元宝当十铜币",
+      "normalizedBoxCode": "8610127043",
+      "displayBoxCode": "8610127-043",
+      "gradingCompany": "NGC",
+      "grade": "AU 50",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguojindaijizhibi/10403139.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8610127-043/50/",
+      "price": 310,
+      "priceWithFee": 334.8,
+      "transactedAt": "2026-08-10 19:38:05",
+      "productCode": "875427017",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "铜,币,历史币,龙洋,龙,元宝,湖南,南省,省造,造光,光绪,绪元,宝当,当十,十铜,铜币"
+    }
+  ]
+}

@@ -1,15 +1,32 @@
 {
   "coinName": "1986年3盎司精制金币",
   "slug": "3c28b770",
-  "saleCount": 1,
-  "keywords": "金,币,1986年,3盎司,年国,国际,际和,和平,平年,年盎,盎司,司精,精制,制金,金币,评级",
+  "saleCount": 2,
+  "keywords": "金,币,1986年,3盎司,年世,世界,界野,野生,生动,动物,物基,基金,金会,会成,成立,立年,年牦,牦牛,牛盎,盎司,司精,精制,制金,金币,评级,年国,国际,际和,和平,平年,年盎",
   "priceStats": {
-    "low": 39500,
+    "low": 9800,
     "high": 39500,
-    "avg": 39500,
-    "latest": 39500
+    "avg": 24650,
+    "latest": 9800
   },
   "records": [
+    {
+      "coinName": "1986年世界野生动物基金会成立25年-牦牛1/3盎司精制金币",
+      "normalizedBoxCode": "8577197002",
+      "displayBoxCode": "8577197-002",
+      "gradingCompany": "NGC",
+      "grade": "PF 68 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10439292.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8577197-002/68/",
+      "price": 9800,
+      "priceWithFee": 10143,
+      "transactedAt": "2026-08-06 20:11:45",
+      "productCode": "879629005",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1986年,3盎司,年世,世界,界野,野生,生动,动物,物基,基金,金会,会成,成立,立年,年牦,牦牛,牛盎,盎司,司精,精制,制金,金币,评级"
+    },
     {
       "coinName": "1986年国际和平年1/3盎司精制金币",
       "normalizedBoxCode": "8825205001",

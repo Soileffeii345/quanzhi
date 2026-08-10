@@ -1,12 +1,12 @@
 {
   "coinName": "2000年精制",
   "slug": "7e47ca31",
-  "saleCount": 8,
-  "keywords": "币,2000年,年敦,敦煌,煌藏,藏经,经洞,洞发,发现,现周,周年,年精,精制,制纪,纪念,念币,评级,年迎,迎接,接新,新世,世纪,纪精,制流,流通,通纪,新实,实际,际精,年中,中国,国精,制硬,硬币,币角,年纪,念敦,币伍,伍分",
+  "saleCount": 9,
+  "keywords": "币,2000年,年敦,敦煌,煌藏,藏经,经洞,洞发,发现,现周,周年,年精,精制,制纪,纪念,念币,评级,年纪,念敦,制流,流通,通纪,年迎,迎接,接新,新世,世纪,纪精,新实,实际,际精,年中,中国,国精,制硬,硬币,币角,币伍,伍分",
   "priceStats": {
     "low": 370,
-    "high": 6800,
-    "avg": 2205,
+    "high": 7000,
+    "avg": 2738,
     "latest": 6800
   },
   "records": [
@@ -26,6 +26,23 @@
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "币,2000年,年敦,敦煌,煌藏,藏经,经洞,洞发,发现,现周,周年,年精,精制,制纪,纪念,念币,评级"
+    },
+    {
+      "coinName": "2000年纪念敦煌藏经洞发现100周年精制流通纪念币",
+      "normalizedBoxCode": "8540883008",
+      "displayBoxCode": "8540883-008",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10435069.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8540883-008/69/",
+      "price": 7000,
+      "priceWithFee": 7560,
+      "transactedAt": "2026-08-05 19:22:05",
+      "productCode": "879093008",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2000年,年纪,纪念,念敦,敦煌,煌藏,藏经,经洞,洞发,发现,现周,周年,年精,精制,制流,流通,通纪,念币,评级"
     },
     {
       "coinName": "2000年敦煌藏经洞发现100周年精制纪念币",

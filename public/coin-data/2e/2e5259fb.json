@@ -1,0 +1,31 @@
+{
+  "coinName": "1975年中国硬币壹分",
+  "slug": "2e5259fb",
+  "saleCount": 1,
+  "keywords": "币,1975年,年中,中国,国硬,硬币,币壹,壹分",
+  "priceStats": {
+    "low": 120,
+    "high": 120,
+    "avg": 120,
+    "latest": 120
+  },
+  "records": [
+    {
+      "coinName": "1975年中国硬币壹分",
+      "normalizedBoxCode": "4894963014",
+      "displayBoxCode": "4894963-014",
+      "gradingCompany": "NGC",
+      "grade": "MS 68",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10441526.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4894963-014/68/",
+      "price": 120,
+      "priceWithFee": 129.6,
+      "transactedAt": "2026-08-05 19:40:05",
+      "productCode": "879992002",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1975年,年中,中国,国硬,硬币,币壹,壹分"
+    }
+  ]
+}

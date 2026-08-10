@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4576114002",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4576114002",
+      "displayBoxCode": "4576114-002",
+      "gradingCompany": "NGC",
+      "grade": "Ms67",
+      "coinName": "1997年庆祝中华人民共和国香港特别行政区成立流通纪念币二枚一套",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10440245.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4576114-002/67/",
+      "price": 240,
+      "priceWithFee": 259.2,
+      "transactedAt": "2026-08-05 19:35:35",
+      "productCode": "879956003",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/31/879956003A.jpg",
+      "ocrConfidence": 45,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1997年,年庆,庆祝,祝中,中华,华人,人民,民共,共和,和国,国香,香港,港特,特别,别行,行政,政区,区成,成立,立流,流通,通纪,纪念,念币,币二,二枚,枚一,一套,外国/特区"
+    }
+  ]
+}

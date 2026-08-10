@@ -1,15 +1,49 @@
 {
   "coinName": "2002年5盎司精制银币",
   "slug": "13c9251d",
-  "saleCount": 2,
-  "keywords": "银,币,2002年,5盎司,年中,中国,国石,石窟,窟艺,艺术,术龙,龙门,门石,窟天,天王,王图,图盎,盎司,司精,精制,制银,银币,评级,国古,古典,典文,文学,学名,名著,著红,红楼,楼梦,梦第,第组,组群,群芳,芳夜,夜宴,宴盎,司扇,扇形,形精,制彩,彩银",
+  "saleCount": 4,
+  "keywords": "银,币,2002年,5盎司,年中,中国,国古,古典,典文,文学,学名,名著,著红,红楼,楼梦,梦第,第组,组群,群芳,芳夜,夜宴,宴盎,盎司,司扇,扇形,形精,精制,制彩,彩银,银币,评级,宴图,图盎,国石,石窟,窟艺,艺术,术龙,龙门,门石,窟天,天王,王图,司精,制银",
   "priceStats": {
-    "low": 3500,
+    "low": 2950,
     "high": 4750,
-    "avg": 4125,
-    "latest": 4750
+    "avg": 3613,
+    "latest": 3250
   },
   "records": [
+    {
+      "coinName": "2002年中国古典文学名著《红楼梦》第（2）组-群芳夜宴5盎司扇形精制彩银币",
+      "normalizedBoxCode": "8660830010",
+      "displayBoxCode": "8660830-010",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10444851.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8660830-010/69/",
+      "price": 3250,
+      "priceWithFee": 3363.75,
+      "transactedAt": "2026-08-06 19:40:05",
+      "productCode": "880533003",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2002年,5盎司,年中,中国,国古,古典,典文,文学,学名,名著,著红,红楼,楼梦,梦第,第组,组群,群芳,芳夜,夜宴,宴盎,盎司,司扇,扇形,形精,精制,制彩,彩银,银币,评级"
+    },
+    {
+      "coinName": "2002年中国古典文学名著《红楼梦》第（2）组-群芳夜宴图5盎司扇形精制彩银币",
+      "normalizedBoxCode": "8610377003",
+      "displayBoxCode": "8610377-003",
+      "gradingCompany": "NGC",
+      "grade": "PF 68 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10442312.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8610377-003/68/",
+      "price": 2950,
+      "priceWithFee": 3053.25,
+      "transactedAt": "2026-08-06 19:39:15",
+      "productCode": "880106002",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2002年,5盎司,年中,中国,国古,古典,典文,文学,学名,名著,著红,红楼,楼梦,梦第,第组,组群,群芳,芳夜,夜宴,宴图,图盎,盎司,司扇,扇形,形精,精制,制彩,彩银,银币,评级"
+    },
     {
       "coinName": "2002年中国石窟艺术-龙门石窟-天王图5盎司精制银币",
       "normalizedBoxCode": "8500177002",

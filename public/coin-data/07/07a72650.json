@@ -1,15 +1,32 @@
 {
   "coinName": "第三版人民币轮船5分",
   "slug": "07a72650",
-  "saleCount": 5,
-  "keywords": "币,第三,三版,版人,人民,民币,币轮,轮船,船分,分二,二枚",
+  "saleCount": 6,
+  "keywords": "币,第三,三版,版人,人民,民币,币轮,轮船,船分,分三,三枚,分二,二枚",
   "priceStats": {
     "low": 180,
     "high": 10200,
-    "avg": 2300,
-    "latest": 500
+    "avg": 1948,
+    "latest": 190
   },
   "records": [
+    {
+      "coinName": "第三版人民币轮船5分三枚",
+      "normalizedBoxCode": "2140550011",
+      "displayBoxCode": "2140550-011",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/disanbanrenminbi/10446084.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2140550-011/",
+      "price": 190,
+      "priceWithFee": 205.2,
+      "transactedAt": "2026-08-08 20:24:20",
+      "productCode": "880567009",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,第三,三版,版人,人民,民币,币轮,轮船,船分,分三,三枚"
+    },
     {
       "coinName": "第三版人民币轮船5分",
       "normalizedBoxCode": "2318130002",

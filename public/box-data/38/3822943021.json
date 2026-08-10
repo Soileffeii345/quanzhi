@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "3822943021",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "3822943021",
+      "displayBoxCode": "3822943-021",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "1988年戊辰龙年生肖8克精制金币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-jin/10429708.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3822943-021/70/",
+      "price": 22500,
+      "priceWithFee": 23287.5,
+      "transactedAt": "2026-08-06 20:26:45",
+      "productCode": "878553001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/31/878553001A.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1988年,8克,生肖,年戊,戊辰,辰龙,龙年,年生,肖克,克精,精制,制金,金币,评级"
+    }
+  ]
+}

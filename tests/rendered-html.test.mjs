@@ -38,6 +38,41 @@ test("ships the generated data manifests used by the homepage", async () => {
   assert.equal(coins.totalSales, boxes.verifiedSales);
 });
 
+test("database page exposes truthful freshness and combinable filters", async () => {
+  const [databasePage, boxes, coins] = await Promise.all([
+    readFile(new URL("public/database.html", root), "utf8"),
+    readJson("public/box-data/manifest.json"),
+    readJson("public/coin-data/index.json"),
+  ]);
+  assert.match(databasePage, /数据页面生成于/);
+  assert.match(databasePage, /更新失败时继续保留上一版已验证数据/);
+  assert.match(databasePage, /全部平台/);
+  assert.match(databasePage, /成交页已核验 · 官方待复核/);
+  assert.match(databasePage, /🟣 原页面在售/);
+  assert.match(databasePage, /activePlatform !== 'all'/);
+  assert.match(databasePage, /const pageSize = 100/);
+  assert.match(databasePage, /上一页/);
+  assert.match(databasePage, /下一页/);
+  assert.match(databasePage, new RegExp(`收录 <b>${boxes.verifiedSales}</b> 条原成交页核验记录`));
+  assert.match(databasePage, new RegExp(`<b>${boxes.activeListings}</b> 条当前在售`));
+  assert.equal(coins.totalSales, boxes.verifiedSales);
+});
+
+test("daily update blocks publication until audits and tests pass", async () => {
+  const [workflow, updater, platformPanel] = await Promise.all([
+    readFile(new URL(".github/workflows/daily-update.yml", root), "utf8"),
+    readFile(new URL("collector/daily-lightweight.mjs", root), "utf8"),
+    readFile(new URL("app/components/PlatformRecords.tsx", root), "utf8"),
+  ]);
+  assert.match(workflow, /schedule:/);
+  assert.match(workflow, /npm run data:audit/);
+  assert.match(workflow, /npm test/);
+  assert.match(workflow, /git push origin HEAD:main/);
+  assert.match(updater, /audit-data\.mjs/);
+  assert.match(updater, /保留上一版网站数据/);
+  assert.match(platformPanel, /已检索泉知接入平台：赵涌在线、易金在线/);
+});
+
 test("all coin summaries use the latest priced transaction by transaction time", async () => {
   const index = await readJson("public/coin-data/index.json");
   assert.equal(index.coins.length, index.totalCoins);

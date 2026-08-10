@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6421401036",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6421401036",
+      "displayBoxCode": "6421401-036",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2011年俄罗斯纪念2014年索契冬奥会33.94克彩银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/wgjsbizhang/10448239.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6421401-036/",
+      "price": 660,
+      "priceWithFee": 699.6,
+      "transactedAt": "2026-08-07 20:12:35",
+      "productCode": "881011008",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/32/881011008A.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2011年,33.94克,奥运,年俄,俄罗,罗斯,斯纪,纪念,念年,年索,索契,契冬,冬奥,奥会,会克,克彩,彩银,银币,外国/特区"
+    }
+  ]
+}

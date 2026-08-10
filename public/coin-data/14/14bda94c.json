@@ -1,0 +1,48 @@
+{
+  "coinName": "广寒情韵薄型高浮雕180克银章",
+  "slug": "14bda94c",
+  "saleCount": 2,
+  "keywords": "银,章,180克,广寒,寒情,情韵,韵薄,薄型,型高,高浮,浮雕,雕克,克银,银章",
+  "priceStats": {
+    "low": 3150,
+    "high": 3250,
+    "avg": 3200,
+    "latest": 3150
+  },
+  "records": [
+    {
+      "coinName": "广寒情韵薄型高浮雕180克银章",
+      "normalizedBoxCode": "6148859007",
+      "displayBoxCode": "6148859-007",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10439886.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6148859-007/69/",
+      "price": 3150,
+      "priceWithFee": 3260.25,
+      "transactedAt": "2026-08-06 19:56:45",
+      "productCode": "879528012",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,章,180克,广寒,寒情,情韵,韵薄,薄型,型高,高浮,浮雕,雕克,克银,银章"
+    },
+    {
+      "coinName": "广寒情韵薄型高浮雕180克银章",
+      "normalizedBoxCode": "6148859002",
+      "displayBoxCode": "6148859-002",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10439885.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6148859-002/69/",
+      "price": 3250,
+      "priceWithFee": 3363.75,
+      "transactedAt": "2026-08-06 19:36:45",
+      "productCode": "879528011",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,章,180克,广寒,寒情,情韵,韵薄,薄型,型高,高浮,浮雕,雕克,克银,银章"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "coinName": "2024年生肖",
+  "slug": "7e2234ca",
+  "saleCount": 1,
+  "keywords": "钞,2024年,生肖,年龙,龙钞,钞元,元年,年蛇,蛇年,年生,肖纪,纪念,念钞,年马,马年,元各,各一,一枚,枚共,共三,三枚",
+  "priceStats": {
+    "low": 130,
+    "high": 130,
+    "avg": 130,
+    "latest": 130
+  },
+  "records": [
+    {
+      "coinName": "2024年龙钞20元、2025年蛇年生肖纪念钞20元、2026年马年生肖纪念钞20元各一枚，共三枚",
+      "normalizedBoxCode": "1052210217",
+      "displayBoxCode": "1052210-217",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/liantichao-jinianchao/10434597.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1052210-217/",
+      "price": 130,
+      "priceWithFee": 140.4,
+      "transactedAt": "2026-08-07 20:12:40",
+      "productCode": "879156001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,2024年,生肖,年龙,龙钞,钞元,元年,年蛇,蛇年,年生,肖纪,纪念,念钞,年马,马年,元各,各一,一枚,枚共,共三,三枚"
+    }
+  ]
+}

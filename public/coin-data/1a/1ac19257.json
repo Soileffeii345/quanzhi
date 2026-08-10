@@ -1,15 +1,32 @@
 {
   "coinName": "1997年生肖15.552克精制金币",
   "slug": "1ac19257",
-  "saleCount": 2,
+  "saleCount": 3,
   "keywords": "金,币,1997年,2盎司,生肖,年丁,丁丑,丑牛,牛年,年生,肖盎,盎司,司梅,梅花,花形,形精,精制,制金,金币,评级",
   "priceStats": {
-    "low": 18200,
+    "low": 16800,
     "high": 18400,
-    "avg": 18300,
-    "latest": 18200
+    "avg": 17800,
+    "latest": 16800
   },
   "records": [
+    {
+      "coinName": "1997年丁丑牛年生肖1/2盎司梅花形精制金币",
+      "normalizedBoxCode": "8777369018",
+      "displayBoxCode": "8777369-018",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-jin/10446345.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8777369-018/69/",
+      "price": 16800,
+      "priceWithFee": 17388,
+      "transactedAt": "2026-08-06 20:25:05",
+      "productCode": "880814002",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1997年,2盎司,生肖,年丁,丁丑,丑牛,牛年,年生,肖盎,盎司,司梅,梅花,花形,形精,精制,制金,金币,评级"
+    },
     {
       "coinName": "1997年丁丑牛年生肖1/2盎司梅花形精制金币",
       "normalizedBoxCode": "8648828065",

@@ -1,15 +1,32 @@
 {
   "coinName": "1997年5盎司精制银币",
   "slug": "29acd407",
-  "saleCount": 1,
-  "keywords": "银,币,1997年,5盎司,年中,中国,国近,近代,代国,国画,画大,大师,师齐,齐白,白石,石大,大利,利图,图盎,盎司,司精,精制,制银,银币,评级",
+  "saleCount": 2,
+  "keywords": "银,币,1997年,5盎司,年中,中国,国古,古典,典文,文学,学名,名著,著三,三国,国演,演义,义第,第组,组孙,孙刘,刘联,联姻,姻盎,盎司,司精,精制,制银,银币,评级,国近,近代,代国,国画,画大,大师,师齐,齐白,白石,石大,大利,利图,图盎",
   "priceStats": {
-    "low": 32000,
+    "low": 9300,
     "high": 32000,
-    "avg": 32000,
-    "latest": 32000
+    "avg": 20650,
+    "latest": 9300
   },
   "records": [
+    {
+      "coinName": "1997年中国古典文学名著《三国演义》第（3）组-孙刘联姻5盎司精制银币",
+      "normalizedBoxCode": "5794267002",
+      "displayBoxCode": "5794267-002",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10436347.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/5794267-002/69/",
+      "price": 9300,
+      "priceWithFee": 9625.5,
+      "transactedAt": "2026-08-06 19:59:15",
+      "productCode": "879464001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1997年,5盎司,年中,中国,国古,古典,典文,文学,学名,名著,著三,三国,国演,演义,义第,第组,组孙,孙刘,刘联,联姻,姻盎,盎司,司精,精制,制银,银币,评级"
+    },
     {
       "coinName": "1997年中国近代国画大师齐白石-大利图5盎司精制银币",
       "normalizedBoxCode": "8654669002",

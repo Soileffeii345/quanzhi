@@ -1,15 +1,32 @@
 {
   "coinName": "2009年银币",
   "slug": "7e3fafc5",
-  "saleCount": 9,
-  "keywords": "银,2009年,年香,香港,港上,上海,海汇,汇丰,丰银,银行,行壹,壹佰,佰元,外国/特区,币,年中,中国,国银,行港,港币,币伍,伍拾,拾圆,年渣,渣打,打银,币壹,佰伍,钞,港渣,行成,成立,立周,周年,年纪,纪念,念钞,钞港,年美,美国,国美,美属,属萨,萨摩,摩亚,亚银,银币,国北,北马,马里,里亚,亚纳,纳群,群岛,岛银,属维,维尔,尔京,京群,国波,波多,多黎,黎各,各银",
+  "saleCount": 10,
+  "keywords": "银,币,2009年,年香,香港,港上,上海,海汇,汇丰,丰银,银行,行港,港币,币贰,贰拾,拾圆,圆三,三枚,枚豹,豹子,子号,外国/特区,行壹,壹佰,佰元,年中,中国,国银,币伍,伍拾,年渣,渣打,打银,币壹,佰伍,钞,港渣,行成,成立,立周,周年,年纪,纪念,念钞,钞港,年美,美国,国美,美属,属萨,萨摩,摩亚,亚银,银币,国北,北马,马里,里亚,亚纳,纳群,群岛,岛银,属维,维尔,尔京,京群,国波,波多,多黎,黎各,各银",
   "priceStats": {
-    "low": 220,
+    "low": 80,
     "high": 940,
-    "avg": 378,
-    "latest": 250
+    "avg": 348,
+    "latest": 80
   },
   "records": [
+    {
+      "coinName": "2009年香港上海汇丰银行港币贰拾圆三枚（豹子号）",
+      "normalizedBoxCode": "9105360307",
+      "displayBoxCode": "9105360-307",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/liantichao-jinianchao/10446240.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/9105360-307/",
+      "price": 80,
+      "priceWithFee": 86.4,
+      "transactedAt": "2026-08-08 21:45:20",
+      "productCode": "880815004",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2009年,年香,香港,港上,上海,海汇,汇丰,丰银,银行,行港,港币,币贰,贰拾,拾圆,圆三,三枚,枚豹,豹子,子号,外国/特区"
+    },
     {
       "coinName": "2009年香港上海汇丰银行壹佰元",
       "normalizedBoxCode": "2559394023",

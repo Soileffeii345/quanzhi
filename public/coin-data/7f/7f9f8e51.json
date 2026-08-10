@@ -1,15 +1,32 @@
 {
   "coinName": "1988年生肖8克精制金币",
   "slug": "7f9f8e51",
-  "saleCount": 1,
+  "saleCount": 2,
   "keywords": "金,币,1988年,8克,生肖,年戊,戊辰,辰龙,龙年,年生,肖克,克精,精制,制金,金币,评级",
   "priceStats": {
     "low": 10000,
-    "high": 10000,
-    "avg": 10000,
-    "latest": 10000
+    "high": 22500,
+    "avg": 16250,
+    "latest": 22500
   },
   "records": [
+    {
+      "coinName": "1988年戊辰龙年生肖8克精制金币",
+      "normalizedBoxCode": "3822943021",
+      "displayBoxCode": "3822943-021",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-jin/10429708.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3822943-021/70/",
+      "price": 22500,
+      "priceWithFee": 23287.5,
+      "transactedAt": "2026-08-06 20:26:45",
+      "productCode": "878553001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1988年,8克,生肖,年戊,戊辰,辰龙,龙年,年生,肖克,克精,精制,制金,金币,评级"
+    },
     {
       "coinName": "1988年戊辰龙年生肖8克精制金币",
       "normalizedBoxCode": "8777369020",

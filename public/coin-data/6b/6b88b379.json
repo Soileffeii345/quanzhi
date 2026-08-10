@@ -1,15 +1,49 @@
 {
   "coinName": "1987年熊猫5盎司银币",
   "slug": "6b88b379",
-  "saleCount": 5,
+  "saleCount": 7,
   "keywords": "银,币,钞,章,1987年,5盎司,熊猫,年美,美国,国长,长滩,滩钱,钱币,币邮,邮票,票展,展大,大熊,猫盎,盎司,司银,银章,外国/特区",
   "priceStats": {
-    "low": 3700,
+    "low": 3600,
     "high": 3900,
-    "avg": 3790,
-    "latest": 3700
+    "avg": 3764,
+    "latest": 3600
   },
   "records": [
+    {
+      "coinName": "1987年美国长滩钱币邮票展-大熊猫5盎司银章",
+      "normalizedBoxCode": "8543665050",
+      "displayBoxCode": "8543665-050",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10446362.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8543665-050/69/",
+      "price": 3600,
+      "priceWithFee": 3726,
+      "transactedAt": "2026-08-06 20:05:55",
+      "productCode": "880814019",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,钞,章,1987年,5盎司,熊猫,年美,美国,国长,长滩,滩钱,钱币,币邮,邮票,票展,展大,大熊,猫盎,盎司,司银,银章,外国/特区"
+    },
+    {
+      "coinName": "1987年美国长滩钱币邮票展-大熊猫5盎司银章",
+      "normalizedBoxCode": "8543665004",
+      "displayBoxCode": "8543665-004",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10446361.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8543665-004/69/",
+      "price": 3800,
+      "priceWithFee": 3933,
+      "transactedAt": "2026-08-06 19:47:35",
+      "productCode": "880814018",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,钞,章,1987年,5盎司,熊猫,年美,美国,国长,长滩,滩钱,钱币,币邮,邮票,票展,展大,大熊,猫盎,盎司,司银,银章,外国/特区"
+    },
     {
       "coinName": "1987年美国长滩钱币邮票展-大熊猫5盎司银章",
       "normalizedBoxCode": "8543665017",

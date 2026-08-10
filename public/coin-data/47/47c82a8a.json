@@ -1,0 +1,31 @@
+{
+  "coinName": "1856年铜币",
+  "slug": "47c82a8a",
+  "saleCount": 1,
+  "keywords": "铜,章,1856年,年比,比利,利时,时阿,阿尔,尔斯,斯特,特雕,雕像,像落,落成,成铜,铜章,外国/特区",
+  "priceStats": {
+    "low": 520,
+    "high": 520,
+    "avg": 520,
+    "latest": 520
+  },
+  "records": [
+    {
+      "coinName": "1856年比利时阿尔斯特雕像落成铜章",
+      "normalizedBoxCode": "8655274008",
+      "displayBoxCode": "8655274-008",
+      "gradingCompany": "NGC",
+      "grade": "MS 62",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianbi/10448244.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8655274-008/62/",
+      "price": 520,
+      "priceWithFee": 577.2,
+      "transactedAt": "2026-08-07 20:06:45",
+      "productCode": "881011013",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "铜,章,1856年,年比,比利,利时,时阿,阿尔,尔斯,斯特,特雕,雕像,像落,落成,成铜,铜章,外国/特区"
+    }
+  ]
+}

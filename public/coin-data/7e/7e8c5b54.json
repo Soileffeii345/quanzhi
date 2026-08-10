@@ -1,0 +1,31 @@
+{
+  "coinName": "1991年3盎司精制金币",
+  "slug": "7e8c5b54",
+  "saleCount": 1,
+  "keywords": "金,币,1991年,3盎司,年世,世界,界文,文化,化名,名人,人第,第组,组炎,炎帝,帝盎,盎司,司精,精制,制金,金币,评级",
+  "priceStats": {
+    "low": 14600,
+    "high": 14600,
+    "avg": 14600,
+    "latest": 14600
+  },
+  "records": [
+    {
+      "coinName": "1991年世界文化名人第（2）组-炎帝1/3盎司精制金币",
+      "normalizedBoxCode": "6714125005",
+      "displayBoxCode": "6714125-005",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10434634.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6714125-005/69/",
+      "price": 14600,
+      "priceWithFee": 15111,
+      "transactedAt": "2026-08-06 20:27:35",
+      "productCode": "879175001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1991年,3盎司,年世,世界,界文,文化,化名,名人,人第,第组,组炎,炎帝,帝盎,盎司,司精,精制,制金,金币,评级"
+    }
+  ]
+}

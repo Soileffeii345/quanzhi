@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "1125651564",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "1125651564",
+      "displayBoxCode": "1125651-564",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2022年、2023年香港拍卖会各一本、THE ETERNAL COLLECTION, PANT Ⅱ,共三本",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/qitaqianbi/10439744.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1125651-564/",
+      "price": 50,
+      "priceWithFee": 55.5,
+      "transactedAt": "2026-08-07 19:12:40",
+      "productCode": "879328008",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/31/879328008D.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "2022年,年年,年香,香港,港拍,拍卖,卖会,会各,各一,一本,本共,共三,三本,外国/特区"
+    }
+  ]
+}

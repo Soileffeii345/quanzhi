@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "1194593339",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "1194593339",
+      "displayBoxCode": "1194593-339",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1991年中华人民共和国国库券伍圆连号二枚",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/gupiao-zhaiquan/10446162.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1194593-339/",
+      "price": 45,
+      "priceWithFee": 49.95,
+      "transactedAt": "2026-08-08 20:09:20",
+      "productCode": "880551001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/32/880551001A.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "1991年,年中,中华,华人,人民,民共,共和,和国,国国,国库,库券,券伍,伍圆,圆连,连号,号二,二枚"
+    }
+  ]
+}

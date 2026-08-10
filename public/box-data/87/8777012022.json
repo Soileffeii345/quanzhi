@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8777012022",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8777012022",
+      "displayBoxCode": "8777012-022",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2006年丙戌狗年生肖贺岁精制流通纪念币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10438237.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8777012-022/69/",
+      "price": 2150,
+      "priceWithFee": 2322,
+      "transactedAt": "2026-08-05 19:09:05",
+      "productCode": "879529003",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/31/879529003A.jpg",
+      "ocrConfidence": 32,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2006年,生肖,吉祥文化,年丙,丙戌,戌狗,狗年,年生,肖贺,贺岁,岁精,精制,制流,流通,通纪,纪念,念币,评级"
+    }
+  ]
+}

@@ -19,9 +19,6 @@ jobs:
     timeout-minutes: 45
     env:
       GH_TOKEN: ${{ github.token }}
-      VERCEL_ORG_ID: ${{ secrets.VERCEL_ORG_ID }}
-      VERCEL_PROJECT_ID: ${{ secrets.VERCEL_PROJECT_ID }}
-      VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
 
     steps:
       - uses: actions/checkout@v4
@@ -69,16 +66,5 @@ jobs:
             git push origin HEAD:main
           fi
 
-      - name: Validate Vercel credentials
-        shell: bash
-        run: |
-          test -n "$VERCEL_ORG_ID"
-          test -n "$VERCEL_PROJECT_ID"
-          test -n "$VERCEL_TOKEN"
-
-      - name: Deploy verified version to Vercel
-        run: |
-          npm install --global vercel@58.9.0
-          vercel pull --yes --environment=production --token="$VERCEL_TOKEN"
-          vercel build --prod --token="$VERCEL_TOKEN"
-          vercel deploy --prebuilt --prod --token="$VERCEL_TOKEN"
+      # Vercel is connected to this repository. A verified commit to main
+      # triggers the production deployment without storing deploy credentials.

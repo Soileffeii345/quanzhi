@@ -1,15 +1,32 @@
 {
   "coinName": "1964年中国硬币贰分",
   "slug": "70f61b3a",
-  "saleCount": 1,
+  "saleCount": 2,
   "keywords": "币,1964年,年中,中国,国硬,硬币,币贰,贰分",
   "priceStats": {
     "low": 75,
-    "high": 75,
-    "avg": 75,
-    "latest": 75
+    "high": 100,
+    "avg": 88,
+    "latest": 100
   },
   "records": [
+    {
+      "coinName": "1964年中国硬币贰分",
+      "normalizedBoxCode": "4795199049",
+      "displayBoxCode": "4795199-049",
+      "gradingCompany": "NGC",
+      "grade": "MS 68",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10441532.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4795199-049/68/",
+      "price": 100,
+      "priceWithFee": 108,
+      "transactedAt": "2026-08-05 20:39:35",
+      "productCode": "879992008",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1964年,年中,中国,国硬,硬币,币贰,贰分"
+    },
     {
       "coinName": "1964年中国硬币贰分",
       "normalizedBoxCode": "8659573006",

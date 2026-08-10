@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8619377004",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8619377004",
+      "displayBoxCode": "8619377-004",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2001年中国京剧艺术第（3）组-水漫金山5盎司长方形精制彩银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10442313.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8619377-004/69/",
+      "price": 3150,
+      "priceWithFee": 3260.25,
+      "transactedAt": "2026-08-06 19:51:45",
+      "productCode": "880106003",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/31/880106003A.jpg",
+      "ocrConfidence": 52,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,2001年,5盎司,戏曲,年中,中国,国京,京剧,剧艺,艺术,术第,第组,组水,水漫,漫金,金山,山盎,盎司,司长,长方,方形,形精,精制,制彩,彩银,银币,评级"
+    }
+  ]
+}

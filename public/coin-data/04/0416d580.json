@@ -1,15 +1,32 @@
 {
   "coinName": "2010年世博精制",
   "slug": "0416d580",
-  "saleCount": 6,
+  "saleCount": 7,
   "keywords": "币,2010年,重大事件,年上,上海,海世,世博,博会,会精,精制,制流,流通,通纪,纪念,念币,评级,币六,六枚,币二,二枚",
   "priceStats": {
     "low": 350,
     "high": 4300,
-    "avg": 1312,
-    "latest": 4300
+    "avg": 1703,
+    "latest": 4050
   },
   "records": [
+    {
+      "coinName": "2010年上海世博会精制流通纪念币",
+      "normalizedBoxCode": "8547629030",
+      "displayBoxCode": "8547629-030",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10438235.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8547629-030/69/",
+      "price": 4050,
+      "priceWithFee": 4374,
+      "transactedAt": "2026-08-05 19:00:35",
+      "productCode": "879529001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2010年,重大事件,年上,上海,海世,世博,博会,会精,精制,制流,流通,通纪,纪念,念币,评级"
+    },
     {
       "coinName": "2010年上海世博会精制流通纪念币",
       "normalizedBoxCode": "8547629031",

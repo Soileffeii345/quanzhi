@@ -1,0 +1,31 @@
+{
+  "coinName": "2020年3盎司金币",
+  "slug": "0494d0a8",
+  "saleCount": 1,
+  "keywords": "金,银,币,2020年,3盎司,年纽,纽埃,埃矩,矩阵,阵艺,艺术,术系,系列,列古,古斯,斯塔,塔夫,夫克,克里,里姆,姆名,名画,画黄,黄金,金泪,泪盎,盎司,司彩,彩银,银币",
+  "priceStats": {
+    "low": 2500,
+    "high": 2500,
+    "avg": 2500,
+    "latest": 2500
+  },
+  "records": [
+    {
+      "coinName": "2020年纽埃矩阵艺术系列古斯塔夫.克里姆名画《黄金泪》3盎司彩银币",
+      "normalizedBoxCode": "8815445001",
+      "displayBoxCode": "8815445-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/wgjsbizhang/10448234.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8815445-001/69/",
+      "price": 2500,
+      "priceWithFee": 2650,
+      "transactedAt": "2026-08-07 19:49:15",
+      "productCode": "881011003",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,2020年,3盎司,年纽,纽埃,埃矩,矩阵,阵艺,艺术,术系,系列,列古,古斯,斯塔,塔夫,夫克,克里,里姆,姆名,名画,画黄,黄金,金泪,泪盎,盎司,司彩,彩银,银币"
+    }
+  ]
+}

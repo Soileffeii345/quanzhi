@@ -1,0 +1,31 @@
+{
+  "coinName": "1982年生肖银币",
+  "slug": "13982899",
+  "saleCount": 1,
+  "keywords": "银,章,1982年,生肖,年农,农历,历狗,狗年,年生,肖唐,唐人,人簪,簪花,花仕,仕女,女图,图银,银章",
+  "priceStats": {
+    "low": 4550,
+    "high": 4550,
+    "avg": 4550,
+    "latest": 4550
+  },
+  "records": [
+    {
+      "coinName": "1982年农历狗年生肖唐人簪花仕女图银章",
+      "normalizedBoxCode": "4567921004",
+      "displayBoxCode": "4567921-004",
+      "gradingCompany": "NGC",
+      "grade": "MS 66",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10439880.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4567921-004/66/",
+      "price": 4550,
+      "priceWithFee": 4709.25,
+      "transactedAt": "2026-08-06 19:35:55",
+      "productCode": "879528006",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,章,1982年,生肖,年农,农历,历狗,狗年,年生,肖唐,唐人,人簪,簪花,花仕,仕女,女图,图银,银章"
+    }
+  ]
+}

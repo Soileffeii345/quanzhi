@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8192718001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8192718001",
+      "displayBoxCode": "8192718-001",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "coinName": "2000年庚辰龙年生肖1/10盎司普制金币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-jin/10444876.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8192718-001/69/",
+      "price": 4350,
+      "priceWithFee": 4502.25,
+      "transactedAt": "2026-08-06 21:03:25",
+      "productCode": "880419005",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/31/880419005A.jpg",
+      "ocrConfidence": 38,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2000年,10盎司,生肖,年庚,庚辰,辰龙,龙年,年生,肖盎,盎司,司普,普制,制金,金币"
+    }
+  ]
+}

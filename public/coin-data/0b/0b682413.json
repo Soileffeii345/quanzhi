@@ -1,15 +1,32 @@
 {
   "coinName": "2002年生肖15.552克精制金币",
   "slug": "0b682413",
-  "saleCount": 3,
+  "saleCount": 4,
   "keywords": "金,币,2002年,2盎司,生肖,年壬,壬午,午马,马年,年生,肖盎,盎司,司梅,梅花,花形,形精,精制,制金,金币,评级,司扇,扇形",
   "priceStats": {
     "low": 16600,
     "high": 30500,
-    "avg": 25200,
-    "latest": 28500
+    "avg": 25900,
+    "latest": 28000
   },
   "records": [
+    {
+      "coinName": "2002年壬午马年生肖1/2盎司梅花形精制金币",
+      "normalizedBoxCode": "8777369019",
+      "displayBoxCode": "8777369-019",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-jin/10446349.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8777369-019/69/",
+      "price": 28000,
+      "priceWithFee": 28980,
+      "transactedAt": "2026-08-06 20:57:35",
+      "productCode": "880814006",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2002年,2盎司,生肖,年壬,壬午,午马,马年,年生,肖盎,盎司,司梅,梅花,花形,形精,精制,制金,金币,评级"
+    },
     {
       "coinName": "2002年壬午马年生肖1/2盎司梅花形精制金币",
       "normalizedBoxCode": "6656472016",

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "1762727075",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "1762727075",
+      "displayBoxCode": "1762727-075",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2000年世纪龙钞壹佰圆",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/liantichao-jinianchao/10448601.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1762727-075/",
+      "price": 1140,
+      "priceWithFee": 1231.2,
+      "transactedAt": "2026-08-08 19:08:05",
+      "productCode": "880983002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/32/880983002B.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,2000年,年世,世纪,纪龙,龙钞,钞壹,壹佰,佰圆"
+    }
+  ]
+}

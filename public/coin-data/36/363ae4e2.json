@@ -1,15 +1,32 @@
 {
   "coinName": "1999年31.104克普制银币",
   "slug": "363ae4e2",
-  "saleCount": 1,
+  "saleCount": 2,
   "keywords": "银,币,1999年,1盎司,吉祥文化,年中,中国,国传,传统,统吉,吉祥,祥图,图富,富贵,贵有,有余,余盎,盎司,司普,普制,制银,银币",
   "priceStats": {
-    "low": 1600,
+    "low": 900,
     "high": 1600,
-    "avg": 1600,
-    "latest": 1600
+    "avg": 1250,
+    "latest": 900
   },
   "records": [
+    {
+      "coinName": "1999年中国传统吉祥图-富贵有余1盎司普制银币",
+      "normalizedBoxCode": "8821766009",
+      "displayBoxCode": "8821766-009",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10444827.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8821766-009/69/",
+      "price": 900,
+      "priceWithFee": 931.5,
+      "transactedAt": "2026-08-10 20:15:10",
+      "productCode": "880456002",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1999年,1盎司,吉祥文化,年中,中国,国传,传统,统吉,吉祥,祥图,图富,富贵,贵有,有余,余盎,盎司,司普,普制,制银,银币"
+    },
     {
       "coinName": "1999年中国传统吉祥图-富贵有余1盎司普制银币",
       "normalizedBoxCode": "8649379011",

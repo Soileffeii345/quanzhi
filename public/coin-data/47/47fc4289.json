@@ -1,0 +1,31 @@
+{
+  "coinName": "1882年铜币",
+  "slug": "47fc4289",
+  "saleCount": 1,
+  "keywords": "铜,章,1882年,年英,英国,国神,神圣,圣和,和谐,谐协,协会,会成,成立,立周,周年,年铜,铜章,外国/特区",
+  "priceStats": {
+    "low": 440,
+    "high": 440,
+    "avg": 440,
+    "latest": 440
+  },
+  "records": [
+    {
+      "coinName": "1882年英国神圣和谐协会成立50周年铜章",
+      "normalizedBoxCode": "8655274002",
+      "displayBoxCode": "8655274-002",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianbi/10448243.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8655274-002/",
+      "price": 440,
+      "priceWithFee": 488.4,
+      "transactedAt": "2026-08-07 19:40:05",
+      "productCode": "881011012",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "铜,章,1882年,年英,英国,国神,神圣,圣和,和谐,谐协,协会,会成,成立,立周,周年,年铜,铜章,外国/特区"
+    }
+  ]
+}

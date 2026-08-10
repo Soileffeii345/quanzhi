@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8631300001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8631300001",
+      "displayBoxCode": "8631300-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1987年咸丰通宝、大清镇库5盎司银章",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10429543.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8631300-001/69/",
+      "price": 9400,
+      "priceWithFee": 9729,
+      "transactedAt": "2026-08-06 19:55:05",
+      "productCode": "878513003",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/31/878513003A.jpg",
+      "ocrConfidence": 44,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,章,1987年,5盎司,历史币,龙洋,龙,年咸,咸丰,丰通,通宝,宝大,大清,清镇,镇库,库盎,盎司,司银,银章"
+    }
+  ]
+}

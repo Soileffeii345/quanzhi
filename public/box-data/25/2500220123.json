@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2500220123",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2500220123",
+      "displayBoxCode": "2500220-123",
+      "gradingCompany": "NGC",
+      "grade": "PF69",
+      "coinName": "上海造币厂1981年-1992年十二生肖纪念章12枚一套",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/tongzhang/9898736.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2500220-123/69/",
+      "price": 85,
+      "priceWithFee": 94.35,
+      "transactedAt": "2026-08-07 19:19:20",
+      "productCode": "816108036",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2025/44/816108036A.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,章,1981年,生肖,上海,海造,造币,币厂,厂年,年年,年十,十二,二生,肖纪,纪念,念章,章枚,枚一,一套"
+    }
+  ]
+}

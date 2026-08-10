@@ -1,15 +1,32 @@
 {
   "coinName": "1987年5盎司银币",
   "slug": "428e881c",
-  "saleCount": 1,
-  "keywords": "银,币,钞,章,1987年,5盎司,年盎,盎司,司美,美国,国长,长滩,滩钱,钱币,币邮,邮票,票展,展银,银章,外国/特区",
+  "saleCount": 2,
+  "keywords": "银,章,1987年,5盎司,历史币,龙洋,龙,年咸,咸丰,丰通,通宝,宝大,大清,清镇,镇库,库盎,盎司,司银,银章,币,钞,年盎,司美,美国,国长,长滩,滩钱,钱币,币邮,邮票,票展,展银,外国/特区",
   "priceStats": {
     "low": 4850,
-    "high": 4850,
-    "avg": 4850,
-    "latest": 4850
+    "high": 9400,
+    "avg": 7125,
+    "latest": 9400
   },
   "records": [
+    {
+      "coinName": "1987年咸丰通宝、大清镇库5盎司银章",
+      "normalizedBoxCode": "8631300001",
+      "displayBoxCode": "8631300-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10429543.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8631300-001/69/",
+      "price": 9400,
+      "priceWithFee": 9729,
+      "transactedAt": "2026-08-06 19:55:05",
+      "productCode": "878513003",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,章,1987年,5盎司,历史币,龙洋,龙,年咸,咸丰,丰通,通宝,宝大,大清,清镇,镇库,库盎,盎司,司银,银章"
+    },
     {
       "coinName": "1987年5盎司美国长滩钱币邮票展银章",
       "normalizedBoxCode": "8543665043",

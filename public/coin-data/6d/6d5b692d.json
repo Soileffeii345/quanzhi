@@ -1,15 +1,32 @@
 {
   "coinName": "2024年生肖15克精制金币",
   "slug": "6d5b692d",
-  "saleCount": 5,
+  "saleCount": 6,
   "keywords": "金,币,2024年,15克,生肖,年甲,甲辰,辰龙,龙年,年生,肖克,克梅,梅花,花形,形精,精制,制金,金币,评级",
   "priceStats": {
     "low": 17200,
     "high": 18400,
-    "avg": 17760,
-    "latest": 18000
+    "avg": 17833,
+    "latest": 18200
   },
   "records": [
+    {
+      "coinName": "2024年甲辰龙年生肖15克梅花形精制金币",
+      "normalizedBoxCode": "8656076007",
+      "displayBoxCode": "8656076-007",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-jin/10441441.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8656076-007/70/",
+      "price": 18200,
+      "priceWithFee": 18837,
+      "transactedAt": "2026-08-06 20:51:45",
+      "productCode": "879999004",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2024年,15克,生肖,年甲,甲辰,辰龙,龙年,年生,肖克,克梅,梅花,花形,形精,精制,制金,金币,评级"
+    },
     {
       "coinName": "2024年甲辰龙年生肖15克梅花形精制金币",
       "normalizedBoxCode": "8817036010",

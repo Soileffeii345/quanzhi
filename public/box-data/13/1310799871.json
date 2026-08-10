@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "1310799871",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "1310799871",
+      "displayBoxCode": "1310799-871",
+      "gradingCompany": "NGC",
+      "grade": "AU 50",
+      "coinName": "机制光绪通宝宝广二枚",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguojindaijizhibi/10418061.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1310799-871/50/",
+      "price": 60,
+      "priceWithFee": 64.8,
+      "transactedAt": "2026-08-10 19:40:05",
+      "productCode": "877303004",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/22/862898001A.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "历史币,机制,制光,光绪,绪通,通宝,宝宝,宝广,广二,二枚"
+    }
+  ]
+}

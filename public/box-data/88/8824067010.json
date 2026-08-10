@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8824067010",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8824067010",
+      "displayBoxCode": "8824067-010",
+      "gradingCompany": "NGC",
+      "grade": "PF 67 ULTRA CAMEO",
+      "coinName": "1984年中华人民共和国成立35周年精制流通纪念币三枚一套",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10444864.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8824067-010/67/",
+      "price": 1540,
+      "priceWithFee": 1663.2,
+      "transactedAt": "2026-08-05 19:44:05",
+      "productCode": "880494001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/31/880494001A.jpg",
+      "ocrConfidence": 44,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1984年,年中,中华,华人,人民,民共,共和,和国,国成,成立,立周,周年,年精,精制,制流,流通,通纪,纪念,念币,币三,三枚,枚一,一套,评级"
+    }
+  ]
+}

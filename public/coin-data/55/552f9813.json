@@ -1,15 +1,32 @@
 {
   "coinName": "1990年15.552克精制金币",
   "slug": "552f9813",
-  "saleCount": 1,
+  "saleCount": 2,
   "keywords": "金,币,1990年,2盎司,年台,台湾,湾风,风光,光第,第组,组盎,盎司,司精,精制,制金,金币,币四,四枚,枚一,一套,评级",
   "priceStats": {
     "low": 73000,
-    "high": 73000,
-    "avg": 73000,
-    "latest": 73000
+    "high": 76000,
+    "avg": 74500,
+    "latest": 76000
   },
   "records": [
+    {
+      "coinName": "1990年台湾风光第（1）组1/2盎司精制金币四枚一套",
+      "normalizedBoxCode": "4537600002",
+      "displayBoxCode": "4537600-002",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10446350.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4537600-002/69/",
+      "price": 76000,
+      "priceWithFee": 78660,
+      "transactedAt": "2026-08-06 20:46:45",
+      "productCode": "880814007",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1990年,2盎司,年台,台湾,湾风,风光,光第,第组,组盎,盎司,司精,精制,制金,金币,币四,四枚,枚一,一套,评级"
+    },
     {
       "coinName": "1990年台湾风光第（1）组1/2盎司精制金币四枚一套",
       "normalizedBoxCode": "8610819080",

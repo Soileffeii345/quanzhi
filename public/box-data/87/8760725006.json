@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8760725006",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8760725006",
+      "displayBoxCode": "8760725-006",
+      "gradingCompany": "NGC",
+      "grade": "PF 68 ULTRA CAMEO",
+      "coinName": "1984年中华人民共和国成立35周年-开国大典精制流通纪念币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10437074.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8760725-006/68/",
+      "price": 1380,
+      "priceWithFee": 1490.4,
+      "transactedAt": "2026-08-05 20:57:05",
+      "productCode": "879514007",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/31/879514007A.jpg",
+      "ocrConfidence": 39,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1984年,年中,中华,华人,人民,民共,共和,和国,国成,成立,立周,周年,年开,开国,国大,大典,典精,精制,制流,流通,通纪,纪念,念币,评级"
+    }
+  ]
+}

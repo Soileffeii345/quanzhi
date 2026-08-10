@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8602071004",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8602071004",
+      "displayBoxCode": "8602071-004",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1979年北京风景名胜1/2盎司金章四枚一套",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10439385.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8602071-004/69/",
+      "price": 66000,
+      "priceWithFee": 68310,
+      "transactedAt": "2026-08-06 20:10:55",
+      "productCode": "879630001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/31/879630001A.jpg",
+      "ocrConfidence": 41,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,章,1979年,2盎司,年北,北京,京风,风景,景名,名胜,胜盎,盎司,司金,金章,章四,四枚,枚一,一套"
+    }
+  ]
+}

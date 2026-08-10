@@ -1,0 +1,31 @@
+{
+  "coinName": "1984年中国硬币壹分",
+  "slug": "59e84225",
+  "saleCount": 1,
+  "keywords": "币,1984年,年中,中国,国硬,硬币,币壹,壹分",
+  "priceStats": {
+    "low": 170,
+    "high": 170,
+    "avg": 170,
+    "latest": 170
+  },
+  "records": [
+    {
+      "coinName": "1984年中国硬币壹分",
+      "normalizedBoxCode": "4636608005",
+      "displayBoxCode": "4636608-005",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10441530.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4636608-005/69/",
+      "price": 170,
+      "priceWithFee": 183.6,
+      "transactedAt": "2026-08-05 20:08:35",
+      "productCode": "879992006",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1984年,年中,中国,国硬,硬币,币壹,壹分"
+    }
+  ]
+}

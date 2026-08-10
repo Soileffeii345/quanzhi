@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8817041106",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8817041106",
+      "displayBoxCode": "8817041-106",
+      "gradingCompany": "NGC",
+      "grade": "PF69 ULTRA CAMEO",
+      "coinName": "2026年水月观音镀银纪念章二枚",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/tongzhang/10431491.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8817041-106/69/",
+      "price": 230,
+      "priceWithFee": 255.3,
+      "transactedAt": "2026-08-07 20:04:20",
+      "productCode": "878709003",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/878709003A.jpg",
+      "ocrConfidence": 39,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,章,2026年,宗教,年水,水月,月观,观音,音镀,镀银,银纪,纪念,念章,章二,二枚"
+    }
+  ]
+}

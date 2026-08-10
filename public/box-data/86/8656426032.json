@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8656426032",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8656426032",
+      "displayBoxCode": "8656426-032",
+      "gradingCompany": "NGC",
+      "grade": "AU 55",
+      "coinName": "光绪年造丙午户部大清铜币中心湘十文铜币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguojindaijizhibi/10403125.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8656426-032/55/",
+      "price": 310,
+      "priceWithFee": 334.8,
+      "transactedAt": "2026-08-10 19:47:05",
+      "productCode": "875427003",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/875427003A.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "铜,币,历史币,光绪,绪年,年造,造丙,丙午,午户,户部,部大,大清,清铜,铜币,币中,中心,心湘,湘十,十文,文铜"
+    }
+  ]
+}

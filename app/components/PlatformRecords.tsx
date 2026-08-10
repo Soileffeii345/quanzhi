@@ -16,12 +16,23 @@ export default function PlatformRecordsPanel({
   platformRecordsLoading,
   platformImageStatus,
 }: Props) {
+  const matchedPlatforms = [...new Set(platformRecords.map((record) => record.source))];
+  const connectedPlatforms = ["赵涌在线", "易金在线"];
+  const unmatchedPlatforms = connectedPlatforms.filter((platform) => !matchedPlatforms.includes(platform));
   return (
     <div className="priority-platforms">
       <div>
         <span className="kicker">更多平台</span>
         <h3>{`用"${submitted}"继续查询`}</h3>
       </div>
+
+      {!platformRecordsLoading && (
+        <div style={{ margin: "10px 0 16px", padding: "9px 12px", borderRadius: 9, background: "#f8fafc", color: "#667085", fontSize: 12, lineHeight: 1.6 }}>
+          已检索泉知接入平台：赵涌在线、易金在线。
+          {matchedPlatforms.length > 0 ? ` 当前命中：${matchedPlatforms.join("、")}。` : " 当前未命中可核验记录。"}
+          {unmatchedPlatforms.length > 0 && ` ${unmatchedPlatforms.join("、")}暂无匹配记录。`}
+        </div>
+      )}
 
       {platformImageStatus && (
         <div className="image-scan-status">

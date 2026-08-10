@@ -1,0 +1,31 @@
+{
+  "coinName": "2002年生肖1公斤银币",
+  "slug": "79fdc3aa",
+  "saleCount": 1,
+  "keywords": "银,币,2002年,1公斤,生肖,年澳,澳大,大利,利亚,亚马,马年,年生,肖公,公斤,斤银,银币,外国/特区",
+  "priceStats": {
+    "low": 14400,
+    "high": 14400,
+    "avg": 14400,
+    "latest": 14400
+  },
+  "records": [
+    {
+      "coinName": "2002年澳大利亚马年生肖1公斤银币",
+      "normalizedBoxCode": "8824986011",
+      "displayBoxCode": "8824986-011",
+      "gradingCompany": "NGC",
+      "grade": "MS68",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/wgjsbizhang/10443550.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8824986-011/68/",
+      "price": 14400,
+      "priceWithFee": 15264,
+      "transactedAt": "2026-08-07 19:33:25",
+      "productCode": "880217001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2002年,1公斤,生肖,年澳,澳大,大利,利亚,亚马,马年,年生,肖公,公斤,斤银,银币,外国/特区"
+    }
+  ]
+}

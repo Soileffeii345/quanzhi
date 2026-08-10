@@ -1,15 +1,32 @@
 {
   "coinName": "2021年银币",
   "slug": "7e1fe1cb",
-  "saleCount": 2,
+  "saleCount": 3,
   "keywords": "银,币,2021年,年中,中国,国银,银行,行港,港币,币元,铜,章,年老,老子,子牛,牛镀,镀银,银铜,铜章",
   "priceStats": {
-    "low": 110,
+    "low": 100,
     "high": 160,
-    "avg": 135,
-    "latest": 110
+    "avg": 123,
+    "latest": 100
   },
   "records": [
+    {
+      "coinName": "2021年中国银行港币20元",
+      "normalizedBoxCode": "2313338029",
+      "displayBoxCode": "2313338-029",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/liantichao-jinianchao/10446406.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2313338-029/",
+      "price": 100,
+      "priceWithFee": 108,
+      "transactedAt": "2026-08-08 19:01:50",
+      "productCode": "880954001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2021年,年中,中国,国银,银行,行港,港币,币元"
+    },
     {
       "coinName": "2021年中国银行港币20元",
       "normalizedBoxCode": "2313338029",

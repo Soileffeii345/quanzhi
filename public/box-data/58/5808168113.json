@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "5808168113",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "5808168113",
+      "displayBoxCode": "5808168-113",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2020年熊猫30克普制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-xinyin/10437675.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/5808168-113/",
+      "price": 550,
+      "priceWithFee": 569.25,
+      "transactedAt": "2026-08-10 19:47:10",
+      "productCode": "879412034",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/31/879412034A.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2020年,30克,熊猫,年熊,猫克,克普,普制,制银,银币"
+    }
+  ]
+}

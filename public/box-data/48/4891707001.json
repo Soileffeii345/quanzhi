@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4891707001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4891707001",
+      "displayBoxCode": "4891707-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 68 ULTRA CAMEO",
+      "coinName": "2003年-2005年中国宝岛台湾精制流通纪念币五枚一套",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10437755.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4891707-001/68/",
+      "price": 760,
+      "priceWithFee": 820.8,
+      "transactedAt": "2026-08-05 19:11:05",
+      "productCode": "878948001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/31/878948001A.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2003年,年年,年中,中国,国宝,宝岛,岛台,台湾,湾精,精制,制流,流通,通纪,纪念,念币,币五,五枚,枚一,一套,评级"
+    }
+  ]
+}

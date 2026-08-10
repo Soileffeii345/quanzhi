@@ -1,0 +1,31 @@
+{
+  "coinName": "2022年生肖",
+  "slug": "7e234d8c",
+  "saleCount": 1,
+  "keywords": "币,2022年,生肖,年壬,壬寅,寅虎,虎年,年生,肖流,流通,通纪,纪念,念币,币二,二枚,枚年,年己,己亥,亥猪,猪年,币共,共三,三枚",
+  "priceStats": {
+    "low": 270,
+    "high": 270,
+    "avg": 270,
+    "latest": 270
+  },
+  "records": [
+    {
+      "coinName": "2022年壬寅虎年生肖流通纪念币二枚、2019年己亥猪年生肖流通纪念币，共三枚",
+      "normalizedBoxCode": "6334269007",
+      "displayBoxCode": "6334269-007",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10440243.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6334269-007/69/",
+      "price": 270,
+      "priceWithFee": 291.6,
+      "transactedAt": "2026-08-05 20:37:05",
+      "productCode": "879956001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2022年,生肖,年壬,壬寅,寅虎,虎年,年生,肖流,流通,通纪,纪念,念币,币二,二枚,枚年,年己,己亥,亥猪,猪年,币共,共三,三枚"
+    }
+  ]
+}

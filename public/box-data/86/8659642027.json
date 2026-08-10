@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8659642027",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8659642027",
+      "displayBoxCode": "8659642-027",
+      "gradingCompany": "NGC",
+      "grade": "Pr70 ULTRA CAMEO",
+      "coinName": "2026年千手观音镀银纪念章",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/tongzhang/10437211.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8659642-027/70/",
+      "price": 200,
+      "priceWithFee": 222,
+      "transactedAt": "2026-08-07 20:10:10",
+      "productCode": "879466008",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/31/879466008A.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,章,2026年,宗教,年千,千手,手观,观音,音镀,镀银,银纪,纪念,念章"
+    }
+  ]
+}

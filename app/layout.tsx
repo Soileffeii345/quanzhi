@@ -4,7 +4,7 @@ import "./globals.css";
 export const metadata: Metadata = {
   title: "泉知｜评级盒号与钱币成交查询",
   description: "输入或拍照识别 NGC、PCGS 评级盒号，核对官方认证信息并查询可验证的钱币成交记录。",
-  metadataBase: new URL("https://quanzhi.netlify.app"),
+  metadataBase: new URL("https://quanzhi-ten.vercel.app"),
   robots: { index: true, follow: true },
   openGraph: {
     title: "泉知｜评级盒号与钱币成交查询",

@@ -143,7 +143,7 @@ export function saveIndexedProduct(page, images, sales) {
       upsertImage.run(page.platform, String(page.id), image.imageUrl, image.ocrText, image.ocrConfidence, image.box?.normalized ?? null, image.box?.display ?? null, image.box?.company ?? null, now);
     }
     for (const sale of sales) {
-      upsertSale.run(sale.normalizedBoxCode, sale.displayBoxCode, sale.gradingCompany, sale.grade, sale.coinName, sale.platform, String(page.id), sale.detailUrl, sale.officialCertUrl, sale.price, sale.priceWithFee, sale.transactedAt, sale.productCode, sale.boxEvidenceImageUrl, sale.ocrText, sale.ocrConfidence, "ocr_pending_review", sale.collectedAt);
+      upsertSale.run(sale.normalizedBoxCode, sale.displayBoxCode, sale.gradingCompany, sale.grade, sale.coinName, sale.platform, String(page.id), sale.detailUrl, sale.officialCertUrl, sale.price, sale.priceWithFee, sale.transactedAt, sale.productCode, sale.boxEvidenceImageUrl, sale.ocrText, sale.ocrConfidence, sale.verificationStatus ?? "ocr_pending_review", sale.collectedAt);
     }
     database.exec("COMMIT");
   } catch (error) {

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8617953027",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8617953027",
+      "displayBoxCode": "8617953-027",
+      "gradingCompany": "NGC",
+      "grade": "MS 66",
+      "coinName": "2000年中国硬币1角",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10444830.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8617953-027/66/",
+      "price": 560,
+      "priceWithFee": 604.8,
+      "transactedAt": "2026-08-05 20:09:35",
+      "productCode": "880458002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/31/880458002A.jpg",
+      "ocrConfidence": 40,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2000年,年中,中国,国硬,硬币,币角"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "1210626077",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "1210626077",
+      "displayBoxCode": "1210626-077",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "江南省造壬寅光绪元宝一钱四分四厘银元",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguojindaijizhibi/10408963.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1210626-077/",
+      "price": 610,
+      "priceWithFee": 658.8,
+      "transactedAt": "2026-08-10 19:51:35",
+      "productCode": "875955001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/875955001A.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,龙洋,龙,元宝,江南,江南造,南省,省造,造壬,壬寅,寅光,光绪,绪元,宝一,一钱,钱四,四分,分四,四厘,厘银,银元"
+    }
+  ]
+}

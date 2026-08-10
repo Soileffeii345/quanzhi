@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "3165021008",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "3165021008",
+      "displayBoxCode": "3165021-008",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "吉林省造甲辰光绪元宝三钱六分银元",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguojindaijizhibi/10415561.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3165021-008/",
+      "price": 16600,
+      "priceWithFee": 17928,
+      "transactedAt": "2026-08-10 20:23:35",
+      "productCode": "876806002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/876806002A.JPG",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,龙洋,龙,元宝,吉林,林省,省造,造甲,甲辰,辰光,光绪,绪元,宝三,三钱,钱六,六分,分银,银元"
+    }
+  ]
+}

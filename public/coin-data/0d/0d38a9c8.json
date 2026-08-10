@@ -1,0 +1,31 @@
+{
+  "coinName": "河南省造光绪元宝十文铜币",
+  "slug": "0d38a9c8",
+  "saleCount": 1,
+  "keywords": "铜,币,历史币,龙洋,龙,元宝,河南,南省,省造,造光,光绪,绪元,宝十,十文,文铜,铜币",
+  "priceStats": {
+    "low": 50,
+    "high": 50,
+    "avg": 50,
+    "latest": 50
+  },
+  "records": [
+    {
+      "coinName": "河南省造光绪元宝十文铜币",
+      "normalizedBoxCode": "1310793982",
+      "displayBoxCode": "1310793-982",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguojindaijizhibi/10413726.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1310793-982/",
+      "price": 50,
+      "priceWithFee": 54,
+      "transactedAt": "2026-08-10 19:44:05",
+      "productCode": "876805007",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "铜,币,历史币,龙洋,龙,元宝,河南,南省,省造,造光,光绪,绪元,宝十,十文,文铜,铜币"
+    }
+  ]
+}

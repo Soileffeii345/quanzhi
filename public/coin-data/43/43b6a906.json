@@ -1,15 +1,32 @@
 {
   "coinName": "2026年15克精制金币",
   "slug": "43b6a906",
-  "saleCount": 17,
+  "saleCount": 18,
   "keywords": "金,币,2026年,15克,年国,国家,家宝,宝藏,藏融,融合,合交,交流,流克,克精,精制,制金,金币,评级",
   "priceStats": {
     "low": 20500,
     "high": 31500,
-    "avg": 23559,
-    "latest": 21000
+    "avg": 23472,
+    "latest": 22000
   },
   "records": [
+    {
+      "coinName": "2026年国家宝藏（融合交流）15克精制金币",
+      "normalizedBoxCode": "8815986001",
+      "displayBoxCode": "8815986-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10444862.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8815986-001/70/",
+      "price": 22000,
+      "priceWithFee": 22770,
+      "transactedAt": "2026-08-06 20:42:35",
+      "productCode": "880623002",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2026年,15克,年国,国家,家宝,宝藏,藏融,融合,合交,交流,流克,克精,精制,制金,金币,评级"
+    },
     {
       "coinName": "2026年国家宝藏（融合交流）15克精制金币",
       "normalizedBoxCode": "8815986001",

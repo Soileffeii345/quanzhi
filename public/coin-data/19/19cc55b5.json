@@ -1,0 +1,31 @@
+{
+  "coinName": "2020年生肖30克精制银币",
+  "slug": "19cc55b5",
+  "saleCount": 1,
+  "keywords": "银,币,2020年,30克,生肖,年庚,庚子,子鼠,鼠年,年生,肖克,克精,精制,制彩,彩银,银币,评级",
+  "priceStats": {
+    "low": 1400,
+    "high": 1400,
+    "avg": 1400,
+    "latest": 1400
+  },
+  "records": [
+    {
+      "coinName": "2020年庚子鼠年生肖30克精制彩银币",
+      "normalizedBoxCode": "2020021000",
+      "displayBoxCode": "2020021-000",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10442251.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2020021-000/",
+      "price": 1400,
+      "priceWithFee": 1449,
+      "transactedAt": "2026-08-08 20:22:50",
+      "productCode": "880184001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2020年,30克,生肖,年庚,庚子,子鼠,鼠年,年生,肖克,克精,精制,制彩,彩银,银币,评级"
+    }
+  ]
+}

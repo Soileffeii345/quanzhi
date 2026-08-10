@@ -1,0 +1,31 @@
+{
+  "coinName": "福建官局造闽关光绪元宝十文铜币",
+  "slug": "39402c8e",
+  "saleCount": 1,
+  "keywords": "铜,币,历史币,龙洋,龙,元宝,福建,建官,官局,局造,造闽,闽关,关光,光绪,绪元,宝十,十文,文铜,铜币",
+  "priceStats": {
+    "low": 75,
+    "high": 75,
+    "avg": 75,
+    "latest": 75
+  },
+  "records": [
+    {
+      "coinName": "福建官局造闽关光绪元宝十文铜币",
+      "normalizedBoxCode": "1310802580",
+      "displayBoxCode": "1310802-580",
+      "gradingCompany": "NGC",
+      "grade": "XF 45",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguojindaijizhibi/10413721.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1310802-580/45/",
+      "price": 75,
+      "priceWithFee": 81,
+      "transactedAt": "2026-08-10 19:32:05",
+      "productCode": "876805002",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "铜,币,历史币,龙洋,龙,元宝,福建,建官,官局,局造,造闽,闽关,关光,光绪,绪元,宝十,十文,文铜,铜币"
+    }
+  ]
+}

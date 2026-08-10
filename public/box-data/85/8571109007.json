@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8571109007",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8571109007",
+      "displayBoxCode": "8571109-007",
+      "gradingCompany": "NGC",
+      "grade": "PF 68 ULTRA CAMEO",
+      "coinName": "2000年中国古典文学名著《红楼梦》第（1）组-宝黛读书5盎司扇形精制彩银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10444849.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8571109-007/68/",
+      "price": 2850,
+      "priceWithFee": 2949.75,
+      "transactedAt": "2026-08-06 19:52:35",
+      "productCode": "880533001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/31/880533001A.jpg",
+      "ocrConfidence": 57,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2000年,5盎司,年中,中国,国古,古典,典文,文学,学名,名著,著红,红楼,楼梦,梦第,第组,组宝,宝黛,黛读,读书,书盎,盎司,司扇,扇形,形精,精制,制彩,彩银,银币,评级"
+    }
+  ]
+}

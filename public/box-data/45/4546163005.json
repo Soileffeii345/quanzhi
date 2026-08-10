@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4546163005",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4546163005",
+      "displayBoxCode": "4546163-005",
+      "gradingCompany": "NGC",
+      "grade": "MS 67",
+      "coinName": "1980年长城币壹圆（无砖版）、伍角、贰角、壹角各一枚，共四枚",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10438236.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4546163-005/67/",
+      "price": 2950,
+      "priceWithFee": 3186,
+      "transactedAt": "2026-08-05 20:43:05",
+      "productCode": "879529002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/31/879529002A.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1980年,年长,长城,城币,币壹,壹圆,圆无,无砖,砖版,版伍,伍角,角贰,贰角,角壹,壹角,角各,各一,一枚,枚共,共四,四枚"
+    }
+  ]
+}

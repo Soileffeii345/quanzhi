@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2399155038",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2399155038",
+      "displayBoxCode": "2399155-038",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2006年香港上海汇丰银行港币伍拾圆、2016年香港上海汇丰银行港币贰拾圆各一枚，共二枚（狮子号）",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/liantichao-jinianchao/10446238.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2399155-038/",
+      "price": 170,
+      "priceWithFee": 183.6,
+      "transactedAt": "2026-08-08 19:36:05",
+      "productCode": "880815002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/32/880815002B.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2006年,年香,香港,港上,上海,海汇,汇丰,丰银,银行,行港,港币,币伍,伍拾,拾圆,圆年,币贰,贰拾,圆各,各一,一枚,枚共,共二,二枚,枚狮,狮子,子号,外国/特区"
+    }
+  ]
+}

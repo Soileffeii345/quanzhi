@@ -1,15 +1,32 @@
 {
   "coinName": "1991年熊猫31.104克普制银币",
   "slug": "4e3dfd11",
-  "saleCount": 2,
+  "saleCount": 3,
   "keywords": "银,币,1991年,1盎司,熊猫,年熊,猫盎,盎司,司普,普制,制银,银币,币小,小字,字版",
   "priceStats": {
     "low": 790,
     "high": 930,
-    "avg": 860,
-    "latest": 930
+    "avg": 853,
+    "latest": 840
   },
   "records": [
+    {
+      "coinName": "1991年熊猫1盎司普制银币（小字版）",
+      "normalizedBoxCode": "8631452005",
+      "displayBoxCode": "8631452-005",
+      "gradingCompany": "NGC",
+      "grade": "MS67",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-jiuyin/10437604.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8631452-005/67/",
+      "price": 840,
+      "priceWithFee": 869.4,
+      "transactedAt": "2026-08-10 20:42:40",
+      "productCode": "879359004",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1991年,1盎司,熊猫,年熊,猫盎,盎司,司普,普制,制银,银币,币小,小字,字版"
+    },
     {
       "coinName": "1991年熊猫1盎司普制银币（小字版）",
       "normalizedBoxCode": "8631199002",

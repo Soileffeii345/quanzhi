@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8777369017",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8777369017",
+      "displayBoxCode": "8777369-017",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2000年庚辰龙年生肖1/2盎司梅花形精制金币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-jin/10446348.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8777369-017/69/",
+      "price": 26000,
+      "priceWithFee": 26910,
+      "transactedAt": "2026-08-06 20:45:55",
+      "productCode": "880814005",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/32/880814005A.jpg",
+      "ocrConfidence": 37,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2000年,2盎司,生肖,年庚,庚辰,辰龙,龙年,年生,肖盎,盎司,司梅,梅花,花形,形精,精制,制金,金币,评级"
+    }
+  ]
+}

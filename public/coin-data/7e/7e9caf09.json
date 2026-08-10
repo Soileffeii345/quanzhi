@@ -1,0 +1,31 @@
+{
+  "coinName": "1982年中国硬币伍分",
+  "slug": "7e9caf09",
+  "saleCount": 1,
+  "keywords": "币,1982年,年中,中国,国硬,硬币,币伍,伍分",
+  "priceStats": {
+    "low": 110,
+    "high": 110,
+    "avg": 110,
+    "latest": 110
+  },
+  "records": [
+    {
+      "coinName": "1982年中国硬币伍分",
+      "normalizedBoxCode": "4800478012",
+      "displayBoxCode": "4800478-012",
+      "gradingCompany": "NGC",
+      "grade": "MS 68",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10441537.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4800478-012/68/",
+      "price": 110,
+      "priceWithFee": 118.8,
+      "transactedAt": "2026-08-05 20:49:05",
+      "productCode": "879992013",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1982年,年中,中国,国硬,硬币,币伍,伍分"
+    }
+  ]
+}

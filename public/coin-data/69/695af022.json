@@ -1,0 +1,31 @@
+{
+  "coinName": "2009年25克金银币",
+  "slug": "695af022",
+  "saleCount": 1,
+  "keywords": "金,银,币,2009年,25克,年库,库克,克群,群岛,岛教,教皇,皇访,访问,问非,非洲,洲镶,镶嵌,嵌施,施华,华洛,洛世,世奇,奇水,水晶,晶克,克异,异形,形镀,镀金,金银,银币",
+  "priceStats": {
+    "low": 1080,
+    "high": 1080,
+    "avg": 1080,
+    "latest": 1080
+  },
+  "records": [
+    {
+      "coinName": "2009年库克群岛教皇访问非洲镶嵌施华洛世奇水晶25克异形镀金银币",
+      "normalizedBoxCode": "8815432006",
+      "displayBoxCode": "8815432-006",
+      "gradingCompany": "NGC",
+      "grade": "PF68 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/wgjsbizhang/10448232.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8815432-006/68/",
+      "price": 1080,
+      "priceWithFee": 1144.8,
+      "transactedAt": "2026-08-07 19:37:35",
+      "productCode": "881011001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,2009年,25克,年库,库克,克群,群岛,岛教,教皇,皇访,访问,问非,非洲,洲镶,镶嵌,嵌施,施华,华洛,洛世,世奇,奇水,水晶,晶克,克异,异形,形镀,镀金,金银,银币"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "5794267002",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "5794267002",
+      "displayBoxCode": "5794267-002",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1997年中国古典文学名著《三国演义》第（3）组-孙刘联姻5盎司精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10436347.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/5794267-002/69/",
+      "price": 9300,
+      "priceWithFee": 9625.5,
+      "transactedAt": "2026-08-06 19:59:15",
+      "productCode": "879464001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/31/879464001A.jpg",
+      "ocrConfidence": 42,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1997年,5盎司,年中,中国,国古,古典,典文,文学,学名,名著,著三,三国,国演,演义,义第,第组,组孙,孙刘,刘联,联姻,姻盎,盎司,司精,精制,制银,银币,评级"
+    }
+  ]
+}

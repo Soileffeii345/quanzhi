@@ -1,15 +1,32 @@
 {
   "coinName": "1993年熊猫",
   "slug": "4a5f97a4",
-  "saleCount": 8,
+  "saleCount": 9,
   "keywords": "币,1993年,熊猫,年中,中国,国珍,珍稀,稀野,野生,生动,动物,物大,大熊,猫流,流通,通纪,纪念,念币,币二,二枚",
   "priceStats": {
-    "low": 110,
+    "low": 85,
     "high": 220,
-    "avg": 159,
-    "latest": 130
+    "avg": 151,
+    "latest": 85
   },
   "records": [
+    {
+      "coinName": "1993年中国珍稀野生动物-大熊猫流通纪念币",
+      "normalizedBoxCode": "8823340021",
+      "displayBoxCode": "8823340-021",
+      "gradingCompany": "NGC",
+      "grade": "MS 64",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10435454.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8823340-021/64/",
+      "price": 85,
+      "priceWithFee": 91.8,
+      "transactedAt": "2026-08-05 19:08:05",
+      "productCode": "879094005",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1993年,熊猫,年中,中国,国珍,珍稀,稀野,野生,生动,动物,物大,大熊,猫流,流通,通纪,纪念,念币"
+    },
     {
       "coinName": "1993年中国珍稀野生动物-大熊猫流通纪念币",
       "normalizedBoxCode": "8817277001",

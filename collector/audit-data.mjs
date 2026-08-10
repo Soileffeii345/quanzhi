@@ -1,5 +1,5 @@
 import { database } from "./database.mjs";
-import { PUBLISHED_SALE_STATUSES, sqlIn } from "./publication-policy.mjs";
+import { ACTIVE_LISTING_STATUSES, PUBLISHED_SALE_STATUSES, sqlIn } from "./publication-policy.mjs";
 
 const checks = [
   ["SQLite integrity", () => database.prepare("PRAGMA integrity_check").get().integrity_check === "ok"],
@@ -12,6 +12,10 @@ const checks = [
   ["Published records with invalid price", () => database.prepare(`SELECT COUNT(*) c FROM box_sales WHERE verification_status IN (${sqlIn(PUBLISHED_SALE_STATUSES)}) AND (price IS NULL OR price <= 0)`).get().c === 0],
   ["Published records with unexpected source domain", () => database.prepare(`SELECT COUNT(*) c FROM box_sales WHERE verification_status IN (${sqlIn(PUBLISHED_SALE_STATUSES)}) AND NOT ((platform = '赵涌在线' AND detail_url LIKE 'https://zhaoonline.com/%') OR (platform = '易金在线' AND detail_url LIKE 'https://www.yjzx.com/%') OR (platform = '邮宝' AND detail_url LIKE 'https://%'))`).get().c === 0],
   ["Duplicate published source records", () => database.prepare(`SELECT COUNT(*) c FROM (SELECT platform, product_code, normalized_box_code, COUNT(*) n FROM box_sales WHERE verification_status IN (${sqlIn(PUBLISHED_SALE_STATUSES)}) GROUP BY platform, product_code, normalized_box_code HAVING n > 1)`).get().c === 0],
+  ["Active listings missing source URL", () => database.prepare(`SELECT COUNT(*) c FROM box_sales WHERE verification_status IN (${sqlIn(ACTIVE_LISTING_STATUSES)}) AND trim(detail_url) = ''`).get().c === 0],
+  ["Active listings with invalid price", () => database.prepare(`SELECT COUNT(*) c FROM box_sales WHERE verification_status IN (${sqlIn(ACTIVE_LISTING_STATUSES)}) AND (price IS NULL OR price <= 0)`).get().c === 0],
+  ["Active listings missing collection time", () => database.prepare(`SELECT COUNT(*) c FROM box_sales WHERE verification_status IN (${sqlIn(ACTIVE_LISTING_STATUSES)}) AND trim(collected_at) = ''`).get().c === 0],
+  ["Active listings with unexpected source domain", () => database.prepare(`SELECT COUNT(*) c FROM box_sales WHERE verification_status IN (${sqlIn(ACTIVE_LISTING_STATUSES)}) AND NOT ((platform = '赵涌在线' AND detail_url LIKE 'https://zhaoonline.com/%') OR (platform = '易金在线' AND detail_url LIKE 'https://www.yjzx.com/%') OR (platform = '邮宝' AND detail_url LIKE 'https://%'))`).get().c === 0],
 ];
 
 let failed = false;

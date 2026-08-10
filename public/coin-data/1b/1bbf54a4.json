@@ -1,7 +1,7 @@
 {
   "coinName": "2000年15.552克精制金币",
   "slug": "1bbf54a4",
-  "saleCount": 1,
+  "saleCount": 2,
   "keywords": "金,币,2000年,2盎司,年中,中国,国古,古典,典文,文学,学名,名著,著红,红楼,楼梦,梦第,第组,组宝,宝玉,玉赋,赋诗,诗盎,盎司,司八,八边,边形,形精,精制,制彩,彩金,金币,评级",
   "priceStats": {
     "low": 15200,
@@ -10,6 +10,23 @@
     "latest": 15200
   },
   "records": [
+    {
+      "coinName": "2000年中国古典文学名著《红楼梦》第（1）组-宝玉赋诗1/2盎司八边形精制彩金币",
+      "normalizedBoxCode": "8610819021",
+      "displayBoxCode": "8610819-021",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10444090.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8610819-021/69/",
+      "price": 15200,
+      "priceWithFee": 15732,
+      "transactedAt": "2026-08-06 20:36:45",
+      "productCode": "880490005",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2000年,2盎司,年中,中国,国古,古典,典文,文学,学名,名著,著红,红楼,楼梦,梦第,第组,组宝,宝玉,玉赋,赋诗,诗盎,盎司,司八,八边,边形,形精,精制,制彩,彩金,金币,评级"
+    },
     {
       "coinName": "2000年中国古典文学名著《红楼梦》第（1）组-宝玉赋诗1/2盎司八边形精制彩金币",
       "normalizedBoxCode": "8649615003",

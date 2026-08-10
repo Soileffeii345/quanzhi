@@ -1,0 +1,31 @@
+{
+  "coinName": "1980年中国硬币七枚",
+  "slug": "57206581",
+  "saleCount": 1,
+  "keywords": "币,1980年,年中,中国,国硬,硬币,币七,七枚,枚一,一套",
+  "priceStats": {
+    "low": 9100,
+    "high": 9100,
+    "avg": 9100,
+    "latest": 9100
+  },
+  "records": [
+    {
+      "coinName": "1980年中国硬币七枚一套",
+      "normalizedBoxCode": "8540883014",
+      "displayBoxCode": "8540883-014",
+      "gradingCompany": "NGC",
+      "grade": "MS 67",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10435063.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8540883-014/67/",
+      "price": 9100,
+      "priceWithFee": 9828,
+      "transactedAt": "2026-08-05 20:54:35",
+      "productCode": "879093002",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1980年,年中,中国,国硬,硬币,币七,七枚,枚一,一套"
+    }
+  ]
+}

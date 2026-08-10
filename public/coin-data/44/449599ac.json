@@ -1,0 +1,31 @@
+{
+  "coinName": "1997年熊猫3.11克普制金币",
+  "slug": "449599ac",
+  "saleCount": 1,
+  "keywords": "金,币,1997年,10盎司,熊猫,年熊,猫盎,盎司,司普,普制,制金,金币,币大,大字,字版",
+  "priceStats": {
+    "low": 3500,
+    "high": 3500,
+    "avg": 3500,
+    "latest": 3500
+  },
+  "records": [
+    {
+      "coinName": "1997年熊猫1/10盎司普制金币（大字版）",
+      "normalizedBoxCode": "4572931009",
+      "displayBoxCode": "4572931-009",
+      "gradingCompany": "NGC",
+      "grade": "Ms69",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-jiujin/10436398.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4572931-009/69/",
+      "price": 3500,
+      "priceWithFee": 3622.5,
+      "transactedAt": "2026-08-06 20:07:35",
+      "productCode": "879389007",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1997年,10盎司,熊猫,年熊,猫盎,盎司,司普,普制,制金,金币,币大,大字,字版"
+    }
+  ]
+}

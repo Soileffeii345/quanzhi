@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8824986005",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8824986005",
+      "displayBoxCode": "8824986-005",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2007年澳大利亚猪年生肖10盎司银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/wgjsbizhang/10443551.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8824986-005/",
+      "price": 4750,
+      "priceWithFee": 5035,
+      "transactedAt": "2026-08-07 19:44:15",
+      "productCode": "880217002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/31/880217002A.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2007年,10盎司,生肖,年澳,澳大,大利,利亚,亚猪,猪年,年生,肖盎,盎司,司银,银币,外国/特区"
+    }
+  ]
+}

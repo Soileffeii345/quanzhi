@@ -1,0 +1,31 @@
+{
+  "coinName": "2008年15克彩色银币",
+  "slug": "721aeb7a",
+  "saleCount": 1,
+  "keywords": "银,币,2008年,15克,年法,法国,国爱,爱德,德华,华马,马奈,奈奥,奥林,林匹,匹亚,亚克,克方,方形,形彩,彩色,色银,银币,外国/特区",
+  "priceStats": {
+    "low": 540,
+    "high": 540,
+    "avg": 540,
+    "latest": 540
+  },
+  "records": [
+    {
+      "coinName": "2008年法国爱德华.马奈《奥林匹亚》15克方形彩色银币",
+      "normalizedBoxCode": "8504498012",
+      "displayBoxCode": "8504498-012",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/wgjsbizhang/10448246.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8504498-012/",
+      "price": 540,
+      "priceWithFee": 572.4,
+      "transactedAt": "2026-08-07 20:13:25",
+      "productCode": "881011015",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2008年,15克,年法,法国,国爱,爱德,德华,华马,马奈,奈奥,奥林,林匹,匹亚,亚克,克方,方形,形彩,彩色,色银,银币,外国/特区"
+    }
+  ]
+}

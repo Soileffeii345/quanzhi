@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "1310847079",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "1310847079",
+      "displayBoxCode": "1310847-079",
+      "gradingCompany": "NGC",
+      "grade": "XF 06",
+      "coinName": "民国十一年湖南省宪成立纪念当二十铜币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguojindaijizhibi/10413729.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1310847-079/06/",
+      "price": 230,
+      "priceWithFee": 248.4,
+      "transactedAt": "2026-08-10 19:53:05",
+      "productCode": "876805010",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/876805010A.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "铜,币,历史币,民国,国十,十一,一年,年湖,湖南,南省,省宪,宪成,成立,立纪,纪念,念当,当二,二十,十铜,铜币"
+    }
+  ]
+}

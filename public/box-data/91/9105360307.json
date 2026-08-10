@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "9105360307",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "9105360307",
+      "displayBoxCode": "9105360-307",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2009年香港上海汇丰银行港币贰拾圆三枚（豹子号）",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/liantichao-jinianchao/10446240.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/9105360-307/",
+      "price": 80,
+      "priceWithFee": 86.4,
+      "transactedAt": "2026-08-08 21:45:20",
+      "productCode": "880815004",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/32/880815004A.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2009年,年香,香港,港上,上海,海汇,汇丰,丰银,银行,行港,港币,币贰,贰拾,拾圆,圆三,三枚,枚豹,豹子,子号,外国/特区"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "1310729594",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "1310729594",
+      "displayBoxCode": "1310729-594",
+      "gradingCompany": "NGC",
+      "grade": "XF 45",
+      "coinName": "福建官局造光绪元宝十文铜币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguojindaijizhibi/10413720.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1310729-594/45/",
+      "price": 15,
+      "priceWithFee": 16.2,
+      "transactedAt": "2026-08-10 19:43:05",
+      "productCode": "876805001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/876805001A.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "铜,币,历史币,龙洋,龙,元宝,福建,建官,官局,局造,造光,光绪,绪元,宝十,十文,文铜,铜币"
+    }
+  ]
+}

@@ -1,15 +1,32 @@
 {
   "coinName": "2013年银币",
   "slug": "7e30e18a",
-  "saleCount": 5,
+  "saleCount": 6,
   "keywords": "银,币,2013年,年香,香港,港上,上海,海汇,汇丰,丰银,银行,行港,港币,币元,外国/特区,币贰,贰拾,拾元,行有,有限,限公,公司,司港,年中,中国,国银,币伍,伍佰,佰圆",
   "priceStats": {
     "low": 150,
     "high": 600,
-    "avg": 338,
+    "avg": 307,
     "latest": 150
   },
   "records": [
+    {
+      "coinName": "2013年香港上海汇丰银行港币20元",
+      "normalizedBoxCode": "2559394011",
+      "displayBoxCode": "2559394-011",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/liantichao-jinianchao/10446405.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2559394-011/",
+      "price": 150,
+      "priceWithFee": 162,
+      "transactedAt": "2026-08-08 19:02:05",
+      "productCode": "880953001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2013年,年香,香港,港上,上海,海汇,汇丰,丰银,银行,行港,港币,币元,外国/特区"
+    },
     {
       "coinName": "2013年香港上海汇丰银行港币20元",
       "normalizedBoxCode": "2559394011",

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6051485013",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6051485013",
+      "displayBoxCode": "6051485-013",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2019年中国书法艺术（隶书）30克精制银币三枚一套",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10435060.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6051485-013/70/",
+      "price": 2600,
+      "priceWithFee": 2691,
+      "transactedAt": "2026-08-06 19:30:05",
+      "productCode": "879111001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/31/879111001A.jpg",
+      "ocrConfidence": 42,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2019年,30克,书法,年中,中国,国书,法艺,艺术,术隶,隶书,书克,克精,精制,制银,银币,币三,三枚,枚一,一套,评级"
+    }
+  ]
+}

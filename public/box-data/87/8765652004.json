@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8765652004",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8765652004",
+      "displayBoxCode": "8765652-004",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "coinName": "2004年熊猫1/2盎司普制金币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-jiujin/10441438.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8765652-004/69/",
+      "price": 16000,
+      "priceWithFee": 16560,
+      "transactedAt": "2026-08-06 20:32:35",
+      "productCode": "879999001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/31/879999001A.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2004年,2盎司,熊猫,年熊,猫盎,盎司,司普,普制,制金,金币"
+    }
+  ]
+}

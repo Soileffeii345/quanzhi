@@ -1,0 +1,31 @@
+{
+  "coinName": "2019年书法30克精制银币",
+  "slug": "419f5427",
+  "saleCount": 1,
+  "keywords": "银,币,2019年,30克,书法,年中,中国,国书,法艺,艺术,术隶,隶书,书克,克精,精制,制银,银币,币三,三枚,枚一,一套,评级",
+  "priceStats": {
+    "low": 2600,
+    "high": 2600,
+    "avg": 2600,
+    "latest": 2600
+  },
+  "records": [
+    {
+      "coinName": "2019年中国书法艺术（隶书）30克精制银币三枚一套",
+      "normalizedBoxCode": "6051485013",
+      "displayBoxCode": "6051485-013",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10435060.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6051485-013/70/",
+      "price": 2600,
+      "priceWithFee": 2691,
+      "transactedAt": "2026-08-06 19:30:05",
+      "productCode": "879111001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2019年,30克,书法,年中,中国,国书,法艺,艺术,术隶,隶书,书克,克精,精制,制银,银币,币三,三枚,枚一,一套,评级"
+    }
+  ]
+}

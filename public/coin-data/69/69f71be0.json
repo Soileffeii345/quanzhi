@@ -1,0 +1,31 @@
+{
+  "coinName": "上海造币有限公司1989年弥勒佛祖7.776克金章",
+  "slug": "69f71be0",
+  "saleCount": 1,
+  "keywords": "金,币,章,1989年,4盎司,宗教,上海,海造,造币,币有,有限,限公,公司,司年,年弥,弥勒,勒佛,佛祖,祖盎,盎司,司金,金章",
+  "priceStats": {
+    "low": 8400,
+    "high": 8400,
+    "avg": 8400,
+    "latest": 8400
+  },
+  "records": [
+    {
+      "coinName": "上海造币有限公司1989年弥勒佛祖1/4盎司金章",
+      "normalizedBoxCode": "6197742004",
+      "displayBoxCode": "6197742-004",
+      "gradingCompany": "NGC",
+      "grade": "PF69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10441939.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6197742-004/69/",
+      "price": 8400,
+      "priceWithFee": 8694,
+      "transactedAt": "2026-08-06 20:50:05",
+      "productCode": "880177008",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,章,1989年,4盎司,宗教,上海,海造,造币,币有,有限,限公,公司,司年,年弥,弥勒,勒佛,佛祖,祖盎,盎司,司金,金章"
+    }
+  ]
+}

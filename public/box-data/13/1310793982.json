@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "1310793982",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "1310793982",
+      "displayBoxCode": "1310793-982",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "河南省造光绪元宝十文铜币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguojindaijizhibi/10413726.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1310793-982/",
+      "price": 50,
+      "priceWithFee": 54,
+      "transactedAt": "2026-08-10 19:44:05",
+      "productCode": "876805007",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/876805007A.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "铜,币,历史币,龙洋,龙,元宝,河南,南省,省造,造光,光绪,绪元,宝十,十文,文铜,铜币"
+    }
+  ]
+}

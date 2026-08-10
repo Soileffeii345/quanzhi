@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8613707077",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8613707077",
+      "displayBoxCode": "8613707-077",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1934年川陕省苏维埃造五百文铜币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguojindaijizhibi/10408973.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8613707-077/",
+      "price": 3350,
+      "priceWithFee": 3618,
+      "transactedAt": "2026-08-10 19:34:35",
+      "productCode": "876061003",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/876061003A.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "铜,币,1934年,历史币,苏区,年川,川陕,陕省,省苏,苏维,维埃,埃造,造五,五百,百文,文铜,铜币"
+    }
+  ]
+}

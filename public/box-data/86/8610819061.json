@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8610819061",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8610819061",
+      "displayBoxCode": "8610819-061",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1998年戊寅虎年生肖1/10盎司精制彩金币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-jin/10444092.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8610819-061/69/",
+      "price": 4050,
+      "priceWithFee": 4191.75,
+      "transactedAt": "2026-08-06 20:37:35",
+      "productCode": "880490007",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/31/880490007A.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1998年,10盎司,生肖,年戊,戊寅,寅虎,虎年,年生,肖盎,盎司,司精,精制,制彩,彩金,金币,评级"
+    }
+  ]
+}

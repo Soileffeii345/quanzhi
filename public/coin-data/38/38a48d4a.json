@@ -1,0 +1,31 @@
+{
+  "coinName": "2022年500克精制银币",
+  "slug": "38a48d4a",
+  "saleCount": 1,
+  "keywords": "银,币,2022年,500克,年世,世界,界遗,遗产,产泉,泉州,州宋,宋元,元中,中国,国的,的世,界海,海洋,洋商,商贸,贸中,中心,心克,克精,精制,制银,银币,评级",
+  "priceStats": {
+    "low": 11600,
+    "high": 11600,
+    "avg": 11600,
+    "latest": 11600
+  },
+  "records": [
+    {
+      "coinName": "2022年世界遗产（泉州：宋元中国的世界海洋商贸中心）500克精制银币",
+      "normalizedBoxCode": "6431033002",
+      "displayBoxCode": "6431033-002",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10439877.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6431033-002/70/",
+      "price": 11600,
+      "priceWithFee": 12006,
+      "transactedAt": "2026-08-06 19:55:55",
+      "productCode": "879528003",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2022年,500克,年世,世界,界遗,遗产,产泉,泉州,州宋,宋元,元中,中国,国的,的世,界海,海洋,洋商,商贸,贸中,中心,心克,克精,精制,制银,银币,评级"
+    }
+  ]
+}

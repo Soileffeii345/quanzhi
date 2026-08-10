@@ -1,15 +1,32 @@
 {
   "coinName": "2006年银币",
   "slug": "7e4154e8",
-  "saleCount": 5,
-  "keywords": "银,币,2006年,年美,美国,国南,南达,达科,科他,他州,州银,银币,外国/特区,国内,内华,华达,达州,国科,科罗,罗拉,拉多,多州,内布,布拉,拉斯,斯加,加州,国北,北达",
+  "saleCount": 6,
+  "keywords": "银,币,2006年,年香,香港,港上,上海,海汇,汇丰,丰银,银行,行港,港币,币伍,伍拾,拾圆,圆年,币贰,贰拾,圆各,各一,一枚,枚共,共二,二枚,枚狮,狮子,子号,外国/特区,年美,美国,国南,南达,达科,科他,他州,州银,银币,国内,内华,华达,达州,国科,科罗,罗拉,拉多,多州,内布,布拉,拉斯,斯加,加州,国北,北达",
   "priceStats": {
-    "low": 260,
+    "low": 170,
     "high": 270,
-    "avg": 268,
-    "latest": 270
+    "avg": 252,
+    "latest": 170
   },
   "records": [
+    {
+      "coinName": "2006年香港上海汇丰银行港币伍拾圆、2016年香港上海汇丰银行港币贰拾圆各一枚，共二枚（狮子号）",
+      "normalizedBoxCode": "2399155038",
+      "displayBoxCode": "2399155-038",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/liantichao-jinianchao/10446238.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2399155-038/",
+      "price": 170,
+      "priceWithFee": 183.6,
+      "transactedAt": "2026-08-08 19:36:05",
+      "productCode": "880815002",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2006年,年香,香港,港上,上海,海汇,汇丰,丰银,银行,行港,港币,币伍,伍拾,拾圆,圆年,币贰,贰拾,圆各,各一,一枚,枚共,共二,二枚,枚狮,狮子,子号,外国/特区"
+    },
     {
       "coinName": "2006年美国南达科他州银币",
       "normalizedBoxCode": "1534229045",

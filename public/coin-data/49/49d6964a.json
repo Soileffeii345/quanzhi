@@ -1,0 +1,31 @@
+{
+  "coinName": "1919年铜币",
+  "slug": "49d6964a",
+  "saleCount": 1,
+  "keywords": "铜,章,1919年,年比,比利,利时,时一,一战,战前,前战,战俘,俘全,全国,国联,联合,合会,会拱,拱形,形铜,铜章,外国/特区",
+  "priceStats": {
+    "low": 470,
+    "high": 470,
+    "avg": 470,
+    "latest": 470
+  },
+  "records": [
+    {
+      "coinName": "1919年比利时一战前战俘全国联合会拱形铜章",
+      "normalizedBoxCode": "8815433002",
+      "displayBoxCode": "8815433-002",
+      "gradingCompany": "NGC",
+      "grade": "MS 63",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianbi/10448241.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8815433-002/63/",
+      "price": 470,
+      "priceWithFee": 521.7,
+      "transactedAt": "2026-08-07 19:50:55",
+      "productCode": "881011010",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "铜,章,1919年,年比,比利,利时,时一,一战,战前,前战,战俘,俘全,全国,国联,联合,合会,会拱,拱形,形铜,铜章,外国/特区"
+    }
+  ]
+}

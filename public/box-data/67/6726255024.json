@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6726255024",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6726255024",
+      "displayBoxCode": "6726255-024",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2001年西藏和平解放50周年精制流通纪念币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10441517.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6726255-024/69/",
+      "price": 330,
+      "priceWithFee": 356.4,
+      "transactedAt": "2026-08-05 20:23:05",
+      "productCode": "879976009",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/31/879976009A.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2001年,年西,西藏,藏和,和平,平解,解放,放周,周年,年精,精制,制流,流通,通纪,纪念,念币,评级"
+    }
+  ]
+}

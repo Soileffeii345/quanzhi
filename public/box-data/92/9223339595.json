@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "9223339595",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "9223339595",
+      "displayBoxCode": "9223339-595",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2026年千手观音镀金、镀银纪念章、紫铜章各一枚，共三枚",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/tongzhang/10435789.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/9223339-595/",
+      "price": 370,
+      "priceWithFee": 410.7,
+      "transactedAt": "2026-08-07 19:22:40",
+      "productCode": "878596002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/31/878596002B.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,铜,章,2026年,宗教,年千,千手,手观,观音,音镀,镀金,金镀,镀银,银纪,纪念,念章,章紫,紫铜,铜章,章各,各一,一枚,枚共,共三,三枚"
+    }
+  ]
+}

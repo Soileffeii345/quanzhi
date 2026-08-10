@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8817045001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8817045001",
+      "displayBoxCode": "8817045-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 70",
+      "coinName": "2021年千手观音大铜章",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/tongzhang/10437218.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8817045-001/70/",
+      "price": 620,
+      "priceWithFee": 688.2,
+      "transactedAt": "2026-08-07 19:33:30",
+      "productCode": "879466015",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/31/879466015A.jpg",
+      "ocrConfidence": 32,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "铜,章,2021年,宗教,年千,千手,手观,观音,音大,大铜,铜章"
+    }
+  ]
+}

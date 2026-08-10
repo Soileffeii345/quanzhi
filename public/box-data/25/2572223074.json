@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2572223074",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2572223074",
+      "displayBoxCode": "2572223-074",
+      "gradingCompany": "NGC",
+      "grade": "PF 50",
+      "coinName": "1979年中国银行外汇兑换券伍拾圆票样",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waihuiduihuanquan/10440302.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2572223-074/50/",
+      "price": 1060,
+      "priceWithFee": 1144.8,
+      "transactedAt": "2026-08-06 20:27:15",
+      "productCode": "879972011",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/31/879972011B.jpg",
+      "ocrConfidence": 43,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,钞,1979年,年中,中国,国银,银行,行外,外汇,汇兑,兑换,换券,券伍,伍拾,拾圆,圆票,票样"
+    }
+  ]
+}

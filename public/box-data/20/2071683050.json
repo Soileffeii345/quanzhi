@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2071683050",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2071683050",
+      "displayBoxCode": "2071683-050",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "第三版人民币1元五星水印",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/disanbanrenminbi/10445875.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2071683-050/",
+      "price": 65,
+      "priceWithFee": 70.2,
+      "transactedAt": "2026-08-08 20:25:20",
+      "productCode": "880559002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/32/880559002B.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,第三,三版,版人,人民,民币,币元,元五,五星,星水,水印"
+    }
+  ]
+}

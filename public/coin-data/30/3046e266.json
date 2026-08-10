@@ -1,15 +1,32 @@
 {
   "coinName": "2014年7.776克精制金币",
   "slug": "3046e266",
-  "saleCount": 3,
+  "saleCount": 4,
   "keywords": "金,币,2014年,4盎司,年中,中国,国探,探月,月首,首次,次落,落月,月成,成功,功盎,盎司,司精,精制,制金,金币,评级,宗教,名山,国佛,佛教,教圣,圣地,地峨,峨眉,眉山,山盎",
   "priceStats": {
     "low": 8000,
     "high": 8900,
-    "avg": 8467,
-    "latest": 8500
+    "avg": 8375,
+    "latest": 8100
   },
   "records": [
+    {
+      "coinName": "2014年中国探月首次落月成功1/4盎司精制金币",
+      "normalizedBoxCode": "8179728005",
+      "displayBoxCode": "8179728-005",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10445592.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8179728-005/70/",
+      "price": 8100,
+      "priceWithFee": 8383.5,
+      "transactedAt": "2026-08-06 20:35:55",
+      "productCode": "880790001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2014年,4盎司,年中,中国,国探,探月,月首,首次,次落,落月,月成,成功,功盎,盎司,司精,精制,制金,金币,评级"
+    },
     {
       "coinName": "2014年中国探月首次落月成功1/4盎司精制金币",
       "normalizedBoxCode": "8179728005",

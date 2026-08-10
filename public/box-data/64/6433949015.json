@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6433949015",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6433949015",
+      "displayBoxCode": "6433949-015",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "coinName": "1956年中国硬币伍分（小星版）",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10397676.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6433949-015/69/",
+      "price": 240,
+      "priceWithFee": 259.2,
+      "transactedAt": "2026-08-05 20:42:05",
+      "productCode": "874888035",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/874888035A.jpg",
+      "ocrConfidence": 32,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1956年,年中,中国,国硬,硬币,币伍,伍分,分小,小星,星版"
+    }
+  ]
+}

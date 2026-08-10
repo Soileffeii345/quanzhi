@@ -1,15 +1,49 @@
 {
   "coinName": "2000年龙钞",
   "slug": "7e43098e",
-  "saleCount": 4,
-  "keywords": "钞,2000年,年世,世纪,纪龙,龙钞,钞元,钞壹,壹佰,佰圆",
+  "saleCount": 6,
+  "keywords": "钞,2000年,年世,世纪,纪龙,龙钞,钞壹,壹佰,佰圆,钞元",
   "priceStats": {
-    "low": 1400,
+    "low": 1140,
     "high": 1800,
-    "avg": 1615,
-    "latest": 1780
+    "avg": 1457,
+    "latest": 1140
   },
   "records": [
+    {
+      "coinName": "2000年世纪龙钞壹佰圆",
+      "normalizedBoxCode": "1020262461",
+      "displayBoxCode": "1020262-461",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/liantichao-jinianchao/10448601.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1020262-461/",
+      "price": 1140,
+      "priceWithFee": 1231.2,
+      "transactedAt": "2026-08-08 19:08:05",
+      "productCode": "880983002",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,2000年,年世,世纪,纪龙,龙钞,钞壹,壹佰,佰圆"
+    },
+    {
+      "coinName": "2000年世纪龙钞壹佰圆",
+      "normalizedBoxCode": "1762727075",
+      "displayBoxCode": "1762727-075",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/liantichao-jinianchao/10448601.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1762727-075/",
+      "price": 1140,
+      "priceWithFee": 1231.2,
+      "transactedAt": "2026-08-08 19:08:05",
+      "productCode": "880983002",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,2000年,年世,世纪,纪龙,龙钞,钞壹,壹佰,佰圆"
+    },
     {
       "coinName": "2000年世纪龙钞100元",
       "normalizedBoxCode": "2219846001",

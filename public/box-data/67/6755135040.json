@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6755135040",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6755135040",
+      "displayBoxCode": "6755135-040",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "coinName": "2023年大熊猫国家公园、三江源国家公园流通纪念币各三枚，共六枚",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10441574.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6755135-040/69/",
+      "price": 260,
+      "priceWithFee": 280.8,
+      "transactedAt": "2026-08-05 20:48:35",
+      "productCode": "880035005",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/31/880035005A.jpg",
+      "ocrConfidence": 38,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2023年,熊猫,年大,大熊,猫国,国家,家公,公园,园三,三江,江源,源国,园流,流通,通纪,纪念,念币,币各,各三,三枚,枚共,共六,六枚"
+    }
+  ]
+}

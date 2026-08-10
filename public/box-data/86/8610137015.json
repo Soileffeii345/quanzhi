@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8610137015",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8610137015",
+      "displayBoxCode": "8610137-015",
+      "gradingCompany": "NGC",
+      "grade": "AU 55",
+      "coinName": "湖北省造光绪元宝当十铜币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguojindaijizhibi/10403136.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8610137-015/55/",
+      "price": 310,
+      "priceWithFee": 334.8,
+      "transactedAt": "2026-08-10 19:48:35",
+      "productCode": "875427014",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/875427014A.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "铜,币,历史币,龙洋,龙,元宝,湖北,鄂造,北省,省造,造光,光绪,绪元,宝当,当十,十铜,铜币"
+    }
+  ]
+}

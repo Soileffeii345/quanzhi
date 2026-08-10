@@ -1,15 +1,32 @@
 {
   "coinName": "2006年生肖精制",
   "slug": "24bc50d6",
-  "saleCount": 1,
-  "keywords": "币,2006年,生肖,年生,肖狗,狗精,精制,制纪,纪念,念币,评级",
+  "saleCount": 2,
+  "keywords": "币,2006年,生肖,吉祥文化,年丙,丙戌,戌狗,狗年,年生,肖贺,贺岁,岁精,精制,制流,流通,通纪,纪念,念币,评级,肖狗,狗精,制纪",
   "priceStats": {
     "low": 800,
-    "high": 800,
-    "avg": 800,
-    "latest": 800
+    "high": 2150,
+    "avg": 1475,
+    "latest": 2150
   },
   "records": [
+    {
+      "coinName": "2006年丙戌狗年生肖贺岁精制流通纪念币",
+      "normalizedBoxCode": "8777012022",
+      "displayBoxCode": "8777012-022",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10438237.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8777012-022/69/",
+      "price": 2150,
+      "priceWithFee": 2322,
+      "transactedAt": "2026-08-05 19:09:05",
+      "productCode": "879529003",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2006年,生肖,吉祥文化,年丙,丙戌,戌狗,狗年,年生,肖贺,贺岁,岁精,精制,制流,流通,通纪,纪念,念币,评级"
+    },
     {
       "coinName": "2006年生肖狗精制纪念币",
       "normalizedBoxCode": "5803825007",

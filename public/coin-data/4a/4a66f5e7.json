@@ -1,15 +1,32 @@
 {
   "coinName": "1999年金币",
   "slug": "4a66f5e7",
-  "saleCount": 4,
-  "keywords": "金,币,1999年,年中,中国,国珍,珍稀,稀野,野生,生动,动物,物金,金斑,斑啄,啄凤,凤蝶,蝶流,流通,通纪,纪念,念币,金版,版喙,喙凤,斑喙,蝶纪",
+  "saleCount": 5,
+  "keywords": "金,币,1999年,年中,中国,国珍,珍稀,稀野,野生,生动,动物,物金,金斑,斑喙,喙凤,凤蝶,蝶流,流通,通纪,纪念,念币,斑啄,啄凤,金版,版喙,蝶纪",
   "priceStats": {
-    "low": 210,
+    "low": 55,
     "high": 440,
-    "avg": 353,
-    "latest": 210
+    "avg": 293,
+    "latest": 55
   },
   "records": [
+    {
+      "coinName": "1999年中国珍稀野生动物-金斑喙凤蝶流通纪念币",
+      "normalizedBoxCode": "8823340022",
+      "displayBoxCode": "8823340-022",
+      "gradingCompany": "NGC",
+      "grade": "MS 64",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10435451.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8823340-022/64/",
+      "price": 55,
+      "priceWithFee": 59.4,
+      "transactedAt": "2026-08-05 19:28:35",
+      "productCode": "879094002",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1999年,年中,中国,国珍,珍稀,稀野,野生,生动,动物,物金,金斑,斑喙,喙凤,凤蝶,蝶流,流通,通纪,纪念,念币"
+    },
     {
       "coinName": "1999年中国珍稀野生动物-金斑啄凤蝶流通纪念币",
       "normalizedBoxCode": "8817277004",

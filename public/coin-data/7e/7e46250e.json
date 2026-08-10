@@ -1,15 +1,32 @@
 {
   "coinName": "2003年精制",
   "slug": "7e46250e",
-  "saleCount": 11,
-  "keywords": "币,2003年,年中,中国,国宝,宝岛,岛台,台湾,湾朝,朝天,天宫,宫精,精制,制流,流通,通纪,纪念,念币,评级,湾赤,赤嵌,嵌楼,楼精,年世,世界,界文,文化,化遗,遗产,产明,明清,清故,故宫,产曲,曲阜,阜孔,孔庙,庙孔,孔林,林孔,孔府,府精",
+  "saleCount": 12,
+  "keywords": "币,2003年,年年,年中,中国,国宝,宝岛,岛台,台湾,湾精,精制,制流,流通,通纪,纪念,念币,币五,五枚,枚一,一套,评级,湾朝,朝天,天宫,宫精,湾赤,赤嵌,嵌楼,楼精,年世,世界,界文,文化,化遗,遗产,产明,明清,清故,故宫,产曲,曲阜,阜孔,孔庙,庙孔,孔林,林孔,孔府,府精",
   "priceStats": {
     "low": 95,
-    "high": 380,
-    "avg": 200,
-    "latest": 380
+    "high": 760,
+    "avg": 247,
+    "latest": 760
   },
   "records": [
+    {
+      "coinName": "2003年-2005年中国宝岛台湾精制流通纪念币五枚一套",
+      "normalizedBoxCode": "4891707001",
+      "displayBoxCode": "4891707-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 68 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10437755.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4891707-001/68/",
+      "price": 760,
+      "priceWithFee": 820.8,
+      "transactedAt": "2026-08-05 19:11:05",
+      "productCode": "878948001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2003年,年年,年中,中国,国宝,宝岛,岛台,台湾,湾精,精制,制流,流通,通纪,纪念,念币,币五,五枚,枚一,一套,评级"
+    },
     {
       "coinName": "2003年中国宝岛台湾-朝天宫精制流通纪念币",
       "normalizedBoxCode": "6185728013",

@@ -1,15 +1,32 @@
 {
   "coinName": "1993年20盎司普制金币",
   "slug": "5c1a11ed",
-  "saleCount": 3,
+  "saleCount": 4,
   "keywords": "金,币,1993年,20盎司,宗教,年挥,挥柳,柳观,观音,音盎,盎司,司普,普制,制金,金币,币版",
   "priceStats": {
-    "low": 2950,
+    "low": 1800,
     "high": 3100,
-    "avg": 3017,
-    "latest": 2950
+    "avg": 2713,
+    "latest": 1800
   },
   "records": [
+    {
+      "coinName": "1993年挥柳观音1/20盎司普制金币（S版）",
+      "normalizedBoxCode": "8763971001",
+      "displayBoxCode": "8763971-001",
+      "gradingCompany": "NGC",
+      "grade": "MS 67",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10436343.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8763971-001/67/",
+      "price": 1800,
+      "priceWithFee": 1863,
+      "transactedAt": "2026-08-06 20:58:25",
+      "productCode": "878870005",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1993年,20盎司,宗教,年挥,挥柳,柳观,观音,音盎,盎司,司普,普制,制金,金币,币版"
+    },
     {
       "coinName": "1993年挥柳观音1/20盎司普制金币（S版）",
       "normalizedBoxCode": "3610787004",
