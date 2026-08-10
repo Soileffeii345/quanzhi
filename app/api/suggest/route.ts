@@ -29,8 +29,8 @@ export async function GET(request: Request) {
   const coins = await getCoinIndex(request.url);
   const scored = coins
     .map((c) => ({ ...c, _score: scoreCoinSearch(q, c) }))
-    .filter((c) => (c as Record<string, unknown>)._score as number > 0)
-    .sort((a, b) => (b as Record<string, unknown>)._score as number - (a as Record<string, unknown>)._score as number)
+    .filter((c) => c._score > 0)
+    .sort((a, b) => b._score - a._score)
     .slice(0, 8)
     .map((c) => ({
       name: c.coinName,

@@ -104,6 +104,7 @@ export type SourceStatus = {
 
 export type CertInfo = {
   ok: boolean;
+  source?: "database" | "live" | "none";
   coinName: string;
   grade: string;
   year: string;

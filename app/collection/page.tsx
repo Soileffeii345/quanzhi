@@ -70,9 +70,9 @@ export default function CollectionPage() {
           }
         })
       );
-      const results: BoxInfo[] = settled
-        .filter((r): r is PromiseFulfilledResult<BoxInfo | null> => r.status === "fulfilled" && r.value !== null)
-        .map((r) => r.value);
+      const results: BoxInfo[] = settled.flatMap((result) =>
+        result.status === "fulfilled" && result.value !== null ? [result.value] : []
+      );
       setBoxes(results);
     } catch {
       setError("读取收藏列表失败");

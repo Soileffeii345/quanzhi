@@ -2,7 +2,7 @@
 
 泉知是一款面向评级币收藏者的跨平台成交查询产品。用户可以输入钱币名称或 NGC / PCGS 评级盒号，也可以上传评级盒标签照片，查看经过核验的历史成交、价格趋势、评级差异和原始交易证据。
 
-线上体验：https://quanzhi.quanzhi.workers.dev
+线上体验：https://quanzhi-ten.vercel.app
 
 ## 产品能力
 
@@ -61,11 +61,11 @@ npm run data:export
 
 ## 技术结构
 
-- Next.js 16、React 19、Vinext
+- Next.js 16、React 19
 - SQLite 数据处理与静态 JSON 发布层
 - Tesseract.js 浏览器端 OCR
 - GitHub Actions 自动化
-- Cloudflare Workers / R2 数据备份与部署链路
+- Vercel Hobby 生产部署（个人作品集免费方案）
 
 ## 项目原则
 

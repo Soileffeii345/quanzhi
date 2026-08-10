@@ -255,7 +255,7 @@ export default function Home() {
 
     /* ── Phase 1: local database lookup (fast, <1s) ── */
     let databaseBoxRecords: BoxDatabaseRecord[] = [];
-    let databaseData: { match?: "exact" | "prefix"; records?: BoxDatabaseRecord[] } = { match: "exact", records: [] };
+    let databaseData: { match?: "exact" | "prefix" | "keyword"; records?: BoxDatabaseRecord[] } = { match: "exact", records: [] };
 
     if (boxLike) {
       try {
