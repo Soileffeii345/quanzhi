@@ -7,8 +7,10 @@ on:
       - ".github/workflows/daily-update.yml"
       - "bootstrap/quanzhi.sqlite.gz"
   schedule:
-    # Beijing time 08:00
-    - cron: "0 0 * * *"
+    # Monday-Saturday: Beijing time 08:00, incremental only.
+    - cron: "0 0 * * 1-6"
+    # Sunday: Beijing time 08:00, deeper OCR/retry/official-review batch.
+    - cron: "0 0 * * 0"
   workflow_dispatch:
 
 permissions:
@@ -55,7 +57,12 @@ jobs:
           npm run data:audit
 
       - name: Collect, verify, and export new data
-        run: npm run data:update
+        run: |
+          if [ "${{ github.event_name }}" = "schedule" ] && [ "${{ github.event.schedule }}" = "0 0 * * 1-6" ]; then
+            npm run data:update -- --quick
+          else
+            npm run data:update
+          fi
 
       - name: Block publication when evidence checks fail
         run: |

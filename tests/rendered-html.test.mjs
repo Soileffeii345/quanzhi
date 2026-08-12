@@ -71,6 +71,9 @@ test("daily update blocks publication until audits and tests pass", async () => 
     readFile(new URL("collector/reconcile-listing-status.mjs", root), "utf8"),
   ]);
   assert.match(workflow, /schedule:/);
+  assert.match(workflow, /data:update -- --quick/);
+  assert.match(updater, /daily-quick/);
+  assert.match(updater, /weekly-deep/);
   assert.match(workflow, /npm run data:audit/);
   assert.match(workflow, /npm test/);
   assert.match(workflow, /git push origin HEAD:main/);
