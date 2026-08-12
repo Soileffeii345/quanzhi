@@ -63,16 +63,21 @@ test("database page exposes truthful freshness and combinable filters", async ()
 });
 
 test("daily update blocks publication until audits and tests pass", async () => {
-  const [workflow, updater, platformPanel] = await Promise.all([
+  const [workflow, updater, platformPanel, transactionVerifier, reconciler] = await Promise.all([
     readFile(new URL(".github/workflows/daily-update.yml", root), "utf8"),
     readFile(new URL("collector/daily-lightweight.mjs", root), "utf8"),
     readFile(new URL("app/components/PlatformRecords.tsx", root), "utf8"),
+    readFile(new URL("collector/verify-official-and-transaction.mjs", root), "utf8"),
+    readFile(new URL("collector/reconcile-listing-status.mjs", root), "utf8"),
   ]);
   assert.match(workflow, /schedule:/);
   assert.match(workflow, /npm run data:audit/);
   assert.match(workflow, /npm test/);
   assert.match(workflow, /git push origin HEAD:main/);
   assert.match(updater, /audit-data\.mjs/);
+  assert.match(transactionVerifier, /transaction\.inconclusive\s*\?\s*record\.verification_status/);
+  assert.match(transactionVerifier, /sourceStatus === "3"/);
+  assert.match(reconciler, /row\.listing_status === "unknown"/);
   assert.match(updater, /保留上一版网站数据/);
   assert.match(platformPanel, /已检索泉知接入平台：赵涌在线、易金在线/);
 });

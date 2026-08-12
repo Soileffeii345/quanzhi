@@ -108,7 +108,9 @@ async function verifyTransaction(record) {
       const auction = JSON.parse(json);
       const imageUrls = (auction.pictures ?? []).map((picture) => picture.src);
       const hasImage = Boolean(imageName && imageUrls.some((url) => url.includes(imageName)));
-      const isCompleted = String(auction.status) === "3";
+      const sourceStatus = String(auction.status);
+      const isActive = sourceStatus === "2";
+      const isCompleted = sourceStatus === "3";
       const currentPrice = Number(auction.currentPrice);
       const feeRate = Number(auction.buyChargeFee);
       const priceWithFee = Number.isFinite(currentPrice) && Number.isFinite(feeRate)
@@ -124,16 +126,23 @@ async function verifyTransaction(record) {
       if (!sameNumber(currentPrice, record.price) && Number.isFinite(currentPrice) && currentPrice > 0) {
         priceNote = `; refreshed stale price ${record.price} -> ${currentPrice}`;
       }
-      if (!isCompleted) {
+      if (isActive) {
         return {
           ok: false,
           active: true,
           reason: `active listing status:${auction.status}; image:${hasImage}; currentPrice:${auction.currentPrice}`,
         };
       }
+      if (!isCompleted) {
+        return {
+          ok: false,
+          inconclusive: true,
+          reason: `unrecognized auction status:${auction.status}; retaining previous state`,
+        };
+      }
       return hasImage && hasPrice && hasTime
-        ? { ok: true, reason: `completed auction confirms image, price and time${priceNote}` }
-        : { ok: false, reason: `auction mismatch image:${hasImage} price:${hasPrice} time:${hasTime} sourcePrice:${auction.currentPrice} dbPrice:${record.price}` };
+        ? { ok: true, ended: true, reason: `completed auction confirms image, price and time${priceNote}` }
+        : { ok: false, ended: true, reason: `completed auction mismatch image:${hasImage} price:${hasPrice} time:${hasTime} sourcePrice:${auction.currentPrice} dbPrice:${record.price}` };
     }
 
     const $ = load(html);
@@ -152,15 +161,19 @@ async function verifyTransaction(record) {
       if (isActive) {
         return { ok: false, reason: `Yijin active listing mismatch image:${hasImage} price:${currentPrice}` };
       }
+      const explicitlyCompleted = /成交(?:价格|时间)/.test(text) && Boolean(sourceTime);
+      if (!explicitlyCompleted) {
+        return { ok: false, inconclusive: true, reason: "Yijin page does not explicitly confirm active or completed state; retaining previous state" };
+      }
     }
     const priceText = String(record.price).replace(/\.0+$/, "");
     const hasPrice = !record.price || text.includes(priceText);
     const hasTime = !record.transacted_at || text.includes(record.transacted_at);
     return hasImage && hasPrice && hasTime
-      ? { ok: true, reason: "transaction page confirms image, price and time" }
-      : { ok: false, reason: `transaction mismatch image:${hasImage} price:${hasPrice} time:${hasTime}` };
+      ? { ok: true, ended: true, reason: "transaction page explicitly confirms completed image, price and time" }
+      : { ok: false, ended: true, reason: `completed transaction mismatch image:${hasImage} price:${hasPrice} time:${hasTime}` };
   } catch (error) {
-    return { ok: false, reason: `transaction unavailable: ${error instanceof Error ? error.message : String(error)}` };
+    return { ok: false, inconclusive: true, reason: `transaction unavailable; retaining previous state: ${error instanceof Error ? error.message : String(error)}` };
   }
 }
 
@@ -175,11 +188,15 @@ async function runWorker() {
   ]);
   const status = transaction.active
     ? "active_listing"
-    : official.ok && transaction.ok
+    : transaction.inconclusive
+      ? record.verification_status
+    : official.ok && transaction.ended && transaction.ok
     ? "verified"
-    : transaction.ok
+    : transaction.ended && transaction.ok
       ? "official_pending"
-      : "transaction_check_failed";
+      : transaction.ended
+        ? "transaction_check_failed"
+        : record.verification_status;
   const note = `second OCR matched; ${official.reason}; ${transaction.reason}`;
   if (!dryRun) {
     setStatus.run(status, note, record.normalized_box_code, record.platform, record.detail_url);
