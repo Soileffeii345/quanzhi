@@ -1,12 +1,12 @@
 {
   "coinName": "2023年吉祥文化30克银币",
   "slug": "408eaab0",
-  "saleCount": 6,
+  "saleCount": 7,
   "keywords": "银,币,2023年,30克,吉祥文化,年克,克吉,吉祥,祥文,文化,化比,比翼,翼双,双飞,飞银,银币,化前,前程,程似,似锦,锦银",
   "priceStats": {
     "low": 980,
     "high": 1700,
-    "avg": 1180,
+    "avg": 1161,
     "latest": 1200
   },
   "records": [
@@ -108,6 +108,23 @@
       "priceWithFee": null,
       "transactedAt": "2025-05-17 18:43:52",
       "productCode": "KH066627",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2023年,30克,吉祥文化,年克,克吉,吉祥,祥文,文化,化前,前程,程似,似锦,锦银,银币"
+    },
+    {
+      "coinName": "2023年30克吉祥文化前程似锦银币",
+      "normalizedBoxCode": "6745611027",
+      "displayBoxCode": "6745611-027",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/372390.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6745611-027/70/",
+      "price": 1050,
+      "priceWithFee": null,
+      "transactedAt": "2023-07-02 07:04:37",
+      "productCode": "AA409817",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "银,币,2023年,30克,吉祥文化,年克,克吉,吉祥,祥文,文化,化前,前程,程似,似锦,锦银,银币"

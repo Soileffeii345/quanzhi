@@ -1,0 +1,31 @@
+{
+  "coinName": "哈萨克斯坦纸币",
+  "slug": "7e3b83f2",
+  "saleCount": 1,
+  "keywords": "币,哈萨,萨克,克斯,斯坦,坦纸,纸币",
+  "priceStats": {
+    "low": 100,
+    "high": 100,
+    "avg": 100,
+    "latest": 100
+  },
+  "records": [
+    {
+      "coinName": "哈萨克斯坦纸币",
+      "normalizedBoxCode": "2580917005",
+      "displayBoxCode": "2580917-005",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10443657.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2580917-005/",
+      "price": 100,
+      "priceWithFee": 111,
+      "transactedAt": "2026-08-11 21:55:05",
+      "productCode": "880283030",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,哈萨,萨克,克斯,斯坦,坦纸,纸币"
+    }
+  ]
+}

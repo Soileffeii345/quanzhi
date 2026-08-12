@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6408965103",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6408965103",
+      "displayBoxCode": "6408965-103",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1985年1盎司西藏20周年银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/391860.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6408965-103/",
+      "price": 7000,
+      "priceWithFee": null,
+      "transactedAt": "2023-12-01 09:26:02",
+      "productCode": "AA432424",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20231010/large_sell_z92lj2fmde01ui6w.jpg",
+      "ocrConfidence": 26,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1985年,1盎司,年盎,盎司,司西,西藏,藏周,周年,年银,银币"
+    }
+  ]
+}

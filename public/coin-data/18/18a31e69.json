@@ -1,12 +1,12 @@
 {
   "coinName": "2016年8克金币",
   "slug": "18a31e69",
-  "saleCount": 24,
+  "saleCount": 25,
   "keywords": "金,币,2016年,8克,年克,克宁,宁波,波会,会馆,馆设,设立,立周,周年,年金,金币,克大,大足,足石,石刻,刻金,克汤,汤显,显祖,祖金",
   "priceStats": {
-    "low": 5945,
+    "low": 3600,
     "high": 9600,
-    "avg": 7020,
+    "avg": 6883,
     "latest": 8445
   },
   "records": [
@@ -417,6 +417,23 @@
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "金,币,2016年,8克,年克,克宁,宁波,波会,会馆,馆设,设立,立周,周年,年金,金币"
+    },
+    {
+      "coinName": "2016年8克大足石刻金币",
+      "normalizedBoxCode": "4415891013",
+      "displayBoxCode": "4415891-013",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/377201.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4415891-013/",
+      "price": 3600,
+      "priceWithFee": null,
+      "transactedAt": "2023-07-24 16:59:14",
+      "productCode": "AA415592",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2016年,8克,年克,克大,大足,足石,石刻,刻金,金币"
     }
   ]
 }

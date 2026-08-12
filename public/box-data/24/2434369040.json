@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2434369040",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2434369040",
+      "displayBoxCode": "2434369-040",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "巴西纸币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10443646.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2434369-040/",
+      "price": 70,
+      "priceWithFee": 77.7,
+      "transactedAt": "2026-08-11 21:54:05",
+      "productCode": "880283019",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/31/880283019B.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,巴西,西纸,纸币,外国/特区"
+    }
+  ]
+}

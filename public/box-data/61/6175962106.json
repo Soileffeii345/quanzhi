@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6175962106",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6175962106",
+      "displayBoxCode": "6175962-106",
+      "gradingCompany": "NGC",
+      "grade": "PF70 ULTRA CAMEO",
+      "coinName": "2021年30克建党100周年银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/324262.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6175962-106/70/",
+      "price": 880,
+      "priceWithFee": null,
+      "transactedAt": "2023-09-17 19:51:22",
+      "productCode": "KH047728",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20221128/large_sell_ygg5wirjwldbnkao.jpg",
+      "ocrConfidence": 32,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2021年,30克,重大事件,年克,克建,建党,党周,周年,年银,银币"
+    }
+  ]
+}

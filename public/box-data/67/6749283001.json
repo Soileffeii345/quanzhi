@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6749283001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6749283001",
+      "displayBoxCode": "6749283-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1996年熊猫双金属金银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/379019.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6749283-001/69/",
+      "price": 28000,
+      "priceWithFee": null,
+      "transactedAt": "2023-09-14 07:45:15",
+      "productCode": "AA417851.52.53",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20230729/large_sell_i0pvaqgu7lmcpyl0.jpg",
+      "ocrConfidence": 29,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,1996年,熊猫,年熊,猫双,双金,金属,属金,金银,银币"
+    }
+  ]
+}

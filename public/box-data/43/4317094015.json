@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4317094015",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4317094015",
+      "displayBoxCode": "4317094-015",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "coinName": "1994年1盎司熊猫银币(小字版)",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/363929.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4317094-015/69/",
+      "price": 1500,
+      "priceWithFee": null,
+      "transactedAt": "2023-05-24 11:43:10",
+      "productCode": "AA388300A",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20230407/large_sell_suarxngcpu37tjxf.jpg",
+      "ocrConfidence": 32,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1994年,1盎司,熊猫,年盎,盎司,司熊,猫银,银币,币小,小字,字版"
+    }
+  ]
+}

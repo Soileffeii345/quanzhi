@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2580952028",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2580952028",
+      "displayBoxCode": "2580952-028",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2016年印度纸币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10443636.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2580952-028/",
+      "price": 130,
+      "priceWithFee": 144.3,
+      "transactedAt": "2026-08-11 21:52:50",
+      "productCode": "880283009",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/31/880283009B.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2016年,年印,印度,度纸,纸币"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4380636057",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4380636057",
+      "displayBoxCode": "4380636-057",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1985年1盎司新疆30周年银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/345199.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4380636-057/",
+      "price": 12600,
+      "priceWithFee": null,
+      "transactedAt": "2023-06-20 21:07:25",
+      "productCode": "KH046111",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20230307/large_sell_6wpk1ipk6w8ydx6p.jpg",
+      "ocrConfidence": 30,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1985年,1盎司,新疆版,年盎,盎司,司新,新疆,疆周,周年,年银,银币"
+    }
+  ]
+}

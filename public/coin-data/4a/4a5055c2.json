@@ -1,12 +1,12 @@
 {
   "coinName": "1980年银币",
   "slug": "4a5055c2",
-  "saleCount": 4,
+  "saleCount": 5,
   "keywords": "银,1980年,年香,香港,港渣,渣打,打银,银行,行拾,拾圆,外国/特区,行壹,壹佰,佰圆,年上,上海,海汇,汇丰,丰银,币,年中,中国,国奥,奥委,委会,会古,古代,代蹴,蹴鞠,鞠银,银币",
   "priceStats": {
     "low": 45,
     "high": 1460,
-    "avg": 516,
+    "avg": 583,
     "latest": 1460
   },
   "records": [
@@ -74,6 +74,23 @@
       "priceWithFee": null,
       "transactedAt": "2024-05-11 17:14:14",
       "productCode": "AA479413",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1980年,年中,中国,国奥,奥委,委会,会古,古代,代蹴,蹴鞠,鞠银,银币"
+    },
+    {
+      "coinName": "1980年中国奥委会古代蹴鞠银币(UC)",
+      "normalizedBoxCode": "6408811073",
+      "displayBoxCode": "6408811-073",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/339380.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6408811-073/",
+      "price": 850,
+      "priceWithFee": null,
+      "transactedAt": "2023-04-19 16:14:12",
+      "productCode": "AA372785",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "银,币,1980年,年中,中国,国奥,奥委,委会,会古,古代,代蹴,蹴鞠,鞠银,银币"

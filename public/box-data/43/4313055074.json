@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4313055074",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4313055074",
+      "displayBoxCode": "4313055-074",
+      "gradingCompany": "NGC",
+      "grade": "MS 68",
+      "coinName": "2015年航天流通纪念币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10447755.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4313055-074/68/",
+      "price": 35,
+      "priceWithFee": 37.8,
+      "transactedAt": "2026-08-12 19:24:05",
+      "productCode": "881189018",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/23/866315003A.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2015年,年航,航天,天流,流通,通纪,纪念,念币"
+    }
+  ]
+}

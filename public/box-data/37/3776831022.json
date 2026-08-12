@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "3776831022",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "3776831022",
+      "displayBoxCode": "3776831-022",
+      "gradingCompany": "NGC",
+      "grade": "MS 70",
+      "coinName": "1997年1/10盎司吉庆有余金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/341686.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3776831-022/70/",
+      "price": 1450,
+      "priceWithFee": null,
+      "transactedAt": "2023-06-26 19:46:02",
+      "productCode": "AA371284A",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20230211/large_sell_eam6sk4zzni2kehv.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1997年,10盎司,年盎,盎司,司吉,吉庆,庆有,有余,余金,金币"
+    }
+  ]
+}

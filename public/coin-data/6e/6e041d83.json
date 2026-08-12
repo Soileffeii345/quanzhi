@@ -1,12 +1,12 @@
 {
   "coinName": "1998年31.104克银币",
   "slug": "6e041d83",
-  "saleCount": 6,
-  "keywords": "银,币,1998年,1盎司,年盎,盎司,司大,大唐,唐镇,镇库,库银,银币,司妈,妈祖,祖银,司白,白求,求恩,恩银",
+  "saleCount": 8,
+  "keywords": "银,币,1998年,1盎司,年盎,盎司,司大,大唐,唐镇,镇库,库银,银币,司妈,妈祖,祖银,司白,白求,求恩,恩银,司龙,龙文,文化,化银",
   "priceStats": {
     "low": 740,
-    "high": 2200,
-    "avg": 1455,
+    "high": 12000,
+    "avg": 2773,
     "latest": 940
   },
   "records": [
@@ -111,6 +111,40 @@
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "银,币,1998年,1盎司,年盎,盎司,司大,大唐,唐镇,镇库,库银,银币"
+    },
+    {
+      "coinName": "1998年1盎司白求恩银币",
+      "normalizedBoxCode": "6047233003",
+      "displayBoxCode": "6047233-003",
+      "gradingCompany": "NGC",
+      "grade": "PF70 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/361242.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6047233-003/70/",
+      "price": 1450,
+      "priceWithFee": null,
+      "transactedAt": "2023-05-09 13:57:32",
+      "productCode": "KH044128",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1998年,1盎司,年盎,盎司,司白,白求,求恩,恩银,银币"
+    },
+    {
+      "coinName": "1998年1盎司龙文化银币",
+      "normalizedBoxCode": "6197023002",
+      "displayBoxCode": "6197023-002",
+      "gradingCompany": "NGC",
+      "grade": "MS70",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/357568.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6197023-002/70/",
+      "price": 12000,
+      "priceWithFee": null,
+      "transactedAt": "2023-04-23 10:16:01",
+      "productCode": "AA377077A",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1998年,1盎司,年盎,盎司,司龙,龙文,文化,化银,银币"
     }
   ]
 }

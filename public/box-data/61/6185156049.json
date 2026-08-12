@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6185156049",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6185156049",
+      "displayBoxCode": "6185156-049",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1997年1/10盎司吉庆有余彩金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/311176.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6185156-049/",
+      "price": 1550,
+      "priceWithFee": null,
+      "transactedAt": "2023-04-01 19:45:54",
+      "productCode": "KH042903",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20221015/large_sell_mqhxzljjupho0rki.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1997年,10盎司,年盎,盎司,司吉,吉庆,庆有,有余,余彩,彩金,金币"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "coinName": "1983年1克金币",
+  "slug": "2afabac4",
+  "saleCount": 1,
+  "keywords": "金,币,1983年,1克,年克,克马,马可,可波,波罗,罗金,金币",
+  "priceStats": {
+    "low": 1700,
+    "high": 1700,
+    "avg": 1700,
+    "latest": 1700
+  },
+  "records": [
+    {
+      "coinName": "1983年1克马可波罗金币",
+      "normalizedBoxCode": "3481462005",
+      "displayBoxCode": "3481462-005",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/391573.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3481462-005/69/",
+      "price": 1700,
+      "priceWithFee": null,
+      "transactedAt": "2023-10-22 13:16:40",
+      "productCode": "AA432183",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1983年,1克,年克,克马,马可,可波,波罗,罗金,金币"
+    }
+  ]
+}

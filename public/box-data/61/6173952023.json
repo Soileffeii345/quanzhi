@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6173952023",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6173952023",
+      "displayBoxCode": "6173952-023",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "1984年22克历史人物第1组将军俑银币(UC)",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/310656.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6173952-023/70/",
+      "price": 1450,
+      "priceWithFee": null,
+      "transactedAt": "2023-03-13 16:29:04",
+      "productCode": "AA342311",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20221014/large_sell_nsfvmzrbio3i1pfz.jpg",
+      "ocrConfidence": 39,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1984年,22克,年克,克历,历史,史人,人物,物第,第组,组将,将军,军俑,俑银,银币"
+    }
+  ]
+}

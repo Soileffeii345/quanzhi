@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "5801933032",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "5801933032",
+      "displayBoxCode": "5801933-032",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1988年27克珍稀动物第1组银币(大字版)",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/390312.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/5801933-032/",
+      "price": 10000,
+      "priceWithFee": null,
+      "transactedAt": "2023-09-27 11:57:09",
+      "productCode": "KH048476",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20230926/large_sell_kaxk100z4ibf3kgp.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1988年,27克,年克,克珍,珍稀,稀动,动物,物第,第组,组银,银币,币大,大字,字版"
+    }
+  ]
+}

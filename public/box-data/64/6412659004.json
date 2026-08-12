@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6412659004",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6412659004",
+      "displayBoxCode": "6412659-004",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "coinName": "1997年2盎司吉庆有余银币(加厚)",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/311181.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6412659-004/69/",
+      "price": 830,
+      "priceWithFee": null,
+      "transactedAt": "2023-06-30 16:37:44",
+      "productCode": "KH046401",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20221015/large_sell_f8owjbieueedlyu7.jpg",
+      "ocrConfidence": 37,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1997年,2盎司,年盎,盎司,司吉,吉庆,庆有,有余,余银,银币,币加,加厚"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "coinName": "1989年哥斯达黎加纸币",
+  "slug": "1f8934cd",
+  "saleCount": 1,
+  "keywords": "币,1989年,年哥,哥斯,斯达,达黎,黎加,加纸,纸币",
+  "priceStats": {
+    "low": 80,
+    "high": 80,
+    "avg": 80,
+    "latest": 80
+  },
+  "records": [
+    {
+      "coinName": "1989年哥斯达黎加纸币",
+      "normalizedBoxCode": "2588753005",
+      "displayBoxCode": "2588753-005",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10443652.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2588753-005/",
+      "price": 80,
+      "priceWithFee": 88.8,
+      "transactedAt": "2026-08-11 21:59:05",
+      "productCode": "880283025",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1989年,年哥,哥斯,斯达,达黎,黎加,加纸,纸币"
+    }
+  ]
+}

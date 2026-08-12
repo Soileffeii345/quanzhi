@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6753839006",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6753839006",
+      "displayBoxCode": "6753839-006",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1993年22克古代科技第2组太极图银币(喷砂太极版-UC)",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/393577.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6753839-006/",
+      "price": 5000,
+      "priceWithFee": null,
+      "transactedAt": "2024-02-01 17:18:09",
+      "productCode": "AA434394",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20231017/large_sell_awtfiwfnoeucpmdg.jpg",
+      "ocrConfidence": 29,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1993年,22克,年克,克古,古代,代科,科技,技第,第组,组太,太极,极图,图银,银币,币喷,喷砂,砂太,极版"
+    }
+  ]
+}

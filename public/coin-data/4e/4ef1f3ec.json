@@ -1,12 +1,12 @@
 {
   "coinName": "1996年熊猫15.552克金币",
   "slug": "4ef1f3ec",
-  "saleCount": 2,
+  "saleCount": 3,
   "keywords": "金,币,1996年,2盎司,熊猫,年盎,盎司,司熊,猫金,金币,币大,大字,字版",
   "priceStats": {
     "low": 23200,
     "high": 26000,
-    "avg": 24600,
+    "avg": 25067,
     "latest": 23200
   },
   "records": [
@@ -40,6 +40,23 @@
       "priceWithFee": null,
       "transactedAt": "2024-01-03 00:21:55",
       "productCode": "AA454735",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1996年,2盎司,熊猫,年盎,盎司,司熊,猫金,金币,币大,大字,字版"
+    },
+    {
+      "coinName": "1996年1/2盎司熊猫金币(大字版)",
+      "normalizedBoxCode": "6433617007",
+      "displayBoxCode": "6433617-007",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/362658.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6433617-007/69/",
+      "price": 26000,
+      "priceWithFee": null,
+      "transactedAt": "2023-09-21 06:07:15",
+      "productCode": "KH047718",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "金,币,1996年,2盎司,熊猫,年盎,盎司,司熊,猫金,金币,币大,大字,字版"

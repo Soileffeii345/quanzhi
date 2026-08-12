@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "3357622009",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "3357622009",
+      "displayBoxCode": "3357622-009",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1994年1/2盎司古代科技第3组金币(彗星大字版)",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/347248.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3357622-009/69/",
+      "price": 160000,
+      "priceWithFee": null,
+      "transactedAt": "2023-04-06 18:22:06",
+      "productCode": "AA381344.....48",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20230315/large_sell_m1zoz9nvptl7snkx.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1994年,2盎司,年盎,盎司,司古,古代,代科,科技,技第,第组,组金,金币,币彗,彗星,星大,大字,字版"
+    }
+  ]
+}

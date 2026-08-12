@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4642628001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4642628001",
+      "displayBoxCode": "4642628-001",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2012年1盎司生肖龙银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/366851.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4642628-001/",
+      "price": 230,
+      "priceWithFee": null,
+      "transactedAt": "2023-06-23 10:20:22",
+      "productCode": "AA400916A",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20230521/large_sell_pfqtv4sz9ik50cdg.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2012年,1盎司,生肖,年盎,盎司,司生,肖龙,龙银,银币"
+    }
+  ]
+}

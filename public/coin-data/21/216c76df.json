@@ -1,0 +1,31 @@
+{
+  "coinName": "第二轮生肖带厂铭直角边新13套",
+  "slug": "216c76df",
+  "saleCount": 1,
+  "keywords": "钞,生肖,第二,二轮,轮生,肖带,带厂,厂铭,铭直,直角,角边,边新,新套,套部,部分,分票,票带,带数,数字,字色,色标",
+  "priceStats": {
+    "low": 50,
+    "high": 50,
+    "avg": 50,
+    "latest": 50
+  },
+  "records": [
+    {
+      "coinName": "第二轮生肖带厂铭直角边新13套（部分票带数字、色标）",
+      "normalizedBoxCode": "9000000090",
+      "displayBoxCode": "9000000-090",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/biannianxinyou/10449982.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/9000000-090/",
+      "price": 50,
+      "priceWithFee": 54,
+      "transactedAt": "2026-08-11 20:35:00",
+      "productCode": "875680001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,生肖,第二,二轮,轮生,肖带,带厂,厂铭,铭直,直角,角边,边新,新套,套部,部分,分票,票带,带数,数字,字色,色标"
+    }
+  ]
+}

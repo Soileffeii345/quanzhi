@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6740373001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6740373001",
+      "displayBoxCode": "6740373-001",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2000年1/2盎司京剧艺术第2组彩金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/371981.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6740373-001/",
+      "price": 8400,
+      "priceWithFee": null,
+      "transactedAt": "2023-07-08 00:55:56",
+      "productCode": "AA409336",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20230621/large_sell_i3r4tppucrrjd5ui.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2000年,2盎司,戏曲,年盎,盎司,司京,京剧,剧艺,艺术,术第,第组,组彩,彩金,金币"
+    }
+  ]
+}

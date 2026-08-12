@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6184790034",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6184790034",
+      "displayBoxCode": "6184790-034",
+      "gradingCompany": "NGC",
+      "grade": "Pr69 ULTRA CAMEO",
+      "coinName": "2012年2盎司五台山银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/311132.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6184790-034/69/",
+      "price": 1400,
+      "priceWithFee": null,
+      "transactedAt": "2023-10-24 19:25:20",
+      "productCode": "KH049583",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20221015/large_sell_yyeyxddsgpmzvhjm.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2012年,2盎司,年盎,盎司,司五,五台,台山,山银,银币"
+    }
+  ]
+}

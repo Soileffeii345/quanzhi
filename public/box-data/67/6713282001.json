@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6713282001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6713282001",
+      "displayBoxCode": "6713282-001",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2023年生肖兔纪念币 X2",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/346707.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6713282-001/",
+      "price": 4000,
+      "priceWithFee": null,
+      "transactedAt": "2023-04-28 09:40:42",
+      "productCode": "AA380643.44",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20230313/large_sell_g0xqlbpgoy85nlqh.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2023年,生肖,年生,肖兔,兔纪,纪念,念币"
+    }
+  ]
+}

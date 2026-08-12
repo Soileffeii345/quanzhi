@@ -1,0 +1,31 @@
+{
+  "coinName": "民国十四年郧西土门顺兴隆壹串文",
+  "slug": "1a1673ea",
+  "saleCount": 1,
+  "keywords": "历史币,民国,国十,十四,四年,年郧,郧西,西土,土门,门顺,顺兴,兴隆,隆壹,壹串,串文",
+  "priceStats": {
+    "low": 450,
+    "high": 450,
+    "avg": 450,
+    "latest": 450
+  },
+  "records": [
+    {
+      "coinName": "民国十四年郧西土门顺兴隆壹串文",
+      "normalizedBoxCode": "1510269350",
+      "displayBoxCode": "1510269-350",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/difangsipiao/10409701.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1510269-350/",
+      "price": 450,
+      "priceWithFee": 499.5,
+      "transactedAt": "2026-08-11 20:57:35",
+      "productCode": "876058012",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "历史币,民国,国十,十四,四年,年郧,郧西,西土,土门,门顺,顺兴,兴隆,隆壹,壹串,串文"
+    }
+  ]
+}

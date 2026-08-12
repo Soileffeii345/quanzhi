@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6195756018",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6195756018",
+      "displayBoxCode": "6195756-018",
+      "gradingCompany": "NGC",
+      "grade": "PF70 ULTRA CAMEO",
+      "coinName": "1994年22克古代科技第3组编钟银币(UC)",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/360101.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6195756-018/70/",
+      "price": 2600,
+      "priceWithFee": null,
+      "transactedAt": "2023-06-06 18:00:13",
+      "productCode": "KH044026",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20230505/large_sell_jzky1ozo42khgeza.jpg",
+      "ocrConfidence": 29,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1994年,22克,年克,克古,古代,代科,科技,技第,第组,组编,编钟,钟银,银币"
+    }
+  ]
+}

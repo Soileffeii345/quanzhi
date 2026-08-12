@@ -1,0 +1,48 @@
+{
+  "coinName": "1994年奥运会30克银币",
+  "slug": "779620a4",
+  "saleCount": 2,
+  "keywords": "银,币,1994年,30克,奥运,年克,克奥,运会,会周,周年,年男,男子,子篮,篮球,球银,银币,年拳,拳击,击银",
+  "priceStats": {
+    "low": 570,
+    "high": 1800,
+    "avg": 1185,
+    "latest": 1800
+  },
+  "records": [
+    {
+      "coinName": "1994年30克奥运会100周年男子篮球银币(UC)",
+      "normalizedBoxCode": "4794070004",
+      "displayBoxCode": "4794070-004",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/355322.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4794070-004/70/",
+      "price": 1800,
+      "priceWithFee": null,
+      "transactedAt": "2023-04-27 10:53:54",
+      "productCode": "AA390212",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1994年,30克,奥运,年克,克奥,运会,会周,周年,年男,男子,子篮,篮球,球银,银币"
+    },
+    {
+      "coinName": "1994年30克奥运会100周年拳击银币(UC)",
+      "normalizedBoxCode": "6333738022",
+      "displayBoxCode": "6333738-022",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/350146.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6333738-022/",
+      "price": 570,
+      "priceWithFee": null,
+      "transactedAt": "2023-03-27 18:32:32",
+      "productCode": "KH042829",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1994年,30克,奥运,年克,克奥,运会,会周,周年,年拳,拳击,击银,银币"
+    }
+  ]
+}

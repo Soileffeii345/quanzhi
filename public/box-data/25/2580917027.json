@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2580917027",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2580917027",
+      "displayBoxCode": "2580917-027",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2014年哈萨克斯坦纸币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10443656.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2580917-027/",
+      "price": 100,
+      "priceWithFee": 111,
+      "transactedAt": "2026-08-11 21:54:50",
+      "productCode": "880283029",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/31/880283029B.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2014年,年哈,哈萨,萨克,克斯,斯坦,坦纸,纸币"
+    }
+  ]
+}

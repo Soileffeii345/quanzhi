@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2435483050",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2435483050",
+      "displayBoxCode": "2435483-050",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "民国二十五年中央银行伍圆",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10399158.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2435483-050/",
+      "price": 150,
+      "priceWithFee": 166.5,
+      "transactedAt": "2026-08-11 21:17:05",
+      "productCode": "875052001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/875052001B.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国二,二十,十五,五年,年中,中央,央银,银行,行伍,伍圆"
+    }
+  ]
+}

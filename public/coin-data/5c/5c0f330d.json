@@ -1,12 +1,12 @@
 {
   "coinName": "2017年吉祥文化30克银币",
   "slug": "5c0f330d",
-  "saleCount": 2,
-  "keywords": "银,币,2017年,30克,吉祥文化,年克,克吉,吉祥,祥文,文化,化年,年年,年有,有余,余银,银币,化五,五福,福拱,拱寿,寿银",
+  "saleCount": 3,
+  "keywords": "银,币,2017年,30克,吉祥文化,年克,克吉,吉祥,祥文,文化,化年,年年,年有,有余,余银,银币,化五,五福,福拱,拱寿,寿银,化并,并蒂,蒂同,同心,心银",
   "priceStats": {
     "low": 600,
     "high": 1200,
-    "avg": 900,
+    "avg": 863,
     "latest": 600
   },
   "records": [
@@ -43,6 +43,23 @@
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "银,币,2017年,30克,吉祥文化,年克,克吉,吉祥,祥文,文化,化五,五福,福拱,拱寿,寿银,银币"
+    },
+    {
+      "coinName": "2017年30克吉祥文化并蒂同心银币",
+      "normalizedBoxCode": "6413315013",
+      "displayBoxCode": "6413315-013",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/336494.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6413315-013/69/",
+      "price": 790,
+      "priceWithFee": null,
+      "transactedAt": "2023-03-27 15:03:28",
+      "productCode": "KH042758",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2017年,30克,吉祥文化,年克,克吉,吉祥,祥文,文化,化并,并蒂,蒂同,同心,心银,银币"
     }
   ]
 }

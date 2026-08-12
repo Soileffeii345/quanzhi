@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6717468001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6717468001",
+      "displayBoxCode": "6717468-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1996年1/2盎司孙中山诞辰130周年金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/387912.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6717468-001/69/",
+      "price": 14000,
+      "priceWithFee": null,
+      "transactedAt": "2023-09-20 21:22:35",
+      "productCode": "AA428399",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20230915/large_sell_teycsc5adv4ize6d.jpg",
+      "ocrConfidence": 38,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1996年,2盎司,孙小头,孙中山,小头,年盎,盎司,司孙,孙中,中山,山诞,诞辰,辰周,周年,年金,金币"
+    }
+  ]
+}

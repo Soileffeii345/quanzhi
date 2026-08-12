@@ -1,12 +1,12 @@
 {
   "coinName": "1993年熊猫",
   "slug": "4a5f97a4",
-  "saleCount": 10,
-  "keywords": "币,1993年,熊猫,年中,中国,国珍,珍稀,稀野,野生,生动,动物,物大,大熊,猫流,流通,通纪,纪念,念币,币年,国硬,硬币,币壹,壹分,分各,各一,一枚,枚共,共二,二枚,币二",
+  "saleCount": 11,
+  "keywords": "币,1993年,熊猫,年中,中国,国珍,珍稀,稀野,野生,生动,动物,物大,大熊,猫流,流通,通纪,纪念,念币,币年,国硬,硬币,币壹,壹分,分各,各一,一枚,枚共,共二,二枚,币二,猫纪",
   "priceStats": {
     "low": 85,
     "high": 220,
-    "avg": 154,
+    "avg": 151,
     "latest": 85
   },
   "records": [
@@ -179,6 +179,23 @@
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "币,1993年,熊猫,年中,中国,国珍,珍稀,稀野,野生,生动,动物,物大,大熊,猫流,流通,通纪,纪念,念币,币二,二枚"
+    },
+    {
+      "coinName": "1993年中国珍稀野生动物大熊猫纪念币",
+      "normalizedBoxCode": "6333110132",
+      "displayBoxCode": "6333110-132",
+      "gradingCompany": "NGC",
+      "grade": "MS 67",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/392543.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6333110-132/67/",
+      "price": 130,
+      "priceWithFee": null,
+      "transactedAt": "2024-01-14 11:10:14",
+      "productCode": "AA433427",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1993年,熊猫,年中,中国,国珍,珍稀,稀野,野生,生动,动物,物大,大熊,猫纪,纪念,念币"
     }
   ]
 }

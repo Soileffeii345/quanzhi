@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6185356008",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6185356008",
+      "displayBoxCode": "6185356-008",
+      "gradingCompany": "NGC",
+      "grade": "PF70 ULTRA CAMEO",
+      "coinName": "2005年1/2盎司西游记第3组彩金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/311112.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6185356-008/70/",
+      "price": 8000,
+      "priceWithFee": null,
+      "transactedAt": "2023-10-05 07:46:23",
+      "productCode": "KH048812",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20221015/large_sell_9aacm1amb92ewkuo.jpg",
+      "ocrConfidence": 37,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2005年,2盎司,年盎,盎司,司西,西游,游记,记第,第组,组彩,彩金,金币"
+    }
+  ]
+}

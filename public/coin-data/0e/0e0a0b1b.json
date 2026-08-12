@@ -1,0 +1,31 @@
+{
+  "coinName": "1990年生肖31.104克金币",
+  "slug": "0e0a0b1b",
+  "saleCount": 1,
+  "keywords": "金,币,1990年,1盎司,生肖,年盎,盎司,司生,肖马,马金,金币",
+  "priceStats": {
+    "low": 24600,
+    "high": 24600,
+    "avg": 24600,
+    "latest": 24600
+  },
+  "records": [
+    {
+      "coinName": "1990年1盎司生肖马金币",
+      "normalizedBoxCode": "4380164012",
+      "displayBoxCode": "4380164-012",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/390595.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4380164-012/",
+      "price": 24600,
+      "priceWithFee": null,
+      "transactedAt": "2023-10-09 21:32:50",
+      "productCode": "AA431154",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1990年,1盎司,生肖,年盎,盎司,司生,肖马,马金,金币"
+    }
+  ]
+}

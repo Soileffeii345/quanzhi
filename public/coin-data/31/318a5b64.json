@@ -1,12 +1,12 @@
 {
   "coinName": "1995年27克银币",
   "slug": "318a5b64",
-  "saleCount": 6,
-  "keywords": "银,币,1995年,27克,年克,克徐,徐悲,悲鸿,鸿诞,诞辰,辰周,周年,年银,银币,克古,古代,代航,航海,海船,船封,封舟,舟图,图银,克三,三国,国演,演义,义第,第组,组银,克恐,恐龙,龙银",
+  "saleCount": 7,
+  "keywords": "银,币,1995年,27克,年克,克徐,徐悲,悲鸿,鸿诞,诞辰,辰周,周年,年银,银币,克古,古代,代航,航海,海船,船封,封舟,舟图,图银,克三,三国,国演,演义,义第,第组,组银,克恐,恐龙,龙银,克联,联合,合国,国成,成立,立周",
   "priceStats": {
     "low": 2000,
     "high": 11600,
-    "avg": 4933,
+    "avg": 5300,
     "latest": 4400
   },
   "records": [
@@ -111,6 +111,23 @@
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "银,币,1995年,27克,年克,克徐,徐悲,悲鸿,鸿诞,诞辰,辰周,周年,年银,银币"
+    },
+    {
+      "coinName": "1995年27克联合国成立50周年银币",
+      "normalizedBoxCode": "6336810032",
+      "displayBoxCode": "6336810-032",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/357569.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6336810-032/70/",
+      "price": 7500,
+      "priceWithFee": null,
+      "transactedAt": "2023-04-23 10:13:14",
+      "productCode": "AA377081A",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1995年,27克,年克,克联,联合,合国,国成,成立,立周,周年,年银,银币"
     }
   ]
 }

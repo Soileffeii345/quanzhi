@@ -1,15 +1,32 @@
 {
   "coinName": "1991年精制",
   "slug": "4a5fcfa1",
-  "saleCount": 9,
+  "saleCount": 10,
   "keywords": "币,1991年,年中,中国,国精,精制,制硬,硬币,币伍,伍角,评级,币贰,贰分,币壹,壹分,壹圆,伍分,壹角",
   "priceStats": {
     "low": 90,
     "high": 860,
-    "avg": 404,
-    "latest": 740
+    "avg": 396,
+    "latest": 320
   },
   "records": [
+    {
+      "coinName": "1991年中国精制硬币伍角",
+      "normalizedBoxCode": "8821706001",
+      "displayBoxCode": "8821706-001",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10448752.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8821706-001/",
+      "price": 320,
+      "priceWithFee": 345.6,
+      "transactedAt": "2026-08-12 20:34:05",
+      "productCode": "880999003",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1991年,年中,中国,国精,精制,制硬,硬币,币伍,伍角,评级"
+    },
     {
       "coinName": "1991年中国精制硬币伍角",
       "normalizedBoxCode": "8815978051",

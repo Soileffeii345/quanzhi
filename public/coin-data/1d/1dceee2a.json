@@ -1,12 +1,12 @@
 {
   "coinName": "1985年22克银币",
   "slug": "1dceee2a",
-  "saleCount": 3,
+  "saleCount": 4,
   "keywords": "银,币,1985年,22克,年克,克历,历史,史人,人物,物第,第组,组陈,陈胜,胜吴,吴广,广银,银币,币短,短披,披风,组老,老子,子银",
   "priceStats": {
     "low": 600,
     "high": 1950,
-    "avg": 1350,
+    "avg": 1363,
     "latest": 1500
   },
   "records": [
@@ -60,6 +60,23 @@
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "银,币,1985年,22克,年克,克历,历史,史人,人物,物第,第组,组老,老子,子银,银币"
+    },
+    {
+      "coinName": "1985年22克历史人物第2组陈胜吴广银币(短披风)",
+      "normalizedBoxCode": "6197737012",
+      "displayBoxCode": "6197737-012",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/360467.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6197737-012/69/",
+      "price": 1400,
+      "priceWithFee": null,
+      "transactedAt": "2023-05-06 18:02:39",
+      "productCode": "KH044052",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1985年,22克,年克,克历,历史,史人,人物,物第,第组,组陈,陈胜,胜吴,吴广,广银,银币,币短,短披,披风"
     }
   ]
 }

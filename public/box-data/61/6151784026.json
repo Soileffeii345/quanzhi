@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6151784026",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6151784026",
+      "displayBoxCode": "6151784-026",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1994年1盎司熊猫银币(P版)",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/334805.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6151784-026/",
+      "price": 2250,
+      "priceWithFee": null,
+      "transactedAt": "2023-05-22 13:10:49",
+      "productCode": "KH044498",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20230119/large_sell_5gfpybbsqarlqehp.jpg",
+      "ocrConfidence": 38,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1994年,1盎司,熊猫,年盎,盎司,司熊,猫银,银币,币版"
+    }
+  ]
+}

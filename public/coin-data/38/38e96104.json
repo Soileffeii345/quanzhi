@@ -1,12 +1,12 @@
 {
   "coinName": "1988年珍稀动物27克银币",
   "slug": "38e96104",
-  "saleCount": 2,
-  "keywords": "银,币,1988年,27克,年克,克珍,珍稀,稀动,动物,物第,第组,组朱,朱鹮,鹮银,银币,组银",
+  "saleCount": 3,
+  "keywords": "银,币,1988年,27克,年克,克珍,珍稀,稀动,动物,物第,第组,组朱,朱鹮,鹮银,银币,组银,币大,大字,字版",
   "priceStats": {
     "low": 800,
-    "high": 1250,
-    "avg": 1025,
+    "high": 10000,
+    "avg": 4017,
     "latest": 1250
   },
   "records": [
@@ -43,6 +43,23 @@
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "银,币,1988年,27克,年克,克珍,珍稀,稀动,动物,物第,第组,组银,银币"
+    },
+    {
+      "coinName": "1988年27克珍稀动物第1组银币(大字版)",
+      "normalizedBoxCode": "5801933032",
+      "displayBoxCode": "5801933-032",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/390312.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/5801933-032/",
+      "price": 10000,
+      "priceWithFee": null,
+      "transactedAt": "2023-09-27 11:57:09",
+      "productCode": "KH048476",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1988年,27克,年克,克珍,珍稀,稀动,动物,物第,第组,组银,银币,币大,大字,字版"
     }
   ]
 }

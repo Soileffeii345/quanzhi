@@ -1,12 +1,12 @@
 {
   "coinName": "1984年22克银币",
   "slug": "6ac92aeb",
-  "saleCount": 1,
-  "keywords": "银,币,1984年,22克,年克,克历,历史,史人,人物,物第,第组,组牵,牵马,马俑,俑银,银币",
+  "saleCount": 2,
+  "keywords": "银,币,1984年,22克,年克,克历,历史,史人,人物,物第,第组,组牵,牵马,马俑,俑银,银币,组将,将军,军俑",
   "priceStats": {
     "low": 460,
-    "high": 460,
-    "avg": 460,
+    "high": 1450,
+    "avg": 955,
     "latest": 460
   },
   "records": [
@@ -26,6 +26,23 @@
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "银,币,1984年,22克,年克,克历,历史,史人,人物,物第,第组,组牵,牵马,马俑,俑银,银币"
+    },
+    {
+      "coinName": "1984年22克历史人物第1组将军俑银币(UC)",
+      "normalizedBoxCode": "6173952023",
+      "displayBoxCode": "6173952-023",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/310656.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6173952-023/70/",
+      "price": 1450,
+      "priceWithFee": null,
+      "transactedAt": "2023-03-13 16:29:04",
+      "productCode": "AA342311",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1984年,22克,年克,克历,历史,史人,人物,物第,第组,组将,将军,军俑,俑银,银币"
     }
   ]
 }

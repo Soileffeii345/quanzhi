@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6740366170",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6740366170",
+      "displayBoxCode": "6740366-170",
+      "gradingCompany": "NGC",
+      "grade": "MS 68",
+      "coinName": "1998年1/2盎司万象更新银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/372176.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6740366-170/68/",
+      "price": 330,
+      "priceWithFee": null,
+      "transactedAt": "2025-02-19 19:19:28",
+      "productCode": "AA406900A",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20230611/large_sell_bw4tz410eyq1ghj9.jpg",
+      "ocrConfidence": 29,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1998年,2盎司,年盎,盎司,司万,万象,象更,更新,新银,银币"
+    }
+  ]
+}

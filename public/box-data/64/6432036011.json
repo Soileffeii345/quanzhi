@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6432036011",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6432036011",
+      "displayBoxCode": "6432036-011",
+      "gradingCompany": "NGC",
+      "grade": "PF70 ULTRA CAMEO",
+      "coinName": "2021年3克生肖牛彩金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/306035.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6432036-011/70/",
+      "price": 2100,
+      "priceWithFee": null,
+      "transactedAt": "2023-09-15 20:51:21",
+      "productCode": "KH047731",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20220922/large_sell_z7r1rgogfenutzqe.jpg",
+      "ocrConfidence": 37,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2021年,3克,生肖,年克,克生,肖牛,牛彩,彩金,金币"
+    }
+  ]
+}

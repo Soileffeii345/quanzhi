@@ -1,15 +1,32 @@
 {
   "coinName": "1986年中国硬币伍分",
   "slug": "326aa47b",
-  "saleCount": 4,
+  "saleCount": 5,
   "keywords": "币,1986年,年中,中国,国硬,硬币,币伍,伍分",
   "priceStats": {
     "low": 110,
-    "high": 180,
-    "avg": 163,
-    "latest": 110
+    "high": 190,
+    "avg": 168,
+    "latest": 190
   },
   "records": [
+    {
+      "coinName": "1986年中国硬币伍分",
+      "normalizedBoxCode": "8651436041",
+      "displayBoxCode": "8651436-041",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10447815.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8651436-041/",
+      "price": 190,
+      "priceWithFee": 205.2,
+      "transactedAt": "2026-08-12 21:14:45",
+      "productCode": "881200002",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1986年,年中,中国,国硬,硬币,币伍,伍分"
+    },
     {
       "coinName": "1986年中国硬币伍分",
       "normalizedBoxCode": "6044688006",

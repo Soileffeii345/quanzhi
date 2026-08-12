@@ -1,15 +1,32 @@
 {
   "coinName": "中国银行外汇兑换券发行40周年纪念券",
   "slug": "2a89034d",
-  "saleCount": 2,
+  "saleCount": 3,
   "keywords": "银,中国,国银,银行,行外,外汇,汇兑,兑换,换券,券发,发行,行周,周年,年纪,纪念,念券,券十,十枚,枚一,一套",
   "priceStats": {
     "low": 1020,
     "high": 1480,
-    "avg": 1250,
-    "latest": 1020
+    "avg": 1200,
+    "latest": 1100
   },
   "records": [
+    {
+      "coinName": "中国银行外汇兑换券发行40周年纪念券十枚一套",
+      "normalizedBoxCode": "7600139188",
+      "displayBoxCode": "7600139-188",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/liantichao-jinianchao/10445320.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/7600139-188/",
+      "price": 1100,
+      "priceWithFee": 1188,
+      "transactedAt": "2026-08-11 19:05:35",
+      "productCode": "880666001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,中国,国银,银行,行外,外汇,汇兑,兑换,换券,券发,发行,行周,周年,年纪,纪念,念券,券十,十枚,枚一,一套"
+    },
     {
       "coinName": "中国银行外汇兑换券发行40周年纪念券十枚一套",
       "normalizedBoxCode": "1600139186",

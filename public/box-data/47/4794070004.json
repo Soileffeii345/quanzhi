@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4794070004",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4794070004",
+      "displayBoxCode": "4794070-004",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "1994年30克奥运会100周年男子篮球银币(UC)",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/355322.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4794070-004/70/",
+      "price": 1800,
+      "priceWithFee": null,
+      "transactedAt": "2023-04-27 10:53:54",
+      "productCode": "AA390212",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20230413/large_sell_14kz0m7ddiao5r8p.jpg",
+      "ocrConfidence": 30,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1994年,30克,奥运,年克,克奥,运会,会周,周年,年男,男子,子篮,篮球,球银,银币"
+    }
+  ]
+}

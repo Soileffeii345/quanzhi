@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6760786001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6760786001",
+      "displayBoxCode": "6760786-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 66 ULTRA CAMEO",
+      "coinName": "2000年生肖龙&quot;镀银&quot;铜章(40)",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/389725.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6760786-001/66/",
+      "price": 50,
+      "priceWithFee": null,
+      "transactedAt": "2023-09-26 20:14:34",
+      "productCode": "AA430197",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20230923/large_sell_g5e0wwlj4p6gertc.jpg",
+      "ocrConfidence": 41,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,铜,章,2000年,生肖,年生,肖龙,龙镀,镀银,银铜,铜章"
+    }
+  ]
+}

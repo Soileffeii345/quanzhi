@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6176859008",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6176859008",
+      "displayBoxCode": "6176859-008",
+      "gradingCompany": "NGC",
+      "grade": "PF66 CAMEO",
+      "coinName": "1993年1/2盎司台湾风光第2组得月楼金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/367080.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6176859-008/66/",
+      "price": 16000,
+      "priceWithFee": null,
+      "transactedAt": "2023-06-22 18:39:32",
+      "productCode": "AA402242A",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20230526/large_sell_ip9beymy0fqv5dsb.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1993年,2盎司,年盎,盎司,司台,台湾,湾风,风光,光第,第组,组得,得月,月楼,楼金,金币"
+    }
+  ]
+}

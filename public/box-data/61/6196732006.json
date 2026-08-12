@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6196732006",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6196732006",
+      "displayBoxCode": "6196732-006",
+      "gradingCompany": "NGC",
+      "grade": "MS 70",
+      "coinName": "2022年生肖虎纪念币 X2",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/346710.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6196732-006/70/",
+      "price": 4000,
+      "priceWithFee": null,
+      "transactedAt": "2023-04-23 08:34:00",
+      "productCode": "AA380645.46",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20230313/large_sell_ds9svevvg9samw9v.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2022年,生肖,年生,肖虎,虎纪,纪念,念币"
+    }
+  ]
+}

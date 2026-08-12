@@ -1,15 +1,32 @@
 {
   "coinName": "2003年生肖精制",
   "slug": "2bbbcab9",
-  "saleCount": 1,
+  "saleCount": 2,
   "keywords": "币,2003年,生肖,吉祥文化,年癸,癸未,未羊,羊年,年生,肖贺,贺岁,岁精,精制,制流,流通,通纪,纪念,念币,评级",
   "priceStats": {
-    "low": 2250,
+    "low": 530,
     "high": 2250,
-    "avg": 2250,
-    "latest": 2250
+    "avg": 1390,
+    "latest": 530
   },
   "records": [
+    {
+      "coinName": "2003年癸未羊年生肖贺岁精制流通纪念币",
+      "normalizedBoxCode": "8821706005",
+      "displayBoxCode": "8821706-005",
+      "gradingCompany": "NGC",
+      "grade": "PF 67 CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10448751.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8821706-005/67/",
+      "price": 530,
+      "priceWithFee": 572.4,
+      "transactedAt": "2026-08-12 19:00:05",
+      "productCode": "880999002",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2003年,生肖,吉祥文化,年癸,癸未,未羊,羊年,年生,肖贺,贺岁,岁精,精制,制流,流通,通纪,纪念,念币,评级"
+    },
     {
       "coinName": "2003年癸未羊年生肖贺岁精制流通纪念币",
       "normalizedBoxCode": "8815978009",

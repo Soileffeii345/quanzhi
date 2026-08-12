@@ -1,0 +1,31 @@
+{
+  "coinName": "1992年3盎司金币",
+  "slug": "28ab8439",
+  "saleCount": 1,
+  "keywords": "金,币,1992年,3盎司,年盎,盎司,司大,大禹,禹金,金币",
+  "priceStats": {
+    "low": 22000,
+    "high": 22000,
+    "avg": 22000,
+    "latest": 22000
+  },
+  "records": [
+    {
+      "coinName": "1992年1/3盎司大禹金币",
+      "normalizedBoxCode": "3938228017",
+      "displayBoxCode": "3938228-017",
+      "gradingCompany": "NGC",
+      "grade": "PF70 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/366138.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3938228-017/70/",
+      "price": 22000,
+      "priceWithFee": null,
+      "transactedAt": "2023-05-28 22:29:37",
+      "productCode": "KH044880",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1992年,3盎司,年盎,盎司,司大,大禹,禹金,金币"
+    }
+  ]
+}

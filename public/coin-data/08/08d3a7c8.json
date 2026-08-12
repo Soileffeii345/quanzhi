@@ -1,12 +1,12 @@
 {
   "coinName": "1993年31.104克银币",
   "slug": "08d3a7c8",
-  "saleCount": 1,
-  "keywords": "银,币,1993年,1盎司,年盎,盎司,司孔,孔雀,雀开,开屏,屏银,银币",
+  "saleCount": 3,
+  "keywords": "银,币,1993年,1盎司,年盎,盎司,司孔,孔雀,雀开,开屏,屏银,银币,司太,太极,极图,图银",
   "priceStats": {
-    "low": 2950,
-    "high": 2950,
-    "avg": 2950,
+    "low": 760,
+    "high": 6400,
+    "avg": 3370,
     "latest": 2950
   },
   "records": [
@@ -26,6 +26,40 @@
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "银,币,1993年,1盎司,年盎,盎司,司孔,孔雀,雀开,开屏,屏银,银币"
+    },
+    {
+      "coinName": "1993年1盎司孔雀开屏银币",
+      "normalizedBoxCode": "6046539009",
+      "displayBoxCode": "6046539-009",
+      "gradingCompany": "NGC",
+      "grade": "PF70 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/388600.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6046539-009/70/",
+      "price": 6400,
+      "priceWithFee": null,
+      "transactedAt": "2023-11-17 15:34:18",
+      "productCode": "AA429018",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1993年,1盎司,年盎,盎司,司孔,孔雀,雀开,开屏,屏银,银币"
+    },
+    {
+      "coinName": "1993年1盎司太极图银币(PL)",
+      "normalizedBoxCode": "6741287012",
+      "displayBoxCode": "6741287-012",
+      "gradingCompany": "NGC",
+      "grade": "MS 68",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/383058.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6741287-012/",
+      "price": 760,
+      "priceWithFee": null,
+      "transactedAt": "2023-08-30 21:45:54",
+      "productCode": "KH047390",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1993年,1盎司,年盎,盎司,司太,太极,极图,图银,银币"
     }
   ]
 }

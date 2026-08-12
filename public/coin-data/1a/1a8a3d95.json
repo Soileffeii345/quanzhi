@@ -1,0 +1,31 @@
+{
+  "coinName": "2005年生肖3.11克金币",
+  "slug": "1a8a3d95",
+  "saleCount": 1,
+  "keywords": "金,币,2005年,10盎司,生肖,年盎,盎司,司生,肖鸡,鸡金,金币",
+  "priceStats": {
+    "low": 1850,
+    "high": 1850,
+    "avg": 1850,
+    "latest": 1850
+  },
+  "records": [
+    {
+      "coinName": "2005年1/10盎司生肖鸡金币",
+      "normalizedBoxCode": "6335980009",
+      "displayBoxCode": "6335980-009",
+      "gradingCompany": "NGC",
+      "grade": "Ms70",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/331183.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6335980-009/70/",
+      "price": 1850,
+      "priceWithFee": null,
+      "transactedAt": "2023-03-05 20:01:19",
+      "productCode": "KH040858",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2005年,10盎司,生肖,年盎,盎司,司生,肖鸡,鸡金,金币"
+    }
+  ]
+}

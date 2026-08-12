@@ -1,12 +1,12 @@
 {
   "coinName": "2008年熊猫31.104克银币",
   "slug": "487fab7f",
-  "saleCount": 1,
+  "saleCount": 2,
   "keywords": "银,币,2008年,1盎司,熊猫,年盎,盎司,司熊,猫银,银币",
   "priceStats": {
-    "low": 1500,
+    "low": 1000,
     "high": 1500,
-    "avg": 1500,
+    "avg": 1250,
     "latest": 1500
   },
   "records": [
@@ -23,6 +23,23 @@
       "priceWithFee": null,
       "transactedAt": "2026-02-09 10:36:50",
       "productCode": "KH118442",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2008年,1盎司,熊猫,年盎,盎司,司熊,猫银,银币"
+    },
+    {
+      "coinName": "2008年1盎司熊猫银币",
+      "normalizedBoxCode": "3958365003",
+      "displayBoxCode": "3958365-003",
+      "gradingCompany": "NGC",
+      "grade": "MS 70",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/365220.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3958365-003/70/",
+      "price": 1000,
+      "priceWithFee": null,
+      "transactedAt": "2023-11-21 19:07:35",
+      "productCode": "KH046158",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "银,币,2008年,1盎司,熊猫,年盎,盎司,司熊,猫银,银币"

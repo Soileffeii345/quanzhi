@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6185204007",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6185204007",
+      "displayBoxCode": "6185204-007",
+      "gradingCompany": "NGC",
+      "grade": "PF69 ULTRA CAMEO",
+      "coinName": "1994年1盎司婴戏图银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/350924.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6185204-007/",
+      "price": 4150,
+      "priceWithFee": null,
+      "transactedAt": "2023-03-28 20:55:59",
+      "productCode": "AA385337.38",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20230328/large_sell_zpchatrcapikna4t.jpg",
+      "ocrConfidence": 30,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1994年,1盎司,年盎,盎司,司婴,婴戏,戏图,图银,银币"
+    }
+  ]
+}

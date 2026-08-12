@@ -1,12 +1,12 @@
 {
   "coinName": "2004年3.11克金币",
   "slug": "54f42c9f",
-  "saleCount": 4,
+  "saleCount": 5,
   "keywords": "金,币,2004年,10盎司,宗教,年观,观音,音盎,盎司,司幻,幻彩,彩金,金币,年盎,司观,音幻",
   "priceStats": {
-    "low": 3000,
+    "low": 2250,
     "high": 7400,
-    "avg": 5000,
+    "avg": 4450,
     "latest": 4400
   },
   "records": [
@@ -74,6 +74,23 @@
       "priceWithFee": null,
       "transactedAt": "2025-02-19 21:00:27",
       "productCode": "AA534246",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2004年,10盎司,宗教,年盎,盎司,司观,观音,音幻,幻彩,彩金,金币"
+    },
+    {
+      "coinName": "2004年1/10盎司观音幻彩金币",
+      "normalizedBoxCode": "6187208012",
+      "displayBoxCode": "6187208-012",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/375350.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6187208-012/",
+      "price": 2250,
+      "priceWithFee": null,
+      "transactedAt": "2023-07-20 17:21:20",
+      "productCode": "KH046902",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "金,币,2004年,10盎司,宗教,年盎,盎司,司观,观音,音幻,幻彩,彩金,金币"

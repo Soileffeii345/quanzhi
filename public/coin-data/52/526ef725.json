@@ -1,12 +1,12 @@
 {
   "coinName": "2000年京剧15.552克金币",
   "slug": "526ef725",
-  "saleCount": 4,
+  "saleCount": 6,
   "keywords": "金,币,2000年,2盎司,戏曲,年盎,盎司,司京,京剧,剧艺,艺术,术第,第组,组彩,彩金,金币",
   "priceStats": {
-    "low": 11105,
+    "low": 8400,
     "high": 15285,
-    "avg": 13211,
+    "avg": 11641,
     "latest": 15285
   },
   "records": [
@@ -74,6 +74,40 @@
       "priceWithFee": null,
       "transactedAt": "2025-03-18 15:05:34",
       "productCode": "KH061506",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2000年,2盎司,戏曲,年盎,盎司,司京,京剧,剧艺,艺术,术第,第组,组彩,彩金,金币"
+    },
+    {
+      "coinName": "2000年1/2盎司京剧艺术第2组彩金币",
+      "normalizedBoxCode": "6740373004",
+      "displayBoxCode": "6740373-004",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/371979.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6740373-004/69/",
+      "price": 8600,
+      "priceWithFee": null,
+      "transactedAt": "2023-07-09 18:06:20",
+      "productCode": "AA409334",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2000年,2盎司,戏曲,年盎,盎司,司京,京剧,剧艺,艺术,术第,第组,组彩,彩金,金币"
+    },
+    {
+      "coinName": "2000年1/2盎司京剧艺术第2组彩金币",
+      "normalizedBoxCode": "6740373001",
+      "displayBoxCode": "6740373-001",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/371981.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6740373-001/",
+      "price": 8400,
+      "priceWithFee": null,
+      "transactedAt": "2023-07-08 00:55:56",
+      "productCode": "AA409336",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "金,币,2000年,2盎司,戏曲,年盎,盎司,司京,京剧,剧艺,艺术,术第,第组,组彩,彩金,金币"

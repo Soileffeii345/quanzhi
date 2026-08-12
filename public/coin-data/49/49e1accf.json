@@ -1,0 +1,48 @@
+{
+  "coinName": "民国九年袁世凯像壹圆银币",
+  "slug": "49e1accf",
+  "saleCount": 2,
+  "keywords": "银,币,历史币,军阀,军阀币,民国,国九,九年,年袁,袁世,世凯,凯像,像壹,壹圆,圆银,银币",
+  "priceStats": {
+    "low": 2050,
+    "high": 2050,
+    "avg": 2050,
+    "latest": 2050
+  },
+  "records": [
+    {
+      "coinName": "民国九年袁世凯像壹圆银币",
+      "normalizedBoxCode": "6428139032",
+      "displayBoxCode": "6428139-032",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/323171.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6428139-032/",
+      "price": 2050,
+      "priceWithFee": null,
+      "transactedAt": "2023-06-22 15:53:33",
+      "productCode": "KH046069",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,历史币,军阀,军阀币,民国,国九,九年,年袁,袁世,世凯,凯像,像壹,壹圆,圆银,银币"
+    },
+    {
+      "coinName": "民国九年袁世凯像壹圆银币",
+      "normalizedBoxCode": "6428139026",
+      "displayBoxCode": "6428139-026",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/323169.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6428139-026/",
+      "price": 2050,
+      "priceWithFee": null,
+      "transactedAt": "2023-03-17 16:11:25",
+      "productCode": "KH042189",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,历史币,军阀,军阀币,民国,国九,九年,年袁,袁世,世凯,凯像,像壹,壹圆,圆银,银币"
+    }
+  ]
+}

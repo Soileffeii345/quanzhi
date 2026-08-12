@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6751993002",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6751993002",
+      "displayBoxCode": "6751993-002",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2019年100克吉祥文化寿居耄耋银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/388417.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6751993-002/70/",
+      "price": 1950,
+      "priceWithFee": null,
+      "transactedAt": "2023-10-20 13:55:06",
+      "productCode": "AA428797",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20230917/large_sell_hl61aae5dohlswiw.jpg",
+      "ocrConfidence": 30,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2019年,100克,吉祥文化,年克,克吉,吉祥,祥文,文化,化寿,寿居,居耄,耄耋,耋银,银币"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "coinName": "2016年印度纸币",
+  "slug": "153563b1",
+  "saleCount": 2,
+  "keywords": "币,2016年,年印,印度,度纸,纸币",
+  "priceStats": {
+    "low": 100,
+    "high": 130,
+    "avg": 115,
+    "latest": 100
+  },
+  "records": [
+    {
+      "coinName": "2016年印度纸币",
+      "normalizedBoxCode": "2580952060",
+      "displayBoxCode": "2580952-060",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10443635.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2580952-060/",
+      "price": 100,
+      "priceWithFee": 111,
+      "transactedAt": "2026-08-11 22:04:50",
+      "productCode": "880283008",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2016年,年印,印度,度纸,纸币"
+    },
+    {
+      "coinName": "2016年印度纸币",
+      "normalizedBoxCode": "2580952028",
+      "displayBoxCode": "2580952-028",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10443636.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2580952-028/",
+      "price": 130,
+      "priceWithFee": 144.3,
+      "transactedAt": "2026-08-11 21:52:50",
+      "productCode": "880283009",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2016年,年印,印度,度纸,纸币"
+    }
+  ]
+}

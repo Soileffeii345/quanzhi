@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8752547002",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8752547002",
+      "displayBoxCode": "8752547-002",
+      "gradingCompany": "NGC",
+      "grade": "PF 68",
+      "coinName": "1995年中国珍稀野生动物-金丝猴精制流通纪念币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10448750.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8752547-002/68/",
+      "price": 830,
+      "priceWithFee": 896.4,
+      "transactedAt": "2026-08-12 20:54:05",
+      "productCode": "880999001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/32/880999001A.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1995年,年中,中国,国珍,珍稀,稀野,野生,生动,动物,物金,金丝,丝猴,猴精,精制,制流,流通,通纪,纪念,念币,评级"
+    }
+  ]
+}

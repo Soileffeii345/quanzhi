@@ -1,12 +1,12 @@
 {
   "coinName": "1997年2盎司银币",
   "slug": "5682fcbe",
-  "saleCount": 1,
-  "keywords": "银,币,1997年,2盎司,年澳,澳大,大利,利亚,亚笑,笑翠,翠鸟,鸟盎,盎司,司银,银币,外国/特区",
+  "saleCount": 2,
+  "keywords": "银,币,1997年,2盎司,年澳,澳大,大利,利亚,亚笑,笑翠,翠鸟,鸟盎,盎司,司银,银币,外国/特区,年盎,司吉,吉庆,庆有,有余,余银,币加,加厚",
   "priceStats": {
-    "low": 1160,
+    "low": 830,
     "high": 1160,
-    "avg": 1160,
+    "avg": 995,
     "latest": 1160
   },
   "records": [
@@ -26,6 +26,23 @@
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "银,币,1997年,2盎司,年澳,澳大,大利,利亚,亚笑,笑翠,翠鸟,鸟盎,盎司,司银,银币,外国/特区"
+    },
+    {
+      "coinName": "1997年2盎司吉庆有余银币(加厚)",
+      "normalizedBoxCode": "6412659004",
+      "displayBoxCode": "6412659-004",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/311181.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6412659-004/69/",
+      "price": 830,
+      "priceWithFee": null,
+      "transactedAt": "2023-06-30 16:37:44",
+      "productCode": "KH046401",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1997年,2盎司,年盎,盎司,司吉,吉庆,庆有,有余,余银,银币,币加,加厚"
     }
   ]
 }

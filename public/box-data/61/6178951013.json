@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6178951013",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6178951013",
+      "displayBoxCode": "6178951-013",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "1999年1/10盎司生肖兔彩金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/340549.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6178951-013/70/",
+      "price": 2500,
+      "priceWithFee": null,
+      "transactedAt": "2023-03-05 07:32:43",
+      "productCode": "AA374162",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20230220/large_sell_enuqycg7xpjfdf1m.jpg",
+      "ocrConfidence": 39,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1999年,10盎司,生肖,年盎,盎司,司生,肖兔,兔彩,彩金,金币"
+    }
+  ]
+}

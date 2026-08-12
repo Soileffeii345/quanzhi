@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2580941042",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2580941042",
+      "displayBoxCode": "2580941-042",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "澳大利亚纸币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10443638.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2580941-042/",
+      "price": 180,
+      "priceWithFee": 199.8,
+      "transactedAt": "2026-08-11 21:53:05",
+      "productCode": "880283011",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/31/880283011B.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,澳大,大利,利亚,亚纸,纸币,外国/特区"
+    }
+  ]
+}

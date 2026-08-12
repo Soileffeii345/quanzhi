@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4290176085",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4290176085",
+      "displayBoxCode": "4290176-085",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "coinName": "2016年生肖猴纪念币 X6",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/355988.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4290176-085/69/",
+      "price": 150,
+      "priceWithFee": null,
+      "transactedAt": "2023-05-04 15:40:16",
+      "productCode": "AA390905.....10",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20230417/large_sell_sod70g5edwjeaneu.jpg",
+      "ocrConfidence": 39,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2016年,生肖,年生,肖猴,猴纪,纪念,念币"
+    }
+  ]
+}

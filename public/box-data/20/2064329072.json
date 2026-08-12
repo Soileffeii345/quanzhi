@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2064329072",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2064329072",
+      "displayBoxCode": "2064329-072",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "民国三年交通银行天津地名伍圆",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10419539.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2064329-072/",
+      "price": 980,
+      "priceWithFee": 1087.8,
+      "transactedAt": "2026-08-11 20:59:05",
+      "productCode": "877521001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/22/864236064B.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国三,三年,年交,交通,通银,银行,行天,天津,津地,地名,名伍,伍圆"
+    }
+  ]
+}

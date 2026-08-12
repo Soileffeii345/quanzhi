@@ -1,12 +1,12 @@
 {
   "coinName": "1998年中国珍稀野生动物褐马鸡纪念币",
   "slug": "0915e346",
-  "saleCount": 1,
+  "saleCount": 2,
   "keywords": "币,1998年,年中,中国,国珍,珍稀,稀野,野生,生动,动物,物褐,褐马,马鸡,鸡纪,纪念,念币",
   "priceStats": {
-    "low": 380,
+    "low": 350,
     "high": 380,
-    "avg": 380,
+    "avg": 365,
     "latest": 380
   },
   "records": [
@@ -23,6 +23,23 @@
       "priceWithFee": null,
       "transactedAt": "2024-03-14 20:49:00",
       "productCode": "AA461808A",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1998年,年中,中国,国珍,珍稀,稀野,野生,生动,动物,物褐,褐马,马鸡,鸡纪,纪念,念币"
+    },
+    {
+      "coinName": "1998年中国珍稀野生动物褐马鸡纪念币",
+      "normalizedBoxCode": "6182866024",
+      "displayBoxCode": "6182866-024",
+      "gradingCompany": "NGC",
+      "grade": "MS 66",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/356567.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6182866-024/66/",
+      "price": 350,
+      "priceWithFee": null,
+      "transactedAt": "2023-06-27 23:51:59",
+      "productCode": "KH043689",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "币,1998年,年中,中国,国珍,珍稀,稀野,野生,生动,动物,物褐,褐马,马鸡,鸡纪,纪念,念币"

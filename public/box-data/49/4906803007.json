@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4906803007",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4906803007",
+      "displayBoxCode": "4906803-007",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1996年22克古代科技第5组天文钟银币(UC)",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/344950.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4906803-007/69/",
+      "price": 1800,
+      "priceWithFee": null,
+      "transactedAt": "2023-03-27 19:23:51",
+      "productCode": "AA378863",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20230307/large_sell_fzpjwhnyia8wcyd5.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1996年,22克,年克,克古,古代,代科,科技,技第,第组,组天,天文,文钟,钟银,银币"
+    }
+  ]
+}

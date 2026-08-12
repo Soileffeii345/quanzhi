@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6204180030",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6204180030",
+      "displayBoxCode": "6204180-030",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2003年1/10盎司观音幻彩金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/299007.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6204180-030/",
+      "price": 1800,
+      "priceWithFee": null,
+      "transactedAt": "2023-10-10 15:43:59",
+      "productCode": "KH048728",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20220823/large_sell_pgtsm6sglv8b0fto.jpg",
+      "ocrConfidence": 41,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2003年,10盎司,宗教,年盎,盎司,司观,观音,音幻,幻彩,彩金,金币"
+    }
+  ]
+}

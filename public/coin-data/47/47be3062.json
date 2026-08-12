@@ -1,12 +1,12 @@
 {
   "coinName": "2005年生肖31.104克银币",
   "slug": "47be3062",
-  "saleCount": 2,
+  "saleCount": 3,
   "keywords": "银,币,2005年,1盎司,生肖,年盎,盎司,司生,肖鸡,鸡彩,彩银,银币,司梅,梅花,花形,形生,鸡银",
   "priceStats": {
-    "low": 600,
+    "low": 460,
     "high": 1400,
-    "avg": 1000,
+    "avg": 820,
     "latest": 1400
   },
   "records": [
@@ -43,6 +43,23 @@
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "银,币,2005年,1盎司,生肖,年盎,盎司,司梅,梅花,花形,形生,肖鸡,鸡银,银币"
+    },
+    {
+      "coinName": "2005年1盎司生肖鸡银币",
+      "normalizedBoxCode": "6335980005",
+      "displayBoxCode": "6335980-005",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/331184.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6335980-005/",
+      "price": 460,
+      "priceWithFee": null,
+      "transactedAt": "2023-05-30 12:28:39",
+      "productCode": "KH044766",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2005年,1盎司,生肖,年盎,盎司,司生,肖鸡,鸡银,银币"
     }
   ]
 }

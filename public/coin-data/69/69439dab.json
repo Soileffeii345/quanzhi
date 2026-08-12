@@ -1,0 +1,48 @@
+{
+  "coinName": "1991年金银币",
+  "slug": "69439dab",
+  "saleCount": 2,
+  "keywords": "金,银,币,1991年,年辛,辛亥,亥革,革命,命周,周年,年金,金银,银币",
+  "priceStats": {
+    "low": 25000,
+    "high": 25000,
+    "avg": 25000,
+    "latest": 25000
+  },
+  "records": [
+    {
+      "coinName": "1991年辛亥革命80周年金银币",
+      "normalizedBoxCode": "6737333013",
+      "displayBoxCode": "6737333-013",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/366325.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6737333-013/",
+      "price": 25000,
+      "priceWithFee": null,
+      "transactedAt": "2023-06-26 11:38:18",
+      "productCode": "AA402912.13",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,1991年,年辛,辛亥,亥革,革命,命周,周年,年金,金银,银币"
+    },
+    {
+      "coinName": "1991年辛亥革命80周年金银币",
+      "normalizedBoxCode": "6737333014",
+      "displayBoxCode": "6737333-014",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/366325.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6737333-014/69/",
+      "price": 25000,
+      "priceWithFee": null,
+      "transactedAt": "2023-06-26 11:38:18",
+      "productCode": "AA402912.13",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,1991年,年辛,辛亥,亥革,革命,命周,周年,年金,金银,银币"
+    }
+  ]
+}

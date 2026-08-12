@@ -1,0 +1,31 @@
+{
+  "coinName": "1991年生肖31.104克金币",
+  "slug": "4154fe66",
+  "saleCount": 1,
+  "keywords": "金,币,1991年,1盎司,生肖,年盎,盎司,司生,肖羊,羊金,金币",
+  "priceStats": {
+    "low": 34200,
+    "high": 34200,
+    "avg": 34200,
+    "latest": 34200
+  },
+  "records": [
+    {
+      "coinName": "1991年1盎司生肖羊金币",
+      "normalizedBoxCode": "6404738003",
+      "displayBoxCode": "6404738-003",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/333983.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6404738-003/69/",
+      "price": 34200,
+      "priceWithFee": null,
+      "transactedAt": "2023-06-07 20:17:54",
+      "productCode": "KH045311",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1991年,1盎司,生肖,年盎,盎司,司生,肖羊,羊金,金币"
+    }
+  ]
+}

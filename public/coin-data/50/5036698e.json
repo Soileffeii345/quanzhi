@@ -1,0 +1,31 @@
+{
+  "coinName": "第三版人民币汽车1分14枚、第四套/第四版人民币1980年版5元、1990年版50元",
+  "slug": "5036698e",
+  "saleCount": 1,
+  "keywords": "币,1980年,第三,三版,版人,人民,民币,币汽,汽车,车分,分枚,枚第,第四,四套,套第,四版,币年,年版,版元,元年,元各,各一,一枚,枚共,共枚",
+  "priceStats": {
+    "low": 65,
+    "high": 65,
+    "avg": 65,
+    "latest": 65
+  },
+  "records": [
+    {
+      "coinName": "第三版人民币汽车1分14枚、第四套/第四版人民币1980年版5元、1990年版50元各一枚，共16枚",
+      "normalizedBoxCode": "7856021791",
+      "displayBoxCode": "7856021-791",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/disanbanrenminbi/10443090.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/7856021-791/",
+      "price": 65,
+      "priceWithFee": 70.2,
+      "transactedAt": "2026-08-11 20:16:05",
+      "productCode": "880327001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1980年,第三,三版,版人,人民,民币,币汽,汽车,车分,分枚,枚第,第四,四套,套第,四版,币年,年版,版元,元年,元各,各一,一枚,枚共,共枚"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6754846002",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6754846002",
+      "displayBoxCode": "6754846-002",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1989年1/10盎司熊猫金币(小字版)",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/384322.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6754846-002/",
+      "price": 1800,
+      "priceWithFee": null,
+      "transactedAt": "2023-10-16 13:53:25",
+      "productCode": "AA424230",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20230827/large_sell_fgz0z7thvmrmsu0g.jpg",
+      "ocrConfidence": 37,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1989年,10盎司,熊猫,年盎,盎司,司熊,猫金,金币,币小,小字,字版"
+    }
+  ]
+}

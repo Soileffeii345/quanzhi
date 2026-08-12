@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6737383012",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6737383012",
+      "displayBoxCode": "6737383-012",
+      "gradingCompany": "NGC",
+      "grade": "PF70 ULTRA CAMEO",
+      "coinName": "2004年1/2盎司麦积山石窟金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/383326.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6737383-012/70/",
+      "price": 21800,
+      "priceWithFee": null,
+      "transactedAt": "2023-09-16 18:08:23",
+      "productCode": "KH048025",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20230820/large_sell_wrlpoely7bosrqrk.jpg",
+      "ocrConfidence": 39,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2004年,2盎司,年盎,盎司,司麦,麦积,积山,山石,石窟,窟金,金币"
+    }
+  ]
+}

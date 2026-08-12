@@ -1,12 +1,12 @@
 {
   "coinName": "1996年熊猫20盎司金币",
   "slug": "068805a1",
-  "saleCount": 2,
+  "saleCount": 3,
   "keywords": "金,币,1996年,20盎司,熊猫,年盎,盎司,司熊,猫金,金币,币小,小字,字版,币大,大字",
   "priceStats": {
-    "low": 2100,
+    "low": 760,
     "high": 2250,
-    "avg": 2175,
+    "avg": 1703,
     "latest": 2250
   },
   "records": [
@@ -43,6 +43,23 @@
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "金,币,1996年,20盎司,熊猫,年盎,盎司,司熊,猫金,金币,币大,大字,字版"
+    },
+    {
+      "coinName": "1996年1/20盎司熊猫金币(小字版)",
+      "normalizedBoxCode": "6740925001",
+      "displayBoxCode": "6740925-001",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/369055.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6740925-001/69/",
+      "price": 760,
+      "priceWithFee": null,
+      "transactedAt": "2023-07-20 17:30:47",
+      "productCode": "AA406128",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1996年,20盎司,熊猫,年盎,盎司,司熊,猫金,金币,币小,小字,字版"
     }
   ]
 }

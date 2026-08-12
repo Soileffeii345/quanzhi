@@ -1,12 +1,12 @@
 {
   "coinName": "1996年31.104克银币",
   "slug": "78bd8805",
-  "saleCount": 16,
+  "saleCount": 17,
   "keywords": "银,币,1996年,1盎司,年盎,盎司,司红,红军,军长,长征,征胜,胜利,利周,周年,年银,银币,币少,少光,光版,司邮,邮政,政百,百年,年加,加字,字银,章,司牡,牡丹,丹花,花纪,纪念,念银,银章,司航,航空,空工,工业,业周,年歼,歼八,八银,司北,北京,京国,国际,际钱,钱博,博会,会银,司德,德国,国慕,慕尼,尼黑,黑国,际硬,硬币,币展,展银,外国/特区,年长,征途,途中,中银,年胜,利会,会师,师银,币多,多光,宗教,司观,观音,音银,币加,加厚,司玉,玉瓶,瓶观",
   "priceStats": {
     "low": 900,
     "high": 6800,
-    "avg": 2369,
+    "avg": 2359,
     "latest": 2400
   },
   "records": [
@@ -281,6 +281,23 @@
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "银,币,1996年,1盎司,年盎,盎司,司红,红军,军长,长征,征胜,胜利,利周,周年,年银,银币"
+    },
+    {
+      "coinName": "1996年1盎司红军长征胜利60周年银币(多光版)",
+      "normalizedBoxCode": "6723932038",
+      "displayBoxCode": "6723932-038",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/360229.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6723932-038/69/",
+      "price": 2200,
+      "priceWithFee": null,
+      "transactedAt": "2023-05-05 18:58:24",
+      "productCode": "KH044039",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1996年,1盎司,年盎,盎司,司红,红军,军长,长征,征胜,胜利,利周,周年,年银,银币,币多,多光,光版"
     }
   ]
 }

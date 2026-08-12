@@ -1,15 +1,49 @@
 {
   "coinName": "1999年建国",
   "slug": "4a60612c",
-  "saleCount": 19,
+  "saleCount": 21,
   "keywords": "钞,1999年,重大事件,年建,建国,国周,周年,年纪,纪念,念钞,钞伍,伍拾,拾圆,钞元,年伍,圆纪",
   "priceStats": {
-    "low": 190,
+    "low": 170,
     "high": 720,
-    "avg": 429,
-    "latest": 360
+    "avg": 408,
+    "latest": 240
   },
   "records": [
+    {
+      "coinName": "1999年建国50周年纪念钞伍拾圆",
+      "normalizedBoxCode": "8045090011",
+      "displayBoxCode": "8045090-011",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/liantichao-jinianchao/10449785.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8045090-011/",
+      "price": 240,
+      "priceWithFee": 259.2,
+      "transactedAt": "2026-08-11 19:54:35",
+      "productCode": "881352004",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,1999年,重大事件,年建,建国,国周,周年,年纪,纪念,念钞,钞伍,伍拾,拾圆"
+    },
+    {
+      "coinName": "1999年建国50周年纪念钞伍拾圆",
+      "normalizedBoxCode": "0101848074",
+      "displayBoxCode": "0101848-074",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/liantichao-jinianchao/10449784.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/0101848-074/",
+      "price": 170,
+      "priceWithFee": 183.6,
+      "transactedAt": "2026-08-11 19:25:50",
+      "productCode": "881352003",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,1999年,重大事件,年建,建国,国周,周年,年纪,纪念,念钞,钞伍,伍拾,拾圆"
+    },
     {
       "coinName": "1999年建国50周年纪念钞伍拾圆",
       "normalizedBoxCode": "2396364036",

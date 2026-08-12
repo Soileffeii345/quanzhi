@@ -1,12 +1,12 @@
 {
   "coinName": "2001年生肖15.552克金币",
   "slug": "4c81b79e",
-  "saleCount": 14,
+  "saleCount": 15,
   "keywords": "金,币,2001年,2盎司,生肖,年盎,盎司,司梅,梅花,花形,形生,肖蛇,蛇金,金币,司扇,扇形",
   "priceStats": {
     "low": 8800,
     "high": 15565,
-    "avg": 13312,
+    "avg": 13358,
     "latest": 14765
   },
   "records": [
@@ -244,6 +244,23 @@
       "priceWithFee": null,
       "transactedAt": "2024-02-03 17:33:37",
       "productCode": "AA462806",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2001年,2盎司,生肖,年盎,盎司,司梅,梅花,花形,形生,肖蛇,蛇金,金币"
+    },
+    {
+      "coinName": "2001年1/2盎司梅花形生肖蛇金币",
+      "normalizedBoxCode": "2601939047",
+      "displayBoxCode": "2601939-047",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/386431.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2601939-047/70/",
+      "price": 14000,
+      "priceWithFee": null,
+      "transactedAt": "2023-09-11 08:33:57",
+      "productCode": "AA426720",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "金,币,2001年,2盎司,生肖,年盎,盎司,司梅,梅花,花形,形生,肖蛇,蛇金,金币"

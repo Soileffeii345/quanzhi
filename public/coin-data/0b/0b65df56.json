@@ -1,15 +1,32 @@
 {
   "coinName": "库克群岛塑料钞",
   "slug": "0b65df56",
-  "saleCount": 1,
+  "saleCount": 2,
   "keywords": "钞,库克,克群,群岛,岛塑,塑料,料钞",
   "priceStats": {
-    "low": 150,
+    "low": 130,
     "high": 150,
-    "avg": 150,
-    "latest": 150
+    "avg": 140,
+    "latest": 130
   },
   "records": [
+    {
+      "coinName": "库克群岛塑料钞",
+      "normalizedBoxCode": "2588762033",
+      "displayBoxCode": "2588762-033",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10443641.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2588762-033/",
+      "price": 130,
+      "priceWithFee": 144.3,
+      "transactedAt": "2026-08-11 21:53:35",
+      "productCode": "880283014",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,库克,克群,群岛,岛塑,塑料,料钞"
+    },
     {
       "coinName": "库克群岛塑料钞",
       "normalizedBoxCode": "2400752099",

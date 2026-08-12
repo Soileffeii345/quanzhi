@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6727887059",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6727887059",
+      "displayBoxCode": "6727887-059",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2000年敦煌藏经洞发现100周年精制纪念币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/359261.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6727887-059/",
+      "price": 1300,
+      "priceWithFee": null,
+      "transactedAt": "2023-05-01 15:17:28",
+      "productCode": "KH043939",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20230429/large_sell_bcjztfmnlg0dl1tb.jpg",
+      "ocrConfidence": 30,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2000年,年敦,敦煌,煌藏,藏经,经洞,洞发,发现,现周,周年,年精,精制,制纪,纪念,念币,评级"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2588762033",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2588762033",
+      "displayBoxCode": "2588762-033",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "库克群岛塑料钞",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10443641.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2588762-033/",
+      "price": 130,
+      "priceWithFee": 144.3,
+      "transactedAt": "2026-08-11 21:53:35",
+      "productCode": "880283014",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/31/880283014B.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,库克,克群,群岛,岛塑,塑料,料钞"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2162009104",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2162009104",
+      "displayBoxCode": "2162009-104",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "增福堂壹仟文",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/361867.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2162009-104/",
+      "price": 1100,
+      "priceWithFee": null,
+      "transactedAt": "2023-06-01 20:17:44",
+      "productCode": "ZB010378",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20230511/large_sell_cifkqejhxbxmmmkh.jpg",
+      "ocrConfidence": 21,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "增福,福堂,堂壹,壹仟,仟文"
+    }
+  ]
+}

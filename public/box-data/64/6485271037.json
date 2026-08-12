@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6485271037",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6485271037",
+      "displayBoxCode": "6485271-037",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1993年1/10盎司太极图金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/336478.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6485271-037/",
+      "price": 9400,
+      "priceWithFee": null,
+      "transactedAt": "2023-05-29 00:27:56",
+      "productCode": "KH044495",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20230204/large_sell_f62pcy7q6s7ppup1.jpg",
+      "ocrConfidence": 41,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1993年,10盎司,年盎,盎司,司太,太极,极图,图金,金币"
+    }
+  ]
+}

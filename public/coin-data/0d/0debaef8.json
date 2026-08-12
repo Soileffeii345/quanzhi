@@ -1,12 +1,12 @@
 {
   "coinName": "2017年30克银币",
   "slug": "0debaef8",
-  "saleCount": 1,
-  "keywords": "银,币,2017年,30克,年克,克环,环青,青海,海湖,湖自,自行,行车,车赛,赛银,银币",
+  "saleCount": 3,
+  "keywords": "银,币,2017年,30克,年克,克环,环青,青海,海湖,湖自,自行,行车,车赛,赛银,银币,克集,集藏,藏文,文博,博会,会银",
   "priceStats": {
-    "low": 400,
-    "high": 400,
-    "avg": 400,
+    "low": 270,
+    "high": 600,
+    "avg": 423,
     "latest": 400
   },
   "records": [
@@ -23,6 +23,40 @@
       "priceWithFee": null,
       "transactedAt": "2025-08-29 13:38:54",
       "productCode": "AA572669",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2017年,30克,年克,克环,环青,青海,海湖,湖自,自行,行车,车赛,赛银,银币"
+    },
+    {
+      "coinName": "2017年30克集藏文博会银币",
+      "normalizedBoxCode": "4791432034",
+      "displayBoxCode": "4791432-034",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/299279.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4791432-034/",
+      "price": 270,
+      "priceWithFee": null,
+      "transactedAt": "2023-05-15 22:50:45",
+      "productCode": "KH043079",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2017年,30克,年克,克集,集藏,藏文,文博,博会,会银,银币"
+    },
+    {
+      "coinName": "2017年30克环青海湖自行车赛银币",
+      "normalizedBoxCode": "2071638029",
+      "displayBoxCode": "2071638-029",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/329013.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2071638-029/70/",
+      "price": 600,
+      "priceWithFee": null,
+      "transactedAt": "2023-03-15 22:12:19",
+      "productCode": "KH034645",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "银,币,2017年,30克,年克,克环,环青,青海,海湖,湖自,自行,行车,车赛,赛银,银币"

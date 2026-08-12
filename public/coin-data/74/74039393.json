@@ -1,12 +1,12 @@
 {
   "coinName": "2005年15.552克金币",
   "slug": "74039393",
-  "saleCount": 28,
+  "saleCount": 29,
   "keywords": "金,币,2005年,2盎司,年盎,盎司,司西,西游,游记,记第,第组,组彩,彩金,金币,司郑,郑和,和下,下西,西洋,洋彩,司陈,陈云,云诞,诞辰,辰周,周年,年金",
   "priceStats": {
     "low": 7300,
     "high": 33740,
-    "avg": 14942,
+    "avg": 14702,
     "latest": 15000
   },
   "records": [
@@ -485,6 +485,23 @@
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "金,币,2005年,2盎司,年盎,盎司,司郑,郑和,和下,下西,西洋,洋彩,彩金,金币"
+    },
+    {
+      "coinName": "2005年1/2盎司西游记第3组彩金币",
+      "normalizedBoxCode": "6185356008",
+      "displayBoxCode": "6185356-008",
+      "gradingCompany": "NGC",
+      "grade": "PF70 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/311112.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6185356-008/70/",
+      "price": 8000,
+      "priceWithFee": null,
+      "transactedAt": "2023-10-05 07:46:23",
+      "productCode": "KH048812",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2005年,2盎司,年盎,盎司,司西,西游,游记,记第,第组,组彩,彩金,金币"
     }
   ]
 }

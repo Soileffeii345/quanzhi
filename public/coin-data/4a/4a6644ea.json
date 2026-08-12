@@ -1,12 +1,12 @@
 {
   "coinName": "1997年银币",
   "slug": "4a6644ea",
-  "saleCount": 2,
-  "keywords": "银,币,1997年,年香,香港,港上,上海,海汇,汇丰,丰银,银行,行港,港币,币元,外国/特区,年中,中国,国银",
+  "saleCount": 3,
+  "keywords": "银,币,1997年,年香,香港,港上,上海,海汇,汇丰,丰银,银行,行港,港币,币元,外国/特区,年中,中国,国银,宗教,年两,两观,观音,音银,银币",
   "priceStats": {
     "low": 170,
-    "high": 1460,
-    "avg": 815,
+    "high": 15800,
+    "avg": 5810,
     "latest": 170
   },
   "records": [
@@ -43,6 +43,23 @@
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "银,币,1997年,年中,中国,国银,银行,行港,港币,币元"
+    },
+    {
+      "coinName": "1997年3.3两观音银币",
+      "normalizedBoxCode": "6727911005",
+      "displayBoxCode": "6727911-005",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/331123.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6727911-005/69/",
+      "price": 15800,
+      "priceWithFee": null,
+      "transactedAt": "2023-06-12 08:12:48",
+      "productCode": "KH045060",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1997年,宗教,年两,两观,观音,音银,银币"
     }
   ]
 }

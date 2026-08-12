@@ -1,0 +1,31 @@
+{
+  "coinName": "2022年卡塔尔塑料钞",
+  "slug": "532c9c30",
+  "saleCount": 1,
+  "keywords": "钞,2022年,年卡,卡塔,塔尔,尔塑,塑料,料钞",
+  "priceStats": {
+    "low": 310,
+    "high": 310,
+    "avg": 310,
+    "latest": 310
+  },
+  "records": [
+    {
+      "coinName": "2022年卡塔尔塑料钞",
+      "normalizedBoxCode": "2580917047",
+      "displayBoxCode": "2580917-047",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10443644.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2580917-047/",
+      "price": 310,
+      "priceWithFee": 344.1,
+      "transactedAt": "2026-08-11 22:05:05",
+      "productCode": "880283017",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,2022年,年卡,卡塔,塔尔,尔塑,塑料,料钞"
+    }
+  ]
+}

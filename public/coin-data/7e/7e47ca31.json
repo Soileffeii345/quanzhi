@@ -1,12 +1,12 @@
 {
   "coinName": "2000年精制",
   "slug": "7e47ca31",
-  "saleCount": 10,
+  "saleCount": 11,
   "keywords": "币,2000年,年纪,纪念,念敦,敦煌,煌藏,藏经,经洞,洞发,发现,现周,周年,年精,精制,制流,流通,通纪,念币,评级,年中,中国,国精,制硬,硬币,币角,年敦,制纪,年迎,迎接,接新,新世,世纪,纪精,新实,实际,际精,币伍,伍分",
   "priceStats": {
     "low": 240,
     "high": 7000,
-    "avg": 1856,
+    "avg": 1805,
     "latest": 7000
   },
   "records": [
@@ -179,6 +179,23 @@
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "币,2000年,年迎,迎接,接新,新世,世纪,纪精,精制,制流,流通,通纪,纪念,念币,评级"
+    },
+    {
+      "coinName": "2000年敦煌藏经洞发现100周年精制纪念币",
+      "normalizedBoxCode": "6727887059",
+      "displayBoxCode": "6727887-059",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/359261.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6727887-059/",
+      "price": 1300,
+      "priceWithFee": null,
+      "transactedAt": "2023-05-01 15:17:28",
+      "productCode": "KH043939",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2000年,年敦,敦煌,煌藏,藏经,经洞,洞发,发现,现周,周年,年精,精制,制纪,纪念,念币,评级"
     }
   ]
 }

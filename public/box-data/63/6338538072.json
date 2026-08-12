@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6338538072",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6338538072",
+      "displayBoxCode": "6338538-072",
+      "gradingCompany": "NGC",
+      "grade": "MS69",
+      "coinName": "1997年1/10盎司生肖牛金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/308800.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6338538-072/69/",
+      "price": 1700,
+      "priceWithFee": null,
+      "transactedAt": "2023-03-05 19:55:29",
+      "productCode": "KH041015",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20221005/large_sell_tpimxy4f5hw4sbvf.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1997年,10盎司,生肖,年盎,盎司,司生,肖牛,牛金,金币"
+    }
+  ]
+}

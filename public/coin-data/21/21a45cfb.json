@@ -1,12 +1,12 @@
 {
   "coinName": "1997年15.552克银币",
   "slug": "21a45cfb",
-  "saleCount": 1,
-  "keywords": "银,币,1997年,2盎司,宗教,年盎,盎司,司观,观音,音银,银币",
+  "saleCount": 2,
+  "keywords": "银,币,1997年,2盎司,宗教,年盎,盎司,司观,观音,音银,银币,司左,左手,手托,托瓶,瓶观",
   "priceStats": {
-    "low": 7200,
+    "low": 4800,
     "high": 7200,
-    "avg": 7200,
+    "avg": 6000,
     "latest": 7200
   },
   "records": [
@@ -26,6 +26,23 @@
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "银,币,1997年,2盎司,宗教,年盎,盎司,司观,观音,音银,银币"
+    },
+    {
+      "coinName": "1997年1/2盎司左手托瓶观音银币",
+      "normalizedBoxCode": "5813061007",
+      "displayBoxCode": "5813061-007",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/360142.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/5813061-007/70/",
+      "price": 4800,
+      "priceWithFee": null,
+      "transactedAt": "2023-05-05 11:04:02",
+      "productCode": "KH044028",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1997年,2盎司,宗教,年盎,盎司,司左,左手,手托,托瓶,瓶观,观音,音银,银币"
     }
   ]
 }

@@ -1,0 +1,31 @@
+{
+  "coinName": "2023年吉祥文化金银币",
+  "slug": "7c34b4b3",
+  "saleCount": 1,
+  "keywords": "金,银,币,2023年,吉祥文化,年吉,吉祥,祥文,文化,化前,前程,程似,似锦,锦金,金银,银币",
+  "priceStats": {
+    "low": 4500,
+    "high": 4500,
+    "avg": 4500,
+    "latest": 4500
+  },
+  "records": [
+    {
+      "coinName": "2023年吉祥文化前程似锦金银币",
+      "normalizedBoxCode": "6721976001",
+      "displayBoxCode": "6721976-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/371372.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6721976-001/70/",
+      "price": 4500,
+      "priceWithFee": null,
+      "transactedAt": "2023-06-25 09:28:01",
+      "productCode": "AA408680.81",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,2023年,吉祥文化,年吉,吉祥,祥文,文化,化前,前程,程似,似锦,锦金,金银,银币"
+    }
+  ]
+}

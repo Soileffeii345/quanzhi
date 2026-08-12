@@ -1,0 +1,31 @@
+{
+  "coinName": "2020年吉祥文化8克金币",
+  "slug": "5a440de3",
+  "saleCount": 1,
+  "keywords": "金,银,币,2020年,8克,吉祥文化,年克,克吉,吉祥,祥文,文化,化金,金玉,玉满,满堂,堂双,双金,金属,属金,金银,银币",
+  "priceStats": {
+    "low": 8000,
+    "high": 8000,
+    "avg": 8000,
+    "latest": 8000
+  },
+  "records": [
+    {
+      "coinName": "2020年8克吉祥文化金玉满堂双金属金银币",
+      "normalizedBoxCode": "6651330003",
+      "displayBoxCode": "6651330-003",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/377140.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6651330-003/",
+      "price": 8000,
+      "priceWithFee": null,
+      "transactedAt": "2023-07-18 18:03:21",
+      "productCode": "AA415507",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,2020年,8克,吉祥文化,年克,克吉,吉祥,祥文,文化,化金,金玉,玉满,满堂,堂双,双金,金属,属金,金银,银币"
+    }
+  ]
+}

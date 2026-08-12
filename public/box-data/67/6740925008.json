@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6740925008",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6740925008",
+      "displayBoxCode": "6740925-008",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "coinName": "1993年1/20盎司熊猫金币(小字版)",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/369052.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6740925-008/69/",
+      "price": 1250,
+      "priceWithFee": null,
+      "transactedAt": "2023-06-15 15:27:25",
+      "productCode": "AA406125",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20230608/large_sell_9cgx6enarkfvyaag.jpg",
+      "ocrConfidence": 39,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1993年,20盎司,熊猫,年盎,盎司,司熊,猫金,金币,币小,小字,字版"
+    }
+  ]
+}

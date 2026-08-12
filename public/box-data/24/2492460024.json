@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2492460024",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2492460024",
+      "displayBoxCode": "2492460-024",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1946年中央银行贰角三连体票样",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10410550.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2492460-024/",
+      "price": 700,
+      "priceWithFee": 777,
+      "transactedAt": "2026-08-11 20:56:20",
+      "productCode": "876304001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/876304001B.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,钞,1946年,年中,中央,央银,银行,行贰,贰角,角三,三连,连体,体票,票样"
+    }
+  ]
+}

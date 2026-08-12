@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2070085020",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2070085020",
+      "displayBoxCode": "2070085-020",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2017年熊猫金币发行35周年金银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/357598.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2070085-020/70/",
+      "price": 3800,
+      "priceWithFee": null,
+      "transactedAt": "2023-05-31 17:01:20",
+      "productCode": "AA392835.36",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20230423/large_sell_gbohvsycquzeawox.jpg",
+      "ocrConfidence": 29,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,2017年,熊猫,年熊,猫金,金币,币发,发行,行周,周年,年金,金银,银币"
+    }
+  ]
+}

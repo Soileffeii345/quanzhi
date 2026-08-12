@@ -1,12 +1,12 @@
 {
   "coinName": "2017年熊猫金币",
   "slug": "2865ec2a",
-  "saleCount": 1,
-  "keywords": "金,铜,币,章,2017年,熊猫,年上,上币,币熊,猫金,金币,币周,周年,年双,双金,金属,属铜,铜章",
+  "saleCount": 2,
+  "keywords": "金,铜,币,章,2017年,熊猫,年上,上币,币熊,猫金,金币,币周,周年,年双,双金,金属,属铜,铜章,银,年熊,币发,发行,行周,年金,金银,银币",
   "priceStats": {
     "low": 1100,
-    "high": 1100,
-    "avg": 1100,
+    "high": 3800,
+    "avg": 2450,
     "latest": 1100
   },
   "records": [
@@ -26,6 +26,23 @@
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "金,铜,币,章,2017年,熊猫,年上,上币,币熊,猫金,金币,币周,周年,年双,双金,金属,属铜,铜章"
+    },
+    {
+      "coinName": "2017年熊猫金币发行35周年金银币",
+      "normalizedBoxCode": "2070085020",
+      "displayBoxCode": "2070085-020",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/357598.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2070085-020/70/",
+      "price": 3800,
+      "priceWithFee": null,
+      "transactedAt": "2023-05-31 17:01:20",
+      "productCode": "AA392835.36",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,2017年,熊猫,年熊,猫金,金币,币发,发行,行周,周年,年金,金银,银币"
     }
   ]
 }

@@ -1,12 +1,12 @@
 {
   "coinName": "1993年3.11克金币",
   "slug": "7bda2851",
-  "saleCount": 1,
-  "keywords": "金,币,1993年,10盎司,年盎,盎司,司孔,孔雀,雀开,开屏,屏金,金币",
+  "saleCount": 2,
+  "keywords": "金,币,1993年,10盎司,年盎,盎司,司孔,孔雀,雀开,开屏,屏金,金币,司太,太极,极图,图金",
   "priceStats": {
     "low": 2250,
-    "high": 2250,
-    "avg": 2250,
+    "high": 9400,
+    "avg": 5825,
     "latest": 2250
   },
   "records": [
@@ -26,6 +26,23 @@
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "金,币,1993年,10盎司,年盎,盎司,司孔,孔雀,雀开,开屏,屏金,金币"
+    },
+    {
+      "coinName": "1993年1/10盎司太极图金币",
+      "normalizedBoxCode": "6485271037",
+      "displayBoxCode": "6485271-037",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/336478.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6485271-037/",
+      "price": 9400,
+      "priceWithFee": null,
+      "transactedAt": "2023-05-29 00:27:56",
+      "productCode": "KH044495",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1993年,10盎司,年盎,盎司,司太,太极,极图,图金,金币"
     }
   ]
 }

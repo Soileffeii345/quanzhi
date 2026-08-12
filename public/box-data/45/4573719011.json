@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4573719011",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4573719011",
+      "displayBoxCode": "4573719-011",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1987年1/20盎司熊猫金币(Y版)",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/370946.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4573719-011/",
+      "price": 1300,
+      "priceWithFee": null,
+      "transactedAt": "2023-07-01 14:09:16",
+      "productCode": "AA408273",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20230617/large_sell_8em2woqg8sqjdd4u.jpg",
+      "ocrConfidence": 38,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1987年,20盎司,熊猫,年盎,盎司,司熊,猫金,金币,币版"
+    }
+  ]
+}

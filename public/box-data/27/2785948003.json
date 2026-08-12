@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2785948003",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2785948003",
+      "displayBoxCode": "2785948-003",
+      "gradingCompany": "NGC",
+      "grade": "PF 68 ULTRA CAMEO",
+      "coinName": "1989年建国40周年金银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/309833.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2785948-003/68/",
+      "price": 17800,
+      "priceWithFee": null,
+      "transactedAt": "2023-10-29 09:45:28",
+      "productCode": "KH048063",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20221010/large_sell_vsrzu1pkms5agu0e.jpg",
+      "ocrConfidence": 38,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,1989年,重大事件,年建,建国,国周,周年,年金,金银,银币"
+    }
+  ]
+}

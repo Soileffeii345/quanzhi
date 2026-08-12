@@ -1,15 +1,32 @@
 {
   "coinName": "2006年精制",
   "slug": "7e447feb",
-  "saleCount": 19,
+  "saleCount": 20,
   "keywords": "币,2006年,年世,世界,界文,文化,化遗,遗产,产颐,颐和,和园,园精,精制,制流,流通,通纪,纪念,念币,评级,产龙,龙门,门石,石窟,窟精,窟颐,币各,各一,一枚",
   "priceStats": {
     "low": 85,
     "high": 380,
-    "avg": 201,
-    "latest": 100
+    "avg": 196,
+    "latest": 110
   },
   "records": [
+    {
+      "coinName": "2006年世界文化遗产-颐和园精制流通纪念币",
+      "normalizedBoxCode": "8659677050",
+      "displayBoxCode": "8659677-050",
+      "gradingCompany": "NGC",
+      "grade": "PF 67 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10447745.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8659677-050/67/",
+      "price": 110,
+      "priceWithFee": 118.8,
+      "transactedAt": "2026-08-12 19:43:25",
+      "productCode": "881189008",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2006年,年世,世界,界文,文化,化遗,遗产,产颐,颐和,和园,园精,精制,制流,流通,通纪,纪念,念币,评级"
+    },
     {
       "coinName": "2006年世界文化遗产-颐和园精制流通纪念币",
       "normalizedBoxCode": "8817277003",

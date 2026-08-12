@@ -1,12 +1,12 @@
 {
   "coinName": "2013年黄山金银币",
   "slug": "2733d7bc",
-  "saleCount": 5,
+  "saleCount": 6,
   "keywords": "金,银,币,2013年,名山,年黄,黄山,山金,金银,银币",
   "priceStats": {
-    "low": 6700,
+    "low": 5900,
     "high": 6700,
-    "avg": 6700,
+    "avg": 6567,
     "latest": 6700
   },
   "records": [
@@ -91,6 +91,23 @@
       "priceWithFee": null,
       "transactedAt": "2024-04-09 17:50:12",
       "productCode": "KH052850",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,2013年,名山,年黄,黄山,山金,金银,银币"
+    },
+    {
+      "coinName": "2013年黄山金银币",
+      "normalizedBoxCode": "4315294022",
+      "displayBoxCode": "4315294-022",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/319671.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4315294-022/69/",
+      "price": 5900,
+      "priceWithFee": null,
+      "transactedAt": "2023-03-13 15:35:53",
+      "productCode": "KH041605",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "金,银,币,2013年,名山,年黄,黄山,山金,金银,银币"

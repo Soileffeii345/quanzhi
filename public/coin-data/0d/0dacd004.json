@@ -1,12 +1,12 @@
 {
   "coinName": "1991年熊猫20盎司金币",
   "slug": "0dacd004",
-  "saleCount": 1,
-  "keywords": "金,币,1991年,20盎司,熊猫,年盎,盎司,司熊,猫金,金币,币小,小字,字版",
+  "saleCount": 2,
+  "keywords": "金,币,1991年,20盎司,熊猫,年盎,盎司,司熊,猫金,金币,币小,小字,字版,币大,大字",
   "priceStats": {
-    "low": 1600,
+    "low": 750,
     "high": 1600,
-    "avg": 1600,
+    "avg": 1175,
     "latest": 1600
   },
   "records": [
@@ -26,6 +26,23 @@
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "金,币,1991年,20盎司,熊猫,年盎,盎司,司熊,猫金,金币,币小,小字,字版"
+    },
+    {
+      "coinName": "1991年1/20盎司熊猫金币(大字版)",
+      "normalizedBoxCode": "6740925004",
+      "displayBoxCode": "6740925-004",
+      "gradingCompany": "NGC",
+      "grade": "MS69",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/369046.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6740925-004/69/",
+      "price": 750,
+      "priceWithFee": null,
+      "transactedAt": "2023-07-12 20:59:35",
+      "productCode": "AA406123",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1991年,20盎司,熊猫,年盎,盎司,司熊,猫金,金币,币大,大字,字版"
     }
   ]
 }

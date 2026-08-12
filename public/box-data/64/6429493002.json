@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6429493002",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6429493002",
+      "displayBoxCode": "6429493-002",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1993年1盎司生肖鸡银币(精)",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/334746.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6429493-002/69/",
+      "price": 2100,
+      "priceWithFee": null,
+      "transactedAt": "2023-03-02 08:20:46",
+      "productCode": "KH041162",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20230119/large_sell_x3gb9kmkydlwhhpa.jpg",
+      "ocrConfidence": 41,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1993年,1盎司,生肖,年盎,盎司,司生,肖鸡,鸡银,银币,币精"
+    }
+  ]
+}

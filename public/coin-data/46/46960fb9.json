@@ -1,12 +1,12 @@
 {
   "coinName": "2004年金银币",
   "slug": "46960fb9",
-  "saleCount": 5,
+  "saleCount": 6,
   "keywords": "金,银,币,2004年,年人,人民,民代,代表,表大,大会,会成,成立,立周,周年,年幻,幻彩,彩金,金银,银币,年元,元宵,宵节,节彩",
   "priceStats": {
-    "low": 14200,
+    "low": 11800,
     "high": 24000,
-    "avg": 19080,
+    "avg": 17867,
     "latest": 19000
   },
   "records": [
@@ -91,6 +91,23 @@
       "priceWithFee": null,
       "transactedAt": "2025-11-08 12:11:53",
       "productCode": "KH090354",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,2004年,年人,人民,民代,代表,表大,大会,会成,成立,立周,周年,年幻,幻彩,彩金,金银,银币"
+    },
+    {
+      "coinName": "2004年人民代表大会成立50周年幻彩金银币",
+      "normalizedBoxCode": "4790817003",
+      "displayBoxCode": "4790817-003",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/393359.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4790817-003/70/",
+      "price": 11800,
+      "priceWithFee": null,
+      "transactedAt": "2023-12-23 12:17:47",
+      "productCode": "KH049270",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "金,银,币,2004年,年人,人民,民代,代表,表大,大会,会成,成立,立周,周年,年幻,幻彩,彩金,金银,银币"

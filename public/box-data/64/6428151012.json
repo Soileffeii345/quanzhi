@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6428151012",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6428151012",
+      "displayBoxCode": "6428151-012",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "民国开国纪念孙中山像壹圆银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/324245.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6428151-012/",
+      "price": 960,
+      "priceWithFee": null,
+      "transactedAt": "2023-05-18 21:39:34",
+      "productCode": "KH043118",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20221128/large_sell_lyt1qpp425roulny.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,历史币,孙小头,孙中山,小头,民国,国开,开国,国纪,纪念,念孙,孙中,中山,山像,像壹,壹圆,圆银,银币"
+    }
+  ]
+}

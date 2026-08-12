@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "0325001007",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "0325001007",
+      "displayBoxCode": "0325001-007",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "民国三年肃宁县西关同昇布店壹圆",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/difangsipiao/10409700.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/0325001-007/",
+      "price": 340,
+      "priceWithFee": 377.4,
+      "transactedAt": "2026-08-11 21:15:50",
+      "productCode": "876058011",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/876058011A.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "历史币,民国,国三,三年,年肃,肃宁,宁县,县西,西关,关同,同昇,昇布,布店,店壹,壹圆"
+    }
+  ]
+}

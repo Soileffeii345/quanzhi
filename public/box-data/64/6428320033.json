@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6428320033",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6428320033",
+      "displayBoxCode": "6428320-033",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1980年中国奥委会古代摔跤铜币(UC)",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/345406.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6428320-033/",
+      "price": 1000,
+      "priceWithFee": null,
+      "transactedAt": "2023-03-09 13:27:40",
+      "productCode": "KH041798",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20230309/large_sell_pdjo2vpfgise0lmu.jpg",
+      "ocrConfidence": 41,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "铜,币,1980年,年中,中国,国奥,奥委,委会,会古,古代,代摔,摔跤,跤铜,铜币"
+    }
+  ]
+}

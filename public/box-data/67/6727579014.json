@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6727579014",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6727579014",
+      "displayBoxCode": "6727579-014",
+      "gradingCompany": "NGC",
+      "grade": "MS 64",
+      "coinName": "1985年新疆自治区成立30周年纪念币+1986年国际和平年纪念币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/385323.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6727579-014/64/",
+      "price": 300,
+      "priceWithFee": null,
+      "transactedAt": "2023-09-09 07:29:22",
+      "productCode": "KH047562",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20230904/large_sell_wykzhydxfwnqrbit.jpg",
+      "ocrConfidence": 49,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1985年,新疆版,年新,新疆,疆自,自治,治区,区成,成立,立周,周年,年纪,纪念,念币,币年,年国,国际,际和,和平,平年"
+    }
+  ]
+}

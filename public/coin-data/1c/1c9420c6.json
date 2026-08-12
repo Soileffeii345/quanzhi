@@ -1,15 +1,32 @@
 {
   "coinName": "2011年生肖精制",
   "slug": "1c9420c6",
-  "saleCount": 7,
+  "saleCount": 8,
   "keywords": "币,2011年,生肖,吉祥文化,年辛,辛卯,卯兔,兔年,年生,肖贺,贺岁,岁精,精制,制流,流通,通纪,纪念,念币,评级,币三,三枚,币二,二枚,肖精",
   "priceStats": {
     "low": 140,
     "high": 920,
-    "avg": 450,
-    "latest": 160
+    "avg": 413,
+    "latest": 150
   },
   "records": [
+    {
+      "coinName": "2011年辛卯兔年生肖贺岁精制流通纪念币",
+      "normalizedBoxCode": "8206024056",
+      "displayBoxCode": "8206024-056",
+      "gradingCompany": "NGC",
+      "grade": "PF67 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10447685.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8206024-056/67/",
+      "price": 150,
+      "priceWithFee": 162,
+      "transactedAt": "2026-08-12 19:39:25",
+      "productCode": "881160001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2011年,生肖,吉祥文化,年辛,辛卯,卯兔,兔年,年生,肖贺,贺岁,岁精,精制,制流,流通,通纪,纪念,念币,评级"
+    },
     {
       "coinName": "2011年辛卯兔年生肖贺岁精制流通纪念币",
       "normalizedBoxCode": "8206024056",

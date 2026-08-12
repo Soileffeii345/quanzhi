@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6047233003",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6047233003",
+      "displayBoxCode": "6047233-003",
+      "gradingCompany": "NGC",
+      "grade": "PF70 ULTRA CAMEO",
+      "coinName": "1998年1盎司白求恩银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/361242.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6047233-003/70/",
+      "price": 1450,
+      "priceWithFee": null,
+      "transactedAt": "2023-05-09 13:57:32",
+      "productCode": "KH044128",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20230508/large_sell_yeqk6cttvnufhohn.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1998年,1盎司,年盎,盎司,司白,白求,求恩,恩银,银币"
+    }
+  ]
+}

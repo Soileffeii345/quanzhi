@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6197740020",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6197740020",
+      "displayBoxCode": "6197740-020",
+      "gradingCompany": "NGC",
+      "grade": "PF70 ULTRA CAMEO",
+      "coinName": "1986年22克历史人物第3组蔡伦银币(UC)",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/354300.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6197740-020/70/",
+      "price": 1800,
+      "priceWithFee": null,
+      "transactedAt": "2023-04-17 20:20:02",
+      "productCode": "KH043523",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20230410/large_sell_wfu6eijt1uhqhpy0.jpg",
+      "ocrConfidence": 48,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1986年,22克,年克,克历,历史,史人,人物,物第,第组,组蔡,蔡伦,伦银,银币"
+    }
+  ]
+}

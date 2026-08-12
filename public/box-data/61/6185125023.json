@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6185125023",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6185125023",
+      "displayBoxCode": "6185125-023",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2004年1/2盎司西游记第2组彩金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/331166.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6185125-023/",
+      "price": 10200,
+      "priceWithFee": null,
+      "transactedAt": "2023-03-02 10:02:10",
+      "productCode": "KH041178",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20230102/large_sell_fjwm7sv6qivqriy2.jpg",
+      "ocrConfidence": 42,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2004年,2盎司,年盎,盎司,司西,西游,游记,记第,第组,组彩,彩金,金币"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "coinName": "1919年德国纸币",
+  "slug": "035c3286",
+  "saleCount": 1,
+  "keywords": "币,1919年,年德,德国,国纸,纸币,外国/特区",
+  "priceStats": {
+    "low": 170,
+    "high": 170,
+    "avg": 170,
+    "latest": 170
+  },
+  "records": [
+    {
+      "coinName": "1919年德国纸币",
+      "normalizedBoxCode": "2580904086",
+      "displayBoxCode": "2580904-086",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10443628.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2580904-086/",
+      "price": 170,
+      "priceWithFee": 188.7,
+      "transactedAt": "2026-08-11 22:04:35",
+      "productCode": "880283001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1919年,年德,德国,国纸,纸币,外国/特区"
+    }
+  ]
+}

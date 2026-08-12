@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2588754003",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2588754003",
+      "displayBoxCode": "2588754-003",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2013年5欧元纸币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10443643.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2588754-003/",
+      "price": 130,
+      "priceWithFee": 144.3,
+      "transactedAt": "2026-08-11 21:53:50",
+      "productCode": "880283016",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/31/880283016B.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2013年,年欧,欧元,元纸,纸币"
+    }
+  ]
+}

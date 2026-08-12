@@ -1,15 +1,32 @@
 {
   "coinName": "1918年银币",
   "slug": "49d60d43",
-  "saleCount": 2,
-  "keywords": "银,钞,1918年,年华,华俄,俄道,道胜,胜银,银行,行纸,纸钞,年中,中国,国银,行上,上海,海地,地名,名伍,伍圆,圆反,反面,面未,未完,完成,成票",
+  "saleCount": 3,
+  "keywords": "银,1918年,年中,中国,国银,银行,行哈,哈尔,尔滨,滨地,地名,名改,改上,上海,海地,名壹,壹角,钞,年华,华俄,俄道,道胜,胜银,行纸,纸钞,行上,名伍,伍圆,圆反,反面,面未,未完,完成,成票",
   "priceStats": {
     "low": 200,
     "high": 6300,
-    "avg": 3250,
-    "latest": 200
+    "avg": 2290,
+    "latest": 370
   },
   "records": [
+    {
+      "coinName": "1918年中国银行哈尔滨地名改上海地名壹角",
+      "normalizedBoxCode": "2133885016",
+      "displayBoxCode": "2133885-016",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10419540.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2133885-016/",
+      "price": 370,
+      "priceWithFee": 410.7,
+      "transactedAt": "2026-08-11 20:59:20",
+      "productCode": "877521002",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,1918年,年中,中国,国银,银行,行哈,哈尔,尔滨,滨地,地名,名改,改上,上海,海地,名壹,壹角"
+    },
     {
       "coinName": "1918年华俄道胜银行纸钞",
       "normalizedBoxCode": "2344985095",

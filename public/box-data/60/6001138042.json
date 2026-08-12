@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6001138042",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6001138042",
+      "displayBoxCode": "6001138-042",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2002年1/10盎司熊猫金币发行20周年铂币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/351264.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6001138-042/",
+      "price": 2000,
+      "priceWithFee": null,
+      "transactedAt": "2023-04-06 17:49:57",
+      "productCode": "KH043375",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20230329/large_sell_0d3avd0k64fqsgof.jpg",
+      "ocrConfidence": 47,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,贵金属,币,2002年,10盎司,熊猫,年盎,盎司,司熊,猫金,金币,币发,发行,行周,周年,年铂,铂币"
+    }
+  ]
+}

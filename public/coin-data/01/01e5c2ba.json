@@ -1,12 +1,12 @@
 {
   "coinName": "1995年31.104克银币",
   "slug": "01e5c2ba",
-  "saleCount": 10,
+  "saleCount": 11,
   "keywords": "银,币,1995年,1盎司,年盎,盎司,司世,世界,界妇,妇女,女大,大会,会银,银币,宗教,司观,观音,音银,司台,台湾,湾光,光复,复周,周年,年银,年中,中山,山堂,堂银,币宽,宽距,距版,章,司文,文殊,殊菩,菩萨,萨银,银章",
   "priceStats": {
     "low": 2100,
     "high": 8200,
-    "avg": 5535,
+    "avg": 5450,
     "latest": 2200
   },
   "records": [
@@ -179,6 +179,23 @@
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "银,币,1995年,1盎司,年盎,盎司,司台,台湾,湾光,光复,复周,周年,年银,银币"
+    },
+    {
+      "coinName": "1995年1盎司观音银币",
+      "normalizedBoxCode": "6050375044",
+      "displayBoxCode": "6050375-044",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/360109.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6050375-044/",
+      "price": 4600,
+      "priceWithFee": null,
+      "transactedAt": "2023-05-05 11:00:11",
+      "productCode": "KH044027",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1995年,1盎司,宗教,年盎,盎司,司观,观音,音银,银币"
     }
   ]
 }

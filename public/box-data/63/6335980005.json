@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6335980005",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6335980005",
+      "displayBoxCode": "6335980-005",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2005年1盎司生肖鸡银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/331184.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6335980-005/",
+      "price": 460,
+      "priceWithFee": null,
+      "transactedAt": "2023-05-30 12:28:39",
+      "productCode": "KH044766",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20230102/large_sell_ku0cn5ekwaopkwr9.jpg",
+      "ocrConfidence": 37,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2005年,1盎司,生肖,年盎,盎司,司生,肖鸡,鸡银,银币"
+    }
+  ]
+}

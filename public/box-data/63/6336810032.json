@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6336810032",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6336810032",
+      "displayBoxCode": "6336810-032",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "1995年27克联合国成立50周年银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/357569.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6336810-032/70/",
+      "price": 7500,
+      "priceWithFee": null,
+      "transactedAt": "2023-04-23 10:13:14",
+      "productCode": "AA377081A",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20230228/large_sell_drliod5tovdbxsxj.jpg",
+      "ocrConfidence": 42,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1995年,27克,年克,克联,联合,合国,国成,成立,立周,周年,年银,银币"
+    }
+  ]
+}

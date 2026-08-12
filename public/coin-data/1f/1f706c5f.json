@@ -1,0 +1,31 @@
+{
+  "coinName": "2000年31.104克金币",
+  "slug": "1f706c5f",
+  "saleCount": 1,
+  "keywords": "金,银,币,钞,2000年,1盎司,年盎,盎司,司广,广州,州邮,邮票,票钱,钱币,币博,博览,览会,会镀,镀金,金银,银币",
+  "priceStats": {
+    "low": 1050,
+    "high": 1050,
+    "avg": 1050,
+    "latest": 1050
+  },
+  "records": [
+    {
+      "coinName": "2000年1盎司广州邮票钱币博览会&quot;镀金&quot;银币",
+      "normalizedBoxCode": "6334599033",
+      "displayBoxCode": "6334599-033",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/358925.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6334599-033/69/",
+      "price": 1050,
+      "priceWithFee": null,
+      "transactedAt": "2023-05-02 19:29:15",
+      "productCode": "KH043925",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,钞,2000年,1盎司,年盎,盎司,司广,广州,州邮,邮票,票钱,钱币,币博,博览,览会,会镀,镀金,金银,银币"
+    }
+  ]
+}

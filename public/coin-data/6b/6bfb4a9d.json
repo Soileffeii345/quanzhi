@@ -1,12 +1,12 @@
 {
   "coinName": "2002年3.11克金币",
   "slug": "6bfb4a9d",
-  "saleCount": 4,
+  "saleCount": 5,
   "keywords": "金,币,2002年,10盎司,宗教,年盎,盎司,司观,观音,音幻,幻彩,彩金,金币",
   "priceStats": {
-    "low": 2320,
+    "low": 1850,
     "high": 4300,
-    "avg": 3165,
+    "avg": 2902,
     "latest": 4300
   },
   "records": [
@@ -74,6 +74,23 @@
       "priceWithFee": null,
       "transactedAt": "2025-03-31 16:10:50",
       "productCode": "AA557160",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2002年,10盎司,宗教,年盎,盎司,司观,观音,音幻,幻彩,彩金,金币"
+    },
+    {
+      "coinName": "2002年1/10盎司观音幻彩金币",
+      "normalizedBoxCode": "6050423030",
+      "displayBoxCode": "6050423-030",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/334756.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6050423-030/69/",
+      "price": 1850,
+      "priceWithFee": null,
+      "transactedAt": "2023-10-11 10:32:51",
+      "productCode": "KH048684",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "金,币,2002年,10盎司,宗教,年盎,盎司,司观,观音,音幻,幻彩,彩金,金币"

@@ -1,0 +1,31 @@
+{
+  "coinName": "1981年生肖15克银币",
+  "slug": "78457529",
+  "saleCount": 1,
+  "keywords": "银,币,1981年,15克,生肖,年克,克生,肖鸡,鸡银,银币",
+  "priceStats": {
+    "low": 6800,
+    "high": 6800,
+    "avg": 6800,
+    "latest": 6800
+  },
+  "records": [
+    {
+      "coinName": "1981年15克生肖鸡银币(UC)",
+      "normalizedBoxCode": "6433926051",
+      "displayBoxCode": "6433926-051",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/359859.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6433926-051/69/",
+      "price": 6800,
+      "priceWithFee": null,
+      "transactedAt": "2023-05-11 09:44:37",
+      "productCode": "KH044161",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1981年,15克,生肖,年克,克生,肖鸡,鸡银,银币"
+    }
+  ]
+}

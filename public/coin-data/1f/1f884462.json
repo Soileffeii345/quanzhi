@@ -1,12 +1,12 @@
 {
   "coinName": "2003年3.11克金币",
   "slug": "1f884462",
-  "saleCount": 9,
+  "saleCount": 10,
   "keywords": "金,币,2003年,10盎司,宗教,年盎,盎司,司观,观音,音幻,幻彩,彩金,金币",
   "priceStats": {
-    "low": 2700,
+    "low": 1800,
     "high": 4490,
-    "avg": 3770,
+    "avg": 3573,
     "latest": 4200
   },
   "records": [
@@ -159,6 +159,23 @@
       "priceWithFee": null,
       "transactedAt": "2025-03-19 14:54:42",
       "productCode": "KH061586.61587",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2003年,10盎司,宗教,年盎,盎司,司观,观音,音幻,幻彩,彩金,金币"
+    },
+    {
+      "coinName": "2003年1/10盎司观音幻彩金币",
+      "normalizedBoxCode": "6204180030",
+      "displayBoxCode": "6204180-030",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/299007.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6204180-030/",
+      "price": 1800,
+      "priceWithFee": null,
+      "transactedAt": "2023-10-10 15:43:59",
+      "productCode": "KH048728",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "金,币,2003年,10盎司,宗教,年盎,盎司,司观,观音,音幻,幻彩,彩金,金币"

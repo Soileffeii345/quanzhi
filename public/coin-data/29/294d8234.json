@@ -1,12 +1,12 @@
 {
   "coinName": "2018年吉祥文化30克银币",
   "slug": "294d8234",
-  "saleCount": 7,
+  "saleCount": 8,
   "keywords": "银,币,2018年,30克,吉祥文化,年克,克吉,吉祥,祥文,文化,化喜,喜上,上眉,眉梢,梢银,银币,化榴,榴开,开百,百子,子银,化珠,珠联,联璧,璧合,合银,化寿,寿居,居耄,耄耋,耋银",
   "priceStats": {
     "low": 520,
     "high": 2100,
-    "avg": 1271,
+    "avg": 1188,
     "latest": 2100
   },
   "records": [
@@ -128,6 +128,23 @@
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "银,币,2018年,30克,吉祥文化,年克,克吉,吉祥,祥文,文化,化喜,喜上,上眉,眉梢,梢银,银币"
+    },
+    {
+      "coinName": "2018年30克吉祥文化榴开百子银币",
+      "normalizedBoxCode": "6196512002",
+      "displayBoxCode": "6196512-002",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/308023.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6196512-002/70/",
+      "price": 600,
+      "priceWithFee": null,
+      "transactedAt": "2023-03-05 13:27:08",
+      "productCode": "KH041135",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2018年,30克,吉祥文化,年克,克吉,吉祥,祥文,文化,化榴,榴开,开百,百子,子银,银币"
     }
   ]
 }

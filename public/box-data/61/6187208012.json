@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6187208012",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6187208012",
+      "displayBoxCode": "6187208-012",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2004年1/10盎司观音幻彩金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/375350.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6187208-012/",
+      "price": 2250,
+      "priceWithFee": null,
+      "transactedAt": "2023-07-20 17:21:20",
+      "productCode": "KH046902",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20230709/large_sell_4rzk7anju2pstbba.jpg",
+      "ocrConfidence": 54,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2004年,10盎司,宗教,年盎,盎司,司观,观音,音幻,幻彩,彩金,金币"
+    }
+  ]
+}

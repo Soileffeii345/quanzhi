@@ -1,15 +1,49 @@
 {
   "coinName": "第四套/第四版人民币1990年版1元",
   "slug": "7a9fa550",
-  "saleCount": 58,
+  "saleCount": 60,
   "keywords": "币,1990年,第四,四套,套第,四版,版人,人民,民币,币年,年版,版元",
   "priceStats": {
-    "low": 40,
+    "low": 20,
     "high": 1540,
-    "avg": 187,
-    "latest": 40
+    "avg": 182,
+    "latest": 30
   },
   "records": [
+    {
+      "coinName": "第四套/第四版人民币1990年版1元",
+      "normalizedBoxCode": "7011233386",
+      "displayBoxCode": "7011233-386",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/disibanrenminbi/10447817.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/7011233-386/",
+      "price": 30,
+      "priceWithFee": 32.4,
+      "transactedAt": "2026-08-11 20:02:50",
+      "productCode": "881202001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1990年,第四,四套,套第,四版,版人,人民,民币,币年,年版,版元"
+    },
+    {
+      "coinName": "第四套/第四版人民币1990年版1元",
+      "normalizedBoxCode": "7292264609",
+      "displayBoxCode": "7292264-609",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/disibanrenminbi/10447818.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/7292264-609/",
+      "price": 20,
+      "priceWithFee": 21.6,
+      "transactedAt": "2026-08-11 19:24:35",
+      "productCode": "881203001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1990年,第四,四套,套第,四版,版人,人民,民币,币年,年版,版元"
+    },
     {
       "coinName": "第四套/第四版人民币1990年版1元",
       "normalizedBoxCode": "1016053984",

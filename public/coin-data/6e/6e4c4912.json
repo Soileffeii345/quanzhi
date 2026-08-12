@@ -1,12 +1,12 @@
 {
   "coinName": "1990年熊猫3.11克铂币",
   "slug": "6e4c4912",
-  "saleCount": 1,
+  "saleCount": 2,
   "keywords": "贵金属,币,1990年,10盎司,熊猫,年盎,盎司,司熊,猫铂,铂币",
   "priceStats": {
     "low": 2700,
-    "high": 2700,
-    "avg": 2700,
+    "high": 4200,
+    "avg": 3450,
     "latest": 2700
   },
   "records": [
@@ -23,6 +23,23 @@
       "priceWithFee": null,
       "transactedAt": "2026-07-23 12:42:37",
       "productCode": "AA666269",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "贵金属,币,1990年,10盎司,熊猫,年盎,盎司,司熊,猫铂,铂币"
+    },
+    {
+      "coinName": "1990年1/10盎司熊猫铂币",
+      "normalizedBoxCode": "4318019025",
+      "displayBoxCode": "4318019-025",
+      "gradingCompany": "NGC",
+      "grade": "PF 69",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/386996.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4318019-025/69/",
+      "price": 4200,
+      "priceWithFee": null,
+      "transactedAt": "2023-09-10 16:43:58",
+      "productCode": "KH047655",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "贵金属,币,1990年,10盎司,熊猫,年盎,盎司,司熊,猫铂,铂币"

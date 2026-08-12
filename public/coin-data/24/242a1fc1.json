@@ -1,0 +1,31 @@
+{
+  "coinName": "1991年5盎司银币",
+  "slug": "242a1fc1",
+  "saleCount": 1,
+  "keywords": "银,币,1991年,5盎司,年盎,盎司,司辛,辛亥,亥革,革命,命周,周年,年银,银币",
+  "priceStats": {
+    "low": 28400,
+    "high": 28400,
+    "avg": 28400,
+    "latest": 28400
+  },
+  "records": [
+    {
+      "coinName": "1991年5盎司辛亥革命80周年银币",
+      "normalizedBoxCode": "5816045005",
+      "displayBoxCode": "5816045-005",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/377917.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/5816045-005/69/",
+      "price": 28400,
+      "priceWithFee": null,
+      "transactedAt": "2023-07-25 21:10:53",
+      "productCode": "AA416536",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1991年,5盎司,年盎,盎司,司辛,辛亥,亥革,革命,命周,周年,年银,银币"
+    }
+  ]
+}

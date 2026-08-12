@@ -1,12 +1,12 @@
 {
   "coinName": "1989年熊猫3.11克金币",
   "slug": "12651617",
-  "saleCount": 3,
-  "keywords": "金,币,1989年,10盎司,熊猫,年盎,盎司,司熊,猫金,金币,币大,大字,字版",
+  "saleCount": 5,
+  "keywords": "金,币,1989年,10盎司,熊猫,年盎,盎司,司熊,猫金,金币,币大,大字,字版,币小,小字",
   "priceStats": {
-    "low": 3850,
+    "low": 1800,
     "high": 4150,
-    "avg": 4017,
+    "avg": 3140,
     "latest": 3850
   },
   "records": [
@@ -60,6 +60,40 @@
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "金,币,1989年,10盎司,熊猫,年盎,盎司,司熊,猫金,金币,币大,大字,字版"
+    },
+    {
+      "coinName": "1989年1/10盎司熊猫金币(小字版)",
+      "normalizedBoxCode": "6754846001",
+      "displayBoxCode": "6754846-001",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/384321.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6754846-001/",
+      "price": 1850,
+      "priceWithFee": null,
+      "transactedAt": "2023-10-23 15:31:55",
+      "productCode": "AA424229",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1989年,10盎司,熊猫,年盎,盎司,司熊,猫金,金币,币小,小字,字版"
+    },
+    {
+      "coinName": "1989年1/10盎司熊猫金币(小字版)",
+      "normalizedBoxCode": "6754846002",
+      "displayBoxCode": "6754846-002",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/384322.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6754846-002/",
+      "price": 1800,
+      "priceWithFee": null,
+      "transactedAt": "2023-10-16 13:53:25",
+      "productCode": "AA424230",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1989年,10盎司,熊猫,年盎,盎司,司熊,猫金,金币,币小,小字,字版"
     }
   ]
 }

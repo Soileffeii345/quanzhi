@@ -1,15 +1,32 @@
 {
   "coinName": "1981年长城币",
   "slug": "6b910146",
-  "saleCount": 12,
+  "saleCount": 13,
   "keywords": "币,1981年,年长,长城,城币,币壹,壹圆,币伍,伍角,角年,年世,世界,界文,文化,化遗,遗产,产颐,颐和,和园,园流,流通,通纪,纪念,念币,币各,各二,二枚,枚共,共四,四枚,角贰,贰角,角壹,壹角,角各,各一,一枚,共三,三枚,角伍,共二,币四,枚一,一套",
   "priceStats": {
     "low": 80,
     "high": 7700,
-    "avg": 1420,
-    "latest": 400
+    "avg": 1322,
+    "latest": 150
   },
   "records": [
+    {
+      "coinName": "1981年长城币壹圆",
+      "normalizedBoxCode": "6406375009",
+      "displayBoxCode": "6406375-009",
+      "gradingCompany": "NGC",
+      "grade": "MS 67",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10442405.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6406375-009/67/",
+      "price": 150,
+      "priceWithFee": 162,
+      "transactedAt": "2026-08-12 20:33:25",
+      "productCode": "880310001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1981年,年长,长城,城币,币壹,壹圆"
+    },
     {
       "coinName": "1981年长城币壹圆",
       "normalizedBoxCode": "6100068020",

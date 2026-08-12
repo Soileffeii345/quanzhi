@@ -1,15 +1,32 @@
 {
   "coinName": "1995年精制金币",
   "slug": "6afa0857",
-  "saleCount": 2,
-  "keywords": "金,银,币,1995年,年联,联合,合国,国第,第届,届世,世界,界妇,妇女,女大,大会,会金,金银,银盎,盎司,司精,精制,制双,双金,金属,属币,评级,第四,四届",
+  "saleCount": 3,
+  "keywords": "金,币,1995年,年中,中国,国珍,珍稀,稀野,野生,生动,动物,物金,金丝,丝猴,猴精,精制,制流,流通,通纪,纪念,念币,评级,银,年联,联合,合国,国第,第届,届世,世界,界妇,妇女,女大,大会,会金,金银,银盎,盎司,司精,制双,双金,金属,属币,第四,四届",
   "priceStats": {
-    "low": 25000,
+    "low": 830,
     "high": 26500,
-    "avg": 25750,
-    "latest": 26500
+    "avg": 17443,
+    "latest": 830
   },
   "records": [
+    {
+      "coinName": "1995年中国珍稀野生动物-金丝猴精制流通纪念币",
+      "normalizedBoxCode": "8752547002",
+      "displayBoxCode": "8752547-002",
+      "gradingCompany": "NGC",
+      "grade": "PF 68",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10448750.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8752547-002/68/",
+      "price": 830,
+      "priceWithFee": 896.4,
+      "transactedAt": "2026-08-12 20:54:05",
+      "productCode": "880999001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1995年,年中,中国,国珍,珍稀,稀野,野生,生动,动物,物金,金丝,丝猴,猴精,精制,制流,流通,通纪,纪念,念币,评级"
+    },
     {
       "coinName": "1995年联合国第4届世界妇女大会1/3金+1/6银盎司精制双金属币",
       "normalizedBoxCode": "8176120001",

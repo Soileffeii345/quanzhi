@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2762128022",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2762128022",
+      "displayBoxCode": "2762128-022",
+      "gradingCompany": "NGC",
+      "grade": "PF69",
+      "coinName": "1994年1盎司麒麟银币(P版)",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/316369.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2762128-022/69/",
+      "price": 2450,
+      "priceWithFee": null,
+      "transactedAt": "2023-12-31 21:58:05",
+      "productCode": "KH050957",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20231124/large_sell_scf6kckxabfwzhqc.jpg",
+      "ocrConfidence": 43,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1994年,1盎司,年盎,盎司,司麒,麒麟,麟银,银币,币版"
+    }
+  ]
+}

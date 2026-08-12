@@ -1,0 +1,31 @@
+{
+  "coinName": "2005年香港特别行政区政府港币10元",
+  "slug": "44a4b540",
+  "saleCount": 1,
+  "keywords": "币,2005年,年香,香港,港特,特别,别行,行政,政区,区政,政府,府港,港币,币元,外国/特区",
+  "priceStats": {
+    "low": 65,
+    "high": 65,
+    "avg": 65,
+    "latest": 65
+  },
+  "records": [
+    {
+      "coinName": "2005年香港特别行政区政府港币10元",
+      "normalizedBoxCode": "2588760002",
+      "displayBoxCode": "2588760-002",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/liantichao-jinianchao/10443651.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2588760-002/",
+      "price": 65,
+      "priceWithFee": 70.2,
+      "transactedAt": "2026-08-11 19:41:20",
+      "productCode": "880283024",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2005年,年香,香港,港特,特别,别行,行政,政区,区政,政府,府港,港币,币元,外国/特区"
+    }
+  ]
+}

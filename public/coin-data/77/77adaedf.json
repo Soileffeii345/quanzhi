@@ -1,12 +1,12 @@
 {
   "coinName": "2019年熊猫30克银币",
   "slug": "77adaedf",
-  "saleCount": 3,
+  "saleCount": 4,
   "keywords": "银,币,2019年,30克,熊猫,年克,克熊,猫银,银币",
   "priceStats": {
-    "low": 420,
+    "low": 390,
     "high": 580,
-    "avg": 493,
+    "avg": 468,
     "latest": 580
   },
   "records": [
@@ -57,6 +57,23 @@
       "priceWithFee": null,
       "transactedAt": "2024-10-30 11:47:29",
       "productCode": "KH053863",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2019年,30克,熊猫,年克,克熊,猫银,银币"
+    },
+    {
+      "coinName": "2019年30克熊猫银币",
+      "normalizedBoxCode": "4419655080",
+      "displayBoxCode": "4419655-080",
+      "gradingCompany": "NGC",
+      "grade": "MS 70",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/385669.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4419655-080/70/",
+      "price": 390,
+      "priceWithFee": null,
+      "transactedAt": "2023-09-15 11:57:10",
+      "productCode": "AA425763",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "银,币,2019年,30克,熊猫,年克,克熊,猫银,银币"

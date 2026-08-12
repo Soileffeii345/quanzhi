@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "3307482056",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "3307482056",
+      "displayBoxCode": "3307482-056",
+      "gradingCompany": "NGC",
+      "grade": "MS 64",
+      "coinName": "1980年长城1元(有砖)",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/388997.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3307482-056/64/",
+      "price": 550,
+      "priceWithFee": null,
+      "transactedAt": "2023-09-23 21:21:26",
+      "productCode": "AA429367",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20230919/large_sell_ims1geqgfumpajfz.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "1980年,年长,长城,城元,元有,有砖"
+    }
+  ]
+}

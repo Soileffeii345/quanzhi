@@ -1,12 +1,12 @@
 {
   "coinName": "2011年生肖31.104克银币",
   "slug": "49fa1cc5",
-  "saleCount": 3,
+  "saleCount": 4,
   "keywords": "银,币,2011年,1盎司,生肖,年盎,盎司,司生,肖兔,兔银,银币,兔彩,彩银",
   "priceStats": {
-    "low": 790,
+    "low": 520,
     "high": 850,
-    "avg": 810,
+    "avg": 738,
     "latest": 790
   },
   "records": [
@@ -57,6 +57,23 @@
       "priceWithFee": null,
       "transactedAt": "2026-04-15 21:17:42",
       "productCode": "KH130230",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2011年,1盎司,生肖,年盎,盎司,司生,肖兔,兔彩,彩银,银币"
+    },
+    {
+      "coinName": "2011年1盎司生肖兔彩银币",
+      "normalizedBoxCode": "6432936021",
+      "displayBoxCode": "6432936-021",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/311188.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6432936-021/70/",
+      "price": 520,
+      "priceWithFee": null,
+      "transactedAt": "2023-06-28 07:05:51",
+      "productCode": "KH046430",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "银,币,2011年,1盎司,生肖,年盎,盎司,司生,肖兔,兔彩,彩银,银币"

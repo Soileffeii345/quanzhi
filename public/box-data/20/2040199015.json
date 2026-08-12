@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2040199015",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2040199015",
+      "displayBoxCode": "2040199-015",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1995年1/2盎司古代科技第4组针灸金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/357268.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2040199-015/69/",
+      "price": 32000,
+      "priceWithFee": null,
+      "transactedAt": "2023-05-12 01:00:00",
+      "productCode": "AA392305",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20230421/large_sell_muryvkrukbteavtn.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1995年,2盎司,年盎,盎司,司古,古代,代科,科技,技第,第组,组针,针灸,灸金,金币"
+    }
+  ]
+}

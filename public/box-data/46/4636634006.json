@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4636634006",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4636634006",
+      "displayBoxCode": "4636634-006",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1999年1盎司扇形明清扇面画银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/336487.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4636634-006/69/",
+      "price": 5500,
+      "priceWithFee": null,
+      "transactedAt": "2023-04-10 07:06:24",
+      "productCode": "KH042891",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20230204/large_sell_mgequ3pitmpvvn5w.jpg",
+      "ocrConfidence": 46,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1999年,1盎司,年盎,盎司,司扇,扇形,形明,明清,清扇,扇面,面画,画银,银币"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6185280003",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6185280003",
+      "displayBoxCode": "6185280-003",
+      "gradingCompany": "NGC",
+      "grade": "Pr10",
+      "coinName": "2002年1盎司京剧艺术第4组彩银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/347552.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6185280-003/10/",
+      "price": 2100,
+      "priceWithFee": null,
+      "transactedAt": "2023-03-18 18:50:58",
+      "productCode": "KH042338",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20230316/large_sell_ijg3y9jewcdqg6xb.jpg",
+      "ocrConfidence": 41,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2002年,1盎司,戏曲,年盎,盎司,司京,京剧,剧艺,艺术,术第,第组,组彩,彩银,银币"
+    }
+  ]
+}

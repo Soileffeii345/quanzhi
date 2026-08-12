@@ -1,0 +1,31 @@
+{
+  "coinName": "1920年德国纸币",
+  "slug": "349f9c92",
+  "saleCount": 1,
+  "keywords": "币,1920年,年德,德国,国纸,纸币,外国/特区",
+  "priceStats": {
+    "low": 140,
+    "high": 140,
+    "avg": 140,
+    "latest": 140
+  },
+  "records": [
+    {
+      "coinName": "1920年德国纸币",
+      "normalizedBoxCode": "2435481003",
+      "displayBoxCode": "2435481-003",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10443629.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2435481-003/",
+      "price": 140,
+      "priceWithFee": 155.4,
+      "transactedAt": "2026-08-11 21:52:20",
+      "productCode": "880283002",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1920年,年德,德国,国纸,纸币,外国/特区"
+    }
+  ]
+}

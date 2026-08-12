@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4580850004",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4580850004",
+      "displayBoxCode": "4580850-004",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1993年1/3盎司历史人物第10组毛泽东金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/345198.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4580850-004/69/",
+      "price": 29000,
+      "priceWithFee": null,
+      "transactedAt": "2023-07-02 14:30:08",
+      "productCode": "KH046210",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20230307/large_sell_n459nqu0uqrfwll7.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1993年,3盎司,年盎,盎司,司历,历史,史人,人物,物第,第组,组毛,毛泽,泽东,东金,金币"
+    }
+  ]
+}
