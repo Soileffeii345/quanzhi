@@ -14,7 +14,7 @@
  *   node collector/daily-lightweight.mjs --dry-run    # 仅检查，不写入
  */
 
-import { execSync } from "node:child_process";
+import { execFileSync } from "node:child_process";
 import { resolve, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
 import { writeFile } from "node:fs/promises";
@@ -36,7 +36,7 @@ function log(msg) {
 }
 
 // ── 工具函数 ──────────────────────────────────────────
-function run(script, description, timeout = 600_000) {
+function run(script, description, timeout = 600_000, scriptArgs = []) {
   log(`▶ ${description}`);
   if (dryRun) {
     log(`  [dry-run] 跳过: node collector/${script}`);
@@ -49,7 +49,7 @@ function run(script, description, timeout = 600_000) {
   }
   try {
     const t0 = Date.now();
-    execSync(`node "${scriptPath}"`, {
+    execFileSync(process.execPath, [scriptPath, ...scriptArgs], {
       cwd: rootDir,
       stdio: "pipe",
       timeout,
@@ -108,14 +108,15 @@ async function main() {
 
   // Phase 2: 下载新图片 (~5 min)
   log("\n── Phase 2: 图片 ──");
-  results.push({ step: "易金图片", ok: run("backfill-yijin-images.mjs", "易金图片回填", 300_000) });
-  results.push({ step: "赵涌图片", ok: run("backfill-zhao-images.mjs", "赵涌图片回填", 300_000) });
+  results.push({ step: "易金新增详情", ok: run("backfill-yijin-images.mjs", "易金新增商品详情与证据图", 480_000, ["limit=10"]) });
+  results.push({ step: "易金失败重试", ok: run("backfill-yijin-images.mjs", "重试易金历史失败商品", 240_000, ["limit=4", "retryFailed=true", "skipExisting=false"]) });
+  results.push({ step: "赵涌成交元数据", ok: run("ingest-discovered-metadata.mjs", "写入赵涌新增成交元数据", 300_000, ["platform=zhao-sales", "limit=40", "concurrency=4"]) });
 
   // Phase 3: OCR + 验证 (~10 min, limit to 100 images max)
   log("\n── Phase 3: OCR ──");
   // ocr-pending-images.mjs accepts limit/concurrency params
-  results.push({ step: "OCR识别", ok: run("ocr-pending-images.mjs", "OCR 识别新图片 (limit=100)", 600_000) });
-  results.push({ step: "盒号验证", ok: run("verify-candidate-boxes.mjs", "二次验证候选盒号 (limit=200)", 300_000) });
+  results.push({ step: "OCR识别", ok: run("ocr-pending-images.mjs", "OCR 识别新图片 (limit=60)", 600_000, ["limit=60", "concurrency=4"]) });
+  results.push({ step: "盒号验证", ok: run("verify-candidate-boxes.mjs", "二次验证候选盒号 (limit=200)", 300_000, ["limit=200"]) });
 
   // Phase 4: 官方核验
   log("\n── Phase 4: 核验 ──");

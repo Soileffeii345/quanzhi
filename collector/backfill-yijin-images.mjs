@@ -1,7 +1,7 @@
 import { access, mkdir, readFile, writeFile } from "node:fs/promises";
 import { load } from "cheerio";
 import { createWorker } from "tesseract.js";
-import { databaseStats, saveIndexedProduct } from "./database.mjs";
+import { database, databaseStats, saveIndexedProduct } from "./database.mjs";
 
 const args = Object.fromEntries(process.argv.slice(2).map((item) => item.split("=")));
 const start = Number(args.start ?? 600958);
@@ -51,7 +51,7 @@ async function fetchDetail(id) {
 
 await mkdir(new URL("pages/", outputRoot), { recursive: true });
 await mkdir(new URL("boxes/", outputRoot), { recursive: true });
-let worker = await createWorker("eng");
+let worker = null;
 const summary = { platform: "易金在线", start, end, pages: 0, images: 0, boxes: 0, errors: [] };
 const discoveredIdsPath = new URL("./data/yijin-product-ids.json", import.meta.url);
 const failedIdsPath = new URL("./data/yijin-failed-ids.json", import.meta.url);
@@ -69,8 +69,12 @@ const failedIds = new Set(previousFailures.failures.map((item) => Number(item.id
 const candidateIds = ids.slice(offset);
 const selectedIds = [];
 for (const id of candidateIds) {
+  if (retryFailed && !failedIds.has(id)) continue;
   if (!retryFailed && failedIds.has(id)) continue;
   if (skipExisting) {
+    const inDatabase = database.prepare(`SELECT 1 FROM platform_products
+      WHERE platform_product_id = ? AND detail_url LIKE '%yjzx.com%' LIMIT 1`).get(String(id));
+    if (inDatabase) continue;
     try {
       await access(new URL(`pages/yijin-${id}.json`, outputRoot));
       continue;
@@ -83,11 +87,19 @@ for (const id of candidateIds) {
 }
 
 async function recognizeWithTimeout(imageUrl, timeoutMs = 20000) {
-  void timeoutMs;
-  return worker.recognize(imageUrl);
+  let timer;
+  try {
+    return await Promise.race([
+      worker.recognize(imageUrl),
+      new Promise((_, reject) => { timer = setTimeout(() => reject(new Error("OCR_TIMEOUT")), timeoutMs); }),
+    ]);
+  } finally {
+    clearTimeout(timer);
+  }
 }
 
 try {
+  if (selectedIds.length > 0) worker = await createWorker("eng");
   for (const id of selectedIds) {
     try {
       const page = await fetchDetail(id);
@@ -153,7 +165,7 @@ try {
     }
   }
 } finally {
-  await worker.terminate();
+  if (worker) await worker.terminate();
 }
 
 const result = { ...summary, database: databaseStats(), finishedAt: new Date().toISOString() };
