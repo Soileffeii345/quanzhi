@@ -1,15 +1,32 @@
 {
   "coinName": "2012年生肖31.104克精制银币",
   "slug": "1b135a50",
-  "saleCount": 19,
-  "keywords": "银,币,2012年,1盎司,生肖,年壬,壬辰,辰龙,龙年,年生,肖盎,盎司,司精,精制,制彩,彩银,银币,评级,制银,司梅,梅花,花形,形精",
+  "saleCount": 20,
+  "keywords": "银,币,2012年,1盎司,生肖,年壬,壬辰,辰龙,龙年,年生,肖盎,盎司,司精,精制,制银,银币,评级,制彩,彩银,司梅,梅花,花形,形精",
   "priceStats": {
     "low": 700,
     "high": 1560,
-    "avg": 956,
-    "latest": 820
+    "avg": 978,
+    "latest": 1400
   },
   "records": [
+    {
+      "coinName": "2012年壬辰龙年生肖1盎司精制银币",
+      "normalizedBoxCode": "8821109009",
+      "displayBoxCode": "8821109-009",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10423689.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8821109-009/70/",
+      "price": 1400,
+      "priceWithFee": 1449,
+      "transactedAt": "2026-08-03 19:30:10",
+      "productCode": "877786007",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2012年,1盎司,生肖,年壬,壬辰,辰龙,龙年,年生,肖盎,盎司,司精,精制,制银,银币,评级"
+    },
     {
       "coinName": "2012年壬辰龙年生肖1盎司精制彩银币",
       "normalizedBoxCode": "8754710049",

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6741659011",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6741659011",
+      "displayBoxCode": "6741659-011",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1994年中国古代名画婴戏图1/2盎司精制金币二枚一套",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10429505.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6741659-011/69/",
+      "price": 71000,
+      "priceWithFee": 73485,
+      "transactedAt": "2026-07-30 21:07:25",
+      "productCode": "878365001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/878365001A.jpg",
+      "ocrConfidence": 49,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1994年,2盎司,年中,中国,国古,古代,代名,名画,画婴,婴戏,戏图,图盎,盎司,司精,精制,制金,金币,币二,二枚,枚一,一套,评级"
+    }
+  ]
+}

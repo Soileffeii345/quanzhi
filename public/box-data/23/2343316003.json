@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2343316003",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2343316003",
+      "displayBoxCode": "2343316-003",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "第三版人民币2元古币水印",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/disanbanrenminbi/10435899.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2343316-003/",
+      "price": 1780,
+      "priceWithFee": 1922.4,
+      "transactedAt": "2026-08-06 19:55:35",
+      "productCode": "879028002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/31/879028002B.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,第三,三版,版人,人民,民币,币元,元古,古币,币水,水印"
+    }
+  ]
+}

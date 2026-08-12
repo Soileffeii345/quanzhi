@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "7051520085",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "7051520085",
+      "displayBoxCode": "7051520-085",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1980年第四版人民币伍圆",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/177429.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/7051520-085/",
+      "price": 108,
+      "priceWithFee": null,
+      "transactedAt": "2019-12-14 14:19:00",
+      "productCode": "BJ008783",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20191212/large_68_1_1576138111.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1980年,年第,第四,四版,版人,人民,民币,币伍,伍圆"
+    }
+  ]
+}

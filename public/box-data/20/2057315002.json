@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2057315002",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2057315002",
+      "displayBoxCode": "2057315-002",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "民国二十九年中央储备银行伍分",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/difangsipiao/10405049.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2057315-002/",
+      "price": 230,
+      "priceWithFee": 255.3,
+      "transactedAt": "2026-08-06 22:00:35",
+      "productCode": "874291005",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/874291005B.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国二,二十,十九,九年,年中,中央,央储,储备,备银,银行,行伍,伍分"
+    }
+  ]
+}

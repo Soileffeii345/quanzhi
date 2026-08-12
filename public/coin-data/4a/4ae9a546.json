@@ -1,0 +1,31 @@
+{
+  "coinName": "第一版人民币火车10元",
+  "slug": "4ae9a546",
+  "saleCount": 1,
+  "keywords": "币,第一,一版,版人,人民,民币,币火,火车,车元",
+  "priceStats": {
+    "low": 2300,
+    "high": 2300,
+    "avg": 2300,
+    "latest": 2300
+  },
+  "records": [
+    {
+      "coinName": "第一版人民币火车10元",
+      "normalizedBoxCode": "2484811002",
+      "displayBoxCode": "2484811-002",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/diyibanrenminbi/10430037.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2484811-002/",
+      "price": 2300,
+      "priceWithFee": 2530,
+      "transactedAt": "2026-08-06 20:56:00",
+      "productCode": "878531001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,第一,一版,版人,人民,民币,币火,火车,车元"
+    }
+  ]
+}

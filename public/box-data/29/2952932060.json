@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2952932060",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2952932060",
+      "displayBoxCode": "2952932-060",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "民国十九年中央银行上海地名伍圆",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10389421.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2952932-060/",
+      "price": 1920,
+      "priceWithFee": 2131.2,
+      "transactedAt": "2026-07-30 21:23:10",
+      "productCode": "873439004",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/27/873439004B.jpg",
+      "ocrConfidence": 32,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国十,十九,九年,年中,中央,央银,银行,行上,上海,海地,地名,名伍,伍圆"
+    }
+  ]
+}

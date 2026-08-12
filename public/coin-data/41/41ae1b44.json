@@ -1,0 +1,31 @@
+{
+  "coinName": "民国十五年吉林永衡官银钱号贰角正反票样",
+  "slug": "41ae1b44",
+  "saleCount": 1,
+  "keywords": "银,钞,历史币,民国,国十,十五,五年,年吉,吉林,林永,永衡,衡官,官银,银钱,钱号,号贰,贰角,角正,正反,反票,票样,样各,各一,一枚",
+  "priceStats": {
+    "low": 10000,
+    "high": 10000,
+    "avg": 10000,
+    "latest": 10000
+  },
+  "records": [
+    {
+      "coinName": "民国十五年吉林永衡官银钱号贰角正反票样各一枚",
+      "normalizedBoxCode": "2277311018",
+      "displayBoxCode": "2277311-018",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/minguoshengshigejiyinhangzhichao/10406557.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2277311-018/",
+      "price": 10000,
+      "priceWithFee": 11100,
+      "transactedAt": "2026-08-06 20:56:50",
+      "productCode": "875402005",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,钞,历史币,民国,国十,十五,五年,年吉,吉林,林永,永衡,衡官,官银,银钱,钱号,号贰,贰角,角正,正反,反票,票样,样各,各一,一枚"
+    }
+  ]
+}

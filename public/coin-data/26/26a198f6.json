@@ -1,0 +1,31 @@
+{
+  "coinName": "民国十三年直隶省银行北京地名拾枚",
+  "slug": "26a198f6",
+  "saleCount": 1,
+  "keywords": "银,历史币,民国,国十,十三,三年,年直,直隶,隶省,省银,银行,行北,北京,京地,地名,名拾,拾枚",
+  "priceStats": {
+    "low": 4500,
+    "high": 4500,
+    "avg": 4500,
+    "latest": 4500
+  },
+  "records": [
+    {
+      "coinName": "民国十三年直隶省银行北京地名拾枚",
+      "normalizedBoxCode": "2580817001",
+      "displayBoxCode": "2580817-001",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/minguoshengshigejiyinhangzhichao/10387081.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2580817-001/",
+      "price": 4500,
+      "priceWithFee": 4995,
+      "transactedAt": "2026-07-30 21:33:40",
+      "productCode": "873442002",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国十,十三,三年,年直,直隶,隶省,省银,银行,行北,北京,京地,地名,名拾,拾枚"
+    }
+  ]
+}

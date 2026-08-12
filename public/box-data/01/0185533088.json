@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "0185533088",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "0185533088",
+      "displayBoxCode": "0185533-088",
+      "gradingCompany": "NGC",
+      "grade": "MS 62",
+      "coinName": "民国福建银币厂造中华癸亥库平一钱四分四厘银元",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguojindaijizhibi/10379530.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/0185533-088/62/",
+      "price": 520,
+      "priceWithFee": 561.6,
+      "transactedAt": "2026-08-03 19:50:35",
+      "productCode": "872794002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/872794002A.jpg",
+      "ocrConfidence": 42,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,历史币,民国,国福,福建,建银,银币,币厂,厂造,造中,中华,华癸,癸亥,亥库,库平,平一,一钱,钱四,四分,分四,四厘,厘银,银元"
+    }
+  ]
+}

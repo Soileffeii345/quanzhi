@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2026085300",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2026085300",
+      "displayBoxCode": "2026085-300",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2026年吉祥文化方孔圆形精制金银币二枚一套（含20克金、30克银）",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10442694.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2026085-300/",
+      "price": 29500,
+      "priceWithFee": 30532.5,
+      "transactedAt": "2026-08-06 21:00:55",
+      "productCode": "880362001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/21/863212001A.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,2026年,20克,吉祥文化,年吉,吉祥,祥文,文化,化方,方孔,孔圆,圆形,形精,精制,制金,金银,银币,币二,二枚,枚一,一套,套含,含克,克金,金克,克银,评级"
+    }
+  ]
+}

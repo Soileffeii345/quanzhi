@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4402756008",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4402756008",
+      "displayBoxCode": "4402756-008",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1995年中国传统文化第（1）组1/10盎司精制金币五枚一套",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10433923.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4402756-008/69/",
+      "price": 16800,
+      "priceWithFee": 17388,
+      "transactedAt": "2026-07-30 21:46:45",
+      "productCode": "878995003",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/878995003A.jpg",
+      "ocrConfidence": 37,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1995年,10盎司,年中,中国,国传,传统,统文,文化,化第,第组,组盎,盎司,司精,精制,制金,金币,币五,五枚,枚一,一套,评级"
+    }
+  ]
+}

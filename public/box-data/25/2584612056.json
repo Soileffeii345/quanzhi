@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2584612056",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2584612056",
+      "displayBoxCode": "2584612-056",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1918年中国银行上海地名伍圆反面未完成票",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10387091.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2584612-056/",
+      "price": 6300,
+      "priceWithFee": 6993,
+      "transactedAt": "2026-07-30 20:36:10",
+      "productCode": "873442012",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/27/873442012B.jpg",
+      "ocrConfidence": 30,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,钞,1918年,年中,中国,国银,银行,行上,上海,海地,地名,名伍,伍圆,圆反,反面,面未,未完,完成,成票"
+    }
+  ]
+}

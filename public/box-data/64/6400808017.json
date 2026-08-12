@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6400808017",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6400808017",
+      "displayBoxCode": "6400808-017",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2018年中国能工巧匠第（1）组15克精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10435766.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6400808-017/70/",
+      "price": 430,
+      "priceWithFee": 445.05,
+      "transactedAt": "2026-08-03 19:38:55",
+      "productCode": "879105007",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/31/879105007A.jpg",
+      "ocrConfidence": 32,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2018年,15克,年中,中国,国能,能工,工巧,巧匠,匠第,第组,组克,克精,精制,制银,银币,评级"
+    }
+  ]
+}

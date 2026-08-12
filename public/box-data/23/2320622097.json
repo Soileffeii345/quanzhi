@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2320622097",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2320622097",
+      "displayBoxCode": "2320622-097",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "民国十二年中央银行伍圆",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10404315.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2320622-097/",
+      "price": 2750,
+      "priceWithFee": 3052.5,
+      "transactedAt": "2026-08-04 21:46:45",
+      "productCode": "875619008",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/875619008B.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国十,十二,二年,年中,中央,央银,银行,行伍,伍圆"
+    }
+  ]
+}

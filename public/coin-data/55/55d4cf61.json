@@ -1,15 +1,32 @@
 {
   "coinName": "1998年生肖31.104克精制金币",
   "slug": "55d4cf61",
-  "saleCount": 2,
+  "saleCount": 3,
   "keywords": "金,币,1998年,1盎司,生肖,年戊,戊寅,寅虎,虎年,年生,肖盎,盎司,司精,精制,制金,金币,评级",
   "priceStats": {
-    "low": 46500,
+    "low": 45500,
     "high": 49000,
-    "avg": 47750,
-    "latest": 46500
+    "avg": 47000,
+    "latest": 45500
   },
   "records": [
+    {
+      "coinName": "1998年戊寅虎年生肖1盎司精制金币",
+      "normalizedBoxCode": "4635683009",
+      "displayBoxCode": "4635683-009",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-jin/10436427.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4635683-009/69/",
+      "price": 45500,
+      "priceWithFee": 47092.5,
+      "transactedAt": "2026-07-30 21:28:05",
+      "productCode": "879465005",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1998年,1盎司,生肖,年戊,戊寅,寅虎,虎年,年生,肖盎,盎司,司精,精制,制金,金币,评级"
+    },
     {
       "coinName": "1998年戊寅虎年生肖1盎司精制金币",
       "normalizedBoxCode": "8545480023",

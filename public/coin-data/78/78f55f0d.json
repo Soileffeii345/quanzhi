@@ -1,15 +1,49 @@
 {
   "coinName": "1996年15.552克精制金币",
   "slug": "78f55f0d",
-  "saleCount": 2,
-  "keywords": "金,币,1996年,2盎司,年中,中国,国古,古典,典文,文学,学名,名著,著三,三国,国演,演义,义第,第组,组官,官渡,渡之,之战,战盎,盎司,司精,精制,制金,金币,评级",
+  "saleCount": 4,
+  "keywords": "金,银,币,1996年,2盎司,宗教,年金,金莲,莲观,观音,音盎,盎司,司精,精制,制银,银币,评级,年中,中国,国古,古典,典文,文学,学名,名著,著三,三国,国演,演义,义第,第组,组官,官渡,渡之,之战,战盎,制金,金币",
   "priceStats": {
-    "low": 23500,
+    "low": 640,
     "high": 24500,
-    "avg": 24000,
-    "latest": 24500
+    "avg": 12390,
+    "latest": 640
   },
   "records": [
+    {
+      "coinName": "1996年金莲观音1/2盎司精制银币",
+      "normalizedBoxCode": "3365153010",
+      "displayBoxCode": "3365153-010",
+      "gradingCompany": "NGC",
+      "grade": "PF 67 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10435805.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3365153-010/67/",
+      "price": 640,
+      "priceWithFee": 662.4,
+      "transactedAt": "2026-08-03 21:39:20",
+      "productCode": "878621008",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,1996年,2盎司,宗教,年金,金莲,莲观,观音,音盎,盎司,司精,精制,制银,银币,评级"
+    },
+    {
+      "coinName": "1996年金莲观音1/2盎司精制银币",
+      "normalizedBoxCode": "3365153011",
+      "displayBoxCode": "3365153-011",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10435804.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3365153-011/69/",
+      "price": 920,
+      "priceWithFee": 952.2,
+      "transactedAt": "2026-08-03 20:40:35",
+      "productCode": "878621007",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,1996年,2盎司,宗教,年金,金莲,莲观,观音,音盎,盎司,司精,精制,制银,银币,评级"
+    },
     {
       "coinName": "1996年中国古典文学名著《三国演义》第（2）组-官渡之战1/2盎司精制金币",
       "normalizedBoxCode": "4538468002",

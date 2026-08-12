@@ -1,15 +1,32 @@
 {
   "coinName": "1997年生肖31.104克精制银币",
   "slug": "4d72369b",
-  "saleCount": 3,
+  "saleCount": 4,
   "keywords": "银,币,1997年,1盎司,生肖,年丁,丁丑,丑牛,牛年,年生,肖盎,盎司,司精,精制,制银,银币,评级",
   "priceStats": {
     "low": 1040,
-    "high": 1520,
-    "avg": 1300,
-    "latest": 1340
+    "high": 1600,
+    "avg": 1375,
+    "latest": 1600
   },
   "records": [
+    {
+      "coinName": "1997年丁丑牛年生肖1盎司精制银币",
+      "normalizedBoxCode": "8659569016",
+      "displayBoxCode": "8659569-016",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10390891.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8659569-016/69/",
+      "price": 1600,
+      "priceWithFee": 1656,
+      "transactedAt": "2026-08-10 20:46:40",
+      "productCode": "873939005",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1997年,1盎司,生肖,年丁,丁丑,丑牛,牛年,年生,肖盎,盎司,司精,精制,制银,银币,评级"
+    },
     {
       "coinName": "1997年丁丑牛年生肖1盎司精制银币",
       "normalizedBoxCode": "8659569013",

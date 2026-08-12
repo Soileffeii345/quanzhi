@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2022249047",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2022249047",
+      "displayBoxCode": "2022249-047",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "coinName": "2011年西安世界园艺博览会熊猫加字1/4盎司普制金币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10446869.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2022249-047/69/",
+      "price": 8100,
+      "priceWithFee": 8383.5,
+      "transactedAt": "2026-08-10 22:01:40",
+      "productCode": "880849003",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/32/880849003A.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2011年,4盎司,熊猫,年西,西安,安世,世界,界园,园艺,艺博,博览,览会,会熊,猫加,加字,字盎,盎司,司普,普制,制金,金币"
+    }
+  ]
+}

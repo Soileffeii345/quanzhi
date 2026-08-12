@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "3512568001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "3512568001",
+      "displayBoxCode": "3512568-001",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1983年长城币壹角",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10437169.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3512568-001/",
+      "price": 2150,
+      "priceWithFee": 2322,
+      "transactedAt": "2026-08-05 19:29:35",
+      "productCode": "879480001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/31/879480001A.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1983年,年长,长城,城币,币壹,壹角"
+    }
+  ]
+}

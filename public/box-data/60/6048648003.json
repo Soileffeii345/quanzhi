@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6048648003",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6048648003",
+      "displayBoxCode": "6048648-003",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1994年中国古代科技发明发现第（3）组-龙骨车22克精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10443151.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6048648-003/",
+      "price": 650,
+      "priceWithFee": 672.75,
+      "transactedAt": "2026-08-03 20:12:40",
+      "productCode": "880286006",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/31/880286006A.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1994年,22克,年中,中国,国古,古代,代科,科技,技发,发明,明发,发现,现第,第组,组龙,龙骨,骨车,车克,克精,精制,制银,银币,评级"
+    }
+  ]
+}

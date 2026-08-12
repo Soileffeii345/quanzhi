@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "0090009006",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "0090009006",
+      "displayBoxCode": "0090009-006",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "J21毛泽东带边新全（部分票带色标）",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jtyoupiao/10424666.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/0090009-006/",
+      "price": 190,
+      "priceWithFee": 205.2,
+      "transactedAt": "2026-08-10 21:20:25",
+      "productCode": "877645064",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/31/877645064A.jpg",
+      "ocrConfidence": 31,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,毛泽,泽东,东带,带边,边新,新全,全部,部分,分票,票带,带色,色标"
+    }
+  ]
+}

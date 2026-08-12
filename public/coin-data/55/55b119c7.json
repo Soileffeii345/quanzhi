@@ -1,15 +1,32 @@
 {
   "coinName": "1997年中国古代名画31.104克普制银币",
   "slug": "55b119c7",
-  "saleCount": 1,
+  "saleCount": 2,
   "keywords": "银,币,1997年,1盎司,年中,中国,国古,古代,代名,名画,画孔,孔雀,雀开,开屏,屏盎,盎司,司普,普制,制银,银币",
   "priceStats": {
-    "low": 2500,
+    "low": 910,
     "high": 2500,
-    "avg": 2500,
-    "latest": 2500
+    "avg": 1705,
+    "latest": 910
   },
   "records": [
+    {
+      "coinName": "1997年中国古代名画-孔雀开屏1盎司普制银币",
+      "normalizedBoxCode": "8754835091",
+      "displayBoxCode": "8754835-091",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10433890.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8754835-091/",
+      "price": 910,
+      "priceWithFee": 941.85,
+      "transactedAt": "2026-08-03 20:24:45",
+      "productCode": "878997014",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1997年,1盎司,年中,中国,国古,古代,代名,名画,画孔,孔雀,雀开,开屏,屏盎,盎司,司普,普制,制银,银币"
+    },
     {
       "coinName": "1997年中国古代名画-孔雀开屏1盎司普制银币",
       "normalizedBoxCode": "8574200019",

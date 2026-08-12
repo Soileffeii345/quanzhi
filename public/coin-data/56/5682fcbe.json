@@ -1,0 +1,31 @@
+{
+  "coinName": "1997年2盎司银币",
+  "slug": "5682fcbe",
+  "saleCount": 1,
+  "keywords": "银,币,1997年,2盎司,年澳,澳大,大利,利亚,亚笑,笑翠,翠鸟,鸟盎,盎司,司银,银币,外国/特区",
+  "priceStats": {
+    "low": 1160,
+    "high": 1160,
+    "avg": 1160,
+    "latest": 1160
+  },
+  "records": [
+    {
+      "coinName": "1997年澳大利亚笑翠鸟2盎司银币",
+      "normalizedBoxCode": "8619324002",
+      "displayBoxCode": "8619324-002",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/aodailiyadaishu/10415186.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8619324-002/69/",
+      "price": 1160,
+      "priceWithFee": 1229.6,
+      "transactedAt": "2026-07-24 20:08:25",
+      "productCode": "876743014",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1997年,2盎司,年澳,澳大,大利,利亚,亚笑,笑翠,翠鸟,鸟盎,盎司,司银,银币,外国/特区"
+    }
+  ]
+}

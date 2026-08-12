@@ -1,0 +1,31 @@
+{
+  "coinName": "民国元年军政府造四川铜币十文铜币",
+  "slug": "627c1786",
+  "saleCount": 1,
+  "keywords": "铜,币,历史币,四川,川造,民国,国元,元年,年军,军政,政府,府造,造四,川铜,铜币,币十,十文,文铜",
+  "priceStats": {
+    "low": 380,
+    "high": 380,
+    "avg": 380,
+    "latest": 380
+  },
+  "records": [
+    {
+      "coinName": "民国元年军政府造四川铜币十文铜币",
+      "normalizedBoxCode": "8188578007",
+      "displayBoxCode": "8188578-007",
+      "gradingCompany": "NGC",
+      "grade": "MS 62",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguojindaijizhibi/10379529.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8188578-007/62/",
+      "price": 380,
+      "priceWithFee": 410.4,
+      "transactedAt": "2026-08-03 19:36:05",
+      "productCode": "872794001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "铜,币,历史币,四川,川造,民国,国元,元年,年军,军政,政府,府造,造四,川铜,铜币,币十,十文,文铜"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "coinName": "2004年邓小平5盎司精制金币",
+  "slug": "48ad68d5",
+  "saleCount": 1,
+  "keywords": "金,币,2004年,5盎司,年邓,邓小,小平,平诞,诞辰,辰周,周年,年盎,盎司,司精,精制,制金,金币,评级",
+  "priceStats": {
+    "low": 210000,
+    "high": 210000,
+    "avg": 210000,
+    "latest": 210000
+  },
+  "records": [
+    {
+      "coinName": "2004年邓小平诞辰100周年5盎司精制金币",
+      "normalizedBoxCode": "8616380001",
+      "displayBoxCode": "8616380-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10426996.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8616380-001/69/",
+      "price": 210000,
+      "priceWithFee": 217350,
+      "transactedAt": "2026-07-30 20:36:45",
+      "productCode": "878107001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2004年,5盎司,年邓,邓小,小平,平诞,诞辰,辰周,周年,年盎,盎司,司精,精制,制金,金币,评级"
+    }
+  ]
+}

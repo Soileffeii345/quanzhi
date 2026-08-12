@@ -1,0 +1,31 @@
+{
+  "coinName": "马尔代夫纸钞",
+  "slug": "12bc74f7",
+  "saleCount": 1,
+  "keywords": "钞,马尔,尔代,代夫,夫纸,纸钞",
+  "priceStats": {
+    "low": 75,
+    "high": 75,
+    "avg": 75,
+    "latest": 75
+  },
+  "records": [
+    {
+      "coinName": "马尔代夫纸钞",
+      "normalizedBoxCode": "2435481065",
+      "displayBoxCode": "2435481-065",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10429474.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2435481-065/",
+      "price": 75,
+      "priceWithFee": 83.25,
+      "transactedAt": "2026-08-04 22:09:25",
+      "productCode": "878377012",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,马尔,尔代,代夫,夫纸,纸钞"
+    }
+  ]
+}

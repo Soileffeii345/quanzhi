@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6745699017",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6745699017",
+      "displayBoxCode": "6745699-017",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2000年纪念敦煌藏经洞发现100周年精制流通纪念币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10440247.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6745699-017/",
+      "price": 480,
+      "priceWithFee": 518.4,
+      "transactedAt": "2026-08-05 19:20:35",
+      "productCode": "879956005",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/31/879956005A.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2000年,年纪,纪念,念敦,敦煌,煌藏,藏经,经洞,洞发,发现,现周,周年,年精,精制,制流,流通,通纪,念币,评级"
+    }
+  ]
+}

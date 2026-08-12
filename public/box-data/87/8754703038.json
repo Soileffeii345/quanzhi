@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8754703038",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8754703038",
+      "displayBoxCode": "8754703-038",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1986年第13届世界杯足球赛-双人传球1/2盎司精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10443218.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8754703-038/69/",
+      "price": 830,
+      "priceWithFee": 859.05,
+      "transactedAt": "2026-08-03 21:23:30",
+      "productCode": "880261026",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/31/880261026A.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1986年,2盎司,年第,第届,届世,世界,界杯,杯足,足球,球赛,赛双,双人,人传,传球,球盎,盎司,司精,精制,制银,银币,评级"
+    }
+  ]
+}

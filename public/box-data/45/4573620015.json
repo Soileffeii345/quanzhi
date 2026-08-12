@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4573620015",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4573620015",
+      "displayBoxCode": "4573620-015",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2002年中国古典文学名著《红楼梦》第（2）组-惜春作画1盎司六边形精制彩银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10441548.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4573620-015/",
+      "price": 690,
+      "priceWithFee": 714.15,
+      "transactedAt": "2026-08-03 21:20:35",
+      "productCode": "879993004",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/31/879993004A.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2002年,1盎司,年中,中国,国古,古典,典文,文学,学名,名著,著红,红楼,楼梦,梦第,第组,组惜,惜春,春作,作画,画盎,盎司,司六,六边,边形,形精,精制,制彩,彩银,银币,评级"
+    }
+  ]
+}

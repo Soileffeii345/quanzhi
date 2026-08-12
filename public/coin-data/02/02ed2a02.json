@@ -1,15 +1,32 @@
 {
   "coinName": "第三版人民币飞机2分",
   "slug": "02ed2a02",
-  "saleCount": 1,
+  "saleCount": 2,
   "keywords": "币,第三,三版,版人,人民,民币,币飞,飞机,机分",
   "priceStats": {
     "low": 160,
-    "high": 160,
-    "avg": 160,
-    "latest": 160
+    "high": 180,
+    "avg": 170,
+    "latest": 180
   },
   "records": [
+    {
+      "coinName": "第三版人民币飞机2分",
+      "normalizedBoxCode": "2239519002",
+      "displayBoxCode": "2239519-002",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/disanbanrenminbi/10435129.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2239519-002/",
+      "price": 180,
+      "priceWithFee": 194.4,
+      "transactedAt": "2026-08-01 20:34:05",
+      "productCode": "878879007",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,第三,三版,版人,人民,民币,币飞,飞机,机分"
+    },
     {
       "coinName": "第三版人民币飞机2分",
       "normalizedBoxCode": "2227288005",

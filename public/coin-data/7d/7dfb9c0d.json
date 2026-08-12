@@ -1,0 +1,31 @@
+{
+  "coinName": "民国二十四年交通银行拾圆",
+  "slug": "7dfb9c0d",
+  "saleCount": 1,
+  "keywords": "银,历史币,民国,国二,二十,十四,四年,年交,交通,通银,银行,行拾,拾圆",
+  "priceStats": {
+    "low": 840,
+    "high": 840,
+    "avg": 840,
+    "latest": 840
+  },
+  "records": [
+    {
+      "coinName": "民国二十四年交通银行拾圆",
+      "normalizedBoxCode": "1911750030",
+      "displayBoxCode": "1911750-030",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10394903.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1911750-030/",
+      "price": 840,
+      "priceWithFee": 932.4,
+      "transactedAt": "2026-07-30 19:26:10",
+      "productCode": "873834036",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国二,二十,十四,四年,年交,交通,通银,银行,行拾,拾圆"
+    }
+  ]
+}

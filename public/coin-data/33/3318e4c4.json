@@ -1,0 +1,31 @@
+{
+  "coinName": "民国三十三年和亨号壹圆",
+  "slug": "3318e4c4",
+  "saleCount": 1,
+  "keywords": "历史币,民国,国三,三十,十三,三年,年和,和亨,亨号,号壹,壹圆",
+  "priceStats": {
+    "low": 420,
+    "high": 420,
+    "avg": 420,
+    "latest": 420
+  },
+  "records": [
+    {
+      "coinName": "民国三十三年和亨号壹圆",
+      "normalizedBoxCode": "2161880026",
+      "displayBoxCode": "2161880-026",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/difangsipiao/10412236.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2161880-026/",
+      "price": 420,
+      "priceWithFee": 466.2,
+      "transactedAt": "2026-08-06 21:22:40",
+      "productCode": "876366010",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "历史币,民国,国三,三十,十三,三年,年和,和亨,亨号,号壹,壹圆"
+    }
+  ]
+}

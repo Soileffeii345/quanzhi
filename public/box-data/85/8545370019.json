@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8545370019",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8545370019",
+      "displayBoxCode": "8545370-019",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1982年中国精制硬币贰分",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10424224.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8545370-019/",
+      "price": 120,
+      "priceWithFee": 129.6,
+      "transactedAt": "2026-07-29 21:24:05",
+      "productCode": "877611008",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/877611008A.jpg",
+      "ocrConfidence": 29,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1982年,年中,中国,国精,精制,制硬,硬币,币贰,贰分,评级"
+    }
+  ]
+}

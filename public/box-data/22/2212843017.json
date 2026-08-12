@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2212843017",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2212843017",
+      "displayBoxCode": "2212843-017",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "黑龙江广信公司汇兑券贰角",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/difangsipiao/10396292.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2212843-017/",
+      "price": 2950,
+      "priceWithFee": 3274.5,
+      "transactedAt": "2026-07-30 21:04:10",
+      "productCode": "874273005",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/874273005B.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "黑龙,龙江,江广,广信,信公,公司,司汇,汇兑,兑券,券贰,贰角"
+    }
+  ]
+}

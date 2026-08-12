@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2581389011",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2581389011",
+      "displayBoxCode": "2581389-011",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "第一版人民币压路机50元",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/diyibanrenminbi/10426967.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2581389-011/",
+      "price": 1880,
+      "priceWithFee": 2068,
+      "transactedAt": "2026-07-30 20:27:40",
+      "productCode": "878121001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/878121001B.jpg",
+      "ocrConfidence": 27,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,第一,一版,版人,人民,民币,币压,压路,路机,机元"
+    }
+  ]
+}

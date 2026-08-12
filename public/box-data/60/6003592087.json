@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6003592087",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6003592087",
+      "displayBoxCode": "6003592-087",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2011年辛卯兔年生肖1盎司梅花形精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10435819.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6003592-087/",
+      "price": 610,
+      "priceWithFee": 631.35,
+      "transactedAt": "2026-08-03 19:53:30",
+      "productCode": "878622009",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/31/878622009A.jpg",
+      "ocrConfidence": 37,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2011年,1盎司,生肖,年辛,辛卯,卯兔,兔年,年生,肖盎,盎司,司梅,梅花,花形,形精,精制,制银,银币,评级"
+    }
+  ]
+}

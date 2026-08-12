@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "1120746763",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "1120746763",
+      "displayBoxCode": "1120746-763",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "清-道光通宝宝泉大样",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/guqian/10412215.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1120746-763/",
+      "price": 420,
+      "priceWithFee": 462,
+      "transactedAt": "2026-08-10 21:37:05",
+      "productCode": "876352016",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/876352016A.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "清道,道光,光通,通宝,宝宝,宝泉,泉大,大样"
+    }
+  ]
+}

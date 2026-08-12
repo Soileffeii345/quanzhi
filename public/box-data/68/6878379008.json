@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6878379008",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6878379008",
+      "displayBoxCode": "6878379-008",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1937年英国14.14克银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/wgjsbizhang/10436227.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6878379-008/",
+      "price": 160,
+      "priceWithFee": 169.6,
+      "transactedAt": "2026-07-31 19:06:45",
+      "productCode": "878867002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/31/878867002A.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1937年,14.14克,年英,英国,国克,克银,银币,外国/特区"
+    }
+  ]
+}

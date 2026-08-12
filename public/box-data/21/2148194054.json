@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2148194054",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2148194054",
+      "displayBoxCode": "2148194-054",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "民国三十年交通银行伍圆",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10394909.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2148194-054/",
+      "price": 230,
+      "priceWithFee": 255.3,
+      "transactedAt": "2026-07-30 19:52:10",
+      "productCode": "873834042",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/873834042B.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国三,三十,十年,年交,交通,通银,银行,行伍,伍圆"
+    }
+  ]
+}

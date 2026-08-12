@@ -1,0 +1,31 @@
+{
+  "coinName": "1990年第四版人民币伍拾圆",
+  "slug": "492692f8",
+  "saleCount": 1,
+  "keywords": "币,1990年,年第,第四,四版,版人,人民,民币,币伍,伍拾,拾圆",
+  "priceStats": {
+    "low": 640,
+    "high": 640,
+    "avg": 640,
+    "latest": 640
+  },
+  "records": [
+    {
+      "coinName": "1990年第四版人民币伍拾圆",
+      "normalizedBoxCode": "7052604050",
+      "displayBoxCode": "7052604-050",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/506745.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/7052604-050/",
+      "price": 640,
+      "priceWithFee": null,
+      "transactedAt": "2026-07-07 14:13:37",
+      "productCode": "KH137975",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1990年,年第,第四,四版,版人,人民,民币,币伍,伍拾,拾圆"
+    }
+  ]
+}

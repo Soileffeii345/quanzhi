@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2158661029",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2158661029",
+      "displayBoxCode": "2158661-029",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "民国二十九年中央储备银行壹圆",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/difangsipiao/10405058.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2158661-029/",
+      "price": 240,
+      "priceWithFee": 266.4,
+      "transactedAt": "2026-08-06 21:36:00",
+      "productCode": "874291014",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/874291014B.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国二,二十,十九,九年,年中,中央,央储,储备,备银,银行,行壹,壹圆"
+    }
+  ]
+}

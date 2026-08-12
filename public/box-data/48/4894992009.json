@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4894992009",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4894992009",
+      "displayBoxCode": "4894992-009",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1996年中国珍稀野生动物-华南虎流通纪念币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10441902.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4894992-009/",
+      "price": 360,
+      "priceWithFee": 388.8,
+      "transactedAt": "2026-08-05 19:52:35",
+      "productCode": "880228001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/23/866768061A.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1996年,年中,中国,国珍,珍稀,稀野,野生,生动,动物,物华,华南,南虎,虎流,流通,通纪,纪念,念币"
+    }
+  ]
+}

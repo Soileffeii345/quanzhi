@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6175107016",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6175107016",
+      "displayBoxCode": "6175107-016",
+      "gradingCompany": "NGC",
+      "grade": "MS 66",
+      "coinName": "1981年长城币壹圆",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10423644.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6175107-016/66/",
+      "price": 100,
+      "priceWithFee": 108,
+      "transactedAt": "2026-07-29 20:50:45",
+      "productCode": "877788007",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/877788007A.jpg",
+      "ocrConfidence": 32,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1981年,年长,长城,城币,币壹,壹圆"
+    }
+  ]
+}

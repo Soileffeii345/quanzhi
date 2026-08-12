@@ -1,15 +1,32 @@
 {
   "coinName": "1994年31.104克普制银币",
   "slug": "56a04aa3",
-  "saleCount": 1,
+  "saleCount": 2,
   "keywords": "银,币,1994年,1盎司,宗教,年送,送子,子观,观音,音盎,盎司,司普,普制,制银,银币",
   "priceStats": {
-    "low": 1440,
+    "low": 1320,
     "high": 1440,
-    "avg": 1440,
-    "latest": 1440
+    "avg": 1380,
+    "latest": 1320
   },
   "records": [
+    {
+      "coinName": "1994年送子观音1盎司普制银币",
+      "normalizedBoxCode": "8754703003",
+      "displayBoxCode": "8754703-003",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10443226.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8754703-003/",
+      "price": 1320,
+      "priceWithFee": 1366.2,
+      "transactedAt": "2026-08-03 20:11:00",
+      "productCode": "880261034",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1994年,1盎司,宗教,年送,送子,子观,观音,音盎,盎司,司普,普制,制银,银币"
+    },
     {
       "coinName": "1994年送子观音1盎司普制银币",
       "normalizedBoxCode": "8754820002",

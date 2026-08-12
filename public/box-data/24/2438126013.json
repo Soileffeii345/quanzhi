@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2438126013",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2438126013",
+      "displayBoxCode": "2438126-013",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "民国十八年东三省官银号拾圆正反面票样各一枚",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/minguoshengshigejiyinhangzhichao/10397087.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2438126-013/",
+      "price": 4150,
+      "priceWithFee": 4606.5,
+      "transactedAt": "2026-08-06 20:28:30",
+      "productCode": "874270006",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/874270006B.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,钞,历史币,民国,国十,十八,八年,年东,东三,三省,省官,官银,银号,号拾,拾圆,圆正,正反,反面,面票,票样,样各,各一,一枚"
+    }
+  ]
+}

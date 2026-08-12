@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2161711003",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2161711003",
+      "displayBoxCode": "2161711-003",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "民国二十八年中央银行壹分",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10386231.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2161711-003/",
+      "price": 85,
+      "priceWithFee": 94.35,
+      "transactedAt": "2026-07-30 20:37:10",
+      "productCode": "872771004",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/27/872771004B.jpg",
+      "ocrConfidence": 39,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国二,二十,十八,八年,年中,中央,央银,银行,行壹,壹分"
+    }
+  ]
+}

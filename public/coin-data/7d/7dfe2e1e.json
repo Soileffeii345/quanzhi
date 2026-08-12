@@ -1,0 +1,65 @@
+{
+  "coinName": "民国二十四年交通银行伍圆",
+  "slug": "7dfe2e1e",
+  "saleCount": 3,
+  "keywords": "银,历史币,民国,国二,二十,十四,四年,年交,交通,通银,银行,行伍,伍圆",
+  "priceStats": {
+    "low": 170,
+    "high": 2450,
+    "avg": 940,
+    "latest": 170
+  },
+  "records": [
+    {
+      "coinName": "民国二十四年交通银行伍圆",
+      "normalizedBoxCode": "2404219004",
+      "displayBoxCode": "2404219-004",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10392926.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2404219-004/",
+      "price": 170,
+      "priceWithFee": 188.7,
+      "transactedAt": "2026-07-30 22:05:40",
+      "productCode": "873706006",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国二,二十,十四,四年,年交,交通,通银,银行,行伍,伍圆"
+    },
+    {
+      "coinName": "民国二十四年交通银行伍圆",
+      "normalizedBoxCode": "2404219066",
+      "displayBoxCode": "2404219-066",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10392925.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2404219-066/",
+      "price": 2450,
+      "priceWithFee": 2719.5,
+      "transactedAt": "2026-07-30 21:52:10",
+      "productCode": "873706005",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国二,二十,十四,四年,年交,交通,通银,银行,行伍,伍圆"
+    },
+    {
+      "coinName": "民国二十四年交通银行伍圆",
+      "normalizedBoxCode": "2064329068",
+      "displayBoxCode": "2064329-068",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10394894.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2064329-068/",
+      "price": 200,
+      "priceWithFee": 222,
+      "transactedAt": "2026-07-30 19:24:40",
+      "productCode": "873834027",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国二,二十,十四,四年,年交,交通,通银,银行,行伍,伍圆"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "coinName": "1999年生肖31.104克普制银币",
+  "slug": "131f8f69",
+  "saleCount": 1,
+  "keywords": "银,币,1999年,1盎司,生肖,年己,己卯,卯兔,兔年,年生,肖盎,盎司,司普,普制,制银,银币",
+  "priceStats": {
+    "low": 860,
+    "high": 860,
+    "avg": 860,
+    "latest": 860
+  },
+  "records": [
+    {
+      "coinName": "1999年己卯兔年生肖1盎司普制银币",
+      "normalizedBoxCode": "6178258068",
+      "displayBoxCode": "6178258-068",
+      "gradingCompany": "NGC",
+      "grade": "Ms69",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10435841.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6178258-068/69/",
+      "price": 860,
+      "priceWithFee": 890.1,
+      "transactedAt": "2026-08-03 21:53:30",
+      "productCode": "878622031",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1999年,1盎司,生肖,年己,己卯,卯兔,兔年,年生,肖盎,盎司,司普,普制,制银,银币"
+    }
+  ]
+}

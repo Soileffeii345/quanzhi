@@ -1,0 +1,31 @@
+{
+  "coinName": "2013年瑞士纸钞",
+  "slug": "202c621e",
+  "saleCount": 1,
+  "keywords": "钞,2013年,年瑞,瑞士,士纸,纸钞",
+  "priceStats": {
+    "low": 170,
+    "high": 170,
+    "avg": 170,
+    "latest": 170
+  },
+  "records": [
+    {
+      "coinName": "2013年瑞士纸钞",
+      "normalizedBoxCode": "2329860094",
+      "displayBoxCode": "2329860-094",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10441560.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2329860-094/",
+      "price": 170,
+      "priceWithFee": 188.7,
+      "transactedAt": "2026-08-04 22:21:45",
+      "productCode": "880033010",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,2013年,年瑞,瑞士,士纸,纸钞"
+    }
+  ]
+}

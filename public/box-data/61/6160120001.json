@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6160120001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6160120001",
+      "displayBoxCode": "6160120-001",
+      "gradingCompany": "NGC",
+      "grade": "PF67 ULTRA CAMEO",
+      "coinName": "1992年澳门中银大厦落成27克银章",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10439897.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6160120-001/67/",
+      "price": 460,
+      "priceWithFee": 476.1,
+      "transactedAt": "2026-08-03 21:57:40",
+      "productCode": "879528023",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/31/879528023A.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,章,1992年,27克,年澳,澳门,门中,中银,银大,大厦,厦落,落成,成克,克银,银章,外国/特区"
+    }
+  ]
+}

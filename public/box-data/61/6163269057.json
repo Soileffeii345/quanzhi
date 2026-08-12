@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6163269057",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6163269057",
+      "displayBoxCode": "6163269-057",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "coinName": "2007年丁亥猪年生肖1盎司普制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10435845.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6163269-057/69/",
+      "price": 590,
+      "priceWithFee": 610.65,
+      "transactedAt": "2026-08-03 20:36:25",
+      "productCode": "878622035",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/31/878622035A.jpg",
+      "ocrConfidence": 32,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2007年,1盎司,生肖,年丁,丁亥,亥猪,猪年,年生,肖盎,盎司,司普,普制,制银,银币"
+    }
+  ]
+}

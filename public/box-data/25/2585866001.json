@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2585866001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2585866001",
+      "displayBoxCode": "2585866-001",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "民国三十四年冀南银行平原地名壹百圆",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jiefangquzhichao/10403843.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2585866-001/",
+      "price": 5100,
+      "priceWithFee": 5661,
+      "transactedAt": "2026-07-30 21:18:40",
+      "productCode": "875381001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/875381001B.jpg",
+      "ocrConfidence": 26,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国三,三十,十四,四年,年冀,冀南,南银,银行,行平,平原,原地,地名,名壹,壹百,百圆"
+    }
+  ]
+}

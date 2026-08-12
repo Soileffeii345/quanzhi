@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "3879437028",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "3879437028",
+      "displayBoxCode": "3879437-028",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "coinName": "1996年中国第9届亚洲国际集邮展览-熊猫图1盎司普制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10435724.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3879437-028/69/",
+      "price": 640,
+      "priceWithFee": 662.4,
+      "transactedAt": "2026-08-03 21:38:30",
+      "productCode": "879089003",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/31/879089003A.jpg",
+      "ocrConfidence": 38,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1996年,1盎司,熊猫,年中,中国,国第,第届,届亚,亚洲,洲国,国际,际集,集邮,邮展,展览,览熊,猫图,图盎,盎司,司普,普制,制银,银币"
+    }
+  ]
+}

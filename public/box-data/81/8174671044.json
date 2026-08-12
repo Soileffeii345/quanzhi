@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8174671044",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8174671044",
+      "displayBoxCode": "8174671-044",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2003年癸未羊年生肖1/10盎司普制金币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-jin/10430049.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8174671-044/",
+      "price": 3150,
+      "priceWithFee": 3260.25,
+      "transactedAt": "2026-07-30 20:44:45",
+      "productCode": "878535009",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/878535009A.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2003年,10盎司,生肖,年癸,癸未,未羊,羊年,年生,肖盎,盎司,司普,普制,制金,金币"
+    }
+  ]
+}

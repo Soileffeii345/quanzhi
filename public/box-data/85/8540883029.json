@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8540883029",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8540883029",
+      "displayBoxCode": "8540883-029",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1981年精制中国硬币七枚一套",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10435064.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8540883-029/",
+      "price": 13000,
+      "priceWithFee": 14040,
+      "transactedAt": "2026-08-05 20:04:35",
+      "productCode": "879093003",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/31/879093003A.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1981年,年精,精制,制中,中国,国硬,硬币,币七,七枚,枚一,一套,评级"
+    }
+  ]
+}

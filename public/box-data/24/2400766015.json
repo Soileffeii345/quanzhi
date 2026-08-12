@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2400766015",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2400766015",
+      "displayBoxCode": "2400766-015",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "泰国纸钞",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10392415.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2400766-015/",
+      "price": 130,
+      "priceWithFee": 144.3,
+      "transactedAt": "2026-07-28 22:18:05",
+      "productCode": "873790008",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/873790008B.jpg",
+      "ocrConfidence": 26,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,泰国,国纸,纸钞"
+    }
+  ]
+}

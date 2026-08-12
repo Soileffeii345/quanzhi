@@ -1,0 +1,31 @@
+{
+  "coinName": "民国二十八年中央银行壹分、伍分",
+  "slug": "0a6dbdd1",
+  "saleCount": 1,
+  "keywords": "银,历史币,民国,国二,二十,十八,八年,年中,中央,央银,银行,行壹,壹分,分伍,伍分,分各,各一,一枚,枚共,共二,二枚",
+  "priceStats": {
+    "low": 260,
+    "high": 260,
+    "avg": 260,
+    "latest": 260
+  },
+  "records": [
+    {
+      "coinName": "民国二十八年中央银行壹分、伍分各一枚，共二枚",
+      "normalizedBoxCode": "2144666010",
+      "displayBoxCode": "2144666-010",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10410562.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2144666-010/",
+      "price": 260,
+      "priceWithFee": 288.6,
+      "transactedAt": "2026-08-06 19:42:40",
+      "productCode": "876315010",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国二,二十,十八,八年,年中,中央,央银,银行,行壹,壹分,分伍,伍分,分各,各一,一枚,枚共,共二,二枚"
+    }
+  ]
+}

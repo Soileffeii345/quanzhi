@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6796471081",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6796471081",
+      "displayBoxCode": "6796471-081",
+      "gradingCompany": "NGC",
+      "grade": "MS 70",
+      "coinName": "2023年库克2盎司北京天坛祈年殿始建620周年加厚高浮雕银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/571446.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6796471-081/70/",
+      "price": 2200,
+      "priceWithFee": null,
+      "transactedAt": "2026-04-10 20:20:24",
+      "productCode": "KH129237",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260409/large_sell_iycm6886ziilxiyr.jpg",
+      "ocrConfidence": 51,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2023年,2盎司,年库,库克,克盎,盎司,司北,北京,京天,天坛,坛祈,祈年,年殿,殿始,始建,建周,周年,年加,加厚,厚高,高浮,浮雕,雕银,银币"
+    }
+  ]
+}

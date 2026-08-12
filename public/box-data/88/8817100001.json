@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8817100001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8817100001",
+      "displayBoxCode": "8817100-001",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2001年熊猫1/2盎司普制金币（D版）",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-jiujin/10441440.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8817100-001/",
+      "price": 16200,
+      "priceWithFee": 16767,
+      "transactedAt": "2026-08-06 20:15:05",
+      "productCode": "879999003",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/31/879999003A.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2001年,2盎司,熊猫,年熊,猫盎,盎司,司普,普制,制金,金币,币版"
+    }
+  ]
+}

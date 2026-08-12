@@ -1,15 +1,32 @@
 {
   "coinName": "1980年奥运会12克精制铜币",
   "slug": "003c3707",
-  "saleCount": 8,
-  "keywords": "铜,币,1980年,12克,奥运,年第,第届,届冬,冬季,季奥,运会,会女,女子,子花,花样,样滑,滑冰,冰克,克精,精制,制铜,铜币,评级,会男,男子,子滑,滑降,降克,会克,币四,四枚,枚一,一套,子现,现代,代冬,季两,两项,项克,子速,速度,度滑",
+  "saleCount": 9,
+  "keywords": "铜,币,1980年,12克,奥运,年第,第届,届冬,冬季,季奥,运会,会克,克精,精制,制铜,铜币,币四,四枚,枚一,一套,评级,会女,女子,子花,花样,样滑,滑冰,冰克,会男,男子,子滑,滑降,降克,子现,现代,代冬,季两,两项,项克,子速,速度,度滑",
   "priceStats": {
     "low": 300,
-    "high": 2200,
-    "avg": 675,
-    "latest": 460
+    "high": 2900,
+    "avg": 922,
+    "latest": 2900
   },
   "records": [
+    {
+      "coinName": "1980年第13届冬季奥运会12克精制铜币四枚一套",
+      "normalizedBoxCode": "8587816014",
+      "displayBoxCode": "8587816-014",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-tong/10433948.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8587816-014/69/",
+      "price": 2900,
+      "priceWithFee": 3001.5,
+      "transactedAt": "2026-07-30 20:12:05",
+      "productCode": "878995028",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "铜,币,1980年,12克,奥运,年第,第届,届冬,冬季,季奥,运会,会克,克精,精制,制铜,铜币,币四,四枚,枚一,一套,评级"
+    },
     {
       "coinName": "1980年第13届冬季奥运会-女子花样滑冰12克精制铜币",
       "normalizedBoxCode": "8179788003",

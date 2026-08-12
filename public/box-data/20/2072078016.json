@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2072078016",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2072078016",
+      "displayBoxCode": "2072078-016",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "民国三十六年中央银行壹萬圆、民国二十五年中央银行壹圆各一枚，共二枚",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10394907.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2072078-016/",
+      "price": 360,
+      "priceWithFee": 399.6,
+      "transactedAt": "2026-07-30 21:32:40",
+      "productCode": "873834040",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/873834040B.jpg",
+      "ocrConfidence": 29,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国三,三十,十六,六年,年中,中央,央银,银行,行壹,壹萬,萬圆,圆民,国二,二十,十五,五年,壹圆,圆各,各一,一枚,枚共,共二,二枚"
+    }
+  ]
+}

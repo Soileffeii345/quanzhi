@@ -1,0 +1,31 @@
+{
+  "coinName": "三羊开泰5盎司银章",
+  "slug": "38e67339",
+  "saleCount": 1,
+  "keywords": "银,章,5盎司,三羊,羊开,开泰,泰盎,盎司,司银,银章",
+  "priceStats": {
+    "low": 2750,
+    "high": 2750,
+    "avg": 2750,
+    "latest": 2750
+  },
+  "records": [
+    {
+      "coinName": "三羊开泰5盎司银章",
+      "normalizedBoxCode": "6409536003",
+      "displayBoxCode": "6409536-003",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10439888.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6409536-003/69/",
+      "price": 2750,
+      "priceWithFee": 2846.25,
+      "transactedAt": "2026-08-03 21:19:20",
+      "productCode": "879528014",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,章,5盎司,三羊,羊开,开泰,泰盎,盎司,司银,银章"
+    }
+  ]
+}

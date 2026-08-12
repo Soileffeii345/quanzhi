@@ -1,0 +1,31 @@
+{
+  "coinName": "民国三十年中央银行贰拾圆",
+  "slug": "5a23e522",
+  "saleCount": 1,
+  "keywords": "银,历史币,民国,国三,三十,十年,年中,中央,央银,银行,行贰,贰拾,拾圆",
+  "priceStats": {
+    "low": 600,
+    "high": 600,
+    "avg": 600,
+    "latest": 600
+  },
+  "records": [
+    {
+      "coinName": "民国三十年中央银行贰拾圆",
+      "normalizedBoxCode": "2252932094",
+      "displayBoxCode": "2252932-094",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10389422.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2252932-094/",
+      "price": 600,
+      "priceWithFee": 666,
+      "transactedAt": "2026-07-30 22:06:10",
+      "productCode": "873439005",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国三,三十,十年,年中,中央,央银,银行,行贰,贰拾,拾圆"
+    }
+  ]
+}

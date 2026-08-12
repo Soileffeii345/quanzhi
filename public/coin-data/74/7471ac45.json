@@ -1,15 +1,49 @@
 {
   "coinName": "2012年31.104克精制银币",
   "slug": "7471ac45",
-  "saleCount": 2,
-  "keywords": "银,币,钞,2012年,1盎司,年北,北京,京国,国际,际邮,邮票,票钱,钱币,币博,博览,览会,会盎,盎司,司精,精制,制银,银币,评级",
+  "saleCount": 4,
+  "keywords": "银,币,2012年,1盎司,年中,中国,国人,人民,民解,解放,放军,军海,海军,军航,航母,母辽,辽宁,宁舰,舰盎,盎司,司精,精制,制银,银币,评级,钞,年北,北京,京国,国际,际邮,邮票,票钱,钱币,币博,博览,览会,会盎",
   "priceStats": {
     "low": 600,
-    "high": 620,
-    "avg": 610,
-    "latest": 600
+    "high": 850,
+    "avg": 718,
+    "latest": 800
   },
   "records": [
+    {
+      "coinName": "2012年中国人民解放军海军航母辽宁舰1盎司精制银币",
+      "normalizedBoxCode": "4532008001",
+      "displayBoxCode": "4532008-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10436404.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4532008-001/69/",
+      "price": 800,
+      "priceWithFee": 828,
+      "transactedAt": "2026-08-03 22:03:30",
+      "productCode": "879389013",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2012年,1盎司,年中,中国,国人,人民,民解,解放,放军,军海,海军,军航,航母,母辽,辽宁,宁舰,舰盎,盎司,司精,精制,制银,银币,评级"
+    },
+    {
+      "coinName": "2012年中国人民解放军海军航母辽宁舰1盎司精制银币",
+      "normalizedBoxCode": "8199837002",
+      "displayBoxCode": "8199837-002",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10435765.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8199837-002/69/",
+      "price": 850,
+      "priceWithFee": 879.75,
+      "transactedAt": "2026-08-03 19:57:40",
+      "productCode": "879105006",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2012年,1盎司,年中,中国,国人,人民,民解,解放,放军,军海,海军,军航,航母,母辽,辽宁,宁舰,舰盎,盎司,司精,精制,制银,银币,评级"
+    },
     {
       "coinName": "2012年北京国际邮票钱币博览会1盎司精制银币",
       "normalizedBoxCode": "6335999051",

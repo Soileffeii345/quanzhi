@@ -1,0 +1,31 @@
+{
+  "coinName": "2009年生肖5盎司精制银币",
+  "slug": "4fc75d21",
+  "saleCount": 1,
+  "keywords": "银,币,2009年,5盎司,生肖,年己,己丑,丑牛,牛年,年生,肖盎,盎司,司长,长方,方形,形精,精制,制银,银币,评级",
+  "priceStats": {
+    "low": 3850,
+    "high": 3850,
+    "avg": 3850,
+    "latest": 3850
+  },
+  "records": [
+    {
+      "coinName": "2009年己丑牛年生肖5盎司长方形精制银币",
+      "normalizedBoxCode": "8755185001",
+      "displayBoxCode": "8755185-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 68 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10437343.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8755185-001/68/",
+      "price": 3850,
+      "priceWithFee": 3984.75,
+      "transactedAt": "2026-08-03 21:13:05",
+      "productCode": "879319001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2009年,5盎司,生肖,年己,己丑,丑牛,牛年,年生,肖盎,盎司,司长,长方,方形,形精,精制,制银,银币,评级"
+    }
+  ]
+}

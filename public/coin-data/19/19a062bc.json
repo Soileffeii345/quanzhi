@@ -1,0 +1,31 @@
+{
+  "coinName": "民国32年中央储备银行壹佰元",
+  "slug": "19a062bc",
+  "saleCount": 1,
+  "keywords": "银,历史币,民国,国年,年中,中央,央储,储备,备银,银行,行壹,壹佰,佰元",
+  "priceStats": {
+    "low": 1060,
+    "high": 1060,
+    "avg": 1060,
+    "latest": 1060
+  },
+  "records": [
+    {
+      "coinName": "民国32年中央储备银行壹佰元",
+      "normalizedBoxCode": "2261201002",
+      "displayBoxCode": "2261201-002",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/riweizhengquanhuobi/10364102.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2261201-002/",
+      "price": 1060,
+      "priceWithFee": 1176.6,
+      "transactedAt": "2026-07-09 21:55:50",
+      "productCode": "869951001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国年,年中,中央,央储,储备,备银,银行,行壹,壹佰,佰元"
+    }
+  ]
+}

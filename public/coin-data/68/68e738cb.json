@@ -1,0 +1,31 @@
+{
+  "coinName": "上海汽车代用币",
+  "slug": "68e738cb",
+  "saleCount": 1,
+  "keywords": "币,上海,海汽,汽车,车代,代用,用币",
+  "priceStats": {
+    "low": 1220,
+    "high": 1220,
+    "avg": 1220,
+    "latest": 1220
+  },
+  "records": [
+    {
+      "coinName": "上海汽车代用币",
+      "normalizedBoxCode": "89386818",
+      "displayBoxCode": "89386818",
+      "gradingCompany": "PCGS",
+      "grade": "MS65",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguojindaijizhibi/10400414.shtml",
+      "officialCertUrl": "https://cn.pcgs.com/cert/89386818",
+      "price": 1220,
+      "priceWithFee": 1317.6,
+      "transactedAt": "2026-08-03 21:00:35",
+      "productCode": "874962013",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,上海,海汽,汽车,车代,代用,用币"
+    }
+  ]
+}

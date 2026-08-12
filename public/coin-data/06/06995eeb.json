@@ -1,0 +1,31 @@
+{
+  "coinName": "第二版人民币民族大团结黄5元五星水印连号",
+  "slug": "06995eeb",
+  "saleCount": 1,
+  "keywords": "币,第二,二版,版人,人民,民币,币民,民族,族大,大团,团结,结黄,黄元,元五,五星,星水,水印,印连,连号,号二,二枚",
+  "priceStats": {
+    "low": 2400,
+    "high": 2400,
+    "avg": 2400,
+    "latest": 2400
+  },
+  "records": [
+    {
+      "coinName": "第二版人民币民族大团结黄5元五星水印连号二枚",
+      "normalizedBoxCode": "1104169970",
+      "displayBoxCode": "1104169-970",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/dierbanrenminbi/10424885.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1104169-970/",
+      "price": 2400,
+      "priceWithFee": 2592,
+      "transactedAt": "2026-07-30 20:18:10",
+      "productCode": "877850002",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,第二,二版,版人,人民,民币,币民,民族,族大,大团,团结,结黄,黄元,元五,五星,星水,水印,印连,连号,号二,二枚"
+    }
+  ]
+}

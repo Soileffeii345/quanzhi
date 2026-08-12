@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8588552001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8588552001",
+      "displayBoxCode": "8588552-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1992年联合国环境保护组织22克精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10433911.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8588552-001/69/",
+      "price": 880,
+      "priceWithFee": 910.8,
+      "transactedAt": "2026-08-03 20:27:40",
+      "productCode": "878997035",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/878997035A.jpg",
+      "ocrConfidence": 54,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1992年,22克,年联,联合,合国,国环,环境,境保,保护,护组,组织,织克,克精,精制,制银,银币,评级"
+    }
+  ]
+}

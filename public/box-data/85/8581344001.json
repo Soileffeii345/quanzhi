@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8581344001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8581344001",
+      "displayBoxCode": "8581344-001",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "军务院撫军长唐继尧正面像拥护共和纪念库平三钱六分银元",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguojindaijizhibi/10402436.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8581344-001/",
+      "price": 2000,
+      "priceWithFee": 2160,
+      "transactedAt": "2026-08-03 19:47:35",
+      "productCode": "874605002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/874605002A.jpg",
+      "ocrConfidence": 40,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,唐头,唐正,军务,务院,院撫,撫军,军长,长唐,唐继,继尧,尧正,正面,面像,像拥,拥护,护共,共和,和纪,纪念,念库,库平,平三,三钱,钱六,六分,分银,银元"
+    }
+  ]
+}

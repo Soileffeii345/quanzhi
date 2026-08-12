@@ -1,0 +1,31 @@
+{
+  "coinName": "民国十七年中华汇业银行天津地名壹角",
+  "slug": "554fe2df",
+  "saleCount": 1,
+  "keywords": "银,历史币,民国,国十,十七,七年,年中,中华,华汇,汇业,业银,银行,行天,天津,津地,地名,名壹,壹角",
+  "priceStats": {
+    "low": 10400,
+    "high": 10400,
+    "avg": 10400,
+    "latest": 10400
+  },
+  "records": [
+    {
+      "coinName": "民国十七年中华汇业银行天津地名壹角",
+      "normalizedBoxCode": "2382669001",
+      "displayBoxCode": "2382669-001",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/yangshangkechao/10406553.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2382669-001/",
+      "price": 10400,
+      "priceWithFee": 11544,
+      "transactedAt": "2026-08-06 21:16:25",
+      "productCode": "875402001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国十,十七,七年,年中,中华,华汇,汇业,业银,银行,行天,天津,津地,地名,名壹,壹角"
+    }
+  ]
+}

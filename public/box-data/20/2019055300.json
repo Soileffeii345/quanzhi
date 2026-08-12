@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2019055300",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2019055300",
+      "displayBoxCode": "2019055-300",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2019年吉祥文化-喜上眉梢30克精制银币二枚一套",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10445324.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2019055-300/",
+      "price": 1280,
+      "priceWithFee": 1324.8,
+      "transactedAt": "2026-08-10 21:47:10",
+      "productCode": "880669001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/877755011A.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2019年,30克,吉祥文化,年吉,吉祥,祥文,文化,化喜,喜上,上眉,眉梢,梢克,克精,精制,制银,银币,币二,二枚,枚一,一套,评级"
+    }
+  ]
+}

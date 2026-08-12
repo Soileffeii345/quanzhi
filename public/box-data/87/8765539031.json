@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8765539031",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8765539031",
+      "displayBoxCode": "8765539-031",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1996年麒麟1/2盎司精制金币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10429918.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8765539-031/69/",
+      "price": 26500,
+      "priceWithFee": 27427.5,
+      "transactedAt": "2026-07-30 21:09:25",
+      "productCode": "878492003",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/878492003A.jpg",
+      "ocrConfidence": 42,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1996年,2盎司,年麒,麒麟,麟盎,盎司,司精,精制,制金,金币,评级"
+    }
+  ]
+}

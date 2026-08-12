@@ -1,15 +1,32 @@
 {
   "coinName": "1985年15.552克精制银币",
   "slug": "03943a6a",
-  "saleCount": 1,
+  "saleCount": 2,
   "keywords": "银,币,1985年,2盎司,年联,联合,合国,国妇,妇女,女十,十年,年亚,亚非,非拉,拉妇,女盎,盎司,司精,精制,制银,银币,评级",
   "priceStats": {
-    "low": 3450,
+    "low": 2250,
     "high": 3450,
-    "avg": 3450,
-    "latest": 3450
+    "avg": 2850,
+    "latest": 2250
   },
   "records": [
+    {
+      "coinName": "1985年联合国妇女十年-亚非拉妇女1/2盎司精制银币",
+      "normalizedBoxCode": "8820477002",
+      "displayBoxCode": "8820477-002",
+      "gradingCompany": "NGC",
+      "grade": "PF 68 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10426622.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8820477-002/68/",
+      "price": 2250,
+      "priceWithFee": 2328.75,
+      "transactedAt": "2026-07-30 20:06:05",
+      "productCode": "878162002",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1985年,2盎司,年联,联合,合国,国妇,妇女,女十,十年,年亚,亚非,非拉,拉妇,女盎,盎司,司精,精制,制银,银币,评级"
+    },
     {
       "coinName": "1985年联合国妇女十年-亚非拉妇女1/2盎司精制银币",
       "normalizedBoxCode": "8757926001",

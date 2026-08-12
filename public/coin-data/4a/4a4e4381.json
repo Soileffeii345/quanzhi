@@ -1,12 +1,12 @@
 {
   "coinName": "1982年精制",
   "slug": "4a4e4381",
-  "saleCount": 2,
-  "keywords": "币,1982年,年中,中国,国精,精制,制硬,硬币,币壹,壹圆,评级,币伍,伍分",
+  "saleCount": 4,
+  "keywords": "币,1982年,年中,中国,国精,精制,制硬,硬币,币壹,壹圆,评级,币贰,贰分,币伍,伍分",
   "priceStats": {
     "low": 110,
     "high": 6400,
-    "avg": 3255,
+    "avg": 1695,
     "latest": 6400
   },
   "records": [
@@ -26,6 +26,40 @@
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "币,1982年,年中,中国,国精,精制,制硬,硬币,币壹,壹圆,评级"
+    },
+    {
+      "coinName": "1982年中国精制硬币贰分",
+      "normalizedBoxCode": "8545370019",
+      "displayBoxCode": "8545370-019",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10424224.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8545370-019/",
+      "price": 120,
+      "priceWithFee": 129.6,
+      "transactedAt": "2026-07-29 21:24:05",
+      "productCode": "877611008",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1982年,年中,中国,国精,精制,制硬,硬币,币贰,贰分,评级"
+    },
+    {
+      "coinName": "1982年中国精制硬币伍分",
+      "normalizedBoxCode": "8545370018",
+      "displayBoxCode": "8545370-018",
+      "gradingCompany": "NGC",
+      "grade": "PF 67 CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10424223.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8545370-018/67/",
+      "price": 150,
+      "priceWithFee": 162,
+      "transactedAt": "2026-07-29 20:28:05",
+      "productCode": "877611007",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1982年,年中,中国,国精,精制,制硬,硬币,币伍,伍分,评级"
     },
     {
       "coinName": "1982年中国精制硬币伍分",

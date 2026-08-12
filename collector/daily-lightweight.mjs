@@ -104,6 +104,7 @@ async function main() {
   log("\n── Phase 1: 发现 ──");
   results.push({ step: "易金发现", ok: run("discover-yijin-products.mjs", "易金在线新品发现", 180_000) });
   results.push({ step: "赵涌发现", ok: run("discover-zhao-public-sales.mjs", "赵涌在线新品发现", 180_000) });
+  results.push({ step: "赵涌在售快照", ok: run("discover-zhao-active.mjs", "刷新赵涌在线公开钱币在售快照", 300_000) });
 
   // Phase 2: 下载新图片 (~5 min)
   log("\n── Phase 2: 图片 ──");
@@ -119,6 +120,9 @@ async function main() {
   // Phase 4: 官方核验
   log("\n── Phase 4: 核验 ──");
   results.push({ step: "状态核验", ok: run("verify-official-and-transaction.mjs", "复核在售状态、价格与成交", 600_000) });
+  results.push({ step: "官方复核批次", ok: run("verify-official-batch.mjs", "限速复核一批NGC/PCGS官方认证", 900_000) });
+  results.push({ step: "状态快照重建", ok: run("rebuild-listing-state.mjs", "重建平台商品状态快照", 300_000) });
+  results.push({ step: "状态对账", ok: run("reconcile-listing-status.mjs", "对账在售与成交状态", 120_000) });
 
   // Phase 5: 导出静态 JSON
   log("\n── Phase 5: 导出 ──");
@@ -127,6 +131,7 @@ async function main() {
   const auditOk = keywordOk && run("audit-data.mjs", "验证发布数据真实性与完整性", 60_000);
   results.push({ step: "数据审计", ok: auditOk });
   if (auditOk) {
+    results.push({ step: "来源链接审计", ok: run("audit-source-links.mjs", "抽查交易页与证据图片链接", 120_000) });
     results.push({ step: "静态导出", ok: run("export-static-box-index.mjs", "导出静态盒号索引", 120_000) });
     results.push({ step: "HTML导出", ok: run("export-database-html.mjs", "导出全量数据表", 60_000) });
   } else {

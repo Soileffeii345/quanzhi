@@ -1,0 +1,48 @@
+{
+  "coinName": "1987年中华人民共和国国库券拾圆",
+  "slug": "0739673e",
+  "saleCount": 2,
+  "keywords": "1987年,年中,中华,华人,人民,民共,共和,和国,国国,国库,库券,券拾,拾圆",
+  "priceStats": {
+    "low": 240,
+    "high": 630,
+    "avg": 435,
+    "latest": 240
+  },
+  "records": [
+    {
+      "coinName": "1987年中华人民共和国国库券拾圆",
+      "normalizedBoxCode": "2227092061",
+      "displayBoxCode": "2227092-061",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/gupiao-zhaiquan/10443581.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2227092-061/",
+      "price": 240,
+      "priceWithFee": 266.4,
+      "transactedAt": "2026-08-06 19:05:10",
+      "productCode": "880221003",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "1987年,年中,中华,华人,人民,民共,共和,和国,国国,国库,库券,券拾,拾圆"
+    },
+    {
+      "coinName": "1987年中华人民共和国国库券拾圆",
+      "normalizedBoxCode": "2404868042",
+      "displayBoxCode": "2404868-042",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waihuiduihuanquan/10438346.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2404868-042/",
+      "price": 630,
+      "priceWithFee": 680.4,
+      "transactedAt": "2026-08-01 21:35:05",
+      "productCode": "879103005",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "1987年,年中,中华,华人,人民,民共,共和,和国,国国,国库,库券,券拾,拾圆"
+    }
+  ]
+}

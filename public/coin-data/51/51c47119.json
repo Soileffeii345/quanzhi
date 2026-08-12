@@ -1,0 +1,31 @@
+{
+  "coinName": "浙江地方银行壹分",
+  "slug": "51c47119",
+  "saleCount": 1,
+  "keywords": "银,浙江,江地,地方,方银,银行,行壹,壹分",
+  "priceStats": {
+    "low": 410,
+    "high": 410,
+    "avg": 410,
+    "latest": 410
+  },
+  "records": [
+    {
+      "coinName": "浙江地方银行壹分",
+      "normalizedBoxCode": "2142907002",
+      "displayBoxCode": "2142907-002",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/minguoshengshigejiyinhangzhichao/10399440.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2142907-002/",
+      "price": 410,
+      "priceWithFee": 455.1,
+      "transactedAt": "2026-08-06 22:01:25",
+      "productCode": "874824001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,浙江,江地,地方,方银,银行,行壹,壹分"
+    }
+  ]
+}

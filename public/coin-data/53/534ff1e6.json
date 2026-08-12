@@ -1,0 +1,31 @@
+{
+  "coinName": "民国三十八年江西省银行辅币券伍角",
+  "slug": "534ff1e6",
+  "saleCount": 1,
+  "keywords": "银,币,历史币,民国,国三,三十,十八,八年,年江,江西,西省,省银,银行,行辅,辅币,币券,券伍,伍角",
+  "priceStats": {
+    "low": 350,
+    "high": 350,
+    "avg": 350,
+    "latest": 350
+  },
+  "records": [
+    {
+      "coinName": "民国三十八年江西省银行辅币券伍角",
+      "normalizedBoxCode": "2118452007",
+      "displayBoxCode": "2118452-007",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/minguoshengshigejiyinhangzhichao/10380293.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2118452-007/",
+      "price": 350,
+      "priceWithFee": 388.5,
+      "transactedAt": "2026-07-28 21:52:50",
+      "productCode": "872355004",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,历史币,民国,国三,三十,十八,八年,年江,江西,西省,省银,银行,行辅,辅币,币券,券伍,伍角"
+    }
+  ]
+}

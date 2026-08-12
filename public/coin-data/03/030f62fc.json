@@ -1,0 +1,48 @@
+{
+  "coinName": "2018年熊猫15克金币",
+  "slug": "030f62fc",
+  "saleCount": 2,
+  "keywords": "金,币,2018年,15克,熊猫,年克,克熊,猫金,金币",
+  "priceStats": {
+    "low": 13435,
+    "high": 13435,
+    "avg": 13435,
+    "latest": 13435
+  },
+  "records": [
+    {
+      "coinName": "2018年15克熊猫金币",
+      "normalizedBoxCode": "8201467014",
+      "displayBoxCode": "8201467-014",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/598239.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8201467-014/",
+      "price": 13435,
+      "priceWithFee": null,
+      "transactedAt": "2026-07-18 17:54:48",
+      "productCode": "KH142241",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2018年,15克,熊猫,年克,克熊,猫金,金币"
+    },
+    {
+      "coinName": "2018年15克熊猫金币",
+      "normalizedBoxCode": "8201467012",
+      "displayBoxCode": "8201467-012",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/598240.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8201467-012/",
+      "price": 13435,
+      "priceWithFee": null,
+      "transactedAt": "2026-07-18 17:49:41",
+      "productCode": "KH142242",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2018年,15克,熊猫,年克,克熊,猫金,金币"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "coinName": "民国十三年中国实业银行伍圆票样",
+  "slug": "6e9f2d47",
+  "saleCount": 1,
+  "keywords": "银,钞,历史币,民国,国十,十三,三年,年中,中国,国实,实业,业银,银行,行伍,伍圆,圆票,票样",
+  "priceStats": {
+    "low": 6600,
+    "high": 6600,
+    "avg": 6600,
+    "latest": 6600
+  },
+  "records": [
+    {
+      "coinName": "民国十三年中国实业银行伍圆票样",
+      "normalizedBoxCode": "7002136017",
+      "displayBoxCode": "7002136-017",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shangyeyinhangzhichao/10415829.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/7002136-017/",
+      "price": 6600,
+      "priceWithFee": 7326,
+      "transactedAt": "2026-08-06 21:25:35",
+      "productCode": "876935002",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,钞,历史币,民国,国十,十三,三年,年中,中国,国实,实业,业银,银行,行伍,伍圆,圆票,票样"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8765513003",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8765513003",
+      "displayBoxCode": "8765513-003",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2002年四川三星堆2盎司精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10446355.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8765513-003/",
+      "price": 1560,
+      "priceWithFee": 1614.6,
+      "transactedAt": "2026-08-06 19:32:35",
+      "productCode": "880814012",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/32/880814012A.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2002年,2盎司,年四,四川,川三,三星,星堆,堆盎,盎司,司精,精制,制银,银币,评级"
+    }
+  ]
+}

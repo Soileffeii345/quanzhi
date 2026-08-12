@@ -1,0 +1,65 @@
+{
+  "coinName": "厦门劝业银行伍角连号",
+  "slug": "6bf59800",
+  "saleCount": 3,
+  "keywords": "银,厦门,门劝,劝业,业银,银行,行伍,伍角,角连,连号,号二,二枚",
+  "priceStats": {
+    "low": 200,
+    "high": 220,
+    "avg": 210,
+    "latest": 200
+  },
+  "records": [
+    {
+      "coinName": "厦门劝业银行伍角连号二枚",
+      "normalizedBoxCode": "2157796043",
+      "displayBoxCode": "2157796-043",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/difangsipiao/10401033.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2157796-043/",
+      "price": 200,
+      "priceWithFee": 222,
+      "transactedAt": "2026-08-04 21:50:05",
+      "productCode": "875130004",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,厦门,门劝,劝业,业银,银行,行伍,伍角,角连,连号,号二,二枚"
+    },
+    {
+      "coinName": "厦门劝业银行伍角连号二枚",
+      "normalizedBoxCode": "2157796040",
+      "displayBoxCode": "2157796-040",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/difangsipiao/10401032.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2157796-040/",
+      "price": 210,
+      "priceWithFee": 233.1,
+      "transactedAt": "2026-08-04 21:07:45",
+      "productCode": "875130003",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,厦门,门劝,劝业,业银,银行,行伍,伍角,角连,连号,号二,二枚"
+    },
+    {
+      "coinName": "厦门劝业银行伍角连号二枚",
+      "normalizedBoxCode": "2157796036",
+      "displayBoxCode": "2157796-036",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/difangsipiao/10401031.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2157796-036/",
+      "price": 220,
+      "priceWithFee": 244.2,
+      "transactedAt": "2026-08-04 19:04:45",
+      "productCode": "875130002",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,厦门,门劝,劝业,业银,银行,行伍,伍角,角连,连号,号二,二枚"
+    }
+  ]
+}

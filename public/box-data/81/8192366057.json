@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8192366057",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8192366057",
+      "displayBoxCode": "8192366-057",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1998年戊寅虎年生肖1/10盎司普制金币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-jin/10444875.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8192366-057/",
+      "price": 3600,
+      "priceWithFee": 3726,
+      "transactedAt": "2026-08-06 20:55:05",
+      "productCode": "880419004",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/31/880419004A.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1998年,10盎司,生肖,年戊,戊寅,寅虎,虎年,年生,肖盎,盎司,司普,普制,制金,金币"
+    }
+  ]
+}

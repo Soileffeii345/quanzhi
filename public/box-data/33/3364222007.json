@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "3364222007",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "3364222007",
+      "displayBoxCode": "3364222-007",
+      "gradingCompany": "NGC",
+      "grade": "MS 68",
+      "coinName": "1999年宝镜观音1盎司普制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10435800.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3364222-007/68/",
+      "price": 930,
+      "priceWithFee": 962.55,
+      "transactedAt": "2026-08-03 19:56:50",
+      "productCode": "878621003",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/31/878621003A.jpg",
+      "ocrConfidence": 32,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1999年,1盎司,宗教,年宝,宝镜,镜观,观音,音盎,盎司,司普,普制,制银,银币"
+    }
+  ]
+}

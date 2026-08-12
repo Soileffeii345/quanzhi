@@ -1,0 +1,31 @@
+{
+  "coinName": "1928年美国20美元纸钞",
+  "slug": "7b1da4df",
+  "saleCount": 1,
+  "keywords": "钞,1928年,年美,美国,国美,美元,元纸,纸钞,外国/特区",
+  "priceStats": {
+    "low": 1320,
+    "high": 1320,
+    "avg": 1320,
+    "latest": 1320
+  },
+  "records": [
+    {
+      "coinName": "1928年美国20美元纸钞",
+      "normalizedBoxCode": "2149361005",
+      "displayBoxCode": "2149361-005",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10431533.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2149361-005/",
+      "price": 1320,
+      "priceWithFee": 1465.2,
+      "transactedAt": "2026-07-30 22:24:10",
+      "productCode": "878665006",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,1928年,年美,美国,国美,美元,元纸,纸钞,外国/特区"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2121604011",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2121604011",
+      "displayBoxCode": "2121604-011",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "民国二十九年中央储备银行壹分",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/difangsipiao/10405047.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2121604-011/",
+      "price": 280,
+      "priceWithFee": 310.8,
+      "transactedAt": "2026-08-06 20:57:15",
+      "productCode": "874291003",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/874291003B.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国二,二十,十九,九年,年中,中央,央储,储备,备银,银行,行壹,壹分"
+    }
+  ]
+}

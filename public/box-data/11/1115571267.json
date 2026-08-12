@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "1115571267",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "1115571267",
+      "displayBoxCode": "1115571-267",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "清 道光通宝宝源",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/guqian/10413834.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1115571-267/",
+      "price": 15,
+      "priceWithFee": 16.5,
+      "transactedAt": "2026-08-10 21:21:35",
+      "productCode": "876014005",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/876014005A.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "清道,道光,光通,通宝,宝宝,宝源"
+    }
+  ]
+}

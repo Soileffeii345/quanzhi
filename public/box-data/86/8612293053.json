@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8612293053",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8612293053",
+      "displayBoxCode": "8612293-053",
+      "gradingCompany": "NGC",
+      "grade": "PF 69",
+      "coinName": "1999年中国珍稀野生动物-中华鲟精制、普制流通纪念币各一枚，共二枚",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10415376.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8612293-053/69/",
+      "price": 1880,
+      "priceWithFee": 2030.4,
+      "transactedAt": "2026-07-29 21:11:25",
+      "productCode": "876732001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/876732001A.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1999年,年中,中国,国珍,珍稀,稀野,野生,生动,动物,物中,中华,华鲟,鲟精,精制,制普,普制,制流,流通,通纪,纪念,念币,币各,各一,一枚,枚共,共二,二枚,评级"
+    }
+  ]
+}

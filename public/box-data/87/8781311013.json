@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8781311013",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8781311013",
+      "displayBoxCode": "8781311-013",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1995年中国古典文学名著《三国演义》第（1）组-刘备1盎司精制金币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10431598.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8781311-013/",
+      "price": 96000,
+      "priceWithFee": 99360,
+      "transactedAt": "2026-07-30 20:57:25",
+      "productCode": "878716002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/878716002A.jpg",
+      "ocrConfidence": 40,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1995年,1盎司,年中,中国,国古,古典,典文,文学,学名,名著,著三,三国,国演,演义,义第,第组,组刘,刘备,备盎,盎司,司精,精制,制金,金币,评级"
+    }
+  ]
+}

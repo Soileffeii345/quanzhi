@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "5754202002",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "5754202002",
+      "displayBoxCode": "5754202-002",
+      "gradingCompany": "NGC",
+      "grade": "MS 70",
+      "coinName": "2018年斐济凡尔赛宫镶嵌方钠石3盎司银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/wgjsbizhang/10428975.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/5754202-002/70/",
+      "price": 2150,
+      "priceWithFee": 2279,
+      "transactedAt": "2026-07-31 19:19:15",
+      "productCode": "878292007",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/878292007A.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2018年,3盎司,年斐,斐济,济凡,凡尔,尔赛,赛宫,宫镶,镶嵌,嵌方,方钠,钠石,石盎,盎司,司银,银币"
+    }
+  ]
+}

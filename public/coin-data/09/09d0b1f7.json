@@ -1,0 +1,31 @@
+{
+  "coinName": "民国二十四年交通银行伍圆连号",
+  "slug": "09d0b1f7",
+  "saleCount": 1,
+  "keywords": "银,历史币,民国,国二,二十,十四,四年,年交,交通,通银,银行,行伍,伍圆,圆连,连号,号二,二枚",
+  "priceStats": {
+    "low": 710,
+    "high": 710,
+    "avg": 710,
+    "latest": 710
+  },
+  "records": [
+    {
+      "coinName": "民国二十四年交通银行伍圆连号二枚",
+      "normalizedBoxCode": "2148197037",
+      "displayBoxCode": "2148197-037",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10401697.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2148197-037/",
+      "price": 710,
+      "priceWithFee": 788.1,
+      "transactedAt": "2026-08-06 21:36:50",
+      "productCode": "874987005",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国二,二十,十四,四年,年交,交通,通银,银行,行伍,伍圆,圆连,连号,号二,二枚"
+    }
+  ]
+}

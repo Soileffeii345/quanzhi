@@ -1,0 +1,31 @@
+{
+  "coinName": "第三把人民币1角红冠3罗马凸版票样",
+  "slug": "5528d7ea",
+  "saleCount": 1,
+  "keywords": "币,钞,第三,三把,把人,人民,民币,币角,角红,红冠,冠罗,罗马,马凸,凸版,版票,票样",
+  "priceStats": {
+    "low": 4350,
+    "high": 4350,
+    "avg": 4350,
+    "latest": 4350
+  },
+  "records": [
+    {
+      "coinName": "第三把人民币1角红冠3罗马凸版票样",
+      "normalizedBoxCode": "2484430001",
+      "displayBoxCode": "2484430-001",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/disanbanrenminbi/10442407.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2484430-001/",
+      "price": 4350,
+      "priceWithFee": 4698,
+      "transactedAt": "2026-08-04 21:02:25",
+      "productCode": "880151002",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,钞,第三,三把,把人,人民,民币,币角,角红,红冠,冠罗,罗马,马凸,凸版,版票,票样"
+    }
+  ]
+}

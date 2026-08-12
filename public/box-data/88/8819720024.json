@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8819720024",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8819720024",
+      "displayBoxCode": "8819720-024",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1989年己巳蛇年生肖8克精制金币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-jin/10429909.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8819720-024/69/",
+      "price": 8800,
+      "priceWithFee": 9108,
+      "transactedAt": "2026-07-30 20:33:25",
+      "productCode": "878484001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/878484001A.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1989年,8克,生肖,年己,己巳,巳蛇,蛇年,年生,肖克,克精,精制,制金,金币,评级"
+    }
+  ]
+}

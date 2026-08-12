@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6377056080",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6377056080",
+      "displayBoxCode": "6377056-080",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1996年熊猫1盎司精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-jiuyin/10429339.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6377056-080/",
+      "price": 1480,
+      "priceWithFee": 1531.8,
+      "transactedAt": "2026-07-30 19:50:45",
+      "productCode": "878308007",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/878308007A.jpg",
+      "ocrConfidence": 32,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1996年,1盎司,熊猫,年熊,猫盎,盎司,司精,精制,制银,银币,评级"
+    }
+  ]
+}

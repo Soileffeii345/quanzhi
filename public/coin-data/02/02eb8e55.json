@@ -1,0 +1,48 @@
+{
+  "coinName": "厦门劝业银行伍角",
+  "slug": "02eb8e55",
+  "saleCount": 2,
+  "keywords": "银,厦门,门劝,劝业,业银,银行,行伍,伍角,角二,二枚",
+  "priceStats": {
+    "low": 220,
+    "high": 540,
+    "avg": 380,
+    "latest": 540
+  },
+  "records": [
+    {
+      "coinName": "厦门劝业银行伍角",
+      "normalizedBoxCode": "2118220015",
+      "displayBoxCode": "2118220-015",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/difangsipiao/10399441.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2118220-015/",
+      "price": 540,
+      "priceWithFee": 599.4,
+      "transactedAt": "2026-08-06 19:30:10",
+      "productCode": "874824002",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,厦门,门劝,劝业,业银,银行,行伍,伍角"
+    },
+    {
+      "coinName": "厦门劝业银行伍角二枚",
+      "normalizedBoxCode": "2157796049",
+      "displayBoxCode": "2157796-049",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/difangsipiao/10401034.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2157796-049/",
+      "price": 220,
+      "priceWithFee": 244.2,
+      "transactedAt": "2026-08-04 21:22:25",
+      "productCode": "875130005",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,厦门,门劝,劝业,业银,银行,行伍,伍角,角二,二枚"
+    }
+  ]
+}

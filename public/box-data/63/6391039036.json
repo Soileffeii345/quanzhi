@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6391039036",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6391039036",
+      "displayBoxCode": "6391039-036",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2002年壬午马年生肖1/10盎司普制金币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-jin/10430048.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6391039-036/",
+      "price": 3500,
+      "priceWithFee": 3622.5,
+      "transactedAt": "2026-07-30 21:19:25",
+      "productCode": "878535008",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/878535008A.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2002年,10盎司,生肖,年壬,壬午,午马,马年,年生,肖盎,盎司,司普,普制,制金,金币"
+    }
+  ]
+}

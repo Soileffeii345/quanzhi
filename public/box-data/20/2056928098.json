@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2056928098",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2056928098",
+      "displayBoxCode": "2056928-098",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "第三版人民币10元（荧光版）",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/disanbanrenminbi/10441853.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2056928-098/",
+      "price": 440,
+      "priceWithFee": 475.2,
+      "transactedAt": "2026-08-08 21:15:20",
+      "productCode": "880048003",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/31/880048003B.jpg",
+      "ocrConfidence": 30,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,第三,三版,版人,人民,民币,币元,元荧,荧光,光版"
+    }
+  ]
+}

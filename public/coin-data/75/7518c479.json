@@ -1,0 +1,31 @@
+{
+  "coinName": "1980年第四版人民币伍圆",
+  "slug": "7518c479",
+  "saleCount": 1,
+  "keywords": "币,1980年,年第,第四,四版,版人,人民,民币,币伍,伍圆",
+  "priceStats": {
+    "low": 108,
+    "high": 108,
+    "avg": 108,
+    "latest": 108
+  },
+  "records": [
+    {
+      "coinName": "1980年第四版人民币伍圆",
+      "normalizedBoxCode": "7051520085",
+      "displayBoxCode": "7051520-085",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/177429.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/7051520-085/",
+      "price": 108,
+      "priceWithFee": null,
+      "transactedAt": "2019-12-14 14:19:00",
+      "productCode": "BJ008783",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1980年,年第,第四,四版,版人,人民,民币,币伍,伍圆"
+    }
+  ]
+}

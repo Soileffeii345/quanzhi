@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2319420035",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2319420035",
+      "displayBoxCode": "2319420-035",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "民国二十二年北洋保商银行北平地名壹圆",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shangyeyinhangzhichao/10388154.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2319420-035/",
+      "price": 460,
+      "priceWithFee": 510.6,
+      "transactedAt": "2026-07-30 21:04:40",
+      "productCode": "873038001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/27/873038001B.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,北洋,北洋造,民国,国二,二十,十二,二年,年北,洋保,保商,商银,银行,行北,北平,平地,地名,名壹,壹圆"
+    }
+  ]
+}

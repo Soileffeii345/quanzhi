@@ -1,0 +1,48 @@
+{
+  "coinName": "明清 银锭",
+  "slug": "7b287a1b",
+  "saleCount": 2,
+  "keywords": "银,明清,清银,银锭",
+  "priceStats": {
+    "low": 1820,
+    "high": 1900,
+    "avg": 1860,
+    "latest": 1820
+  },
+  "records": [
+    {
+      "coinName": "明清 银锭",
+      "normalizedBoxCode": "1610085591",
+      "displayBoxCode": "1610085-591",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/yinding/10392374.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1610085-591/",
+      "price": 1820,
+      "priceWithFee": 2020.2,
+      "transactedAt": "2026-07-27 21:44:35",
+      "productCode": "873158002",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,明清,清银,银锭"
+    },
+    {
+      "coinName": "明清 银锭",
+      "normalizedBoxCode": "1610037735",
+      "displayBoxCode": "1610037-735",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/yinding/10392373.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1610037-735/",
+      "price": 1900,
+      "priceWithFee": 2109,
+      "transactedAt": "2026-07-27 21:44:05",
+      "productCode": "873158001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,明清,清银,银锭"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2557300006",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2557300006",
+      "displayBoxCode": "2557300-006",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2026年贺岁马年纪念钞",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/572200.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2557300-006/",
+      "price": 350,
+      "priceWithFee": null,
+      "transactedAt": "2026-05-13 10:37:29",
+      "productCode": "KH134444",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260412/large_sell_tasdjokcxm8amvti.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,2026年,生肖,吉祥文化,年贺,贺岁,岁马,马年,年纪,纪念,念钞"
+    }
+  ]
+}

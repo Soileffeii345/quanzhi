@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "3307247004",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "3307247004",
+      "displayBoxCode": "3307247-004",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1989年中国杰出历史人物第（6）组-郭守敬22克精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10435803.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3307247-004/",
+      "price": 360,
+      "priceWithFee": 372.6,
+      "transactedAt": "2026-08-03 21:08:30",
+      "productCode": "878621006",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/31/878621006A.jpg",
+      "ocrConfidence": 31,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1989年,22克,年中,中国,国杰,杰出,出历,历史,史人,人物,物第,第组,组郭,郭守,守敬,敬克,克精,精制,制银,银币,评级"
+    }
+  ]
+}

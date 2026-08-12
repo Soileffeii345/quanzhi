@@ -1,0 +1,31 @@
+{
+  "coinName": "1982年中国硬币贰分",
+  "slug": "7e94ac86",
+  "saleCount": 1,
+  "keywords": "币,1982年,年中,中国,国硬,硬币,币贰,贰分,分三,三枚",
+  "priceStats": {
+    "low": 130,
+    "high": 130,
+    "avg": 130,
+    "latest": 130
+  },
+  "records": [
+    {
+      "coinName": "1982年中国硬币贰分三枚",
+      "normalizedBoxCode": "0106396017",
+      "displayBoxCode": "0106396-017",
+      "gradingCompany": "NGC",
+      "grade": "MS 66",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10423646.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/0106396-017/66/",
+      "price": 130,
+      "priceWithFee": 140.4,
+      "transactedAt": "2026-07-29 20:52:05",
+      "productCode": "877788009",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1982年,年中,中国,国硬,硬币,币贰,贰分,分三,三枚"
+    }
+  ]
+}

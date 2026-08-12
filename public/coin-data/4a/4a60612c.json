@@ -1,12 +1,12 @@
 {
   "coinName": "1999年建国",
   "slug": "4a60612c",
-  "saleCount": 18,
-  "keywords": "钞,1999年,重大事件,年建,建国,国周,周年,年纪,纪念,念钞,钞伍,伍拾,拾圆,钞元",
+  "saleCount": 19,
+  "keywords": "钞,1999年,重大事件,年建,建国,国周,周年,年纪,纪念,念钞,钞伍,伍拾,拾圆,钞元,年伍,圆纪",
   "priceStats": {
     "low": 190,
     "high": 720,
-    "avg": 426,
+    "avg": 429,
     "latest": 360
   },
   "records": [
@@ -315,6 +315,23 @@
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "钞,1999年,重大事件,年建,建国,国周,周年,年纪,纪念,念钞,钞伍,伍拾,拾圆"
+    },
+    {
+      "coinName": "1999年建国50周年伍拾圆纪念钞",
+      "normalizedBoxCode": "7020853047",
+      "displayBoxCode": "7020853-047",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/45631.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/7020853-047/",
+      "price": 500,
+      "priceWithFee": null,
+      "transactedAt": "2016-07-22 09:17:29",
+      "productCode": "BJ005648",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,1999年,重大事件,年建,建国,国周,周年,年伍,伍拾,拾圆,圆纪,纪念,念钞"
     }
   ]
 }

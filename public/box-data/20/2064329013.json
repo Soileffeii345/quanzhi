@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2064329013",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2064329013",
+      "displayBoxCode": "2064329-013",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1945年中央银行壹百圆",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10394901.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2064329-013/",
+      "price": 3000,
+      "priceWithFee": 3330,
+      "transactedAt": "2026-07-30 21:32:10",
+      "productCode": "873834034",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/873834034B.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,1945年,年中,中央,央银,银行,行壹,壹百,百圆"
+    }
+  ]
+}

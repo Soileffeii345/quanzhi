@@ -1,12 +1,12 @@
 {
   "coinName": "2012年生肖31.104克银币",
   "slug": "0564ecbc",
-  "saleCount": 8,
-  "keywords": "银,币,2012年,1盎司,生肖,年盎,盎司,司生,肖龙,龙银,银币,司梅,梅花,花形,形生,龙彩,彩银,司扇,扇形",
+  "saleCount": 9,
+  "keywords": "银,币,2012年,1盎司,生肖,年盎,盎司,司生,肖龙,龙银,银币,司梅,梅花,花形,形生,龙彩,彩银,年澳,澳大,大利,利亚,亚盎,外国/特区,司扇,扇形",
   "priceStats": {
     "low": 460,
     "high": 2400,
-    "avg": 1140,
+    "avg": 1102,
     "latest": 960
   },
   "records": [
@@ -111,6 +111,23 @@
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "银,币,2012年,1盎司,生肖,年盎,盎司,司生,肖龙,龙银,银币"
+    },
+    {
+      "coinName": "2012年澳大利亚1盎司生肖龙彩银币",
+      "normalizedBoxCode": "3680839024",
+      "displayBoxCode": "3680839-024",
+      "gradingCompany": "NGC",
+      "grade": "MS 70",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/563456.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3680839-024/70/",
+      "price": 800,
+      "priceWithFee": null,
+      "transactedAt": "2026-03-17 11:34:07",
+      "productCode": "KH125263",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2012年,1盎司,生肖,年澳,澳大,大利,利亚,亚盎,盎司,司生,肖龙,龙彩,彩银,银币,外国/特区"
     },
     {
       "coinName": "2012年1盎司扇形生肖龙银币",

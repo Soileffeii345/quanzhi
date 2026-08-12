@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6759026001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6759026001",
+      "displayBoxCode": "6759026-001",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1983年精制长城币壹圆",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10419103.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6759026-001/",
+      "price": 8800,
+      "priceWithFee": 9504,
+      "transactedAt": "2026-07-29 20:10:45",
+      "productCode": "877235002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/877235002A.jpg",
+      "ocrConfidence": 41,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1983年,年精,精制,制长,长城,城币,币壹,壹圆,评级"
+    }
+  ]
+}

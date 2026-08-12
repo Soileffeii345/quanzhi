@@ -1,0 +1,31 @@
+{
+  "coinName": "民国三十三年中央储备银行贰百圆",
+  "slug": "6164409a",
+  "saleCount": 1,
+  "keywords": "银,历史币,民国,国三,三十,十三,三年,年中,中央,央储,储备,备银,银行,行贰,贰百,百圆",
+  "priceStats": {
+    "low": 430,
+    "high": 430,
+    "avg": 430,
+    "latest": 430
+  },
+  "records": [
+    {
+      "coinName": "民国三十三年中央储备银行贰百圆",
+      "normalizedBoxCode": "1763819039",
+      "displayBoxCode": "1763819-039",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/difangsipiao/10405084.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1763819-039/",
+      "price": 430,
+      "priceWithFee": 477.3,
+      "transactedAt": "2026-08-04 21:21:45",
+      "productCode": "874291040",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国三,三十,十三,三年,年中,中央,央储,储备,备银,银行,行贰,贰百,百圆"
+    }
+  ]
+}

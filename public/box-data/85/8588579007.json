@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8588579007",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8588579007",
+      "displayBoxCode": "8588579-007",
+      "gradingCompany": "NGC",
+      "grade": "PF 68 ULTRA CAMEO",
+      "coinName": "1986年世界野生动物基金会成立25年-熊猫22克精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10432561.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8588579-007/68/",
+      "price": 710,
+      "priceWithFee": 734.85,
+      "transactedAt": "2026-08-03 20:29:45",
+      "productCode": "878833005",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/878833005A.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,1986年,22克,熊猫,年世,世界,界野,野生,生动,动物,物基,基金,金会,会成,成立,立年,年熊,猫克,克精,精制,制银,银币,评级"
+    }
+  ]
+}

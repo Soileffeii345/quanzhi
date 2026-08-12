@@ -1,0 +1,31 @@
+{
+  "coinName": "2013年美国100元美元纸钞",
+  "slug": "767baf9b",
+  "saleCount": 1,
+  "keywords": "钞,2013年,年美,美国,国元,元美,美元,元纸,纸钞,外国/特区",
+  "priceStats": {
+    "low": 830,
+    "high": 830,
+    "avg": 830,
+    "latest": 830
+  },
+  "records": [
+    {
+      "coinName": "2013年美国100元美元纸钞",
+      "normalizedBoxCode": "2343858075",
+      "displayBoxCode": "2343858-075",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10441556.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2343858-075/",
+      "price": 830,
+      "priceWithFee": 921.3,
+      "transactedAt": "2026-08-04 22:06:25",
+      "productCode": "880033006",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,2013年,年美,美国,国元,元美,美元,元纸,纸钞,外国/特区"
+    }
+  ]
+}

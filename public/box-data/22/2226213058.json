@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2226213058",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2226213058",
+      "displayBoxCode": "2226213-058",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1953年第二套人民币分币八连体",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/504900.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2226213-058/",
+      "price": 3900,
+      "priceWithFee": null,
+      "transactedAt": "2025-10-22 21:39:23",
+      "productCode": "KH088187",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20251012/large_sell_seqbjdiso24erfn2.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1953年,年第,第二,二套,套人,人民,民币,币分,分币,币八,八连,连体"
+    }
+  ]
+}

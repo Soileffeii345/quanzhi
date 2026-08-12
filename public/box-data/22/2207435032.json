@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2207435032",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2207435032",
+      "displayBoxCode": "2207435-032",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "民国三十七年中州农民银行拾圆票样",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jiefangquzhichao/10389436.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2207435-032/",
+      "price": 5900,
+      "priceWithFee": 6549,
+      "transactedAt": "2026-07-30 19:34:10",
+      "productCode": "873439019",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/27/873439019B.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,钞,历史币,民国,国三,三十,十七,七年,年中,中州,州农,农民,民银,银行,行拾,拾圆,圆票,票样"
+    }
+  ]
+}

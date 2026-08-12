@@ -1,0 +1,31 @@
+{
+  "coinName": "1993年毛泽东27克精制银币",
+  "slug": "1d304ffe",
+  "saleCount": 1,
+  "keywords": "银,币,1993年,27克,年毛,毛泽,泽东,东诞,诞辰,辰周,周年,年克,克精,精制,制银,银币,评级",
+  "priceStats": {
+    "low": 3900,
+    "high": 3900,
+    "avg": 3900,
+    "latest": 3900
+  },
+  "records": [
+    {
+      "coinName": "1993年毛泽东诞辰100周年27克精制银币",
+      "normalizedBoxCode": "6427589052",
+      "displayBoxCode": "6427589-052",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10448616.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6427589-052/",
+      "price": 3900,
+      "priceWithFee": 4036.5,
+      "transactedAt": "2026-08-10 20:53:10",
+      "productCode": "880987001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1993年,27克,年毛,毛泽,泽东,东诞,诞辰,辰周,周年,年克,克精,精制,制银,银币,评级"
+    }
+  ]
+}

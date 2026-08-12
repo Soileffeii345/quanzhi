@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2344452048",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2344452048",
+      "displayBoxCode": "2344452-048",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2024年贺岁龙年纪念钞",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/477917.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2344452-048/",
+      "price": 400,
+      "priceWithFee": null,
+      "transactedAt": "2025-05-17 20:15:20",
+      "productCode": "KH066661",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250517/large_sell_ysb7w4rfqvk5lodn.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,2024年,生肖,吉祥文化,年贺,贺岁,岁龙,龙年,年纪,纪念,念钞"
+    }
+  ]
+}

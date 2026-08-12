@@ -1,12 +1,12 @@
 {
   "coinName": "1984年3盎司精制金币",
   "slug": "25219972",
-  "saleCount": 2,
+  "saleCount": 3,
   "keywords": "金,币,1984年,3盎司,年中,中国,国杰,杰出,出历,历史,史人,人物,物第,第组,组秦,秦始,始皇,皇盎,盎司,司精,精制,制金,金币,评级",
   "priceStats": {
     "low": 9900,
     "high": 10200,
-    "avg": 10050,
+    "avg": 10100,
     "latest": 10200
   },
   "records": [
@@ -23,6 +23,23 @@
       "priceWithFee": 10557,
       "transactedAt": "2026-08-06 20:29:15",
       "productCode": "879629006",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1984年,3盎司,年中,中国,国杰,杰出,出历,历史,史人,人物,物第,第组,组秦,秦始,始皇,皇盎,盎司,司精,精制,制金,金币,评级"
+    },
+    {
+      "coinName": "1984年中国杰出历史人物第（1）组-秦始皇1/3盎司精制金币",
+      "normalizedBoxCode": "8587808003",
+      "displayBoxCode": "8587808-003",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10433928.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8587808-003/69/",
+      "price": 10200,
+      "priceWithFee": 10557,
+      "transactedAt": "2026-07-30 21:22:05",
+      "productCode": "878995008",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "金,币,1984年,3盎司,年中,中国,国杰,杰出,出历,历史,史人,人物,物第,第组,组秦,秦始,始皇,皇盎,盎司,司精,精制,制金,金币,评级"

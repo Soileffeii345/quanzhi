@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8816705003",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8816705003",
+      "displayBoxCode": "8816705-003",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1996年长江三峡2盎司长方形精制银币四枚一套",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10408874.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8816705-003/69/",
+      "price": 5300,
+      "priceWithFee": 5485.5,
+      "transactedAt": "2026-07-30 20:02:05",
+      "productCode": "876064003",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/876064003A.jpg",
+      "ocrConfidence": 44,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1996年,2盎司,年长,长江,江三,三峡,峡盎,盎司,司长,长方,方形,形精,精制,制银,银币,币四,四枚,枚一,一套,评级"
+    }
+  ]
+}

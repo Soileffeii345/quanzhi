@@ -1,12 +1,12 @@
 {
   "coinName": "2021年银币",
   "slug": "7e1fe1cb",
-  "saleCount": 3,
-  "keywords": "银,币,2021年,年中,中国,国银,银行,行港,港币,币元,铜,章,年老,老子,子牛,牛镀,镀银,银铜,铜章",
+  "saleCount": 4,
+  "keywords": "银,币,2021年,年中,中国,国银,银行,行港,港币,币元,年法,法国,国博,博物,物馆,馆藏,藏画,画记,记忆,忆的,的永,永恒,恒银,银币,外国/特区,铜,章,年老,老子,子牛,牛镀,镀银,银铜,铜章",
   "priceStats": {
     "low": 100,
-    "high": 160,
-    "avg": 123,
+    "high": 1100,
+    "avg": 368,
     "latest": 100
   },
   "records": [
@@ -43,6 +43,23 @@
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "银,币,2021年,年中,中国,国银,银行,行港,港币,币元"
+    },
+    {
+      "coinName": "2021年法国博物馆藏画记忆的永恒银币",
+      "normalizedBoxCode": "6334363001",
+      "displayBoxCode": "6334363-001",
+      "gradingCompany": "NGC",
+      "grade": "PF70",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/556992.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6334363-001/70/",
+      "price": 1100,
+      "priceWithFee": null,
+      "transactedAt": "2026-04-29 21:11:15",
+      "productCode": "KH126116",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2021年,年法,法国,国博,博物,物馆,馆藏,藏画,画记,记忆,忆的,的永,永恒,恒银,银币,外国/特区"
     },
     {
       "coinName": "2021年老子&amp;牛&quot;镀银&quot;铜章",

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2160339003",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2160339003",
+      "displayBoxCode": "2160339-003",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1949年中央银行金圆券伍拾万圆",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10415832.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2160339-003/",
+      "price": 4600,
+      "priceWithFee": 5106,
+      "transactedAt": "2026-08-06 20:03:55",
+      "productCode": "876935005",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/876935005B.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,1949年,年中,中央,央银,银行,行金,金圆,圆券,券伍,伍拾,拾万,万圆"
+    }
+  ]
+}

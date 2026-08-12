@@ -1,0 +1,31 @@
+{
+  "coinName": "民国三十八年中央银行银元券重庆地名伍圆",
+  "slug": "5b372fad",
+  "saleCount": 1,
+  "keywords": "银,历史币,民国,国三,三十,十八,八年,年中,中央,央银,银行,行银,银元,元券,券重,重庆,庆地,地名,名伍,伍圆",
+  "priceStats": {
+    "low": 720,
+    "high": 720,
+    "avg": 720,
+    "latest": 720
+  },
+  "records": [
+    {
+      "coinName": "民国三十八年中央银行银元券重庆地名伍圆",
+      "normalizedBoxCode": "2439580009",
+      "displayBoxCode": "2439580-009",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10389435.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2439580-009/",
+      "price": 720,
+      "priceWithFee": 799.2,
+      "transactedAt": "2026-07-30 20:02:10",
+      "productCode": "873439018",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国三,三十,十八,八年,年中,中央,央银,银行,行银,银元,元券,券重,重庆,庆地,地名,名伍,伍圆"
+    }
+  ]
+}

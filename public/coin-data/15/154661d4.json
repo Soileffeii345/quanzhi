@@ -1,15 +1,32 @@
 {
   "coinName": "2026年熊猫100克普制铂金币",
   "slug": "154661d4",
-  "saleCount": 2,
+  "saleCount": 3,
   "keywords": "金,贵金属,币,2026年,100克,熊猫,年熊,猫克,克普,普制,制铂,铂金,金币",
   "priceStats": {
-    "low": 54000,
+    "low": 51000,
     "high": 57000,
-    "avg": 55500,
-    "latest": 54000
+    "avg": 54000,
+    "latest": 51000
   },
   "records": [
+    {
+      "coinName": "2026年熊猫100克普制铂金币",
+      "normalizedBoxCode": "8656859002",
+      "displayBoxCode": "8656859-002",
+      "gradingCompany": "NGC",
+      "grade": "MS 70",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-nianjiyihou/10430366.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8656859-002/70/",
+      "price": 51000,
+      "priceWithFee": 52785,
+      "transactedAt": "2026-07-30 21:12:45",
+      "productCode": "878516002",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,贵金属,币,2026年,100克,熊猫,年熊,猫克,克普,普制,制铂,铂金,金币"
+    },
     {
       "coinName": "2026年熊猫100克普制铂金币",
       "normalizedBoxCode": "8768350001",

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "7015463044",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "7015463044",
+      "displayBoxCode": "7015463-044",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "第三版人民币5元",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/disanbanrenminbi/10428621.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/7015463-044/",
+      "price": 640,
+      "priceWithFee": 691.2,
+      "transactedAt": "2026-07-31 20:28:30",
+      "productCode": "878293001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/878293001B.jpg",
+      "ocrConfidence": 25,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,第三,三版,版人,人民,民币,币元"
+    }
+  ]
+}

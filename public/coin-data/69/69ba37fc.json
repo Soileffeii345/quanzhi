@@ -1,0 +1,31 @@
+{
+  "coinName": "清-雍正通宝宝巩",
+  "slug": "69ba37fc",
+  "saleCount": 1,
+  "keywords": "清雍,雍正,正通,通宝,宝宝,宝巩",
+  "priceStats": {
+    "low": 450,
+    "high": 450,
+    "avg": 450,
+    "latest": 450
+  },
+  "records": [
+    {
+      "coinName": "清-雍正通宝宝巩",
+      "normalizedBoxCode": "1120180802",
+      "displayBoxCode": "1120180-802",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/guqian/10412214.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1120180-802/",
+      "price": 450,
+      "priceWithFee": 495,
+      "transactedAt": "2026-08-10 21:06:05",
+      "productCode": "876352015",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "清雍,雍正,正通,通宝,宝宝,宝巩"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "coinName": "2025年精制金银币",
+  "slug": "40204cbe",
+  "saleCount": 1,
+  "keywords": "金,银,币,2025年,8克,年中,中国,国人,人民,民抗,抗日,日战,战争,争暨,暨世,世界,界反,反法,法西,西斯,斯战,争胜,胜利,利周,周年,年精,精制,制金,金银,银币,币二,二枚,枚一,一套,套含,含克,克金,金克,克银,评级",
+  "priceStats": {
+    "low": 9000,
+    "high": 9000,
+    "avg": 9000,
+    "latest": 9000
+  },
+  "records": [
+    {
+      "coinName": "2025年中国人民抗日战争暨世界反法西斯战争胜利80周年精制金银币二枚一套（含8克金、30克银）",
+      "normalizedBoxCode": "8659315004",
+      "displayBoxCode": "8659315-004",
+      "gradingCompany": "NGC",
+      "grade": "PF70 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10426954.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8659315-004/70/",
+      "price": 9000,
+      "priceWithFee": 9315,
+      "transactedAt": "2026-07-30 21:53:25",
+      "productCode": "878021001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,2025年,8克,年中,中国,国人,人民,民抗,抗日,日战,战争,争暨,暨世,世界,界反,反法,法西,西斯,斯战,争胜,胜利,利周,周年,年精,精制,制金,金银,银币,币二,二枚,枚一,一套,套含,含克,克金,金克,克银,评级"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8821701001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8821701001",
+      "displayBoxCode": "8821701-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2003年中国古典文学名著《红楼梦》第（3）组-黛玉夺魁1/2盎司八边形精制彩金币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10429922.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8821701-001/70/",
+      "price": 36500,
+      "priceWithFee": 37777.5,
+      "transactedAt": "2026-07-30 20:35:25",
+      "productCode": "878494003",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/878494003A.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2003年,2盎司,年中,中国,国古,古典,典文,文学,学名,名著,著红,红楼,楼梦,梦第,第组,组黛,黛玉,玉夺,夺魁,魁盎,盎司,司八,八边,边形,形精,精制,制彩,彩金,金币,评级"
+    }
+  ]
+}

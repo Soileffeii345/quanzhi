@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2342083038",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2342083038",
+      "displayBoxCode": "2342083-038",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2025年贺岁蛇年纪念钞",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/527559.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2342083-038/",
+      "price": 280,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-05 08:28:45",
+      "productCode": "KH101292",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260104/large_sell_ccwjviziyumriae3.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,2025年,生肖,吉祥文化,年贺,贺岁,岁蛇,蛇年,年纪,纪念,念钞"
+    }
+  ]
+}

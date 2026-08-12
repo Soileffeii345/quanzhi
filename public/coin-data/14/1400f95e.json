@@ -1,15 +1,49 @@
 {
   "coinName": "2024年生肖150克精制银币",
   "slug": "1400f95e",
-  "saleCount": 4,
+  "saleCount": 6,
   "keywords": "银,币,2024年,150克,生肖,年甲,甲辰,辰龙,龙年,年生,肖克,克精,精制,制银,银币,评级",
   "priceStats": {
     "low": 6100,
     "high": 13200,
-    "avg": 9925,
-    "latest": 13200
+    "avg": 10417,
+    "latest": 10000
   },
   "records": [
+    {
+      "coinName": "2024年甲辰龙年生肖150克精制银币",
+      "normalizedBoxCode": "2024021800",
+      "displayBoxCode": "2024021-800",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10443541.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2024021-800/",
+      "price": 10000,
+      "priceWithFee": 10350,
+      "transactedAt": "2026-08-03 22:09:20",
+      "productCode": "880415004",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2024年,150克,生肖,年甲,甲辰,辰龙,龙年,年生,肖克,克精,精制,制银,银币,评级"
+    },
+    {
+      "coinName": "2024年甲辰龙年生肖150克精制银币",
+      "normalizedBoxCode": "6733813001",
+      "displayBoxCode": "6733813-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10443540.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6733813-001/70/",
+      "price": 12800,
+      "priceWithFee": 13248,
+      "transactedAt": "2026-08-03 22:08:30",
+      "productCode": "880415003",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2024年,150克,生肖,年甲,甲辰,辰龙,龙年,年生,肖克,克精,精制,制银,银币,评级"
+    },
     {
       "coinName": "2024年甲辰龙年生肖150克精制银币",
       "normalizedBoxCode": "6753815001",

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8817040064",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8817040064",
+      "displayBoxCode": "8817040-064",
+      "gradingCompany": "NGC",
+      "grade": "PF70",
+      "coinName": "2026年水月观音紫铜章",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/tongzhang/10431495.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8817040-064/70/",
+      "price": 190,
+      "priceWithFee": 210.9,
+      "transactedAt": "2026-07-31 19:20:10",
+      "productCode": "878709007",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/878709007A.jpg",
+      "ocrConfidence": 31,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "铜,章,2026年,宗教,年水,水月,月观,观音,音紫,紫铜,铜章"
+    }
+  ]
+}

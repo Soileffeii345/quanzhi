@@ -1,0 +1,31 @@
+{
+  "coinName": "1998年2盎司精制银币",
+  "slug": "63e0e6b7",
+  "saleCount": 1,
+  "keywords": "银,币,1998年,2盎司,年桂,桂林,林山,山水,水盎,盎司,司长,长方,方形,形精,精制,制银,银币,币四,四枚,枚一,一套,评级",
+  "priceStats": {
+    "low": 7500,
+    "high": 7500,
+    "avg": 7500,
+    "latest": 7500
+  },
+  "records": [
+    {
+      "coinName": "1998年桂林山水2盎司长方形精制银币四枚一套",
+      "normalizedBoxCode": "6149392001",
+      "displayBoxCode": "6149392-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10435026.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6149392-001/69/",
+      "price": 7500,
+      "priceWithFee": 7762.5,
+      "transactedAt": "2026-07-30 19:40:05",
+      "productCode": "879280002",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1998年,2盎司,年桂,桂林,林山,山水,水盎,盎司,司长,长方,方形,形精,精制,制银,银币,币四,四枚,枚一,一套,评级"
+    }
+  ]
+}

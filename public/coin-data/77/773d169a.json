@@ -1,0 +1,31 @@
+{
+  "coinName": "民国三十六年北海银行山东地名伍佰圆票样",
+  "slug": "773d169a",
+  "saleCount": 1,
+  "keywords": "银,钞,历史币,民国,国三,三十,十六,六年,年北,北海,海银,银行,行山,山东,东地,地名,名伍,伍佰,佰圆,圆票,票样",
+  "priceStats": {
+    "low": 6700,
+    "high": 6700,
+    "avg": 6700,
+    "latest": 6700
+  },
+  "records": [
+    {
+      "coinName": "民国三十六年北海银行山东地名伍佰圆票样",
+      "normalizedBoxCode": "2332229021",
+      "displayBoxCode": "2332229-021",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jiefangquzhichao/10400473.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2332229-021/",
+      "price": 6700,
+      "priceWithFee": 7437,
+      "transactedAt": "2026-07-30 22:01:10",
+      "productCode": "874970008",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,钞,历史币,民国,国三,三十,十六,六年,年北,北海,海银,银行,行山,山东,东地,地名,名伍,伍佰,佰圆,圆票,票样"
+    }
+  ]
+}

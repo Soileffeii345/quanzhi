@@ -1,15 +1,32 @@
 {
   "coinName": "2008年31.104克精制银币",
   "slug": "2c885320",
-  "saleCount": 2,
+  "saleCount": 3,
   "keywords": "银,币,2008年,1盎司,年海,海南,南经,经济,济特,特区,区成,成立,立周,周年,年盎,盎司,司精,精制,制彩,彩银,银币,评级,年第,第届,届奥,奥林,林匹,匹克,克运,运动,动会,会第,第组,组儿,儿童,童滚,滚铁,铁圈,圈盎",
   "priceStats": {
     "low": 510,
     "high": 700,
-    "avg": 605,
-    "latest": 700
+    "avg": 620,
+    "latest": 650
   },
   "records": [
+    {
+      "coinName": "2008年海南经济特区成立20周年1盎司精制彩银币",
+      "normalizedBoxCode": "8765513026",
+      "displayBoxCode": "8765513-026",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10424312.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8765513-026/",
+      "price": 650,
+      "priceWithFee": 672.75,
+      "transactedAt": "2026-08-03 20:17:40",
+      "productCode": "877959020",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2008年,1盎司,年海,海南,南经,经济,济特,特区,区成,成立,立周,周年,年盎,盎司,司精,精制,制彩,彩银,银币,评级"
+    },
     {
       "coinName": "2008年海南经济特区成立20周年1盎司精制彩银币",
       "normalizedBoxCode": "8765513025",

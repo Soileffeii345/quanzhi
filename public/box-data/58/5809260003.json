@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "5809260003",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "5809260003",
+      "displayBoxCode": "5809260-003",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2006年北京银行成立10周年熊猫加字1盎司普制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10439461.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/5809260-003/",
+      "price": 610,
+      "priceWithFee": 631.35,
+      "transactedAt": "2026-08-03 19:42:15",
+      "productCode": "879759001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/31/879759001A.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2006年,1盎司,熊猫,年北,北京,京银,银行,行成,成立,立周,周年,年熊,猫加,加字,字盎,盎司,司普,普制,制银,银币"
+    }
+  ]
+}

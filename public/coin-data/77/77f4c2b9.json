@@ -1,0 +1,31 @@
+{
+  "coinName": "民国五年湖南实业银行长沙地名铜元壹百枚",
+  "slug": "77f4c2b9",
+  "saleCount": 1,
+  "keywords": "银,铜,历史币,民国,国五,五年,年湖,湖南,南实,实业,业银,银行,行长,长沙,沙地,地名,名铜,铜元,元壹,壹百,百枚",
+  "priceStats": {
+    "low": 1280,
+    "high": 1280,
+    "avg": 1280,
+    "latest": 1280
+  },
+  "records": [
+    {
+      "coinName": "民国五年湖南实业银行长沙地名铜元壹百枚",
+      "normalizedBoxCode": "2403665015",
+      "displayBoxCode": "2403665-015",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/minguoshengshigejiyinhangzhichao/10403521.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2403665-015/",
+      "price": 1280,
+      "priceWithFee": 1420.8,
+      "transactedAt": "2026-07-30 22:18:10",
+      "productCode": "874940026",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,铜,历史币,民国,国五,五年,年湖,湖南,南实,实业,业银,银行,行长,长沙,沙地,地名,名铜,铜元,元壹,壹百,百枚"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6197853001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6197853001",
+      "displayBoxCode": "6197853-001",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "coinName": "2020年英国詹姆斯邦德007银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/304456.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6197853-001/69/",
+      "price": 680,
+      "priceWithFee": null,
+      "transactedAt": "2026-04-25 11:18:28",
+      "productCode": "KH131812",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20220917/large_sell_kjkihdigdojhandv.jpg",
+      "ocrConfidence": 55,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2020年,年英,英国,国詹,詹姆,姆斯,斯邦,邦德,德银,银币,外国/特区"
+    }
+  ]
+}

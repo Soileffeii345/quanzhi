@@ -1,12 +1,12 @@
 {
   "coinName": "浙江省造光绪元宝当十铜币",
   "slug": "09f0e8c2",
-  "saleCount": 1,
+  "saleCount": 2,
   "keywords": "铜,币,历史币,龙洋,龙,元宝,浙江,江省,省造,造光,光绪,绪元,宝当,当十,十铜,铜币",
   "priceStats": {
     "low": 310,
-    "high": 310,
-    "avg": 310,
+    "high": 330,
+    "avg": 320,
     "latest": 310
   },
   "records": [
@@ -23,6 +23,23 @@
       "priceWithFee": 334.8,
       "transactedAt": "2026-08-10 19:48:05",
       "productCode": "875427012",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "铜,币,历史币,龙洋,龙,元宝,浙江,江省,省造,造光,光绪,绪元,宝当,当十,十铜,铜币"
+    },
+    {
+      "coinName": "浙江省造光绪元宝当十铜币",
+      "normalizedBoxCode": "8647027038",
+      "displayBoxCode": "8647027-038",
+      "gradingCompany": "NGC",
+      "grade": "XF 45",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguojindaijizhibi/10403173.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8647027-038/45/",
+      "price": 330,
+      "priceWithFee": 356.4,
+      "transactedAt": "2026-08-03 20:31:35",
+      "productCode": "875425011",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "铜,币,历史币,龙洋,龙,元宝,浙江,江省,省造,造光,光绪,绪元,宝当,当十,十铜,铜币"

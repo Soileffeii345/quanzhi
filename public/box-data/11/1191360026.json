@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "1191360026",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "1191360026",
+      "displayBoxCode": "1191360-026",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "第二版人民币民族大团结黄5元五星水印",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/dierbanrenminbi/10424815.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1191360-026/",
+      "price": 3800,
+      "priceWithFee": 4104,
+      "transactedAt": "2026-07-30 20:28:10",
+      "productCode": "877740002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/877740002B.jpg",
+      "ocrConfidence": 27,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,第二,二版,版人,人民,民币,币民,民族,族大,大团,团结,结黄,黄元,元五,五星,星水,水印"
+    }
+  ]
+}

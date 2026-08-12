@@ -1,0 +1,48 @@
+{
+  "coinName": "1991年孙中山31.104克精制金币",
+  "slug": "229e27bc",
+  "saleCount": 2,
+  "keywords": "金,币,1991年,1盎司,孙小头,孙中山,小头,年辛,辛亥,亥革,革命,命周,周年,年孙,孙中,中山,山元,元帅,帅服,服像,像盎,盎司,司精,精制,制金,金币,评级",
+  "priceStats": {
+    "low": 66000,
+    "high": 67000,
+    "avg": 66500,
+    "latest": 67000
+  },
+  "records": [
+    {
+      "coinName": "1991年辛亥革命80周年-孙中山元帅服像1盎司精制金币",
+      "normalizedBoxCode": "8500444007",
+      "displayBoxCode": "8500444-007",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10427004.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8500444-007/69/",
+      "price": 67000,
+      "priceWithFee": 69345,
+      "transactedAt": "2026-07-30 21:12:05",
+      "productCode": "878107009",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1991年,1盎司,孙小头,孙中山,小头,年辛,辛亥,亥革,革命,命周,周年,年孙,孙中,中山,山元,元帅,帅服,服像,像盎,盎司,司精,精制,制金,金币,评级"
+    },
+    {
+      "coinName": "1991年辛亥革命80周年-孙中山元帅服像1盎司精制金币",
+      "normalizedBoxCode": "8631388009",
+      "displayBoxCode": "8631388-009",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10431484.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8631388-009/69/",
+      "price": 66000,
+      "priceWithFee": 68310,
+      "transactedAt": "2026-07-30 20:48:05",
+      "productCode": "878713001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1991年,1盎司,孙小头,孙中山,小头,年辛,辛亥,亥革,革命,命周,周年,年孙,孙中,中山,山元,元帅,帅服,服像,像盎,盎司,司精,精制,制金,金币,评级"
+    }
+  ]
+}

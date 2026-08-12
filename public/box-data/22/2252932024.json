@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2252932024",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2252932024",
+      "displayBoxCode": "2252932-024",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "民国十九年热河省兴业银行辅币汇兑券贰角",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shangyeyinhangzhichao/10389426.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2252932-024/",
+      "price": 2900,
+      "priceWithFee": 3219,
+      "transactedAt": "2026-07-30 20:01:10",
+      "productCode": "873439009",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/27/873439009B.jpg",
+      "ocrConfidence": 29,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,历史币,民国,国十,十九,九年,年热,热河,河省,省兴,兴业,业银,银行,行辅,辅币,币汇,汇兑,兑券,券贰,贰角"
+    }
+  ]
+}

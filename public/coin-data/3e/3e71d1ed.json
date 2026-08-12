@@ -1,0 +1,31 @@
+{
+  "coinName": "民国二十五年山东平市官钱总局伍拾枚",
+  "slug": "3e71d1ed",
+  "saleCount": 1,
+  "keywords": "历史币,民国,国二,二十,十五,五年,年山,山东,东平,平市,市官,官钱,钱总,总局,局伍,伍拾,拾枚",
+  "priceStats": {
+    "low": 7000,
+    "high": 7000,
+    "avg": 7000,
+    "latest": 7000
+  },
+  "records": [
+    {
+      "coinName": "民国二十五年山东平市官钱总局伍拾枚",
+      "normalizedBoxCode": "7001844009",
+      "displayBoxCode": "7001844-009",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/minguoshengshigejiyinhangzhichao/10384454.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/7001844-009/",
+      "price": 7000,
+      "priceWithFee": 7770,
+      "transactedAt": "2026-07-30 20:06:10",
+      "productCode": "873384001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "历史币,民国,国二,二十,十五,五年,年山,山东,东平,平市,市官,官钱,钱总,总局,局伍,伍拾,拾枚"
+    }
+  ]
+}

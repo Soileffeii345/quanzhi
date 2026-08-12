@@ -1,0 +1,31 @@
+{
+  "coinName": "民国十八年广西省银行梧州地名壹圆",
+  "slug": "06adfdeb",
+  "saleCount": 1,
+  "keywords": "银,历史币,民国,国十,十八,八年,年广,广西,西省,省银,银行,行梧,梧州,州地,地名,名壹,壹圆",
+  "priceStats": {
+    "low": 6400,
+    "high": 6400,
+    "avg": 6400,
+    "latest": 6400
+  },
+  "records": [
+    {
+      "coinName": "民国十八年广西省银行梧州地名壹圆",
+      "normalizedBoxCode": "2064329054",
+      "displayBoxCode": "2064329-054",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/minguoshengshigejiyinhangzhichao/10387082.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2064329-054/",
+      "price": 6400,
+      "priceWithFee": 7104,
+      "transactedAt": "2026-07-30 19:55:40",
+      "productCode": "873442003",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国十,十八,八年,年广,广西,西省,省银,银行,行梧,梧州,州地,地名,名壹,壹圆"
+    }
+  ]
+}

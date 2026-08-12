@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8823216045",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8823216045",
+      "displayBoxCode": "8823216-045",
+      "gradingCompany": "NGC",
+      "grade": "PF 68 ULTRA CAMEO",
+      "coinName": "2012年壬辰龙年生肖精制流通纪念币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10431618.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8823216-045/68/",
+      "price": 500,
+      "priceWithFee": 540,
+      "transactedAt": "2026-07-29 20:44:05",
+      "productCode": "878686011",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/878686011A.jpg",
+      "ocrConfidence": 45,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2012年,生肖,年壬,壬辰,辰龙,龙年,年生,肖精,精制,制流,流通,通纪,纪念,念币,评级"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2434323023",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2434323023",
+      "displayBoxCode": "2434323-023",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1932年中华苏维埃共和国国家银行壹角",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jiefangquzhichao/10403511.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2434323-023/",
+      "price": 3100,
+      "priceWithFee": 3441,
+      "transactedAt": "2026-07-30 22:16:40",
+      "productCode": "874940016",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/874940016B.jpg",
+      "ocrConfidence": 30,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,1932年,历史币,苏区,年中,中华,华苏,苏维,维埃,埃共,共和,和国,国国,国家,家银,银行,行壹,壹角"
+    }
+  ]
+}

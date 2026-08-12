@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8765667036",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8765667036",
+      "displayBoxCode": "8765667-036",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1993年熊猫1盎司精制银币（P版）",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-jiuyin/10443202.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8765667-036/",
+      "price": 1560,
+      "priceWithFee": 1614.6,
+      "transactedAt": "2026-08-03 21:58:05",
+      "productCode": "880261010",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/31/880261010A.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1993年,1盎司,熊猫,年熊,猫盎,盎司,司精,精制,制银,银币,币版,评级"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "coinName": "1999年生肖3.11克普制金币",
+  "slug": "2dcdbbb2",
+  "saleCount": 1,
+  "keywords": "金,币,1999年,10盎司,生肖,年己,己卯,卯兔,兔年,年生,肖盎,盎司,司普,普制,制金,金币",
+  "priceStats": {
+    "low": 3450,
+    "high": 3450,
+    "avg": 3450,
+    "latest": 3450
+  },
+  "records": [
+    {
+      "coinName": "1999年己卯兔年生肖1/10盎司普制金币",
+      "normalizedBoxCode": "8183183006",
+      "displayBoxCode": "8183183-006",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-jin/10430045.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8183183-006/69/",
+      "price": 3450,
+      "priceWithFee": 3570.75,
+      "transactedAt": "2026-07-30 21:17:25",
+      "productCode": "878535005",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1999年,10盎司,生肖,年己,己卯,卯兔,兔年,年生,肖盎,盎司,司普,普制,制金,金币"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "9005000009",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "9005000009",
+      "displayBoxCode": "9005000-009",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2011年澳大利亚兔年生肖1/2公斤银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/wgjsbizhang/10449257.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/9005000-009/",
+      "price": 7800,
+      "priceWithFee": 8268,
+      "transactedAt": "2026-08-07 19:51:45",
+      "productCode": "881125002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/32/881125002B.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2011年,2公斤,生肖,年澳,澳大,大利,利亚,亚兔,兔年,年生,肖公,公斤,斤银,银币,外国/特区"
+    }
+  ]
+}

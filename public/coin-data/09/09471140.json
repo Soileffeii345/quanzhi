@@ -1,15 +1,49 @@
 {
   "coinName": "民国三十六年东北银行地方流通券伍拾圆",
   "slug": "09471140",
-  "saleCount": 2,
+  "saleCount": 4,
   "keywords": "银,历史币,民国,国三,三十,十六,六年,年东,东北,北银,银行,行地,地方,方流,流通,通券,券伍,伍拾,拾圆",
   "priceStats": {
     "low": 160,
-    "high": 1380,
-    "avg": 770,
-    "latest": 1380
+    "high": 1680,
+    "avg": 1060,
+    "latest": 1680
   },
   "records": [
+    {
+      "coinName": "民国三十六年东北银行地方流通券伍拾圆",
+      "normalizedBoxCode": "2434182037",
+      "displayBoxCode": "2434182-037",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jiefangquzhichao/10403969.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2434182-037/",
+      "price": 1680,
+      "priceWithFee": 1864.8,
+      "transactedAt": "2026-07-30 21:43:40",
+      "productCode": "874941006",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国三,三十,十六,六年,年东,东北,北银,银行,行地,地方,方流,流通,通券,券伍,伍拾,拾圆"
+    },
+    {
+      "coinName": "民国三十六年东北银行地方流通券伍拾圆",
+      "normalizedBoxCode": "2258361033",
+      "displayBoxCode": "2258361-033",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jiefangquzhichao/10403995.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2258361-033/",
+      "price": 1020,
+      "priceWithFee": 1132.2,
+      "transactedAt": "2026-07-30 21:18:10",
+      "productCode": "874941032",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国三,三十,十六,六年,年东,东北,北银,银行,行地,地方,方流,流通,通券,券伍,伍拾,拾圆"
+    },
     {
       "coinName": "民国三十六年东北银行地方流通券伍拾圆",
       "normalizedBoxCode": "2434182026",

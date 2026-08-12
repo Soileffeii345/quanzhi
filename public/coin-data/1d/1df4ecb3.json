@@ -1,0 +1,31 @@
+{
+  "coinName": "1999年印度尼西亚硬币",
+  "slug": "1df4ecb3",
+  "saleCount": 1,
+  "keywords": "币,1999年,年印,印度,度尼,尼西,西亚,亚硬,硬币",
+  "priceStats": {
+    "low": 430,
+    "high": 430,
+    "avg": 430,
+    "latest": 430
+  },
+  "records": [
+    {
+      "coinName": "1999年印度尼西亚硬币",
+      "normalizedBoxCode": "8240400002",
+      "displayBoxCode": "8240400-002",
+      "gradingCompany": "NGC",
+      "grade": "AU 58",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianbi/10430024.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8240400-002/58/",
+      "price": 430,
+      "priceWithFee": 477.3,
+      "transactedAt": "2026-07-31 19:30:55",
+      "productCode": "878543001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1999年,年印,印度,度尼,尼西,西亚,亚硬,硬币"
+    }
+  ]
+}

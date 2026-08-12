@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2435426011",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2435426011",
+      "displayBoxCode": "2435426-011",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "民国十八年东三省官银号伍圆正反面票样各一枚",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/minguoshengshigejiyinhangzhichao/10397085.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2435426-011/",
+      "price": 4500,
+      "priceWithFee": 4995,
+      "transactedAt": "2026-08-06 21:47:40",
+      "productCode": "874270004",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/874270004B.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,钞,历史币,民国,国十,十八,八年,年东,东三,三省,省官,官银,银号,号伍,伍圆,圆正,正反,反面,面票,票样,样各,各一,一枚"
+    }
+  ]
+}

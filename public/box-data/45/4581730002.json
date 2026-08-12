@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4581730002",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4581730002",
+      "displayBoxCode": "4581730-002",
+      "gradingCompany": "NGC",
+      "grade": "PF67 ULTRA CAMEO",
+      "coinName": "2014年甲午马年生肖精制流通纪念币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10425123.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4581730-002/67/",
+      "price": 80,
+      "priceWithFee": 86.4,
+      "transactedAt": "2026-07-29 19:22:45",
+      "productCode": "877935001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/877935001A.jpg",
+      "ocrConfidence": 32,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2014年,生肖,年甲,甲午,午马,马年,年生,肖精,精制,制流,流通,通纪,纪念,念币,评级"
+    }
+  ]
+}

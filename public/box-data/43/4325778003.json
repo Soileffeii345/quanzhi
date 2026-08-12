@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4325778003",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4325778003",
+      "displayBoxCode": "4325778-003",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2002年加拿大全息幻彩生肖马金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/554141.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4325778-003/69/",
+      "price": 11600,
+      "priceWithFee": null,
+      "transactedAt": "2026-02-25 19:15:01",
+      "productCode": "KH120170",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260210/large_sell_fotvl8h6zg7jtb4w.jpg",
+      "ocrConfidence": 47,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2002年,生肖,年加,加拿,拿大,大全,全息,息幻,幻彩,彩生,肖马,马金,金币,外国/特区"
+    }
+  ]
+}

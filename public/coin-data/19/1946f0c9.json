@@ -1,0 +1,31 @@
+{
+  "coinName": "清代37.6克银锭",
+  "slug": "1946f0c9",
+  "saleCount": 1,
+  "keywords": "银,37.6克,清代,代克,克银,银锭",
+  "priceStats": {
+    "low": 1220,
+    "high": 1220,
+    "avg": 1220,
+    "latest": 1220
+  },
+  "records": [
+    {
+      "coinName": "清代37.6克银锭",
+      "normalizedBoxCode": "1610090844",
+      "displayBoxCode": "1610090-844",
+      "gradingCompany": "NGC",
+      "grade": "MS 62",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/yinding/10398740.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1610090-844/62/",
+      "price": 1220,
+      "priceWithFee": 1354.2,
+      "transactedAt": "2026-08-03 21:39:05",
+      "productCode": "874881001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,37.6克,清代,代克,克银,银锭"
+    }
+  ]
+}

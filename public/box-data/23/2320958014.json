@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2320958014",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2320958014",
+      "displayBoxCode": "2320958-014",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2015年英国塑料钞",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10441555.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2320958-014/",
+      "price": 160,
+      "priceWithFee": 177.6,
+      "transactedAt": "2026-08-04 22:21:05",
+      "productCode": "880033005",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/31/880033005B.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,2015年,年英,英国,国塑,塑料,料钞,外国/特区"
+    }
+  ]
+}

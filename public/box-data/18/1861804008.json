@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "1861804008",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "1861804008",
+      "displayBoxCode": "1861804-008",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2018年人民币发行70周年纪念钞50元",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/liantichao-jinianchao/10438204.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1861804-008/",
+      "price": 460,
+      "priceWithFee": 496.8,
+      "transactedAt": "2026-08-01 19:42:45",
+      "productCode": "879040002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/31/879040002B.jpg",
+      "ocrConfidence": 29,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,钞,2018年,年人,人民,民币,币发,发行,行周,周年,年纪,纪念,念钞,钞元"
+    }
+  ]
+}

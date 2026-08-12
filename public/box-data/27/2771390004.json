@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2771390004",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2771390004",
+      "displayBoxCode": "2771390-004",
+      "gradingCompany": "NGC",
+      "grade": "PF 67 ULTRA CAMEO",
+      "coinName": "1984年第14届冬季奥运会-男子速滑1/2盎司精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10440191.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2771390-004/67/",
+      "price": 450,
+      "priceWithFee": 465.75,
+      "transactedAt": "2026-08-03 21:44:45",
+      "productCode": "879959003",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/31/879959003A.jpg",
+      "ocrConfidence": 39,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1984年,2盎司,奥运,年第,第届,届冬,冬季,季奥,运会,会男,男子,子速,速滑,滑盎,盎司,司精,精制,制银,银币,评级"
+    }
+  ]
+}

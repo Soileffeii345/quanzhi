@@ -1,0 +1,31 @@
+{
+  "coinName": "1995年熊猫7.776克普制金币",
+  "slug": "31169810",
+  "saleCount": 1,
+  "keywords": "金,币,1995年,4盎司,熊猫,年熊,猫盎,盎司,司普,普制,制金,金币,币小,小字,字版",
+  "priceStats": {
+    "low": 35000,
+    "high": 35000,
+    "avg": 35000,
+    "latest": 35000
+  },
+  "records": [
+    {
+      "coinName": "1995年熊猫1/4盎司普制金币（小字版）",
+      "normalizedBoxCode": "8582584029",
+      "displayBoxCode": "8582584-029",
+      "gradingCompany": "NGC",
+      "grade": "Ms69",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-jiujin/10446875.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8582584-029/69/",
+      "price": 35000,
+      "priceWithFee": 36225,
+      "transactedAt": "2026-08-10 22:02:10",
+      "productCode": "880849009",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1995年,4盎司,熊猫,年熊,猫盎,盎司,司普,普制,制金,金币,币小,小字,字版"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "coinName": "明华商业储蓄银行礼券肆圆",
+  "slug": "016d6091",
+  "saleCount": 1,
+  "keywords": "银,明华,华商,商业,业储,储蓄,蓄银,银行,行礼,礼券,券肆,肆圆",
+  "priceStats": {
+    "low": 1080,
+    "high": 1080,
+    "avg": 1080,
+    "latest": 1080
+  },
+  "records": [
+    {
+      "coinName": "明华商业储蓄银行礼券肆圆",
+      "normalizedBoxCode": "2252932101",
+      "displayBoxCode": "2252932-101",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/difangsipiao/10381400.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2252932-101/",
+      "price": 1080,
+      "priceWithFee": 1198.8,
+      "transactedAt": "2026-07-28 21:32:50",
+      "productCode": "872765002",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,明华,华商,商业,业储,储蓄,蓄银,银行,行礼,礼券,券肆,肆圆"
+    }
+  ]
+}

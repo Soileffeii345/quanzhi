@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "1168957753",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "1168957753",
+      "displayBoxCode": "1168957-753",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2022年第24届冬季奥林匹克运动会-冰上运动塑料钞贰拾圆四枚",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/liantichao-jinianchao/10431691.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1168957-753/",
+      "price": 150,
+      "priceWithFee": 162,
+      "transactedAt": "2026-07-30 19:46:10",
+      "productCode": "878711002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/878711002A.jpg",
+      "ocrConfidence": 31,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,2022年,年第,第届,届冬,冬季,季奥,奥林,林匹,匹克,克运,运动,动会,会冰,冰上,上运,动塑,塑料,料钞,钞贰,贰拾,拾圆,圆四,四枚"
+    }
+  ]
+}

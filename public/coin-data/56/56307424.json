@@ -1,0 +1,31 @@
+{
+  "coinName": "中央储备银行壹角",
+  "slug": "56307424",
+  "saleCount": 1,
+  "keywords": "银,中央,央储,储备,备银,银行,行壹,壹角",
+  "priceStats": {
+    "low": 280,
+    "high": 280,
+    "avg": 280,
+    "latest": 280
+  },
+  "records": [
+    {
+      "coinName": "中央储备银行壹角",
+      "normalizedBoxCode": "2487144064",
+      "displayBoxCode": "2487144-064",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/difangsipiao/10399450.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2487144-064/",
+      "price": 280,
+      "priceWithFee": 310.8,
+      "transactedAt": "2026-08-06 21:09:20",
+      "productCode": "874824011",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,中央,央储,储备,备银,银行,行壹,壹角"
+    }
+  ]
+}

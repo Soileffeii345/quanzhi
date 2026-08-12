@@ -1,0 +1,31 @@
+{
+  "coinName": "2001年美国1美元四连体",
+  "slug": "262142ab",
+  "saleCount": 1,
+  "keywords": "2001年,年美,美国,国美,美元,元四,四连,连体,外国/特区",
+  "priceStats": {
+    "low": 220,
+    "high": 220,
+    "avg": 220,
+    "latest": 220
+  },
+  "records": [
+    {
+      "coinName": "2001年美国1美元四连体",
+      "normalizedBoxCode": "9978540847",
+      "displayBoxCode": "9978540-847",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/508536.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/9978540-847/",
+      "price": 220,
+      "priceWithFee": null,
+      "transactedAt": "2025-11-02 19:29:23",
+      "productCode": "ZB015102B",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "2001年,年美,美国,国美,美元,元四,四连,连体,外国/特区"
+    }
+  ]
+}

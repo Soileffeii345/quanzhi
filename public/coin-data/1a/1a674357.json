@@ -1,0 +1,31 @@
+{
+  "coinName": "民国十五年山东省军用票贰角",
+  "slug": "1a674357",
+  "saleCount": 1,
+  "keywords": "钞,历史币,民国,国十,十五,五年,年山,山东,东省,省军,军用,用票,票贰,贰角",
+  "priceStats": {
+    "low": 1820,
+    "high": 1820,
+    "avg": 1820,
+    "latest": 1820
+  },
+  "records": [
+    {
+      "coinName": "民国十五年山东省军用票贰角",
+      "normalizedBoxCode": "2434319006",
+      "displayBoxCode": "2434319-006",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/junyongpiao/10403967.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2434319-006/",
+      "price": 1820,
+      "priceWithFee": 2020.2,
+      "transactedAt": "2026-07-30 22:10:10",
+      "productCode": "874941004",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,历史币,民国,国十,十五,五年,年山,山东,东省,省军,军用,用票,票贰,贰角"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "coinName": "2004年熊猫20盎司普制金币",
+  "slug": "127db392",
+  "saleCount": 1,
+  "keywords": "金,币,2004年,20盎司,熊猫,年熊,猫盎,盎司,司普,普制,制金,金币",
+  "priceStats": {
+    "low": 2250,
+    "high": 2250,
+    "avg": 2250,
+    "latest": 2250
+  },
+  "records": [
+    {
+      "coinName": "2004年熊猫1/20盎司普制金币",
+      "normalizedBoxCode": "8500084145",
+      "displayBoxCode": "8500084-145",
+      "gradingCompany": "NGC",
+      "grade": "Ms70",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-jiujin/10432569.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8500084-145/70/",
+      "price": 2250,
+      "priceWithFee": 2328.75,
+      "transactedAt": "2026-07-30 20:26:45",
+      "productCode": "878833013",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2004年,20盎司,熊猫,年熊,猫盎,盎司,司普,普制,制金,金币"
+    }
+  ]
+}

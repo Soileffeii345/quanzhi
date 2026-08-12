@@ -1,0 +1,31 @@
+{
+  "coinName": "斯里兰卡纸币",
+  "slug": "4a7a9996",
+  "saleCount": 1,
+  "keywords": "币,斯里,里兰,兰卡,卡纸,纸币,币五,五枚",
+  "priceStats": {
+    "low": 310,
+    "high": 310,
+    "avg": 310,
+    "latest": 310
+  },
+  "records": [
+    {
+      "coinName": "斯里兰卡纸币五枚",
+      "normalizedBoxCode": "5762060550",
+      "displayBoxCode": "5762060-550",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10438277.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/5762060-550/",
+      "price": 310,
+      "priceWithFee": 344.1,
+      "transactedAt": "2026-08-04 22:02:45",
+      "productCode": "879041008",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,斯里,里兰,兰卡,卡纸,纸币,币五,五枚"
+    }
+  ]
+}

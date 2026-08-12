@@ -1,0 +1,31 @@
+{
+  "coinName": "民国三十三年中央储备银行壹萬圆",
+  "slug": "6087e611",
+  "saleCount": 1,
+  "keywords": "银,历史币,民国,国三,三十,十三,三年,年中,中央,央储,储备,备银,银行,行壹,壹萬,萬圆",
+  "priceStats": {
+    "low": 440,
+    "high": 440,
+    "avg": 440,
+    "latest": 440
+  },
+  "records": [
+    {
+      "coinName": "民国三十三年中央储备银行壹萬圆",
+      "normalizedBoxCode": "2332094040",
+      "displayBoxCode": "2332094-040",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/difangsipiao/10405087.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2332094-040/",
+      "price": 440,
+      "priceWithFee": 488.4,
+      "transactedAt": "2026-08-04 21:30:45",
+      "productCode": "874291043",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国三,三十,十三,三年,年中,中央,央储,储备,备银,银行,行壹,壹萬,萬圆"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "coinName": "2009年5盎司精制金币",
+  "slug": "1b9d8a25",
+  "saleCount": 1,
+  "keywords": "金,币,2009年,5盎司,年中,中国,国古,古典,典文,文学,学名,名著,著水,水浒,浒传,传第,第组,组智,智取,取生,生辰,辰纲,纲盎,盎司,司长,长方,方形,形精,精制,制彩,彩金,金币,评级",
+  "priceStats": {
+    "low": 147000,
+    "high": 147000,
+    "avg": 147000,
+    "latest": 147000
+  },
+  "records": [
+    {
+      "coinName": "2009年中国古典文学名著《水浒传》第（1）组-智取生辰纲5盎司长方形精制彩金币",
+      "normalizedBoxCode": "8819563001",
+      "displayBoxCode": "8819563-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10412393.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8819563-001/69/",
+      "price": 147000,
+      "priceWithFee": 152145,
+      "transactedAt": "2026-07-30 20:28:05",
+      "productCode": "876501001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2009年,5盎司,年中,中国,国古,古典,典文,文学,学名,名著,著水,水浒,浒传,传第,第组,组智,智取,取生,生辰,辰纲,纲盎,盎司,司长,长方,方形,形精,精制,制彩,彩金,金币,评级"
+    }
+  ]
+}

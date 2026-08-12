@@ -1,12 +1,12 @@
 {
   "coinName": "2009年银币",
   "slug": "7e3fafc5",
-  "saleCount": 10,
-  "keywords": "银,币,2009年,年香,香港,港上,上海,海汇,汇丰,丰银,银行,行港,港币,币贰,贰拾,拾圆,圆三,三枚,枚豹,豹子,子号,外国/特区,行壹,壹佰,佰元,年中,中国,国银,币伍,伍拾,年渣,渣打,打银,币壹,佰伍,钞,港渣,行成,成立,立周,周年,年纪,纪念,念钞,钞港,年美,美国,国美,美属,属萨,萨摩,摩亚,亚银,银币,国北,北马,马里,里亚,亚纳,纳群,群岛,岛银,属维,维尔,尔京,京群,国波,波多,多黎,黎各,各银",
+  "saleCount": 12,
+  "keywords": "银,币,2009年,年香,香港,港上,上海,海汇,汇丰,丰银,银行,行港,港币,币贰,贰拾,拾圆,圆三,三枚,枚豹,豹子,子号,外国/特区,年中,中国,国银,行香,港有,有限,限公,公司,司港,币伍,伍拾,行壹,壹佰,佰元,年渣,渣打,打银,币壹,佰伍,钞,港渣,行成,成立,立周,周年,年纪,纪念,念钞,钞港,年美,美国,国美,美属,属萨,萨摩,摩亚,亚银,银币,国北,北马,马里,里亚,亚纳,纳群,群岛,岛银,属维,维尔,尔京,京群,国波,波多,多黎,黎各,各银",
   "priceStats": {
     "low": 80,
     "high": 940,
-    "avg": 348,
+    "avg": 313,
     "latest": 80
   },
   "records": [
@@ -26,6 +26,40 @@
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "银,币,2009年,年香,香港,港上,上海,海汇,汇丰,丰银,银行,行港,港币,币贰,贰拾,拾圆,圆三,三枚,枚豹,豹子,子号,外国/特区"
+    },
+    {
+      "coinName": "2009年中国银行（香港）有限公司港币伍拾圆",
+      "normalizedBoxCode": "2379380038",
+      "displayBoxCode": "2379380-038",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/liantichao-jinianchao/10449227.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2379380-038/",
+      "price": 110,
+      "priceWithFee": 118.8,
+      "transactedAt": "2026-08-08 20:32:35",
+      "productCode": "880972001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2009年,年中,中国,国银,银行,行香,香港,港有,有限,限公,公司,司港,港币,币伍,伍拾,拾圆,外国/特区"
+    },
+    {
+      "coinName": "2009年中国银行港币伍拾圆",
+      "normalizedBoxCode": "2379380039",
+      "displayBoxCode": "2379380-039",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/liantichao-jinianchao/10431751.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2379380-039/",
+      "price": 170,
+      "priceWithFee": 183.6,
+      "transactedAt": "2026-08-01 19:26:25",
+      "productCode": "878682003",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2009年,年中,中国,国银,银行,行港,港币,币伍,伍拾,拾圆"
     },
     {
       "coinName": "2009年香港上海汇丰银行壹佰元",

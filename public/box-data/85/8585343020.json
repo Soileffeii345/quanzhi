@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8585343020",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8585343020",
+      "displayBoxCode": "8585343-020",
+      "gradingCompany": "NGC",
+      "grade": "PF 68 ULTRA CAMEO",
+      "coinName": "1994年第15届世界杯足球赛-角球27克精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10433887.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8585343-020/68/",
+      "price": 510,
+      "priceWithFee": 527.85,
+      "transactedAt": "2026-08-03 20:58:05",
+      "productCode": "878997011",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/878997011A.jpg",
+      "ocrConfidence": 42,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1994年,27克,年第,第届,届世,世界,界杯,杯足,足球,球赛,赛角,角球,球克,克精,精制,制银,银币,评级"
+    }
+  ]
+}

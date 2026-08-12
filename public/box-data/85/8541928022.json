@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8541928022",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8541928022",
+      "displayBoxCode": "8541928-022",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1999年己卯兔年生肖1/2盎司梅花形精制金币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-jin/10446347.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8541928-022/",
+      "price": 17400,
+      "priceWithFee": 18009,
+      "transactedAt": "2026-08-06 20:45:05",
+      "productCode": "880814004",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/32/880814004A.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1999年,2盎司,生肖,年己,己卯,卯兔,兔年,年生,肖盎,盎司,司梅,梅花,花形,形精,精制,制金,金币,评级"
+    }
+  ]
+}

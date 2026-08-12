@@ -1,12 +1,12 @@
 {
   "coinName": "2003年精制",
   "slug": "7e46250e",
-  "saleCount": 12,
-  "keywords": "币,2003年,年年,年中,中国,国宝,宝岛,岛台,台湾,湾精,精制,制流,流通,通纪,纪念,念币,币五,五枚,枚一,一套,评级,湾朝,朝天,天宫,宫精,湾赤,赤嵌,嵌楼,楼精,年世,世界,界文,文化,化遗,遗产,产明,明清,清故,故宫,产曲,曲阜,阜孔,孔庙,庙孔,孔林,林孔,孔府,府精",
+  "saleCount": 14,
+  "keywords": "币,2003年,年年,年中,中国,国宝,宝岛,岛台,台湾,湾精,精制,制流,流通,通纪,纪念,念币,币五,五枚,枚一,一套,评级,湾赤,赤嵌,嵌楼,楼精,年世,世界,界文,文化,化遗,遗产,产曲,曲阜,阜孔,孔庙,庙孔,孔林,林孔,孔府,府精,湾朝,朝天,天宫,宫精,产明,明清,清故,故宫",
   "priceStats": {
     "low": 95,
     "high": 760,
-    "avg": 247,
+    "avg": 243,
     "latest": 760
   },
   "records": [
@@ -26,6 +26,40 @@
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "币,2003年,年年,年中,中国,国宝,宝岛,岛台,台湾,湾精,精制,制流,流通,通纪,纪念,念币,币五,五枚,枚一,一套,评级"
+    },
+    {
+      "coinName": "2003年中国宝岛台湾-赤嵌楼精制流通纪念币",
+      "normalizedBoxCode": "8617801003",
+      "displayBoxCode": "8617801-003",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10424833.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8617801-003/",
+      "price": 210,
+      "priceWithFee": 226.8,
+      "transactedAt": "2026-07-29 19:30:45",
+      "productCode": "877753014",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2003年,年中,中国,国宝,宝岛,岛台,台湾,湾赤,赤嵌,嵌楼,楼精,精制,制流,流通,通纪,纪念,念币,评级"
+    },
+    {
+      "coinName": "2003年世界文化遗产-曲阜孔庙孔林孔府精制流通纪念币",
+      "normalizedBoxCode": "8617900004",
+      "displayBoxCode": "8617900-004",
+      "gradingCompany": "NGC",
+      "grade": "PF 68 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10424832.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8617900-004/68/",
+      "price": 220,
+      "priceWithFee": 237.6,
+      "transactedAt": "2026-07-29 19:30:05",
+      "productCode": "877753013",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2003年,年世,世界,界文,文化,化遗,遗产,产曲,曲阜,阜孔,孔庙,庙孔,孔林,林孔,孔府,府精,精制,制流,流通,通纪,纪念,念币,评级"
     },
     {
       "coinName": "2003年中国宝岛台湾-朝天宫精制流通纪念币",

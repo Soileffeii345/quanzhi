@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2771388016",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2771388016",
+      "displayBoxCode": "2771388-016",
+      "gradingCompany": "NGC",
+      "grade": "PF 64 ULTRA CAMEO",
+      "coinName": "1984年第23届奥运会-男子跳高1/4盎司精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10440190.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2771388-016/64/",
+      "price": 330,
+      "priceWithFee": 341.55,
+      "transactedAt": "2026-08-03 20:02:15",
+      "productCode": "879959002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/31/879959002A.jpg",
+      "ocrConfidence": 37,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1984年,4盎司,奥运,年第,第届,届奥,运会,会男,男子,子跳,跳高,高盎,盎司,司精,精制,制银,银币,评级"
+    }
+  ]
+}

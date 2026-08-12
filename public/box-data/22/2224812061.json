@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2224812061",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2224812061",
+      "displayBoxCode": "2224812-061",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "第三版人民币5元（金浅版）",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/disanbanrenminbi/10448779.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2224812-061/",
+      "price": 580,
+      "priceWithFee": 626.4,
+      "transactedAt": "2026-08-08 20:39:50",
+      "productCode": "881016019",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/32/881016019B.jpg",
+      "ocrConfidence": 31,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,第三,三版,版人,人民,民币,币元,元金,金浅,浅版"
+    }
+  ]
+}

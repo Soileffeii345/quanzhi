@@ -1,0 +1,31 @@
+{
+  "coinName": "2026年熊猫150克精制银币",
+  "slug": "2db4623c",
+  "saleCount": 1,
+  "keywords": "银,币,2026年,150克,熊猫,年熊,猫克,克精,精制,制银,银币,评级",
+  "priceStats": {
+    "low": 3350,
+    "high": 3350,
+    "avg": 3350,
+    "latest": 3350
+  },
+  "records": [
+    {
+      "coinName": "2026年熊猫150克精制银币",
+      "normalizedBoxCode": "8195000003",
+      "displayBoxCode": "8195000-003",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-xinyin/10430365.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8195000-003/70/",
+      "price": 3350,
+      "priceWithFee": 3467.25,
+      "transactedAt": "2026-07-30 19:50:05",
+      "productCode": "878516001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2026年,150克,熊猫,年熊,猫克,克精,精制,制银,银币,评级"
+    }
+  ]
+}

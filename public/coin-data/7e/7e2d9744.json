@@ -1,0 +1,31 @@
+{
+  "coinName": "2019年银币",
+  "slug": "7e2d9744",
+  "saleCount": 1,
+  "keywords": "银,币,2019年,年英,英国,国夏,夏洛,洛克,克福,福尔,尔摩,摩斯,斯银,银币,外国/特区",
+  "priceStats": {
+    "low": 850,
+    "high": 850,
+    "avg": 850,
+    "latest": 850
+  },
+  "records": [
+    {
+      "coinName": "2019年英国夏洛克福尔摩斯银币",
+      "normalizedBoxCode": "4894533001",
+      "displayBoxCode": "4894533-001",
+      "gradingCompany": "NGC",
+      "grade": "PF70",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/558322.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4894533-001/70/",
+      "price": 850,
+      "priceWithFee": null,
+      "transactedAt": "2026-03-03 19:21:07",
+      "productCode": "KH122209",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2019年,年英,英国,国夏,夏洛,洛克,克福,福尔,尔摩,摩斯,斯银,银币,外国/特区"
+    }
+  ]
+}

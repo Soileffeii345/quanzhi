@@ -1,4 +1,4 @@
-import { readFile, writeFile } from "node:fs/promises";
+import { readFile, writeFile, readdir } from "node:fs/promises";
 import { resolve, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
 import { database } from "./database.mjs";
@@ -14,6 +14,36 @@ let updateState = null;
 try {
   updateState = JSON.parse(await readFile(resolve(projectRoot, "collector", "data", "last-update.json"), "utf8"));
 } catch {}
+let yijinCoverage = null;
+try {
+  const manifest = JSON.parse(await readFile(resolve(projectRoot, "collector", "data", "yijin-product-ids.json"), "utf8"));
+  const failures = JSON.parse(await readFile(resolve(projectRoot, "collector", "data", "yijin-failed-ids.json"), "utf8"));
+  const pageFiles = await readdir(resolve(projectRoot, "collector", "output", "pages"));
+  const covered = new Set(pageFiles.map((name) => name.match(/^yijin-(\d+)\.json$/)?.[1]).filter(Boolean));
+  const currentUncovered = (manifest.ids ?? []).map(String).filter((id) => !covered.has(id));
+  let activeProducts = 0;
+  let inactiveProducts = 0;
+  let productsWithRecognizedBox = 0;
+  for (const id of (manifest.ids ?? []).map(String)) {
+    if (!covered.has(id)) continue;
+    const page = JSON.parse(await readFile(resolve(projectRoot, "collector", "output", "pages", `yijin-${id}.json`), "utf8"));
+    if (page.active) {
+      activeProducts += 1;
+      if ((page.images ?? []).some((image) => image.box)) productsWithRecognizedBox += 1;
+    } else {
+      inactiveProducts += 1;
+    }
+  }
+  yijinCoverage = {
+    discovered: manifest.ids?.length ?? 0,
+    collected: (manifest.ids?.length ?? 0) - currentUncovered.length,
+    failed: currentUncovered.length,
+    activeProducts,
+    inactiveProducts,
+    productsWithRecognizedBox,
+    discoveredAt: manifest.discoveredAt ?? "",
+  };
+} catch {}
 const databaseStatuses = [...PUBLISHED_SALE_STATUSES, ...ACTIVE_LISTING_STATUSES];
 
 const rows = database.prepare(`
@@ -22,12 +52,36 @@ const rows = database.prepare(`
          price, price_with_fee, transacted_at, collected_at,
          verification_status, product_code
   FROM box_sales
-  WHERE verification_status IN (${sqlIn(databaseStatuses)})
+  WHERE (
+    verification_status IN (${sqlIn(PUBLISHED_SALE_STATUSES)})
+    AND NOT EXISTS (
+      SELECT 1 FROM platform_listing_state listing
+      WHERE listing.platform=box_sales.platform
+        AND listing.platform_product_id=box_sales.platform_product_id
+        AND listing.listing_status='active'
+    )
+  ) OR (
+    verification_status IN (${sqlIn(ACTIVE_LISTING_STATUSES)})
+    AND EXISTS (
+      SELECT 1 FROM platform_listing_state listing
+      WHERE listing.platform=box_sales.platform
+        AND listing.platform_product_id=box_sales.platform_product_id
+        AND listing.listing_status='active'
+    )
+  )
   ORDER BY CASE
     WHEN verification_status IN (${sqlIn(ACTIVE_LISTING_STATUSES)}) THEN collected_at
     ELSE transacted_at
   END DESC
 `).all();
+
+const listingStats = database.prepare(`
+  SELECT platform, listing_status, coverage_scope, COUNT(*) AS cnt,
+         MIN(last_checked_at) AS oldest_check, MAX(last_checked_at) AS newest_check
+  FROM platform_listing_state
+  GROUP BY platform, listing_status, coverage_scope
+`).all();
+const listingStatsByPlatform = Map.groupBy(listingStats, (row) => row.platform);
 
 const stats = database.prepare(`
   SELECT platform, verification_status, COUNT(*) as cnt
@@ -36,6 +90,12 @@ const stats = database.prepare(`
   GROUP BY platform, verification_status
   ORDER BY platform, cnt DESC
 `).all();
+const activeProductCounts = new Map(database.prepare(`
+  SELECT platform, COUNT(DISTINCT platform_product_id) AS cnt
+  FROM box_sales
+  WHERE verification_status IN (${sqlIn(ACTIVE_LISTING_STATUSES)})
+  GROUP BY platform
+`).all().map((row) => [row.platform, row.cnt]));
 
 function esc(str) {
   return String(str ?? "")
@@ -43,6 +103,17 @@ function esc(str) {
     .replace(/</g, "&lt;")
     .replace(/>/g, "&gt;")
     .replace(/"/g, "&quot;");
+}
+
+function formatBeijingTime(value) {
+  if (!value) return "—";
+  const normalized = /Z$|[+-]\d\d:\d\d$/.test(value) ? value : `${value.replace(" ", "T")}+08:00`;
+  const date = new Date(normalized);
+  if (Number.isNaN(date.getTime())) return value;
+  return new Intl.DateTimeFormat("zh-CN", {
+    timeZone: "Asia/Shanghai", year: "numeric", month: "2-digit", day: "2-digit",
+    hour: "2-digit", minute: "2-digit", second: "2-digit", hour12: false,
+  }).format(date).replaceAll("/", "-");
 }
 
 const statusMap = {
@@ -74,14 +145,17 @@ for (const [platform, items] of platformSummary) {
   const activeCount = items
     .filter((item) => ACTIVE_LISTING_STATUSES.includes(item.verification_status))
     .reduce((sum, item) => sum + item.cnt, 0);
-  const activeLabel = platform === "易金在线" && activeCount === 0
-    ? '<span style="color:#b54708">●</span> 在售数据待接入'
-    : `<span style="color:#7a5ce5">●</span> 在售 ${activeCount}`;
+  const listingItems = listingStatsByPlatform.get(platform) ?? [];
+  const displayedActiveCount = listingItems
+    .filter((item) => item.listing_status === "active")
+    .reduce((sum, item) => sum + item.cnt, 0);
+  const activeLabel = displayedActiveCount > 0
+    ? `<span style="color:#7a5ce5">●</span> 已确认在售`
+    : `<span style="color:#b54708">●</span> 在售待全量刷新`;
   statsHtml += `<div style="background:#f9fafb;border-radius:10px;padding:16px;margin-bottom:12px;">
     <b style="font-size:16px;color:${platformColors[platform] || "#1f2937"}">${esc(platform)}</b>
-    <span style="float:right;font-size:20px;font-weight:700">${total}</span>
     <div style="margin-top:4px;font-size:13px;color:#6b7280">
-      <span style="color:#067647">●</span> 已成交 ${soldCount} · ${activeLabel}
+      <span style="color:#067647">●</span> 历史成交可查询 · ${activeLabel}
     </div>
   </div>`;
 }
@@ -89,7 +163,7 @@ for (const [platform, items] of platformSummary) {
 let tableRows = "";
 for (const r of rows) {
   const isActive = ACTIVE_LISTING_STATUSES.includes(r.verification_status);
-  const displayTime = isActive ? r.collected_at : r.transacted_at;
+  const displayTime = formatBeijingTime(isActive ? r.collected_at : r.transacted_at);
   tableRows += `<tr>
     <td><code>${esc(r.display_box_code)}</code></td>
     <td>${esc(r.grading_company)} ${esc(r.grade)}</td>
@@ -106,6 +180,14 @@ for (const r of rows) {
 
 const publishedRows = rows.filter((row) => PUBLISHED_SALE_STATUSES.includes(row.verification_status));
 const activeRows = rows.filter((row) => ACTIVE_LISTING_STATUSES.includes(row.verification_status));
+const yijinBoxActiveCount = stats
+  .filter((item) => item.platform === "易金在线" && ACTIVE_LISTING_STATUSES.includes(item.verification_status))
+  .reduce((sum, item) => sum + item.cnt, 0);
+const correctedActiveProductTotal = [...platformSummary.keys()].reduce((sum, platform) => {
+  return sum + (listingStatsByPlatform.get(platform) ?? [])
+    .filter((item) => item.listing_status === "active")
+    .reduce((subtotal, item) => subtotal + item.cnt, 0);
+}, 0);
 const earliest = publishedRows.length > 0 ? publishedRows[publishedRows.length - 1].transacted_at : "";
 const latest = publishedRows.length > 0 ? publishedRows[0].transacted_at : "";
 
@@ -184,11 +266,9 @@ const html = `<!DOCTYPE html>
 <div class="container">
   <h2 style="font-size:22px;margin-bottom:4px">📦 全部盒号数据</h2>
   <p style="font-size:14px;color:#6b7280;margin-bottom:20px">
-    收录 <b>${publishedRows.length}</b> 条原成交页核验记录与 <b>${activeRows.length}</b> 条当前在售，覆盖 ${platformSummary.size} 个交易平台。成交时间范围: ${earliest} ~ ${latest}
+    汇总赵涌在线与易金在线的评级币历史成交和当前在售信息；统计数量不在页面公开展示。成交时间范围: ${earliest} ~ ${latest}
   </p>
   <div class="freshness">● 数据页面生成于 ${generatedAt}（北京时间） · ${updateState ? `最近一次更新 ${updateState.passed}/${updateState.total} 步通过` : "本地全量审计已通过"} · 更新失败时继续保留上一版已验证数据</div>
-  <div class="stats-grid">${statsHtml}</div>
-
   <div class="filter-bar">
     <input type="text" id="filter" placeholder="搜索盒号 / 币名 / 平台 / 评级…" autofocus/>
     <select id="platformFilter" aria-label="筛选交易平台">
@@ -206,7 +286,7 @@ const html = `<!DOCTYPE html>
     </div>
   </div>
 
-  <p class="info">共 <b id="visibleCount">${rows.length}</b> 条记录 <span class="count" id="filterHint">（使用上方筛选器过滤）</span></p>
+  <p class="info"><span id="visibleCount"></span><span class="count" id="filterHint">使用上方筛选器查询记录</span></p>
   <div style="overflow-x:auto;max-height:70vh;overflow-y:auto;border:1px solid #e5e7eb;border-radius:8px">
     <table>
       <thead>
@@ -268,7 +348,7 @@ const html = `<!DOCTYPE html>
     currentPage = Math.min(currentPage, pageCount);
     const start = (currentPage - 1) * pageSize;
     matched.slice(start, start + pageSize).forEach(function(index) { rows[index].style.display = ''; });
-    document.getElementById('visibleCount').textContent = matched.length;
+    document.getElementById('visibleCount').textContent = '';
     document.getElementById('pageInfo').textContent = '第 ' + currentPage + ' / ' + pageCount + ' 页 · 每页 ' + pageSize + ' 条';
     document.getElementById('prevPage').disabled = currentPage <= 1;
     document.getElementById('nextPage').disabled = currentPage >= pageCount;

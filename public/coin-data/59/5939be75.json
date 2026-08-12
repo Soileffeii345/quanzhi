@@ -1,15 +1,32 @@
 {
   "coinName": "第一版人民币织布5元无水印",
   "slug": "5939be75",
-  "saleCount": 3,
+  "saleCount": 4,
   "keywords": "币,第一,一版,版人,人民,民币,币织,织布,布元,元无,无水,水印",
   "priceStats": {
-    "low": 1500,
+    "low": 1300,
     "high": 3100,
-    "avg": 2350,
-    "latest": 3100
+    "avg": 2088,
+    "latest": 1300
   },
   "records": [
+    {
+      "coinName": "第一版人民币织布5元无水印",
+      "normalizedBoxCode": "2345087002",
+      "displayBoxCode": "2345087-002",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/diyibanrenminbi/10412241.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2345087-002/",
+      "price": 1300,
+      "priceWithFee": 1430,
+      "transactedAt": "2026-08-06 21:38:30",
+      "productCode": "876366015",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,第一,一版,版人,人民,民币,币织,织布,布元,元无,无水,水印"
+    },
     {
       "coinName": "第一版人民币织布5元无水印",
       "normalizedBoxCode": "2149566001",

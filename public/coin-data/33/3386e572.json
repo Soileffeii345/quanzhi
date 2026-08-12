@@ -1,0 +1,31 @@
+{
+  "coinName": "民国二十九年中央银行拾圆",
+  "slug": "3386e572",
+  "saleCount": 1,
+  "keywords": "银,历史币,民国,国二,二十,十九,九年,年中,中央,央银,银行,行拾,拾圆",
+  "priceStats": {
+    "low": 220,
+    "high": 220,
+    "avg": 220,
+    "latest": 220
+  },
+  "records": [
+    {
+      "coinName": "民国二十九年中央银行拾圆",
+      "normalizedBoxCode": "6003321055",
+      "displayBoxCode": "6003321-055",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10378641.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6003321-055/",
+      "price": 220,
+      "priceWithFee": 244.2,
+      "transactedAt": "2026-08-04 21:26:45",
+      "productCode": "872606002",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国二,二十,十九,九年,年中,中央,央银,银行,行拾,拾圆"
+    }
+  ]
+}

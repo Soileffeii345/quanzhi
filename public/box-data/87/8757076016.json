@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8757076016",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8757076016",
+      "displayBoxCode": "8757076-016",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1852年巴西12.75克银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/wgjsbizhang/10436010.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8757076-016/",
+      "price": 230,
+      "priceWithFee": 243.8,
+      "transactedAt": "2026-07-31 19:10:05",
+      "productCode": "878890003",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/31/878890003A.jpg",
+      "ocrConfidence": 37,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1852年,12.75克,年巴,巴西,西克,克银,银币,外国/特区"
+    }
+  ]
+}

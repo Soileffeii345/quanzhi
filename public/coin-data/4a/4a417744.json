@@ -1,0 +1,31 @@
+{
+  "coinName": "民国三十七年东北银行地方流通券贰百伍拾圆",
+  "slug": "4a417744",
+  "saleCount": 1,
+  "keywords": "银,历史币,民国,国三,三十,十七,七年,年东,东北,北银,银行,行地,地方,方流,流通,通券,券贰,贰百,百伍,伍拾,拾圆",
+  "priceStats": {
+    "low": 810,
+    "high": 810,
+    "avg": 810,
+    "latest": 810
+  },
+  "records": [
+    {
+      "coinName": "民国三十七年东北银行地方流通券贰百伍拾圆",
+      "normalizedBoxCode": "1942216049",
+      "displayBoxCode": "1942216-049",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jiefangquzhichao/10412239.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1942216-049/",
+      "price": 810,
+      "priceWithFee": 899.1,
+      "transactedAt": "2026-08-06 19:37:40",
+      "productCode": "876366013",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国三,三十,十七,七年,年东,东北,北银,银行,行地,地方,方流,流通,通券,券贰,贰百,百伍,伍拾,拾圆"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6740221001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6740221001",
+      "displayBoxCode": "6740221-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2023年吉祥文化-平安喜乐精制金银币二枚一套（含3克金、15克银）",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10429749.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6740221-001/70/",
+      "price": 6100,
+      "priceWithFee": 6313.5,
+      "transactedAt": "2026-07-30 21:54:05",
+      "productCode": "878496009",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/878496009A.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,2023年,3克,吉祥文化,年吉,吉祥,祥文,文化,化平,平安,安喜,喜乐,乐精,精制,制金,金银,银币,币二,二枚,枚一,一套,套含,含克,克金,金克,克银,评级"
+    }
+  ]
+}

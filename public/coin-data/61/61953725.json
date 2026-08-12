@@ -1,0 +1,31 @@
+{
+  "coinName": "清代45.3克银锭",
+  "slug": "61953725",
+  "saleCount": 1,
+  "keywords": "银,45.3克,清代,代克,克银,银锭",
+  "priceStats": {
+    "low": 1440,
+    "high": 1440,
+    "avg": 1440,
+    "latest": 1440
+  },
+  "records": [
+    {
+      "coinName": "清代45.3克银锭",
+      "normalizedBoxCode": "1610090902",
+      "displayBoxCode": "1610090-902",
+      "gradingCompany": "NGC",
+      "grade": "MS 61",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/yinding/10398741.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1610090-902/61/",
+      "price": 1440,
+      "priceWithFee": 1598.4,
+      "transactedAt": "2026-08-03 21:39:35",
+      "productCode": "874881002",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,45.3克,清代,代克,克银,银锭"
+    }
+  ]
+}

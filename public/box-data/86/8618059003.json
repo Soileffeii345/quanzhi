@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8618059003",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8618059003",
+      "displayBoxCode": "8618059-003",
+      "gradingCompany": "NGC",
+      "grade": "PF66 CAMEO",
+      "coinName": "1993年毛泽东诞辰100周年精制流通纪念币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10424831.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8618059-003/66/",
+      "price": 210,
+      "priceWithFee": 226.8,
+      "transactedAt": "2026-07-29 20:22:05",
+      "productCode": "877753012",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/877753012A.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1993年,年毛,毛泽,泽东,东诞,诞辰,辰周,周年,年精,精制,制流,流通,通纪,纪念,念币,评级"
+    }
+  ]
+}

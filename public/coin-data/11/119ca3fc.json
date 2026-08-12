@@ -1,15 +1,49 @@
 {
   "coinName": "1996年熊猫31.104克精制银币",
   "slug": "119ca3fc",
-  "saleCount": 3,
+  "saleCount": 5,
   "keywords": "银,币,1996年,1盎司,熊猫,年熊,猫盎,盎司,司精,精制,制银,银币,评级",
   "priceStats": {
-    "low": 1460,
+    "low": 1420,
     "high": 1640,
-    "avg": 1520,
-    "latest": 1460
+    "avg": 1492,
+    "latest": 1420
   },
   "records": [
+    {
+      "coinName": "1996年熊猫1盎司精制银币",
+      "normalizedBoxCode": "6377056060",
+      "displayBoxCode": "6377056-060",
+      "gradingCompany": "NGC",
+      "grade": "PF 68 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-jiuyin/10429344.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6377056-060/68/",
+      "price": 1420,
+      "priceWithFee": 1469.7,
+      "transactedAt": "2026-07-30 20:17:25",
+      "productCode": "878308012",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1996年,1盎司,熊猫,年熊,猫盎,盎司,司精,精制,制银,银币,评级"
+    },
+    {
+      "coinName": "1996年熊猫1盎司精制银币",
+      "normalizedBoxCode": "6377056080",
+      "displayBoxCode": "6377056-080",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-jiuyin/10429339.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6377056-080/",
+      "price": 1480,
+      "priceWithFee": 1531.8,
+      "transactedAt": "2026-07-30 19:50:45",
+      "productCode": "878308007",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1996年,1盎司,熊猫,年熊,猫盎,盎司,司精,精制,制银,银币,评级"
+    },
     {
       "coinName": "1996年熊猫1盎司精制银币",
       "normalizedBoxCode": "6377056036",

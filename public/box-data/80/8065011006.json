@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8065011006",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8065011006",
+      "displayBoxCode": "8065011-006",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1999年美国20美元纸钞",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10431529.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8065011-006/",
+      "price": 1680,
+      "priceWithFee": 1864.8,
+      "transactedAt": "2026-07-30 22:23:40",
+      "productCode": "878665002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/878665002B.jpg",
+      "ocrConfidence": 29,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,1999年,年美,美国,国美,美元,元纸,纸钞,外国/特区"
+    }
+  ]
+}

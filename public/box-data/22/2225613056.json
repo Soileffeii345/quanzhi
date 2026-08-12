@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2225613056",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2225613056",
+      "displayBoxCode": "2225613-056",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "民国三年交通银行上海地名伍拾圆",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10394921.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2225613-056/",
+      "price": 1560,
+      "priceWithFee": 1731.6,
+      "transactedAt": "2026-07-30 22:04:10",
+      "productCode": "873834054",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/873834054B.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国三,三年,年交,交通,通银,银行,行上,上海,海地,地名,名伍,伍拾,拾圆"
+    }
+  ]
+}

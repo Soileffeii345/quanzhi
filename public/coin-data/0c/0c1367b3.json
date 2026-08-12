@@ -1,15 +1,49 @@
 {
   "coinName": "民国十九年中央银行上海地名伍圆",
   "slug": "0c1367b3",
-  "saleCount": 1,
+  "saleCount": 3,
   "keywords": "银,历史币,民国,国十,十九,九年,年中,中央,央银,银行,行上,上海,海地,地名,名伍,伍圆",
   "priceStats": {
     "low": 250,
-    "high": 250,
-    "avg": 250,
-    "latest": 250
+    "high": 1920,
+    "avg": 977,
+    "latest": 760
   },
   "records": [
+    {
+      "coinName": "民国十九年中央银行上海地名伍圆",
+      "normalizedBoxCode": "1803835012",
+      "displayBoxCode": "1803835-012",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10400467.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1803835-012/",
+      "price": 760,
+      "priceWithFee": 843.6,
+      "transactedAt": "2026-07-30 22:19:10",
+      "productCode": "874970002",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国十,十九,九年,年中,中央,央银,银行,行上,上海,海地,地名,名伍,伍圆"
+    },
+    {
+      "coinName": "民国十九年中央银行上海地名伍圆",
+      "normalizedBoxCode": "2952932060",
+      "displayBoxCode": "2952932-060",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10389421.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2952932-060/",
+      "price": 1920,
+      "priceWithFee": 2131.2,
+      "transactedAt": "2026-07-30 21:23:10",
+      "productCode": "873439004",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国十,十九,九年,年中,中央,央银,银行,行上,上海,海地,地名,名伍,伍圆"
+    },
     {
       "coinName": "民国十九年中央银行上海地名伍圆",
       "normalizedBoxCode": "1850739029",

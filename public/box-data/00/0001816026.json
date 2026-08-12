@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "0001816026",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "0001816026",
+      "displayBoxCode": "0001816-026",
+      "gradingCompany": "NGC",
+      "grade": "PF 68 ULTRA CAMEO",
+      "coinName": "1996年朱德诞辰110周年精制流通纪念币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10424824.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/0001816-026/68/",
+      "price": 350,
+      "priceWithFee": 378,
+      "transactedAt": "2026-07-29 19:45:25",
+      "productCode": "877753005",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/877753005A.jpg",
+      "ocrConfidence": 41,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1996年,年朱,朱德,德诞,诞辰,辰周,周年,年精,精制,制流,流通,通纪,纪念,念币,评级"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "coinName": "1982年熊猫3.11克普制金币",
+  "slug": "7c7a3086",
+  "saleCount": 1,
+  "keywords": "金,币,1982年,10盎司,熊猫,年熊,猫盎,盎司,司普,普制,制金,金币",
+  "priceStats": {
+    "low": 6300,
+    "high": 6300,
+    "avg": 6300,
+    "latest": 6300
+  },
+  "records": [
+    {
+      "coinName": "1982年熊猫1/10盎司普制金币",
+      "normalizedBoxCode": "8588548039",
+      "displayBoxCode": "8588548-039",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-jiujin/10432564.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8588548-039/69/",
+      "price": 6300,
+      "priceWithFee": 6520.5,
+      "transactedAt": "2026-07-30 21:48:05",
+      "productCode": "878833008",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1982年,10盎司,熊猫,年熊,猫盎,盎司,司普,普制,制金,金币"
+    }
+  ]
+}

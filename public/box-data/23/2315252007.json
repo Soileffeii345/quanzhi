@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2315252007",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2315252007",
+      "displayBoxCode": "2315252-007",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "民国三十四年晋察冀边区银行拾圆",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jiefangquzhichao/10403973.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2315252-007/",
+      "price": 700,
+      "priceWithFee": 777,
+      "transactedAt": "2026-07-30 22:11:40",
+      "productCode": "874941010",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/874941010B.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国三,三十,十四,四年,年晋,晋察,察冀,冀边,边区,区银,银行,行拾,拾圆"
+    }
+  ]
+}

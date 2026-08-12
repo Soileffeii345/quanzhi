@@ -1,0 +1,31 @@
+{
+  "coinName": "2023年2盎司银币",
+  "slug": "148e29d1",
+  "saleCount": 1,
+  "keywords": "银,币,2023年,2盎司,年喀,喀麦,麦隆,隆盎,盎司,司苏,苏美,美尔,尔文,文明,明银,银币",
+  "priceStats": {
+    "low": 3500,
+    "high": 3500,
+    "avg": 3500,
+    "latest": 3500
+  },
+  "records": [
+    {
+      "coinName": "2023年喀麦隆2盎司苏美尔文明银币",
+      "normalizedBoxCode": "6714992005",
+      "displayBoxCode": "6714992-005",
+      "gradingCompany": "NGC",
+      "grade": "MS 70",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/565969.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6714992-005/70/",
+      "price": 3500,
+      "priceWithFee": null,
+      "transactedAt": "2026-04-18 13:48:20",
+      "productCode": "AA633437",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2023年,2盎司,年喀,喀麦,麦隆,隆盎,盎司,司苏,苏美,美尔,尔文,文明,明银,银币"
+    }
+  ]
+}

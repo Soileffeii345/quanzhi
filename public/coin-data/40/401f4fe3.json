@@ -1,0 +1,31 @@
+{
+  "coinName": "第四套/第四版人民币1980年版10元17枚、5元八枚，共25枚",
+  "slug": "401f4fe3",
+  "saleCount": 1,
+  "keywords": "币,1980年,第四,四套,套第,四版,版人,人民,民币,币年,年版,版元,元枚,枚元,元八,八枚,枚共,共枚",
+  "priceStats": {
+    "low": 310,
+    "high": 310,
+    "avg": 310,
+    "latest": 310
+  },
+  "records": [
+    {
+      "coinName": "第四套/第四版人民币1980年版10元17枚、5元八枚，共25枚",
+      "normalizedBoxCode": "0024068106",
+      "displayBoxCode": "0024068-106",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/disibanrenminbi/10442238.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/0024068-106/",
+      "price": 310,
+      "priceWithFee": 334.8,
+      "transactedAt": "2026-08-04 20:17:45",
+      "productCode": "879891003",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1980年,第四,四套,套第,四版,版人,人民,民币,币年,年版,版元,元枚,枚元,元八,八枚,枚共,共枚"
+    }
+  ]
+}

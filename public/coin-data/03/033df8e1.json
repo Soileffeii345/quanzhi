@@ -1,12 +1,12 @@
 {
   "coinName": "2000年5盎司精制银币",
   "slug": "033df8e1",
-  "saleCount": 1,
+  "saleCount": 3,
   "keywords": "银,币,2000年,5盎司,年中,中国,国古,古典,典文,文学,学名,名著,著红,红楼,楼梦,梦第,第组,组宝,宝黛,黛读,读书,书盎,盎司,司扇,扇形,形精,精制,制彩,彩银,银币,评级",
   "priceStats": {
-    "low": 2850,
+    "low": 2450,
     "high": 2850,
-    "avg": 2850,
+    "avg": 2700,
     "latest": 2850
   },
   "records": [
@@ -23,6 +23,40 @@
       "priceWithFee": 2949.75,
       "transactedAt": "2026-08-06 19:52:35",
       "productCode": "880533001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2000年,5盎司,年中,中国,国古,古典,典文,文学,学名,名著,著红,红楼,楼梦,梦第,第组,组宝,宝黛,黛读,读书,书盎,盎司,司扇,扇形,形精,精制,制彩,彩银,银币,评级"
+    },
+    {
+      "coinName": "2000年中国古典文学名著《红楼梦》第（1）组-宝黛读书5盎司扇形精制彩银币",
+      "normalizedBoxCode": "4417154019",
+      "displayBoxCode": "4417154-019",
+      "gradingCompany": "NGC",
+      "grade": "PF 67 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10436393.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4417154-019/67/",
+      "price": 2450,
+      "priceWithFee": 2535.75,
+      "transactedAt": "2026-08-03 20:44:20",
+      "productCode": "879389002",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2000年,5盎司,年中,中国,国古,古典,典文,文学,学名,名著,著红,红楼,楼梦,梦第,第组,组宝,宝黛,黛读,读书,书盎,盎司,司扇,扇形,形精,精制,制彩,彩银,银币,评级"
+    },
+    {
+      "coinName": "2000年中国古典文学名著《红楼梦》第（1）组-宝黛读书5盎司扇形精制彩银币",
+      "normalizedBoxCode": "8571109008",
+      "displayBoxCode": "8571109-008",
+      "gradingCompany": "NGC",
+      "grade": "PF 68 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10431516.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8571109-008/68/",
+      "price": 2800,
+      "priceWithFee": 2898,
+      "transactedAt": "2026-07-30 20:22:45",
+      "productCode": "878715001",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "银,币,2000年,5盎司,年中,中国,国古,古典,典文,文学,学名,名著,著红,红楼,楼梦,梦第,第组,组宝,宝黛,黛读,读书,书盎,盎司,司扇,扇形,形精,精制,制彩,彩银,银币,评级"

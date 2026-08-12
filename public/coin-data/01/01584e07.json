@@ -1,15 +1,49 @@
 {
   "coinName": "1979年15.552克精制银币",
   "slug": "01584e07",
-  "saleCount": 2,
+  "saleCount": 4,
   "keywords": "银,币,1979年,2盎司,年国,国际,际儿,儿童,童年,年儿,童浇,浇花,花盎,盎司,司精,精制,制银,银币,评级",
   "priceStats": {
-    "low": 3650,
+    "low": 3450,
     "high": 7800,
-    "avg": 5725,
-    "latest": 7800
+    "avg": 4600,
+    "latest": 3500
   },
   "records": [
+    {
+      "coinName": "1979年国际儿童年-儿童浇花1/2盎司精制银币",
+      "normalizedBoxCode": "8648036005",
+      "displayBoxCode": "8648036-005",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10439288.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8648036-005/",
+      "price": 3500,
+      "priceWithFee": 3622.5,
+      "transactedAt": "2026-08-06 20:02:35",
+      "productCode": "879629001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1979年,2盎司,年国,国际,际儿,儿童,童年,年儿,童浇,浇花,花盎,盎司,司精,精制,制银,银币,评级"
+    },
+    {
+      "coinName": "1979年国际儿童年-儿童浇花1/2盎司精制银币",
+      "normalizedBoxCode": "8765595001",
+      "displayBoxCode": "8765595-001",
+      "gradingCompany": "NGC",
+      "grade": "PF67 CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10423647.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8765595-001/67/",
+      "price": 3450,
+      "priceWithFee": 3570.75,
+      "transactedAt": "2026-07-30 20:14:05",
+      "productCode": "877785001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1979年,2盎司,年国,国际,际儿,儿童,童年,年儿,童浇,浇花,花盎,盎司,司精,精制,制银,银币,评级"
+    },
     {
       "coinName": "1979年国际儿童年-儿童浇花1/2盎司精制银币",
       "normalizedBoxCode": "8540258051",

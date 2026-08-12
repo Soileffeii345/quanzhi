@@ -1,15 +1,32 @@
 {
   "coinName": "2004年生肖31.104克精制银币",
   "slug": "1f465b51",
-  "saleCount": 3,
+  "saleCount": 4,
   "keywords": "银,币,2004年,1盎司,生肖,年甲,甲申,申猴,猴年,年生,肖盎,盎司,司精,精制,制彩,彩银,银币,评级,司梅,梅花,花形,形精,制银",
   "priceStats": {
-    "low": 960,
+    "low": 950,
     "high": 3100,
-    "avg": 1677,
-    "latest": 960
+    "avg": 1495,
+    "latest": 950
   },
   "records": [
+    {
+      "coinName": "2004年甲申猴年生肖1盎司精制彩银币",
+      "normalizedBoxCode": "8766412006",
+      "displayBoxCode": "8766412-006",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10435484.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8766412-006/70/",
+      "price": 950,
+      "priceWithFee": 983.25,
+      "transactedAt": "2026-08-03 21:37:15",
+      "productCode": "879095006",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2004年,1盎司,生肖,年甲,甲申,申猴,猴年,年生,肖盎,盎司,司精,精制,制彩,彩银,银币,评级"
+    },
     {
       "coinName": "2004年甲申猴年生肖1盎司精制彩银币",
       "normalizedBoxCode": "8656076039",

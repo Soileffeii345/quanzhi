@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2439534016",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2439534016",
+      "displayBoxCode": "2439534-016",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1918年俄罗斯纸钞",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10429464.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2439534-016/",
+      "price": 170,
+      "priceWithFee": 188.7,
+      "transactedAt": "2026-08-04 22:08:05",
+      "productCode": "878377002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/878377002B.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,1918年,年俄,俄罗,罗斯,斯纸,纸钞,外国/特区"
+    }
+  ]
+}

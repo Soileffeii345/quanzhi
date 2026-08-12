@@ -1,0 +1,31 @@
+{
+  "coinName": "清-咸丰重宝宝昌当五十",
+  "slug": "3c7409c6",
+  "saleCount": 1,
+  "keywords": "清咸,咸丰,丰重,重宝,宝宝,宝昌,昌当,当五,五十",
+  "priceStats": {
+    "low": 1360,
+    "high": 1360,
+    "avg": 1360,
+    "latest": 1360
+  },
+  "records": [
+    {
+      "coinName": "清-咸丰重宝宝昌当五十",
+      "normalizedBoxCode": "2609905375",
+      "displayBoxCode": "2609905-375",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/guqian/10412222.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2609905-375/",
+      "price": 1360,
+      "priceWithFee": 1496,
+      "transactedAt": "2026-08-10 21:38:35",
+      "productCode": "876352023",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "清咸,咸丰,丰重,重宝,宝宝,宝昌,昌当,当五,五十"
+    }
+  ]
+}

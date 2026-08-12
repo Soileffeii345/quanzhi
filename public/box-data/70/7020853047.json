@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "7020853047",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "7020853047",
+      "displayBoxCode": "7020853-047",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1999年建国50周年伍拾圆纪念钞",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/45631.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/7020853-047/",
+      "price": 500,
+      "priceWithFee": null,
+      "transactedAt": "2016-07-22 09:17:29",
+      "productCode": "BJ005648",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20160514/large_1_1463197105.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,1999年,重大事件,年建,建国,国周,周年,年伍,伍拾,拾圆,圆纪,纪念,念钞"
+    }
+  ]
+}

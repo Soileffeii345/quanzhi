@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2049778095",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2049778095",
+      "displayBoxCode": "2049778-095",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "民国三十二年中央储备银行伍百圆",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/difangsipiao/10405078.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2049778-095/",
+      "price": 660,
+      "priceWithFee": 732.6,
+      "transactedAt": "2026-08-04 21:06:25",
+      "productCode": "874291034",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/874291034B.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国三,三十,十二,二年,年中,中央,央储,储备,备银,银行,行伍,伍百,百圆"
+    }
+  ]
+}

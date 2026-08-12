@@ -1,0 +1,31 @@
+{
+  "coinName": "2011年生肖5盎司精制银币",
+  "slug": "49b9a9c8",
+  "saleCount": 1,
+  "keywords": "银,币,2011年,5盎司,生肖,年辛,辛卯,卯兔,兔年,年生,肖盎,盎司,司长,长方,方形,形精,精制,制银,银币,评级",
+  "priceStats": {
+    "low": 3450,
+    "high": 3450,
+    "avg": 3450,
+    "latest": 3450
+  },
+  "records": [
+    {
+      "coinName": "2011年辛卯兔年生肖5盎司长方形精制银币",
+      "normalizedBoxCode": "8755185003",
+      "displayBoxCode": "8755185-003",
+      "gradingCompany": "NGC",
+      "grade": "PF 67 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10437344.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8755185-003/67/",
+      "price": 3450,
+      "priceWithFee": 3570.75,
+      "transactedAt": "2026-08-03 21:42:40",
+      "productCode": "879319002",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2011年,5盎司,生肖,年辛,辛卯,卯兔,兔年,年生,肖盎,盎司,司长,长方,方形,形精,精制,制银,银币,评级"
+    }
+  ]
+}

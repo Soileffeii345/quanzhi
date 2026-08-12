@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "1618041040",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "1618041040",
+      "displayBoxCode": "1618041-040",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2000年世纪龙钞壹佰圆、2024年龙钞20元各一枚，共二枚",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/liantichao-jinianchao/10440953.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1618041-040/",
+      "price": 1460,
+      "priceWithFee": 1576.8,
+      "transactedAt": "2026-08-06 19:01:50",
+      "productCode": "880112001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/32/880112001B.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,2000年,年世,世纪,纪龙,龙钞,钞壹,壹佰,佰圆,圆年,年龙,钞元,元各,各一,一枚,枚共,共二,二枚"
+    }
+  ]
+}

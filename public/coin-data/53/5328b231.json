@@ -1,15 +1,32 @@
 {
   "coinName": "1984年长城币精制",
   "slug": "5328b231",
-  "saleCount": 4,
-  "keywords": "币,1984年,年精,精制,制长,长城,城币,币伍,伍角,角大,大字,字版,评级,币贰,贰角,币壹,壹角",
+  "saleCount": 5,
+  "keywords": "币,1984年,年精,精制,制长,长城,城币,币壹,壹角,评级,币伍,伍角,角大,大字,字版,币贰,贰角",
   "priceStats": {
     "low": 1180,
     "high": 2350,
-    "avg": 1853,
-    "latest": 1180
+    "avg": 1932,
+    "latest": 2250
   },
   "records": [
+    {
+      "coinName": "1984年精制长城币壹角",
+      "normalizedBoxCode": "4575837028",
+      "displayBoxCode": "4575837-028",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10412713.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4575837-028/",
+      "price": 2250,
+      "priceWithFee": 2430,
+      "transactedAt": "2026-07-29 20:07:25",
+      "productCode": "876379002",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1984年,年精,精制,制长,长城,城币,币壹,壹角,评级"
+    },
     {
       "coinName": "1984年精制长城币伍角（大字版）",
       "normalizedBoxCode": "3921745002",

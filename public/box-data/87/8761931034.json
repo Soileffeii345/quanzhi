@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8761931034",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8761931034",
+      "displayBoxCode": "8761931-034",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1999年中国近代国画大师张大千1盎司长方形精制银币二枚一套",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10429914.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8761931-034/69/",
+      "price": 3850,
+      "priceWithFee": 3984.75,
+      "transactedAt": "2026-07-30 20:25:25",
+      "productCode": "878491002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/878491002A.jpg",
+      "ocrConfidence": 38,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1999年,1盎司,年中,中国,国近,近代,代国,国画,画大,大师,师张,张大,大千,千盎,盎司,司长,长方,方形,形精,精制,制银,银币,币二,二枚,枚一,一套,评级"
+    }
+  ]
+}

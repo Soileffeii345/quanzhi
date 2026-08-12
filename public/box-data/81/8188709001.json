@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8188709001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8188709001",
+      "displayBoxCode": "8188709-001",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "coinName": "2005年乙酉鸡年生肖1/10盎司普制金币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-jin/10430051.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8188709-001/69/",
+      "price": 3300,
+      "priceWithFee": 3415.5,
+      "transactedAt": "2026-07-30 20:46:05",
+      "productCode": "878535011",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/878535011A.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2005年,10盎司,生肖,年乙,乙酉,酉鸡,鸡年,年生,肖盎,盎司,司普,普制,制金,金币"
+    }
+  ]
+}

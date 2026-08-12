@@ -1,15 +1,49 @@
 {
   "coinName": "1983年长城币精制",
   "slug": "062e7570",
-  "saleCount": 4,
-  "keywords": "币,1983年,年精,精制,制长,长城,城币,币壹,壹角,评级,币伍,伍角,壹圆",
+  "saleCount": 6,
+  "keywords": "币,1983年,年精,精制,制长,长城,城币,币壹,壹圆,评级,壹角,币伍,伍角",
   "priceStats": {
     "low": 870,
-    "high": 5900,
-    "avg": 2443,
-    "latest": 870
+    "high": 8800,
+    "avg": 4428,
+    "latest": 8000
   },
   "records": [
+    {
+      "coinName": "1983年精制长城币壹圆",
+      "normalizedBoxCode": "6759190003",
+      "displayBoxCode": "6759190-003",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10419104.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6759190-003/",
+      "price": 8000,
+      "priceWithFee": 8640,
+      "transactedAt": "2026-07-29 21:22:45",
+      "productCode": "877235003",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1983年,年精,精制,制长,长城,城币,币壹,壹圆,评级"
+    },
+    {
+      "coinName": "1983年精制长城币壹圆",
+      "normalizedBoxCode": "6759026001",
+      "displayBoxCode": "6759026-001",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10419103.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6759026-001/",
+      "price": 8800,
+      "priceWithFee": 9504,
+      "transactedAt": "2026-07-29 20:10:45",
+      "productCode": "877235002",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1983年,年精,精制,制长,长城,城币,币壹,壹圆,评级"
+    },
     {
       "coinName": "1983年精制长城币壹角",
       "normalizedBoxCode": "8547627060",

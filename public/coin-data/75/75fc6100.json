@@ -1,15 +1,32 @@
 {
   "coinName": "民国三十七年中央银行东北九省流通券壹萬圆",
   "slug": "75fc6100",
-  "saleCount": 4,
+  "saleCount": 5,
   "keywords": "银,历史币,民国,国三,三十,十七,七年,年中,中央,央银,银行,行东,东北,北九,九省,省流,流通,通券,券壹,壹萬,萬圆",
   "priceStats": {
     "low": 100,
     "high": 1240,
-    "avg": 435,
-    "latest": 1240
+    "avg": 382,
+    "latest": 170
   },
   "records": [
+    {
+      "coinName": "民国三十七年中央银行东北九省流通券壹萬圆",
+      "normalizedBoxCode": "2143500025",
+      "displayBoxCode": "2143500-025",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10398807.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2143500-025/",
+      "price": 170,
+      "priceWithFee": 188.7,
+      "transactedAt": "2026-07-28 21:34:20",
+      "productCode": "875090003",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国三,三十,十七,七年,年中,中央,央银,银行,行东,东北,北九,九省,省流,流通,通券,券壹,壹萬,萬圆"
+    },
     {
       "coinName": "民国三十七年中央银行东北九省流通券壹萬圆",
       "normalizedBoxCode": "2103299024",

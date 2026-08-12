@@ -1,4 +1,4 @@
-import { mkdir, readFile, writeFile } from "node:fs/promises";
+import { access, mkdir, readFile, writeFile } from "node:fs/promises";
 import { load } from "cheerio";
 import { createWorker } from "tesseract.js";
 import { databaseStats, saveIndexedProduct } from "./database.mjs";
@@ -54,11 +54,33 @@ await mkdir(new URL("boxes/", outputRoot), { recursive: true });
 let worker = await createWorker("eng");
 const summary = { platform: "易金在线", start, end, pages: 0, images: 0, boxes: 0, errors: [] };
 const discoveredIdsPath = new URL("./data/yijin-product-ids.json", import.meta.url);
+const failedIdsPath = new URL("./data/yijin-failed-ids.json", import.meta.url);
 const ids = args.ids
   ? JSON.parse(await readFile(args.ids, "utf8")).ids.map(Number)
   : JSON.parse(await readFile(discoveredIdsPath, "utf8")).ids.map(Number);
 const offset = Number(args.offset ?? 0);
-const selectedIds = ids.slice(offset, offset + Number(args.limit ?? 30));
+const limit = Number(args.limit ?? 30);
+const skipExisting = args.skipExisting !== "false";
+const retryFailed = args.retryFailed === "true";
+const previousFailures = await readFile(failedIdsPath, "utf8")
+  .then((value) => JSON.parse(value))
+  .catch(() => ({ failures: [] }));
+const failedIds = new Set(previousFailures.failures.map((item) => Number(item.id)));
+const candidateIds = ids.slice(offset);
+const selectedIds = [];
+for (const id of candidateIds) {
+  if (!retryFailed && failedIds.has(id)) continue;
+  if (skipExisting) {
+    try {
+      await access(new URL(`pages/yijin-${id}.json`, outputRoot));
+      continue;
+    } catch {
+      // Missing page output: collect this product.
+    }
+  }
+  selectedIds.push(id);
+  if (selectedIds.length >= limit) break;
+}
 
 async function recognizeWithTimeout(imageUrl, timeoutMs = 20000) {
   void timeoutMs;
@@ -69,7 +91,10 @@ try {
   for (const id of selectedIds) {
     try {
       const page = await fetchDetail(id);
-      if (!page) continue;
+      if (!page) {
+        summary.errors.push({ id, message: "detail page missing required fields or request failed" });
+        continue;
+      }
       summary.pages += 1;
       const images = [];
       const sales = [];
@@ -132,5 +157,13 @@ try {
 }
 
 const result = { ...summary, database: databaseStats(), finishedAt: new Date().toISOString() };
+const mergedFailures = new Map(previousFailures.failures.map((item) => [Number(item.id), item]));
+for (const item of summary.errors) {
+  mergedFailures.set(Number(item.id), { ...item, lastFailedAt: result.finishedAt });
+}
+for (const id of selectedIds) {
+  if (!summary.errors.some((item) => Number(item.id) === id)) mergedFailures.delete(id);
+}
+await writeFile(failedIdsPath, JSON.stringify({ failures: [...mergedFailures.values()] }, null, 2));
 await writeFile(new URL("last-run.json", outputRoot), JSON.stringify(result, null, 2));
 process.stdout.write(`${JSON.stringify(result, null, 2)}\n`);

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8569735042",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8569735042",
+      "displayBoxCode": "8569735-042",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1986年国际和平年1/3盎司精制金币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10435117.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8569735-042/69/",
+      "price": 37000,
+      "priceWithFee": 38295,
+      "transactedAt": "2026-07-30 21:01:25",
+      "productCode": "878570001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/31/878570001A.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1986年,3盎司,年国,国际,际和,和平,平年,年盎,盎司,司精,精制,制金,金币,评级"
+    }
+  ]
+}

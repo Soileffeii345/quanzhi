@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8500084140",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8500084140",
+      "displayBoxCode": "8500084-140",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "coinName": "1999年熊猫1/20盎司普制金币（（大字版PLAIN1）",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-jiujin/10432568.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8500084-140/69/",
+      "price": 2200,
+      "priceWithFee": 2277,
+      "transactedAt": "2026-07-30 20:56:05",
+      "productCode": "878833012",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/878833012A.jpg",
+      "ocrConfidence": 39,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1999年,20盎司,熊猫,年熊,猫盎,盎司,司普,普制,制金,金币,币大,大字,字版"
+    }
+  ]
+}

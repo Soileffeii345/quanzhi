@@ -1,0 +1,31 @@
+{
+  "coinName": "民国十四年西北银行张家口地名壹圆",
+  "slug": "5797ac90",
+  "saleCount": 1,
+  "keywords": "银,历史币,民国,国十,十四,四年,年西,西北,北银,银行,行张,张家,家口,口地,地名,名壹,壹圆",
+  "priceStats": {
+    "low": 710,
+    "high": 710,
+    "avg": 710,
+    "latest": 710
+  },
+  "records": [
+    {
+      "coinName": "民国十四年西北银行张家口地名壹圆",
+      "normalizedBoxCode": "2434322042",
+      "displayBoxCode": "2434322-042",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/junyongpiao/10403525.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2434322-042/",
+      "price": 710,
+      "priceWithFee": 788.1,
+      "transactedAt": "2026-07-30 22:18:40",
+      "productCode": "874940030",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国十,十四,四年,年西,西北,北银,银行,行张,张家,家口,口地,地名,名壹,壹圆"
+    }
+  ]
+}

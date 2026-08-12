@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6744657005",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6744657005",
+      "displayBoxCode": "6744657-005",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1991年辛未羊年生肖15克精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10443142.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6744657-005/69/",
+      "price": 1360,
+      "priceWithFee": 1407.6,
+      "transactedAt": "2026-08-10 21:27:40",
+      "productCode": "880291002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/31/880291002A.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1991年,15克,生肖,年辛,辛未,未羊,羊年,年生,肖克,克精,精制,制银,银币,评级"
+    }
+  ]
+}

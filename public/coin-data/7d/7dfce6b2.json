@@ -1,0 +1,48 @@
+{
+  "coinName": "民国二十四年交通银行壹圆",
+  "slug": "7dfce6b2",
+  "saleCount": 2,
+  "keywords": "银,历史币,民国,国二,二十,十四,四年,年交,交通,通银,银行,行壹,壹圆",
+  "priceStats": {
+    "low": 560,
+    "high": 4100,
+    "avg": 2330,
+    "latest": 560
+  },
+  "records": [
+    {
+      "coinName": "民国二十四年交通银行壹圆",
+      "normalizedBoxCode": "2153460001",
+      "displayBoxCode": "2153460-001",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10401030.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2153460-001/",
+      "price": 560,
+      "priceWithFee": 621.6,
+      "transactedAt": "2026-08-04 21:49:45",
+      "productCode": "875130001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国二,二十,十四,四年,年交,交通,通银,银行,行壹,壹圆"
+    },
+    {
+      "coinName": "民国二十四年交通银行壹圆",
+      "normalizedBoxCode": "2320130031",
+      "displayBoxCode": "2320130-031",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10395162.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2320130-031/",
+      "price": 4100,
+      "priceWithFee": 4551,
+      "transactedAt": "2026-07-30 21:27:40",
+      "productCode": "874269012",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国二,二十,十四,四年,年交,交通,通银,银行,行壹,壹圆"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8819876006",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8819876006",
+      "displayBoxCode": "8819876-006",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1992年中国精制硬币1元",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10431629.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8819876-006/",
+      "price": 160,
+      "priceWithFee": 172.8,
+      "transactedAt": "2026-07-29 21:36:05",
+      "productCode": "878756009",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/878756009A.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1992年,年中,中国,国精,精制,制硬,硬币,币元,评级"
+    }
+  ]
+}

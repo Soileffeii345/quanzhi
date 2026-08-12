@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6377056060",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6377056060",
+      "displayBoxCode": "6377056-060",
+      "gradingCompany": "NGC",
+      "grade": "PF 68 ULTRA CAMEO",
+      "coinName": "1996年熊猫1盎司精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-jiuyin/10429344.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6377056-060/68/",
+      "price": 1420,
+      "priceWithFee": 1469.7,
+      "transactedAt": "2026-07-30 20:17:25",
+      "productCode": "878308012",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/878308012A.jpg",
+      "ocrConfidence": 31,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1996年,1盎司,熊猫,年熊,猫盎,盎司,司精,精制,制银,银币,评级"
+    }
+  ]
+}

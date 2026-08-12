@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "1421348390",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "1421348390",
+      "displayBoxCode": "1421348-390",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "美国5美元纸币一枚、2美元纸币二枚、1美元纸币三枚，共六枚",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10440600.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1421348-390/",
+      "price": 100,
+      "priceWithFee": 111,
+      "transactedAt": "2026-08-04 22:22:25",
+      "productCode": "879892002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/31/879892002A.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,美国,国美,美元,元纸,纸币,币一,一枚,枚美,币二,二枚,币三,三枚,枚共,共六,六枚,外国/特区"
+    }
+  ]
+}

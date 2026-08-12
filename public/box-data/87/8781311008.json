@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8781311008",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8781311008",
+      "displayBoxCode": "8781311-008",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1994年珍稀动物第（4）组-大熊猫8克精制金币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10431602.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8781311-008/69/",
+      "price": 11600,
+      "priceWithFee": 12006,
+      "transactedAt": "2026-07-30 21:48:45",
+      "productCode": "878716006",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/878716006A.jpg",
+      "ocrConfidence": 41,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1994年,8克,熊猫,年珍,珍稀,稀动,动物,物第,第组,组大,大熊,猫克,克精,精制,制金,金币,评级"
+    }
+  ]
+}

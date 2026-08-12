@@ -1,15 +1,32 @@
 {
   "coinName": "1982年银币",
   "slug": "4a516e84",
-  "saleCount": 5,
-  "keywords": "银,1982年,年香,香港,港渣,渣打,打银,银行,行伍,伍拾,拾圆,外国/特区,港上,上海,海汇,汇丰,丰银,行拾",
+  "saleCount": 6,
+  "keywords": "银,1982年,年香,香港,港上,上海,海汇,汇丰,丰银,银行,行拾,拾圆,外国/特区,港渣,渣打,打银,行伍,伍拾",
   "priceStats": {
     "low": 230,
     "high": 1120,
-    "avg": 598,
-    "latest": 1100
+    "avg": 538,
+    "latest": 240
   },
   "records": [
+    {
+      "coinName": "1982年香港上海汇丰银行拾圆",
+      "normalizedBoxCode": "2485426046",
+      "displayBoxCode": "2485426-046",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xianggangzhichao/10449236.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2485426-046/",
+      "price": 240,
+      "priceWithFee": 266.4,
+      "transactedAt": "2026-08-08 19:45:50",
+      "productCode": "880972010",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,1982年,年香,香港,港上,上海,海汇,汇丰,丰银,银行,行拾,拾圆,外国/特区"
+    },
     {
       "coinName": "1982年香港渣打银行伍拾圆",
       "normalizedBoxCode": "2313234032",

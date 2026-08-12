@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2378458086",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2378458086",
+      "displayBoxCode": "2378458-086",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "中国联合准备银行伍仟圆",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/difangsipiao/10397090.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2378458-086/",
+      "price": 2850,
+      "priceWithFee": 3163.5,
+      "transactedAt": "2026-08-06 21:57:15",
+      "productCode": "874270009",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/874270009B.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,中国,国联,联合,合准,准备,备银,银行,行伍,伍仟,仟圆"
+    }
+  ]
+}

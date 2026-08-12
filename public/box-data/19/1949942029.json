@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "1949942029",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "1949942029",
+      "displayBoxCode": "1949942-029",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "第四套/第四版人民币1996年版1元",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/disibanrenminbi/10435143.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1949942-029/",
+      "price": 650,
+      "priceWithFee": 702,
+      "transactedAt": "2026-08-01 19:55:05",
+      "productCode": "879113006",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/31/879113006B.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1996年,第四,四套,套第,四版,版人,人民,民币,币年,年版,版元"
+    }
+  ]
+}

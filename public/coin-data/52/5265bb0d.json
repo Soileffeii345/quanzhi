@@ -1,0 +1,48 @@
+{
+  "coinName": "民国三十二年中央储备银行拾圆",
+  "slug": "5265bb0d",
+  "saleCount": 2,
+  "keywords": "银,历史币,民国,国三,三十,十二,二年,年中,中央,央储,储备,备银,银行,行拾,拾圆",
+  "priceStats": {
+    "low": 170,
+    "high": 550,
+    "avg": 360,
+    "latest": 550
+  },
+  "records": [
+    {
+      "coinName": "民国三十二年中央储备银行拾圆",
+      "normalizedBoxCode": "2132821095",
+      "displayBoxCode": "2132821-095",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/difangsipiao/10405070.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2132821-095/",
+      "price": 550,
+      "priceWithFee": 610.5,
+      "transactedAt": "2026-08-04 21:20:45",
+      "productCode": "874291026",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国三,三十,十二,二年,年中,中央,央储,储备,备银,银行,行拾,拾圆"
+    },
+    {
+      "coinName": "民国三十二年中央储备银行拾圆",
+      "normalizedBoxCode": "2055438063",
+      "displayBoxCode": "2055438-063",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/difangsipiao/10395219.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2055438-063/",
+      "price": 170,
+      "priceWithFee": 188.7,
+      "transactedAt": "2026-07-30 19:36:10",
+      "productCode": "874339005",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国三,三十,十二,二年,年中,中央,央储,储备,备银,银行,行拾,拾圆"
+    }
+  ]
+}

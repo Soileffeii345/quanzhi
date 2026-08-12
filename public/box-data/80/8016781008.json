@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8016781008",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8016781008",
+      "displayBoxCode": "8016781-008",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "香港渣打银行伍圆",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xianggangzhichao/10448615.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8016781-008/",
+      "price": 810,
+      "priceWithFee": 899.1,
+      "transactedAt": "2026-08-08 19:50:35",
+      "productCode": "880918001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/32/880918001B.jpg",
+      "ocrConfidence": 28,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,香港,港渣,渣打,打银,银行,行伍,伍圆,外国/特区"
+    }
+  ]
+}

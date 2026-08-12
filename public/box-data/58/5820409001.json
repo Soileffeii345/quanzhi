@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "5820409001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "5820409001",
+      "displayBoxCode": "5820409-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2020年庚子鼠年生肖150克长方形精制金币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-jin/10433404.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/5820409-001/70/",
+      "price": 172000,
+      "priceWithFee": 178020,
+      "transactedAt": "2026-07-30 21:20:05",
+      "productCode": "878946001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/878946001A.jpg",
+      "ocrConfidence": 63,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2020年,150克,生肖,年庚,庚子,子鼠,鼠年,年生,肖克,克长,长方,方形,形精,精制,制金,金币,评级"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8827577007",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8827577007",
+      "displayBoxCode": "8827577-007",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1996年法国22.2克银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/wgjsbizhang/10436095.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8827577-007/",
+      "price": 680,
+      "priceWithFee": 720.8,
+      "transactedAt": "2026-07-31 19:51:45",
+      "productCode": "878829012",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/31/878829012A.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1996年,22.2克,年法,法国,国克,克银,银币,外国/特区"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "coinName": "民国二十八年冀南银行贰圆",
+  "slug": "3c0d930e",
+  "saleCount": 1,
+  "keywords": "银,历史币,民国,国二,二十,十八,八年,年冀,冀南,南银,银行,行贰,贰圆",
+  "priceStats": {
+    "low": 840,
+    "high": 840,
+    "avg": 840,
+    "latest": 840
+  },
+  "records": [
+    {
+      "coinName": "民国二十八年冀南银行贰圆",
+      "normalizedBoxCode": "2314210023",
+      "displayBoxCode": "2314210-023",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jiefangquzhichao/10417456.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2314210-023/",
+      "price": 840,
+      "priceWithFee": 932.4,
+      "transactedAt": "2026-08-06 19:48:30",
+      "productCode": "877008007",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国二,二十,十八,八年,年冀,冀南,南银,银行,行贰,贰圆"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "coinName": "民国三年交通银行天津地名拾圆",
+  "slug": "30d1713f",
+  "saleCount": 2,
+  "keywords": "银,历史币,民国,国三,三年,年交,交通,通银,银行,行天,天津,津地,地名,名拾,拾圆",
+  "priceStats": {
+    "low": 550,
+    "high": 1560,
+    "avg": 1055,
+    "latest": 1560
+  },
+  "records": [
+    {
+      "coinName": "民国三年交通银行天津地名拾圆",
+      "normalizedBoxCode": "2072175034",
+      "displayBoxCode": "2072175-034",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10394920.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2072175-034/",
+      "price": 1560,
+      "priceWithFee": 1731.6,
+      "transactedAt": "2026-07-30 20:33:40",
+      "productCode": "873834053",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国三,三年,年交,交通,通银,银行,行天,天津,津地,地名,名拾,拾圆"
+    },
+    {
+      "coinName": "民国三年交通银行天津地名拾圆",
+      "normalizedBoxCode": "2152856060",
+      "displayBoxCode": "2152856-060",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10394923.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2152856-060/",
+      "price": 550,
+      "priceWithFee": 610.5,
+      "transactedAt": "2026-07-30 19:53:40",
+      "productCode": "873834056",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国三,三年,年交,交通,通银,银行,行天,天津,津地,地名,名拾,拾圆"
+    }
+  ]
+}

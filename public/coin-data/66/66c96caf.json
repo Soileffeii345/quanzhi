@@ -1,0 +1,31 @@
+{
+  "coinName": "2015年3盎司银币",
+  "slug": "66c96caf",
+  "saleCount": 1,
+  "keywords": "银,币,2015年,3盎司,年斐,斐济,济琥,琥珀,珀屋,屋镶,镶嵌,嵌琥,珀盎,盎司,司银,银币",
+  "priceStats": {
+    "low": 2350,
+    "high": 2350,
+    "avg": 2350,
+    "latest": 2350
+  },
+  "records": [
+    {
+      "coinName": "2015年斐济琥珀屋镶嵌琥珀3盎司银币",
+      "normalizedBoxCode": "4899653001",
+      "displayBoxCode": "4899653-001",
+      "gradingCompany": "NGC",
+      "grade": "MS 70",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/wgjsbizhang/10428977.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4899653-001/70/",
+      "price": 2350,
+      "priceWithFee": 2491,
+      "transactedAt": "2026-07-31 19:39:15",
+      "productCode": "878292009",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2015年,3盎司,年斐,斐济,济琥,琥珀,珀屋,屋镶,镶嵌,嵌琥,珀盎,盎司,司银,银币"
+    }
+  ]
+}

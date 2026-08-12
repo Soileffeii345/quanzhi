@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8656327053",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8656327053",
+      "displayBoxCode": "8656327-053",
+      "gradingCompany": "NGC",
+      "grade": "PF 69",
+      "coinName": "1981年中国精制硬币贰分",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10412717.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8656327-053/69/",
+      "price": 380,
+      "priceWithFee": 410.4,
+      "transactedAt": "2026-07-29 20:08:45",
+      "productCode": "876379006",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/876379006A.jpg",
+      "ocrConfidence": 38,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1981年,年中,中国,国精,精制,制硬,硬币,币贰,贰分,评级"
+    }
+  ]
+}

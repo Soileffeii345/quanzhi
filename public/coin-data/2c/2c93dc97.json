@@ -1,0 +1,31 @@
+{
+  "coinName": "清-咸丰重宝宝川当十",
+  "slug": "2c93dc97",
+  "saleCount": 1,
+  "keywords": "清咸,咸丰,丰重,重宝,宝宝,宝川,川当,当十",
+  "priceStats": {
+    "low": 360,
+    "high": 360,
+    "avg": 360,
+    "latest": 360
+  },
+  "records": [
+    {
+      "coinName": "清-咸丰重宝宝川当十",
+      "normalizedBoxCode": "1118717324",
+      "displayBoxCode": "1118717-324",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/guqian/10412220.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1118717-324/",
+      "price": 360,
+      "priceWithFee": 396,
+      "transactedAt": "2026-08-10 21:07:05",
+      "productCode": "876352021",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "清咸,咸丰,丰重,重宝,宝宝,宝川,川当,当十"
+    }
+  ]
+}

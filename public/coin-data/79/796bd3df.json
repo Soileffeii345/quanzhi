@@ -1,0 +1,65 @@
+{
+  "coinName": "民国三十年中央银行伍圆",
+  "slug": "796bd3df",
+  "saleCount": 3,
+  "keywords": "银,历史币,民国,国三,三十,十年,年中,中央,央银,银行,行伍,伍圆",
+  "priceStats": {
+    "low": 330,
+    "high": 520,
+    "avg": 393,
+    "latest": 330
+  },
+  "records": [
+    {
+      "coinName": "民国三十年中央银行伍圆",
+      "normalizedBoxCode": "2379378005",
+      "displayBoxCode": "2379378-005",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10405095.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2379378-005/",
+      "price": 330,
+      "priceWithFee": 366.3,
+      "transactedAt": "2026-08-06 21:36:25",
+      "productCode": "874291051",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国三,三十,十年,年中,中央,央银,银行,行伍,伍圆"
+    },
+    {
+      "coinName": "民国三十年中央银行伍圆",
+      "normalizedBoxCode": "2118322052",
+      "displayBoxCode": "2118322-052",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10394890.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2118322-052/",
+      "price": 520,
+      "priceWithFee": 577.2,
+      "transactedAt": "2026-07-30 22:02:40",
+      "productCode": "873834023",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国三,三十,十年,年中,中央,央银,银行,行伍,伍圆"
+    },
+    {
+      "coinName": "民国三十年中央银行伍圆",
+      "normalizedBoxCode": "2148194092",
+      "displayBoxCode": "2148194-092",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10394893.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2148194-092/",
+      "price": 330,
+      "priceWithFee": 366.3,
+      "transactedAt": "2026-07-30 21:00:40",
+      "productCode": "873834026",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国三,三十,十年,年中,中央,央银,银行,行伍,伍圆"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "coinName": "2025年福克兰群岛纸钞",
+  "slug": "040ebf7f",
+  "saleCount": 2,
+  "keywords": "钞,2025年,年福,福克,克兰,兰群,群岛,岛纸,纸钞",
+  "priceStats": {
+    "low": 210,
+    "high": 290,
+    "avg": 250,
+    "latest": 290
+  },
+  "records": [
+    {
+      "coinName": "2025年福克兰群岛纸钞",
+      "normalizedBoxCode": "2484957071",
+      "displayBoxCode": "2484957-071",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10431593.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2484957-071/",
+      "price": 290,
+      "priceWithFee": 321.9,
+      "transactedAt": "2026-07-28 22:20:35",
+      "productCode": "878414002",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,2025年,年福,福克,克兰,兰群,群岛,岛纸,纸钞"
+    },
+    {
+      "coinName": "2025年福克兰群岛纸钞",
+      "normalizedBoxCode": "2484576051",
+      "displayBoxCode": "2484576-051",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10431592.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2484576-051/",
+      "price": 210,
+      "priceWithFee": 233.1,
+      "transactedAt": "2026-07-28 22:14:35",
+      "productCode": "878414001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,2025年,年福,福克,克兰,兰群,群岛,岛纸,纸钞"
+    }
+  ]
+}

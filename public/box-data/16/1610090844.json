@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "1610090844",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "1610090844",
+      "displayBoxCode": "1610090-844",
+      "gradingCompany": "NGC",
+      "grade": "MS 62",
+      "coinName": "清代37.6克银锭",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/yinding/10398740.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1610090-844/62/",
+      "price": 1220,
+      "priceWithFee": 1354.2,
+      "transactedAt": "2026-08-03 21:39:05",
+      "productCode": "874881001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/874881001A.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,37.6克,清代,代克,克银,银锭"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "coinName": "1992年珍稀动物27克精制银币",
+  "slug": "38d9e88b",
+  "saleCount": 2,
+  "keywords": "银,币,1992年,27克,年中,中国,国珍,珍稀,稀动,动物,物第,第组,组白,白鹳,鹳克,克精,精制,制银,银币,评级,年珍,组雪,雪豹,豹克",
+  "priceStats": {
+    "low": 680,
+    "high": 820,
+    "avg": 750,
+    "latest": 820
+  },
+  "records": [
+    {
+      "coinName": "1992年中国珍稀动物第（3）组-白鹳27克精制银币",
+      "normalizedBoxCode": "8765667021",
+      "displayBoxCode": "8765667-021",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10443224.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8765667-021/69/",
+      "price": 820,
+      "priceWithFee": 848.7,
+      "transactedAt": "2026-08-03 21:24:20",
+      "productCode": "880261032",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1992年,27克,年中,中国,国珍,珍稀,稀动,动物,物第,第组,组白,白鹳,鹳克,克精,精制,制银,银币,评级"
+    },
+    {
+      "coinName": "1992年珍稀动物第（3）组-雪豹27克精制银币",
+      "normalizedBoxCode": "8187205174",
+      "displayBoxCode": "8187205-174",
+      "gradingCompany": "NGC",
+      "grade": "PF 58 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10433896.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8187205-174/58/",
+      "price": 680,
+      "priceWithFee": 703.8,
+      "transactedAt": "2026-08-03 20:25:10",
+      "productCode": "878997020",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1992年,27克,年珍,珍稀,稀动,动物,物第,第组,组雪,雪豹,豹克,克精,精制,制银,银币,评级"
+    }
+  ]
+}

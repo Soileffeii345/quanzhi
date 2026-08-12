@@ -1,15 +1,49 @@
 {
   "coinName": "1989年生肖15克精制银币",
   "slug": "4309589b",
-  "saleCount": 2,
+  "saleCount": 4,
   "keywords": "银,币,1989年,15克,生肖,年己,己巳,巳蛇,蛇年,年生,肖克,克精,精制,制银,银币,评级",
   "priceStats": {
     "low": 850,
-    "high": 1080,
-    "avg": 965,
-    "latest": 1080
+    "high": 1280,
+    "avg": 1035,
+    "latest": 1280
   },
   "records": [
+    {
+      "coinName": "1989年己巳蛇年生肖15克精制银币",
+      "normalizedBoxCode": "8588549017",
+      "displayBoxCode": "8588549-017",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10432559.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8588549-017/69/",
+      "price": 1280,
+      "priceWithFee": 1324.8,
+      "transactedAt": "2026-08-03 21:01:00",
+      "productCode": "878833003",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1989年,15克,生肖,年己,己巳,巳蛇,蛇年,年生,肖克,克精,精制,制银,银币,评级"
+    },
+    {
+      "coinName": "1989年己巳蛇年生肖15克精制银币",
+      "normalizedBoxCode": "8587799004",
+      "displayBoxCode": "8587799-004",
+      "gradingCompany": "NGC",
+      "grade": "PF 68 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10433905.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8587799-004/68/",
+      "price": 930,
+      "priceWithFee": 962.55,
+      "transactedAt": "2026-08-03 21:00:10",
+      "productCode": "878997029",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1989年,15克,生肖,年己,己巳,巳蛇,蛇年,年生,肖克,克精,精制,制银,银币,评级"
+    },
     {
       "coinName": "1989年己巳蛇年生肖15克精制银币",
       "normalizedBoxCode": "3774094032",

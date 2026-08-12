@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8824986013",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8824986013",
+      "displayBoxCode": "8824986-013",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "coinName": "2009年澳大利亚牛年生肖1公斤银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/wgjsbizhang/10449256.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8824986-013/69/",
+      "price": 15600,
+      "priceWithFee": 16536,
+      "transactedAt": "2026-08-07 19:41:45",
+      "productCode": "881125001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/32/881125001A.jpg",
+      "ocrConfidence": 39,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2009年,1公斤,生肖,年澳,澳大,大利,利亚,亚牛,牛年,年生,肖公,公斤,斤银,银币,外国/特区"
+    }
+  ]
+}

@@ -1,32 +1,15 @@
 {
   "coinName": "1986年3盎司金币",
   "slug": "7052a25c",
-  "saleCount": 14,
-  "keywords": "金,币,1986年,3盎司,年盎,盎司,司国,国际,际和,和平,平年,年金,金币,司历,历史,史人,人物,物第,第组,组刘,刘邦,邦金,币高,高年,年小,小版,年大,大版,司野,野生,生动,动物,物基,基金,金会,会牦,牦牛,牛金,币断,断山",
+  "saleCount": 13,
+  "keywords": "金,币,1986年,3盎司,年盎,盎司,司历,历史,史人,人物,物第,第组,组刘,刘邦,邦金,金币,币高,高年,年小,小版,年大,大版,司野,野生,生动,动物,物基,基金,金会,会牦,牦牛,牛金,币断,断山",
   "priceStats": {
     "low": 7060,
-    "high": 41800,
-    "avg": 11442,
-    "latest": 41800
+    "high": 10390,
+    "avg": 9107,
+    "latest": 10230
   },
   "records": [
-    {
-      "coinName": "1986年1/3盎司国际和平年金币",
-      "normalizedBoxCode": "8189531001",
-      "displayBoxCode": "8189531-001",
-      "gradingCompany": "NGC",
-      "grade": "PF 69 ULTRA CAMEO",
-      "platform": "易金在线",
-      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/456732.html",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/8189531-001/69/",
-      "price": 41800,
-      "priceWithFee": null,
-      "transactedAt": "2026-08-06 17:31:55",
-      "productCode": "AA535073A",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "金,币,1986年,3盎司,年盎,盎司,司国,国际,际和,和平,平年,年金,金币"
-    },
     {
       "coinName": "1986年1/3盎司历史人物第3组刘邦金币(高年小版)",
       "normalizedBoxCode": "2801510022",

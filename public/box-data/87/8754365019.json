@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8754365019",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8754365019",
+      "displayBoxCode": "8754365-019",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1988年广西壮族自治区成立30周年流通纪念币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10424159.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8754365-019/",
+      "price": 270,
+      "priceWithFee": 291.6,
+      "transactedAt": "2026-07-29 20:20:05",
+      "productCode": "877654007",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/877654007A.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1988年,年广,广西,西壮,壮族,族自,自治,治区,区成,成立,立周,周年,年流,流通,通纪,纪念,念币"
+    }
+  ]
+}

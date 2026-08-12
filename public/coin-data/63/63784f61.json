@@ -1,0 +1,31 @@
+{
+  "coinName": "1995年奥运会27克精制银币",
+  "slug": "63784f61",
+  "saleCount": 1,
+  "keywords": "银,币,1995年,27克,奥运,年第,第届,届奥,运会,会单,单杠,杠运,运动,动员,员克,克精,精制,制银,银币,评级",
+  "priceStats": {
+    "low": 470,
+    "high": 470,
+    "avg": 470,
+    "latest": 470
+  },
+  "records": [
+    {
+      "coinName": "1995年第26届奥运会-单杠运动员27克精制银币",
+      "normalizedBoxCode": "8754833063",
+      "displayBoxCode": "8754833-063",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10433900.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8754833-063/",
+      "price": 470,
+      "priceWithFee": 486.45,
+      "transactedAt": "2026-08-03 20:25:35",
+      "productCode": "878997024",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1995年,27克,奥运,年第,第届,届奥,运会,会单,单杠,杠运,运动,动员,员克,克精,精制,制银,银币,评级"
+    }
+  ]
+}

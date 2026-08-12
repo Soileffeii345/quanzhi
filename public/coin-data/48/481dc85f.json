@@ -1,15 +1,32 @@
 {
   "coinName": "1996年31.104克普制银币",
   "slug": "481dc85f",
-  "saleCount": 7,
+  "saleCount": 8,
   "keywords": "银,币,钞,1996年,1盎司,年中,中国,国邮,邮政,政周,周年,年大,大龙,龙邮,邮票,票盎,盎司,司普,普制,制银,银币,年北,北京,京国,国际,际钱,钱币,币博,博览,览会,会盎,宗教,年莲,莲花,花观,观音,音盎",
   "priceStats": {
     "low": 600,
     "high": 920,
-    "avg": 806,
-    "latest": 600
+    "avg": 804,
+    "latest": 790
   },
   "records": [
+    {
+      "coinName": "1996年中国邮政100周年-大龙邮票1盎司普制银币",
+      "normalizedBoxCode": "8754540005",
+      "displayBoxCode": "8754540-005",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10405252.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8754540-005/69/",
+      "price": 790,
+      "priceWithFee": 817.65,
+      "transactedAt": "2026-08-03 19:48:30",
+      "productCode": "875556001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,钞,1996年,1盎司,年中,中国,国邮,邮政,政周,周年,年大,大龙,龙邮,邮票,票盎,盎司,司普,普制,制银,银币"
+    },
     {
       "coinName": "1996年中国邮政100周年-大龙邮票1盎司普制银币",
       "normalizedBoxCode": "8754540004",

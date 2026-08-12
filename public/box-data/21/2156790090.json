@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2156790090",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2156790090",
+      "displayBoxCode": "2156790-090",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "民国三十年交通银行拾圆",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10394912.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2156790-090/",
+      "price": 430,
+      "priceWithFee": 477.3,
+      "transactedAt": "2026-07-30 21:22:10",
+      "productCode": "873834045",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/873834045B.jpg",
+      "ocrConfidence": 31,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国三,三十,十年,年交,交通,通银,银行,行拾,拾圆"
+    }
+  ]
+}

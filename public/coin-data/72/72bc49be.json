@@ -1,15 +1,49 @@
 {
   "coinName": "1980年10克精制银币",
   "slug": "72bc49be",
-  "saleCount": 2,
+  "saleCount": 4,
   "keywords": "银,币,1980年,10克,年中,中国,国奥,奥林,林匹,匹克,克委,委员,员会,会古,古代,代角,角力,力克,克精,精制,制银,银币,评级",
   "priceStats": {
-    "low": 660,
+    "low": 550,
     "high": 860,
-    "avg": 760,
-    "latest": 860
+    "avg": 678,
+    "latest": 640
   },
   "records": [
+    {
+      "coinName": "1980年中国奥林匹克委员会-古代角力10克精制银币",
+      "normalizedBoxCode": "3307152036",
+      "displayBoxCode": "3307152-036",
+      "gradingCompany": "NGC",
+      "grade": "PF 67 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10440197.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3307152-036/67/",
+      "price": 640,
+      "priceWithFee": 662.4,
+      "transactedAt": "2026-08-03 21:56:25",
+      "productCode": "879959009",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1980年,10克,年中,中国,国奥,奥林,林匹,匹克,克委,委员,员会,会古,古代,代角,角力,力克,克精,精制,制银,银币,评级"
+    },
+    {
+      "coinName": "1980年中国奥林匹克委员会-古代角力10克精制银币",
+      "normalizedBoxCode": "8587813006",
+      "displayBoxCode": "8587813-006",
+      "gradingCompany": "NGC",
+      "grade": "PF 67 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10433915.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8587813-006/67/",
+      "price": 550,
+      "priceWithFee": 569.25,
+      "transactedAt": "2026-08-03 20:28:55",
+      "productCode": "878997039",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1980年,10克,年中,中国,国奥,奥林,林匹,匹克,克委,委员,员会,会古,古代,代角,角力,力克,克精,精制,制银,银币,评级"
+    },
     {
       "coinName": "1980年中国奥林匹克委员会-古代角力10克精制银币",
       "normalizedBoxCode": "8818532048",

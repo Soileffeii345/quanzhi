@@ -1,15 +1,32 @@
 {
   "coinName": "1990年奥运会27克精制银币",
   "slug": "58392246",
-  "saleCount": 2,
-  "keywords": "银,币,1990年,27克,奥运,年第,第届,届奥,运会,会跳,跳水,水克,克精,精制,制银,银币,评级",
+  "saleCount": 3,
+  "keywords": "银,币,1990年,27克,奥运,年第,第届,届奥,运会,会自,自行,行车,车克,克精,精制,制银,银币,评级,会跳,跳水,水克",
   "priceStats": {
     "low": 440,
     "high": 530,
-    "avg": 485,
-    "latest": 440
+    "avg": 483,
+    "latest": 480
   },
   "records": [
+    {
+      "coinName": "1990年第25届奥运会-自行车27克精制银币",
+      "normalizedBoxCode": "8754703041",
+      "displayBoxCode": "8754703-041",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10443223.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8754703-041/69/",
+      "price": 480,
+      "priceWithFee": 496.8,
+      "transactedAt": "2026-08-03 20:10:35",
+      "productCode": "880261031",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1990年,27克,奥运,年第,第届,届奥,运会,会自,自行,行车,车克,克精,精制,制银,银币,评级"
+    },
     {
       "coinName": "1990年第25届奥运会-跳水27克精制银币",
       "normalizedBoxCode": "8648845005",

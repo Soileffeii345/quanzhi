@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6153366006",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6153366006",
+      "displayBoxCode": "6153366-006",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "奉天省造癸卯光绪元宝十文铜币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguojindaijizhibi/10379531.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6153366-006/",
+      "price": 1080,
+      "priceWithFee": 1166.4,
+      "transactedAt": "2026-08-03 19:51:05",
+      "productCode": "872794003",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/872794003A.jpg",
+      "ocrConfidence": 37,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "铜,币,历史币,龙洋,龙,元宝,奉天,天省,省造,造癸,癸卯,卯光,光绪,绪元,宝十,十文,文铜,铜币"
+    }
+  ]
+}

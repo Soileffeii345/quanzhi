@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2237963090",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2237963090",
+      "displayBoxCode": "2237963-090",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1960年第三版人民币3罗马五星水印壹圆",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/478068.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2237963-090/",
+      "price": 250,
+      "priceWithFee": null,
+      "transactedAt": "2025-06-03 20:59:03",
+      "productCode": "KH067479",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250517/large_sell_dwegewfg2hozbhxt.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1960年,年第,第三,三版,版人,人民,民币,币罗,罗马,马五,五星,星水,水印,印壹,壹圆"
+    }
+  ]
+}

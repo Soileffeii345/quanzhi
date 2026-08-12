@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "1401647039",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "1401647039",
+      "displayBoxCode": "1401647-039",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "民国二十六年中国农民银行贰角",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10415834.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1401647-039/",
+      "price": 1360,
+      "priceWithFee": 1509.6,
+      "transactedAt": "2026-08-06 21:44:20",
+      "productCode": "876935007",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/876935007B.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国二,二十,十六,六年,年中,中国,国农,农民,民银,银行,行贰,贰角"
+    }
+  ]
+}

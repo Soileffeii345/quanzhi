@@ -1,0 +1,31 @@
+{
+  "coinName": "1997年生肖2盎司银币",
+  "slug": "7860c2b7",
+  "saleCount": 1,
+  "keywords": "银,币,1997年,2盎司,生肖,年新,新加,加坡,坡盎,盎司,司生,肖牛,牛银,银币",
+  "priceStats": {
+    "low": 1500,
+    "high": 1500,
+    "avg": 1500,
+    "latest": 1500
+  },
+  "records": [
+    {
+      "coinName": "1997年新加坡2盎司生肖牛银币",
+      "normalizedBoxCode": "6197030019",
+      "displayBoxCode": "6197030-019",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/570861.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6197030-019/69/",
+      "price": 1500,
+      "priceWithFee": null,
+      "transactedAt": "2026-04-09 07:41:28",
+      "productCode": "KH129089",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1997年,2盎司,生肖,年新,新加,加坡,坡盎,盎司,司生,肖牛,牛银,银币"
+    }
+  ]
+}

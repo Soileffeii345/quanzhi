@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2157796049",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2157796049",
+      "displayBoxCode": "2157796-049",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "厦门劝业银行伍角二枚",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/difangsipiao/10401034.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2157796-049/",
+      "price": 220,
+      "priceWithFee": 244.2,
+      "transactedAt": "2026-08-04 21:22:25",
+      "productCode": "875130005",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/875130005B.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,厦门,门劝,劝业,业银,银行,行伍,伍角,角二,二枚"
+    }
+  ]
+}

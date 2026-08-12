@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8035063085",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8035063085",
+      "displayBoxCode": "8035063-085",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "第三版人民币轮船5分、飞机2分、汽车1分各一枚，共三枚",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/disanbanrenminbi/10450207.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8035063-085/",
+      "price": 320,
+      "priceWithFee": 345.6,
+      "transactedAt": "2026-08-08 21:09:50",
+      "productCode": "881035024",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/32/881035024B.jpg",
+      "ocrConfidence": 28,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,第三,三版,版人,人民,民币,币轮,轮船,船分,分飞,飞机,机分,分汽,汽车,车分,分各,各一,一枚,枚共,共三,三枚"
+    }
+  ]
+}

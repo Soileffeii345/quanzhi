@@ -1,0 +1,31 @@
+{
+  "coinName": "民国十五年吉林永衡官银钱号伍圆正反票样",
+  "slug": "35a19fed",
+  "saleCount": 1,
+  "keywords": "银,钞,历史币,民国,国十,十五,五年,年吉,吉林,林永,永衡,衡官,官银,银钱,钱号,号伍,伍圆,圆正,正反,反票,票样,样各,各一,一枚",
+  "priceStats": {
+    "low": 5500,
+    "high": 5500,
+    "avg": 5500,
+    "latest": 5500
+  },
+  "records": [
+    {
+      "coinName": "民国十五年吉林永衡官银钱号伍圆正反票样各一枚",
+      "normalizedBoxCode": "2277311025",
+      "displayBoxCode": "2277311-025",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/minguoshengshigejiyinhangzhichao/10406560.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2277311-025/",
+      "price": 5500,
+      "priceWithFee": 6105,
+      "transactedAt": "2026-08-06 21:49:45",
+      "productCode": "875402008",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,钞,历史币,民国,国十,十五,五年,年吉,吉林,林永,永衡,衡官,官银,银钱,钱号,号伍,伍圆,圆正,正反,反票,票样,样各,各一,一枚"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2060563023",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2060563023",
+      "displayBoxCode": "2060563-023",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2021年中国银行辛丑牛年生肖澳门币拾圆",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/liantichao-jinianchao/10439389.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2060563-023/",
+      "price": 60,
+      "priceWithFee": 64.8,
+      "transactedAt": "2026-08-04 19:11:45",
+      "productCode": "879666004",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/31/879666004B.jpg",
+      "ocrConfidence": 28,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2021年,生肖,年中,中国,国银,银行,行辛,辛丑,丑牛,牛年,年生,肖澳,澳门,门币,币拾,拾圆,外国/特区"
+    }
+  ]
+}

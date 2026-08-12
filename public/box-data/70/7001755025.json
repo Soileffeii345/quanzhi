@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "7001755025",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "7001755025",
+      "displayBoxCode": "7001755-025",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1940年中央储备银行壹角",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/difangsipiao/10405051.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/7001755-025/",
+      "price": 360,
+      "priceWithFee": 399.6,
+      "transactedAt": "2026-08-06 19:25:35",
+      "productCode": "874291007",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/874291007B.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,1940年,年中,中央,央储,储备,备银,银行,行壹,壹角"
+    }
+  ]
+}

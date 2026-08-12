@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2563354022",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2563354022",
+      "displayBoxCode": "2563354-022",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "第三版人民币10元",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/liantichao-jinianchao/10437368.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2563354-022/",
+      "price": 560,
+      "priceWithFee": 604.8,
+      "transactedAt": "2026-08-01 19:18:45",
+      "productCode": "879419006",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/31/879419006B.jpg",
+      "ocrConfidence": 31,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,第三,三版,版人,人民,民币,币元"
+    }
+  ]
+}

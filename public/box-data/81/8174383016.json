@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8174383016",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8174383016",
+      "displayBoxCode": "8174383-016",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "coinName": "2007年丁亥猪年生肖1/10盎司普制金币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-jin/10430053.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8174383-016/69/",
+      "price": 3350,
+      "priceWithFee": 3467.25,
+      "transactedAt": "2026-07-30 20:47:25",
+      "productCode": "878535013",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/878535013A.jpg",
+      "ocrConfidence": 31,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2007年,10盎司,生肖,年丁,丁亥,亥猪,猪年,年生,肖盎,盎司,司普,普制,制金,金币"
+    }
+  ]
+}

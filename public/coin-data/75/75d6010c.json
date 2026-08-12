@@ -1,12 +1,12 @@
 {
   "coinName": "1985年庆祝西藏自治区成立20周年流通纪念币",
   "slug": "75d6010c",
-  "saleCount": 8,
+  "saleCount": 10,
   "keywords": "币,1985年,年庆,庆祝,祝西,西藏,藏自,自治,治区,区成,成立,立周,周年,年流,流通,通纪,纪念,念币,币远,远山,山版,币二,二枚",
   "priceStats": {
     "low": 300,
-    "high": 5800,
-    "avg": 1328,
+    "high": 7900,
+    "avg": 1882,
     "latest": 2100
   },
   "records": [
@@ -26,6 +26,40 @@
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "币,1985年,年庆,庆祝,祝西,西藏,藏自,自治,治区,区成,成立,立周,周年,年流,流通,通纪,纪念,念币,币远,远山,山版"
+    },
+    {
+      "coinName": "1985年庆祝西藏自治区成立20周年流通纪念币",
+      "normalizedBoxCode": "6759168008",
+      "displayBoxCode": "6759168-008",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10419105.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6759168-008/",
+      "price": 7900,
+      "priceWithFee": 8532,
+      "transactedAt": "2026-07-29 20:11:25",
+      "productCode": "877235004",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1985年,年庆,庆祝,祝西,西藏,藏自,自治,治区,区成,成立,立周,周年,年流,流通,通纪,纪念,念币"
+    },
+    {
+      "coinName": "1985年庆祝西藏自治区成立20周年流通纪念币",
+      "normalizedBoxCode": "8815477057",
+      "displayBoxCode": "8815477-057",
+      "gradingCompany": "NGC",
+      "grade": "MS 66",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10416909.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8815477-057/66/",
+      "price": 300,
+      "priceWithFee": 324,
+      "transactedAt": "2026-07-29 19:22:05",
+      "productCode": "877105008",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1985年,年庆,庆祝,祝西,西藏,藏自,自治,治区,区成,成立,立周,周年,年流,流通,通纪,纪念,念币"
     },
     {
       "coinName": "1985年庆祝西藏自治区成立20周年流通纪念币",

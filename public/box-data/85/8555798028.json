@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8555798028",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8555798028",
+      "displayBoxCode": "8555798-028",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1988年第24届奥运会27克精制银币三枚一套",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10433879.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8555798-028/69/",
+      "price": 1820,
+      "priceWithFee": 1883.7,
+      "transactedAt": "2026-08-03 20:56:50",
+      "productCode": "878997003",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/878997003A.jpg",
+      "ocrConfidence": 38,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1988年,27克,奥运,年第,第届,届奥,运会,会克,克精,精制,制银,银币,币三,三枚,枚一,一套,评级"
+    }
+  ]
+}

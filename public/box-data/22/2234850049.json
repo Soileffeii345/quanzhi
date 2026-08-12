@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2234850049",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2234850049",
+      "displayBoxCode": "2234850-049",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2017年美国50美元纸钞",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10431531.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2234850-049/",
+      "price": 990,
+      "priceWithFee": 1098.9,
+      "transactedAt": "2026-07-30 22:22:10",
+      "productCode": "878665004",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/878665004B.jpg",
+      "ocrConfidence": 29,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,2017年,年美,美国,国美,美元,元纸,纸钞,外国/特区"
+    }
+  ]
+}

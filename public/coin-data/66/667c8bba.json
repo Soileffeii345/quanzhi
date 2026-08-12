@@ -1,0 +1,31 @@
+{
+  "coinName": "民国十一年广西临时军用票伍角",
+  "slug": "667c8bba",
+  "saleCount": 1,
+  "keywords": "钞,历史币,民国,国十,十一,一年,年广,广西,西临,临时,时军,军用,用票,票伍,伍角",
+  "priceStats": {
+    "low": 4550,
+    "high": 4550,
+    "avg": 4550,
+    "latest": 4550
+  },
+  "records": [
+    {
+      "coinName": "民国十一年广西临时军用票伍角",
+      "normalizedBoxCode": "2093046048",
+      "displayBoxCode": "2093046-048",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/junyongpiao/10392922.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2093046-048/",
+      "price": 4550,
+      "priceWithFee": 5050.5,
+      "transactedAt": "2026-07-30 21:05:10",
+      "productCode": "873706002",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,历史币,民国,国十,十一,一年,年广,广西,西临,临时,时军,军用,用票,票伍,伍角"
+    }
+  ]
+}

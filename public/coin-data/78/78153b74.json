@@ -1,15 +1,49 @@
 {
   "coinName": "2026年生肖15克精制银币",
   "slug": "78153b74",
-  "saleCount": 5,
-  "keywords": "银,币,2026年,15克,生肖,年丙,丙午,午马,马年,年生,肖克,克精,精制,制银,银币,评级,币二,二枚",
+  "saleCount": 7,
+  "keywords": "银,币,2026年,15克,生肖,年丙,丙午,午马,马年,年生,肖克,克精,精制,制银,银币,币二,二枚,评级,币三,三枚",
   "priceStats": {
     "low": 580,
-    "high": 1180,
-    "avg": 850,
-    "latest": 580
+    "high": 1540,
+    "avg": 976,
+    "latest": 1040
   },
   "records": [
+    {
+      "coinName": "2026年丙午马年生肖15克精制银币二枚",
+      "normalizedBoxCode": "2026020400",
+      "displayBoxCode": "2026020-400",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10451457.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2026020-400/",
+      "price": 1040,
+      "priceWithFee": 1076.4,
+      "transactedAt": "2026-08-08 19:58:50",
+      "productCode": "881316001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2026年,15克,生肖,年丙,丙午,午马,马年,年生,肖克,克精,精制,制银,银币,币二,二枚,评级"
+    },
+    {
+      "coinName": "2026年丙午马年生肖15克精制银币三枚",
+      "normalizedBoxCode": "5026020400",
+      "displayBoxCode": "5026020-400",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10451409.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/5026020-400/",
+      "price": 1540,
+      "priceWithFee": 1593.9,
+      "transactedAt": "2026-08-08 19:40:50",
+      "productCode": "881143003",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2026年,15克,生肖,年丙,丙午,午马,马年,年生,肖克,克精,精制,制银,银币,币三,三枚,评级"
+    },
     {
       "coinName": "2026年丙午马年生肖15克精制银币",
       "normalizedBoxCode": "8757500006",

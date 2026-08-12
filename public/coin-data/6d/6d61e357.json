@@ -1,15 +1,49 @@
 {
   "coinName": "民国三十五年中央银行贰仟圆",
   "slug": "6d61e357",
-  "saleCount": 1,
+  "saleCount": 3,
   "keywords": "银,历史币,民国,国三,三十,十五,五年,年中,中央,央银,银行,行贰,贰仟,仟圆",
   "priceStats": {
     "low": 960,
-    "high": 960,
-    "avg": 960,
-    "latest": 960
+    "high": 2800,
+    "avg": 1773,
+    "latest": 1560
   },
   "records": [
+    {
+      "coinName": "民国三十五年中央银行贰仟圆",
+      "normalizedBoxCode": "2004974015",
+      "displayBoxCode": "2004974-015",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10401230.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2004974-015/",
+      "price": 1560,
+      "priceWithFee": 1731.6,
+      "transactedAt": "2026-08-06 20:36:25",
+      "productCode": "875307004",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国三,三十,十五,五年,年中,中央,央银,银行,行贰,贰仟,仟圆"
+    },
+    {
+      "coinName": "民国三十五年中央银行贰仟圆",
+      "normalizedBoxCode": "1884145050",
+      "displayBoxCode": "1884145-050",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10400468.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1884145-050/",
+      "price": 2800,
+      "priceWithFee": 3108,
+      "transactedAt": "2026-07-30 21:48:10",
+      "productCode": "874970003",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国三,三十,十五,五年,年中,中央,央银,银行,行贰,贰仟,仟圆"
+    },
     {
       "coinName": "民国三十五年中央银行贰仟圆",
       "normalizedBoxCode": "2004974016",

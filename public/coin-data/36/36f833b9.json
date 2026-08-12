@@ -1,0 +1,31 @@
+{
+  "coinName": "2003年熊猫5盎司精制银币",
+  "slug": "36f833b9",
+  "saleCount": 1,
+  "keywords": "银,币,2003年,5盎司,熊猫,年熊,猫盎,盎司,司精,精制,制银,银币,评级",
+  "priceStats": {
+    "low": 4100,
+    "high": 4100,
+    "avg": 4100,
+    "latest": 4100
+  },
+  "records": [
+    {
+      "coinName": "2003年熊猫5盎司精制银币",
+      "normalizedBoxCode": "8589413001",
+      "displayBoxCode": "8589413-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-jiuyin/10433951.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8589413-001/69/",
+      "price": 4100,
+      "priceWithFee": 4243.5,
+      "transactedAt": "2026-07-30 20:24:05",
+      "productCode": "878995031",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2003年,5盎司,熊猫,年熊,猫盎,盎司,司精,精制,制银,银币,评级"
+    }
+  ]
+}

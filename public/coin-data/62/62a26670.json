@@ -1,0 +1,31 @@
+{
+  "coinName": "2022年生肖15克精制银币",
+  "slug": "62a26670",
+  "saleCount": 1,
+  "keywords": "银,币,2022年,15克,生肖,年壬,壬寅,寅虎,虎年,年生,肖克,克精,精制,制银,银币,评级",
+  "priceStats": {
+    "low": 420,
+    "high": 420,
+    "avg": 420,
+    "latest": 420
+  },
+  "records": [
+    {
+      "coinName": "2022年壬寅虎年生肖15克精制银币",
+      "normalizedBoxCode": "8766412008",
+      "displayBoxCode": "8766412-008",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10435481.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8766412-008/",
+      "price": 420,
+      "priceWithFee": 434.7,
+      "transactedAt": "2026-08-01 19:41:50",
+      "productCode": "879095003",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2022年,15克,生肖,年壬,壬寅,寅虎,虎年,年生,肖克,克精,精制,制银,银币,评级"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "coinName": "第三版人民币2角红冠2罗马二枚、5角凸版水印一枚，",
+  "slug": "15d661a1",
+  "saleCount": 1,
+  "keywords": "币,第三,三版,版人,人民,民币,币角,角红,红冠,冠罗,罗马,马二,二枚,枚角,角凸,凸版,版水,水印,印一,一枚,枚共,共三,三枚",
+  "priceStats": {
+    "low": 240,
+    "high": 240,
+    "avg": 240,
+    "latest": 240
+  },
+  "records": [
+    {
+      "coinName": "第三版人民币2角红冠2罗马二枚、5角凸版水印一枚，共三枚",
+      "normalizedBoxCode": "1770238024",
+      "displayBoxCode": "1770238-024",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/disanbanrenminbi/10448787.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1770238-024/",
+      "price": 240,
+      "priceWithFee": 259.2,
+      "transactedAt": "2026-08-08 20:31:50",
+      "productCode": "881016027",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,第三,三版,版人,人民,民币,币角,角红,红冠,冠罗,罗马,马二,二枚,枚角,角凸,凸版,版水,水印,印一,一枚,枚共,共三,三枚"
+    }
+  ]
+}

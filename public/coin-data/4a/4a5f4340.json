@@ -1,15 +1,32 @@
 {
   "coinName": "1990年精制",
   "slug": "4a5f4340",
-  "saleCount": 1,
-  "keywords": "币,1990年,年第,第届,届亚,亚洲,洲运,运动,动会,会精,精制,制流,流通,通纪,纪念,念币,币二,二枚,枚一,一套,评级",
+  "saleCount": 2,
+  "keywords": "币,1990年,年第,第十,十一,一届,届亚,亚洲,洲运,运动,动会,会精,精制,制流,流通,通纪,纪念,念币,币二,二枚,枚一,一套,评级,第届",
   "priceStats": {
-    "low": 3400,
+    "low": 3050,
     "high": 3400,
-    "avg": 3400,
-    "latest": 3400
+    "avg": 3225,
+    "latest": 3050
   },
   "records": [
+    {
+      "coinName": "1990年第十一届亚洲运动会精制流通纪念币二枚一套",
+      "normalizedBoxCode": "8170558026",
+      "displayBoxCode": "8170558-026",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10431542.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8170558-026/69/",
+      "price": 3050,
+      "priceWithFee": 3294,
+      "transactedAt": "2026-07-29 19:15:25",
+      "productCode": "878719001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1990年,年第,第十,十一,一届,届亚,亚洲,洲运,运动,动会,会精,精制,制流,流通,通纪,纪念,念币,币二,二枚,枚一,一套,评级"
+    },
     {
       "coinName": "1990年第11届亚洲运动会精制流通纪念币二枚一套",
       "normalizedBoxCode": "8170558065",

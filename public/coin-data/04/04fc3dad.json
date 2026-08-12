@@ -1,15 +1,32 @@
 {
   "coinName": "中央银行壹角",
   "slug": "04fc3dad",
-  "saleCount": 3,
+  "saleCount": 4,
   "keywords": "银,中央,央银,银行,行壹,壹角",
   "priceStats": {
     "low": 130,
-    "high": 210,
-    "avg": 160,
-    "latest": 210
+    "high": 280,
+    "avg": 190,
+    "latest": 280
   },
   "records": [
+    {
+      "coinName": "中央银行壹角",
+      "normalizedBoxCode": "2157360051",
+      "displayBoxCode": "2157360-051",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10410557.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2157360-051/",
+      "price": 280,
+      "priceWithFee": 310.8,
+      "transactedAt": "2026-08-06 20:01:50",
+      "productCode": "876315005",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,中央,央银,银行,行壹,壹角"
+    },
     {
       "coinName": "中央银行壹角",
       "normalizedBoxCode": "2098551050",

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6003857032",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6003857032",
+      "displayBoxCode": "6003857-032",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2003年癸未羊年生肖1/2盎司梅花形精制金币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-jin/10430041.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6003857-032/",
+      "price": 16400,
+      "priceWithFee": 16974,
+      "transactedAt": "2026-07-30 21:55:25",
+      "productCode": "878535001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/878535001A.jpg",
+      "ocrConfidence": 38,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2003年,2盎司,生肖,年癸,癸未,未羊,羊年,年生,肖盎,盎司,司梅,梅花,花形,形精,精制,制金,金币,评级"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2064329068",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2064329068",
+      "displayBoxCode": "2064329-068",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "民国二十四年交通银行伍圆",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10394894.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2064329-068/",
+      "price": 200,
+      "priceWithFee": 222,
+      "transactedAt": "2026-07-30 19:24:40",
+      "productCode": "873834027",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/873834027B.jpg",
+      "ocrConfidence": 31,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国二,二十,十四,四年,年交,交通,通银,银行,行伍,伍圆"
+    }
+  ]
+}

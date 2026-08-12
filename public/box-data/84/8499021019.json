@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8499021019",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8499021019",
+      "displayBoxCode": "8499021-019",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1995年乙亥猪年生肖12盎司精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10435028.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8499021-019/69/",
+      "price": 30500,
+      "priceWithFee": 31567.5,
+      "transactedAt": "2026-07-30 20:24:45",
+      "productCode": "879282001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/31/879282001A.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1995年,12盎司,生肖,年乙,乙亥,亥猪,猪年,年生,肖盎,盎司,司精,精制,制银,银币,评级"
+    }
+  ]
+}

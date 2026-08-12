@@ -1,0 +1,31 @@
+{
+  "coinName": "第一版人民币工厂与火车100元",
+  "slug": "524a625f",
+  "saleCount": 1,
+  "keywords": "币,第一,一版,版人,人民,民币,币工,工厂,厂与,与火,火车,车元",
+  "priceStats": {
+    "low": 4650,
+    "high": 4650,
+    "avg": 4650,
+    "latest": 4650
+  },
+  "records": [
+    {
+      "coinName": "第一版人民币工厂与火车100元",
+      "normalizedBoxCode": "2058992002",
+      "displayBoxCode": "2058992-002",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/diyibanrenminbi/10424894.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2058992-002/",
+      "price": 4650,
+      "priceWithFee": 5115,
+      "transactedAt": "2026-07-30 21:38:40",
+      "productCode": "877850011",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,第一,一版,版人,人民,民币,币工,工厂,厂与,与火,火车,车元"
+    }
+  ]
+}

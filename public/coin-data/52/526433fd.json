@@ -1,15 +1,49 @@
 {
   "coinName": "民国三十七年东北银行地方流通券壹仟圆",
   "slug": "526433fd",
-  "saleCount": 2,
+  "saleCount": 4,
   "keywords": "银,历史币,民国,国三,三十,十七,七年,年东,东北,北银,银行,行地,地方,方流,流通,通券,券壹,壹仟,仟圆",
   "priceStats": {
     "low": 430,
-    "high": 1040,
-    "avg": 735,
-    "latest": 1040
+    "high": 1300,
+    "avg": 895,
+    "latest": 810
   },
   "records": [
+    {
+      "coinName": "民国三十七年东北银行地方流通券壹仟圆",
+      "normalizedBoxCode": "2260365017",
+      "displayBoxCode": "2260365-017",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jiefangquzhichao/10417458.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2260365-017/",
+      "price": 810,
+      "priceWithFee": 899.1,
+      "transactedAt": "2026-08-06 21:13:55",
+      "productCode": "877008009",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国三,三十,十七,七年,年东,东北,北银,银行,行地,地方,方流,流通,通券,券壹,壹仟,仟圆"
+    },
+    {
+      "coinName": "民国三十七年东北银行地方流通券壹仟圆",
+      "normalizedBoxCode": "2315518016",
+      "displayBoxCode": "2315518-016",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jiefangquzhichao/10403503.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2315518-016/",
+      "price": 1300,
+      "priceWithFee": 1443,
+      "transactedAt": "2026-07-30 22:15:40",
+      "productCode": "874940008",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国三,三十,十七,七年,年东,东北,北银,银行,行地,地方,方流,流通,通券,券壹,壹仟,仟圆"
+    },
     {
       "coinName": "民国三十七年东北银行地方流通券壹仟圆",
       "normalizedBoxCode": "2434182013",

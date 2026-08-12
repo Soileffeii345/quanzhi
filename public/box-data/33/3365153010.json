@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "3365153010",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "3365153010",
+      "displayBoxCode": "3365153-010",
+      "gradingCompany": "NGC",
+      "grade": "PF 67 ULTRA CAMEO",
+      "coinName": "1996年金莲观音1/2盎司精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10435805.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3365153-010/67/",
+      "price": 640,
+      "priceWithFee": 662.4,
+      "transactedAt": "2026-08-03 21:39:20",
+      "productCode": "878621008",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/31/878621008A.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,1996年,2盎司,宗教,年金,金莲,莲观,观音,音盎,盎司,司精,精制,制银,银币,评级"
+    }
+  ]
+}

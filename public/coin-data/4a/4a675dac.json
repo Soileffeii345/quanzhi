@@ -1,15 +1,32 @@
 {
   "coinName": "1999年银币",
   "slug": "4a675dac",
-  "saleCount": 3,
+  "saleCount": 4,
   "keywords": "银,1999年,年香,香港,港渣,渣打,打银,银行,行壹,壹佰,佰圆,外国/特区,币,年美,美国,国总,总统,统夫,夫人,人多,多莉,莉麦,麦迪,迪逊,逊银,银币",
   "priceStats": {
-    "low": 240,
+    "low": 210,
     "high": 490,
-    "avg": 330,
-    "latest": 240
+    "avg": 300,
+    "latest": 210
   },
   "records": [
+    {
+      "coinName": "1999年香港渣打银行壹佰圆",
+      "normalizedBoxCode": "2261124026",
+      "displayBoxCode": "2261124-026",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/liantichao-jinianchao/10449234.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2261124-026/",
+      "price": 210,
+      "priceWithFee": 226.8,
+      "transactedAt": "2026-08-08 19:23:50",
+      "productCode": "880972008",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,1999年,年香,香港,港渣,渣打,打银,银行,行壹,壹佰,佰圆,外国/特区"
+    },
     {
       "coinName": "1999年香港渣打银行壹佰圆",
       "normalizedBoxCode": "2261124045",

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6406058037",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6406058037",
+      "displayBoxCode": "6406058-037",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1999年中华人民政治协商会议成立50周年精制流通纪念币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10440248.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6406058-037/",
+      "price": 230,
+      "priceWithFee": 248.4,
+      "transactedAt": "2026-08-05 20:58:35",
+      "productCode": "879956006",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/31/879956006A.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1999年,年中,中华,华人,人民,民政,政治,治协,协商,商会,会议,议成,成立,立周,周年,年精,精制,制流,流通,通纪,纪念,念币,评级"
+    }
+  ]
+}

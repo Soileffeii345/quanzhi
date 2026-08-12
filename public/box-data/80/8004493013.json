@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8004493013",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8004493013",
+      "displayBoxCode": "8004493-013",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "第二版人民币火车2角",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/dierbanrenminbi/10450213.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8004493-013/",
+      "price": 2200,
+      "priceWithFee": 2376,
+      "transactedAt": "2026-08-08 21:26:35",
+      "productCode": "881035030",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/32/881035030B.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,第二,二版,版人,人民,民币,币火,火车,车角"
+    }
+  ]
+}

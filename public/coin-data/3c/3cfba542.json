@@ -1,15 +1,49 @@
 {
   "coinName": "1991年生肖15克精制银币",
   "slug": "3cfba542",
-  "saleCount": 3,
+  "saleCount": 5,
   "keywords": "银,币,1991年,15克,生肖,年辛,辛未,未羊,羊年,年生,肖克,克精,精制,制银,银币,评级",
   "priceStats": {
     "low": 710,
-    "high": 900,
-    "avg": 777,
-    "latest": 710
+    "high": 1360,
+    "avg": 920,
+    "latest": 1360
   },
   "records": [
+    {
+      "coinName": "1991年辛未羊年生肖15克精制银币",
+      "normalizedBoxCode": "6744657005",
+      "displayBoxCode": "6744657-005",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10443142.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6744657-005/69/",
+      "price": 1360,
+      "priceWithFee": 1407.6,
+      "transactedAt": "2026-08-10 21:27:40",
+      "productCode": "880291002",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1991年,15克,生肖,年辛,辛未,未羊,羊年,年生,肖克,克精,精制,制银,银币,评级"
+    },
+    {
+      "coinName": "1991年辛未羊年生肖15克精制银币",
+      "normalizedBoxCode": "8587799005",
+      "displayBoxCode": "8587799-005",
+      "gradingCompany": "NGC",
+      "grade": "PF 68 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10433906.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8587799-005/68/",
+      "price": 910,
+      "priceWithFee": 941.85,
+      "transactedAt": "2026-08-03 20:26:25",
+      "productCode": "878997030",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1991年,15克,生肖,年辛,辛未,未羊,羊年,年生,肖克,克精,精制,制银,银币,评级"
+    },
     {
       "coinName": "1991年辛未羊年生肖15克精制银币",
       "normalizedBoxCode": "8581273002",

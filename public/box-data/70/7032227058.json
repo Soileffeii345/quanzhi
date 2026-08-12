@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "7032227058",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "7032227058",
+      "displayBoxCode": "7032227-058",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2000年迎接新世纪纪念钞壹佰圆(补号)",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/560916.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/7032227-058/",
+      "price": 2600,
+      "priceWithFee": null,
+      "transactedAt": "2026-07-02 15:23:32",
+      "productCode": "KH130185",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260310/large_sell_l8f4zm9jfudenypy.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,2000年,年迎,迎接,接新,新世,世纪,纪纪,纪念,念钞,钞壹,壹佰,佰圆,圆补,补号"
+    }
+  ]
+}

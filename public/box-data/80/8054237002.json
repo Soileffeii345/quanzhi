@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8054237002",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8054237002",
+      "displayBoxCode": "8054237-002",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "第三版人民币枣红1角连号二枚",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/disanbanrenminbi/10438303.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8054237-002/",
+      "price": 6200,
+      "priceWithFee": 6696,
+      "transactedAt": "2026-08-06 20:16:00",
+      "productCode": "878831005",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/31/878831005B.jpg",
+      "ocrConfidence": 25,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,第三,三版,版人,人民,民币,币枣,枣红,红角,角连,连号,号二,二枚"
+    }
+  ]
+}

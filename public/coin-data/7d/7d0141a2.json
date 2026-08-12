@@ -1,15 +1,32 @@
 {
   "coinName": "2002年15.552克精制金币",
   "slug": "7d0141a2",
-  "saleCount": 3,
-  "keywords": "金,币,2002年,2盎司,年中,中国,国石,石窟,窟艺,艺术,术龙,龙门,门石,窟盎,盎司,司精,精制,制金,金币,评级,国古,古典,典文,文学,学名,名著,著红,红楼,楼梦,梦第,第组,组湘,湘云,云醉,醉眠,眠盎,司八,八边,边形,形精,制彩,彩金",
+  "saleCount": 4,
+  "keywords": "金,币,2002年,2盎司,年四,四川,川三,三星,星堆,堆盎,盎司,司精,精制,制金,金币,评级,年中,中国,国石,石窟,窟艺,艺术,术龙,龙门,门石,窟盎,国古,古典,典文,文学,学名,名著,著红,红楼,楼梦,梦第,第组,组湘,湘云,云醉,醉眠,眠盎,司八,八边,边形,形精,制彩,彩金",
   "priceStats": {
     "low": 15200,
     "high": 24000,
-    "avg": 20067,
-    "latest": 21000
+    "avg": 19750,
+    "latest": 18800
   },
   "records": [
+    {
+      "coinName": "2002年四川三星堆1/2盎司精制金币",
+      "normalizedBoxCode": "8205126004",
+      "displayBoxCode": "8205126-004",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10443144.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8205126-004/70/",
+      "price": 18800,
+      "priceWithFee": 19458,
+      "transactedAt": "2026-08-06 20:16:45",
+      "productCode": "880291004",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2002年,2盎司,年四,四川,川三,三星,星堆,堆盎,盎司,司精,精制,制金,金币,评级"
+    },
     {
       "coinName": "2002年中国石窟艺术-龙门石窟1/2盎司精制金币",
       "normalizedBoxCode": "5801870001",

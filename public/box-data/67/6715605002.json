@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6715605002",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6715605002",
+      "displayBoxCode": "6715605-002",
+      "gradingCompany": "NGC",
+      "grade": "MS 70",
+      "coinName": "2023年喀麦隆奥雷德5盎司银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/wgjsbizhang/10428980.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6715605-002/70/",
+      "price": 4150,
+      "priceWithFee": 4399,
+      "transactedAt": "2026-07-31 19:40:05",
+      "productCode": "878292012",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/878292012A.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2023年,5盎司,年喀,喀麦,麦隆,隆奥,奥雷,雷德,德盎,盎司,司银,银币"
+    }
+  ]
+}

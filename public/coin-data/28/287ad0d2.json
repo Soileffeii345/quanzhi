@@ -1,0 +1,31 @@
+{
+  "coinName": "2005年生肖2公斤银币",
+  "slug": "287ad0d2",
+  "saleCount": 1,
+  "keywords": "银,币,2005年,2公斤,生肖,年澳,澳大,大利,利亚,亚鸡,鸡年,年生,肖公,公斤,斤银,银币,外国/特区",
+  "priceStats": {
+    "low": 7500,
+    "high": 7500,
+    "avg": 7500,
+    "latest": 7500
+  },
+  "records": [
+    {
+      "coinName": "2005年澳大利亚鸡年生肖1/2公斤银币",
+      "normalizedBoxCode": "8824986009",
+      "displayBoxCode": "8824986-009",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/wgjsbizhang/10449258.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8824986-009/69/",
+      "price": 7500,
+      "priceWithFee": 7950,
+      "transactedAt": "2026-08-07 20:00:05",
+      "productCode": "881125003",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2005年,2公斤,生肖,年澳,澳大,大利,利亚,亚鸡,鸡年,年生,肖公,公斤,斤银,银币,外国/特区"
+    }
+  ]
+}

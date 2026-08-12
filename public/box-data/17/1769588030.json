@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "1769588030",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "1769588030",
+      "displayBoxCode": "1769588-030",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "第三版人民币2角红冠3罗马平版",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/disanbanrenminbi/10441216.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1769588-030/",
+      "price": 200,
+      "priceWithFee": 216,
+      "transactedAt": "2026-08-04 19:20:25",
+      "productCode": "879966005",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/31/879966005B.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,第三,三版,版人,人民,民币,币角,角红,红冠,冠罗,罗马,马平,平版"
+    }
+  ]
+}

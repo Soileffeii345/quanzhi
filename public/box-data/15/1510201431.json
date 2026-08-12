@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "1510201431",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "1510201431",
+      "displayBoxCode": "1510201-431",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "民国三十三年裕民银行伍佰圆",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/minguoshengshigejiyinhangzhichao/10413537.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1510201-431/",
+      "price": 210,
+      "priceWithFee": 233.1,
+      "transactedAt": "2026-08-06 19:56:25",
+      "productCode": "876364007",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/876364007B.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国三,三十,十三,三年,年裕,裕民,民银,银行,行伍,伍佰,佰圆"
+    }
+  ]
+}

@@ -1,15 +1,32 @@
 {
   "coinName": "2014年银币",
   "slug": "7e305529",
-  "saleCount": 5,
-  "keywords": "银,币,2014年,年中,中国,国银,银行,行港,港币,币元,币壹,壹佰,佰圆,年香,香港,港上,上海,海汇,汇丰,丰银,币伍,伍拾,拾元,外国/特区,行壹,佰元,章,年南,南京,京青,青奥,奥会,会银,银章",
+  "saleCount": 7,
+  "keywords": "银,币,2014年,年香,香港,港上,上海,海汇,汇丰,丰银,银行,行港,港币,币贰,贰拾,拾圆,外国/特区,年中,中国,国银,币元,币壹,壹佰,佰圆,币伍,伍拾,拾元,行壹,佰元,年奥,奥地,地利,利柏,柏林,林墙,墙铁,铁幕,幕落,落下,下年,年银,银币,章,年南,南京,京青,青奥,奥会,会银,银章",
   "priceStats": {
-    "low": 230,
+    "low": 130,
     "high": 1000,
-    "avg": 406,
-    "latest": 300
+    "avg": 404,
+    "latest": 130
   },
   "records": [
+    {
+      "coinName": "2014年香港上海汇丰银行港币贰拾圆",
+      "normalizedBoxCode": "8044216036",
+      "displayBoxCode": "8044216-036",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/liantichao-jinianchao/10449229.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8044216-036/",
+      "price": 130,
+      "priceWithFee": 140.4,
+      "transactedAt": "2026-08-08 19:23:20",
+      "productCode": "880972003",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2014年,年香,香港,港上,上海,海汇,汇丰,丰银,银行,行港,港币,币贰,贰拾,拾圆,外国/特区"
+    },
     {
       "coinName": "2014年中国银行港币100元",
       "normalizedBoxCode": "2559422007",
@@ -77,6 +94,23 @@
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "银,2014年,年香,香港,港上,上海,海汇,汇丰,丰银,银行,行壹,壹佰,佰元,外国/特区"
+    },
+    {
+      "coinName": "2014年奥地利柏林墙铁幕落下25年银币",
+      "normalizedBoxCode": "6405747005",
+      "displayBoxCode": "6405747-005",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/555513.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6405747-005/",
+      "price": 670,
+      "priceWithFee": null,
+      "transactedAt": "2026-03-08 00:19:13",
+      "productCode": "KH120057",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2014年,年奥,奥地,地利,利柏,柏林,林墙,墙铁,铁幕,幕落,落下,下年,年银,银币"
     },
     {
       "coinName": "2014年南京青奥会银章",

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8587799004",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8587799004",
+      "displayBoxCode": "8587799-004",
+      "gradingCompany": "NGC",
+      "grade": "PF 68 ULTRA CAMEO",
+      "coinName": "1989年己巳蛇年生肖15克精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10433905.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8587799-004/68/",
+      "price": 930,
+      "priceWithFee": 962.55,
+      "transactedAt": "2026-08-03 21:00:10",
+      "productCode": "878997029",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/878997029A.jpg",
+      "ocrConfidence": 48,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1989年,15克,生肖,年己,己巳,巳蛇,蛇年,年生,肖克,克精,精制,制银,银币,评级"
+    }
+  ]
+}

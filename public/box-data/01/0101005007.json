@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "0101005007",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "0101005007",
+      "displayBoxCode": "0101005-007",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2020年纽埃3盎司黄金眼泪彩银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/553096.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/0101005-007/",
+      "price": 3000,
+      "priceWithFee": null,
+      "transactedAt": "2026-03-08 22:07:35",
+      "productCode": "KH123405",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260207/large_sell_njjsxsdcvcausp25.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,2020年,3盎司,年纽,纽埃,埃盎,盎司,司黄,黄金,金眼,眼泪,泪彩,彩银,银币"
+    }
+  ]
+}

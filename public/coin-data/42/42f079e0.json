@@ -1,0 +1,31 @@
+{
+  "coinName": "民国七年中国银行天津地名壹圆",
+  "slug": "42f079e0",
+  "saleCount": 1,
+  "keywords": "银,历史币,民国,国七,七年,年中,中国,国银,银行,行天,天津,津地,地名,名壹,壹圆",
+  "priceStats": {
+    "low": 65,
+    "high": 65,
+    "avg": 65,
+    "latest": 65
+  },
+  "records": [
+    {
+      "coinName": "民国七年中国银行天津地名壹圆",
+      "normalizedBoxCode": "1510277130",
+      "displayBoxCode": "1510277-130",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10412706.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1510277-130/",
+      "price": 65,
+      "priceWithFee": 72.15,
+      "transactedAt": "2026-08-04 21:17:25",
+      "productCode": "876509005",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国七,七年,年中,中国,国银,银行,行天,天津,津地,地名,名壹,壹圆"
+    }
+  ]
+}

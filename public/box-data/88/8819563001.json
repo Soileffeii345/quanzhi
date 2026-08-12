@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8819563001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8819563001",
+      "displayBoxCode": "8819563-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2009年中国古典文学名著《水浒传》第（1）组-智取生辰纲5盎司长方形精制彩金币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10412393.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8819563-001/69/",
+      "price": 147000,
+      "priceWithFee": 152145,
+      "transactedAt": "2026-07-30 20:28:05",
+      "productCode": "876501001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/876501001A.jpg",
+      "ocrConfidence": 47,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2009年,5盎司,年中,中国,国古,古典,典文,文学,学名,名著,著水,水浒,浒传,传第,第组,组智,智取,取生,生辰,辰纲,纲盎,盎司,司长,长方,方形,形精,精制,制彩,彩金,金币,评级"
+    }
+  ]
+}

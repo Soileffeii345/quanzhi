@@ -1,0 +1,31 @@
+{
+  "coinName": "1987年31.104克精制金币",
+  "slug": "687864ca",
+  "saleCount": 1,
+  "keywords": "金,章,1987年,1盎司,年中,中美,美友,友好,好盎,盎司,司精,精制,制金,金章,评级",
+  "priceStats": {
+    "low": 31500,
+    "high": 31500,
+    "avg": 31500,
+    "latest": 31500
+  },
+  "records": [
+    {
+      "coinName": "1987年中美友好1盎司精制金章",
+      "normalizedBoxCode": "6755943059",
+      "displayBoxCode": "6755943-059",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10446871.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6755943-059/69/",
+      "price": 31500,
+      "priceWithFee": 32602.5,
+      "transactedAt": "2026-08-10 22:07:10",
+      "productCode": "880849005",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,章,1987年,1盎司,年中,中美,美友,友好,好盎,盎司,司精,精制,制金,金章,评级"
+    }
+  ]
+}

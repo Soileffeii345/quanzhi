@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6758522004",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6758522004",
+      "displayBoxCode": "6758522-004",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2023年吉祥文化-人寿年丰100克精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10449419.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6758522-004/70/",
+      "price": 5500,
+      "priceWithFee": 5692.5,
+      "transactedAt": "2026-08-08 20:38:10",
+      "productCode": "881231002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/32/881231002A.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2023年,100克,吉祥文化,年吉,吉祥,祥文,文化,化人,人寿,寿年,年丰,丰克,克精,精制,制银,银币,评级"
+    }
+  ]
+}

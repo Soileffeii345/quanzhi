@@ -1,0 +1,65 @@
+{
+  "coinName": "民国二十九年中央储备银行壹圆",
+  "slug": "5f036c04",
+  "saleCount": 3,
+  "keywords": "银,历史币,民国,国二,二十,十九,九年,年中,中央,央储,储备,备银,银行,行壹,壹圆",
+  "priceStats": {
+    "low": 240,
+    "high": 1240,
+    "avg": 737,
+    "latest": 240
+  },
+  "records": [
+    {
+      "coinName": "民国二十九年中央储备银行壹圆",
+      "normalizedBoxCode": "2158661029",
+      "displayBoxCode": "2158661-029",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/difangsipiao/10405058.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2158661-029/",
+      "price": 240,
+      "priceWithFee": 266.4,
+      "transactedAt": "2026-08-06 21:36:00",
+      "productCode": "874291014",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国二,二十,十九,九年,年中,中央,央储,储备,备银,银行,行壹,壹圆"
+    },
+    {
+      "coinName": "民国二十九年中央储备银行壹圆",
+      "normalizedBoxCode": "2161788046",
+      "displayBoxCode": "2161788-046",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/difangsipiao/10405057.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2161788-046/",
+      "price": 1240,
+      "priceWithFee": 1376.4,
+      "transactedAt": "2026-08-06 21:08:30",
+      "productCode": "874291013",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国二,二十,十九,九年,年中,中央,央储,储备,备银,银行,行壹,壹圆"
+    },
+    {
+      "coinName": "民国二十九年中央储备银行壹圆",
+      "normalizedBoxCode": "2121082015",
+      "displayBoxCode": "2121082-015",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/difangsipiao/10405056.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2121082-015/",
+      "price": 730,
+      "priceWithFee": 810.3,
+      "transactedAt": "2026-08-06 19:26:25",
+      "productCode": "874291012",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国二,二十,十九,九年,年中,中央,央储,储备,备银,银行,行壹,壹圆"
+    }
+  ]
+}

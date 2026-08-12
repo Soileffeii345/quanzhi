@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2316015002",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2316015002",
+      "displayBoxCode": "2316015-002",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "民国二十四年中国银行伍圆",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10386604.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2316015-002/",
+      "price": 280,
+      "priceWithFee": 310.8,
+      "transactedAt": "2026-07-30 20:05:10",
+      "productCode": "873190005",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/27/873190005B.jpg",
+      "ocrConfidence": 28,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国二,二十,十四,四年,年中,中国,国银,银行,行伍,伍圆"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8823211014",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8823211014",
+      "displayBoxCode": "8823211-014",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2009年、2010年环境保护精制流通纪念币各一枚，共二枚",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10431617.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8823211-014/69/",
+      "price": 420,
+      "priceWithFee": 453.6,
+      "transactedAt": "2026-07-29 21:25:25",
+      "productCode": "878686010",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/878686010A.jpg",
+      "ocrConfidence": 43,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2009年,年年,年环,环境,境保,保护,护精,精制,制流,流通,通纪,纪念,念币,币各,各一,一枚,枚共,共二,二枚,评级"
+    }
+  ]
+}

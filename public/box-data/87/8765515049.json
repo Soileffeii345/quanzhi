@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8765515049",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8765515049",
+      "displayBoxCode": "8765515-049",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1992年中国杰出历史人物第（9）组-郑成功20克精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10424310.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8765515-049/",
+      "price": 520,
+      "priceWithFee": 538.2,
+      "transactedAt": "2026-08-03 20:17:15",
+      "productCode": "877959018",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/877959018A.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1992年,20克,年中,中国,国杰,杰出,出历,历史,史人,人物,物第,第组,组郑,郑成,成功,功克,克精,精制,制银,银币,评级"
+    }
+  ]
+}

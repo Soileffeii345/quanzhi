@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "3364222005",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "3364222005",
+      "displayBoxCode": "3364222-005",
+      "gradingCompany": "NGC",
+      "grade": "MS 68",
+      "coinName": "1999年镀金滴水观音1盎司普制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10440195.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3364222-005/68/",
+      "price": 1100,
+      "priceWithFee": 1138.5,
+      "transactedAt": "2026-08-03 20:03:30",
+      "productCode": "879959007",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/31/879959007A.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,1999年,1盎司,宗教,年镀,镀金,金滴,滴水,水观,观音,音盎,盎司,司普,普制,制银,银币"
+    }
+  ]
+}

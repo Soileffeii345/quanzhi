@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "5870677005",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "5870677005",
+      "displayBoxCode": "5870677-005",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "湖北省造光绪元宝七钱二分银元",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguojindaijizhibi/10405545.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/5870677-005/",
+      "price": 1260,
+      "priceWithFee": 1360.8,
+      "transactedAt": "2026-08-03 21:27:05",
+      "productCode": "875839001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/875839001A.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,龙洋,龙,元宝,湖北,鄂造,北省,省造,造光,光绪,绪元,宝七,七钱,钱二,二分,分银,银元"
+    }
+  ]
+}

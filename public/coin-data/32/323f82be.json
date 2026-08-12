@@ -1,0 +1,31 @@
+{
+  "coinName": "民国二十八年冀南银行太行地名伍圆",
+  "slug": "323f82be",
+  "saleCount": 1,
+  "keywords": "银,历史币,民国,国二,二十,十八,八年,年冀,冀南,南银,银行,行太,太行,行地,地名,名伍,伍圆",
+  "priceStats": {
+    "low": 3200,
+    "high": 3200,
+    "avg": 3200,
+    "latest": 3200
+  },
+  "records": [
+    {
+      "coinName": "民国二十八年冀南银行太行地名伍圆",
+      "normalizedBoxCode": "2277497024",
+      "displayBoxCode": "2277497-024",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jiefangquzhichao/10396290.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2277497-024/",
+      "price": 3200,
+      "priceWithFee": 3552,
+      "transactedAt": "2026-07-30 20:36:40",
+      "productCode": "874273003",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国二,二十,十八,八年,年冀,冀南,南银,银行,行太,太行,行地,地名,名伍,伍圆"
+    }
+  ]
+}

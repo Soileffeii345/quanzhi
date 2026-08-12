@@ -1,15 +1,49 @@
 {
   "coinName": "第三版人民币1角蓝冠2罗马",
   "slug": "557b5abd",
-  "saleCount": 9,
+  "saleCount": 11,
   "keywords": "币,第三,三版,版人,人民,民币,币角,角蓝,蓝冠,冠罗,罗马",
   "priceStats": {
-    "low": 250,
+    "low": 110,
     "high": 800,
-    "avg": 430,
-    "latest": 260
+    "avg": 410,
+    "latest": 110
   },
   "records": [
+    {
+      "coinName": "第三版人民币1角蓝冠2罗马",
+      "normalizedBoxCode": "7015357029",
+      "displayBoxCode": "7015357-029",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/disanbanrenminbi/10450186.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/7015357-029/",
+      "price": 110,
+      "priceWithFee": 118.8,
+      "transactedAt": "2026-08-08 20:40:20",
+      "productCode": "881035003",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,第三,三版,版人,人民,民币,币角,角蓝,蓝冠,冠罗,罗马"
+    },
+    {
+      "coinName": "第三版人民币1角蓝冠2罗马",
+      "normalizedBoxCode": "2213587058",
+      "displayBoxCode": "2213587-058",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/disanbanrenminbi/10439542.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2213587-058/",
+      "price": 530,
+      "priceWithFee": 572.4,
+      "transactedAt": "2026-08-04 19:11:05",
+      "productCode": "879698002",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,第三,三版,版人,人民,民币,币角,角蓝,蓝冠,冠罗,罗马"
+    },
     {
       "coinName": "第三版人民币1角蓝冠2罗马",
       "normalizedBoxCode": "2238849005",

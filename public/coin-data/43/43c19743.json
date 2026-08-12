@@ -1,0 +1,65 @@
+{
+  "coinName": "1984年奥运会7.776克精制银币",
+  "slug": "43c19743",
+  "saleCount": 3,
+  "keywords": "银,币,1984年,4盎司,奥运,年第,第届,届奥,运会,会男,男子,子跳,跳高,高盎,盎司,司精,精制,制银,银币,评级",
+  "priceStats": {
+    "low": 330,
+    "high": 780,
+    "avg": 483,
+    "latest": 340
+  },
+  "records": [
+    {
+      "coinName": "1984年第23届奥运会-男子跳高1/4盎司精制银币",
+      "normalizedBoxCode": "2771388017",
+      "displayBoxCode": "2771388-017",
+      "gradingCompany": "NGC",
+      "grade": "PF 64 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10429756.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2771388-017/64/",
+      "price": 340,
+      "priceWithFee": 351.9,
+      "transactedAt": "2026-08-03 20:49:20",
+      "productCode": "878576001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1984年,4盎司,奥运,年第,第届,届奥,运会,会男,男子,子跳,跳高,高盎,盎司,司精,精制,制银,银币,评级"
+    },
+    {
+      "coinName": "1984年第23届奥运会-男子跳高1/4盎司精制银币",
+      "normalizedBoxCode": "8588549008",
+      "displayBoxCode": "8588549-008",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10432558.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8588549-008/69/",
+      "price": 780,
+      "priceWithFee": 807.3,
+      "transactedAt": "2026-08-03 20:29:20",
+      "productCode": "878833002",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1984年,4盎司,奥运,年第,第届,届奥,运会,会男,男子,子跳,跳高,高盎,盎司,司精,精制,制银,银币,评级"
+    },
+    {
+      "coinName": "1984年第23届奥运会-男子跳高1/4盎司精制银币",
+      "normalizedBoxCode": "2771388016",
+      "displayBoxCode": "2771388-016",
+      "gradingCompany": "NGC",
+      "grade": "PF 64 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10440190.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2771388-016/64/",
+      "price": 330,
+      "priceWithFee": 341.55,
+      "transactedAt": "2026-08-03 20:02:15",
+      "productCode": "879959002",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1984年,4盎司,奥运,年第,第届,届奥,运会,会男,男子,子跳,跳高,高盎,盎司,司精,精制,制银,银币,评级"
+    }
+  ]
+}

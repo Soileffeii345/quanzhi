@@ -1,15 +1,32 @@
 {
   "coinName": "2016年生肖31.104克精制银币",
   "slug": "720a5cb4",
-  "saleCount": 6,
+  "saleCount": 7,
   "keywords": "银,币,2016年,1盎司,生肖,年丙,丙申,申猴,猴年,年生,肖盎,盎司,司精,精制,制彩,彩银,银币,评级,司扇,扇形,形精,制银",
   "priceStats": {
     "low": 560,
     "high": 710,
     "avg": 640,
-    "latest": 610
+    "latest": 640
   },
   "records": [
+    {
+      "coinName": "2016年丙申猴年生肖1盎司精制彩银币",
+      "normalizedBoxCode": "4312145016",
+      "displayBoxCode": "4312145-016",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10435744.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4312145-016/70/",
+      "price": 640,
+      "priceWithFee": 662.4,
+      "transactedAt": "2026-08-03 20:39:20",
+      "productCode": "879089023",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2016年,1盎司,生肖,年丙,丙申,申猴,猴年,年生,肖盎,盎司,司精,精制,制彩,彩银,银币,评级"
+    },
     {
       "coinName": "2016年丙申猴年生肖1盎司精制彩银币",
       "normalizedBoxCode": "4404019032",

@@ -1,0 +1,31 @@
+{
+  "coinName": "民国三十六年中央银行东北九省流通券伍百圆",
+  "slug": "374af8d0",
+  "saleCount": 1,
+  "keywords": "银,历史币,民国,国三,三十,十六,六年,年中,中央,央银,银行,行东,东北,北九,九省,省流,流通,通券,券伍,伍百,百圆",
+  "priceStats": {
+    "low": 620,
+    "high": 620,
+    "avg": 620,
+    "latest": 620
+  },
+  "records": [
+    {
+      "coinName": "民国三十六年中央银行东北九省流通券伍百圆",
+      "normalizedBoxCode": "2483369009",
+      "displayBoxCode": "2483369-009",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10395152.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2483369-009/",
+      "price": 620,
+      "priceWithFee": 688.2,
+      "transactedAt": "2026-07-30 22:09:10",
+      "productCode": "874269002",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国三,三十,十六,六年,年中,中央,央银,银行,行东,东北,北九,九省,省流,流通,通券,券伍,伍百,百圆"
+    }
+  ]
+}

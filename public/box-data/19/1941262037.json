@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "1941262037",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "1941262037",
+      "displayBoxCode": "1941262-037",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2020年PMG15周年周年1克金箔票样",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10409908.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1941262-037/",
+      "price": 1180,
+      "priceWithFee": 1221.3,
+      "transactedAt": "2026-08-03 22:14:45",
+      "productCode": "876290031",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/876290031B.jpg",
+      "ocrConfidence": 25,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,钞,2020年,1克,年周,周年,年克,克金,金箔,箔票,票样"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2137227012",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2137227012",
+      "displayBoxCode": "2137227-012",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "民国三年交通银行上海地名伍圆、民国二十九年中央储备银行伍圆各一枚，共二枚",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10394914.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2137227-012/",
+      "price": 330,
+      "priceWithFee": 366.3,
+      "transactedAt": "2026-07-30 19:28:10",
+      "productCode": "873834047",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/873834047B.jpg",
+      "ocrConfidence": 31,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国三,三年,年交,交通,通银,银行,行上,上海,海地,地名,名伍,伍圆,圆民,国二,二十,十九,九年,年中,中央,央储,储备,备银,行伍,圆各,各一,一枚,枚共,共二,二枚"
+    }
+  ]
+}

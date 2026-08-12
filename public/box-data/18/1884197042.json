@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "1884197042",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "1884197042",
+      "displayBoxCode": "1884197-042",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "民国十三年直隶省银行天津地名拾枚",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/minguoshengshigejiyinhangzhichao/10400472.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1884197-042/",
+      "price": 7400,
+      "priceWithFee": 8214,
+      "transactedAt": "2026-07-30 21:30:40",
+      "productCode": "874970007",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/874970007B.jpg",
+      "ocrConfidence": 32,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国十,十三,三年,年直,直隶,隶省,省银,银行,行天,天津,津地,地名,名拾,拾枚"
+    }
+  ]
+}

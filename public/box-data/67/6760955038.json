@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6760955038",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6760955038",
+      "displayBoxCode": "6760955-038",
+      "gradingCompany": "NGC",
+      "grade": "MS 70",
+      "coinName": "2023年乍得灵山大佛2盎司镀金银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/tongzhang/10417746.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6760955-038/70/",
+      "price": 1020,
+      "priceWithFee": 1132.2,
+      "transactedAt": "2026-07-31 20:17:40",
+      "productCode": "877175005",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/877175005A.jpg",
+      "ocrConfidence": 37,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,2023年,2盎司,宗教,年乍,乍得,得灵,灵山,山大,大佛,佛盎,盎司,司镀,镀金,金银,银币"
+    }
+  ]
+}

@@ -1,12 +1,12 @@
 {
   "coinName": "2011年31.104克精制银币",
   "slug": "3c2f4a3a",
-  "saleCount": 12,
+  "saleCount": 14,
   "keywords": "银,币,2011年,1盎司,年辛,辛亥,亥革,革命,命周,周年,年盎,盎司,司精,精制,制银,银币,评级,年清,清华,华大,大学,学建,建校,校周",
   "priceStats": {
     "low": 570,
     "high": 840,
-    "avg": 718,
+    "avg": 717,
     "latest": 670
   },
   "records": [
@@ -26,6 +26,40 @@
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "银,币,2011年,1盎司,年辛,辛亥,亥革,革命,命周,周年,年盎,盎司,司精,精制,制银,银币,评级"
+    },
+    {
+      "coinName": "2011年辛亥革命100周年1盎司精制银币",
+      "normalizedBoxCode": "8765513021",
+      "displayBoxCode": "8765513-021",
+      "gradingCompany": "NGC",
+      "grade": "PF69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10424313.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8765513-021/69/",
+      "price": 670,
+      "priceWithFee": 693.45,
+      "transactedAt": "2026-08-03 21:29:45",
+      "productCode": "877959021",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2011年,1盎司,年辛,辛亥,亥革,革命,命周,周年,年盎,盎司,司精,精制,制银,银币,评级"
+    },
+    {
+      "coinName": "2011年清华大学建校100周年1盎司精制银币",
+      "normalizedBoxCode": "8760900044",
+      "displayBoxCode": "8760900-044",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10436652.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8760900-044/69/",
+      "price": 760,
+      "priceWithFee": 786.6,
+      "transactedAt": "2026-08-03 19:58:05",
+      "productCode": "879566001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2011年,1盎司,年清,清华,华大,大学,学建,建校,校周,周年,年盎,盎司,司精,精制,制银,银币,评级"
     },
     {
       "coinName": "2011年清华大学建校100周年1盎司精制银币",

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8468944008",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8468944008",
+      "displayBoxCode": "8468944-008",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "民国二十三年孙像船洋壹圆银元",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguojindaijizhibi/10405541.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8468944-008/",
+      "price": 970,
+      "priceWithFee": 1047.6,
+      "transactedAt": "2026-08-03 19:34:35",
+      "productCode": "875835001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/875835001A.jpg",
+      "ocrConfidence": 30,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,孙小头,小头,船洋,民国,国二,二十,十三,三年,年孙,孙像,像船,洋壹,壹圆,圆银,银元"
+    }
+  ]
+}

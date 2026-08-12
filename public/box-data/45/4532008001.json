@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4532008001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4532008001",
+      "displayBoxCode": "4532008-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2012年中国人民解放军海军航母辽宁舰1盎司精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10436404.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4532008-001/69/",
+      "price": 800,
+      "priceWithFee": 828,
+      "transactedAt": "2026-08-03 22:03:30",
+      "productCode": "879389013",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/31/879389013A.jpg",
+      "ocrConfidence": 41,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2012年,1盎司,年中,中国,国人,人民,民解,解放,放军,军海,海军,军航,航母,母辽,辽宁,宁舰,舰盎,盎司,司精,精制,制银,银币,评级"
+    }
+  ]
+}

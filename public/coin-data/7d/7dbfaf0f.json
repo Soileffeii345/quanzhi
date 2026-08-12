@@ -1,0 +1,31 @@
+{
+  "coinName": "民国十一年华威银行昌黎地名壹圆",
+  "slug": "7dbfaf0f",
+  "saleCount": 1,
+  "keywords": "银,历史币,民国,国十,十一,一年,年华,华威,威银,银行,行昌,昌黎,黎地,地名,名壹,壹圆",
+  "priceStats": {
+    "low": 1960,
+    "high": 1960,
+    "avg": 1960,
+    "latest": 1960
+  },
+  "records": [
+    {
+      "coinName": "民国十一年华威银行昌黎地名壹圆",
+      "normalizedBoxCode": "8037151006",
+      "displayBoxCode": "8037151-006",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/yangshangkechao/10404222.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8037151-006/",
+      "price": 1960,
+      "priceWithFee": 2175.6,
+      "transactedAt": "2026-08-04 21:46:25",
+      "productCode": "875619004",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国十,十一,一年,年华,华威,威银,银行,行昌,昌黎,黎地,地名,名壹,壹圆"
+    }
+  ]
+}

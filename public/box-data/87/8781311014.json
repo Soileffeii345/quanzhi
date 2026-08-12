@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8781311014",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8781311014",
+      "displayBoxCode": "8781311-014",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1997年熊猫1/20盎司精制铂金币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-nianjiyiqian/10431605.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8781311-014/",
+      "price": 32000,
+      "priceWithFee": 33120,
+      "transactedAt": "2026-07-30 21:52:05",
+      "productCode": "878716009",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/878716009A.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,贵金属,币,1997年,20盎司,熊猫,年熊,猫盎,盎司,司精,精制,制铂,铂金,金币,评级"
+    }
+  ]
+}

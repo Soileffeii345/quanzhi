@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2485442047",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2485442047",
+      "displayBoxCode": "2485442-047",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "民国二十年中央银行壹圆",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10395160.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2485442-047/",
+      "price": 320,
+      "priceWithFee": 355.2,
+      "transactedAt": "2026-07-30 20:09:40",
+      "productCode": "874269010",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/874269010B.jpg",
+      "ocrConfidence": 22,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国二,二十,十年,年中,中央,央银,银行,行壹,壹圆"
+    }
+  ]
+}

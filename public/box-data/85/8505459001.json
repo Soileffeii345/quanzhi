@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8505459001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8505459001",
+      "displayBoxCode": "8505459-001",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2025年乍得1盎司招财进宝祥龙\"镀金\"银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/570696.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8505459-001/",
+      "price": 1600,
+      "priceWithFee": null,
+      "transactedAt": "2026-04-09 00:33:44",
+      "productCode": "KH129111",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260407/large_sell_ehhwtmvkvwb4cfe0.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,2025年,1盎司,年乍,乍得,得盎,盎司,司招,招财,财进,进宝,宝祥,祥龙,龙镀,镀金,金银,银币"
+    }
+  ]
+}

@@ -1,15 +1,32 @@
 {
   "coinName": "1997年珍稀动物15.552克精制金币",
   "slug": "3f4ce60e",
-  "saleCount": 3,
+  "saleCount": 4,
   "keywords": "金,币,1997年,2盎司,年珍,珍稀,稀动,动物,物第,第组,组中,中华,华白,白海,海豚,豚盎,盎司,司精,精制,制金,金币,评级",
   "priceStats": {
-    "low": 17600,
+    "low": 17400,
     "high": 18000,
-    "avg": 17733,
-    "latest": 17600
+    "avg": 17650,
+    "latest": 17400
   },
   "records": [
+    {
+      "coinName": "1997年珍稀动物第（5）组-中华白海豚1/2盎司精制金币",
+      "normalizedBoxCode": "8512755023",
+      "displayBoxCode": "8512755-023",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10432198.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8512755-023/69/",
+      "price": 17400,
+      "priceWithFee": 18009,
+      "transactedAt": "2026-07-30 20:49:25",
+      "productCode": "878836001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1997年,2盎司,年珍,珍稀,稀动,动物,物第,第组,组中,中华,华白,白海,海豚,豚盎,盎司,司精,精制,制金,金币,评级"
+    },
     {
       "coinName": "1997年珍稀动物第（5）组-中华白海豚1/2盎司精制金币",
       "normalizedBoxCode": "8777369016",

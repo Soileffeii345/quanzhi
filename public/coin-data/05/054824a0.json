@@ -1,15 +1,49 @@
 {
   "coinName": "2002年2盎司精制银币",
   "slug": "054824a0",
-  "saleCount": 4,
+  "saleCount": 6,
   "keywords": "银,币,2002年,2盎司,年四,四川,川三,三星,星堆,堆盎,盎司,司精,精制,制银,银币,评级,年中,中国,国石,石窟,窟艺,艺术,术龙,龙门,门石,窟盎",
   "priceStats": {
     "low": 1320,
     "high": 3900,
-    "avg": 2553,
-    "latest": 1540
+    "avg": 2603,
+    "latest": 1560
   },
   "records": [
+    {
+      "coinName": "2002年四川三星堆2盎司精制银币",
+      "normalizedBoxCode": "8765513003",
+      "displayBoxCode": "8765513-003",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10446355.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8765513-003/",
+      "price": 1560,
+      "priceWithFee": 1614.6,
+      "transactedAt": "2026-08-06 19:32:35",
+      "productCode": "880814012",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2002年,2盎司,年四,四川,川三,三星,星堆,堆盎,盎司,司精,精制,制银,银币,评级"
+    },
+    {
+      "coinName": "2002年中国石窟艺术-龙门石窟2盎司精制银币",
+      "normalizedBoxCode": "8753123035",
+      "displayBoxCode": "8753123-035",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10429905.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8753123-035/70/",
+      "price": 3850,
+      "priceWithFee": 3984.75,
+      "transactedAt": "2026-07-30 19:48:05",
+      "productCode": "878483001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2002年,2盎司,年中,中国,国石,石窟,窟艺,艺术,术龙,龙门,门石,窟盎,盎司,司精,精制,制银,银币,评级"
+    },
     {
       "coinName": "2002年四川三星堆2盎司精制银币",
       "normalizedBoxCode": "8765513004",

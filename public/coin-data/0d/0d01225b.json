@@ -1,0 +1,31 @@
+{
+  "coinName": "俄罗斯纸钞",
+  "slug": "0d01225b",
+  "saleCount": 1,
+  "keywords": "钞,俄罗,罗斯,斯纸,纸钞,外国/特区",
+  "priceStats": {
+    "low": 250,
+    "high": 250,
+    "avg": 250,
+    "latest": 250
+  },
+  "records": [
+    {
+      "coinName": "俄罗斯纸钞",
+      "normalizedBoxCode": "2400704063",
+      "displayBoxCode": "2400704-063",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10429466.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2400704-063/",
+      "price": 250,
+      "priceWithFee": 277.5,
+      "transactedAt": "2026-08-04 22:08:25",
+      "productCode": "878377004",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,俄罗,罗斯,斯纸,纸钞,外国/特区"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8358460095",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8358460095",
+      "displayBoxCode": "8358460-095",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1994年熊猫1/2盎司普制银币二枚",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-jiuyin/10433883.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8358460-095/",
+      "price": 870,
+      "priceWithFee": 900.45,
+      "transactedAt": "2026-08-03 21:33:30",
+      "productCode": "878997007",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/878997007A.jpg",
+      "ocrConfidence": 37,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1994年,2盎司,熊猫,年熊,猫盎,盎司,司普,普制,制银,银币,币二,二枚"
+    }
+  ]
+}

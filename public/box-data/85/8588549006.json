@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8588549006",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8588549006",
+      "displayBoxCode": "8588549-006",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2009年己丑牛年生肖1/10盎司精制彩金币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-jin/10432563.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8588549-006/69/",
+      "price": 7600,
+      "priceWithFee": 7866,
+      "transactedAt": "2026-07-30 21:24:05",
+      "productCode": "878833007",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/878833007A.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2009年,10盎司,生肖,年己,己丑,丑牛,牛年,年生,肖盎,盎司,司精,精制,制彩,彩金,金币,评级"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "0979700070",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "0979700070",
+      "displayBoxCode": "0979700-070",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2003年中国民间神话故事第（3）组-鹊桥相会5盎司长方形精制彩银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10436396.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/0979700-070/",
+      "price": 2650,
+      "priceWithFee": 2742.75,
+      "transactedAt": "2026-08-03 21:41:00",
+      "productCode": "879389005",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/31/879389005D.jpg",
+      "ocrConfidence": 59,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2003年,5盎司,年中,中国,国民,民间,间神,神话,话故,故事,事第,第组,组鹊,鹊桥,桥相,相会,会盎,盎司,司长,长方,方形,形精,精制,制彩,彩银,银币,评级"
+    }
+  ]
+}

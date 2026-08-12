@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2140206004",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2140206004",
+      "displayBoxCode": "2140206-004",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "第一版人民币工农10元",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/diyibanrenminbi/10431954.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2140206-004/",
+      "price": 1460,
+      "priceWithFee": 1606,
+      "transactedAt": "2026-07-30 21:54:40",
+      "productCode": "878749001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/878749001B.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,第一,一版,版人,人民,民币,币工,工农,农元"
+    }
+  ]
+}

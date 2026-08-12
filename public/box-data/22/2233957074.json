@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2233957074",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2233957074",
+      "displayBoxCode": "2233957-074",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2008年第29届奥运会纪念钞",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/496437.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2233957-074/",
+      "price": 2600,
+      "priceWithFee": null,
+      "transactedAt": "2025-10-14 22:33:51",
+      "productCode": "KH084962",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20250906/large_sell_fdla10oifasvvuil.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,2008年,奥运,年第,第届,届奥,运会,会纪,纪念,念钞"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "coinName": "第一版人民币长城200元",
+  "slug": "18a3b5d9",
+  "saleCount": 1,
+  "keywords": "币,第一,一版,版人,人民,民币,币长,长城,城元",
+  "priceStats": {
+    "low": 2800,
+    "high": 2800,
+    "avg": 2800,
+    "latest": 2800
+  },
+  "records": [
+    {
+      "coinName": "第一版人民币长城200元",
+      "normalizedBoxCode": "2434331021",
+      "displayBoxCode": "2434331-021",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/diyibanrenminbi/10444989.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2434331-021/",
+      "price": 2800,
+      "priceWithFee": 3080,
+      "transactedAt": "2026-08-08 21:42:20",
+      "productCode": "880436001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,第一,一版,版人,人民,民币,币长,长城,城元"
+    }
+  ]
+}

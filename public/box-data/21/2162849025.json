@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2162849025",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2162849025",
+      "displayBoxCode": "2162849-025",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "民国十七年中央银行上海地名伍拾圆",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10394887.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2162849-025/",
+      "price": 1160,
+      "priceWithFee": 1287.6,
+      "transactedAt": "2026-07-30 19:49:40",
+      "productCode": "873834020",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/873834020B.jpg",
+      "ocrConfidence": 38,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国十,十七,七年,年中,中央,央银,银行,行上,上海,海地,地名,名伍,伍拾,拾圆"
+    }
+  ]
+}

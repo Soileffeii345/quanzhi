@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8061492036",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8061492036",
+      "displayBoxCode": "8061492-036",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2012年香港渣打银行港币伍拾圆",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/liantichao-jinianchao/10449230.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8061492-036/",
+      "price": 170,
+      "priceWithFee": 183.6,
+      "transactedAt": "2026-08-08 19:45:20",
+      "productCode": "880972004",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/32/880972004B.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2012年,年香,香港,港渣,渣打,打银,银行,行港,港币,币伍,伍拾,拾圆,外国/特区"
+    }
+  ]
+}

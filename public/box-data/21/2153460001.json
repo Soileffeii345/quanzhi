@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2153460001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2153460001",
+      "displayBoxCode": "2153460-001",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "民国二十四年交通银行壹圆",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10401030.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2153460-001/",
+      "price": 560,
+      "priceWithFee": 621.6,
+      "transactedAt": "2026-08-04 21:49:45",
+      "productCode": "875130001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/875130001B.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国二,二十,十四,四年,年交,交通,通银,银行,行壹,壹圆"
+    }
+  ]
+}

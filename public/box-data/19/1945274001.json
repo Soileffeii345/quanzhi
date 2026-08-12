@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "1945274001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "1945274001",
+      "displayBoxCode": "1945274-001",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2009年美国100美元纸钞",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10431530.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1945274-001/",
+      "price": 1980,
+      "priceWithFee": 2197.8,
+      "transactedAt": "2026-07-30 22:21:40",
+      "productCode": "878665003",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/878665003B.jpg",
+      "ocrConfidence": 31,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,2009年,年美,美国,国美,美元,元纸,纸钞,外国/特区"
+    }
+  ]
+}

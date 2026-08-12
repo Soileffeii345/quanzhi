@@ -1,15 +1,32 @@
 {
   "coinName": "民国十年震义银行拾圆",
   "slug": "1ce7147e",
-  "saleCount": 1,
+  "saleCount": 2,
   "keywords": "银,历史币,民国,国十,十年,年震,震义,义银,银行,行拾,拾圆",
   "priceStats": {
     "low": 810,
-    "high": 810,
-    "avg": 810,
-    "latest": 810
+    "high": 1520,
+    "avg": 1165,
+    "latest": 1520
   },
   "records": [
+    {
+      "coinName": "民国十年震义银行拾圆",
+      "normalizedBoxCode": "2512732009",
+      "displayBoxCode": "2512732-009",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/yangshangkechao/10373858.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2512732-009/",
+      "price": 1520,
+      "priceWithFee": 1687.2,
+      "transactedAt": "2026-07-16 21:07:10",
+      "productCode": "871682006",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国十,十年,年震,震义,义银,银行,行拾,拾圆"
+    },
     {
       "coinName": "民国十年震义银行拾圆",
       "normalizedBoxCode": "1868930035",

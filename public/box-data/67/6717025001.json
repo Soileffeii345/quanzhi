@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6717025001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6717025001",
+      "displayBoxCode": "6717025-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2001年熊猫1公斤精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-jiuyin/10376783.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6717025-001/69/",
+      "price": 27500,
+      "priceWithFee": 28462.5,
+      "transactedAt": "2026-07-30 20:20:45",
+      "productCode": "872119001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/26/872119001A.jpg",
+      "ocrConfidence": 43,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2001年,1公斤,熊猫,年熊,猫公,公斤,斤精,精制,制银,银币,评级"
+    }
+  ]
+}

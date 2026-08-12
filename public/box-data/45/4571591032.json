@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4571591032",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4571591032",
+      "displayBoxCode": "4571591-032",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2018年戊戌狗年生肖流通纪念币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10438239.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4571591-032/",
+      "price": 470,
+      "priceWithFee": 507.6,
+      "transactedAt": "2026-08-05 19:10:05",
+      "productCode": "879529005",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/31/879529005A.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2018年,生肖,年戊,戊戌,戌狗,狗年,年生,肖流,流通,通纪,纪念,念币"
+    }
+  ]
+}

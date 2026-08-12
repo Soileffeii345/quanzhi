@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6750654047",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6750654047",
+      "displayBoxCode": "6750654-047",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "长城币壹圆币胚",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10416421.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6750654-047/",
+      "price": 320,
+      "priceWithFee": 345.6,
+      "transactedAt": "2026-07-29 20:14:45",
+      "productCode": "877109001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/877109001A.jpg",
+      "ocrConfidence": 37,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,长城,城币,币壹,壹圆,圆币,币胚"
+    }
+  ]
+}

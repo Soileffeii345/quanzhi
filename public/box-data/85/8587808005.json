@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8587808005",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8587808005",
+      "displayBoxCode": "8587808-005",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1986年中国杰出历史人物第（3）组-刘邦1/3盎司精制金币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10433930.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8587808-005/69/",
+      "price": 10800,
+      "priceWithFee": 11178,
+      "transactedAt": "2026-07-30 21:23:25",
+      "productCode": "878995010",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/878995010A.jpg",
+      "ocrConfidence": 48,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1986年,3盎司,年中,中国,国杰,杰出,出历,历史,史人,人物,物第,第组,组刘,刘邦,邦盎,盎司,司精,精制,制金,金币,评级"
+    }
+  ]
+}

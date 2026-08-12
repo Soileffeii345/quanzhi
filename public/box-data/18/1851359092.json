@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "1851359092",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "1851359092",
+      "displayBoxCode": "1851359-092",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2019年上海NGC成立5周年纪念5克银箔三枚",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10448573.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1851359-092/",
+      "price": 320,
+      "priceWithFee": 331.2,
+      "transactedAt": "2026-08-08 20:14:10",
+      "productCode": "881216003",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/32/881216003B.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,2019年,5克,年上,上海,海成,成立,立周,周年,年纪,纪念,念克,克银,银箔,箔三,三枚,评级"
+    }
+  ]
+}

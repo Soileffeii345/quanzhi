@@ -1,15 +1,49 @@
 {
   "coinName": "2003年3.11克精制铂金币",
   "slug": "06b29394",
-  "saleCount": 5,
+  "saleCount": 7,
   "keywords": "金,贵金属,币,2003年,10盎司,宗教,年观,观音,音盎,盎司,司精,精制,制铂,铂金,金币,评级",
   "priceStats": {
     "low": 1820,
     "high": 1980,
-    "avg": 1852,
+    "avg": 1843,
     "latest": 1820
   },
   "records": [
+    {
+      "coinName": "2003年观音1/10盎司精制铂金币",
+      "normalizedBoxCode": "8203772043",
+      "displayBoxCode": "8203772-043",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-bojin/10429337.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8203772-043/69/",
+      "price": 1820,
+      "priceWithFee": 1883.7,
+      "transactedAt": "2026-07-30 21:44:05",
+      "productCode": "878308005",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,贵金属,币,2003年,10盎司,宗教,年观,观音,音盎,盎司,司精,精制,制铂,铂金,金币,评级"
+    },
+    {
+      "coinName": "2003年观音1/10盎司精制铂金币",
+      "normalizedBoxCode": "8203772050",
+      "displayBoxCode": "8203772-050",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-bojin/10429335.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8203772-050/69/",
+      "price": 1820,
+      "priceWithFee": 1883.7,
+      "transactedAt": "2026-07-30 20:42:45",
+      "productCode": "878308003",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,贵金属,币,2003年,10盎司,宗教,年观,观音,音盎,盎司,司精,精制,制铂,铂金,金币,评级"
+    },
     {
       "coinName": "2003年观音1/10盎司精制铂金币",
       "normalizedBoxCode": "8604809018",

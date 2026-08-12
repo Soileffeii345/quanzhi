@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8587808006",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8587808006",
+      "displayBoxCode": "8587808-006",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1992年中国杰出历史人物第（9）组-武则天1/3盎司精制金币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10433931.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8587808-006/69/",
+      "price": 17200,
+      "priceWithFee": 17802,
+      "transactedAt": "2026-07-30 21:47:25",
+      "productCode": "878995011",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/878995011A.jpg",
+      "ocrConfidence": 45,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1992年,3盎司,年中,中国,国杰,杰出,出历,历史,史人,人物,物第,第组,组武,武则,则天,天盎,盎司,司精,精制,制金,金币,评级"
+    }
+  ]
+}

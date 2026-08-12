@@ -1,0 +1,31 @@
+{
+  "coinName": "1990年3盎司精制金币",
+  "slug": "0cf733ab",
+  "saleCount": 1,
+  "keywords": "金,币,1990年,3盎司,年世,世界,界文,文化,化名,名人,人第,第组,组黄,黄帝,帝盎,盎司,司精,精制,制金,金币,评级",
+  "priceStats": {
+    "low": 11600,
+    "high": 11600,
+    "avg": 11600,
+    "latest": 11600
+  },
+  "records": [
+    {
+      "coinName": "1990年世界文化名人第（1）组-黄帝1/3盎司精制金币",
+      "normalizedBoxCode": "8587808008",
+      "displayBoxCode": "8587808-008",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10433925.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8587808-008/69/",
+      "price": 11600,
+      "priceWithFee": 12006,
+      "transactedAt": "2026-07-30 20:53:25",
+      "productCode": "878995005",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1990年,3盎司,年世,世界,界文,文化,化名,名人,人第,第组,组黄,黄帝,帝盎,盎司,司精,精制,制金,金币,评级"
+    }
+  ]
+}

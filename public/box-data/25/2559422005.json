@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2559422005",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2559422005",
+      "displayBoxCode": "2559422-005",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2000年中国银行港币壹佰圆",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/liantichao-jinianchao/10431755.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2559422-005/",
+      "price": 270,
+      "priceWithFee": 291.6,
+      "transactedAt": "2026-08-01 19:27:05",
+      "productCode": "878682007",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/878682007B.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2000年,年中,中国,国银,银行,行港,港币,币壹,壹佰,佰圆"
+    }
+  ]
+}

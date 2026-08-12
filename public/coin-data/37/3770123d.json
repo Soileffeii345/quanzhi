@@ -1,0 +1,31 @@
+{
+  "coinName": "民国三十六年中央银行东北九省流通券壹仟圆",
+  "slug": "3770123d",
+  "saleCount": 1,
+  "keywords": "银,历史币,民国,国三,三十,十六,六年,年中,中央,央银,银行,行东,东北,北九,九省,省流,流通,通券,券壹,壹仟,仟圆",
+  "priceStats": {
+    "low": 530,
+    "high": 530,
+    "avg": 530,
+    "latest": 530
+  },
+  "records": [
+    {
+      "coinName": "民国三十六年中央银行东北九省流通券壹仟圆",
+      "normalizedBoxCode": "2096468046",
+      "displayBoxCode": "2096468-046",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10399454.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2096468-046/",
+      "price": 530,
+      "priceWithFee": 588.3,
+      "transactedAt": "2026-08-06 19:31:50",
+      "productCode": "874824015",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国三,三十,十六,六年,年中,中央,央银,银行,行东,东北,北九,九省,省流,流通,通券,券壹,壹仟,仟圆"
+    }
+  ]
+}

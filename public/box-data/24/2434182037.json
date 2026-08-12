@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2434182037",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2434182037",
+      "displayBoxCode": "2434182-037",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "民国三十六年东北银行地方流通券伍拾圆",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jiefangquzhichao/10403969.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2434182-037/",
+      "price": 1680,
+      "priceWithFee": 1864.8,
+      "transactedAt": "2026-07-30 21:43:40",
+      "productCode": "874941006",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/874941006B.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国三,三十,十六,六年,年东,东北,北银,银行,行地,地方,方流,流通,通券,券伍,伍拾,拾圆"
+    }
+  ]
+}

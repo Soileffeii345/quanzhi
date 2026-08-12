@@ -1,0 +1,31 @@
+{
+  "coinName": "2022年熊猫1克普制铂金币",
+  "slug": "69013b78",
+  "saleCount": 1,
+  "keywords": "金,贵金属,币,2022年,1克,熊猫,年熊,猫克,克普,普制,制铂,铂金,金币",
+  "priceStats": {
+    "low": 680,
+    "high": 680,
+    "avg": 680,
+    "latest": 680
+  },
+  "records": [
+    {
+      "coinName": "2022年熊猫1克普制铂金币",
+      "normalizedBoxCode": "6175907004",
+      "displayBoxCode": "6175907-004",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-nianjiyiqian/10440683.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6175907-004/",
+      "price": 680,
+      "priceWithFee": 703.8,
+      "transactedAt": "2026-08-01 21:32:40",
+      "productCode": "880076001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,贵金属,币,2022年,1克,熊猫,年熊,猫克,克普,普制,制铂,铂金,金币"
+    }
+  ]
+}

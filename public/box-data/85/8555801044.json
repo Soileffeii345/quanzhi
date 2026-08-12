@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8555801044",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8555801044",
+      "displayBoxCode": "8555801-044",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1992年第17届冬季奥运会27克精制银币二枚一套",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10433878.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8555801-044/69/",
+      "price": 1020,
+      "priceWithFee": 1055.7,
+      "transactedAt": "2026-08-03 20:23:05",
+      "productCode": "878997002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/878997002A.jpg",
+      "ocrConfidence": 37,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1992年,27克,奥运,年第,第届,届冬,冬季,季奥,运会,会克,克精,精制,制银,银币,币二,二枚,枚一,一套,评级"
+    }
+  ]
+}

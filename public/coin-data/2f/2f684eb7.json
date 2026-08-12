@@ -1,12 +1,12 @@
 {
   "coinName": "2003年生肖3.11克普制金币",
   "slug": "2f684eb7",
-  "saleCount": 1,
+  "saleCount": 3,
   "keywords": "金,币,2003年,10盎司,生肖,年癸,癸未,未羊,羊年,年生,肖盎,盎司,司普,普制,制金,金币",
   "priceStats": {
     "low": 3150,
-    "high": 3150,
-    "avg": 3150,
+    "high": 3250,
+    "avg": 3183,
     "latest": 3150
   },
   "records": [
@@ -23,6 +23,40 @@
       "priceWithFee": 3260.25,
       "transactedAt": "2026-08-06 20:59:15",
       "productCode": "880177003",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2003年,10盎司,生肖,年癸,癸未,未羊,羊年,年生,肖盎,盎司,司普,普制,制金,金币"
+    },
+    {
+      "coinName": "2003年癸未羊年生肖1/10盎司普制金币",
+      "normalizedBoxCode": "8193155041",
+      "displayBoxCode": "8193155-041",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-jin/10444879.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8193155-041/",
+      "price": 3250,
+      "priceWithFee": 3363.75,
+      "transactedAt": "2026-08-06 20:40:55",
+      "productCode": "880419008",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2003年,10盎司,生肖,年癸,癸未,未羊,羊年,年生,肖盎,盎司,司普,普制,制金,金币"
+    },
+    {
+      "coinName": "2003年癸未羊年生肖1/10盎司普制金币",
+      "normalizedBoxCode": "8174671044",
+      "displayBoxCode": "8174671-044",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-jin/10430049.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8174671-044/",
+      "price": 3150,
+      "priceWithFee": 3260.25,
+      "transactedAt": "2026-07-30 20:44:45",
+      "productCode": "878535009",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "金,币,2003年,10盎司,生肖,年癸,癸未,未羊,羊年,年生,肖盎,盎司,司普,普制,制金,金币"

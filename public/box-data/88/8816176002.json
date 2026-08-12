@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8816176002",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8816176002",
+      "displayBoxCode": "8816176-002",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1997年熊猫1盎司普制金币（大字版）",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-jiujin/10429338.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8816176-002/",
+      "price": 32000,
+      "priceWithFee": 33120,
+      "transactedAt": "2026-07-30 20:43:25",
+      "productCode": "878308006",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/878308006A.jpg",
+      "ocrConfidence": 30,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1997年,1盎司,熊猫,年熊,猫盎,盎司,司普,普制,制金,金币,币大,大字,字版"
+    }
+  ]
+}

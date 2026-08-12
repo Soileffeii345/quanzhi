@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8648036005",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8648036005",
+      "displayBoxCode": "8648036-005",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1979年国际儿童年-儿童浇花1/2盎司精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10439288.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8648036-005/",
+      "price": 3500,
+      "priceWithFee": 3622.5,
+      "transactedAt": "2026-08-06 20:02:35",
+      "productCode": "879629001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/31/879629001A.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1979年,2盎司,年国,国际,际儿,儿童,童年,年儿,童浇,浇花,花盎,盎司,司精,精制,制银,银币,评级"
+    }
+  ]
+}

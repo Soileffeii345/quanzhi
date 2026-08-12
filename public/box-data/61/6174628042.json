@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6174628042",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6174628042",
+      "displayBoxCode": "6174628-042",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2013年癸巳蛇年生肖精制流通纪念币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10440250.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6174628-042/",
+      "price": 180,
+      "priceWithFee": 194.4,
+      "transactedAt": "2026-08-05 19:03:35",
+      "productCode": "879956008",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/31/879956008A.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2013年,生肖,年癸,癸巳,巳蛇,蛇年,年生,肖精,精制,制流,流通,通纪,纪念,念币,评级"
+    }
+  ]
+}

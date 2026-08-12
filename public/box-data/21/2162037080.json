@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2162037080",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2162037080",
+      "displayBoxCode": "2162037-080",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "民国三十二年中央银行壹百圆",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10394875.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2162037-080/",
+      "price": 4350,
+      "priceWithFee": 4828.5,
+      "transactedAt": "2026-07-30 19:48:10",
+      "productCode": "873834008",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/873834008B.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国三,三十,十二,二年,年中,中央,央银,银行,行壹,壹百,百圆"
+    }
+  ]
+}

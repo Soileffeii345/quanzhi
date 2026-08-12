@@ -1,0 +1,31 @@
+{
+  "coinName": "第四套/第四版人民币1980年版1元11枚",
+  "slug": "506a30ab",
+  "saleCount": 1,
+  "keywords": "币,1980年,第四,四套,套第,四版,版人,人民,民币,币年,年版,版元,元枚",
+  "priceStats": {
+    "low": 840,
+    "high": 840,
+    "avg": 840,
+    "latest": 840
+  },
+  "records": [
+    {
+      "coinName": "第四套/第四版人民币1980年版1元11枚",
+      "normalizedBoxCode": "8052086023",
+      "displayBoxCode": "8052086-023",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/disibanrenminbi/10427462.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8052086-023/",
+      "price": 840,
+      "priceWithFee": 907.2,
+      "transactedAt": "2026-08-01 21:23:25",
+      "productCode": "877882002",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1980年,第四,四套,套第,四版,版人,人民,民币,币年,年版,版元,元枚"
+    }
+  ]
+}

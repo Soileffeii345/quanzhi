@@ -1,0 +1,31 @@
+{
+  "coinName": "民国二年交通银行壹圆未完成票",
+  "slug": "45f93ac0",
+  "saleCount": 1,
+  "keywords": "银,钞,历史币,民国,国二,二年,年交,交通,通银,银行,行壹,壹圆,圆未,未完,完成,成票",
+  "priceStats": {
+    "low": 9100,
+    "high": 9100,
+    "avg": 9100,
+    "latest": 9100
+  },
+  "records": [
+    {
+      "coinName": "民国二年交通银行壹圆未完成票",
+      "normalizedBoxCode": "2457416053",
+      "displayBoxCode": "2457416-053",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10418903.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2457416-053/",
+      "price": 9100,
+      "priceWithFee": 10101,
+      "transactedAt": "2026-08-06 20:31:25",
+      "productCode": "877198005",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,钞,历史币,民国,国二,二年,年交,交通,通银,银行,行壹,壹圆,圆未,未完,完成,成票"
+    }
+  ]
+}

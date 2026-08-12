@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8437820012",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8437820012",
+      "displayBoxCode": "8437820-012",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1984年甲子鼠年生肖8克精制金币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-jin/10429910.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8437820-012/69/",
+      "price": 91000,
+      "priceWithFee": 94185,
+      "transactedAt": "2026-07-30 21:08:05",
+      "productCode": "878484002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/878484002A.jpg",
+      "ocrConfidence": 30,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1984年,8克,生肖,年甲,甲子,子鼠,鼠年,年生,肖克,克精,精制,制金,金币,评级"
+    }
+  ]
+}

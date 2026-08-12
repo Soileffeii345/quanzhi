@@ -1,0 +1,31 @@
+{
+  "coinName": "2016年3盎司银币",
+  "slug": "19cf2fee",
+  "saleCount": 1,
+  "keywords": "银,币,2016年,3盎司,年斐,斐济,济威,威尼,尼斯,斯总,总督,督宫,宫镶,镶嵌,嵌琥,琥珀,珀盎,盎司,司银,银币",
+  "priceStats": {
+    "low": 2300,
+    "high": 2300,
+    "avg": 2300,
+    "latest": 2300
+  },
+  "records": [
+    {
+      "coinName": "2016年斐济威尼斯总督宫镶嵌琥珀3盎司银币",
+      "normalizedBoxCode": "4900682022",
+      "displayBoxCode": "4900682-022",
+      "gradingCompany": "NGC",
+      "grade": "MS 70",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/wgjsbizhang/10428976.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4900682-022/70/",
+      "price": 2300,
+      "priceWithFee": 2438,
+      "transactedAt": "2026-07-31 19:54:15",
+      "productCode": "878292008",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2016年,3盎司,年斐,斐济,济威,威尼,尼斯,斯总,总督,督宫,宫镶,镶嵌,嵌琥,琥珀,珀盎,盎司,司银,银币"
+    }
+  ]
+}

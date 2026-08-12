@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2438126001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2438126001",
+      "displayBoxCode": "2438126-001",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "奉天兴业银行壹圆正反面票样各一枚",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shangyeyinhangzhichao/10397082.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2438126-001/",
+      "price": 7100,
+      "priceWithFee": 7881,
+      "transactedAt": "2026-08-06 21:12:15",
+      "productCode": "874270001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/874270001B.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,钞,奉天,天兴,兴业,业银,银行,行壹,壹圆,圆正,正反,反面,面票,票样,样各,各一,一枚"
+    }
+  ]
+}

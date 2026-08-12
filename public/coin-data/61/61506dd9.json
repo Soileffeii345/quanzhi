@@ -1,15 +1,32 @@
 {
   "coinName": "1995年生肖15.552克精制金币",
   "slug": "61506dd9",
-  "saleCount": 1,
+  "saleCount": 2,
   "keywords": "金,币,1995年,2盎司,生肖,年乙,乙亥,亥猪,猪年,年生,肖盎,盎司,司梅,梅花,花形,形精,精制,制金,金币,评级",
   "priceStats": {
-    "low": 17800,
+    "low": 16400,
     "high": 17800,
-    "avg": 17800,
-    "latest": 17800
+    "avg": 17100,
+    "latest": 16400
   },
   "records": [
+    {
+      "coinName": "1995年乙亥猪年生肖1/2盎司梅花形精制金币",
+      "normalizedBoxCode": "8649261006",
+      "displayBoxCode": "8649261-006",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-jin/10427001.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8649261-006/69/",
+      "price": 16400,
+      "priceWithFee": 16974,
+      "transactedAt": "2026-07-30 20:37:25",
+      "productCode": "878107006",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1995年,2盎司,生肖,年乙,乙亥,亥猪,猪年,年生,肖盎,盎司,司梅,梅花,花形,形精,精制,制金,金币,评级"
+    },
     {
       "coinName": "1995年乙亥猪年生肖1/2盎司梅花形精制金币",
       "normalizedBoxCode": "8656420005",

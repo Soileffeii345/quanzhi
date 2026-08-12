@@ -1,15 +1,49 @@
 {
   "coinName": "1981年精制",
   "slug": "4a4db720",
-  "saleCount": 1,
-  "keywords": "币,1981年,年中,中国,国精,精制,制硬,硬币,币壹,壹分,评级",
+  "saleCount": 3,
+  "keywords": "币,1981年,年精,精制,制中,中国,国硬,硬币,币七,七枚,枚一,一套,评级,年中,国精,制硬,币贰,贰分,币壹,壹分",
   "priceStats": {
-    "low": 2600,
-    "high": 2600,
-    "avg": 2600,
-    "latest": 2600
+    "low": 380,
+    "high": 13000,
+    "avg": 5327,
+    "latest": 13000
   },
   "records": [
+    {
+      "coinName": "1981年精制中国硬币七枚一套",
+      "normalizedBoxCode": "8540883029",
+      "displayBoxCode": "8540883-029",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10435064.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8540883-029/",
+      "price": 13000,
+      "priceWithFee": 14040,
+      "transactedAt": "2026-08-05 20:04:35",
+      "productCode": "879093003",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1981年,年精,精制,制中,中国,国硬,硬币,币七,七枚,枚一,一套,评级"
+    },
+    {
+      "coinName": "1981年中国精制硬币贰分",
+      "normalizedBoxCode": "8656327053",
+      "displayBoxCode": "8656327-053",
+      "gradingCompany": "NGC",
+      "grade": "PF 69",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10412717.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8656327-053/69/",
+      "price": 380,
+      "priceWithFee": 410.4,
+      "transactedAt": "2026-07-29 20:08:45",
+      "productCode": "876379006",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1981年,年中,中国,国精,精制,制硬,硬币,币贰,贰分,评级"
+    },
     {
       "coinName": "1981年中国精制硬币壹分",
       "normalizedBoxCode": "8544521052",

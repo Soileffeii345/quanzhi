@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2584612077",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2584612077",
+      "displayBoxCode": "2584612-077",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "民国二十三年河北省银行天津地名贰圆正面票样",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/minguoshengshigejiyinhangzhichao/10387087.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2584612-077/",
+      "price": 6200,
+      "priceWithFee": 6882,
+      "transactedAt": "2026-07-30 20:35:40",
+      "productCode": "873442008",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/27/873442008B.jpg",
+      "ocrConfidence": 31,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,钞,历史币,民国,国二,二十,十三,三年,年河,河北,北省,省银,银行,行天,天津,津地,地名,名贰,贰圆,圆正,正面,面票,票样"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8587813006",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8587813006",
+      "displayBoxCode": "8587813-006",
+      "gradingCompany": "NGC",
+      "grade": "PF 67 ULTRA CAMEO",
+      "coinName": "1980年中国奥林匹克委员会-古代角力10克精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10433915.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8587813-006/67/",
+      "price": 550,
+      "priceWithFee": 569.25,
+      "transactedAt": "2026-08-03 20:28:55",
+      "productCode": "878997039",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/878997039A.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1980年,10克,年中,中国,国奥,奥林,林匹,匹克,克委,委员,员会,会古,古代,代角,角力,力克,克精,精制,制银,银币,评级"
+    }
+  ]
+}

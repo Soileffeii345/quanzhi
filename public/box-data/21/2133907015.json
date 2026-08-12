@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2133907015",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2133907015",
+      "displayBoxCode": "2133907-015",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "第二版人民币火车2角",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/dierbanrenminbi/10449505.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2133907-015/",
+      "price": 3000,
+      "priceWithFee": 3240,
+      "transactedAt": "2026-08-08 20:44:35",
+      "productCode": "881217004",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/32/881217004B.jpg",
+      "ocrConfidence": 26,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,第二,二版,版人,人民,民币,币火,火车,车角"
+    }
+  ]
+}

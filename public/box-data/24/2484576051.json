@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2484576051",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2484576051",
+      "displayBoxCode": "2484576-051",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2025年福克兰群岛纸钞",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10431592.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2484576-051/",
+      "price": 210,
+      "priceWithFee": 233.1,
+      "transactedAt": "2026-07-28 22:14:35",
+      "productCode": "878414001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/878414001B.jpg",
+      "ocrConfidence": 32,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,2025年,年福,福克,克兰,兰群,群岛,岛纸,纸钞"
+    }
+  ]
+}

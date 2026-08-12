@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2457416059",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2457416059",
+      "displayBoxCode": "2457416-059",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "民国二年交通银行伍拾圆正反面未完成票各一枚",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10418908.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2457416-059/",
+      "price": 14600,
+      "priceWithFee": 16206,
+      "transactedAt": "2026-08-06 21:33:30",
+      "productCode": "877198010",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/877198010B.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,钞,历史币,民国,国二,二年,年交,交通,通银,银行,行伍,伍拾,拾圆,圆正,正反,反面,面未,未完,完成,成票,票各,各一,一枚"
+    }
+  ]
+}

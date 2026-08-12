@@ -1,0 +1,31 @@
+{
+  "coinName": "1997年黄河27克精制银币",
+  "slug": "2a094f97",
+  "saleCount": 1,
+  "keywords": "银,币,1997年,27克,年黄,黄河,河文,文化,化第,第组,组克,克精,精制,制银,银币,币四,四枚,枚一,一套,评级",
+  "priceStats": {
+    "low": 2950,
+    "high": 2950,
+    "avg": 2950,
+    "latest": 2950
+  },
+  "records": [
+    {
+      "coinName": "1997年黄河文化第（2）组27克精制银币四枚一套",
+      "normalizedBoxCode": "8585343027",
+      "displayBoxCode": "8585343-027",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10433938.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8585343-027/69/",
+      "price": 2950,
+      "priceWithFee": 3053.25,
+      "transactedAt": "2026-07-30 19:54:45",
+      "productCode": "878995018",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1997年,27克,年黄,黄河,河文,文化,化第,第组,组克,克精,精制,制银,银币,币四,四枚,枚一,一套,评级"
+    }
+  ]
+}

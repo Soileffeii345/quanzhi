@@ -1,0 +1,31 @@
+{
+  "coinName": "1996年22.2克银币",
+  "slug": "623fc4e8",
+  "saleCount": 1,
+  "keywords": "银,币,1996年,22.2克,年法,法国,国克,克银,银币,外国/特区",
+  "priceStats": {
+    "low": 680,
+    "high": 680,
+    "avg": 680,
+    "latest": 680
+  },
+  "records": [
+    {
+      "coinName": "1996年法国22.2克银币",
+      "normalizedBoxCode": "8827577007",
+      "displayBoxCode": "8827577-007",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/wgjsbizhang/10436095.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8827577-007/",
+      "price": 680,
+      "priceWithFee": 720.8,
+      "transactedAt": "2026-07-31 19:51:45",
+      "productCode": "878829012",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1996年,22.2克,年法,法国,国克,克银,银币,外国/特区"
+    }
+  ]
+}

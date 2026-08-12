@@ -1,0 +1,31 @@
+{
+  "coinName": "1979年15.552克精制金币",
+  "slug": "0158b5cc",
+  "saleCount": 1,
+  "keywords": "金,币,1979年,2盎司,年中,中华,华人,人民,民共,共和,和国,国成,成立,立周,周年,年盎,盎司,司精,精制,制金,金币,币四,四枚,枚一,一套,评级",
+  "priceStats": {
+    "low": 57000,
+    "high": 57000,
+    "avg": 57000,
+    "latest": 57000
+  },
+  "records": [
+    {
+      "coinName": "1979年中华人民共和国成立30周年1/2盎司精制金币四枚一套",
+      "normalizedBoxCode": "8817480018",
+      "displayBoxCode": "8817480-018",
+      "gradingCompany": "NGC",
+      "grade": "PF69 CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10416883.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8817480-018/69/",
+      "price": 57000,
+      "priceWithFee": 58995,
+      "transactedAt": "2026-07-30 20:29:25",
+      "productCode": "877036002",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1979年,2盎司,年中,中华,华人,人民,民共,共和,和国,国成,成立,立周,周年,年盎,盎司,司精,精制,制金,金币,币四,四枚,枚一,一套,评级"
+    }
+  ]
+}

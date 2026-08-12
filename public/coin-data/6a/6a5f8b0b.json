@@ -1,0 +1,31 @@
+{
+  "coinName": "民国三十八年中央银行银元券壹角",
+  "slug": "6a5f8b0b",
+  "saleCount": 1,
+  "keywords": "银,历史币,民国,国三,三十,十八,八年,年中,中央,央银,银行,行银,银元,元券,券壹,壹角",
+  "priceStats": {
+    "low": 480,
+    "high": 480,
+    "avg": 480,
+    "latest": 480
+  },
+  "records": [
+    {
+      "coinName": "民国三十八年中央银行银元券壹角",
+      "normalizedBoxCode": "2148194019",
+      "displayBoxCode": "2148194-019",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10394891.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2148194-019/",
+      "price": 480,
+      "priceWithFee": 532.8,
+      "transactedAt": "2026-07-30 19:50:40",
+      "productCode": "873834024",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国三,三十,十八,八年,年中,中央,央银,银行,行银,银元,元券,券壹,壹角"
+    }
+  ]
+}

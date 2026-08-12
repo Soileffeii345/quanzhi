@@ -1,15 +1,32 @@
 {
   "coinName": "1988年熊猫20盎司普制金币",
   "slug": "3cc1f1fa",
-  "saleCount": 1,
+  "saleCount": 2,
   "keywords": "金,币,1988年,20盎司,熊猫,年熊,猫盎,盎司,司普,普制,制金,金币",
   "priceStats": {
     "low": 1760,
-    "high": 1760,
-    "avg": 1760,
-    "latest": 1760
+    "high": 4150,
+    "avg": 2955,
+    "latest": 4150
   },
   "records": [
+    {
+      "coinName": "1988年熊猫1/20盎司普制金币",
+      "normalizedBoxCode": "8588548017",
+      "displayBoxCode": "8588548-017",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-jiujin/10432566.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8588548-017/",
+      "price": 4150,
+      "priceWithFee": 4295.25,
+      "transactedAt": "2026-07-30 20:55:25",
+      "productCode": "878833010",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1988年,20盎司,熊猫,年熊,猫盎,盎司,司普,普制,制金,金币"
+    },
     {
       "coinName": "1988年熊猫1/20盎司普制金币",
       "normalizedBoxCode": "8819595004",

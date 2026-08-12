@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "5002975032",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "5002975032",
+      "displayBoxCode": "5002975-032",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "民国十年震义银行壹圆",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/yangshangkechao/10373856.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/5002975-032/",
+      "price": 1020,
+      "priceWithFee": 1132.2,
+      "transactedAt": "2026-07-16 21:06:10",
+      "productCode": "871682004",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/26/871682004B.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国十,十年,年震,震义,义银,银行,行壹,壹圆"
+    }
+  ]
+}

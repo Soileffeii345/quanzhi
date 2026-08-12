@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6152378002",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6152378002",
+      "displayBoxCode": "6152378-002",
+      "gradingCompany": "NGC",
+      "grade": "PF 69",
+      "coinName": "2013年中国青铜器第（2）组-商·司母辛觥5盎司精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10423629.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6152378-002/69/",
+      "price": 3650,
+      "priceWithFee": 3777.75,
+      "transactedAt": "2026-07-30 19:42:45",
+      "productCode": "877648004",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/877648004A.jpg",
+      "ocrConfidence": 43,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,铜,币,2013年,5盎司,年中,中国,国青,青铜,铜器,器第,第组,组商,商司,司母,母辛,辛觥,觥盎,盎司,司精,精制,制银,银币,评级"
+    }
+  ]
+}

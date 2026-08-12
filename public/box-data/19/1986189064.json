@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "1986189064",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "1986189064",
+      "displayBoxCode": "1986189-064",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "第三版人民币1角蓝冠3罗马一枚、5角平版无水印二枚，共三枚",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/disanbanrenminbi/10427684.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1986189-064/",
+      "price": 230,
+      "priceWithFee": 248.4,
+      "transactedAt": "2026-08-04 20:56:05",
+      "productCode": "878029018",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/878029018B.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,第三,三版,版人,人民,民币,币角,角蓝,蓝冠,冠罗,罗马,马一,一枚,枚角,角平,平版,版无,无水,水印,印二,二枚,枚共,共三,三枚"
+    }
+  ]
+}

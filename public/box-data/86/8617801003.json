@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8617801003",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8617801003",
+      "displayBoxCode": "8617801-003",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2003年中国宝岛台湾-赤嵌楼精制流通纪念币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10424833.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8617801-003/",
+      "price": 210,
+      "priceWithFee": 226.8,
+      "transactedAt": "2026-07-29 19:30:45",
+      "productCode": "877753014",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/877753014A.jpg",
+      "ocrConfidence": 30,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2003年,年中,中国,国宝,宝岛,岛台,台湾,湾赤,赤嵌,嵌楼,楼精,精制,制流,流通,通纪,纪念,念币,评级"
+    }
+  ]
+}

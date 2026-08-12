@@ -1,15 +1,32 @@
 {
   "coinName": "2017年生肖",
   "slug": "7e32a828",
-  "saleCount": 1,
-  "keywords": "币,2017年,生肖,年丁,丁酉,酉鸡,鸡年,年戊,戊戌,戌狗,狗年,年生,肖流,流通,通纪,纪念,念币,币各,各二,二枚,枚共,共四,四枚",
+  "saleCount": 2,
+  "keywords": "币,2017年,生肖,年丁,丁酉,酉鸡,鸡年,年生,肖流,流通,通纪,纪念,念币,年戊,戊戌,戌狗,狗年,币各,各二,二枚,枚共,共四,四枚",
   "priceStats": {
     "low": 130,
-    "high": 130,
-    "avg": 130,
-    "latest": 130
+    "high": 1200,
+    "avg": 665,
+    "latest": 1200
   },
   "records": [
+    {
+      "coinName": "2017年丁酉鸡年生肖流通纪念币",
+      "normalizedBoxCode": "4406105069",
+      "displayBoxCode": "4406105-069",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10438238.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4406105-069/",
+      "price": 1200,
+      "priceWithFee": 1296,
+      "transactedAt": "2026-08-05 19:09:35",
+      "productCode": "879529004",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2017年,生肖,年丁,丁酉,酉鸡,鸡年,年生,肖流,流通,通纪,纪念,念币"
+    },
     {
       "coinName": "2017年丁酉鸡年、2018戊戌狗年生肖流通纪念币各二枚，共四枚",
       "normalizedBoxCode": "2420500073",

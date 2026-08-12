@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2146350048",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2146350048",
+      "displayBoxCode": "2146350-048",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "民国二十五年中央银行军队归来证壹圆",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10394899.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2146350-048/",
+      "price": 1120,
+      "priceWithFee": 1243.2,
+      "transactedAt": "2026-07-30 21:01:10",
+      "productCode": "873834032",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/873834032B.jpg",
+      "ocrConfidence": 28,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国二,二十,十五,五年,年中,中央,央银,银行,行军,军队,队归,归来,来证,证壹,壹圆"
+    }
+  ]
+}

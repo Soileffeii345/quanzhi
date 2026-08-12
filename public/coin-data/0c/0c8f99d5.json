@@ -1,0 +1,31 @@
+{
+  "coinName": "1987年熊猫31.104克金币",
+  "slug": "0c8f99d5",
+  "saleCount": 1,
+  "keywords": "金,银,币,1987年,1盎司,熊猫,年熊,猫金,金币,币发,发行,行五,五周,周年,年盎,盎司,司银,银币",
+  "priceStats": {
+    "low": 3800,
+    "high": 3800,
+    "avg": 3800,
+    "latest": 3800
+  },
+  "records": [
+    {
+      "coinName": "1987年熊猫金币发行五周年1盎司银币",
+      "normalizedBoxCode": "8544088030",
+      "displayBoxCode": "8544088-030",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-jiuyin/10432199.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8544088-030/69/",
+      "price": 3800,
+      "priceWithFee": 3933,
+      "transactedAt": "2026-07-30 19:51:25",
+      "productCode": "878836002",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,1987年,1盎司,熊猫,年熊,猫金,金币,币发,发行,行五,五周,周年,年盎,盎司,司银,银币"
+    }
+  ]
+}

@@ -1,12 +1,12 @@
 {
   "coinName": "2003年生肖15.552克精制金币",
   "slug": "51506e2c",
-  "saleCount": 3,
+  "saleCount": 4,
   "keywords": "金,币,2003年,2盎司,生肖,年癸,癸未,未羊,羊年,年生,肖盎,盎司,司梅,梅花,花形,形精,精制,制金,金币,评级",
   "priceStats": {
     "low": 15000,
     "high": 17800,
-    "avg": 16600,
+    "avg": 16550,
     "latest": 17000
   },
   "records": [
@@ -23,6 +23,23 @@
       "priceWithFee": 17595,
       "transactedAt": "2026-08-06 20:38:25",
       "productCode": "880419001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2003年,2盎司,生肖,年癸,癸未,未羊,羊年,年生,肖盎,盎司,司梅,梅花,花形,形精,精制,制金,金币,评级"
+    },
+    {
+      "coinName": "2003年癸未羊年生肖1/2盎司梅花形精制金币",
+      "normalizedBoxCode": "6003857032",
+      "displayBoxCode": "6003857-032",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-jin/10430041.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6003857-032/",
+      "price": 16400,
+      "priceWithFee": 16974,
+      "transactedAt": "2026-07-30 21:55:25",
+      "productCode": "878535001",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "金,币,2003年,2盎司,生肖,年癸,癸未,未羊,羊年,年生,肖盎,盎司,司梅,梅花,花形,形精,精制,制金,金币,评级"

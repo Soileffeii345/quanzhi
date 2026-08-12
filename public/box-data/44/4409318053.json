@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4409318053",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4409318053",
+      "displayBoxCode": "4409318-053",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "上海造币有限公司2016年地藏王菩萨1/4盎司金章",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10441937.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4409318-053/69/",
+      "price": 7900,
+      "priceWithFee": 8176.5,
+      "transactedAt": "2026-08-03 22:12:15",
+      "productCode": "880177006",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/31/880177006A.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,章,2016年,4盎司,宗教,上海,海造,造币,币有,有限,限公,公司,司年,年地,地藏,藏王,王菩,菩萨,萨盎,盎司,司金,金章"
+    }
+  ]
+}

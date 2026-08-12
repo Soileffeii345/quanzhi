@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2110272079",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2110272079",
+      "displayBoxCode": "2110272-079",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "民国三十三年中央银行壹仟圆",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10414711.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2110272-079/",
+      "price": 520,
+      "priceWithFee": 577.2,
+      "transactedAt": "2026-08-06 20:16:50",
+      "productCode": "876747002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/876747002B.jpg",
+      "ocrConfidence": 24,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国三,三十,十三,三年,年中,中央,央银,银行,行壹,壹仟,仟圆"
+    }
+  ]
+}

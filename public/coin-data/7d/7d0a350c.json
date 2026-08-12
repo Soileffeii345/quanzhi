@@ -1,0 +1,31 @@
+{
+  "coinName": "明-天启通宝十一两",
+  "slug": "7d0a350c",
+  "saleCount": 1,
+  "keywords": "明天,天启,启通,通宝,宝十,十一,一两",
+  "priceStats": {
+    "low": 4000,
+    "high": 4000,
+    "avg": 4000,
+    "latest": 4000
+  },
+  "records": [
+    {
+      "coinName": "明-天启通宝十一两",
+      "normalizedBoxCode": "1117864154",
+      "displayBoxCode": "1117864-154",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/guqian/10412203.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1117864-154/",
+      "price": 4000,
+      "priceWithFee": 4400,
+      "transactedAt": "2026-08-10 21:04:35",
+      "productCode": "876352004",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "明天,天启,启通,通宝,宝十,十一,一两"
+    }
+  ]
+}

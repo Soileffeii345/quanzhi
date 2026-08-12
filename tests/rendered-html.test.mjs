@@ -53,8 +53,12 @@ test("database page exposes truthful freshness and combinable filters", async ()
   assert.match(databasePage, /const pageSize = 100/);
   assert.match(databasePage, /上一页/);
   assert.match(databasePage, /下一页/);
-  assert.match(databasePage, new RegExp(`收录 <b>${boxes.verifiedSales}</b> 条原成交页核验记录`));
-  assert.match(databasePage, new RegExp(`<b>${boxes.activeListings}</b> 条当前在售`));
+  assert.doesNotMatch(databasePage, new RegExp(`<b>${boxes.verifiedSales}</b> 条原成交页核验记录`));
+  assert.match(databasePage, /统计数量不在页面公开展示/);
+  assert.doesNotMatch(databasePage, /当前发现 <b>\d+<\/b> 个在售商品/);
+  assert.doesNotMatch(databasePage, /class="stats-grid">/);
+  assert.doesNotMatch(databasePage, /已确认在售 \d+/);
+  assert.doesNotMatch(databasePage, /旧记录 \d+/);
   assert.equal(coins.totalSales, boxes.verifiedSales);
 });
 

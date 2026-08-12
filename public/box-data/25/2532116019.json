@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2532116019",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2532116019",
+      "displayBoxCode": "2532116-019",
+      "gradingCompany": "NGC",
+      "grade": "PF70 ULTRA CAMEO",
+      "coinName": "2002年送子观音1/10盎司精制幻彩金币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10423632.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2532116-019/70/",
+      "price": 3950,
+      "priceWithFee": 4088.25,
+      "transactedAt": "2026-07-30 21:50:05",
+      "productCode": "877648007",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/877648007A.jpg",
+      "ocrConfidence": 38,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2002年,10盎司,宗教,年送,送子,子观,观音,音盎,盎司,司精,精制,制幻,幻彩,彩金,金币,评级"
+    }
+  ]
+}

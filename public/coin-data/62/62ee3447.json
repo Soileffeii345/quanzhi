@@ -1,0 +1,31 @@
+{
+  "coinName": "咸丰年洪来号",
+  "slug": "62ee3447",
+  "saleCount": 1,
+  "keywords": "咸丰,丰年,年洪,洪来,来号",
+  "priceStats": {
+    "low": 150,
+    "high": 150,
+    "avg": 150,
+    "latest": 150
+  },
+  "records": [
+    {
+      "coinName": "咸丰年洪来号",
+      "normalizedBoxCode": "1510270471",
+      "displayBoxCode": "1510270-471",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/difangsipiao/10397200.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1510270-471/",
+      "price": 150,
+      "priceWithFee": 166.5,
+      "transactedAt": "2026-08-04 21:08:05",
+      "productCode": "874470001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "咸丰,丰年,年洪,洪来,来号"
+    }
+  ]
+}

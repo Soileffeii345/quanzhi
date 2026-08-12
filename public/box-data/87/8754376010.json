@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8754376010",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8754376010",
+      "displayBoxCode": "8754376-010",
+      "gradingCompany": "NGC",
+      "grade": "MS 67",
+      "coinName": "1987年第六届运动会流通纪念币三枚一套",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10424153.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8754376-010/67/",
+      "price": 1140,
+      "priceWithFee": 1231.2,
+      "transactedAt": "2026-07-29 19:24:05",
+      "productCode": "877654001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/877654001A.jpg",
+      "ocrConfidence": 42,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1987年,年第,第六,六届,届运,运动,动会,会流,流通,通纪,纪念,念币,币三,三枚,枚一,一套"
+    }
+  ]
+}

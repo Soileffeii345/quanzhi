@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6433858019",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6433858019",
+      "displayBoxCode": "6433858-019",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "coinName": "2001年辛巳蛇年生肖1/10盎司普制金币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-jin/10430047.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6433858-019/69/",
+      "price": 3350,
+      "priceWithFee": 3467.25,
+      "transactedAt": "2026-07-30 21:18:45",
+      "productCode": "878535007",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/878535007A.jpg",
+      "ocrConfidence": 31,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2001年,10盎司,生肖,年辛,辛巳,巳蛇,蛇年,年生,肖盎,盎司,司普,普制,制金,金币"
+    }
+  ]
+}

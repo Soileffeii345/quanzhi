@@ -1,0 +1,31 @@
+{
+  "coinName": "中国银行壹角",
+  "slug": "22ab7504",
+  "saleCount": 1,
+  "keywords": "银,中国,国银,银行,行壹,壹角",
+  "priceStats": {
+    "low": 210,
+    "high": 210,
+    "avg": 210,
+    "latest": 210
+  },
+  "records": [
+    {
+      "coinName": "中国银行壹角",
+      "normalizedBoxCode": "2235678009",
+      "displayBoxCode": "2235678-009",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10395216.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2235678-009/",
+      "price": 210,
+      "priceWithFee": 233.1,
+      "transactedAt": "2026-07-30 19:35:40",
+      "productCode": "874339002",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,中国,国银,银行,行壹,壹角"
+    }
+  ]
+}

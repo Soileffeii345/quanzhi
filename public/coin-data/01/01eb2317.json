@@ -1,0 +1,31 @@
+{
+  "coinName": "2022年2盎司彩色银币",
+  "slug": "01eb2317",
+  "saleCount": 1,
+  "keywords": "银,币,2022年,2盎司,年加,加纳,纳盎,盎司,司彩,彩色,色玻,玻璃,璃艺,艺术,术梵,梵高,高星,星月,月夜,夜银,银币",
+  "priceStats": {
+    "low": 2200,
+    "high": 2200,
+    "avg": 2200,
+    "latest": 2200
+  },
+  "records": [
+    {
+      "coinName": "2022年加纳2盎司彩色玻璃艺术梵高星月夜银币",
+      "normalizedBoxCode": "6430288002",
+      "displayBoxCode": "6430288-002",
+      "gradingCompany": "NGC",
+      "grade": "MS 70",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/550106.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6430288-002/70/",
+      "price": 2200,
+      "priceWithFee": null,
+      "transactedAt": "2026-02-23 10:57:15",
+      "productCode": "KH116328",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2022年,2盎司,年加,加纳,纳盎,盎司,司彩,彩色,色玻,玻璃,璃艺,艺术,术梵,梵高,高星,星月,月夜,夜银,银币"
+    }
+  ]
+}

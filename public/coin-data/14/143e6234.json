@@ -1,0 +1,31 @@
+{
+  "coinName": "2006年生肖10盎司银币",
+  "slug": "143e6234",
+  "saleCount": 1,
+  "keywords": "银,币,2006年,10盎司,生肖,年澳,澳大,大利,利亚,亚狗,狗年,年生,肖盎,盎司,司银,银币,外国/特区",
+  "priceStats": {
+    "low": 4600,
+    "high": 4600,
+    "avg": 4600,
+    "latest": 4600
+  },
+  "records": [
+    {
+      "coinName": "2006年澳大利亚狗年生肖10盎司银币",
+      "normalizedBoxCode": "8824986006",
+      "displayBoxCode": "8824986-006",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/wgjsbizhang/10432288.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8824986-006/69/",
+      "price": 4600,
+      "priceWithFee": 4876,
+      "transactedAt": "2026-07-31 19:50:05",
+      "productCode": "878625004",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2006年,10盎司,生肖,年澳,澳大,大利,利亚,亚狗,狗年,年生,肖盎,盎司,司银,银币,外国/特区"
+    }
+  ]
+}

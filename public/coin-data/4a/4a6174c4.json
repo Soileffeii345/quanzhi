@@ -1,15 +1,49 @@
 {
   "coinName": "1994年精制",
   "slug": "4a6174c4",
-  "saleCount": 20,
-  "keywords": "币,1994年,年中,中国,国精,精制,制硬,硬币,币伍,伍角,评级,年希,希望,望工,工程,程精,制流,流通,通纪,纪念,念币,币角",
+  "saleCount": 22,
+  "keywords": "币,1994年,年中,中国,国精,精制,制硬,硬币,币角,角贰,贰分,分壹,壹分,分年,角各,各一,一枚,枚共,共四,四枚,评级,年希,希望,望工,工程,程精,制流,流通,通纪,纪念,念币,币伍,伍角",
   "priceStats": {
     "low": 60,
     "high": 1300,
-    "avg": 688,
-    "latest": 290
+    "avg": 677,
+    "latest": 270
   },
   "records": [
+    {
+      "coinName": "1994年中国精制硬币1角、贰分、壹分、1995年中国精制硬币1角各一枚，共四枚",
+      "normalizedBoxCode": "8656733007",
+      "displayBoxCode": "8656733-007",
+      "gradingCompany": "NGC",
+      "grade": "PF 65",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10428711.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8656733-007/65/",
+      "price": 270,
+      "priceWithFee": 291.6,
+      "transactedAt": "2026-07-29 21:33:25",
+      "productCode": "878038003",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1994年,年中,中国,国精,精制,制硬,硬币,币角,角贰,贰分,分壹,壹分,分年,角各,各一,一枚,枚共,共四,四枚,评级"
+    },
+    {
+      "coinName": "1994年希望工程精制流通纪念币",
+      "normalizedBoxCode": "6728453021",
+      "displayBoxCode": "6728453-021",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10426948.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6728453-021/",
+      "price": 860,
+      "priceWithFee": 928.8,
+      "transactedAt": "2026-07-29 20:58:45",
+      "productCode": "878015001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1994年,年希,希望,望工,工程,程精,精制,制流,流通,通纪,纪念,念币,评级"
+    },
     {
       "coinName": "1994年中国精制硬币伍角",
       "normalizedBoxCode": "8651468030",

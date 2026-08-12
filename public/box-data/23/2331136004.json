@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2331136004",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2331136004",
+      "displayBoxCode": "2331136-004",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "第三版人民币1角蓝冠3罗马",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/disanbanrenminbi/10424892.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2331136-004/",
+      "price": 180,
+      "priceWithFee": 194.4,
+      "transactedAt": "2026-07-30 19:16:40",
+      "productCode": "877850009",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/877850009B.jpg",
+      "ocrConfidence": 37,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,第三,三版,版人,人民,民币,币角,角蓝,蓝冠,冠罗,罗马"
+    }
+  ]
+}

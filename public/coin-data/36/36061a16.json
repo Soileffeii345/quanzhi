@@ -1,0 +1,31 @@
+{
+  "coinName": "江南省造甲辰光绪元宝十文铜币",
+  "slug": "36061a16",
+  "saleCount": 1,
+  "keywords": "铜,币,历史币,龙洋,龙,元宝,江南,江南造,南省,省造,造甲,甲辰,辰光,光绪,绪元,宝十,十文,文铜,铜币",
+  "priceStats": {
+    "low": 300,
+    "high": 300,
+    "avg": 300,
+    "latest": 300
+  },
+  "records": [
+    {
+      "coinName": "江南省造甲辰光绪元宝十文铜币",
+      "normalizedBoxCode": "8647022045",
+      "displayBoxCode": "8647022-045",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguojindaijizhibi/10403172.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8647022-045/",
+      "price": 300,
+      "priceWithFee": 324,
+      "transactedAt": "2026-08-03 21:16:35",
+      "productCode": "875425010",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "铜,币,历史币,龙洋,龙,元宝,江南,江南造,南省,省造,造甲,甲辰,辰光,光绪,绪元,宝十,十文,文铜,铜币"
+    }
+  ]
+}

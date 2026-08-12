@@ -1,0 +1,31 @@
+{
+  "coinName": "清 咸丰重宝当十",
+  "slug": "78a854f0",
+  "saleCount": 1,
+  "keywords": "清咸,咸丰,丰重,重宝,宝当,当十",
+  "priceStats": {
+    "low": 2200,
+    "high": 2200,
+    "avg": 2200,
+    "latest": 2200
+  },
+  "records": [
+    {
+      "coinName": "清 咸丰重宝当十",
+      "normalizedBoxCode": "90336658",
+      "displayBoxCode": "90336658",
+      "gradingCompany": "PCGS",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/guqian/10400456.shtml",
+      "officialCertUrl": "https://cn.pcgs.com/cert/90336658",
+      "price": 2200,
+      "priceWithFee": 2420,
+      "transactedAt": "2026-08-03 21:28:35",
+      "productCode": "874963005",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "清咸,咸丰,丰重,重宝,宝当,当十"
+    }
+  ]
+}

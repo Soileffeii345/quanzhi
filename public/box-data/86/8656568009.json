@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8656568009",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8656568009",
+      "displayBoxCode": "8656568-009",
+      "gradingCompany": "NGC",
+      "grade": "Ms70",
+      "coinName": "2026年福字贺岁普制金银币二枚一套（含1克金、8克银）",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10451410.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8656568-009/70/",
+      "price": 2250,
+      "priceWithFee": 2328.75,
+      "transactedAt": "2026-08-08 20:53:30",
+      "productCode": "881143004",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/32/881143004A.jpg",
+      "ocrConfidence": 42,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,2026年,1克,吉祥文化,年福,福字,字贺,贺岁,岁普,普制,制金,金银,银币,币二,二枚,枚一,一套,套含,含克,克金,金克,克银"
+    }
+  ]
+}

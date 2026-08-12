@@ -1,15 +1,49 @@
 {
   "coinName": "1980年中国硬币贰分",
   "slug": "57185648",
-  "saleCount": 5,
+  "saleCount": 7,
   "keywords": "币,1980年,年中,中国,国硬,硬币,币贰,贰分",
   "priceStats": {
-    "low": 660,
+    "low": 450,
     "high": 950,
-    "avg": 788,
-    "latest": 760
+    "avg": 733,
+    "latest": 450
   },
   "records": [
+    {
+      "coinName": "1980年中国硬币贰分",
+      "normalizedBoxCode": "1850053743",
+      "displayBoxCode": "1850053-743",
+      "gradingCompany": "NGC",
+      "grade": "MS 68",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10437063.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1850053-743/68/",
+      "price": 450,
+      "priceWithFee": 486,
+      "transactedAt": "2026-08-05 19:49:35",
+      "productCode": "879525004",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1980年,年中,中国,国硬,硬币,币贰,贰分"
+    },
+    {
+      "coinName": "1980年中国硬币贰分",
+      "normalizedBoxCode": "8824828001",
+      "displayBoxCode": "8824828-001",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10423885.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8824828-001/",
+      "price": 740,
+      "priceWithFee": 799.2,
+      "transactedAt": "2026-07-29 20:15:25",
+      "productCode": "877792001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1980年,年中,中国,国硬,硬币,币贰,贰分"
+    },
     {
       "coinName": "1980年中国硬币贰分",
       "normalizedBoxCode": "8765608052",

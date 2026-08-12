@@ -1,0 +1,82 @@
+{
+  "coinName": "民国三十六年中央银行壹萬圆",
+  "slug": "22e87026",
+  "saleCount": 4,
+  "keywords": "银,历史币,民国,国三,三十,十六,六年,年中,中央,央银,银行,行壹,壹萬,萬圆",
+  "priceStats": {
+    "low": 320,
+    "high": 1080,
+    "avg": 625,
+    "latest": 320
+  },
+  "records": [
+    {
+      "coinName": "民国三十六年中央银行壹萬圆",
+      "normalizedBoxCode": "2134236053",
+      "displayBoxCode": "2134236-053",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10392923.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2134236-053/",
+      "price": 320,
+      "priceWithFee": 355.2,
+      "transactedAt": "2026-07-30 21:35:10",
+      "productCode": "873706003",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国三,三十,十六,六年,年中,中央,央银,银行,行壹,壹萬,萬圆"
+    },
+    {
+      "coinName": "民国三十六年中央银行壹萬圆",
+      "normalizedBoxCode": "2162808005",
+      "displayBoxCode": "2162808-005",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10394876.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2162808-005/",
+      "price": 450,
+      "priceWithFee": 499.5,
+      "transactedAt": "2026-07-30 21:31:40",
+      "productCode": "873834009",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国三,三十,十六,六年,年中,中央,央银,银行,行壹,壹萬,萬圆"
+    },
+    {
+      "coinName": "民国三十六年中央银行壹萬圆",
+      "normalizedBoxCode": "2097923029",
+      "displayBoxCode": "2097923-029",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10394873.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2097923-029/",
+      "price": 1080,
+      "priceWithFee": 1198.8,
+      "transactedAt": "2026-07-30 19:47:40",
+      "productCode": "873834006",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国三,三十,十六,六年,年中,中央,央银,银行,行壹,壹萬,萬圆"
+    },
+    {
+      "coinName": "民国三十六年中央银行壹萬圆",
+      "normalizedBoxCode": "2148199022",
+      "displayBoxCode": "2148199-022",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10394871.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2148199-022/",
+      "price": 650,
+      "priceWithFee": 721.5,
+      "transactedAt": "2026-07-30 19:20:10",
+      "productCode": "873834004",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国三,三十,十六,六年,年中,中央,央银,银行,行壹,壹萬,萬圆"
+    }
+  ]
+}

@@ -1,12 +1,12 @@
 {
   "coinName": "2014年31.104克银币",
   "slug": "65d70689",
-  "saleCount": 3,
-  "keywords": "银,币,2014年,1盎司,年库,库克,克群,群岛,岛郭,郭川,川环,环球,球航,航海,海世,世界,界纪,纪录,录盎,盎司,司彩,彩银,银币,年盎,司中,中法,法建,建交,交周,周年,年银",
+  "saleCount": 4,
+  "keywords": "银,币,2014年,1盎司,年库,库克,克群,群岛,岛郭,郭川,川环,环球,球航,航海,海世,世界,界纪,纪录,录盎,盎司,司彩,彩银,银币,年澳,澳大,大利,利亚,亚盎,司鲍,鲍鱼,鱼壳,壳镶,镶嵌,嵌银,外国/特区,年盎,司中,中法,法建,建交,交周,周年,年银",
   "priceStats": {
     "low": 500,
     "high": 1880,
-    "avg": 980,
+    "avg": 1048,
     "latest": 1880
   },
   "records": [
@@ -43,6 +43,23 @@
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "银,币,2014年,1盎司,年库,库克,克群,群岛,岛郭,郭川,川环,环球,球航,航海,海世,世界,界纪,纪录,录盎,盎司,司彩,彩银,银币"
+    },
+    {
+      "coinName": "2014年澳大利亚1盎司鲍鱼壳镶嵌银币",
+      "normalizedBoxCode": "6047673006",
+      "displayBoxCode": "6047673-006",
+      "gradingCompany": "NGC",
+      "grade": "PF70 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/557130.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6047673-006/70/",
+      "price": 1250,
+      "priceWithFee": null,
+      "transactedAt": "2026-02-28 15:32:15",
+      "productCode": "KH121467",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2014年,1盎司,年澳,澳大,大利,利亚,亚盎,盎司,司鲍,鲍鱼,鱼壳,壳镶,镶嵌,嵌银,银币,外国/特区"
     },
     {
       "coinName": "2014年1盎司中法建交50周年银币",

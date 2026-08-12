@@ -1,0 +1,31 @@
+{
+  "coinName": "清-太平天国圣宝",
+  "slug": "38f35866",
+  "saleCount": 1,
+  "keywords": "清太,太平,平天,天国,国圣,圣宝",
+  "priceStats": {
+    "low": 1280,
+    "high": 1280,
+    "avg": 1280,
+    "latest": 1280
+  },
+  "records": [
+    {
+      "coinName": "清-太平天国圣宝",
+      "normalizedBoxCode": "1120271671",
+      "displayBoxCode": "1120271-671",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/guqian/10412221.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1120271-671/",
+      "price": 1280,
+      "priceWithFee": 1408,
+      "transactedAt": "2026-08-10 21:38:05",
+      "productCode": "876352022",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "清太,太平,平天,天国,国圣,圣宝"
+    }
+  ]
+}

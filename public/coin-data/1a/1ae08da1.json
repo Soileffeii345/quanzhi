@@ -1,15 +1,32 @@
 {
   "coinName": "第一版人民币压路机50元",
   "slug": "1ae08da1",
-  "saleCount": 2,
+  "saleCount": 3,
   "keywords": "币,第一,一版,版人,人民,民币,币压,压路,路机,机元",
   "priceStats": {
-    "low": 4050,
+    "low": 1880,
     "high": 4400,
-    "avg": 4225,
-    "latest": 4050
+    "avg": 3443,
+    "latest": 1880
   },
   "records": [
+    {
+      "coinName": "第一版人民币压路机50元",
+      "normalizedBoxCode": "2581389011",
+      "displayBoxCode": "2581389-011",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/diyibanrenminbi/10426967.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2581389-011/",
+      "price": 1880,
+      "priceWithFee": 2068,
+      "transactedAt": "2026-07-30 20:27:40",
+      "productCode": "878121001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,第一,一版,版人,人民,民币,币压,压路,路机,机元"
+    },
     {
       "coinName": "第一版人民币压路机50元",
       "normalizedBoxCode": "2566588001",

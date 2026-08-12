@@ -1,15 +1,32 @@
 {
   "coinName": "2014年生肖精制",
   "slug": "23939aa9",
-  "saleCount": 3,
+  "saleCount": 4,
   "keywords": "币,2014年,生肖,年甲,甲午,午马,马年,年生,肖精,精制,制流,流通,通纪,纪念,念币,评级,吉祥文化,肖贺,贺岁,岁精",
   "priceStats": {
-    "low": 140,
+    "low": 80,
     "high": 300,
-    "avg": 243,
-    "latest": 290
+    "avg": 203,
+    "latest": 80
   },
   "records": [
+    {
+      "coinName": "2014年甲午马年生肖精制流通纪念币",
+      "normalizedBoxCode": "4581730002",
+      "displayBoxCode": "4581730-002",
+      "gradingCompany": "NGC",
+      "grade": "PF67 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10425123.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4581730-002/67/",
+      "price": 80,
+      "priceWithFee": 86.4,
+      "transactedAt": "2026-07-29 19:22:45",
+      "productCode": "877935001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2014年,生肖,年甲,甲午,午马,马年,年生,肖精,精制,制流,流通,通纪,纪念,念币,评级"
+    },
     {
       "coinName": "2014年甲午马年生肖精制流通纪念币",
       "normalizedBoxCode": "5795267004",

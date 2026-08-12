@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8754703061",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8754703061",
+      "displayBoxCode": "8754703-061",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1994年世界文化名人第（4）组27克精制银币四枚一套",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10443194.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8754703-061/",
+      "price": 3550,
+      "priceWithFee": 3674.25,
+      "transactedAt": "2026-08-06 19:44:15",
+      "productCode": "880261002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/31/880261002A.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1994年,27克,年世,世界,界文,文化,化名,名人,人第,第组,组克,克精,精制,制银,银币,币四,四枚,枚一,一套,评级"
+    }
+  ]
+}

@@ -1,15 +1,32 @@
 {
   "coinName": "第一版人民币双马耕地10000元",
   "slug": "63df2096",
-  "saleCount": 1,
+  "saleCount": 2,
   "keywords": "币,第一,一版,版人,人民,民币,币双,双马,马耕,耕地,地元",
   "priceStats": {
     "low": 1660,
-    "high": 1660,
-    "avg": 1660,
-    "latest": 1660
+    "high": 1800,
+    "avg": 1730,
+    "latest": 1800
   },
   "records": [
+    {
+      "coinName": "第一版人民币双马耕地10000元",
+      "normalizedBoxCode": "2338525004",
+      "displayBoxCode": "2338525-004",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/diyibanrenminbi/10440684.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2338525-004/",
+      "price": 1800,
+      "priceWithFee": 1980,
+      "transactedAt": "2026-08-04 20:38:25",
+      "productCode": "880077001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,第一,一版,版人,人民,民币,币双,双马,马耕,耕地,地元"
+    },
     {
       "coinName": "第一版人民币双马耕地10000元",
       "normalizedBoxCode": "2338525004",

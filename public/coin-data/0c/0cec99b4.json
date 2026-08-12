@@ -1,0 +1,31 @@
+{
+  "coinName": "民国十四年军需汇兑局兑换券壹角",
+  "slug": "0cec99b4",
+  "saleCount": 1,
+  "keywords": "历史币,民国,国十,十四,四年,年军,军需,需汇,汇兑,兑局,局兑,兑换,换券,券壹,壹角",
+  "priceStats": {
+    "low": 1380,
+    "high": 1380,
+    "avg": 1380,
+    "latest": 1380
+  },
+  "records": [
+    {
+      "coinName": "民国十四年军需汇兑局兑换券壹角",
+      "normalizedBoxCode": "2316011015",
+      "displayBoxCode": "2316011-015",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/junyongpiao/10403523.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2316011-015/",
+      "price": 1380,
+      "priceWithFee": 1531.8,
+      "transactedAt": "2026-07-30 21:30:10",
+      "productCode": "874940028",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "历史币,民国,国十,十四,四年,年军,军需,需汇,汇兑,兑局,局兑,兑换,换券,券壹,壹角"
+    }
+  ]
+}

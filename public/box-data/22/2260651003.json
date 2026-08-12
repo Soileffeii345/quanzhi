@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2260651003",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2260651003",
+      "displayBoxCode": "2260651-003",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "民国十年吉林永衡官银钱号伍圆票样",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/minguoshengshigejiyinhangzhichao/10403980.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2260651-003/",
+      "price": 2700,
+      "priceWithFee": 2997,
+      "transactedAt": "2026-07-30 20:55:40",
+      "productCode": "874941017",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/874941017B.jpg",
+      "ocrConfidence": 37,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,钞,历史币,民国,国十,十年,年吉,吉林,林永,永衡,衡官,官银,银钱,钱号,号伍,伍圆,圆票,票样"
+    }
+  ]
+}

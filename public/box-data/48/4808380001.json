@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4808380001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4808380001",
+      "displayBoxCode": "4808380-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2014年中国青铜器第（3）组-商·后母戊方鼎5盎司精制金币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10435025.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4808380-001/69/",
+      "price": 155000,
+      "priceWithFee": 160425,
+      "transactedAt": "2026-07-30 21:04:45",
+      "productCode": "879280001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/31/879280001A.jpg",
+      "ocrConfidence": 56,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,铜,币,2014年,5盎司,年中,中国,国青,青铜,铜器,器第,第组,组商,商后,后母,母戊,戊方,方鼎,鼎盎,盎司,司精,精制,制金,金币,评级"
+    }
+  ]
+}

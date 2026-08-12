@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2584612050",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2584612050",
+      "displayBoxCode": "2584612-050",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1949年中央银行壹仟圆反面票样",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10387089.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2584612-050/",
+      "price": 5300,
+      "priceWithFee": 5883,
+      "transactedAt": "2026-07-30 19:56:40",
+      "productCode": "873442010",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/27/873442010B.jpg",
+      "ocrConfidence": 46,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,钞,1949年,年中,中央,央银,银行,行壹,壹仟,仟圆,圆反,反面,面票,票样"
+    }
+  ]
+}

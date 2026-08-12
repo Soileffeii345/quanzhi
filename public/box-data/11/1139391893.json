@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "1139391893",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "1139391893",
+      "displayBoxCode": "1139391-893",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2015年航天纪念钞壹佰圆+2018年人民币发行70周年伍拾元纪念钞",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/359728.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1139391-893/",
+      "price": 480,
+      "priceWithFee": null,
+      "transactedAt": "2023-05-06 15:22:35",
+      "productCode": "ZB010308.09",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20230503/large_sell_qmgine6pl4t9wdpx.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,钞,2015年,年航,航天,天纪,纪念,念钞,钞壹,壹佰,佰圆,圆年,年人,人民,民币,币发,发行,行周,周年,年伍,伍拾,拾元,元纪"
+    }
+  ]
+}

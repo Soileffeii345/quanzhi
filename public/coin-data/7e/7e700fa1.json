@@ -1,15 +1,32 @@
 {
   "coinName": "第四套/第四版人民币1980年版10元",
   "slug": "7e700fa1",
-  "saleCount": 40,
-  "keywords": "币,1980年,第四,四套,套第,四版,版人,人民,民币,币年,年版,版元,元火,火凤,凤凰,凰荧,荧光,光版",
+  "saleCount": 43,
+  "keywords": "币,1980年,第四,四套,套第,四版,版人,人民,民币,币年,年版,版元,元火,火凤,凤凰,凰荧,荧光,光版,元特,特强,强火",
   "priceStats": {
     "low": 70,
-    "high": 1520,
-    "avg": 262,
-    "latest": 130
+    "high": 4700,
+    "avg": 365,
+    "latest": 110
   },
   "records": [
+    {
+      "coinName": "第四套/第四版人民币1980年版10元（火凤凰荧光版）",
+      "normalizedBoxCode": "2232534024",
+      "displayBoxCode": "2232534-024",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/disibanrenminbi/10448776.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2232534-024/",
+      "price": 110,
+      "priceWithFee": 118.8,
+      "transactedAt": "2026-08-08 21:08:20",
+      "productCode": "881016016",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1980年,第四,四套,套第,四版,版人,人民,民币,币年,年版,版元,元火,火凤,凤凰,凰荧,荧光,光版"
+    },
     {
       "coinName": "第四套/第四版人民币1980年版10元",
       "normalizedBoxCode": "8040285051",
@@ -264,6 +281,40 @@
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "币,1980年,第四,四套,套第,四版,版人,人民,民币,币年,年版,版元"
+    },
+    {
+      "coinName": "第四套/第四版人民币1980年版10元",
+      "normalizedBoxCode": "2438236002",
+      "displayBoxCode": "2438236-002",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/disibanrenminbi/10440301.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2438236-002/",
+      "price": 4700,
+      "priceWithFee": 5076,
+      "transactedAt": "2026-08-06 19:13:30",
+      "productCode": "879972010",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1980年,第四,四套,套第,四版,版人,人民,民币,币年,年版,版元"
+    },
+    {
+      "coinName": "第四套/第四版人民币1980年版10元（特强火凤凰荧光版）",
+      "normalizedBoxCode": "2210949098",
+      "displayBoxCode": "2210949-098",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/disibanrenminbi/10435140.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2210949-098/",
+      "price": 380,
+      "priceWithFee": 410.4,
+      "transactedAt": "2026-08-01 19:31:25",
+      "productCode": "879113003",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1980年,第四,四套,套第,四版,版人,人民,民币,币年,年版,版元,元特,特强,强火,火凤,凤凰,凰荧,荧光,光版"
     },
     {
       "coinName": "第四套/第四版人民币1980年版10元",

@@ -1,0 +1,31 @@
+{
+  "coinName": "明-兴朝通宝壹分",
+  "slug": "3af46359",
+  "saleCount": 1,
+  "keywords": "明兴,兴朝,朝通,通宝,宝壹,壹分",
+  "priceStats": {
+    "low": 1300,
+    "high": 1300,
+    "avg": 1300,
+    "latest": 1300
+  },
+  "records": [
+    {
+      "coinName": "明-兴朝通宝壹分",
+      "normalizedBoxCode": "1117696166",
+      "displayBoxCode": "1117696-166",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/guqian/10412200.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1117696-166/",
+      "price": 1300,
+      "priceWithFee": 1430,
+      "transactedAt": "2026-08-10 21:22:35",
+      "productCode": "876352001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "明兴,兴朝,朝通,通宝,宝壹,壹分"
+    }
+  ]
+}

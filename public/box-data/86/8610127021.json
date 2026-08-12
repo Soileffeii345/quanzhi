@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8610127021",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8610127021",
+      "displayBoxCode": "8610127-021",
+      "gradingCompany": "NGC",
+      "grade": "AU 58",
+      "coinName": "光绪年造丙午户部大清铜币中心鄂十文铜币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguojindaijizhibi/10403169.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8610127-021/58/",
+      "price": 310,
+      "priceWithFee": 334.8,
+      "transactedAt": "2026-08-03 21:04:35",
+      "productCode": "875425007",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/875425007A.jpg",
+      "ocrConfidence": 39,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "铜,币,历史币,光绪,绪年,年造,造丙,丙午,午户,户部,部大,大清,清铜,铜币,币中,中心,心鄂,鄂十,十文,文铜"
+    }
+  ]
+}

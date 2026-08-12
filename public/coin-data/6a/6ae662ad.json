@@ -1,0 +1,31 @@
+{
+  "coinName": "2025年大运河150克精制金币",
+  "slug": "6ae662ad",
+  "saleCount": 1,
+  "keywords": "金,币,2025年,150克,年大,大运,运河,河克,克长,长方,方形,形精,精制,制金,金币,评级",
+  "priceStats": {
+    "low": 214000,
+    "high": 214000,
+    "avg": 214000,
+    "latest": 214000
+  },
+  "records": [
+    {
+      "coinName": "2025年大运河150克长方形精制金币",
+      "normalizedBoxCode": "8653250001",
+      "displayBoxCode": "8653250-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10426997.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8653250-001/70/",
+      "price": 214000,
+      "priceWithFee": 221490,
+      "transactedAt": "2026-07-30 21:10:45",
+      "productCode": "878107002",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2025年,150克,年大,大运,运河,河克,克长,长方,方形,形精,精制,制金,金币,评级"
+    }
+  ]
+}

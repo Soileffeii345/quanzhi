@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8608920007",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8608920007",
+      "displayBoxCode": "8608920-007",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2025年中国龙31.104克普制银币（新千里江山图智能卡）",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10428162.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8608920-007/",
+      "price": 850,
+      "priceWithFee": 879.75,
+      "transactedAt": "2026-08-01 19:55:10",
+      "productCode": "878304001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/14/851039009A.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2025年,31.104克,年中,中国,国龙,龙克,克普,普制,制银,银币,币新,新千,千里,里江,江山,山图,图智,智能,能卡"
+    }
+  ]
+}

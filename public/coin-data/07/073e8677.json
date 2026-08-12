@@ -1,0 +1,31 @@
+{
+  "coinName": "2009年熊猫20盎司普制金币",
+  "slug": "073e8677",
+  "saleCount": 1,
+  "keywords": "金,币,2009年,20盎司,熊猫,年熊,猫盎,盎司,司普,普制,制金,金币",
+  "priceStats": {
+    "low": 1660,
+    "high": 1660,
+    "avg": 1660,
+    "latest": 1660
+  },
+  "records": [
+    {
+      "coinName": "2009年熊猫1/20盎司普制金币",
+      "normalizedBoxCode": "8588548038",
+      "displayBoxCode": "8588548-038",
+      "gradingCompany": "NGC",
+      "grade": "MS 70",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-jiujin/10432570.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8588548-038/70/",
+      "price": 1660,
+      "priceWithFee": 1718.1,
+      "transactedAt": "2026-07-30 20:56:45",
+      "productCode": "878833014",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2009年,20盎司,熊猫,年熊,猫盎,盎司,司普,普制,制金,金币"
+    }
+  ]
+}

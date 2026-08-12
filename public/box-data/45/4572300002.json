@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4572300002",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4572300002",
+      "displayBoxCode": "4572300-002",
+      "gradingCompany": "NGC",
+      "grade": "PF69 ULTRA CAMEO",
+      "coinName": "1985年庆祝西藏自治区成立20周年精制流通纪念币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10419102.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4572300-002/69/",
+      "price": 10400,
+      "priceWithFee": 11232,
+      "transactedAt": "2026-07-29 20:10:05",
+      "productCode": "877235001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/877235001A.jpg",
+      "ocrConfidence": 47,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1985年,年庆,庆祝,祝西,西藏,藏自,自治,治区,区成,成立,立周,周年,年精,精制,制流,流通,通纪,纪念,念币,评级"
+    }
+  ]
+}

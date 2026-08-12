@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "1914111029",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "1914111029",
+      "displayBoxCode": "1914111-029",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "民国三年交通银行上海地名拾圆",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10410572.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1914111-029/",
+      "price": 500,
+      "priceWithFee": 555,
+      "transactedAt": "2026-08-06 22:04:20",
+      "productCode": "876315020",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/876315020B.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国三,三年,年交,交通,通银,银行,行上,上海,海地,地名,名拾,拾圆"
+    }
+  ]
+}

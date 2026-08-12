@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2162304019",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2162304019",
+      "displayBoxCode": "2162304-019",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1993年克罗地亚纸钞一枚、马尔代夫塑料钞一枚",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10436387.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2162304-019/",
+      "price": 110,
+      "priceWithFee": 122.1,
+      "transactedAt": "2026-08-04 22:01:45",
+      "productCode": "879388002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/31/879388002B.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,1993年,年克,克罗,罗地,地亚,亚纸,纸钞,钞一,一枚,枚马,马尔,尔代,代夫,夫塑,塑料,料钞"
+    }
+  ]
+}

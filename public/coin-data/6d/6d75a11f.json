@@ -1,0 +1,31 @@
+{
+  "coinName": "民国三十年江淮银行伍角",
+  "slug": "6d75a11f",
+  "saleCount": 1,
+  "keywords": "银,历史币,民国,国三,三十,十年,年江,江淮,淮银,银行,行伍,伍角",
+  "priceStats": {
+    "low": 5500,
+    "high": 5500,
+    "avg": 5500,
+    "latest": 5500
+  },
+  "records": [
+    {
+      "coinName": "民国三十年江淮银行伍角",
+      "normalizedBoxCode": "2399938001",
+      "displayBoxCode": "2399938-001",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jiefangquzhichao/10403509.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2399938-001/",
+      "price": 5500,
+      "priceWithFee": 6105,
+      "transactedAt": "2026-07-30 21:59:10",
+      "productCode": "874940014",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国三,三十,十年,年江,江淮,淮银,银行,行伍,伍角"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "coinName": "民国八年呼伦贝尔官商钱局拾圆",
+  "slug": "784d1298",
+  "saleCount": 1,
+  "keywords": "历史币,民国,国八,八年,年呼,呼伦,伦贝,贝尔,尔官,官商,商钱,钱局,局拾,拾圆",
+  "priceStats": {
+    "low": 5200,
+    "high": 5200,
+    "avg": 5200,
+    "latest": 5200
+  },
+  "records": [
+    {
+      "coinName": "民国八年呼伦贝尔官商钱局拾圆",
+      "normalizedBoxCode": "2438426059",
+      "displayBoxCode": "2438426-059",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shangyeyinhangzhichao/10397092.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2438426-059/",
+      "price": 5200,
+      "priceWithFee": 5772,
+      "transactedAt": "2026-08-06 20:43:05",
+      "productCode": "874270011",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "历史币,民国,国八,八年,年呼,呼伦,伦贝,贝尔,尔官,官商,商钱,钱局,局拾,拾圆"
+    }
+  ]
+}

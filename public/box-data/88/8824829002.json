@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8824829002",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8824829002",
+      "displayBoxCode": "8824829-002",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1984年中国硬币贰分",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10423889.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8824829-002/",
+      "price": 15,
+      "priceWithFee": 16.2,
+      "transactedAt": "2026-07-29 21:30:05",
+      "productCode": "877792005",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/877792005A.jpg",
+      "ocrConfidence": 28,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1984年,年中,中国,国硬,硬币,币贰,贰分"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4891947008",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4891947008",
+      "displayBoxCode": "4891947-008",
+      "gradingCompany": "NGC",
+      "grade": "PF 67 CAMEO",
+      "coinName": "1988年第15届冬季奥运会-男子滑降27克精制银币（错将15届写成16届）",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10436405.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4891947-008/67/",
+      "price": 1080,
+      "priceWithFee": 1117.8,
+      "transactedAt": "2026-08-03 21:11:50",
+      "productCode": "879389014",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/31/879389014A.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1988年,27克,奥运,年第,第届,届冬,冬季,季奥,运会,会男,男子,子滑,滑降,降克,克精,精制,制银,银币,币错,错将,将届,届写,写成,成届,评级"
+    }
+  ]
+}

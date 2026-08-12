@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "3307103001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "3307103001",
+      "displayBoxCode": "3307103-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1988年中国杰出历史人物第（5）组-苏轼22克精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10435802.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3307103-001/69/",
+      "price": 750,
+      "priceWithFee": 776.25,
+      "transactedAt": "2026-08-03 20:40:10",
+      "productCode": "878621005",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/31/878621005A.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1988年,22克,年中,中国,国杰,杰出,出历,历史,史人,人物,物第,第组,组苏,苏轼,轼克,克精,精制,制银,银币,评级"
+    }
+  ]
+}

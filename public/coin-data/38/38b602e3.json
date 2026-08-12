@@ -1,15 +1,32 @@
 {
   "coinName": "2006年熊猫31.104克普制银币",
   "slug": "38b602e3",
-  "saleCount": 5,
+  "saleCount": 6,
   "keywords": "银,币,2006年,1盎司,熊猫,年北,北京,京银,银行,行成,成立,立周,周年,年熊,猫加,加字,字盎,盎司,司普,普制,制银,银币,猫盎,钞,京国,国际,际邮,邮票,票钱,钱币,币博,博览,览会,会熊,年中,中国,国民,民生,生银",
   "priceStats": {
     "low": 570,
     "high": 930,
-    "avg": 732,
-    "latest": 570
+    "avg": 712,
+    "latest": 610
   },
   "records": [
+    {
+      "coinName": "2006年北京银行成立10周年熊猫加字1盎司普制银币",
+      "normalizedBoxCode": "5809260003",
+      "displayBoxCode": "5809260-003",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10439461.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/5809260-003/",
+      "price": 610,
+      "priceWithFee": 631.35,
+      "transactedAt": "2026-08-03 19:42:15",
+      "productCode": "879759001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2006年,1盎司,熊猫,年北,北京,京银,银行,行成,成立,立周,周年,年熊,猫加,加字,字盎,盎司,司普,普制,制银,银币"
+    },
     {
       "coinName": "2006年北京银行成立10周年熊猫加字1盎司普制银币",
       "normalizedBoxCode": "6000960022",

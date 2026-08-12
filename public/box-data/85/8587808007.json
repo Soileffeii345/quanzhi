@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8587808007",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8587808007",
+      "displayBoxCode": "8587808-007",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1993年中国杰出历史人物第（10）组-毛泽东1/3盎司精制金币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10433932.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8587808-007/69/",
+      "price": 24500,
+      "priceWithFee": 25357.5,
+      "transactedAt": "2026-07-30 21:51:25",
+      "productCode": "878995012",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/878995012A.jpg",
+      "ocrConfidence": 42,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1993年,3盎司,年中,中国,国杰,杰出,出历,历史,史人,人物,物第,第组,组毛,毛泽,泽东,东盎,盎司,司精,精制,制金,金币,评级"
+    }
+  ]
+}

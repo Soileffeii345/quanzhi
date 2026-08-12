@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8817396002",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8817396002",
+      "displayBoxCode": "8817396-002",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1993年毛泽东诞辰100周年1/2盎司普制金币（S版）",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10428041.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8817396-002/",
+      "price": 30500,
+      "priceWithFee": 31567.5,
+      "transactedAt": "2026-07-30 20:30:45",
+      "productCode": "878276001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/878276001A.jpg",
+      "ocrConfidence": 32,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1993年,2盎司,年毛,毛泽,泽东,东诞,诞辰,辰周,周年,年盎,盎司,司普,普制,制金,金币,币版"
+    }
+  ]
+}

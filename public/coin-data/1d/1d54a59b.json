@@ -1,0 +1,65 @@
+{
+  "coinName": "民国二十六年中国农民银行壹角",
+  "slug": "1d54a59b",
+  "saleCount": 3,
+  "keywords": "银,历史币,民国,国二,二十,十六,六年,年中,中国,国农,农民,民银,银行,行壹,壹角",
+  "priceStats": {
+    "low": 170,
+    "high": 530,
+    "avg": 313,
+    "latest": 240
+  },
+  "records": [
+    {
+      "coinName": "民国二十六年中国农民银行壹角",
+      "normalizedBoxCode": "2397246018",
+      "displayBoxCode": "2397246-018",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10399448.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2397246-018/",
+      "price": 240,
+      "priceWithFee": 266.4,
+      "transactedAt": "2026-08-06 19:31:00",
+      "productCode": "874824009",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国二,二十,十六,六年,年中,中国,国农,农民,民银,银行,行壹,壹角"
+    },
+    {
+      "coinName": "民国二十六年中国农民银行壹角",
+      "normalizedBoxCode": "2151840019",
+      "displayBoxCode": "2151840-019",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10395217.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2151840-019/",
+      "price": 170,
+      "priceWithFee": 188.7,
+      "transactedAt": "2026-07-30 21:15:40",
+      "productCode": "874339003",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国二,二十,十六,六年,年中,中国,国农,农民,民银,银行,行壹,壹角"
+    },
+    {
+      "coinName": "民国二十六年中国农民银行壹角",
+      "normalizedBoxCode": "2148199086",
+      "displayBoxCode": "2148199-086",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10394919.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2148199-086/",
+      "price": 530,
+      "priceWithFee": 588.3,
+      "transactedAt": "2026-07-30 19:29:10",
+      "productCode": "873834052",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国二,二十,十六,六年,年中,中国,国农,农民,民银,银行,行壹,壹角"
+    }
+  ]
+}

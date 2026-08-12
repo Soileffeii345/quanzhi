@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8647026042",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8647026042",
+      "displayBoxCode": "8647026-042",
+      "gradingCompany": "NGC",
+      "grade": "AU 50",
+      "coinName": "安徽省造光绪元宝当十铜币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguojindaijizhibi/10403175.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8647026-042/50/",
+      "price": 300,
+      "priceWithFee": 324,
+      "transactedAt": "2026-08-03 21:05:05",
+      "productCode": "875425013",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/875425013A.jpg",
+      "ocrConfidence": 40,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "铜,币,历史币,龙洋,龙,元宝,安徽,徽省,省造,造光,光绪,绪元,宝当,当十,十铜,铜币"
+    }
+  ]
+}

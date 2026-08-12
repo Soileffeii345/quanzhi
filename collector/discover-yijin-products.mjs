@@ -1,7 +1,7 @@
 import { mkdir, writeFile } from "node:fs/promises";
 import { load } from "cheerio";
 
-const maxPages = Number(Object.fromEntries(process.argv.slice(2).map((item) => item.split("="))).pages ?? 5);
+const maxPages = Number(Object.fromEntries(process.argv.slice(2).map((item) => item.split("="))).pages ?? 200);
 const output = new URL("./data/yijin-product-ids.json", import.meta.url);
 const ids = new Set();
 let page = 1;

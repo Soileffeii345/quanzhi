@@ -1,0 +1,48 @@
+{
+  "coinName": "民国三十八年江西省银行辅币券贰角",
+  "slug": "5347ef63",
+  "saleCount": 2,
+  "keywords": "银,币,历史币,民国,国三,三十,十八,八年,年江,江西,西省,省银,银行,行辅,辅币,币券,券贰,贰角",
+  "priceStats": {
+    "low": 260,
+    "high": 260,
+    "avg": 260,
+    "latest": 260
+  },
+  "records": [
+    {
+      "coinName": "民国三十八年江西省银行辅币券贰角",
+      "normalizedBoxCode": "2226583014",
+      "displayBoxCode": "2226583-014",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/minguoshengshigejiyinhangzhichao/10405089.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2226583-014/",
+      "price": 260,
+      "priceWithFee": 288.6,
+      "transactedAt": "2026-08-04 21:49:25",
+      "productCode": "874291045",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,历史币,民国,国三,三十,十八,八年,年江,江西,西省,省银,银行,行辅,辅币,币券,券贰,贰角"
+    },
+    {
+      "coinName": "民国三十八年江西省银行辅币券贰角",
+      "normalizedBoxCode": "1873144059",
+      "displayBoxCode": "1873144-059",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/minguoshengshigejiyinhangzhichao/10380292.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1873144-059/",
+      "price": 260,
+      "priceWithFee": 288.6,
+      "transactedAt": "2026-07-28 21:46:35",
+      "productCode": "872355003",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,历史币,民国,国三,三十,十八,八年,年江,江西,西省,省银,银行,行辅,辅币,币券,券贰,贰角"
+    }
+  ]
+}

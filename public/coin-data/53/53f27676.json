@@ -1,0 +1,31 @@
+{
+  "coinName": "民国三十四年中央储备银行伍仟圆",
+  "slug": "53f27676",
+  "saleCount": 1,
+  "keywords": "银,历史币,民国,国三,三十,十四,四年,年中,中央,央储,储备,备银,银行,行伍,伍仟,仟圆",
+  "priceStats": {
+    "low": 700,
+    "high": 700,
+    "avg": 700,
+    "latest": 700
+  },
+  "records": [
+    {
+      "coinName": "民国三十四年中央储备银行伍仟圆",
+      "normalizedBoxCode": "2613910451",
+      "displayBoxCode": "2613910-451",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/difangsipiao/10405088.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2613910-451/",
+      "price": 700,
+      "priceWithFee": 777,
+      "transactedAt": "2026-08-04 21:22:05",
+      "productCode": "874291044",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国三,三十,十四,四年,年中,中央,央储,储备,备银,银行,行伍,伍仟,仟圆"
+    }
+  ]
+}

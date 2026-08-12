@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8821914001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8821914001",
+      "displayBoxCode": "8821914-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1996年丙子鼠年生肖12盎司精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10426613.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8821914-001/69/",
+      "price": 39000,
+      "priceWithFee": 40365,
+      "transactedAt": "2026-07-30 19:46:45",
+      "productCode": "878168001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/878168001A.jpg",
+      "ocrConfidence": 49,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1996年,12盎司,生肖,年丙,丙子,子鼠,鼠年,年生,肖盎,盎司,司精,精制,制银,银币,评级"
+    }
+  ]
+}

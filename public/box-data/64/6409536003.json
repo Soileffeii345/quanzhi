@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6409536003",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6409536003",
+      "displayBoxCode": "6409536-003",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "三羊开泰5盎司银章",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10439888.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6409536-003/69/",
+      "price": 2750,
+      "priceWithFee": 2846.25,
+      "transactedAt": "2026-08-03 21:19:20",
+      "productCode": "879528014",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/31/879528014A.jpg",
+      "ocrConfidence": 47,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,章,5盎司,三羊,羊开,开泰,泰盎,盎司,司银,银章"
+    }
+  ]
+}

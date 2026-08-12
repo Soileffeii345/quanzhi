@@ -1,0 +1,31 @@
+{
+  "coinName": "英国50英镑纸钞",
+  "slug": "40dd5750",
+  "saleCount": 1,
+  "keywords": "钞,英国,国英,英镑,镑纸,纸钞,外国/特区",
+  "priceStats": {
+    "low": 590,
+    "high": 590,
+    "avg": 590,
+    "latest": 590
+  },
+  "records": [
+    {
+      "coinName": "英国50英镑纸钞",
+      "normalizedBoxCode": "2215775059",
+      "displayBoxCode": "2215775-059",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10429502.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2215775-059/",
+      "price": 590,
+      "priceWithFee": 654.9,
+      "transactedAt": "2026-07-28 22:19:50",
+      "productCode": "878386005",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,英国,国英,英镑,镑纸,纸钞,外国/特区"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "coinName": "1992年15克精制银币",
+  "slug": "7a0f0b76",
+  "saleCount": 1,
+  "keywords": "银,币,1992年,15克,年马,马可,可波,波罗,罗克,克精,精制,制银,银币,币二,二枚,评级",
+  "priceStats": {
+    "low": 930,
+    "high": 930,
+    "avg": 930,
+    "latest": 930
+  },
+  "records": [
+    {
+      "coinName": "1992年马可波罗15克精制银币二枚",
+      "normalizedBoxCode": "8235055032",
+      "displayBoxCode": "8235055-032",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10433893.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8235055-032/69/",
+      "price": 930,
+      "priceWithFee": 962.55,
+      "transactedAt": "2026-08-03 21:34:20",
+      "productCode": "878997017",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1992年,15克,年马,马可,可波,波罗,罗克,克精,精制,制银,银币,币二,二枚,评级"
+    }
+  ]
+}

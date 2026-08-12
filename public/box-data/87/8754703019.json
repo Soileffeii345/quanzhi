@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8754703019",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8754703019",
+      "displayBoxCode": "8754703-019",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1994年中国珍稀动物第（4）组27克精制银币二枚一套",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10443195.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8754703-019/69/",
+      "price": 1520,
+      "priceWithFee": 1573.2,
+      "transactedAt": "2026-08-03 21:46:50",
+      "productCode": "880261003",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/31/880261003A.jpg",
+      "ocrConfidence": 38,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1994年,27克,年中,中国,国珍,珍稀,稀动,动物,物第,第组,组克,克精,精制,制银,银币,币二,二枚,枚一,一套,评级"
+    }
+  ]
+}

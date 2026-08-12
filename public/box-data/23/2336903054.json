@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2336903054",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2336903054",
+      "displayBoxCode": "2336903-054",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "民国三十八年广东省银行大洋票拾圆",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/minguoshengshigejiyinhangzhichao/10410555.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2336903-054/",
+      "price": 170,
+      "priceWithFee": 188.7,
+      "transactedAt": "2026-08-06 22:03:55",
+      "productCode": "876315003",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/876315003B.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,钞,历史币,民国,国三,三十,十八,八年,年广,广东,东省,省银,银行,行大,大洋,洋票,票拾,拾圆"
+    }
+  ]
+}

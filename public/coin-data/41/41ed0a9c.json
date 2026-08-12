@@ -1,0 +1,31 @@
+{
+  "coinName": "民国十四年边业银行伍圆正反面票样",
+  "slug": "41ed0a9c",
+  "saleCount": 1,
+  "keywords": "银,钞,历史币,民国,国十,十四,四年,年边,边业,业银,银行,行伍,伍圆,圆正,正反,反面,面票,票样,样各,各一,一枚",
+  "priceStats": {
+    "low": 5900,
+    "high": 5900,
+    "avg": 5900,
+    "latest": 5900
+  },
+  "records": [
+    {
+      "coinName": "民国十四年边业银行伍圆正反面票样各一枚",
+      "normalizedBoxCode": "2438126009",
+      "displayBoxCode": "2438126-009",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shangyeyinhangzhichao/10397083.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2438126-009/",
+      "price": 5900,
+      "priceWithFee": 6549,
+      "transactedAt": "2026-08-06 20:42:40",
+      "productCode": "874270002",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,钞,历史币,民国,国十,十四,四年,年边,边业,业银,银行,行伍,伍圆,圆正,正反,反面,面票,票样,样各,各一,一枚"
+    }
+  ]
+}

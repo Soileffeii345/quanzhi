@@ -1,15 +1,32 @@
 {
   "coinName": "1974年银币",
   "slug": "4a406ec5",
-  "saleCount": 2,
-  "keywords": "银,1974年,年香,香港,港有,有利,利银,银行,行壹,壹佰,佰圆,外国/特区",
+  "saleCount": 3,
+  "keywords": "银,1974年,年有,有利,利银,银行,行壹,壹佰,佰圆,年香,香港,港有,外国/特区",
   "priceStats": {
     "low": 280,
-    "high": 290,
-    "avg": 285,
-    "latest": 280
+    "high": 2500,
+    "avg": 1023,
+    "latest": 2500
   },
   "records": [
+    {
+      "coinName": "1974年有利银行壹佰圆",
+      "normalizedBoxCode": "8051380079",
+      "displayBoxCode": "8051380-079",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xianggangzhichao/10417622.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8051380-079/",
+      "price": 2500,
+      "priceWithFee": 2775,
+      "transactedAt": "2026-07-28 21:56:35",
+      "productCode": "877006009",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,1974年,年有,有利,利银,银行,行壹,壹佰,佰圆"
+    },
     {
       "coinName": "1974年香港有利银行壹佰圆",
       "normalizedBoxCode": "2559422062",

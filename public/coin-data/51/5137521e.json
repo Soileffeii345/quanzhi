@@ -1,15 +1,49 @@
 {
   "coinName": "1994年古代科技22克精制银币",
   "slug": "5137521e",
-  "saleCount": 1,
-  "keywords": "银,币,1994年,22克,年中,中国,国古,古代,代科,科技,技发,发明,明发,发现,现第,第组,组编,编钟,钟克,克精,精制,制银,银币,评级",
+  "saleCount": 3,
+  "keywords": "银,币,1994年,22克,年中,中国,国古,古代,代科,科技,技发,发明,明发,发现,现第,第组,组慧,慧星,星发,现克,克精,精制,制银,银币,评级,组龙,龙骨,骨车,车克,组编,编钟,钟克",
   "priceStats": {
-    "low": 700,
-    "high": 700,
-    "avg": 700,
-    "latest": 700
+    "low": 650,
+    "high": 710,
+    "avg": 687,
+    "latest": 710
   },
   "records": [
+    {
+      "coinName": "1994年中国古代科技发明发现第（3）组-慧星发现22克精制银币",
+      "normalizedBoxCode": "4580440040",
+      "displayBoxCode": "4580440-040",
+      "gradingCompany": "NGC",
+      "grade": "PF 68 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10443154.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4580440-040/68/",
+      "price": 710,
+      "priceWithFee": 734.85,
+      "transactedAt": "2026-08-03 20:13:05",
+      "productCode": "880286009",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1994年,22克,年中,中国,国古,古代,代科,科技,技发,发明,明发,发现,现第,第组,组慧,慧星,星发,现克,克精,精制,制银,银币,评级"
+    },
+    {
+      "coinName": "1994年中国古代科技发明发现第（3）组-龙骨车22克精制银币",
+      "normalizedBoxCode": "6048648003",
+      "displayBoxCode": "6048648-003",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10443151.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6048648-003/",
+      "price": 650,
+      "priceWithFee": 672.75,
+      "transactedAt": "2026-08-03 20:12:40",
+      "productCode": "880286006",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1994年,22克,年中,中国,国古,古代,代科,科技,技发,发明,明发,发现,现第,第组,组龙,龙骨,骨车,车克,克精,精制,制银,银币,评级"
+    },
     {
       "coinName": "1994年中国古代科技发明发现第（3）组-编钟22克精制银币",
       "normalizedBoxCode": "4579927004",

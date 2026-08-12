@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "5754091069",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "5754091069",
+      "displayBoxCode": "5754091-069",
+      "gradingCompany": "NGC",
+      "grade": "PF 68 ULTRA CAMEO",
+      "coinName": "2005年世界文化遗产-丽江古城精制流通纪念币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10421547.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/5754091-069/68/",
+      "price": 130,
+      "priceWithFee": 140.4,
+      "transactedAt": "2026-07-29 19:04:45",
+      "productCode": "877706001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/24/867487006A.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2005年,年世,世界,界文,文化,化遗,遗产,产丽,丽江,江古,古城,城精,精制,制流,流通,通纪,纪念,念币,评级"
+    }
+  ]
+}

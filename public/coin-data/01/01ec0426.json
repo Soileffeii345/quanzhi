@@ -1,0 +1,31 @@
+{
+  "coinName": "上海造币有限公司2017年阿弥陀佛7.776克金章",
+  "slug": "01ec0426",
+  "saleCount": 1,
+  "keywords": "金,币,章,2017年,4盎司,宗教,上海,海造,造币,币有,有限,限公,公司,司年,年阿,阿弥,弥陀,陀佛,佛盎,盎司,司金,金章",
+  "priceStats": {
+    "low": 7800,
+    "high": 7800,
+    "avg": 7800,
+    "latest": 7800
+  },
+  "records": [
+    {
+      "coinName": "上海造币有限公司2017年阿弥陀佛1/4盎司金章",
+      "normalizedBoxCode": "2636973007",
+      "displayBoxCode": "2636973-007",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10441938.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2636973-007/69/",
+      "price": 7800,
+      "priceWithFee": 8073,
+      "transactedAt": "2026-08-03 22:16:00",
+      "productCode": "880177007",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,章,2017年,4盎司,宗教,上海,海造,造币,币有,有限,限公,公司,司年,年阿,阿弥,弥陀,陀佛,佛盎,盎司,司金,金章"
+    }
+  ]
+}

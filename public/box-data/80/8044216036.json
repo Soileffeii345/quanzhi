@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8044216036",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8044216036",
+      "displayBoxCode": "8044216-036",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2014年香港上海汇丰银行港币贰拾圆",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/liantichao-jinianchao/10449229.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8044216-036/",
+      "price": 130,
+      "priceWithFee": 140.4,
+      "transactedAt": "2026-08-08 19:23:20",
+      "productCode": "880972003",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/32/880972003B.jpg",
+      "ocrConfidence": 31,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2014年,年香,香港,港上,上海,海汇,汇丰,丰银,银行,行港,港币,币贰,贰拾,拾圆,外国/特区"
+    }
+  ]
+}

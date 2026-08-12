@@ -1,0 +1,31 @@
+{
+  "coinName": "民国十五年山西省银行太原地名壹角",
+  "slug": "4c6d8b60",
+  "saleCount": 1,
+  "keywords": "银,历史币,民国,国十,十五,五年,年山,山西,西省,省银,银行,行太,太原,原地,地名,名壹,壹角",
+  "priceStats": {
+    "low": 480,
+    "high": 480,
+    "avg": 480,
+    "latest": 480
+  },
+  "records": [
+    {
+      "coinName": "民国十五年山西省银行太原地名壹角",
+      "normalizedBoxCode": "1921379019",
+      "displayBoxCode": "1921379-019",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/minguoshengshigejiyinhangzhichao/10403996.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1921379-019/",
+      "price": 480,
+      "priceWithFee": 532.8,
+      "transactedAt": "2026-07-30 20:11:10",
+      "productCode": "874941033",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国十,十五,五年,年山,山西,西省,省银,银行,行太,太原,原地,地名,名壹,壹角"
+    }
+  ]
+}

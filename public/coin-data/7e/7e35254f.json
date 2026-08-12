@@ -1,0 +1,48 @@
+{
+  "coinName": "2011年精制",
+  "slug": "7e35254f",
+  "saleCount": 2,
+  "keywords": "币,2011年,年中,中国,国共,共产,产党,党成,成立,立周,周年,年精,精制,制流,流通,通纪,纪念,念币,评级,币二,二枚",
+  "priceStats": {
+    "low": 230,
+    "high": 420,
+    "avg": 325,
+    "latest": 230
+  },
+  "records": [
+    {
+      "coinName": "2011年中国共产党成立90周年精制流通纪念币",
+      "normalizedBoxCode": "6002038002",
+      "displayBoxCode": "6002038-002",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10415381.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6002038-002/69/",
+      "price": 230,
+      "priceWithFee": 248.4,
+      "transactedAt": "2026-07-29 19:04:05",
+      "productCode": "876732006",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2011年,年中,中国,国共,共产,产党,党成,成立,立周,周年,年精,精制,制流,流通,通纪,纪念,念币,评级"
+    },
+    {
+      "coinName": "2011年中国共产党成立90周年精制流通纪念币二枚",
+      "normalizedBoxCode": "8607596035",
+      "displayBoxCode": "8607596-035",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10423008.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8607596-035/69/",
+      "price": 420,
+      "priceWithFee": 453.6,
+      "transactedAt": "2026-07-29 19:00:45",
+      "productCode": "877343006",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2011年,年中,中国,国共,共产,产党,党成,成立,立周,周年,年精,精制,制流,流通,通纪,纪念,念币,币二,二枚,评级"
+    }
+  ]
+}

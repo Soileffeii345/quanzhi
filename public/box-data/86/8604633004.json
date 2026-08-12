@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8604633004",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8604633004",
+      "displayBoxCode": "8604633-004",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1933年墨西哥16.66克银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/wgjsbizhang/10429511.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8604633-004/",
+      "price": 360,
+      "priceWithFee": 381.6,
+      "transactedAt": "2026-07-31 19:20:05",
+      "productCode": "878383001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/878383001A.jpg",
+      "ocrConfidence": 28,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1933年,16.66克,年墨,墨西,西哥,哥克,克银,银币,外国/特区"
+    }
+  ]
+}

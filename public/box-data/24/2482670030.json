@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2482670030",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2482670030",
+      "displayBoxCode": "2482670-030",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "民国七年豫泉官银钱局伍圆",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/difangsipiao/10404304.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2482670-030/",
+      "price": 3600,
+      "priceWithFee": 3996,
+      "transactedAt": "2026-08-04 21:04:45",
+      "productCode": "875619005",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/875619005B.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国七,七年,年豫,豫泉,泉官,官银,银钱,钱局,局伍,伍圆"
+    }
+  ]
+}

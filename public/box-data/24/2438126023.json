@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2438126023",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2438126023",
+      "displayBoxCode": "2438126-023",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "交通银行哈尔滨地名贰角",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10397103.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2438126-023/",
+      "price": 3500,
+      "priceWithFee": 3885,
+      "transactedAt": "2026-08-06 20:29:45",
+      "productCode": "874270022",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/874270022B.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,交通,通银,银行,行哈,哈尔,尔滨,滨地,地名,名贰,贰角"
+    }
+  ]
+}

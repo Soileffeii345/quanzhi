@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4534602026",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4534602026",
+      "displayBoxCode": "4534602-026",
+      "gradingCompany": "NGC",
+      "grade": "Pr69 ULTRA CAMEO",
+      "coinName": "1997年熊猫1/2盎司精制彩银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-jiuyin/10436400.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4534602-026/69/",
+      "price": 530,
+      "priceWithFee": 548.55,
+      "transactedAt": "2026-08-03 20:45:10",
+      "productCode": "879389009",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/31/879389009A.jpg",
+      "ocrConfidence": 32,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1997年,2盎司,熊猫,年熊,猫盎,盎司,司精,精制,制彩,彩银,银币,评级"
+    }
+  ]
+}

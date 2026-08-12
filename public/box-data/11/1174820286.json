@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "1174820286",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "1174820286",
+      "displayBoxCode": "1174820-286",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "法国纸钞",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10439428.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1174820-286/",
+      "price": 1,
+      "priceWithFee": 1.11,
+      "transactedAt": "2026-08-04 22:18:25",
+      "productCode": "879668006",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/31/879668006A.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,法国,国纸,纸钞,外国/特区"
+    }
+  ]
+}

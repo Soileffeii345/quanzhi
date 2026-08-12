@@ -1,15 +1,32 @@
 {
   "coinName": "2007年生肖31.104克精制银币",
   "slug": "091ca494",
-  "saleCount": 4,
-  "keywords": "银,币,2007年,1盎司,生肖,年丁,丁亥,亥猪,猪年,年生,肖盎,盎司,司精,精制,制彩,彩银,银币,评级",
+  "saleCount": 5,
+  "keywords": "银,币,2007年,1盎司,生肖,年丁,丁亥,亥猪,猪年,年生,肖盎,盎司,司梅,梅花,花形,形精,精制,制银,银币,评级,司精,制彩,彩银",
   "priceStats": {
-    "low": 840,
+    "low": 610,
     "high": 900,
-    "avg": 858,
-    "latest": 850
+    "avg": 808,
+    "latest": 610
   },
   "records": [
+    {
+      "coinName": "2007年丁亥猪年生肖1盎司梅花形精制银币",
+      "normalizedBoxCode": "6182129026",
+      "displayBoxCode": "6182129-026",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10435818.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6182129-026/69/",
+      "price": 610,
+      "priceWithFee": 631.35,
+      "transactedAt": "2026-08-03 21:03:05",
+      "productCode": "878622008",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2007年,1盎司,生肖,年丁,丁亥,亥猪,猪年,年生,肖盎,盎司,司梅,梅花,花形,形精,精制,制银,银币,评级"
+    },
     {
       "coinName": "2007年丁亥猪年生肖1盎司精制彩银币",
       "normalizedBoxCode": "8764909041",

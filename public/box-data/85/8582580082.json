@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8582580082",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8582580082",
+      "displayBoxCode": "8582580-082",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1985年中国杰出历史人物第（2）组-老子22克精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10433899.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8582580-082/69/",
+      "price": 850,
+      "priceWithFee": 879.75,
+      "transactedAt": "2026-08-03 20:59:45",
+      "productCode": "878997023",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/878997023A.jpg",
+      "ocrConfidence": 42,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1985年,22克,年中,中国,国杰,杰出,出历,历史,史人,人物,物第,第组,组老,老子,子克,克精,精制,制银,银币,评级"
+    }
+  ]
+}

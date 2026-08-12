@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6715070009",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6715070009",
+      "displayBoxCode": "6715070-009",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1984年中华人民共和国成立35周年精制流通纪念币三枚一套",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10439654.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6715070-009/",
+      "price": 2100,
+      "priceWithFee": 2268,
+      "transactedAt": "2026-08-05 19:16:35",
+      "productCode": "879640001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/31/879640001A.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1984年,年中,中华,华人,人民,民共,共和,和国,国成,成立,立周,周年,年精,精制,制流,流通,通纪,纪念,念币,币三,三枚,枚一,一套,评级"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "coinName": "2023年吉祥文化100克精制银币",
+  "slug": "3af4a68e",
+  "saleCount": 1,
+  "keywords": "银,币,2023年,100克,吉祥文化,年吉,吉祥,祥文,文化,化人,人寿,寿年,年丰,丰克,克精,精制,制银,银币,评级",
+  "priceStats": {
+    "low": 5500,
+    "high": 5500,
+    "avg": 5500,
+    "latest": 5500
+  },
+  "records": [
+    {
+      "coinName": "2023年吉祥文化-人寿年丰100克精制银币",
+      "normalizedBoxCode": "6758522004",
+      "displayBoxCode": "6758522-004",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10449419.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6758522-004/70/",
+      "price": 5500,
+      "priceWithFee": 5692.5,
+      "transactedAt": "2026-08-08 20:38:10",
+      "productCode": "881231002",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2023年,100克,吉祥文化,年吉,吉祥,祥文,文化,化人,人寿,寿年,年丰,丰克,克精,精制,制银,银币,评级"
+    }
+  ]
+}

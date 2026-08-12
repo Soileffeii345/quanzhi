@@ -1,0 +1,31 @@
+{
+  "coinName": "1993年克罗地亚纸钞",
+  "slug": "10ad832f",
+  "saleCount": 1,
+  "keywords": "钞,1993年,年克,克罗,罗地,地亚,亚纸,纸钞,钞二,二枚",
+  "priceStats": {
+    "low": 65,
+    "high": 65,
+    "avg": 65,
+    "latest": 65
+  },
+  "records": [
+    {
+      "coinName": "1993年克罗地亚纸钞二枚",
+      "normalizedBoxCode": "2162302021",
+      "displayBoxCode": "2162302-021",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10436388.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2162302-021/",
+      "price": 65,
+      "priceWithFee": 72.15,
+      "transactedAt": "2026-08-04 22:11:45",
+      "productCode": "879388003",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,1993年,年克,克罗,罗地,地亚,亚纸,纸钞,钞二,二枚"
+    }
+  ]
+}

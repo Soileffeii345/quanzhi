@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8754703031",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8754703031",
+      "displayBoxCode": "8754703-031",
+      "gradingCompany": "NGC",
+      "grade": "MS 68",
+      "coinName": "1998年大唐镇库1盎司普制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10443230.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8754703-031/68/",
+      "price": 990,
+      "priceWithFee": 1024.65,
+      "transactedAt": "2026-08-03 21:25:10",
+      "productCode": "880261038",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/31/880261038A.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1998年,1盎司,年大,大唐,唐镇,镇库,库盎,盎司,司普,普制,制银,银币"
+    }
+  ]
+}

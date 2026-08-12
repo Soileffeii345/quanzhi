@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8588552002",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8588552002",
+      "displayBoxCode": "8588552-002",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "coinName": "1992年联合国环境保护组织1盎司普制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10433912.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8588552-002/69/",
+      "price": 870,
+      "priceWithFee": 900.45,
+      "transactedAt": "2026-08-03 21:36:00",
+      "productCode": "878997036",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/878997036A.jpg",
+      "ocrConfidence": 29,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1992年,1盎司,年联,联合,合国,国环,环境,境保,保护,护组,组织,织盎,盎司,司普,普制,制银,银币"
+    }
+  ]
+}

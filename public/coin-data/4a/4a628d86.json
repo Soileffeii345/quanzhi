@@ -1,15 +1,32 @@
 {
   "coinName": "1996年精制",
   "slug": "4a628d86",
-  "saleCount": 10,
-  "keywords": "币,1996年,年中,中国,国精,精制,制硬,硬币,币壹,壹圆,圆二,二枚,评级,币伍,伍角,年朱,朱德,德诞,诞辰,辰周,周年,年精,制流,流通,通纪,纪念,念币",
+  "saleCount": 11,
+  "keywords": "币,1996年,年朱,朱德,德诞,诞辰,辰周,周年,年精,精制,制流,流通,通纪,纪念,念币,评级,年中,中国,国精,制硬,硬币,币壹,壹圆,圆二,二枚,币伍,伍角",
   "priceStats": {
     "low": 240,
     "high": 1020,
-    "avg": 620,
-    "latest": 750
+    "avg": 595,
+    "latest": 350
   },
   "records": [
+    {
+      "coinName": "1996年朱德诞辰110周年精制流通纪念币",
+      "normalizedBoxCode": "0001816026",
+      "displayBoxCode": "0001816-026",
+      "gradingCompany": "NGC",
+      "grade": "PF 68 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10424824.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/0001816-026/68/",
+      "price": 350,
+      "priceWithFee": 378,
+      "transactedAt": "2026-07-29 19:45:25",
+      "productCode": "877753005",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1996年,年朱,朱德,德诞,诞辰,辰周,周年,年精,精制,制流,流通,通纪,纪念,念币,评级"
+    },
     {
       "coinName": "1996年中国精制硬币壹圆二枚",
       "normalizedBoxCode": "8777010014",

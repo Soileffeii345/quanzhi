@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6737223001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6737223001",
+      "displayBoxCode": "6737223-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 68 ULTRA CAMEO",
+      "coinName": "2016年世界遗产-大足石刻150克银章",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10439879.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6737223-001/68/",
+      "price": 4350,
+      "priceWithFee": 4502.25,
+      "transactedAt": "2026-08-06 19:43:25",
+      "productCode": "879528005",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/31/879528005A.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,章,2016年,150克,年世,世界,界遗,遗产,产大,大足,足石,石刻,刻克,克银,银章"
+    }
+  ]
+}

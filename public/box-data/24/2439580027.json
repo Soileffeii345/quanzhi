@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2439580027",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2439580027",
+      "displayBoxCode": "2439580-027",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "民国十二年中央银行广东地名拾圆",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10389419.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2439580-027/",
+      "price": 2300,
+      "priceWithFee": 2553,
+      "transactedAt": "2026-07-30 21:05:40",
+      "productCode": "873439002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/27/873439002B.jpg",
+      "ocrConfidence": 32,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国十,十二,二年,年中,中央,央银,银行,行广,广东,东地,地名,名拾,拾圆"
+    }
+  ]
+}

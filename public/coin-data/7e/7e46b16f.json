@@ -1,15 +1,32 @@
 {
   "coinName": "2002年精制",
   "slug": "7e46b16f",
-  "saleCount": 1,
-  "keywords": "币,2002年,年世,世界,界文,文化,化遗,遗产,产万,万里,里长,长城,城精,精制,制流,流通,通纪,纪念,念币,评级",
+  "saleCount": 2,
+  "keywords": "币,2002年,年世,世界,界文,文化,化遗,遗产,产万,万里,里长,长城,城年,产曲,曲阜,阜孔,孔庙,庙孔,孔林,林孔,孔府,府年,产龙,龙门,门石,石窟,窟精,精制,制流,流通,通纪,纪念,念币,币各,各一,一枚,枚共,共三,三枚,评级,城精",
   "priceStats": {
     "low": 350,
-    "high": 350,
-    "avg": 350,
-    "latest": 350
+    "high": 780,
+    "avg": 565,
+    "latest": 780
   },
   "records": [
+    {
+      "coinName": "2002年世界文化遗产-万里长城、2003年世界文化遗产-曲阜孔庙孔林孔府、2006年世界文化遗产-龙门石窟精制流通纪念币各一枚，共三枚",
+      "normalizedBoxCode": "6409218007",
+      "displayBoxCode": "6409218-007",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10415377.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6409218-007/",
+      "price": 780,
+      "priceWithFee": 842.4,
+      "transactedAt": "2026-07-29 19:19:25",
+      "productCode": "876732002",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2002年,年世,世界,界文,文化,化遗,遗产,产万,万里,里长,长城,城年,产曲,曲阜,阜孔,孔庙,庙孔,孔林,林孔,孔府,府年,产龙,龙门,门石,石窟,窟精,精制,制流,流通,通纪,纪念,念币,币各,各一,一枚,枚共,共三,三枚,评级"
+    },
     {
       "coinName": "2002年世界文化遗产-万里长城精制流通纪念币",
       "normalizedBoxCode": "6761281035",

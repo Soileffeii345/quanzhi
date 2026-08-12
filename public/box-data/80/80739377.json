@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "80739377",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "80739377",
+      "displayBoxCode": "80739377",
+      "gradingCompany": "PCGS",
+      "grade": "MS66",
+      "coinName": "1945年墨西哥1.51克金币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguojindaijizhibi/10397298.shtml",
+      "officialCertUrl": "https://cn.pcgs.com/cert/80739377",
+      "price": 1600,
+      "priceWithFee": 1728,
+      "transactedAt": "2026-08-03 20:41:05",
+      "productCode": "874636017",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/874636017A.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1945年,1.51克,年墨,墨西,西哥,哥克,克金,金币,外国/特区"
+    }
+  ]
+}

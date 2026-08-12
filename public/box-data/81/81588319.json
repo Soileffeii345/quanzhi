@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "81588319",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "81588319",
+      "displayBoxCode": "81588319",
+      "gradingCompany": "PCGS",
+      "grade": "MS66",
+      "coinName": "1955年中国硬币壹分",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10426962.shtml",
+      "officialCertUrl": "https://cn.pcgs.com/cert/81588319",
+      "price": 300,
+      "priceWithFee": 324,
+      "transactedAt": "2026-07-29 20:37:25",
+      "productCode": "878042005",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/878042005A.jpg",
+      "ocrConfidence": 32,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1955年,年中,中国,国硬,硬币,币壹,壹分"
+    }
+  ]
+}

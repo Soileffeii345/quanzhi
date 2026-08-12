@@ -1,0 +1,31 @@
+{
+  "coinName": "上海造币有限公司2017年和合二仙7.776克金章",
+  "slug": "071dcfc0",
+  "saleCount": 1,
+  "keywords": "金,币,章,2017年,4盎司,上海,海造,造币,币有,有限,限公,公司,司年,年和,和合,合二,二仙,仙盎,盎司,司金,金章",
+  "priceStats": {
+    "low": 8000,
+    "high": 8000,
+    "avg": 8000,
+    "latest": 8000
+  },
+  "records": [
+    {
+      "coinName": "上海造币有限公司2017年和合二仙1/4盎司金章",
+      "normalizedBoxCode": "4636975001",
+      "displayBoxCode": "4636975-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10441941.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4636975-001/69/",
+      "price": 8000,
+      "priceWithFee": 8280,
+      "transactedAt": "2026-08-03 22:12:40",
+      "productCode": "880177010",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,章,2017年,4盎司,上海,海造,造币,币有,有限,限公,公司,司年,年和,和合,合二,二仙,仙盎,盎司,司金,金章"
+    }
+  ]
+}

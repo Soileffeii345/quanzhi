@@ -1,0 +1,31 @@
+{
+  "coinName": "2023年2克精制金币",
+  "slug": "37d9bedd",
+  "saleCount": 1,
+  "keywords": "金,币,2023年,2克,年中,中华,华传,传统,统瑞,瑞兽,兽凤,凤凰,凰克,克精,精制,制金,金币,评级",
+  "priceStats": {
+    "low": 2500,
+    "high": 2500,
+    "avg": 2500,
+    "latest": 2500
+  },
+  "records": [
+    {
+      "coinName": "2023年中华传统瑞兽-凤凰2克精制金币",
+      "normalizedBoxCode": "6761252040",
+      "displayBoxCode": "6761252-040",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10443538.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6761252-040/70/",
+      "price": 2500,
+      "priceWithFee": 2587.5,
+      "transactedAt": "2026-08-03 22:09:45",
+      "productCode": "880415001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2023年,2克,年中,中华,华传,传统,统瑞,瑞兽,兽凤,凤凰,凰克,克精,精制,制金,金币,评级"
+    }
+  ]
+}

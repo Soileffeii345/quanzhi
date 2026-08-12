@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2379380038",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2379380038",
+      "displayBoxCode": "2379380-038",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2009年中国银行（香港）有限公司港币伍拾圆",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/liantichao-jinianchao/10449227.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2379380-038/",
+      "price": 110,
+      "priceWithFee": 118.8,
+      "transactedAt": "2026-08-08 20:32:35",
+      "productCode": "880972001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/32/880972001B.jpg",
+      "ocrConfidence": 32,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2009年,年中,中国,国银,银行,行香,香港,港有,有限,限公,公司,司港,港币,币伍,伍拾,拾圆,外国/特区"
+    }
+  ]
+}

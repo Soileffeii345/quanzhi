@@ -1,0 +1,31 @@
+{
+  "coinName": "民国三十年交通银行伍拾圆",
+  "slug": "3e813a62",
+  "saleCount": 1,
+  "keywords": "银,历史币,民国,国三,三十,十年,年交,交通,通银,银行,行伍,伍拾,拾圆",
+  "priceStats": {
+    "low": 280,
+    "high": 280,
+    "avg": 280,
+    "latest": 280
+  },
+  "records": [
+    {
+      "coinName": "民国三十年交通银行伍拾圆",
+      "normalizedBoxCode": "2227540018",
+      "displayBoxCode": "2227540-018",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10401704.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2227540-018/",
+      "price": 280,
+      "priceWithFee": 310.8,
+      "transactedAt": "2026-08-06 19:28:55",
+      "productCode": "874987012",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国三,三十,十年,年交,交通,通银,银行,行伍,伍拾,拾圆"
+    }
+  ]
+}

@@ -1,15 +1,32 @@
 {
   "coinName": "1950年银币",
   "slug": "4a1a0c3f",
-  "saleCount": 2,
-  "keywords": "银,1950年,新疆版,年新,新疆,疆省,省银,银行,行银,银圆,圆券,券拾,拾圆,年东,东北,北银,行地,地方,方流,流通,通券,券伍,伍佰,佰圆",
+  "saleCount": 3,
+  "keywords": "银,1950年,年东,东北,北银,银行,行地,地方,方流,流通,通券,券伍,伍佰,佰圆,新疆版,年新,新疆,疆省,省银,行银,银圆,圆券,券拾,拾圆",
   "priceStats": {
     "low": 500,
-    "high": 1020,
-    "avg": 760,
-    "latest": 500
+    "high": 1360,
+    "avg": 960,
+    "latest": 1360
   },
   "records": [
+    {
+      "coinName": "1950年东北银行地方流通券伍佰圆",
+      "normalizedBoxCode": "2434182048",
+      "displayBoxCode": "2434182-048",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jiefangquzhichao/10403514.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2434182-048/",
+      "price": 1360,
+      "priceWithFee": 1509.6,
+      "transactedAt": "2026-07-30 20:58:10",
+      "productCode": "874940019",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,1950年,年东,东北,北银,银行,行地,地方,方流,流通,通券,券伍,伍佰,佰圆"
+    },
     {
       "coinName": "1950年新疆省银行银圆券拾圆",
       "normalizedBoxCode": "2122114008",

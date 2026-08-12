@@ -1,15 +1,32 @@
 {
   "coinName": "1996年31.104克加厚银币",
   "slug": "3d4789b5",
-  "saleCount": 3,
+  "saleCount": 4,
   "keywords": "银,币,1996年,1盎司,宗教,年玉,玉瓶,瓶观,观音,音盎,盎司,司加,加厚,厚精,精制,制银,银币,评级",
   "priceStats": {
     "low": 1480,
     "high": 1700,
-    "avg": 1607,
-    "latest": 1480
+    "avg": 1590,
+    "latest": 1540
   },
   "records": [
+    {
+      "coinName": "1996年玉瓶观音1盎司加厚精制银币",
+      "normalizedBoxCode": "8764265015",
+      "displayBoxCode": "8764265-015",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10435864.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8764265-015/69/",
+      "price": 1540,
+      "priceWithFee": 1593.9,
+      "transactedAt": "2026-08-03 21:09:20",
+      "productCode": "878828002",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1996年,1盎司,宗教,年玉,玉瓶,瓶观,观音,音盎,盎司,司加,加厚,厚精,精制,制银,银币,评级"
+    },
     {
       "coinName": "1996年玉瓶观音1盎司加厚精制银币",
       "normalizedBoxCode": "8764265014",

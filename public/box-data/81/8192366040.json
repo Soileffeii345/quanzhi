@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8192366040",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8192366040",
+      "displayBoxCode": "8192366-040",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1997年丁丑牛年生肖1/10盎司普制金币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-jin/10430043.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8192366-040/",
+      "price": 3400,
+      "priceWithFee": 3519,
+      "transactedAt": "2026-07-30 21:16:05",
+      "productCode": "878535003",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/878535003A.jpg",
+      "ocrConfidence": 31,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1997年,10盎司,生肖,年丁,丁丑,丑牛,牛年,年生,肖盎,盎司,司普,普制,制金,金币"
+    }
+  ]
+}

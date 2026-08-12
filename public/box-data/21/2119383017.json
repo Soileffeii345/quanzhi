@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2119383017",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2119383017",
+      "displayBoxCode": "2119383-017",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "民国二十八年晋察冀边区银行伍圆",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jiefangquzhichao/10399458.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2119383-017/",
+      "price": 480,
+      "priceWithFee": 532.8,
+      "transactedAt": "2026-08-06 19:32:15",
+      "productCode": "874824019",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/874824019B.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国二,二十,十八,八年,年晋,晋察,察冀,冀边,边区,区银,银行,行伍,伍圆"
+    }
+  ]
+}

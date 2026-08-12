@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "33333823",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "33333823",
+      "displayBoxCode": "33333823",
+      "gradingCompany": "PCGS",
+      "grade": "PF64",
+      "coinName": "2023年春季钱币拍卖会 钱币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/qitaqianbi/10407074.shtml",
+      "officialCertUrl": "https://cn.pcgs.com/cert/33333823",
+      "price": 40,
+      "priceWithFee": 44.4,
+      "transactedAt": "2026-08-07 19:56:50",
+      "productCode": "874440072",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/874440072D.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2023年,年春,春季,季钱,钱币,币拍,拍卖,卖会,会钱"
+    }
+  ]
+}

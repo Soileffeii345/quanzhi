@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "1117970796",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "1117970796",
+      "displayBoxCode": "1117970-796",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "清-咸丰重宝宝浙当十阔缘",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/guqian/10412204.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1117970-796/",
+      "price": 470,
+      "priceWithFee": 517,
+      "transactedAt": "2026-08-10 21:35:35",
+      "productCode": "876352005",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/876352005A.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "清咸,咸丰,丰重,重宝,宝宝,宝浙,浙当,当十,十阔,阔缘"
+    }
+  ]
+}

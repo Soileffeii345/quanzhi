@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6185428003",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6185428003",
+      "displayBoxCode": "6185428-003",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1991年辛未羊年生肖1盎司精制金币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-jin/10436426.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6185428-003/69/",
+      "price": 40000,
+      "priceWithFee": 41400,
+      "transactedAt": "2026-07-30 21:04:05",
+      "productCode": "879465004",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/31/879465004A.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1991年,1盎司,生肖,年辛,辛未,未羊,羊年,年生,肖盎,盎司,司精,精制,制金,金币,评级"
+    }
+  ]
+}

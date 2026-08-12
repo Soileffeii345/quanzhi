@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2210752055",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2210752055",
+      "displayBoxCode": "2210752-055",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1996年美国20美元纸钞",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10431532.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2210752-055/",
+      "price": 350,
+      "priceWithFee": 388.5,
+      "transactedAt": "2026-07-30 22:22:40",
+      "productCode": "878665005",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/878665005B.jpg",
+      "ocrConfidence": 26,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,1996年,年美,美国,国美,美元,元纸,纸钞,外国/特区"
+    }
+  ]
+}

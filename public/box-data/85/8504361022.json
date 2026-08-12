@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8504361022",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8504361022",
+      "displayBoxCode": "8504361-022",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1990年熊猫1/4盎司普制金币（小字版）",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-jiujin/10446872.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8504361-022/",
+      "price": 12000,
+      "priceWithFee": 12420,
+      "transactedAt": "2026-08-10 22:07:40",
+      "productCode": "880849006",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/32/880849006A.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1990年,4盎司,熊猫,年熊,猫盎,盎司,司普,普制,制金,金币,币小,小字,字版"
+    }
+  ]
+}

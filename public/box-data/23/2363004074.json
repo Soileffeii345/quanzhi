@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2363004074",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2363004074",
+      "displayBoxCode": "2363004-074",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1976年大西洋国海外汇理银行伍圆",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/aomenzhichao/10438290.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2363004-074/",
+      "price": 310,
+      "priceWithFee": 344.1,
+      "transactedAt": "2026-08-04 20:24:25",
+      "productCode": "879041021",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/31/879041021B.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,1976年,年大,大西,西洋,洋国,国海,海外,外汇,汇理,理银,银行,行伍,伍圆"
+    }
+  ]
+}

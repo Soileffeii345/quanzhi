@@ -1,6 +1,11 @@
 name: Daily verified-data update
 
 on:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/daily-update.yml"
+      - "bootstrap/quanzhi.sqlite.gz"
   schedule:
     # Beijing time 08:00
     - cron: "0 0 * * *"
@@ -16,7 +21,7 @@ concurrency:
 jobs:
   update:
     runs-on: ubuntu-latest
-    timeout-minutes: 45
+    timeout-minutes: 120
     env:
       GH_TOKEN: ${{ github.token }}
 
@@ -33,7 +38,16 @@ jobs:
       - run: npm ci
 
       - name: Download private database backup
-        run: gh release download database-backup --pattern quanzhi.sqlite.gz --dir collector/data --clobber
+        run: |
+          mkdir -p collector/data
+          if gh release view database-backup >/dev/null 2>&1; then
+            gh release download database-backup --pattern quanzhi.sqlite.gz --dir collector/data --clobber
+          elif [ -f bootstrap/quanzhi.sqlite.gz ]; then
+            cp bootstrap/quanzhi.sqlite.gz collector/data/quanzhi.sqlite.gz
+          else
+            echo "No database backup is available" >&2
+            exit 1
+          fi
 
       - name: Restore and validate SQLite
         run: |
@@ -52,6 +66,7 @@ jobs:
       - name: Refresh private database backup
         run: |
           npm run db:backup
+          gh release view database-backup >/dev/null 2>&1 || gh release create database-backup --title "Database backup" --notes "Private operational backup for the verified daily-data workflow."
           gh release upload database-backup collector/data/quanzhi.sqlite.gz --clobber
 
       - name: Commit verified public data

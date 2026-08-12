@@ -1,0 +1,31 @@
+{
+  "coinName": "2022年熊猫30克普制银币",
+  "slug": "74634f23",
+  "saleCount": 1,
+  "keywords": "银,币,2022年,30克,熊猫,年熊,猫克,克普,普制,制银,银币",
+  "priceStats": {
+    "low": 610,
+    "high": 610,
+    "avg": 610,
+    "latest": 610
+  },
+  "records": [
+    {
+      "coinName": "2022年熊猫30克普制银币",
+      "normalizedBoxCode": "6201162059",
+      "displayBoxCode": "6201162-059",
+      "gradingCompany": "NGC",
+      "grade": "ms 70",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-xinyin/10428307.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6201162-059/70/",
+      "price": 610,
+      "priceWithFee": 631.35,
+      "transactedAt": "2026-08-01 19:52:40",
+      "productCode": "877747001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2022年,30克,熊猫,年熊,猫克,克普,普制,制银,银币"
+    }
+  ]
+}

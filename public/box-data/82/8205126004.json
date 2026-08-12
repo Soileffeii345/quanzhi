@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8205126004",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8205126004",
+      "displayBoxCode": "8205126-004",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2002年四川三星堆1/2盎司精制金币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10443144.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8205126-004/70/",
+      "price": 18800,
+      "priceWithFee": 19458,
+      "transactedAt": "2026-08-06 20:16:45",
+      "productCode": "880291004",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/31/880291004A.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2002年,2盎司,年四,四川,川三,三星,星堆,堆盎,盎司,司精,精制,制金,金币,评级"
+    }
+  ]
+}

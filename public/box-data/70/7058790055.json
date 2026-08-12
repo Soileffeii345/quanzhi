@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "7058790055",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "7058790055",
+      "displayBoxCode": "7058790-055",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "第四套/第四版人民币1980年版2角连号二枚",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/disibanrenminbi/10438320.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/7058790-055/",
+      "price": 140,
+      "priceWithFee": 151.2,
+      "transactedAt": "2026-08-01 21:55:05",
+      "productCode": "879091010",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/31/879091010B.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1980年,第四,四套,套第,四版,版人,人民,民币,币年,年版,版角,角连,连号,号二,二枚"
+    }
+  ]
+}

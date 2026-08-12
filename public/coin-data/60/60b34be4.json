@@ -1,12 +1,12 @@
 {
   "coinName": "2003年5盎司精制银币",
   "slug": "60b34be4",
-  "saleCount": 3,
-  "keywords": "银,币,2003年,5盎司,年中,中国,国古,古典,典文,文学,学名,名著,著红,红楼,楼梦,梦第,第组,组贾,贾母,母祝,祝寿,寿盎,盎司,司扇,扇形,形精,精制,制彩,彩银,银币,评级",
+  "saleCount": 5,
+  "keywords": "银,币,2003年,5盎司,年中,中国,国古,古典,典文,文学,学名,名著,著红,红楼,楼梦,梦第,第组,组贾,贾母,母祝,祝寿,寿盎,盎司,司扇,扇形,形精,精制,制彩,彩银,银币,评级,国民,民间,间神,神话,话故,故事,事第,组鹊,鹊桥,桥相,相会,会盎,司长,长方,方形",
   "priceStats": {
-    "low": 3950,
-    "high": 4100,
-    "avg": 4033,
+    "low": 2650,
+    "high": 4250,
+    "avg": 3800,
     "latest": 3950
   },
   "records": [
@@ -23,6 +23,40 @@
       "priceWithFee": 4088.25,
       "transactedAt": "2026-08-06 19:46:45",
       "productCode": "880533002",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2003年,5盎司,年中,中国,国古,古典,典文,文学,学名,名著,著红,红楼,楼梦,梦第,第组,组贾,贾母,母祝,祝寿,寿盎,盎司,司扇,扇形,形精,精制,制彩,彩银,银币,评级"
+    },
+    {
+      "coinName": "2003年中国民间神话故事第（3）组-鹊桥相会5盎司长方形精制彩银币",
+      "normalizedBoxCode": "0979700070",
+      "displayBoxCode": "0979700-070",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10436396.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/0979700-070/",
+      "price": 2650,
+      "priceWithFee": 2742.75,
+      "transactedAt": "2026-08-03 21:41:00",
+      "productCode": "879389005",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2003年,5盎司,年中,中国,国民,民间,间神,神话,话故,故事,事第,第组,组鹊,鹊桥,桥相,相会,会盎,盎司,司长,长方,方形,形精,精制,制彩,彩银,银币,评级"
+    },
+    {
+      "coinName": "2003年中国古典文学名著《红楼梦》第（3）组-贾母祝寿5盎司扇形精制彩银币",
+      "normalizedBoxCode": "8610398074",
+      "displayBoxCode": "8610398-074",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10408873.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8610398-074/69/",
+      "price": 4250,
+      "priceWithFee": 4398.75,
+      "transactedAt": "2026-07-30 19:41:25",
+      "productCode": "876064002",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "银,币,2003年,5盎司,年中,中国,国古,古典,典文,文学,学名,名著,著红,红楼,楼梦,梦第,第组,组贾,贾母,母祝,祝寿,寿盎,盎司,司扇,扇形,形精,精制,制彩,彩银,银币,评级"

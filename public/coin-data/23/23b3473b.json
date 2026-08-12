@@ -1,0 +1,31 @@
+{
+  "coinName": "民国十七年中央银行上海地名伍拾圆正面票样",
+  "slug": "23b3473b",
+  "saleCount": 1,
+  "keywords": "银,钞,历史币,民国,国十,十七,七年,年中,中央,央银,银行,行上,上海,海地,地名,名伍,伍拾,拾圆,圆正,正面,面票,票样",
+  "priceStats": {
+    "low": 5900,
+    "high": 5900,
+    "avg": 5900,
+    "latest": 5900
+  },
+  "records": [
+    {
+      "coinName": "民国十七年中央银行上海地名伍拾圆正面票样",
+      "normalizedBoxCode": "2584612048",
+      "displayBoxCode": "2584612-048",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10387083.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2584612-048/",
+      "price": 5900,
+      "priceWithFee": 6549,
+      "transactedAt": "2026-07-30 21:22:40",
+      "productCode": "873442004",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,钞,历史币,民国,国十,十七,七年,年中,中央,央银,银行,行上,上海,海地,地名,名伍,伍拾,拾圆,圆正,正面,面票,票样"
+    }
+  ]
+}

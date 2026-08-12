@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2252932012",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2252932012",
+      "displayBoxCode": "2252932-012",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1919年前苏联全方贫工之联合纸钞",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10389432.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2252932-012/",
+      "price": 600,
+      "priceWithFee": 666,
+      "transactedAt": "2026-07-30 22:23:10",
+      "productCode": "873439015",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/27/873439015B.jpg",
+      "ocrConfidence": 28,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,1919年,年前,前苏,苏联,联全,全方,方贫,贫工,工之,之联,联合,合纸,纸钞,外国/特区"
+    }
+  ]
+}

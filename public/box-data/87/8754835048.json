@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8754835048",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8754835048",
+      "displayBoxCode": "8754835-048",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 CAMEO",
+      "coinName": "1982年第12届世界杯足球赛1/2盎司精制银币二枚一套",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10433941.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8754835-048/69/",
+      "price": 1820,
+      "priceWithFee": 1883.7,
+      "transactedAt": "2026-07-30 20:23:25",
+      "productCode": "878995021",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/878995021A.jpg",
+      "ocrConfidence": 38,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1982年,2盎司,年第,第届,届世,世界,界杯,杯足,足球,球赛,赛盎,盎司,司精,精制,制银,银币,币二,二枚,枚一,一套,评级"
+    }
+  ]
+}

@@ -1,15 +1,32 @@
 {
   "coinName": "1991年中国共产党成立70周年流通纪念币",
   "slug": "184d34a2",
-  "saleCount": 1,
-  "keywords": "币,1991年,年中,中国,国共,共产,产党,党成,成立,立周,周年,年流,流通,通纪,纪念,念币,币三,三枚",
+  "saleCount": 2,
+  "keywords": "币,1991年,年中,中国,国共,共产,产党,党成,成立,立周,周年,年流,流通,通纪,纪念,念币,币三,三枚,枚一,一套",
   "priceStats": {
     "low": 210,
-    "high": 210,
-    "avg": 210,
-    "latest": 210
+    "high": 230,
+    "avg": 220,
+    "latest": 230
   },
   "records": [
+    {
+      "coinName": "1991年中国共产党成立70周年流通纪念币三枚一套",
+      "normalizedBoxCode": "6149288052",
+      "displayBoxCode": "6149288-052",
+      "gradingCompany": "NGC",
+      "grade": "MS 67",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10427987.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6149288-052/67/",
+      "price": 230,
+      "priceWithFee": 248.4,
+      "transactedAt": "2026-07-29 19:52:45",
+      "productCode": "878175003",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1991年,年中,中国,国共,共产,产党,党成,成立,立周,周年,年流,流通,通纪,纪念,念币,币三,三枚,枚一,一套"
+    },
     {
       "coinName": "1991年中国共产党成立70周年流通纪念币三枚",
       "normalizedBoxCode": "6729455033",

@@ -1,12 +1,12 @@
 {
   "coinName": "第三版人民币1角红冠3罗马平版",
   "slug": "3cb6ccdc",
-  "saleCount": 12,
+  "saleCount": 14,
   "keywords": "币,第三,三版,版人,人民,民币,币角,角红,红冠,冠罗,罗马,马平,平版,版三,三枚",
   "priceStats": {
     "low": 50,
     "high": 640,
-    "avg": 283,
+    "avg": 266,
     "latest": 50
   },
   "records": [
@@ -23,6 +23,40 @@
       "priceWithFee": 54,
       "transactedAt": "2026-08-08 21:23:50",
       "productCode": "880840081",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,第三,三版,版人,人民,民币,币角,角红,红冠,冠罗,罗马,马平,平版"
+    },
+    {
+      "coinName": "第三版人民币1角红冠3罗马平版",
+      "normalizedBoxCode": "1010901282",
+      "displayBoxCode": "1010901-282",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/disanbanrenminbi/10450189.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1010901-282/",
+      "price": 160,
+      "priceWithFee": 172.8,
+      "transactedAt": "2026-08-08 20:40:50",
+      "productCode": "881035006",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,第三,三版,版人,人民,民币,币角,角红,红冠,冠罗,罗马,马平,平版"
+    },
+    {
+      "coinName": "第三版人民币1角红冠3罗马平版",
+      "normalizedBoxCode": "7021809131",
+      "displayBoxCode": "7021809-131",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/disanbanrenminbi/10450189.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/7021809-131/",
+      "price": 160,
+      "priceWithFee": 172.8,
+      "transactedAt": "2026-08-08 20:40:50",
+      "productCode": "881035006",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "币,第三,三版,版人,人民,民币,币角,角红,红冠,冠罗,罗马,马平,平版"

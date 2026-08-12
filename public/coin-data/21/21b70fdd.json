@@ -1,15 +1,49 @@
 {
   "coinName": "2002年熊猫15.552克普制金币",
   "slug": "21b70fdd",
-  "saleCount": 2,
+  "saleCount": 4,
   "keywords": "金,币,2002年,2盎司,熊猫,年熊,猫盎,盎司,司普,普制,制金,金币",
   "priceStats": {
-    "low": 19600,
+    "low": 19000,
     "high": 20000,
-    "avg": 19800,
-    "latest": 19600
+    "avg": 19450,
+    "latest": 19200
   },
   "records": [
+    {
+      "coinName": "2002年熊猫1/2盎司普制金币",
+      "normalizedBoxCode": "8825225019",
+      "displayBoxCode": "8825225-019",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-jiujin/10444852.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8825225-019/",
+      "price": 19200,
+      "priceWithFee": 19872,
+      "transactedAt": "2026-08-06 20:43:25",
+      "productCode": "880533004",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2002年,2盎司,熊猫,年熊,猫盎,盎司,司普,普制,制金,金币"
+    },
+    {
+      "coinName": "2002年熊猫1/2盎司普制金币",
+      "normalizedBoxCode": "8825225021",
+      "displayBoxCode": "8825225-021",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-jiujin/10433406.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8825225-021/",
+      "price": 19000,
+      "priceWithFee": 19665,
+      "transactedAt": "2026-07-30 20:50:05",
+      "productCode": "878946003",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2002年,2盎司,熊猫,年熊,猫盎,盎司,司普,普制,制金,金币"
+    },
     {
       "coinName": "2002年熊猫1/2盎司普制金币",
       "normalizedBoxCode": "8825225014",

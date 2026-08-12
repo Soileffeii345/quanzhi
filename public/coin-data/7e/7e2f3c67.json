@@ -1,15 +1,49 @@
 {
   "coinName": "2016年银币",
   "slug": "7e2f3c67",
-  "saleCount": 14,
-  "keywords": "银,币,2016年,年香,香港,港上,上海,海汇,汇丰,丰银,银行,行有,有限,限公,公司,司港,港币,币伍,伍拾,拾圆,外国/特区,年渣,渣打,打银,行港,币元,港渣,币贰,贰拾,行香,港港,圆二,二枚,币壹,壹佰,佰圆",
+  "saleCount": 17,
+  "keywords": "银,币,2016年,年香,香港,港渣,渣打,打银,银行,行港,港币,币贰,贰拾,拾圆,外国/特区,港上,上海,海汇,汇丰,丰银,币壹,壹佰,佰圆,行有,有限,限公,公司,司港,币伍,伍拾,年渣,币元,行香,港港,圆二,二枚",
   "priceStats": {
     "low": 95,
     "high": 410,
-    "avg": 181,
-    "latest": 95
+    "avg": 170,
+    "latest": 100
   },
   "records": [
+    {
+      "coinName": "2016年香港渣打银行港币贰拾圆",
+      "normalizedBoxCode": "2559422045",
+      "displayBoxCode": "2559422-045",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/liantichao-jinianchao/10449241.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2559422-045/",
+      "price": 100,
+      "priceWithFee": 108,
+      "transactedAt": "2026-08-08 19:46:05",
+      "productCode": "880972015",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2016年,年香,香港,港渣,渣打,打银,银行,行港,港币,币贰,贰拾,拾圆,外国/特区"
+    },
+    {
+      "coinName": "2016年香港上海汇丰银行港币壹佰圆",
+      "normalizedBoxCode": "2488260049",
+      "displayBoxCode": "2488260-049",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/liantichao-jinianchao/10449233.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2488260-049/",
+      "price": 150,
+      "priceWithFee": 162,
+      "transactedAt": "2026-08-08 19:45:35",
+      "productCode": "880972007",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2016年,年香,香港,港上,上海,海汇,汇丰,丰银,银行,行港,港币,币壹,壹佰,佰圆,外国/特区"
+    },
     {
       "coinName": "2016年香港上海汇丰银行有限公司港币伍拾圆",
       "normalizedBoxCode": "1937282005",
@@ -23,6 +57,23 @@
       "priceWithFee": 102.6,
       "transactedAt": "2026-08-08 19:11:20",
       "productCode": "880840069",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2016年,年香,香港,港上,上海,海汇,汇丰,丰银,银行,行有,有限,限公,公司,司港,港币,币伍,伍拾,拾圆,外国/特区"
+    },
+    {
+      "coinName": "2016年香港上海汇丰银行有限公司港币伍拾圆",
+      "normalizedBoxCode": "2559394015",
+      "displayBoxCode": "2559394-015",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/liantichao-jinianchao/10435093.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2559394-015/",
+      "price": 110,
+      "priceWithFee": 118.8,
+      "transactedAt": "2026-08-04 20:22:25",
+      "productCode": "878688004",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "银,币,2016年,年香,香港,港上,上海,海汇,汇丰,丰银,银行,行有,有限,限公,公司,司港,港币,币伍,伍拾,拾圆,外国/特区"

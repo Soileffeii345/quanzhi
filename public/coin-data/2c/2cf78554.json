@@ -1,0 +1,48 @@
+{
+  "coinName": "民国三十三年中央银行壹百圆",
+  "slug": "2cf78554",
+  "saleCount": 2,
+  "keywords": "银,历史币,民国,国三,三十,十三,三年,年中,中央,央银,银行,行壹,壹百,百圆",
+  "priceStats": {
+    "low": 1020,
+    "high": 2050,
+    "avg": 1535,
+    "latest": 2050
+  },
+  "records": [
+    {
+      "coinName": "民国三十三年中央银行壹百圆",
+      "normalizedBoxCode": "2144904026",
+      "displayBoxCode": "2144904-026",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10394878.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2144904-026/",
+      "price": 2050,
+      "priceWithFee": 2275.5,
+      "transactedAt": "2026-07-30 20:32:40",
+      "productCode": "873834011",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国三,三十,十三,三年,年中,中央,央银,银行,行壹,壹百,百圆"
+    },
+    {
+      "coinName": "民国三十三年中央银行壹百圆",
+      "normalizedBoxCode": "1408719003",
+      "displayBoxCode": "1408719-003",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10394884.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1408719-003/",
+      "price": 1020,
+      "priceWithFee": 1132.2,
+      "transactedAt": "2026-07-30 19:22:40",
+      "productCode": "873834017",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国三,三十,十三,三年,年中,中央,央银,银行,行壹,壹百,百圆"
+    }
+  ]
+}

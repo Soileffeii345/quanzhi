@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8617390039",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8617390039",
+      "displayBoxCode": "8617390-039",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1993年中国精制硬币伍角二枚",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10440186.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8617390-039/",
+      "price": 620,
+      "priceWithFee": 669.6,
+      "transactedAt": "2026-08-05 20:21:35",
+      "productCode": "879881005",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/31/879881005A.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1993年,年中,中国,国精,精制,制硬,硬币,币伍,伍角,角二,二枚,评级"
+    }
+  ]
+}

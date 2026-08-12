@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8610436008",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8610436008",
+      "displayBoxCode": "8610436-008",
+      "gradingCompany": "NGC",
+      "grade": "PF64 ULTRA CAMEO",
+      "coinName": "2000年中国精制硬币5角",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10428709.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8610436-008/64/",
+      "price": 240,
+      "priceWithFee": 259.2,
+      "transactedAt": "2026-07-29 21:14:05",
+      "productCode": "878038001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/878038001A.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2000年,年中,中国,国精,精制,制硬,硬币,币角,评级"
+    }
+  ]
+}

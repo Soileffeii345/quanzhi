@@ -1,0 +1,31 @@
+{
+  "coinName": "1994年加拿大枫叶31.104克银币",
+  "slug": "04a22380",
+  "saleCount": 1,
+  "keywords": "银,币,1994年,1盎司,年加,加拿,拿大,大枫,枫叶,叶盎,盎司,司银,银币,外国/特区",
+  "priceStats": {
+    "low": 510,
+    "high": 510,
+    "avg": 510,
+    "latest": 510
+  },
+  "records": [
+    {
+      "coinName": "1994年加拿大枫叶1盎司银币",
+      "normalizedBoxCode": "8657410015",
+      "displayBoxCode": "8657410-015",
+      "gradingCompany": "NGC",
+      "grade": "MS 67",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jianadafengye/10417005.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8657410-015/67/",
+      "price": 510,
+      "priceWithFee": 540.6,
+      "transactedAt": "2026-07-24 19:46:45",
+      "productCode": "877048013",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1994年,1盎司,年加,加拿,拿大,大枫,枫叶,叶盎,盎司,司银,银币,外国/特区"
+    }
+  ]
+}

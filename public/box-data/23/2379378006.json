@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2379378006",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2379378006",
+      "displayBoxCode": "2379378-006",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "民国三十年交通银行重庆地名伍拾圆",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10405096.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2379378-006/",
+      "price": 620,
+      "priceWithFee": 688.2,
+      "transactedAt": "2026-08-06 21:18:05",
+      "productCode": "874291052",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/874291052B.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国三,三十,十年,年交,交通,通银,银行,行重,重庆,庆地,地名,名伍,伍拾,拾圆"
+    }
+  ]
+}

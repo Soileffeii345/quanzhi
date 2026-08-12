@@ -1,12 +1,12 @@
 {
   "coinName": "2005年生肖精制",
   "slug": "27117977",
-  "saleCount": 7,
+  "saleCount": 8,
   "keywords": "币,2005年,生肖,吉祥文化,年乙,乙酉,酉鸡,鸡年,年生,肖贺,贺岁,岁精,精制,制流,流通,通纪,纪念,念币,评级,肖精",
   "priceStats": {
     "low": 310,
     "high": 1440,
-    "avg": 957,
+    "avg": 975,
     "latest": 920
   },
   "records": [
@@ -40,6 +40,23 @@
       "priceWithFee": 1004.4,
       "transactedAt": "2026-08-05 19:53:35",
       "productCode": "879514006",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2005年,生肖,吉祥文化,年乙,乙酉,酉鸡,鸡年,年生,肖贺,贺岁,岁精,精制,制流,流通,通纪,纪念,念币,评级"
+    },
+    {
+      "coinName": "2005年乙酉鸡年生肖贺岁精制流通纪念币",
+      "normalizedBoxCode": "8815978004",
+      "displayBoxCode": "8815978-004",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10437077.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8815978-004/",
+      "price": 1100,
+      "priceWithFee": 1188,
+      "transactedAt": "2026-08-05 19:14:05",
+      "productCode": "879514010",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "币,2005年,生肖,吉祥文化,年乙,乙酉,酉鸡,鸡年,年生,肖贺,贺岁,岁精,精制,制流,流通,通纪,纪念,念币,评级"

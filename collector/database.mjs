@@ -87,6 +87,37 @@ database.exec(`
     images_scanned INTEGER NOT NULL DEFAULT 0,
     boxes_found INTEGER NOT NULL DEFAULT 0
   );
+
+  CREATE TABLE IF NOT EXISTS platform_listing_state (
+    platform TEXT NOT NULL,
+    platform_product_id TEXT NOT NULL,
+    title TEXT NOT NULL,
+    detail_url TEXT NOT NULL,
+    price REAL,
+    product_code TEXT,
+    listing_status TEXT NOT NULL CHECK (listing_status IN ('active','sold_or_ended','unknown')),
+    coverage_scope TEXT NOT NULL,
+    first_seen_at TEXT NOT NULL,
+    last_seen_at TEXT NOT NULL,
+    last_checked_at TEXT NOT NULL,
+    recognized_box_count INTEGER NOT NULL DEFAULT 0,
+    queryable_box_count INTEGER NOT NULL DEFAULT 0,
+    source_snapshot_at TEXT NOT NULL,
+    PRIMARY KEY (platform, platform_product_id)
+  );
+
+  CREATE INDEX IF NOT EXISTS platform_listing_state_status_idx
+    ON platform_listing_state(platform, listing_status, last_checked_at DESC);
+
+  CREATE TABLE IF NOT EXISTS listing_observations (
+    platform TEXT NOT NULL,
+    platform_product_id TEXT NOT NULL,
+    observed_at TEXT NOT NULL,
+    listing_status TEXT NOT NULL,
+    price REAL,
+    source_snapshot_at TEXT NOT NULL,
+    PRIMARY KEY (platform, platform_product_id, observed_at)
+  );
 `);
 
 const boxSaleColumns = new Set(database.prepare("PRAGMA table_info(box_sales)").all().map((column) => column.name));

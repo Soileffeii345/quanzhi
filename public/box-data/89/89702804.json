@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "89702804",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "89702804",
+      "displayBoxCode": "89702804",
+      "gradingCompany": "PCGS",
+      "grade": "待复核",
+      "coinName": "清 道光通宝宝泉",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/guqian/10400455.shtml",
+      "officialCertUrl": "https://cn.pcgs.com/cert/89702804",
+      "price": 120,
+      "priceWithFee": 132,
+      "transactedAt": "2026-08-03 21:34:05",
+      "productCode": "874963004",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/874963004A.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "清道,道光,光通,通宝,宝宝,宝泉"
+    }
+  ]
+}

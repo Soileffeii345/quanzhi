@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "1936716069",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "1936716069",
+      "displayBoxCode": "1936716-069",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2015年中钞国鼎投资有限公司喜羊羊与灰太狼2克银箔",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10441549.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1936716-069/",
+      "price": 170,
+      "priceWithFee": 175.95,
+      "transactedAt": "2026-08-03 19:44:20",
+      "productCode": "879993005",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/31/879993005B.jpg",
+      "ocrConfidence": 27,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,钞,2015年,2克,年中,中钞,钞国,国鼎,鼎投,投资,资有,有限,限公,公司,司喜,喜羊,羊羊,羊与,与灰,灰太,太狼,狼克,克银,银箔"
+    }
+  ]
+}

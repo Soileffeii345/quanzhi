@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8781311010",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8781311010",
+      "displayBoxCode": "8781311-010",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1995年中国古典文学名著《三国演义》第（1）组-关羽1盎司精制金币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10431599.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8781311-010/69/",
+      "price": 59000,
+      "priceWithFee": 61065,
+      "transactedAt": "2026-07-30 20:58:05",
+      "productCode": "878716003",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/878716003A.jpg",
+      "ocrConfidence": 39,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1995年,1盎司,年中,中国,国古,古典,典文,文学,学名,名著,著三,三国,国演,演义,义第,第组,组关,关羽,羽盎,盎司,司精,精制,制金,金币,评级"
+    }
+  ]
+}

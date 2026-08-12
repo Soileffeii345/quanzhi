@@ -1,0 +1,31 @@
+{
+  "coinName": "2009年31.104克精制银币",
+  "slug": "7be75ca1",
+  "saleCount": 1,
+  "keywords": "银,币,2009年,1盎司,年中,中国,国古,古典,典文,文学,学名,名著,著水,水浒,浒传,传第,第组,组盎,盎司,司精,精制,制彩,彩银,银币,币二,二枚,枚一,一套,评级",
+  "priceStats": {
+    "low": 1400,
+    "high": 1400,
+    "avg": 1400,
+    "latest": 1400
+  },
+  "records": [
+    {
+      "coinName": "2009年中国古典文学名著《水浒传》第（1）组1盎司精制彩银币二枚一套",
+      "normalizedBoxCode": "4793301009",
+      "displayBoxCode": "4793301-009",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10436397.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4793301-009/",
+      "price": 1400,
+      "priceWithFee": 1449,
+      "transactedAt": "2026-08-03 20:00:10",
+      "productCode": "879389006",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2009年,1盎司,年中,中国,国古,古典,典文,文学,学名,名著,著水,水浒,浒传,传第,第组,组盎,盎司,司精,精制,制彩,彩银,银币,币二,二枚,枚一,一套,评级"
+    }
+  ]
+}

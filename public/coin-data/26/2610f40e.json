@@ -1,0 +1,31 @@
+{
+  "coinName": "民国十六年交通银行山东地名伍圆",
+  "slug": "2610f40e",
+  "saleCount": 1,
+  "keywords": "银,历史币,民国,国十,十六,六年,年交,交通,通银,银行,行山,山东,东地,地名,名伍,伍圆",
+  "priceStats": {
+    "low": 2500,
+    "high": 2500,
+    "avg": 2500,
+    "latest": 2500
+  },
+  "records": [
+    {
+      "coinName": "民国十六年交通银行山东地名伍圆",
+      "normalizedBoxCode": "2438126077",
+      "displayBoxCode": "2438126-077",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10397093.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2438126-077/",
+      "price": 2500,
+      "priceWithFee": 2775,
+      "transactedAt": "2026-08-06 20:28:55",
+      "productCode": "874270012",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国十,十六,六年,年交,交通,通银,银行,行山,山东,东地,地名,名伍,伍圆"
+    }
+  ]
+}

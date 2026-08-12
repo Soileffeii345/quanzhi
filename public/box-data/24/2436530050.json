@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2436530050",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2436530050",
+      "displayBoxCode": "2436530-050",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1933年山西省银行太原地名伍圆",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/minguoshengshigejiyinhangzhichao/10418900.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2436530-050/",
+      "price": 14000,
+      "priceWithFee": 15540,
+      "transactedAt": "2026-08-06 21:14:20",
+      "productCode": "877198002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/877198002B.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,1933年,年山,山西,西省,省银,银行,行太,太原,原地,地名,名伍,伍圆"
+    }
+  ]
+}

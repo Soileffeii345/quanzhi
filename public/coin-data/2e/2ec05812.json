@@ -1,0 +1,31 @@
+{
+  "coinName": "1997年3.11克精制铜币",
+  "slug": "2ec05812",
+  "saleCount": 1,
+  "keywords": "金,铜,币,1997年,10盎司,年北,北京,京故,故宫,宫博,博物,物院,院铜,铜狮,狮盎,盎司,司精,精制,制金,金币,评级",
+  "priceStats": {
+    "low": 4500,
+    "high": 4500,
+    "avg": 4500,
+    "latest": 4500
+  },
+  "records": [
+    {
+      "coinName": "1997年北京故宫博物院-铜狮1/10盎司精制金币",
+      "normalizedBoxCode": "8202771028",
+      "displayBoxCode": "8202771-028",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10429911.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8202771-028/69/",
+      "price": 4500,
+      "priceWithFee": 4657.5,
+      "transactedAt": "2026-07-30 21:40:45",
+      "productCode": "878484003",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,铜,币,1997年,10盎司,年北,北京,京故,故宫,宫博,博物,物院,院铜,铜狮,狮盎,盎司,司精,精制,制金,金币,评级"
+    }
+  ]
+}

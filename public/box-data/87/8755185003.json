@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8755185003",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8755185003",
+      "displayBoxCode": "8755185-003",
+      "gradingCompany": "NGC",
+      "grade": "PF 67 ULTRA CAMEO",
+      "coinName": "2011年辛卯兔年生肖5盎司长方形精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10437344.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8755185-003/67/",
+      "price": 3450,
+      "priceWithFee": 3570.75,
+      "transactedAt": "2026-08-03 21:42:40",
+      "productCode": "879319002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/31/879319002A.jpg",
+      "ocrConfidence": 42,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2011年,5盎司,生肖,年辛,辛卯,卯兔,兔年,年生,肖盎,盎司,司长,长方,方形,形精,精制,制银,银币,评级"
+    }
+  ]
+}

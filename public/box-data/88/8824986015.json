@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8824986015",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8824986015",
+      "displayBoxCode": "8824986-015",
+      "gradingCompany": "NGC",
+      "grade": "MS 67",
+      "coinName": "2006年纽埃狗年生肖1/2公斤银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/wgjsbizhang/10432285.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8824986-015/67/",
+      "price": 6900,
+      "priceWithFee": 7314,
+      "transactedAt": "2026-07-31 19:49:15",
+      "productCode": "878625001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/31/878625001A.jpg",
+      "ocrConfidence": 40,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2006年,2公斤,生肖,年纽,纽埃,埃狗,狗年,年生,肖公,公斤,斤银,银币"
+    }
+  ]
+}

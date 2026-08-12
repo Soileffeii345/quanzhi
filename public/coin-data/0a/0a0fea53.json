@@ -1,15 +1,49 @@
 {
   "coinName": "1992年3盎司精制金币",
   "slug": "0a0fea53",
-  "saleCount": 1,
-  "keywords": "金,币,1992年,3盎司,年中,中国,国杰,杰出,出历,历史,史人,人物,物第,第组,组武,武则,则天,天盎,盎司,司精,精制,制金,金币,评级",
+  "saleCount": 3,
+  "keywords": "金,币,1992年,3盎司,年中,中国,国杰,杰出,出历,历史,史人,人物,物第,第组,组武,武则,则天,天盎,盎司,司精,精制,制金,金币,评级,年世,世界,界文,文化,化名,名人,人第,组大,大禹,禹盎",
   "priceStats": {
-    "low": 17400,
+    "low": 11000,
     "high": 17400,
-    "avg": 17400,
-    "latest": 17400
+    "avg": 15200,
+    "latest": 17200
   },
   "records": [
+    {
+      "coinName": "1992年中国杰出历史人物第（9）组-武则天1/3盎司精制金币",
+      "normalizedBoxCode": "8587808006",
+      "displayBoxCode": "8587808-006",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10433931.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8587808-006/69/",
+      "price": 17200,
+      "priceWithFee": 17802,
+      "transactedAt": "2026-07-30 21:47:25",
+      "productCode": "878995011",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1992年,3盎司,年中,中国,国杰,杰出,出历,历史,史人,人物,物第,第组,组武,武则,则天,天盎,盎司,司精,精制,制金,金币,评级"
+    },
+    {
+      "coinName": "1992年世界文化名人第（3）组-大禹1/3盎司精制金币",
+      "normalizedBoxCode": "8587808009",
+      "displayBoxCode": "8587808-009",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10433926.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8587808-009/69/",
+      "price": 11000,
+      "priceWithFee": 11385,
+      "transactedAt": "2026-07-30 20:54:05",
+      "productCode": "878995006",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1992年,3盎司,年世,世界,界文,文化,化名,名人,人第,第组,组大,大禹,禹盎,盎司,司精,精制,制金,金币,评级"
+    },
     {
       "coinName": "1992年中国杰出历史人物第（9）组-武则天1/3盎司精制金币",
       "normalizedBoxCode": "8753120003",

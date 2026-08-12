@@ -1,15 +1,32 @@
 {
   "coinName": "1983年10克精制金币",
   "slug": "15475e80",
-  "saleCount": 1,
+  "saleCount": 2,
   "keywords": "金,币,1983年,10克,年马,马可,可波,波罗,罗克,克精,精制,制金,金币,评级",
   "priceStats": {
-    "low": 26000,
+    "low": 25000,
     "high": 26000,
-    "avg": 26000,
-    "latest": 26000
+    "avg": 25500,
+    "latest": 25000
   },
   "records": [
+    {
+      "coinName": "1983年马可波罗10克精制金币",
+      "normalizedBoxCode": "8202771012",
+      "displayBoxCode": "8202771-012",
+      "gradingCompany": "NGC",
+      "grade": "PF69",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10429917.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8202771-012/69/",
+      "price": 25000,
+      "priceWithFee": 25875,
+      "transactedAt": "2026-07-30 21:08:45",
+      "productCode": "878492002",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1983年,10克,年马,马可,可波,波罗,罗克,克精,精制,制金,金币,评级"
+    },
     {
       "coinName": "1983年马可波罗10克精制金币",
       "normalizedBoxCode": "8587808002",

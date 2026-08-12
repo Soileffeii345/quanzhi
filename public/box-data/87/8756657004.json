@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8756657004",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8756657004",
+      "displayBoxCode": "8756657-004",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1992年龙马精神2盎司精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10427002.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8756657-004/69/",
+      "price": 6200,
+      "priceWithFee": 6417,
+      "transactedAt": "2026-07-30 19:34:45",
+      "productCode": "878107007",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/878107007A.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1992年,2盎司,年龙,龙马,马精,精神,神盎,盎司,司精,精制,制银,银币,评级"
+    }
+  ]
+}

@@ -1,15 +1,49 @@
 {
   "coinName": "2022年第24届冬季奥林匹克运动会-冰上运动塑料钞贰拾圆",
   "slug": "7db5a1d7",
-  "saleCount": 1,
-  "keywords": "钞,2022年,年第,第届,届冬,冬季,季奥,奥林,林匹,匹克,克运,运动,动会,会冰,冰上,上运,动塑,塑料,料钞,钞贰,贰拾,拾圆,圆二,二枚",
+  "saleCount": 3,
+  "keywords": "钞,2022年,年第,第届,届冬,冬季,季奥,奥林,林匹,匹克,克运,运动,动会,会冰,冰上,上运,动塑,塑料,料钞,钞贰,贰拾,拾圆,圆四,四枚,圆二,二枚",
   "priceStats": {
-    "low": 120,
-    "high": 120,
-    "avg": 120,
-    "latest": 120
+    "low": 110,
+    "high": 150,
+    "avg": 127,
+    "latest": 110
   },
   "records": [
+    {
+      "coinName": "2022年第24届冬季奥林匹克运动会-冰上运动塑料钞贰拾圆",
+      "normalizedBoxCode": "1179411111",
+      "displayBoxCode": "1179411-111",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/liantichao-jinianchao/10449140.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1179411-111/",
+      "price": 110,
+      "priceWithFee": 118.8,
+      "transactedAt": "2026-08-08 21:10:05",
+      "productCode": "880822001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,2022年,年第,第届,届冬,冬季,季奥,奥林,林匹,匹克,克运,运动,动会,会冰,冰上,上运,动塑,塑料,料钞,钞贰,贰拾,拾圆"
+    },
+    {
+      "coinName": "2022年第24届冬季奥林匹克运动会-冰上运动塑料钞贰拾圆四枚",
+      "normalizedBoxCode": "1168957753",
+      "displayBoxCode": "1168957-753",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/liantichao-jinianchao/10431691.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1168957-753/",
+      "price": 150,
+      "priceWithFee": 162,
+      "transactedAt": "2026-07-30 19:46:10",
+      "productCode": "878711002",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,2022年,年第,第届,届冬,冬季,季奥,奥林,林匹,匹克,克运,运动,动会,会冰,冰上,上运,动塑,塑料,料钞,钞贰,贰拾,拾圆,圆四,四枚"
+    },
     {
       "coinName": "2022年第24届冬季奥林匹克运动会-冰上运动塑料钞贰拾圆二枚",
       "normalizedBoxCode": "4020141960",

@@ -1,15 +1,32 @@
 {
   "coinName": "2026年吉祥文化精制金银币",
   "slug": "4b46156a",
-  "saleCount": 1,
-  "keywords": "金,银,币,2026年,5克,吉祥文化,年吉,吉祥,祥文,文化,化如,如意,意形,形精,精制,制金,金银,银币,币二,二枚,枚一,一套,套含,含克,克金,金克,克银,评级",
+  "saleCount": 2,
+  "keywords": "金,银,币,2026年,20克,吉祥文化,年吉,吉祥,祥文,文化,化方,方孔,孔圆,圆形,形精,精制,制金,金银,银币,币二,二枚,枚一,一套,套含,含克,克金,金克,克银,评级,5克,化如,如意,意形",
   "priceStats": {
     "low": 7500,
-    "high": 7500,
-    "avg": 7500,
-    "latest": 7500
+    "high": 29500,
+    "avg": 18500,
+    "latest": 29500
   },
   "records": [
+    {
+      "coinName": "2026年吉祥文化方孔圆形精制金银币二枚一套（含20克金、30克银）",
+      "normalizedBoxCode": "2026085300",
+      "displayBoxCode": "2026085-300",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10442694.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2026085-300/",
+      "price": 29500,
+      "priceWithFee": 30532.5,
+      "transactedAt": "2026-08-06 21:00:55",
+      "productCode": "880362001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,2026年,20克,吉祥文化,年吉,吉祥,祥文,文化,化方,方孔,孔圆,圆形,形精,精制,制金,金银,银币,币二,二枚,枚一,一套,套含,含克,克金,金克,克银,评级"
+    },
     {
       "coinName": "2026年吉祥文化如意形精制金银币二枚一套（含5克金、30克银）",
       "normalizedBoxCode": "8653572001",

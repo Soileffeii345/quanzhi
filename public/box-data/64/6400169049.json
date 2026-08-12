@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6400169049",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6400169049",
+      "displayBoxCode": "6400169-049",
+      "gradingCompany": "NGC",
+      "grade": "PF 68 ULTRA CAMEO",
+      "coinName": "2012年英国1公斤伦敦奥林匹克银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/566206.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6400169-049/68/",
+      "price": 18600,
+      "priceWithFee": null,
+      "transactedAt": "2026-03-24 14:32:39",
+      "productCode": "KH126549",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260324/large_sell_oduc99jnntg4c4jw.jpg",
+      "ocrConfidence": 30,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2012年,1公斤,年英,英国,国公,公斤,斤伦,伦敦,敦奥,奥林,林匹,匹克,克银,银币,外国/特区"
+    }
+  ]
+}

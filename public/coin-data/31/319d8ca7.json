@@ -1,0 +1,31 @@
+{
+  "coinName": "1995年15克银币",
+  "slug": "319d8ca7",
+  "saleCount": 1,
+  "keywords": "银,币,1995年,15克,年中,中国,国传,传统,统文,文化,化第,第组,组长,长城,城修,修建,建克,克银,银币",
+  "priceStats": {
+    "low": 1240,
+    "high": 1240,
+    "avg": 1240,
+    "latest": 1240
+  },
+  "records": [
+    {
+      "coinName": "1995年中国传统文化第（1）组-长城修建15克银币",
+      "normalizedBoxCode": "8590002153",
+      "displayBoxCode": "8590002-153",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10433909.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8590002-153/69/",
+      "price": 1240,
+      "priceWithFee": 1283.4,
+      "transactedAt": "2026-08-03 20:27:15",
+      "productCode": "878997033",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1995年,15克,年中,中国,国传,传统,统文,文化,化第,第组,组长,长城,城修,修建,建克,克银,银币"
+    }
+  ]
+}

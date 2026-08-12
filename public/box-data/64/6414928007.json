@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6414928007",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6414928007",
+      "displayBoxCode": "6414928-007",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2001年辛亥革命90周年精制流通纪念币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10431614.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6414928-007/",
+      "price": 330,
+      "priceWithFee": 356.4,
+      "transactedAt": "2026-07-29 20:01:25",
+      "productCode": "878686007",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/878686007A.jpg",
+      "ocrConfidence": 39,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2001年,年辛,辛亥,亥革,革命,命周,周年,年精,精制,制流,流通,通纪,纪念,念币,评级"
+    }
+  ]
+}

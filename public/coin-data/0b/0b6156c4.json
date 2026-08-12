@@ -1,0 +1,31 @@
+{
+  "coinName": "1995年熊猫3.11克精制铂金币",
+  "slug": "0b6156c4",
+  "saleCount": 1,
+  "keywords": "金,贵金属,币,1995年,10盎司,熊猫,年熊,猫盎,盎司,司精,精制,制铂,铂金,金币,评级",
+  "priceStats": {
+    "low": 2800,
+    "high": 2800,
+    "avg": 2800,
+    "latest": 2800
+  },
+  "records": [
+    {
+      "coinName": "1995年熊猫1/10盎司精制铂金币",
+      "normalizedBoxCode": "6715408001",
+      "displayBoxCode": "6715408-001",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-nianjiyiqian/10429452.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6715408-001/",
+      "price": 2800,
+      "priceWithFee": 2898,
+      "transactedAt": "2026-07-30 21:06:45",
+      "productCode": "878311002",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,贵金属,币,1995年,10盎司,熊猫,年熊,猫盎,盎司,司精,精制,制铂,铂金,金币,评级"
+    }
+  ]
+}

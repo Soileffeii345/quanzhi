@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8656730051",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8656730051",
+      "displayBoxCode": "8656730-051",
+      "gradingCompany": "NGC",
+      "grade": "PF 66 CAMEO",
+      "coinName": "1995年中国精制硬币伍分、贰分、壹分各一枚，共三枚",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10428710.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8656730-051/66/",
+      "price": 260,
+      "priceWithFee": 280.8,
+      "transactedAt": "2026-07-29 20:56:05",
+      "productCode": "878038002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/878038002A.jpg",
+      "ocrConfidence": 42,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1995年,年中,中国,国精,精制,制硬,硬币,币伍,伍分,分贰,贰分,分壹,壹分,分各,各一,一枚,枚共,共三,三枚,评级"
+    }
+  ]
+}

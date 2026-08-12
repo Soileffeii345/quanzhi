@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "5112335225",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "5112335225",
+      "displayBoxCode": "5112335-225",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2005年库克群岛米菲兔50周年155.67克银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/wgjsbizhang/10149745.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/5112335-225/",
+      "price": 3850,
+      "priceWithFee": 4081,
+      "transactedAt": "2026-08-07 20:16:45",
+      "productCode": "845737018",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/11/845737018D.jpg",
+      "ocrConfidence": 28,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2005年,155.67克,年库,库克,克群,群岛,岛米,米菲,菲兔,兔周,周年,年克,克银,银币"
+    }
+  ]
+}

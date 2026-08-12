@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8768363048",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8768363048",
+      "displayBoxCode": "8768363-048",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 CAMEO",
+      "coinName": "1984年中华人民共和国成立35周年-民族团结精制流通纪念币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10437075.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8768363-048/69/",
+      "price": 590,
+      "priceWithFee": 637.2,
+      "transactedAt": "2026-08-05 19:31:35",
+      "productCode": "879514008",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/31/879514008A.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1984年,年中,中华,华人,人民,民共,共和,和国,国成,成立,立周,周年,年民,民族,族团,团结,结精,精制,制流,流通,通纪,纪念,念币,评级"
+    }
+  ]
+}

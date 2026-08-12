@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2559422045",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2559422045",
+      "displayBoxCode": "2559422-045",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2016年香港渣打银行港币贰拾圆",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/liantichao-jinianchao/10449241.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2559422-045/",
+      "price": 100,
+      "priceWithFee": 108,
+      "transactedAt": "2026-08-08 19:46:05",
+      "productCode": "880972015",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/32/880972015B.jpg",
+      "ocrConfidence": 32,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2016年,年香,香港,港渣,渣打,打银,银行,行港,港币,币贰,贰拾,拾圆,外国/特区"
+    }
+  ]
+}

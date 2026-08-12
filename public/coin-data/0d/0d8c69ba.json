@@ -1,15 +1,32 @@
 {
   "coinName": "2025年吉祥文化30克精制银币",
   "slug": "0d8c69ba",
-  "saleCount": 20,
-  "keywords": "银,币,2025年,30克,吉祥文化,年吉,吉祥,祥文,文化,化永,永结,结同,同心,心克,克心,心形,形精,精制,制银,银币,评级,化瑞,瑞气,气盈,盈门,门克,克方,方孔,孔圆,圆形,克精",
+  "saleCount": 21,
+  "keywords": "银,币,2025年,30克,吉祥文化,年吉,吉祥,祥文,文化,化永,永结,结同,同心,心克,克精,精制,制银,银币,评级,克心,心形,形精,化瑞,瑞气,气盈,盈门,门克,克方,方孔,孔圆,圆形",
   "priceStats": {
     "low": 1540,
     "high": 3000,
-    "avg": 1771,
-    "latest": 1600
+    "avg": 1803,
+    "latest": 2450
   },
   "records": [
+    {
+      "coinName": "2025年吉祥文化-永结同心30克精制银币",
+      "normalizedBoxCode": "2025080500",
+      "displayBoxCode": "2025080-500",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10451418.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2025080-500/",
+      "price": 2450,
+      "priceWithFee": 2535.75,
+      "transactedAt": "2026-08-08 20:16:10",
+      "productCode": "881143012",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2025年,30克,吉祥文化,年吉,吉祥,祥文,文化,化永,永结,结同,同心,心克,克精,精制,制银,银币,评级"
+    },
     {
       "coinName": "2025年吉祥文化-永结同心30克心形精制银币",
       "normalizedBoxCode": "8610086010",

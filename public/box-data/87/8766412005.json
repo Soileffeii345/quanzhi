@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8766412005",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8766412005",
+      "displayBoxCode": "8766412-005",
+      "gradingCompany": "NGC",
+      "grade": "PF 68 ULTRA CAMEO",
+      "coinName": "1998年戊寅虎年生肖1盎司精制彩银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10435483.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8766412-005/68/",
+      "price": 1220,
+      "priceWithFee": 1262.7,
+      "transactedAt": "2026-08-03 20:31:25",
+      "productCode": "879095005",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/31/879095005A.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1998年,1盎司,生肖,年戊,戊寅,寅虎,虎年,年生,肖盎,盎司,司精,精制,制彩,彩银,银币,评级"
+    }
+  ]
+}

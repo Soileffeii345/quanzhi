@@ -1,0 +1,31 @@
+{
+  "coinName": "1992年熊猫3.11克普制金币",
+  "slug": "484595d9",
+  "saleCount": 1,
+  "keywords": "金,币,1992年,10盎司,熊猫,年熊,猫盎,盎司,司普,普制,制金,金币,币小,小字,字版",
+  "priceStats": {
+    "low": 3200,
+    "high": 3200,
+    "avg": 3200,
+    "latest": 3200
+  },
+  "records": [
+    {
+      "coinName": "1992年熊猫1/10盎司普制金币（小字版）",
+      "normalizedBoxCode": "8766412009",
+      "displayBoxCode": "8766412-009",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-jiujin/10435480.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8766412-009/69/",
+      "price": 3200,
+      "priceWithFee": 3312,
+      "transactedAt": "2026-08-03 22:18:55",
+      "productCode": "879095002",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1992年,10盎司,熊猫,年熊,猫盎,盎司,司普,普制,制金,金币,币小,小字,字版"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2338553085",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2338553085",
+      "displayBoxCode": "2338553-085",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2008年津巴布韦纸钞连号二枚",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10443548.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2338553-085/",
+      "price": 890,
+      "priceWithFee": 987.9,
+      "transactedAt": "2026-08-04 22:22:05",
+      "productCode": "880041001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/31/880041001B.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,2008年,年津,津巴,巴布,布韦,韦纸,纸钞,钞连,连号,号二,二枚"
+    }
+  ]
+}

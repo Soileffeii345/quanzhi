@@ -1,15 +1,49 @@
 {
   "coinName": "2025年生肖30克精制银币",
   "slug": "7efccb70",
-  "saleCount": 3,
+  "saleCount": 5,
   "keywords": "银,币,2025年,30克,生肖,年乙,乙巳,巳蛇,蛇年,年生,肖克,克梅,梅花,花形,形精,精制,制银,银币,评级",
   "priceStats": {
     "low": 870,
     "high": 920,
-    "avg": 887,
+    "avg": 886,
     "latest": 870
   },
   "records": [
+    {
+      "coinName": "2025年乙巳蛇年生肖30克梅花形精制银币",
+      "normalizedBoxCode": "5650202062",
+      "displayBoxCode": "5650202-062",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10451408.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/5650202-062/70/",
+      "price": 870,
+      "priceWithFee": 900.45,
+      "transactedAt": "2026-08-08 20:15:30",
+      "productCode": "881143002",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2025年,30克,生肖,年乙,乙巳,巳蛇,蛇年,年生,肖克,克梅,梅花,花形,形精,精制,制银,银币,评级"
+    },
+    {
+      "coinName": "2025年乙巳蛇年生肖30克梅花形精制银币",
+      "normalizedBoxCode": "8650202000",
+      "displayBoxCode": "8650202-000",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10451407.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8650202-000/",
+      "price": 900,
+      "priceWithFee": 931.5,
+      "transactedAt": "2026-08-08 19:40:10",
+      "productCode": "881143001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2025年,30克,生肖,年乙,乙巳,巳蛇,蛇年,年生,肖克,克梅,梅花,花形,形精,精制,制银,银币,评级"
+    },
     {
       "coinName": "2025年乙巳蛇年生肖30克梅花形精制银币",
       "normalizedBoxCode": "8650202003",

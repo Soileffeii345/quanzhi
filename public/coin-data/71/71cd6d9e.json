@@ -1,12 +1,12 @@
 {
   "coinName": "光绪年造丙午户部大清铜币中心湘十文铜币",
   "slug": "71cd6d9e",
-  "saleCount": 3,
+  "saleCount": 5,
   "keywords": "铜,币,历史币,光绪,绪年,年造,造丙,丙午,午户,户部,部大,大清,清铜,铜币,币中,中心,心湘,湘十,十文,文铜",
   "priceStats": {
     "low": 95,
     "high": 310,
-    "avg": 238,
+    "avg": 267,
     "latest": 310
   },
   "records": [
@@ -57,6 +57,40 @@
       "priceWithFee": 102.6,
       "transactedAt": "2026-08-10 19:33:35",
       "productCode": "876805008",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "铜,币,历史币,光绪,绪年,年造,造丙,丙午,午户,户部,部大,大清,清铜,铜币,币中,中心,心湘,湘十,十文,文铜"
+    },
+    {
+      "coinName": "光绪年造丙午户部大清铜币中心湘十文铜币",
+      "normalizedBoxCode": "8610167043",
+      "displayBoxCode": "8610167-043",
+      "gradingCompany": "NGC",
+      "grade": "AU 58",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguojindaijizhibi/10403165.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8610167-043/58/",
+      "price": 310,
+      "priceWithFee": 334.8,
+      "transactedAt": "2026-08-03 20:05:05",
+      "productCode": "875425003",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "铜,币,历史币,光绪,绪年,年造,造丙,丙午,午户,户部,部大,大清,清铜,铜币,币中,中心,心湘,湘十,十文,文铜"
+    },
+    {
+      "coinName": "光绪年造丙午户部大清铜币中心湘十文铜币",
+      "normalizedBoxCode": "8647026045",
+      "displayBoxCode": "8647026-045",
+      "gradingCompany": "NGC",
+      "grade": "AU 55",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguojindaijizhibi/10403164.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8647026-045/55/",
+      "price": 310,
+      "priceWithFee": 334.8,
+      "transactedAt": "2026-08-03 19:11:35",
+      "productCode": "875425002",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "铜,币,历史币,光绪,绪年,年造,造丙,丙午,午户,户部,部大,大清,清铜,铜币,币中,中心,心湘,湘十,十文,文铜"

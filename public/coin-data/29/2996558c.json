@@ -1,15 +1,32 @@
 {
   "coinName": "1997年15.552克精制金币",
   "slug": "2996558c",
-  "saleCount": 8,
-  "keywords": "金,币,1997年,2盎司,年中,中国,国古,古典,典文,文学,学名,名著,著三,三国,国演,演义,义第,第组,组赤,赤壁,壁之,之战,战盎,盎司,司精,精制,制金,金币,评级,国近,近代,代名,名画,画飞,飞禽,禽企,企鹅,鹅盎,司十,十二,二边,边形,形精,代国,国画,画大,大师,师齐,齐白,白石,石松,松鼠,鼠葡,葡萄,萄盎,司长,长方,方形",
+  "saleCount": 9,
+  "keywords": "金,币,1997年,2盎司,年中,中国,国近,近代,代名,名画,画飞,飞禽,禽企,企鹅,鹅盎,盎司,司十,十二,二边,边形,形精,精制,制金,金币,评级,国古,古典,典文,文学,学名,名著,著三,三国,国演,演义,义第,第组,组赤,赤壁,壁之,之战,战盎,司精,代国,国画,画大,大师,师齐,齐白,白石,石松,松鼠,鼠葡,葡萄,萄盎,司长,长方,方形",
   "priceStats": {
     "low": 13200,
     "high": 40500,
-    "avg": 22588,
-    "latest": 19800
+    "avg": 21567,
+    "latest": 13400
   },
   "records": [
+    {
+      "coinName": "1997年中国近代名画飞禽-企鹅1/2盎司十二边形精制金币",
+      "normalizedBoxCode": "8611263046",
+      "displayBoxCode": "8611263-046",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10427007.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8611263-046/69/",
+      "price": 13400,
+      "priceWithFee": 13869,
+      "transactedAt": "2026-07-30 21:50:45",
+      "productCode": "878107012",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1997年,2盎司,年中,中国,国近,近代,代名,名画,画飞,飞禽,禽企,企鹅,鹅盎,盎司,司十,十二,二边,边形,形精,精制,制金,金币,评级"
+    },
     {
       "coinName": "1997年中国古典文学名著《三国演义》第（3）组-赤壁之战1/2盎司精制金币",
       "normalizedBoxCode": "4538468003",

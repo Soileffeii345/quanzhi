@@ -1,0 +1,31 @@
+{
+  "coinName": "民国三十二年中央银行壹百圆",
+  "slug": "375aa729",
+  "saleCount": 1,
+  "keywords": "银,历史币,民国,国三,三十,十二,二年,年中,中央,央银,银行,行壹,壹百,百圆",
+  "priceStats": {
+    "low": 4350,
+    "high": 4350,
+    "avg": 4350,
+    "latest": 4350
+  },
+  "records": [
+    {
+      "coinName": "民国三十二年中央银行壹百圆",
+      "normalizedBoxCode": "2162037080",
+      "displayBoxCode": "2162037-080",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10394875.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2162037-080/",
+      "price": 4350,
+      "priceWithFee": 4828.5,
+      "transactedAt": "2026-07-30 19:48:10",
+      "productCode": "873834008",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国三,三十,十二,二年,年中,中央,央银,银行,行壹,壹百,百圆"
+    }
+  ]
+}

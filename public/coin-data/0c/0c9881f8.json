@@ -1,0 +1,31 @@
+{
+  "coinName": "民国军用钞票壹元",
+  "slug": "0c9881f8",
+  "saleCount": 1,
+  "keywords": "钞,历史币,民国,国军,军用,用钞,钞票,票壹,壹元",
+  "priceStats": {
+    "low": 9000,
+    "high": 9000,
+    "avg": 9000,
+    "latest": 9000
+  },
+  "records": [
+    {
+      "coinName": "民国军用钞票壹元",
+      "normalizedBoxCode": "2435552044",
+      "displayBoxCode": "2435552-044",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/junyongpiao/10406554.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2435552-044/",
+      "price": 9000,
+      "priceWithFee": 9990,
+      "transactedAt": "2026-08-06 21:07:40",
+      "productCode": "875402002",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,历史币,民国,国军,军用,用钞,钞票,票壹,壹元"
+    }
+  ]
+}

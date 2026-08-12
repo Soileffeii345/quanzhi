@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6763555012",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6763555012",
+      "displayBoxCode": "6763555-012",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1996年麒麟5盎司精制银币（无须版）",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10429924.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6763555-012/69/",
+      "price": 21500,
+      "priceWithFee": 22252.5,
+      "transactedAt": "2026-07-30 20:07:25",
+      "productCode": "878495002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/878495002A.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1996年,5盎司,年麒,麒麟,麟盎,盎司,司精,精制,制银,银币,币无,无须,须版,评级"
+    }
+  ]
+}

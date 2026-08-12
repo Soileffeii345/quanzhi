@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8202786007",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8202786007",
+      "displayBoxCode": "8202786-007",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2003年癸未羊年生肖5盎司长方形精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10429908.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8202786-007/69/",
+      "price": 6500,
+      "priceWithFee": 6727.5,
+      "transactedAt": "2026-07-30 20:06:45",
+      "productCode": "878483004",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/878483004A.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2003年,5盎司,生肖,年癸,癸未,未羊,羊年,年生,肖盎,盎司,司长,长方,方形,形精,精制,制银,银币,评级"
+    }
+  ]
+}

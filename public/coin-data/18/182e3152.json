@@ -1,0 +1,31 @@
+{
+  "coinName": "2017加拿大史前动物恐龙似鸟31.104克银币",
+  "slug": "182e3152",
+  "saleCount": 1,
+  "keywords": "银,币,1盎司,加拿,拿大,大史,史前,前动,动物,物恐,恐龙,龙似,似鸟,鸟盎,盎司,司银,银币,外国/特区",
+  "priceStats": {
+    "low": 900,
+    "high": 900,
+    "avg": 900,
+    "latest": 900
+  },
+  "records": [
+    {
+      "coinName": "2017加拿大史前动物恐龙似鸟1盎司银币",
+      "normalizedBoxCode": "4542499008",
+      "displayBoxCode": "4542499-008",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/552700.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4542499-008/",
+      "price": 900,
+      "priceWithFee": null,
+      "transactedAt": "2026-03-18 14:52:04",
+      "productCode": "KH119667",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1盎司,加拿,拿大,大史,史前,前动,动物,物恐,恐龙,龙似,似鸟,鸟盎,盎司,司银,银币,外国/特区"
+    }
+  ]
+}

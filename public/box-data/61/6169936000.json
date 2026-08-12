@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6169936000",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6169936000",
+      "displayBoxCode": "6169936-000",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2002年世界文化遗产-秦始皇陵及兵马俑坑精制流通纪念币二枚",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10415294.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6169936-000/69/",
+      "price": 580,
+      "priceWithFee": 626.4,
+      "transactedAt": "2026-07-29 19:03:25",
+      "productCode": "876792002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/876792002A.jpg",
+      "ocrConfidence": 41,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2002年,年世,世界,界文,文化,化遗,遗产,产秦,秦始,始皇,皇陵,陵及,及兵,兵马,马俑,俑坑,坑精,精制,制流,流通,通纪,纪念,念币,币二,二枚,评级"
+    }
+  ]
+}

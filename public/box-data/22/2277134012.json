@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2277134012",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2277134012",
+      "displayBoxCode": "2277134-012",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "民国十七年湖北省银行贰角",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/minguoshengshigejiyinhangzhichao/10356883.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2277134-012/",
+      "price": 4050,
+      "priceWithFee": 4495.5,
+      "transactedAt": "2026-07-28 21:24:20",
+      "productCode": "869591014",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/25/869591014B.jpg",
+      "ocrConfidence": 30,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国十,十七,七年,年湖,湖北,北省,省银,银行,行贰,贰角"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "coinName": "民国三年交通银行厦门福州地名伍圆",
+  "slug": "105b995b",
+  "saleCount": 1,
+  "keywords": "银,历史币,民国,国三,三年,年交,交通,通银,银行,行厦,厦门,门福,福州,州地,地名,名伍,伍圆",
+  "priceStats": {
+    "low": 1020,
+    "high": 1020,
+    "avg": 1020,
+    "latest": 1020
+  },
+  "records": [
+    {
+      "coinName": "民国三年交通银行厦门福州地名伍圆",
+      "normalizedBoxCode": "2438126029",
+      "displayBoxCode": "2438126-029",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10397097.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2438126-029/",
+      "price": 1020,
+      "priceWithFee": 1132.2,
+      "transactedAt": "2026-08-06 19:46:50",
+      "productCode": "874270016",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国三,三年,年交,交通,通银,银行,行厦,厦门,门福,福州,州地,地名,名伍,伍圆"
+    }
+  ]
+}

@@ -1,12 +1,12 @@
 {
   "coinName": "1990年15克精制铜币",
   "slug": "6307f0d2",
-  "saleCount": 1,
+  "saleCount": 3,
   "keywords": "银,铜,币,1990年,15克,年出,出土,土文,文物,物青,青铜,铜器,器第,第组,组克,克精,精制,制银,银币,币四,四枚,枚一,一套,评级",
   "priceStats": {
     "low": 3800,
-    "high": 3800,
-    "avg": 3800,
+    "high": 5100,
+    "avg": 4233,
     "latest": 3800
   },
   "records": [
@@ -23,6 +23,40 @@
       "priceWithFee": 3933,
       "transactedAt": "2026-08-06 19:38:25",
       "productCode": "880261001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,铜,币,1990年,15克,年出,出土,土文,文物,物青,青铜,铜器,器第,第组,组克,克精,精制,制银,银币,币四,四枚,枚一,一套,评级"
+    },
+    {
+      "coinName": "1990年出土文物青铜器第（1）组15克精制银币四枚一套",
+      "normalizedBoxCode": "9560000008",
+      "displayBoxCode": "9560000-008",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10443193.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/9560000-008/",
+      "price": 3800,
+      "priceWithFee": 3933,
+      "transactedAt": "2026-08-06 19:38:25",
+      "productCode": "880261001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,铜,币,1990年,15克,年出,出土,土文,文物,物青,青铜,铜器,器第,第组,组克,克精,精制,制银,银币,币四,四枚,枚一,一套,评级"
+    },
+    {
+      "coinName": "1990年出土文物青铜器第（1）组15克精制银币四枚一套",
+      "normalizedBoxCode": "6635629009",
+      "displayBoxCode": "6635629-009",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10433946.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6635629-009/69/",
+      "price": 5100,
+      "priceWithFee": 5278.5,
+      "transactedAt": "2026-07-30 20:18:45",
+      "productCode": "878995026",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "银,铜,币,1990年,15克,年出,出土,土文,文物,物青,青铜,铜器,器第,第组,组克,克精,精制,制银,银币,币四,四枚,枚一,一套,评级"

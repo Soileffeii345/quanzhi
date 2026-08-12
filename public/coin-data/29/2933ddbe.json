@@ -1,0 +1,31 @@
+{
+  "coinName": "2001年生肖31.104克普制银币",
+  "slug": "2933ddbe",
+  "saleCount": 1,
+  "keywords": "银,币,2001年,1盎司,生肖,年辛,辛巳,巳蛇,蛇年,年生,肖盎,盎司,司普,普制,制银,银币",
+  "priceStats": {
+    "low": 660,
+    "high": 660,
+    "avg": 660,
+    "latest": 660
+  },
+  "records": [
+    {
+      "coinName": "2001年辛巳蛇年生肖1盎司普制银币",
+      "normalizedBoxCode": "4573940015",
+      "displayBoxCode": "4573940-015",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10435842.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4573940-015/69/",
+      "price": 660,
+      "priceWithFee": 683.1,
+      "transactedAt": "2026-08-03 20:36:00",
+      "productCode": "878622032",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2001年,1盎司,生肖,年辛,辛巳,巳蛇,蛇年,年生,肖盎,盎司,司普,普制,制银,银币"
+    }
+  ]
+}

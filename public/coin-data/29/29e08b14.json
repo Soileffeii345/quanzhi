@@ -1,15 +1,49 @@
 {
   "coinName": "民国九年袁像壹圆银元",
   "slug": "29e08b14",
-  "saleCount": 4,
-  "keywords": "银,历史币,袁大头,大头,袁头,民国,国九,九年,年袁,袁像,像壹,壹圆,圆银,银元,元精,精发,发版,元海,海南,南版",
+  "saleCount": 6,
+  "keywords": "银,历史币,袁大头,大头,袁头,民国,国九,九年,年袁,袁像,像壹,壹圆,圆银,银元,元海,海南,南版,元精,精发,发版",
   "priceStats": {
     "low": 2200,
-    "high": 3250,
-    "avg": 2500,
-    "latest": 2350
+    "high": 3800,
+    "avg": 2675,
+    "latest": 3800
   },
   "records": [
+    {
+      "coinName": "民国九年袁像壹圆银元（海南版）",
+      "normalizedBoxCode": "90380446",
+      "displayBoxCode": "90380446",
+      "gradingCompany": "PCGS",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguojindaijizhibi/10400406.shtml",
+      "officialCertUrl": "https://cn.pcgs.com/cert/90380446",
+      "price": 3800,
+      "priceWithFee": 4104,
+      "transactedAt": "2026-08-03 19:53:35",
+      "productCode": "874962005",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,袁大头,大头,袁头,民国,国九,九年,年袁,袁像,像壹,壹圆,圆银,银元,元海,海南,南版"
+    },
+    {
+      "coinName": "民国九年袁像壹圆银元（精发版）",
+      "normalizedBoxCode": "89879339",
+      "displayBoxCode": "89879339",
+      "gradingCompany": "PCGS",
+      "grade": "XF45",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguojindaijizhibi/10400415.shtml",
+      "officialCertUrl": "https://cn.pcgs.com/cert/89879339",
+      "price": 2250,
+      "priceWithFee": 2430,
+      "transactedAt": "2026-08-03 19:03:05",
+      "productCode": "874962014",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,袁大头,大头,袁头,民国,国九,九年,年袁,袁像,像壹,壹圆,圆银,银元,元精,精发,发版"
+    },
     {
       "coinName": "民国九年袁像壹圆银元（精发版）",
       "normalizedBoxCode": "87751428",

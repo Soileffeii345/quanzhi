@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8201250003",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8201250003",
+      "displayBoxCode": "8201250-003",
+      "gradingCompany": "NGC",
+      "grade": "PF 70",
+      "coinName": "2016年中国四大佛教名山之九华山80克银章",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10440931.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8201250-003/70/",
+      "price": 3250,
+      "priceWithFee": 3363.75,
+      "transactedAt": "2026-08-03 20:04:45",
+      "productCode": "880019007",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/31/880019007A.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,章,2016年,80克,宗教,年中,中国,国四,四大,大佛,佛教,教名,名山,山之,之九,九华,华山,山克,克银,银章"
+    }
+  ]
+}

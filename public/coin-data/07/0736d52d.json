@@ -1,0 +1,31 @@
+{
+  "coinName": "1987年中华人民共和国国库券伍圆",
+  "slug": "0736d52d",
+  "saleCount": 1,
+  "keywords": "1987年,年中,中华,华人,人民,民共,共和,和国,国国,国库,库券,券伍,伍圆",
+  "priceStats": {
+    "low": 370,
+    "high": 370,
+    "avg": 370,
+    "latest": 370
+  },
+  "records": [
+    {
+      "coinName": "1987年中华人民共和国国库券伍圆",
+      "normalizedBoxCode": "2482238003",
+      "displayBoxCode": "2482238-003",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waihuiduihuanquan/10438344.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2482238-003/",
+      "price": 370,
+      "priceWithFee": 399.6,
+      "transactedAt": "2026-08-01 21:02:45",
+      "productCode": "879103003",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "1987年,年中,中华,华人,人民,民共,共和,和国,国国,国库,库券,券伍,伍圆"
+    }
+  ]
+}

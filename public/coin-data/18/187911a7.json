@@ -1,15 +1,32 @@
 {
   "coinName": "1992年27克银币",
   "slug": "187911a7",
-  "saleCount": 3,
-  "keywords": "银,币,1992年,27克,年克,克世,世界,界文,文化,化名,名人,人第,第组,组达,达芬,芬奇,奇银,银币,组柴,柴科,科夫,夫斯,斯基,基银",
+  "saleCount": 4,
+  "keywords": "银,章,1992年,27克,年澳,澳门,门中,中银,银大,大厦,厦落,落成,成克,克银,银章,外国/特区,币,年克,克世,世界,界文,文化,化名,名人,人第,第组,组达,达芬,芬奇,奇银,银币,组柴,柴科,科夫,夫斯,斯基,基银",
   "priceStats": {
-    "low": 480,
+    "low": 460,
     "high": 1150,
-    "avg": 817,
-    "latest": 1150
+    "avg": 728,
+    "latest": 460
   },
   "records": [
+    {
+      "coinName": "1992年澳门中银大厦落成27克银章",
+      "normalizedBoxCode": "6160120001",
+      "displayBoxCode": "6160120-001",
+      "gradingCompany": "NGC",
+      "grade": "PF67 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10439897.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6160120-001/67/",
+      "price": 460,
+      "priceWithFee": 476.1,
+      "transactedAt": "2026-08-03 21:57:40",
+      "productCode": "879528023",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,章,1992年,27克,年澳,澳门,门中,中银,银大,大厦,厦落,落成,成克,克银,银章,外国/特区"
+    },
     {
       "coinName": "1992年27克世界文化名人第3组达芬奇银币",
       "normalizedBoxCode": "8192986020",

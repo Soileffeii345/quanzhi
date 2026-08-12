@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2783440003",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2783440003",
+      "displayBoxCode": "2783440-003",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1990年台湾风光第（1）组1/2盎司精制金币四枚一套",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10431597.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2783440-003/69/",
+      "price": 78000,
+      "priceWithFee": 80730,
+      "transactedAt": "2026-07-30 21:26:05",
+      "productCode": "878716001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/878716001A.jpg",
+      "ocrConfidence": 37,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1990年,2盎司,年台,台湾,湾风,风光,光第,第组,组盎,盎司,司精,精制,制金,金币,币四,四枚,枚一,一套,评级"
+    }
+  ]
+}

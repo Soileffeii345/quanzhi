@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8613810023",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8613810023",
+      "displayBoxCode": "8613810-023",
+      "gradingCompany": "NGC",
+      "grade": "MS 67",
+      "coinName": "1956年中国硬币贰分",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10431623.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8613810-023/67/",
+      "price": 110,
+      "priceWithFee": 118.8,
+      "transactedAt": "2026-07-29 21:00:05",
+      "productCode": "878756003",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/878756003A.jpg",
+      "ocrConfidence": 44,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1956年,年中,中国,国硬,硬币,币贰,贰分"
+    }
+  ]
+}

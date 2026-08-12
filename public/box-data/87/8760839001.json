@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8760839001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8760839001",
+      "displayBoxCode": "8760839-001",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1997年丁丑牛年生肖1盎司精制金币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-jin/10437415.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8760839-001/",
+      "price": 57000,
+      "priceWithFee": 58995,
+      "transactedAt": "2026-08-06 20:10:05",
+      "productCode": "879484001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/31/879484001A.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1997年,1盎司,生肖,年丁,丁丑,丑牛,牛年,年生,肖盎,盎司,司精,精制,制金,金币,评级"
+    }
+  ]
+}

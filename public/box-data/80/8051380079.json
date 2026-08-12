@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8051380079",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8051380079",
+      "displayBoxCode": "8051380-079",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1974年有利银行壹佰圆",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xianggangzhichao/10417622.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8051380-079/",
+      "price": 2500,
+      "priceWithFee": 2775,
+      "transactedAt": "2026-07-28 21:56:35",
+      "productCode": "877006009",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/877006009B.jpg",
+      "ocrConfidence": 30,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,1974年,年有,有利,利银,银行,行壹,壹佰,佰圆"
+    }
+  ]
+}

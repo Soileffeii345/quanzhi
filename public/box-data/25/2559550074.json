@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2559550074",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2559550074",
+      "displayBoxCode": "2559550-074",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2010年中国银行（香港）有限公司港币壹佰圆",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/liantichao-jinianchao/10449231.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2559550-074/",
+      "price": 150,
+      "priceWithFee": 162,
+      "transactedAt": "2026-08-08 19:23:35",
+      "productCode": "880972005",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/32/880972005B.jpg",
+      "ocrConfidence": 29,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2010年,年中,中国,国银,银行,行香,香港,港有,有限,限公,公司,司港,港币,币壹,壹佰,佰圆,外国/特区"
+    }
+  ]
+}

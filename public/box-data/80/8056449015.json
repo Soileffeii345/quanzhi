@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8056449015",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8056449015",
+      "displayBoxCode": "8056449-015",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "中国联合准备银行伍圆",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/difangsipiao/10412750.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8056449-015/",
+      "price": 540,
+      "priceWithFee": 599.4,
+      "transactedAt": "2026-08-06 19:38:05",
+      "productCode": "876608002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/876608002B.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,中国,国联,联合,合准,准备,备银,银行,行伍,伍圆"
+    }
+  ]
+}

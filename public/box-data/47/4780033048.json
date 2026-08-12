@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4780033048",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4780033048",
+      "displayBoxCode": "4780033-048",
+      "gradingCompany": "NGC",
+      "grade": "MS 67",
+      "coinName": "2016年丙申猴年生肖流通纪念币五枚",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10429577.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4780033-048/67/",
+      "price": 120,
+      "priceWithFee": 129.6,
+      "transactedAt": "2026-07-29 19:34:05",
+      "productCode": "878249004",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/878249004A.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2016年,生肖,年丙,丙申,申猴,猴年,年生,肖流,流通,通纪,纪念,念币,币五,五枚"
+    }
+  ]
+}

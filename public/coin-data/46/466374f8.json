@@ -1,15 +1,32 @@
 {
   "coinName": "泰国纸钞",
   "slug": "466374f8",
-  "saleCount": 17,
+  "saleCount": 18,
   "keywords": "钞,泰国,国纸,纸钞",
   "priceStats": {
     "low": 55,
     "high": 150,
-    "avg": 88,
-    "latest": 55
+    "avg": 90,
+    "latest": 130
   },
   "records": [
+    {
+      "coinName": "泰国纸钞",
+      "normalizedBoxCode": "2400766015",
+      "displayBoxCode": "2400766-015",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10392415.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2400766-015/",
+      "price": 130,
+      "priceWithFee": 144.3,
+      "transactedAt": "2026-07-28 22:18:05",
+      "productCode": "873790008",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,泰国,国纸,纸钞"
+    },
     {
       "coinName": "泰国纸钞",
       "normalizedBoxCode": "2434370071",

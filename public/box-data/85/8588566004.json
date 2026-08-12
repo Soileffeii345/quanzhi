@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8588566004",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8588566004",
+      "displayBoxCode": "8588566-004",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1993年马可波罗5盎司精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10433952.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8588566-004/69/",
+      "price": 10800,
+      "priceWithFee": 11178,
+      "transactedAt": "2026-07-30 20:12:45",
+      "productCode": "878995032",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/878995032A.jpg",
+      "ocrConfidence": 45,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1993年,5盎司,年马,马可,可波,波罗,罗盎,盎司,司精,精制,制银,银币,评级"
+    }
+  ]
+}

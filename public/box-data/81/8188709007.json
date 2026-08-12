@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8188709007",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8188709007",
+      "displayBoxCode": "8188709-007",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "coinName": "2006年丙戌狗年生肖1/10盎司普制金币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-jin/10430052.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8188709-007/69/",
+      "price": 3250,
+      "priceWithFee": 3363.75,
+      "transactedAt": "2026-07-30 20:46:45",
+      "productCode": "878535012",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/878535012A.jpg",
+      "ocrConfidence": 32,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2006年,10盎司,生肖,年丙,丙戌,戌狗,狗年,年生,肖盎,盎司,司普,普制,制金,金币"
+    }
+  ]
+}

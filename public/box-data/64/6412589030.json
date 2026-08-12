@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6412589030",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6412589030",
+      "displayBoxCode": "6412589-030",
+      "gradingCompany": "NGC",
+      "grade": "MS 68",
+      "coinName": "2008年戊子鼠年生肖1/10盎司普制金币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-jin/10440359.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6412589-030/68/",
+      "price": 3050,
+      "priceWithFee": 3156.75,
+      "transactedAt": "2026-08-10 22:01:10",
+      "productCode": "879995001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/32/879995001A.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2008年,10盎司,生肖,年戊,戊子,子鼠,鼠年,年生,肖盎,盎司,司普,普制,制金,金币"
+    }
+  ]
+}

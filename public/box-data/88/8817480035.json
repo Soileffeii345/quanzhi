@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8817480035",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8817480035",
+      "displayBoxCode": "8817480-035",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1995年徐悲鸿诞辰100周年-雄狮8克精制金币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10416882.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8817480-035/69/",
+      "price": 18800,
+      "priceWithFee": 19458,
+      "transactedAt": "2026-07-30 20:28:45",
+      "productCode": "877036001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/877036001A.jpg",
+      "ocrConfidence": 45,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1995年,8克,年徐,徐悲,悲鸿,鸿诞,诞辰,辰周,周年,年雄,雄狮,狮克,克精,精制,制金,金币,评级"
+    }
+  ]
+}

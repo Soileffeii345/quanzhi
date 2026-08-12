@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2581356026",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2581356026",
+      "displayBoxCode": "2581356-026",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "第三版人民币背绿水印1角",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/disanbanrenminbi/10440298.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2581356-026/",
+      "price": 22500,
+      "priceWithFee": 24300,
+      "transactedAt": "2026-08-04 20:46:45",
+      "productCode": "879972007",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/31/879972007B.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,第三,三版,版人,人民,民币,币背,背绿,绿水,水印,印角"
+    }
+  ]
+}

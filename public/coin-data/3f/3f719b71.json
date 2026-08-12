@@ -1,15 +1,49 @@
 {
   "coinName": "1994年27克精制银币",
   "slug": "3f719b71",
-  "saleCount": 1,
-  "keywords": "银,币,1994年,27克,年国,国际,际奥,奥林,林匹,匹克,克运,运动,动周,周年,年篮,篮球,球克,克精,精制,制银,银币,评级",
+  "saleCount": 3,
+  "keywords": "银,币,1994年,27克,年世,世界,界文,文化,化名,名人,人第,第组,组克,克精,精制,制银,银币,币四,四枚,枚一,一套,评级,年第,第届,届世,界杯,杯足,足球,球赛,赛角,角球,球克,年国,国际,际奥,奥林,林匹,匹克,克运,运动,动周,周年,年篮,篮球",
   "priceStats": {
     "low": 410,
-    "high": 410,
-    "avg": 410,
-    "latest": 410
+    "high": 3550,
+    "avg": 1490,
+    "latest": 3550
   },
   "records": [
+    {
+      "coinName": "1994年世界文化名人第（4）组27克精制银币四枚一套",
+      "normalizedBoxCode": "8754703061",
+      "displayBoxCode": "8754703-061",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10443194.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8754703-061/",
+      "price": 3550,
+      "priceWithFee": 3674.25,
+      "transactedAt": "2026-08-06 19:44:15",
+      "productCode": "880261002",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1994年,27克,年世,世界,界文,文化,化名,名人,人第,第组,组克,克精,精制,制银,银币,币四,四枚,枚一,一套,评级"
+    },
+    {
+      "coinName": "1994年第15届世界杯足球赛-角球27克精制银币",
+      "normalizedBoxCode": "8585343020",
+      "displayBoxCode": "8585343-020",
+      "gradingCompany": "NGC",
+      "grade": "PF 68 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10433887.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8585343-020/68/",
+      "price": 510,
+      "priceWithFee": 527.85,
+      "transactedAt": "2026-08-03 20:58:05",
+      "productCode": "878997011",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1994年,27克,年第,第届,届世,世界,界杯,杯足,足球,球赛,赛角,角球,球克,克精,精制,制银,银币,评级"
+    },
     {
       "coinName": "1994年国际奥林匹克运动100周年-篮球27克精制银币",
       "normalizedBoxCode": "8648845006",

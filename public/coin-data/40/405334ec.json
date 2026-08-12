@@ -1,0 +1,31 @@
+{
+  "coinName": "民国十三年山东省银行伍圆",
+  "slug": "405334ec",
+  "saleCount": 1,
+  "keywords": "银,历史币,民国,国十,十三,三年,年山,山东,东省,省银,银行,行伍,伍圆",
+  "priceStats": {
+    "low": 1320,
+    "high": 1320,
+    "avg": 1320,
+    "latest": 1320
+  },
+  "records": [
+    {
+      "coinName": "民国十三年山东省银行伍圆",
+      "normalizedBoxCode": "2438126078",
+      "displayBoxCode": "2438126-078",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/minguoshengshigejiyinhangzhichao/10397100.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2438126-078/",
+      "price": 1320,
+      "priceWithFee": 1465.2,
+      "transactedAt": "2026-08-06 21:05:35",
+      "productCode": "874270019",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国十,十三,三年,年山,山东,东省,省银,银行,行伍,伍圆"
+    }
+  ]
+}

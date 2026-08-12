@@ -1,15 +1,49 @@
 {
   "coinName": "2002年3.11克精制金币",
   "slug": "4c4b0511",
-  "saleCount": 2,
+  "saleCount": 4,
   "keywords": "金,币,2002年,10盎司,宗教,年送,送子,子观,观音,音盎,盎司,司精,精制,制幻,幻彩,彩金,金币,评级",
   "priceStats": {
     "low": 3200,
-    "high": 3300,
-    "avg": 3250,
-    "latest": 3200
+    "high": 3950,
+    "avg": 3588,
+    "latest": 3950
   },
   "records": [
+    {
+      "coinName": "2002年送子观音1/10盎司精制幻彩金币",
+      "normalizedBoxCode": "2532116019",
+      "displayBoxCode": "2532116-019",
+      "gradingCompany": "NGC",
+      "grade": "PF70 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10423632.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2532116-019/70/",
+      "price": 3950,
+      "priceWithFee": 4088.25,
+      "transactedAt": "2026-07-30 21:50:05",
+      "productCode": "877648007",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2002年,10盎司,宗教,年送,送子,子观,观音,音盎,盎司,司精,精制,制幻,幻彩,彩金,金币,评级"
+    },
+    {
+      "coinName": "2002年送子观音1/10盎司精制幻彩金币",
+      "normalizedBoxCode": "2796111020",
+      "displayBoxCode": "2796111-020",
+      "gradingCompany": "NGC",
+      "grade": "PF70 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10423633.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2796111-020/70/",
+      "price": 3900,
+      "priceWithFee": 4036.5,
+      "transactedAt": "2026-07-30 20:30:05",
+      "productCode": "877648008",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2002年,10盎司,宗教,年送,送子,子观,观音,音盎,盎司,司精,精制,制幻,幻彩,彩金,金币,评级"
+    },
     {
       "coinName": "2002年送子观音1/10盎司精制幻彩金币",
       "normalizedBoxCode": "8610819053",

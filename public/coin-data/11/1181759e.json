@@ -1,0 +1,65 @@
+{
+  "coinName": "民国三十四年中央银行法币伍佰圆",
+  "slug": "1181759e",
+  "saleCount": 3,
+  "keywords": "银,币,历史币,民国,国三,三十,十四,四年,年中,中央,央银,银行,行法,法币,币伍,伍佰,佰圆",
+  "priceStats": {
+    "low": 780,
+    "high": 1940,
+    "avg": 1187,
+    "latest": 840
+  },
+  "records": [
+    {
+      "coinName": "民国三十四年中央银行法币伍佰圆",
+      "normalizedBoxCode": "2396383037",
+      "displayBoxCode": "2396383-037",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10395154.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2396383-037/",
+      "price": 840,
+      "priceWithFee": 932.4,
+      "transactedAt": "2026-07-30 21:42:10",
+      "productCode": "874269004",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,历史币,民国,国三,三十,十四,四年,年中,中央,央银,银行,行法,法币,币伍,伍佰,佰圆"
+    },
+    {
+      "coinName": "民国三十四年中央银行法币伍佰圆",
+      "normalizedBoxCode": "2396383016",
+      "displayBoxCode": "2396383-016",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10395151.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2396383-016/",
+      "price": 780,
+      "priceWithFee": 865.8,
+      "transactedAt": "2026-07-30 21:16:10",
+      "productCode": "874269001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,历史币,民国,国三,三十,十四,四年,年中,中央,央银,银行,行法,法币,币伍,伍佰,佰圆"
+    },
+    {
+      "coinName": "民国三十四年中央银行法币伍佰圆",
+      "normalizedBoxCode": "2396383008",
+      "displayBoxCode": "2396383-008",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10395153.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2396383-008/",
+      "price": 1940,
+      "priceWithFee": 2153.4,
+      "transactedAt": "2026-07-30 20:52:40",
+      "productCode": "874269003",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,历史币,民国,国三,三十,十四,四年,年中,中央,央银,银行,行法,法币,币伍,伍佰,佰圆"
+    }
+  ]
+}

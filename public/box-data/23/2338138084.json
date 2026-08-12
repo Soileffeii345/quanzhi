@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2338138084",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2338138084",
+      "displayBoxCode": "2338138-084",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "民国三十五年东北银行地方流通券拾圆",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jiefangquzhichao/10383825.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2338138-084/",
+      "price": 260,
+      "priceWithFee": 288.6,
+      "transactedAt": "2026-07-28 21:42:05",
+      "productCode": "872677008",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/27/872677008B.jpg",
+      "ocrConfidence": 30,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国三,三十,十五,五年,年东,东北,北银,银行,行地,地方,方流,流通,通券,券拾,拾圆"
+    }
+  ]
+}

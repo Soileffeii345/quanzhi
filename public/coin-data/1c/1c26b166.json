@@ -1,0 +1,82 @@
+{
+  "coinName": "2025年31.104克金币",
+  "slug": "1c26b166",
+  "saleCount": 4,
+  "keywords": "金,银,币,2025年,1盎司,年乍,乍得,得盎,盎司,司招,招财,财进,进宝,宝祥,祥龙,龙镀,镀金,金银,银币",
+  "priceStats": {
+    "low": 1500,
+    "high": 1600,
+    "avg": 1563,
+    "latest": 1600
+  },
+  "records": [
+    {
+      "coinName": "2025年乍得1盎司招财进宝祥龙\"镀金\"银币",
+      "normalizedBoxCode": "8505459005",
+      "displayBoxCode": "8505459-005",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/571979.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8505459-005/",
+      "price": 1600,
+      "priceWithFee": null,
+      "transactedAt": "2026-04-26 21:40:51",
+      "productCode": "KH132082",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,2025年,1盎司,年乍,乍得,得盎,盎司,司招,招财,财进,进宝,宝祥,祥龙,龙镀,镀金,金银,银币"
+    },
+    {
+      "coinName": "2025年乍得1盎司招财进宝祥龙\"镀金\"银币",
+      "normalizedBoxCode": "8505459001",
+      "displayBoxCode": "8505459-001",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/570696.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8505459-001/",
+      "price": 1600,
+      "priceWithFee": null,
+      "transactedAt": "2026-04-09 00:33:44",
+      "productCode": "KH129111",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,2025年,1盎司,年乍,乍得,得盎,盎司,司招,招财,财进,进宝,宝祥,祥龙,龙镀,镀金,金银,银币"
+    },
+    {
+      "coinName": "2025年乍得1盎司招财进宝祥龙\"镀金\"银币",
+      "normalizedBoxCode": "8505459003",
+      "displayBoxCode": "8505459-003",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/570166.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8505459-003/",
+      "price": 1550,
+      "priceWithFee": null,
+      "transactedAt": "2026-04-06 22:28:37",
+      "productCode": "KH128711",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,2025年,1盎司,年乍,乍得,得盎,盎司,司招,招财,财进,进宝,宝祥,祥龙,龙镀,镀金,金银,银币"
+    },
+    {
+      "coinName": "2025年乍得1盎司招财进宝祥龙\"镀金\"银币",
+      "normalizedBoxCode": "8505459004",
+      "displayBoxCode": "8505459-004",
+      "gradingCompany": "NGC",
+      "grade": "MS70",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/570148.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8505459-004/70/",
+      "price": 1500,
+      "priceWithFee": null,
+      "transactedAt": "2026-04-05 16:55:02",
+      "productCode": "KH128510",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,2025年,1盎司,年乍,乍得,得盎,盎司,司招,招财,财进,进宝,宝祥,祥龙,龙镀,镀金,金银,银币"
+    }
+  ]
+}

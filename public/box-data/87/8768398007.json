@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8768398007",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8768398007",
+      "displayBoxCode": "8768398-007",
+      "gradingCompany": "NGC",
+      "grade": "MS 70",
+      "coinName": "2026年中国龙31.104克普制银币（龙的奇迹智能卡）",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10440675.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8768398-007/70/",
+      "price": 730,
+      "priceWithFee": 755.55,
+      "transactedAt": "2026-08-01 20:15:10",
+      "productCode": "880072001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/876083007A.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2026年,31.104克,年中,中国,国龙,龙克,克普,普制,制银,银币,币龙,龙的,的奇,奇迹,迹智,智能,能卡"
+    }
+  ]
+}

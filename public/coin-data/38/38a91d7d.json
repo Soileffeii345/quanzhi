@@ -1,0 +1,31 @@
+{
+  "coinName": "民国二十四年中国银行伍圆连号",
+  "slug": "38a91d7d",
+  "saleCount": 1,
+  "keywords": "银,历史币,民国,国二,二十,十四,四年,年中,中国,国银,银行,行伍,伍圆,圆连,连号,号二,二枚",
+  "priceStats": {
+    "low": 470,
+    "high": 470,
+    "avg": 470,
+    "latest": 470
+  },
+  "records": [
+    {
+      "coinName": "民国二十四年中国银行伍圆连号二枚",
+      "normalizedBoxCode": "2316015004",
+      "displayBoxCode": "2316015-004",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10401228.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2316015-004/",
+      "price": 470,
+      "priceWithFee": 521.7,
+      "transactedAt": "2026-08-06 20:09:20",
+      "productCode": "875307002",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国二,二十,十四,四年,年中,中国,国银,银行,行伍,伍圆,圆连,连号,号二,二枚"
+    }
+  ]
+}

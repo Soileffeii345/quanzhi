@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2148194092",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2148194092",
+      "displayBoxCode": "2148194-092",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "民国三十年中央银行伍圆",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10394893.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2148194-092/",
+      "price": 330,
+      "priceWithFee": 366.3,
+      "transactedAt": "2026-07-30 21:00:40",
+      "productCode": "873834026",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/873834026B.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国三,三十,十年,年中,中央,央银,银行,行伍,伍圆"
+    }
+  ]
+}

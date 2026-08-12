@@ -1,12 +1,12 @@
 {
   "coinName": "2020年31.104克银币",
   "slug": "7ea8711a",
-  "saleCount": 3,
-  "keywords": "银,币,2020年,1盎司,年萨,萨摩,摩亚,亚贝,贝多,多芬,芬诞,诞辰,辰周,周年,年盎,盎司,司银,银币,年斐,斐济,济五,五福,福临,临门,门盎,年蒙,蒙古,古盎,司貉,貉高,高浮,浮雕,雕彩,彩银",
+  "saleCount": 5,
+  "keywords": "银,币,2020年,1盎司,年萨,萨摩,摩亚,亚贝,贝多,多芬,芬诞,诞辰,辰周,周年,年盎,盎司,司银,银币,年斐,斐济,济五,五福,福临,临门,门盎,济盎,司敦,敦煌,煌藏,藏经,经洞,洞银,年蒙,蒙古,古盎,司貉,貉高,高浮,浮雕,雕彩,彩银",
   "priceStats": {
     "low": 640,
     "high": 1300,
-    "avg": 987,
+    "avg": 944,
     "latest": 1020
   },
   "records": [
@@ -43,6 +43,40 @@
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "银,币,2020年,1盎司,年斐,斐济,济五,五福,福临,临门,门盎,盎司,司银,银币"
+    },
+    {
+      "coinName": "2020年斐济1盎司敦煌藏经洞银币",
+      "normalizedBoxCode": "6409444010",
+      "displayBoxCode": "6409444-010",
+      "gradingCompany": "NGC",
+      "grade": "MS 70",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/573187.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6409444-010/70/",
+      "price": 790,
+      "priceWithFee": null,
+      "transactedAt": "2026-05-03 11:36:54",
+      "productCode": "KH130324",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2020年,1盎司,年斐,斐济,济盎,盎司,司敦,敦煌,煌藏,藏经,经洞,洞银,银币"
+    },
+    {
+      "coinName": "2020年斐济1盎司敦煌藏经洞银币",
+      "normalizedBoxCode": "6727444083",
+      "displayBoxCode": "6727444-083",
+      "gradingCompany": "NGC",
+      "grade": "MS 70",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/558409.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6727444-083/70/",
+      "price": 970,
+      "priceWithFee": null,
+      "transactedAt": "2026-03-06 17:16:48",
+      "productCode": "KH122349",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2020年,1盎司,年斐,斐济,济盎,盎司,司敦,敦煌,煌藏,藏经,经洞,洞银,银币"
     },
     {
       "coinName": "2020年蒙古1盎司貉高浮雕彩银币",

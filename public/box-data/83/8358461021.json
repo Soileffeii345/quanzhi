@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8358461021",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8358461021",
+      "displayBoxCode": "8358461-021",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "coinName": "1997年熊猫1/2盎司普制银币二枚",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-jiuyin/10433881.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8358461-021/69/",
+      "price": 880,
+      "priceWithFee": 910.8,
+      "transactedAt": "2026-08-03 20:23:30",
+      "productCode": "878997005",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/878997005A.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1997年,2盎司,熊猫,年熊,猫盎,盎司,司普,普制,制银,银币,币二,二枚"
+    }
+  ]
+}

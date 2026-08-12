@@ -1,15 +1,32 @@
 {
   "coinName": "1986年15.552克精制银币",
   "slug": "4bcacf17",
-  "saleCount": 5,
-  "keywords": "银,币,1986年,2盎司,年第,第届,届世,世界,界杯,杯足,足球,球赛,赛盎,盎司,司精,精制,制银,银币,币二,二枚,枚一,一套,评级,赛控,控球,球盎,赛单,单人,人控",
+  "saleCount": 6,
+  "keywords": "银,币,1986年,2盎司,年第,第届,届世,世界,界杯,杯足,足球,球赛,赛双,双人,人传,传球,球盎,盎司,司精,精制,制银,银币,评级,赛盎,币二,二枚,枚一,一套,赛控,控球,赛单,单人,人控",
   "priceStats": {
     "low": 580,
     "high": 1560,
-    "avg": 1000,
-    "latest": 1020
+    "avg": 972,
+    "latest": 830
   },
   "records": [
+    {
+      "coinName": "1986年第13届世界杯足球赛-双人传球1/2盎司精制银币",
+      "normalizedBoxCode": "8754703038",
+      "displayBoxCode": "8754703-038",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10443218.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8754703-038/69/",
+      "price": 830,
+      "priceWithFee": 859.05,
+      "transactedAt": "2026-08-03 21:23:30",
+      "productCode": "880261026",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1986年,2盎司,年第,第届,届世,世界,界杯,杯足,足球,球赛,赛双,双人,人传,传球,球盎,盎司,司精,精制,制银,银币,评级"
+    },
     {
       "coinName": "1986年第13届世界杯足球赛1/2盎司精制银币二枚一套",
       "normalizedBoxCode": "8827552002",

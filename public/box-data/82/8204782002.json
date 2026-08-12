@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8204782002",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8204782002",
+      "displayBoxCode": "8204782-002",
+      "gradingCompany": "NGC",
+      "grade": "MS 66",
+      "coinName": "1993年中国珍稀野生动物-大熊猫流通纪念币、2000年中国硬币壹分各一枚，共二枚",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10423047.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8204782-002/66/",
+      "price": 180,
+      "priceWithFee": 194.4,
+      "transactedAt": "2026-07-29 21:12:05",
+      "productCode": "877600001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/877600001A.jpg",
+      "ocrConfidence": 43,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1993年,熊猫,年中,中国,国珍,珍稀,稀野,野生,生动,动物,物大,大熊,猫流,流通,通纪,纪念,念币,币年,国硬,硬币,币壹,壹分,分各,各一,一枚,枚共,共二,二枚"
+    }
+  ]
+}

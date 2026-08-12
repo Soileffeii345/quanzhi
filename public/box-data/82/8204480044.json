@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8204480044",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8204480044",
+      "displayBoxCode": "8204480-044",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2011年世界自然基金会成立50周年-藏羚羊1盎司精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10428966.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8204480-044/69/",
+      "price": 560,
+      "priceWithFee": 579.6,
+      "transactedAt": "2026-08-03 19:31:25",
+      "productCode": "878278003",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/878278003A.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,2011年,1盎司,年世,世界,界自,自然,然基,基金,金会,会成,成立,立周,周年,年藏,藏羚,羚羊,羊盎,盎司,司精,精制,制银,银币,评级"
+    }
+  ]
+}

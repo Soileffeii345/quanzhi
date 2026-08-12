@@ -1,0 +1,48 @@
+{
+  "coinName": "民国三十四年冀南银行伍百圆",
+  "slug": "1d0e436a",
+  "saleCount": 2,
+  "keywords": "银,历史币,民国,国三,三十,十四,四年,年冀,冀南,南银,银行,行伍,伍百,百圆",
+  "priceStats": {
+    "low": 250,
+    "high": 740,
+    "avg": 495,
+    "latest": 740
+  },
+  "records": [
+    {
+      "coinName": "民国三十四年冀南银行伍百圆",
+      "normalizedBoxCode": "2263490005",
+      "displayBoxCode": "2263490-005",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jiefangquzhichao/10403982.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2263490-005/",
+      "price": 740,
+      "priceWithFee": 821.4,
+      "transactedAt": "2026-07-30 21:44:40",
+      "productCode": "874941019",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国三,三十,十四,四年,年冀,冀南,南银,银行,行伍,伍百,百圆"
+    },
+    {
+      "coinName": "民国三十四年冀南银行伍百圆",
+      "normalizedBoxCode": "1938162053",
+      "displayBoxCode": "1938162-053",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jiefangquzhichao/10403991.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1938162-053/",
+      "price": 250,
+      "priceWithFee": 277.5,
+      "transactedAt": "2026-07-30 21:29:10",
+      "productCode": "874941028",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国三,三十,十四,四年,年冀,冀南,南银,银行,行伍,伍百,百圆"
+    }
+  ]
+}

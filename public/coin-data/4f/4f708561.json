@@ -1,0 +1,31 @@
+{
+  "coinName": "清-咸丰重宝宝源当十大样、宝苏当十大样各1枚，共2枚",
+  "slug": "4f708561",
+  "saleCount": 1,
+  "keywords": "清咸,咸丰,丰重,重宝,宝宝,宝源,源当,当十,十大,大样,样宝,宝苏,苏当,样各,各枚,枚共,共枚",
+  "priceStats": {
+    "low": 560,
+    "high": 560,
+    "avg": 560,
+    "latest": 560
+  },
+  "records": [
+    {
+      "coinName": "清-咸丰重宝宝源当十大样、宝苏当十大样各1枚，共2枚",
+      "normalizedBoxCode": "1121113004",
+      "displayBoxCode": "1121113-004",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/guqian/10412189.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1121113-004/",
+      "price": 560,
+      "priceWithFee": 616,
+      "transactedAt": "2026-08-10 21:34:05",
+      "productCode": "876145001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "清咸,咸丰,丰重,重宝,宝宝,宝源,源当,当十,十大,大样,样宝,宝苏,苏当,样各,各枚,枚共,共枚"
+    }
+  ]
+}

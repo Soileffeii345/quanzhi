@@ -1,0 +1,31 @@
+{
+  "coinName": "大清光绪二十四年造山海关内外铁路局壹圆",
+  "slug": "0cf4285b",
+  "saleCount": 1,
+  "keywords": "历史币,大清,清光,光绪,绪二,二十,十四,四年,年造,造山,山海,海关,关内,内外,外铁,铁路,路局,局壹,壹圆",
+  "priceStats": {
+    "low": 5900,
+    "high": 5900,
+    "avg": 5900,
+    "latest": 5900
+  },
+  "records": [
+    {
+      "coinName": "大清光绪二十四年造山海关内外铁路局壹圆",
+      "normalizedBoxCode": "2448066002",
+      "displayBoxCode": "2448066-002",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/mingqingzhichao/10397091.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2448066-002/",
+      "price": 5900,
+      "priceWithFee": 6549,
+      "transactedAt": "2026-08-06 21:30:35",
+      "productCode": "874270010",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "历史币,大清,清光,光绪,绪二,二十,十四,四年,年造,造山,山海,海关,关内,内外,外铁,铁路,路局,局壹,壹圆"
+    }
+  ]
+}

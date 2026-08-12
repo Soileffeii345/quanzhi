@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "5805882088",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "5805882088",
+      "displayBoxCode": "5805882-088",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1996年中国古典文学名著《三国演义》第（2）组27克精制银币四枚一套",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10429451.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/5805882-088/69/",
+      "price": 3400,
+      "priceWithFee": 3519,
+      "transactedAt": "2026-07-30 20:16:05",
+      "productCode": "878311001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/878311001A.jpg",
+      "ocrConfidence": 40,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1996年,27克,年中,中国,国古,古典,典文,文学,学名,名著,著三,三国,国演,演义,义第,第组,组克,克精,精制,制银,银币,币四,四枚,枚一,一套,评级"
+    }
+  ]
+}

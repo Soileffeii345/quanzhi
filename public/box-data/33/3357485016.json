@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "3357485016",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "3357485016",
+      "displayBoxCode": "3357485-016",
+      "gradingCompany": "NGC",
+      "grade": "PF 67 ULTRA CAMEO",
+      "coinName": "1990年第16届冬季奥运会-速滑5盎司精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10424856.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3357485-016/67/",
+      "price": 2600,
+      "priceWithFee": 2691,
+      "transactedAt": "2026-07-30 19:43:25",
+      "productCode": "877755005",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/877755005A.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1990年,5盎司,奥运,年第,第届,届冬,冬季,季奥,运会,会速,速滑,滑盎,盎司,司精,精制,制银,银币,评级"
+    }
+  ]
+}

@@ -1,15 +1,49 @@
 {
   "coinName": "2008年奥运会",
   "slug": "473e69ee",
-  "saleCount": 5,
+  "saleCount": 10,
   "keywords": "钞,2008年,奥运,年第,第届,届奥,运会,会纪,纪念,念钞,钞拾,拾圆,币,钞港,港币,币澳,澳门,门币,币贰,贰拾,圆各,各一,一枚,枚共,共二,二枚,外国/特区",
   "priceStats": {
     "low": 340,
     "high": 3650,
-    "avg": 2188,
-    "latest": 2300
+    "avg": 2389,
+    "latest": 2500
   },
   "records": [
+    {
+      "coinName": "2008年第29届奥运会纪念钞拾圆",
+      "normalizedBoxCode": "2491842093",
+      "displayBoxCode": "2491842-093",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/liantichao-jinianchao/10449451.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2491842-093/",
+      "price": 2500,
+      "priceWithFee": 2700,
+      "transactedAt": "2026-08-08 20:15:50",
+      "productCode": "880897004",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,2008年,奥运,年第,第届,届奥,运会,会纪,纪念,念钞,钞拾,拾圆"
+    },
+    {
+      "coinName": "2008年第29届奥运会纪念钞拾圆",
+      "normalizedBoxCode": "2555408011",
+      "displayBoxCode": "2555408-011",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/liantichao-jinianchao/10449450.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2555408-011/",
+      "price": 2450,
+      "priceWithFee": 2646,
+      "transactedAt": "2026-08-08 19:53:50",
+      "productCode": "880897003",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,2008年,奥运,年第,第届,届奥,运会,会纪,纪念,念钞,钞拾,拾圆"
+    },
     {
       "coinName": "2008年第29届奥运会纪念钞拾圆",
       "normalizedBoxCode": "1988047046",
@@ -23,6 +57,40 @@
       "priceWithFee": 2484,
       "transactedAt": "2026-08-08 19:07:50",
       "productCode": "880983001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,2008年,奥运,年第,第届,届奥,运会,会纪,纪念,念钞,钞拾,拾圆"
+    },
+    {
+      "coinName": "2008年第29届奥运会纪念钞拾圆",
+      "normalizedBoxCode": "6061121080",
+      "displayBoxCode": "6061121-080",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/liantichao-jinianchao/10435077.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6061121-080/",
+      "price": 2350,
+      "priceWithFee": 2538,
+      "transactedAt": "2026-08-01 19:11:05",
+      "productCode": "878825008",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,2008年,奥运,年第,第届,届奥,运会,会纪,纪念,念钞,钞拾,拾圆"
+    },
+    {
+      "coinName": "2008年第29届奥运会纪念钞拾圆",
+      "normalizedBoxCode": "2492375077",
+      "displayBoxCode": "2492375-077",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/liantichao-jinianchao/10427460.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2492375-077/",
+      "price": 3050,
+      "priceWithFee": 3294,
+      "transactedAt": "2026-07-30 19:02:10",
+      "productCode": "878030001",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "钞,2008年,奥运,年第,第届,届奥,运会,会纪,纪念,念钞,钞拾,拾圆"
@@ -94,6 +162,23 @@
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "币,钞,2008年,奥运,年第,第届,届奥,运会,会纪,纪念,念钞,钞港,港币,币澳,澳门,门币,币贰,贰拾,拾圆,圆各,各一,一枚,枚共,共二,二枚,外国/特区"
+    },
+    {
+      "coinName": "2008年第29届奥运会纪念钞",
+      "normalizedBoxCode": "2233957074",
+      "displayBoxCode": "2233957-074",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/496437.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2233957-074/",
+      "price": 2600,
+      "priceWithFee": null,
+      "transactedAt": "2025-10-14 22:33:51",
+      "productCode": "KH084962",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,2008年,奥运,年第,第届,届奥,运会,会纪,纪念,念钞"
     }
   ]
 }

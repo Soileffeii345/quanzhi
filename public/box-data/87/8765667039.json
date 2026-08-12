@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8765667039",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8765667039",
+      "displayBoxCode": "8765667-039",
+      "gradingCompany": "NGC",
+      "grade": "MS 68",
+      "coinName": "1991年熊猫1盎司普制银币（大字版）",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-jiuyin/10443197.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8765667-039/68/",
+      "price": 1100,
+      "priceWithFee": 1138.5,
+      "transactedAt": "2026-08-03 19:45:10",
+      "productCode": "880261005",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/31/880261005A.jpg",
+      "ocrConfidence": 32,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1991年,1盎司,熊猫,年熊,猫盎,盎司,司普,普制,制银,银币,币大,大字,字版"
+    }
+  ]
+}

@@ -1,15 +1,32 @@
 {
   "coinName": "第一版人民币秋收1000元",
   "slug": "6be90ff6",
-  "saleCount": 5,
+  "saleCount": 6,
   "keywords": "币,第一,一版,版人,人民,民币,币秋,秋收,收元",
   "priceStats": {
-    "low": 2550,
+    "low": 2450,
     "high": 4000,
-    "avg": 3100,
-    "latest": 4000
+    "avg": 2992,
+    "latest": 2450
   },
   "records": [
+    {
+      "coinName": "第一版人民币秋收1000元",
+      "normalizedBoxCode": "2161397002",
+      "displayBoxCode": "2161397-002",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/diyibanrenminbi/10412240.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2161397-002/",
+      "price": 2450,
+      "priceWithFee": 2695,
+      "transactedAt": "2026-08-06 20:59:45",
+      "productCode": "876366014",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,第一,一版,版人,人民,民币,币秋,秋收,收元"
+    },
     {
       "coinName": "第一版人民币秋收1000元",
       "normalizedBoxCode": "2584612044",

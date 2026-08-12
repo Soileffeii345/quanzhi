@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6029898041",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6029898041",
+      "displayBoxCode": "6029898-041",
+      "gradingCompany": "NGC",
+      "grade": "MS 66",
+      "coinName": "1955年中国硬币伍分",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10431621.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6029898-041/66/",
+      "price": 210,
+      "priceWithFee": 226.8,
+      "transactedAt": "2026-07-29 19:56:45",
+      "productCode": "878756001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/878756001A.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1955年,年中,中国,国硬,硬币,币伍,伍分"
+    }
+  ]
+}

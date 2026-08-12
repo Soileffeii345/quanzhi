@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2024021800",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2024021800",
+      "displayBoxCode": "2024021-800",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2024年甲辰龙年生肖150克精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10443541.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2024021-800/",
+      "price": 10000,
+      "priceWithFee": 10350,
+      "transactedAt": "2026-08-03 22:09:20",
+      "productCode": "880415004",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/31/880415004A.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2024年,150克,生肖,年甲,甲辰,辰龙,龙年,年生,肖克,克精,精制,制银,银币,评级"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "coinName": "1985年3盎司精制金币",
+  "slug": "4f5ad78f",
+  "saleCount": 1,
+  "keywords": "金,币,1985年,3盎司,年中,中国,国杰,杰出,出历,历史,史人,人物,物第,第组,组孔,孔子,子盎,盎司,司精,精制,制金,金币,评级",
+  "priceStats": {
+    "low": 10600,
+    "high": 10600,
+    "avg": 10600,
+    "latest": 10600
+  },
+  "records": [
+    {
+      "coinName": "1985年中国杰出历史人物第（2）组-孔子1/3盎司精制金币",
+      "normalizedBoxCode": "8587808004",
+      "displayBoxCode": "8587808-004",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10433929.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8587808-004/69/",
+      "price": 10600,
+      "priceWithFee": 10971,
+      "transactedAt": "2026-07-30 21:22:45",
+      "productCode": "878995009",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1985年,3盎司,年中,中国,国杰,杰出,出历,历史,史人,人物,物第,第组,组孔,孔子,子盎,盎司,司精,精制,制金,金币,评级"
+    }
+  ]
+}

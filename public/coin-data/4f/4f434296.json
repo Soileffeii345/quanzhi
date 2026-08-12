@@ -1,0 +1,31 @@
+{
+  "coinName": "民国二十年河北银钱局北平地名肆拾枚",
+  "slug": "4f434296",
+  "saleCount": 1,
+  "keywords": "银,历史币,民国,国二,二十,十年,年河,河北,北银,银钱,钱局,局北,北平,平地,地名,名肆,肆拾,拾枚",
+  "priceStats": {
+    "low": 4400,
+    "high": 4400,
+    "avg": 4400,
+    "latest": 4400
+  },
+  "records": [
+    {
+      "coinName": "民国二十年河北银钱局北平地名肆拾枚",
+      "normalizedBoxCode": "2252932030",
+      "displayBoxCode": "2252932-030",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/minguoshengshigejiyinhangzhichao/10389430.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2252932-030/",
+      "price": 4400,
+      "priceWithFee": 4884,
+      "transactedAt": "2026-07-30 21:06:40",
+      "productCode": "873439013",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国二,二十,十年,年河,河北,北银,银钱,钱局,局北,北平,平地,地名,名肆,肆拾,拾枚"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "1120271671",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "1120271671",
+      "displayBoxCode": "1120271-671",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "清-太平天国圣宝",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/guqian/10412221.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1120271-671/",
+      "price": 1280,
+      "priceWithFee": 1408,
+      "transactedAt": "2026-08-10 21:38:05",
+      "productCode": "876352022",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/876352022A.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "清太,太平,平天,天国,国圣,圣宝"
+    }
+  ]
+}

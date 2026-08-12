@@ -16,6 +16,7 @@
     "data:audit:links": "node collector/audit-source-links.mjs",
     "data:export": "node collector/audit-data.mjs && node collector/export-static-box-index.mjs && node collector/export-database-html.mjs",
     "data:update": "node collector/daily-lightweight.mjs",
+    "data:verify:official": "node collector/verify-official-batch.mjs --limit=40 --delay=1500",
     "data:status": "node collector/check-progress.mjs",
     "db:backup": "node scripts/database-backup.mjs pack",
     "db:restore": "node scripts/database-backup.mjs unpack"

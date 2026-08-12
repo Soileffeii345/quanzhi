@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6004405001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6004405001",
+      "displayBoxCode": "6004405-001",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2020年澳大利亚东京奥运会NGC评级1盎司凹凸曲面精制纪念银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/552706.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6004405-001/",
+      "price": 950,
+      "priceWithFee": null,
+      "transactedAt": "2026-03-07 20:44:30",
+      "productCode": "KH119641",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260206/large_sell_vazx0ksavsdn3abc.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2020年,1盎司,奥运,年澳,澳大,大利,利亚,亚东,东京,京奥,运会,会评,评级,级盎,盎司,司凹,凹凸,凸曲,曲面,面精,精制,制纪,纪念,念银,银币,外国/特区"
+    }
+  ]
+}

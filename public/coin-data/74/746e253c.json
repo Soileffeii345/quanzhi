@@ -1,15 +1,32 @@
 {
   "coinName": "2018年香港特别行政区政府港币拾圆",
   "slug": "746e253c",
-  "saleCount": 1,
+  "saleCount": 2,
   "keywords": "币,2018年,年香,香港,港特,特别,别行,行政,政区,区政,政府,府港,港币,币拾,拾圆,外国/特区",
   "priceStats": {
-    "low": 110,
+    "low": 90,
     "high": 110,
-    "avg": 110,
-    "latest": 110
+    "avg": 100,
+    "latest": 90
   },
   "records": [
+    {
+      "coinName": "2018年香港特别行政区政府港币拾圆",
+      "normalizedBoxCode": "2485426018",
+      "displayBoxCode": "2485426-018",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/liantichao-jinianchao/10449232.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2485426-018/",
+      "price": 90,
+      "priceWithFee": 97.2,
+      "transactedAt": "2026-08-08 21:08:50",
+      "productCode": "880972006",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2018年,年香,香港,港特,特别,别行,行政,政区,区政,政府,府港,港币,币拾,拾圆,外国/特区"
+    },
     {
       "coinName": "2018年香港特别行政区政府港币拾圆",
       "normalizedBoxCode": "2555488002",

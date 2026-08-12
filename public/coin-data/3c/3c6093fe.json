@@ -1,0 +1,31 @@
+{
+  "coinName": "2017年熊猫5克精制金币",
+  "slug": "3c6093fe",
+  "saleCount": 1,
+  "keywords": "金,币,2017年,5克,熊猫,年中,中国,国熊,猫金,金币,币发,发行,行周,周年,年克,克精,精制,制金,评级",
+  "priceStats": {
+    "low": 5300,
+    "high": 5300,
+    "avg": 5300,
+    "latest": 5300
+  },
+  "records": [
+    {
+      "coinName": "2017年中国熊猫金币发行35周年5克精制金币",
+      "normalizedBoxCode": "8614302010",
+      "displayBoxCode": "8614302-010",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-xinjin/10446868.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8614302-010/70/",
+      "price": 5300,
+      "priceWithFee": 5485.5,
+      "transactedAt": "2026-08-10 22:04:40",
+      "productCode": "880849002",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2017年,5克,熊猫,年中,中国,国熊,猫金,金币,币发,发行,行周,周年,年克,克精,精制,制金,评级"
+    }
+  ]
+}

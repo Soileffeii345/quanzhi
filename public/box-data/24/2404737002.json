@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2404737002",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2404737002",
+      "displayBoxCode": "2404737-002",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "第一版人民币马饮水1000元",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/diyibanrenminbi/10439674.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2404737-002/",
+      "price": 370000,
+      "priceWithFee": 407000,
+      "transactedAt": "2026-08-06 20:31:50",
+      "productCode": "879524002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/31/879524002B.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,第一,一版,版人,人民,民币,币马,马饮,饮水,水元"
+    }
+  ]
+}

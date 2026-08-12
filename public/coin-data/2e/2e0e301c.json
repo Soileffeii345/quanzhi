@@ -1,0 +1,31 @@
+{
+  "coinName": "2002年生肖金币",
+  "slug": "2e0e301c",
+  "saleCount": 1,
+  "keywords": "金,币,2002年,生肖,年加,加拿,拿大,大全,全息,息幻,幻彩,彩生,肖马,马金,金币,外国/特区",
+  "priceStats": {
+    "low": 11600,
+    "high": 11600,
+    "avg": 11600,
+    "latest": 11600
+  },
+  "records": [
+    {
+      "coinName": "2002年加拿大全息幻彩生肖马金币",
+      "normalizedBoxCode": "4325778003",
+      "displayBoxCode": "4325778-003",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/554141.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4325778-003/69/",
+      "price": 11600,
+      "priceWithFee": null,
+      "transactedAt": "2026-02-25 19:15:01",
+      "productCode": "KH120170",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2002年,生肖,年加,加拿,拿大,大全,全息,息幻,幻彩,彩生,肖马,马金,金币,外国/特区"
+    }
+  ]
+}

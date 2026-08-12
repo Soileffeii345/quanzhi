@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2060431092",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2060431092",
+      "displayBoxCode": "2060431-092",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2014年大西洋银行甲午马年生肖澳门币拾圆",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/liantichao-jinianchao/10439390.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2060431-092/",
+      "price": 140,
+      "priceWithFee": 151.2,
+      "transactedAt": "2026-08-04 20:12:45",
+      "productCode": "879666005",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/31/879666005B.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2014年,生肖,年大,大西,西洋,洋银,银行,行甲,甲午,午马,马年,年生,肖澳,澳门,门币,币拾,拾圆,外国/特区"
+    }
+  ]
+}

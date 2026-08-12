@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2226749045",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2226749045",
+      "displayBoxCode": "2226749-045",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "第三版人民币1角红冠2罗马凸版",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/disanbanrenminbi/10427473.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2226749-045/",
+      "price": 220,
+      "priceWithFee": 237.6,
+      "transactedAt": "2026-08-01 21:09:05",
+      "productCode": "877882013",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/877882013B.jpg",
+      "ocrConfidence": 37,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,第三,三版,版人,人民,民币,币角,角红,红冠,冠罗,罗马,马凸,凸版"
+    }
+  ]
+}

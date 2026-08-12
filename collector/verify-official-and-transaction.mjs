@@ -14,6 +14,7 @@ const dryRun = options["dry-run"] === "true";
 // when an approved official lookup channel is available.
 const skipOfficial = options["skip-official"] !== "false";
 const verbose = options.verbose === "true";
+const requestedStatus = options.status ?? "";
 
 const activeCandidates = database.prepare(`
   SELECT * FROM box_sales
@@ -22,7 +23,14 @@ const activeCandidates = database.prepare(`
   LIMIT ?
 `).all(activeLimit);
 
-const verificationCandidates = database.prepare(`
+const verificationCandidates = requestedStatus
+  ? database.prepare(`
+      SELECT * FROM box_sales
+      WHERE verification_status = ?
+      ORDER BY collected_at
+      LIMIT ?
+    `).all(requestedStatus, limit)
+  : database.prepare(`
   SELECT * FROM box_sales
   WHERE verification_status IN ('ocr_double_match', 'transaction_check_failed', 'official_pending')
   ORDER BY CASE verification_status

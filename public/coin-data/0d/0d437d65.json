@@ -1,0 +1,31 @@
+{
+  "coinName": "俄罗斯1993年世界珍稀动物8全新50套",
+  "slug": "0d437d65",
+  "saleCount": 1,
+  "keywords": "1993年,俄罗,罗斯,斯年,年世,世界,界珍,珍稀,稀动,动物,物全,全新,新套,套一,一版,外国/特区",
+  "priceStats": {
+    "low": 110,
+    "high": 110,
+    "avg": 110,
+    "latest": 110
+  },
+  "records": [
+    {
+      "coinName": "俄罗斯1993年世界珍稀动物8全新50套（一版）",
+      "normalizedBoxCode": "8888888080",
+      "displayBoxCode": "8888888-080",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/ouzhouyoupiao/10424411.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8888888-080/",
+      "price": 110,
+      "priceWithFee": 123.2,
+      "transactedAt": "2026-08-08 15:18:10",
+      "productCode": "872149008",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "1993年,俄罗,罗斯,斯年,年世,世界,界珍,珍稀,稀动,动物,物全,全新,新套,套一,一版,外国/特区"
+    }
+  ]
+}

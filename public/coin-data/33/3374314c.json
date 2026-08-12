@@ -1,0 +1,48 @@
+{
+  "coinName": "1997年生肖3.11克普制金币",
+  "slug": "3374314c",
+  "saleCount": 2,
+  "keywords": "金,币,1997年,10盎司,生肖,年丁,丁丑,丑牛,牛年,年生,肖盎,盎司,司普,普制,制金,金币",
+  "priceStats": {
+    "low": 3350,
+    "high": 3400,
+    "avg": 3375,
+    "latest": 3350
+  },
+  "records": [
+    {
+      "coinName": "1997年丁丑牛年生肖1/10盎司普制金币",
+      "normalizedBoxCode": "8192366039",
+      "displayBoxCode": "8192366-039",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-jin/10444874.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8192366-039/",
+      "price": 3350,
+      "priceWithFee": 3467.25,
+      "transactedAt": "2026-08-06 20:54:15",
+      "productCode": "880419003",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1997年,10盎司,生肖,年丁,丁丑,丑牛,牛年,年生,肖盎,盎司,司普,普制,制金,金币"
+    },
+    {
+      "coinName": "1997年丁丑牛年生肖1/10盎司普制金币",
+      "normalizedBoxCode": "8192366040",
+      "displayBoxCode": "8192366-040",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-jin/10430043.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8192366-040/",
+      "price": 3400,
+      "priceWithFee": 3519,
+      "transactedAt": "2026-07-30 21:16:05",
+      "productCode": "878535003",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1997年,10盎司,生肖,年丁,丁丑,丑牛,牛年,年生,肖盎,盎司,司普,普制,制金,金币"
+    }
+  ]
+}

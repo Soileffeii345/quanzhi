@@ -1,15 +1,32 @@
 {
   "coinName": "2004年熊猫31.104克普制银币",
   "slug": "0dd8d89f",
-  "saleCount": 3,
+  "saleCount": 4,
   "keywords": "银,币,2004年,1盎司,熊猫,年熊,猫盎,盎司,司普,普制,制银,银币",
   "priceStats": {
     "low": 550,
     "high": 720,
-    "avg": 637,
-    "latest": 640
+    "avg": 625,
+    "latest": 590
   },
   "records": [
+    {
+      "coinName": "2004年熊猫1盎司普制银币",
+      "normalizedBoxCode": "8825257001",
+      "displayBoxCode": "8825257-001",
+      "gradingCompany": "NGC",
+      "grade": "MS 68",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-jiuyin/10433617.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8825257-001/68/",
+      "price": 590,
+      "priceWithFee": 610.65,
+      "transactedAt": "2026-08-03 19:58:55",
+      "productCode": "878668007",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2004年,1盎司,熊猫,年熊,猫盎,盎司,司普,普制,制银,银币"
+    },
     {
       "coinName": "2004年熊猫1盎司普制银币",
       "normalizedBoxCode": "8817239006",

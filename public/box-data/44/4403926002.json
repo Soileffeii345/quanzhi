@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4403926002",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4403926002",
+      "displayBoxCode": "4403926-002",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2000年熊猫1/10盎司普制金币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-jiujin/10436399.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4403926-002/",
+      "price": 4500,
+      "priceWithFee": 4657.5,
+      "transactedAt": "2026-08-06 20:47:35",
+      "productCode": "879389008",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/31/879389008A.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2000年,10盎司,熊猫,年熊,猫盎,盎司,司普,普制,制金,金币"
+    }
+  ]
+}

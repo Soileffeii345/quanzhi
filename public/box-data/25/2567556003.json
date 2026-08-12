@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2567556003",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2567556003",
+      "displayBoxCode": "2567556-003",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1981年中华人民共和国国库券拾万圆票样",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/gupiao-zhaiquan/10401731.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2567556-003/",
+      "price": 32500,
+      "priceWithFee": 36075,
+      "transactedAt": "2026-07-30 20:07:40",
+      "productCode": "875289006",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/875289006B.jpg",
+      "ocrConfidence": 26,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,1981年,年中,中华,华人,人民,民共,共和,和国,国国,国库,库券,券拾,拾万,万圆,圆票,票样"
+    }
+  ]
+}

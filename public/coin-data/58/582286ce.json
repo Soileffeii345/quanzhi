@@ -1,0 +1,31 @@
+{
+  "coinName": "1993年美国100美元纸钞",
+  "slug": "582286ce",
+  "saleCount": 1,
+  "keywords": "钞,1993年,年美,美国,国美,美元,元纸,纸钞,外国/特区",
+  "priceStats": {
+    "low": 1300,
+    "high": 1300,
+    "avg": 1300,
+    "latest": 1300
+  },
+  "records": [
+    {
+      "coinName": "1993年美国100美元纸钞",
+      "normalizedBoxCode": "2082213072",
+      "displayBoxCode": "2082213-072",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10431528.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2082213-072/",
+      "price": 1300,
+      "priceWithFee": 1443,
+      "transactedAt": "2026-07-30 22:21:10",
+      "productCode": "878665001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,1993年,年美,美国,国美,美元,元纸,纸钞,外国/特区"
+    }
+  ]
+}

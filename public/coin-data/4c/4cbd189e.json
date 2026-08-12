@@ -1,15 +1,32 @@
 {
   "coinName": "民国十年东三省银行兑换券哈尔滨地名贰角",
   "slug": "4cbd189e",
-  "saleCount": 1,
+  "saleCount": 2,
   "keywords": "银,历史币,民国,国十,十年,年东,东三,三省,省银,银行,行兑,兑换,换券,券哈,哈尔,尔滨,滨地,地名,名贰,贰角",
   "priceStats": {
     "low": 1200,
-    "high": 1200,
-    "avg": 1200,
-    "latest": 1200
+    "high": 2950,
+    "avg": 2075,
+    "latest": 2950
   },
   "records": [
+    {
+      "coinName": "民国十年东三省银行兑换券哈尔滨地名贰角",
+      "normalizedBoxCode": "2438126048",
+      "displayBoxCode": "2438126-048",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/minguoshengshigejiyinhangzhichao/10397101.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2438126-048/",
+      "price": 2950,
+      "priceWithFee": 3274.5,
+      "transactedAt": "2026-08-06 20:29:20",
+      "productCode": "874270020",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国十,十年,年东,东三,三省,省银,银行,行兑,兑换,换券,券哈,哈尔,尔滨,滨地,地名,名贰,贰角"
+    },
     {
       "coinName": "民国十年东三省银行兑换券哈尔滨地名贰角",
       "normalizedBoxCode": "2277459046",

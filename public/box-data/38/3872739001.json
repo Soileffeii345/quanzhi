@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "3872739001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "3872739001",
+      "displayBoxCode": "3872739-001",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1980年中国奥林匹克委员会-古代蹴鞠30克加厚精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10424164.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3872739-001/",
+      "price": 10800,
+      "priceWithFee": 11178,
+      "transactedAt": "2026-07-30 20:14:45",
+      "productCode": "877968001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/877968001A.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1980年,30克,年中,中国,国奥,奥林,林匹,匹克,克委,委员,员会,会古,古代,代蹴,蹴鞠,鞠克,克加,加厚,厚精,精制,制银,银币,评级"
+    }
+  ]
+}

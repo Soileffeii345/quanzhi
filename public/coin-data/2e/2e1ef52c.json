@@ -1,0 +1,31 @@
+{
+  "coinName": "明-永历通宝壹分",
+  "slug": "2e1ef52c",
+  "saleCount": 1,
+  "keywords": "明永,永历,历通,通宝,宝壹,壹分",
+  "priceStats": {
+    "low": 390,
+    "high": 390,
+    "avg": 390,
+    "latest": 390
+  },
+  "records": [
+    {
+      "coinName": "明-永历通宝壹分",
+      "normalizedBoxCode": "1118477067",
+      "displayBoxCode": "1118477-067",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/guqian/10412208.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1118477-067/",
+      "price": 390,
+      "priceWithFee": 429,
+      "transactedAt": "2026-08-10 21:23:05",
+      "productCode": "876352009",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "明永,永历,历通,通宝,宝壹,壹分"
+    }
+  ]
+}

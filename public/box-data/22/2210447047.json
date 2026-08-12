@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2210447047",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2210447047",
+      "displayBoxCode": "2210447-047",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "第二版人民币伍角浅版水库（有水印）",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/dierbanrenminbi/10438318.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2210447-047/",
+      "price": 290,
+      "priceWithFee": 313.2,
+      "transactedAt": "2026-08-01 21:51:45",
+      "productCode": "879091008",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/31/879091008B.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,第二,二版,版人,人民,民币,币伍,伍角,角浅,浅版,版水,水库,库有,有水,水印"
+    }
+  ]
+}

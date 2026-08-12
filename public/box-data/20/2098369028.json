@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2098369028",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2098369028",
+      "displayBoxCode": "2098369-028",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "第一版人民币立交桥20元",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/diyibanrenminbi/10424891.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2098369-028/",
+      "price": 3000,
+      "priceWithFee": 3300,
+      "transactedAt": "2026-07-30 21:38:10",
+      "productCode": "877850008",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/877850008B.jpg",
+      "ocrConfidence": 31,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,第一,一版,版人,人民,民币,币立,立交,交桥,桥元"
+    }
+  ]
+}

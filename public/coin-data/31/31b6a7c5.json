@@ -1,15 +1,49 @@
 {
   "coinName": "1994年熊猫15.552克普制银币",
   "slug": "31b6a7c5",
-  "saleCount": 3,
-  "keywords": "银,币,1994年,2盎司,熊猫,年熊,猫盎,盎司,司普,普制,制银,银币",
+  "saleCount": 5,
+  "keywords": "银,币,1994年,2盎司,熊猫,年熊,猫盎,盎司,司普,普制,制银,银币,币二,二枚,币大,大字,字版",
   "priceStats": {
     "low": 350,
-    "high": 410,
-    "avg": 387,
-    "latest": 400
+    "high": 870,
+    "avg": 524,
+    "latest": 870
   },
   "records": [
+    {
+      "coinName": "1994年熊猫1/2盎司普制银币二枚",
+      "normalizedBoxCode": "8358460095",
+      "displayBoxCode": "8358460-095",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-jiuyin/10433883.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8358460-095/",
+      "price": 870,
+      "priceWithFee": 900.45,
+      "transactedAt": "2026-08-03 21:33:30",
+      "productCode": "878997007",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1994年,2盎司,熊猫,年熊,猫盎,盎司,司普,普制,制银,银币,币二,二枚"
+    },
+    {
+      "coinName": "1994年熊猫1/2盎司普制银币（大字版）",
+      "normalizedBoxCode": "8174431088",
+      "displayBoxCode": "8174431-088",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-jiuyin/10433884.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8174431-088/",
+      "price": 590,
+      "priceWithFee": 610.65,
+      "transactedAt": "2026-08-03 20:57:40",
+      "productCode": "878997008",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1994年,2盎司,熊猫,年熊,猫盎,盎司,司普,普制,制银,银币,币大,大字,字版"
+    },
     {
       "coinName": "1994年熊猫1/2盎司普制银币",
       "normalizedBoxCode": "6150194004",

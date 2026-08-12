@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2483369041",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2483369041",
+      "displayBoxCode": "2483369-041",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "民国二十七年福建省银行壹分",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/minguoshengshigejiyinhangzhichao/10395155.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2483369-041/",
+      "price": 3250,
+      "priceWithFee": 3607.5,
+      "transactedAt": "2026-07-30 21:55:10",
+      "productCode": "874269005",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/874269005B.jpg",
+      "ocrConfidence": 41,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国二,二十,十七,七年,年福,福建,建省,省银,银行,行壹,壹分"
+    }
+  ]
+}

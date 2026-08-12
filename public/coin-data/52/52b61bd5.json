@@ -1,0 +1,31 @@
+{
+  "coinName": "1923年美国1美元纸钞",
+  "slug": "52b61bd5",
+  "saleCount": 1,
+  "keywords": "钞,1923年,年美,美国,国美,美元,元纸,纸钞,外国/特区",
+  "priceStats": {
+    "low": 2350,
+    "high": 2350,
+    "avg": 2350,
+    "latest": 2350
+  },
+  "records": [
+    {
+      "coinName": "1923年美国1美元纸钞",
+      "normalizedBoxCode": "2060030038",
+      "displayBoxCode": "2060030-038",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10431534.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2060030-038/",
+      "price": 2350,
+      "priceWithFee": 2608.5,
+      "transactedAt": "2026-07-30 22:24:40",
+      "productCode": "878665007",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,1923年,年美,美国,国美,美元,元纸,纸钞,外国/特区"
+    }
+  ]
+}

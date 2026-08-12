@@ -1,0 +1,31 @@
+{
+  "coinName": "1982年熊猫15.552克普制金币",
+  "slug": "7b84ef13",
+  "saleCount": 1,
+  "keywords": "金,币,1982年,2盎司,熊猫,年熊,猫盎,盎司,司普,普制,制金,金币",
+  "priceStats": {
+    "low": 19800,
+    "high": 19800,
+    "avg": 19800,
+    "latest": 19800
+  },
+  "records": [
+    {
+      "coinName": "1982年熊猫1/2盎司普制金币",
+      "normalizedBoxCode": "8762248003",
+      "displayBoxCode": "8762248-003",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-jiujin/10444855.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8762248-003/",
+      "price": 19800,
+      "priceWithFee": 20493,
+      "transactedAt": "2026-08-06 20:44:15",
+      "productCode": "880535001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1982年,2盎司,熊猫,年熊,猫盎,盎司,司普,普制,制金,金币"
+    }
+  ]
+}

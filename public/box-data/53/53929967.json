@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "53929967",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "53929967",
+      "displayBoxCode": "53929967",
+      "gradingCompany": "PCGS",
+      "grade": "待复核",
+      "coinName": "2025年摩根及和平精制银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/579206.html",
+      "officialCertUrl": "https://cn.pcgs.com/cert/53929967",
+      "price": 1900,
+      "priceWithFee": null,
+      "transactedAt": "2026-06-01 02:44:19",
+      "productCode": "KH135507",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260511/large_sell_ydsxq8awqmwtjq7i.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2025年,年摩,摩根,根及,及和,和平,平精,精制,制银,银币,评级"
+    }
+  ]
+}

@@ -1,15 +1,32 @@
 {
   "coinName": "1995年3.11克精制金币",
   "slug": "24068925",
-  "saleCount": 3,
-  "keywords": "金,币,1995年,10盎司,年中,中国,国传,传统,统文,文化,化第,第组,组孟,孟子,子盎,盎司,司精,精制,制金,金币,评级,组唐,唐太,太宗,宗盎,组六,六合,合塔,塔盎",
+  "saleCount": 4,
+  "keywords": "金,币,1995年,10盎司,年中,中国,国传,传统,统文,文化,化第,第组,组盎,盎司,司精,精制,制金,金币,币五,五枚,枚一,一套,评级,组孟,孟子,子盎,组唐,唐太,太宗,宗盎,组六,六合,合塔,塔盎",
   "priceStats": {
     "low": 3550,
-    "high": 4200,
-    "avg": 3933,
-    "latest": 4200
+    "high": 16800,
+    "avg": 7150,
+    "latest": 16800
   },
   "records": [
+    {
+      "coinName": "1995年中国传统文化第（1）组1/10盎司精制金币五枚一套",
+      "normalizedBoxCode": "4402756008",
+      "displayBoxCode": "4402756-008",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10433923.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4402756-008/69/",
+      "price": 16800,
+      "priceWithFee": 17388,
+      "transactedAt": "2026-07-30 21:46:45",
+      "productCode": "878995003",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1995年,10盎司,年中,中国,国传,传统,统文,文化,化第,第组,组盎,盎司,司精,精制,制金,金币,币五,五枚,枚一,一套,评级"
+    },
     {
       "coinName": "1995年中国传统文化第（1）组-孟子1/10盎司精制金币",
       "normalizedBoxCode": "8758193018",

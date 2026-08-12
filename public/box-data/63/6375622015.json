@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6375622015",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6375622015",
+      "displayBoxCode": "6375622-015",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 CAMEO",
+      "coinName": "1990第11届亚洲运动会-射箭精制流通纪念币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10441511.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6375622-015/69/",
+      "price": 1320,
+      "priceWithFee": 1425.6,
+      "transactedAt": "2026-08-05 20:37:35",
+      "productCode": "879976003",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/31/879976003A.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,第届,届亚,亚洲,洲运,运动,动会,会射,射箭,箭精,精制,制流,流通,通纪,纪念,念币,评级"
+    }
+  ]
+}

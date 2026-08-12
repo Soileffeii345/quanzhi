@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "84452382",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "84452382",
+      "displayBoxCode": "84452382",
+      "gradingCompany": "PCGS",
+      "grade": "MS64",
+      "coinName": "民国二十三年孙像船洋壹圆银元",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguojindaijizhibi/10392271.shtml",
+      "officialCertUrl": "https://cn.pcgs.com/cert/84452382",
+      "price": 5600,
+      "priceWithFee": 6048,
+      "transactedAt": "2026-08-03 19:27:05",
+      "productCode": "873878001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/873878001A.jpg",
+      "ocrConfidence": 26,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,孙小头,小头,船洋,民国,国二,二十,十三,三年,年孙,孙像,像船,洋壹,壹圆,圆银,银元"
+    }
+  ]
+}

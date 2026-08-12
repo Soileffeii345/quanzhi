@@ -1,0 +1,48 @@
+{
+  "coinName": "流通纸币若干",
+  "slug": "5887b3b0",
+  "saleCount": 2,
+  "keywords": "币,流通,通纸,纸币,币若,若干",
+  "priceStats": {
+    "low": 950,
+    "high": 950,
+    "avg": 950,
+    "latest": 950
+  },
+  "records": [
+    {
+      "coinName": "流通纸币若干",
+      "normalizedBoxCode": "1850852062",
+      "displayBoxCode": "1850852-062",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/231176.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1850852-062/",
+      "price": 950,
+      "priceWithFee": null,
+      "transactedAt": "2021-05-27 09:30:25",
+      "productCode": "KH017682.....17690",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,流通,通纸,纸币,币若,若干"
+    },
+    {
+      "coinName": "流通纸币若干",
+      "normalizedBoxCode": "7052018045",
+      "displayBoxCode": "7052018-045",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/231176.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/7052018-045/",
+      "price": 950,
+      "priceWithFee": null,
+      "transactedAt": "2021-05-27 09:30:25",
+      "productCode": "KH017682.....17690",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,流通,通纸,纸币,币若,若干"
+    }
+  ]
+}

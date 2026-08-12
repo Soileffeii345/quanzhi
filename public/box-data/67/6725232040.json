@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6725232040",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6725232040",
+      "displayBoxCode": "6725232-040",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2024年吉祥文化-十全十美15克精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10430432.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6725232-040/70/",
+      "price": 470,
+      "priceWithFee": 486.45,
+      "transactedAt": "2026-08-01 20:19:20",
+      "productCode": "878705001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/23/865853006A.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2024年,15克,吉祥文化,年吉,吉祥,祥文,文化,化十,十全,全十,十美,美克,克精,精制,制银,银币,评级"
+    }
+  ]
+}

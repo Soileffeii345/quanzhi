@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2485696002",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2485696002",
+      "displayBoxCode": "2485696-002",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "中国银行拾圆反面",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10404220.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2485696-002/",
+      "price": 7200,
+      "priceWithFee": 7992,
+      "transactedAt": "2026-08-04 21:04:25",
+      "productCode": "875619002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/875619002B.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,中国,国银,银行,行拾,拾圆,圆反,反面"
+    }
+  ]
+}

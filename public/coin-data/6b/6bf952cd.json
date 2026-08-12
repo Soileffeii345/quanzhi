@@ -1,15 +1,32 @@
 {
   "coinName": "第二版人民币轮船5分",
   "slug": "6bf952cd",
-  "saleCount": 3,
+  "saleCount": 4,
   "keywords": "币,第二,二版,版人,人民,民币,币轮,轮船,船分",
   "priceStats": {
-    "low": 1380,
+    "low": 1340,
     "high": 4800,
-    "avg": 2607,
-    "latest": 1380
+    "avg": 2290,
+    "latest": 1340
   },
   "records": [
+    {
+      "coinName": "第二版人民币轮船5分",
+      "normalizedBoxCode": "2227825041",
+      "displayBoxCode": "2227825-041",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/dierbanrenminbi/10427499.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2227825-041/",
+      "price": 1340,
+      "priceWithFee": 1447.2,
+      "transactedAt": "2026-08-01 21:40:25",
+      "productCode": "877882039",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,第二,二版,版人,人民,民币,币轮,轮船,船分"
+    },
     {
       "coinName": "第二版人民币轮船5分",
       "normalizedBoxCode": "2149518062",

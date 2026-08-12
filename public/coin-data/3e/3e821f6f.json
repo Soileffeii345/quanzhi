@@ -1,0 +1,31 @@
+{
+  "coinName": "1998年英国不列颠31.104克银币",
+  "slug": "3e821f6f",
+  "saleCount": 1,
+  "keywords": "银,币,1998年,1盎司,年英,英国,国不,不列,列颠,颠女,女神,神盎,盎司,司银,银币,外国/特区",
+  "priceStats": {
+    "low": 500,
+    "high": 500,
+    "avg": 500,
+    "latest": 500
+  },
+  "records": [
+    {
+      "coinName": "1998年英国不列颠女神1盎司银币",
+      "normalizedBoxCode": "8657410009",
+      "displayBoxCode": "8657410-009",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/yingguobuliedie/10417006.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8657410-009/",
+      "price": 500,
+      "priceWithFee": 530,
+      "transactedAt": "2026-07-24 21:20:55",
+      "productCode": "877048014",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1998年,1盎司,年英,英国,国不,不列,列颠,颠女,女神,神盎,盎司,司银,银币,外国/特区"
+    }
+  ]
+}

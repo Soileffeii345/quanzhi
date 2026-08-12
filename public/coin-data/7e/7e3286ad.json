@@ -1,15 +1,49 @@
 {
   "coinName": "2010年银币",
   "slug": "7e3286ad",
-  "saleCount": 1,
-  "keywords": "银,币,2010年,年香,香港,港上,上海,海汇,汇丰,丰银,银行,行有,有限,限公,公司,司港,港币,币壹,壹佰,佰元,外国/特区",
+  "saleCount": 3,
+  "keywords": "银,币,2010年,年中,中国,国银,银行,行香,香港,港有,有限,限公,公司,司港,港币,币壹,壹佰,佰圆,外国/特区,年香,港渣,渣打,打银,行港,币贰,贰拾,拾圆,港上,上海,海汇,汇丰,丰银,行有,佰元",
   "priceStats": {
-    "low": 270,
+    "low": 150,
     "high": 270,
-    "avg": 270,
-    "latest": 270
+    "avg": 217,
+    "latest": 150
   },
   "records": [
+    {
+      "coinName": "2010年中国银行（香港）有限公司港币壹佰圆",
+      "normalizedBoxCode": "2559550074",
+      "displayBoxCode": "2559550-074",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/liantichao-jinianchao/10449231.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2559550-074/",
+      "price": 150,
+      "priceWithFee": 162,
+      "transactedAt": "2026-08-08 19:23:35",
+      "productCode": "880972005",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2010年,年中,中国,国银,银行,行香,香港,港有,有限,限公,公司,司港,港币,币壹,壹佰,佰圆,外国/特区"
+    },
+    {
+      "coinName": "2010年香港渣打银行港币贰拾圆",
+      "normalizedBoxCode": "2559422046",
+      "displayBoxCode": "2559422-046",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/liantichao-jinianchao/10431752.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2559422-046/",
+      "price": 230,
+      "priceWithFee": 248.4,
+      "transactedAt": "2026-08-01 19:26:45",
+      "productCode": "878682004",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2010年,年香,香港,港渣,渣打,打银,银行,行港,港币,币贰,贰拾,拾圆,外国/特区"
+    },
     {
       "coinName": "2010年香港上海汇丰银行 有限公司港币壹佰元",
       "normalizedBoxCode": "2559422029",

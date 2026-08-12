@@ -1,15 +1,32 @@
 {
   "coinName": "民国二十四年中国农民银行拾圆",
   "slug": "2bf38c94",
-  "saleCount": 1,
+  "saleCount": 2,
   "keywords": "银,历史币,民国,国二,二十,十四,四年,年中,中国,国农,农民,民银,银行,行拾,拾圆",
   "priceStats": {
-    "low": 1540,
+    "low": 360,
     "high": 1540,
-    "avg": 1540,
-    "latest": 1540
+    "avg": 950,
+    "latest": 360
   },
   "records": [
+    {
+      "coinName": "民国二十四年中国农民银行拾圆",
+      "normalizedBoxCode": "2171606064",
+      "displayBoxCode": "2171606-064",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10395215.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2171606-064/",
+      "price": 360,
+      "priceWithFee": 399.6,
+      "transactedAt": "2026-07-30 20:52:10",
+      "productCode": "874339001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国二,二十,十四,四年,年中,中国,国农,农民,民银,银行,行拾,拾圆"
+    },
     {
       "coinName": "民国二十四年中国农民银行拾圆",
       "normalizedBoxCode": "1773659053",

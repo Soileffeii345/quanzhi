@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6391115045",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6391115045",
+      "displayBoxCode": "6391115-045",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1981年精制长城币贰角",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10427985.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6391115-045/",
+      "price": 1720,
+      "priceWithFee": 1857.6,
+      "transactedAt": "2026-07-29 20:33:25",
+      "productCode": "878175001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/878175001A.jpg",
+      "ocrConfidence": 37,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1981年,年精,精制,制长,长城,城币,币贰,贰角,评级"
+    }
+  ]
+}

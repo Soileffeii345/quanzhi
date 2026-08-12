@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2487144032",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2487144032",
+      "displayBoxCode": "2487144-032",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "民国二十四年福建省银行壹角",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/minguoshengshigejiyinhangzhichao/10382086.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2487144-032/",
+      "price": 710,
+      "priceWithFee": 788.1,
+      "transactedAt": "2026-07-28 21:50:50",
+      "productCode": "872625002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/27/872625002B.jpg",
+      "ocrConfidence": 28,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国二,二十,十四,四年,年福,福建,建省,省银,银行,行壹,壹角"
+    }
+  ]
+}

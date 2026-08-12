@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2240902098",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2240902098",
+      "displayBoxCode": "2240902-098",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "第二版人民币飞机2分",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/dierbanrenminbi/10435901.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2240902-098/",
+      "price": 320,
+      "priceWithFee": 345.6,
+      "transactedAt": "2026-08-06 21:01:50",
+      "productCode": "879028004",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/31/879028004B.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,第二,二版,版人,人民,民币,币飞,飞机,机分"
+    }
+  ]
+}

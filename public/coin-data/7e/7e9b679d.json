@@ -1,0 +1,31 @@
+{
+  "coinName": "1982年中国硬币壹分",
+  "slug": "7e9b679d",
+  "saleCount": 1,
+  "keywords": "币,1982年,年中,中国,国硬,硬币,币壹,壹分",
+  "priceStats": {
+    "low": 100,
+    "high": 100,
+    "avg": 100,
+    "latest": 100
+  },
+  "records": [
+    {
+      "coinName": "1982年中国硬币壹分",
+      "normalizedBoxCode": "5809308060",
+      "displayBoxCode": "5809308-060",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10441529.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/5809308-060/",
+      "price": 100,
+      "priceWithFee": 108,
+      "transactedAt": "2026-08-05 20:08:05",
+      "productCode": "879992005",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1982年,年中,中国,国硬,硬币,币壹,壹分"
+    }
+  ]
+}

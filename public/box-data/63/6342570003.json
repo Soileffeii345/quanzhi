@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6342570003",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6342570003",
+      "displayBoxCode": "6342570-003",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1984年希腊奥林匹克阿波罗金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/554135.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6342570-003/",
+      "price": 9300,
+      "priceWithFee": null,
+      "transactedAt": "2026-03-11 20:26:02",
+      "productCode": "KH123017",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260210/large_sell_tarqfhdgdptxgvhu.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1984年,年希,希腊,腊奥,奥林,林匹,匹克,克阿,阿波,波罗,罗金,金币"
+    }
+  ]
+}

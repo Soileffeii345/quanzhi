@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "1117864154",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "1117864154",
+      "displayBoxCode": "1117864-154",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "明-天启通宝十一两",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/guqian/10412203.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1117864-154/",
+      "price": 4000,
+      "priceWithFee": 4400,
+      "transactedAt": "2026-08-10 21:04:35",
+      "productCode": "876352004",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/876352004A.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "明天,天启,启通,通宝,宝十,十一,一两"
+    }
+  ]
+}

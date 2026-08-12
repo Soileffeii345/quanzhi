@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "7600128022",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "7600128022",
+      "displayBoxCode": "7600128-022",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "中国银行外汇兑换券发行40周年纪念券十枚一套",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/liantichao-jinianchao/10436362.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/7600128-022/",
+      "price": 1480,
+      "priceWithFee": 1598.4,
+      "transactedAt": "2026-08-01 20:47:25",
+      "productCode": "878871002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/31/878871002D.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,中国,国银,银行,行外,外汇,汇兑,兑换,换券,券发,发行,行周,周年,年纪,纪念,念券,券十,十枚,枚一,一套"
+    }
+  ]
+}

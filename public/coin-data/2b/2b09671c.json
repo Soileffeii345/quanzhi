@@ -1,0 +1,31 @@
+{
+  "coinName": "1956年中国硬币壹分",
+  "slug": "2b09671c",
+  "saleCount": 1,
+  "keywords": "币,1956年,年中,中国,国硬,硬币,币壹,壹分",
+  "priceStats": {
+    "low": 940,
+    "high": 940,
+    "avg": 940,
+    "latest": 940
+  },
+  "records": [
+    {
+      "coinName": "1956年中国硬币壹分",
+      "normalizedBoxCode": "0391154001",
+      "displayBoxCode": "0391154-001",
+      "gradingCompany": "NGC",
+      "grade": "Ms 66",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10423879.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/0391154-001/66/",
+      "price": 940,
+      "priceWithFee": 1015.2,
+      "transactedAt": "2026-07-29 20:16:45",
+      "productCode": "877610003",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1956年,年中,中国,国硬,硬币,币壹,壹分"
+    }
+  ]
+}

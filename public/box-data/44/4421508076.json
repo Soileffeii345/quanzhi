@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4421508076",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4421508076",
+      "displayBoxCode": "4421508-076",
+      "gradingCompany": "NGC",
+      "grade": "MS 64",
+      "coinName": "1981年长城币伍角、2006年世界文化遗产-颐和园流通纪念币各二枚，共四枚",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10429579.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4421508-076/64/",
+      "price": 120,
+      "priceWithFee": 129.6,
+      "transactedAt": "2026-07-29 21:32:05",
+      "productCode": "878249006",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/878249006A.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1981年,年长,长城,城币,币伍,伍角,角年,年世,世界,界文,文化,化遗,遗产,产颐,颐和,和园,园流,流通,通纪,纪念,念币,币各,各二,二枚,枚共,共四,四枚"
+    }
+  ]
+}

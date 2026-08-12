@@ -1,0 +1,31 @@
+{
+  "coinName": "民国十七年中央银行壹佰圆正面票样",
+  "slug": "4b0ab15b",
+  "saleCount": 1,
+  "keywords": "银,钞,历史币,民国,国十,十七,七年,年中,中央,央银,银行,行壹,壹佰,佰圆,圆正,正面,面票,票样",
+  "priceStats": {
+    "low": 5500,
+    "high": 5500,
+    "avg": 5500,
+    "latest": 5500
+  },
+  "records": [
+    {
+      "coinName": "民国十七年中央银行壹佰圆正面票样",
+      "normalizedBoxCode": "2319420048",
+      "displayBoxCode": "2319420-048",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10404306.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2319420-048/",
+      "price": 5500,
+      "priceWithFee": 6105,
+      "transactedAt": "2026-08-04 21:20:05",
+      "productCode": "875619007",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,钞,历史币,民国,国十,十七,七年,年中,中央,央银,银行,行壹,壹佰,佰圆,圆正,正面,面票,票样"
+    }
+  ]
+}

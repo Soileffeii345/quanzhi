@@ -1,0 +1,31 @@
+{
+  "coinName": "民国三十五年晋察冀边区银行伍佰圆",
+  "slug": "4e277c27",
+  "saleCount": 1,
+  "keywords": "银,历史币,民国,国三,三十,十五,五年,年晋,晋察,察冀,冀边,边区,区银,银行,行伍,伍佰,佰圆",
+  "priceStats": {
+    "low": 2250,
+    "high": 2250,
+    "avg": 2250,
+    "latest": 2250
+  },
+  "records": [
+    {
+      "coinName": "民国三十五年晋察冀边区银行伍佰圆",
+      "normalizedBoxCode": "2153666018",
+      "displayBoxCode": "2153666-018",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jiefangquzhichao/10382556.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2153666-018/",
+      "price": 2250,
+      "priceWithFee": 2497.5,
+      "transactedAt": "2026-07-28 21:30:35",
+      "productCode": "872590002",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国三,三十,十五,五年,年晋,晋察,察冀,冀边,边区,区银,银行,行伍,伍佰,佰圆"
+    }
+  ]
+}

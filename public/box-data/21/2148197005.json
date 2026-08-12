@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2148197005",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2148197005",
+      "displayBoxCode": "2148197-005",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1945年中央银行拾圆",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10394892.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2148197-005/",
+      "price": 700,
+      "priceWithFee": 777,
+      "transactedAt": "2026-07-30 19:24:10",
+      "productCode": "873834025",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/873834025B.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,1945年,年中,中央,央银,银行,行拾,拾圆"
+    }
+  ]
+}

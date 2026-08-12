@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "1510160208",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "1510160208",
+      "displayBoxCode": "1510160-208",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "中央银行纸币四枚",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10412646.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1510160-208/",
+      "price": 160,
+      "priceWithFee": 177.6,
+      "transactedAt": "2026-08-06 21:43:30",
+      "productCode": "876423029",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/876423029B.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,中央,央银,银行,行纸,纸币,币四,四枚"
+    }
+  ]
+}

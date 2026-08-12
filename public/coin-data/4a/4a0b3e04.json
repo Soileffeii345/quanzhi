@@ -1,15 +1,32 @@
 {
   "coinName": "1946年银币",
   "slug": "4a0b3e04",
-  "saleCount": 3,
-  "keywords": "银,1946年,年中,中央,央银,银行,行贰,贰角",
+  "saleCount": 4,
+  "keywords": "银,钞,1946年,年中,中央,央银,银行,行贰,贰角,角票,票样,样四,四连,连体",
   "priceStats": {
     "low": 250,
-    "high": 410,
-    "avg": 333,
-    "latest": 340
+    "high": 2000,
+    "avg": 750,
+    "latest": 2000
   },
   "records": [
+    {
+      "coinName": "1946年中央银行贰角票样四连体",
+      "normalizedBoxCode": "2491866072",
+      "displayBoxCode": "2491866-072",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10418905.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2491866-072/",
+      "price": 2000,
+      "priceWithFee": 2220,
+      "transactedAt": "2026-08-06 20:43:55",
+      "productCode": "877198007",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,钞,1946年,年中,中央,央银,银行,行贰,贰角,角票,票样,样四,四连,连体"
+    },
     {
       "coinName": "1946年中央银行贰角",
       "normalizedBoxCode": "2159569051",

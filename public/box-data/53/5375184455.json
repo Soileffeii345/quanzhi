@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "5375184455",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "5375184455",
+      "displayBoxCode": "5375184-455",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "安徽省造光绪元宝十文铜币、中华苏维埃共和国一分铜币各一枚，共二枚（后铸版）",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguojindaijizhibi/10397274.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/5375184-455/",
+      "price": 130,
+      "priceWithFee": 140.4,
+      "transactedAt": "2026-08-03 19:08:05",
+      "productCode": "874718002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/874718002A.jpg",
+      "ocrConfidence": 26,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "铜,币,历史币,龙洋,龙,元宝,苏区,安徽,徽省,省造,造光,光绪,绪元,宝十,十文,文铜,铜币,币中,中华,华苏,苏维,维埃,埃共,共和,和国,国一,一分,分铜,币各,各一,一枚,枚共,共二,二枚,枚后,后铸,铸版"
+    }
+  ]
+}

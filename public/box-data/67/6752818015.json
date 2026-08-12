@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6752818015",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6752818015",
+      "displayBoxCode": "6752818-015",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1993年挥柳观音1/20盎司普制金币（S版）",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10436348.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6752818-015/",
+      "price": 2900,
+      "priceWithFee": 3001.5,
+      "transactedAt": "2026-08-06 20:35:05",
+      "productCode": "879464002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/31/879464002A.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1993年,20盎司,宗教,年挥,挥柳,柳观,观音,音盎,盎司,司普,普制,制金,金币,币版"
+    }
+  ]
+}

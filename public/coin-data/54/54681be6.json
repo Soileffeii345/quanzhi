@@ -1,15 +1,32 @@
 {
   "coinName": "2002年熊猫31.104克普制金币",
   "slug": "54681be6",
-  "saleCount": 3,
+  "saleCount": 4,
   "keywords": "金,币,2002年,1盎司,熊猫,年熊,猫盎,盎司,司普,普制,制金,金币",
   "priceStats": {
-    "low": 31500,
+    "low": 31000,
     "high": 32000,
-    "avg": 31833,
-    "latest": 32000
+    "avg": 31625,
+    "latest": 31000
   },
   "records": [
+    {
+      "coinName": "2002年熊猫1盎司普制金币",
+      "normalizedBoxCode": "8817099004",
+      "displayBoxCode": "8817099-004",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-jiujin/10441439.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8817099-004/",
+      "price": 31000,
+      "priceWithFee": 32085,
+      "transactedAt": "2026-08-06 20:33:25",
+      "productCode": "879999002",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2002年,1盎司,熊猫,年熊,猫盎,盎司,司普,普制,制金,金币"
+    },
     {
       "coinName": "2002年熊猫1盎司普制金币",
       "normalizedBoxCode": "8765651002",

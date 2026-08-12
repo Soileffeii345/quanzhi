@@ -1,0 +1,31 @@
+{
+  "coinName": "1989年中华人民共和国国库券伍圆",
+  "slug": "7db7486f",
+  "saleCount": 1,
+  "keywords": "1989年,年中,中华,华人,人民,民共,共和,和国,国国,国库,库券,券伍,伍圆",
+  "priceStats": {
+    "low": 430,
+    "high": 430,
+    "avg": 430,
+    "latest": 430
+  },
+  "records": [
+    {
+      "coinName": "1989年中华人民共和国国库券伍圆",
+      "normalizedBoxCode": "2484955060",
+      "displayBoxCode": "2484955-060",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waihuiduihuanquan/10438345.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2484955-060/",
+      "price": 430,
+      "priceWithFee": 464.4,
+      "transactedAt": "2026-08-01 20:48:45",
+      "productCode": "879103004",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "1989年,年中,中华,华人,人民,民共,共和,和国,国国,国库,库券,券伍,伍圆"
+    }
+  ]
+}

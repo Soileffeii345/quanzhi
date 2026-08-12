@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "1882814044",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "1882814044",
+      "displayBoxCode": "1882814-044",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1979年中国银行外汇兑换券伍圆票样",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waihuiduihuanquan/10396000.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1882814-044/",
+      "price": 820,
+      "priceWithFee": 885.6,
+      "transactedAt": "2026-07-30 20:13:10",
+      "productCode": "874454026",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/874454026B.jpg",
+      "ocrConfidence": 42,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,钞,1979年,年中,中国,国银,银行,行外,外汇,汇兑,兑换,换券,券伍,伍圆,圆票,票样"
+    }
+  ]
+}

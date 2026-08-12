@@ -1,15 +1,32 @@
 {
   "coinName": "1990年龙凤1克精制金币",
   "slug": "4448f0d5",
-  "saleCount": 1,
+  "saleCount": 2,
   "keywords": "金,币,1990年,1克,年龙,龙凤,凤克,克精,精制,制金,金币,评级",
   "priceStats": {
     "low": 1720,
-    "high": 1720,
-    "avg": 1720,
-    "latest": 1720
+    "high": 1780,
+    "avg": 1750,
+    "latest": 1780
   },
   "records": [
+    {
+      "coinName": "1990年龙凤1克精制金币",
+      "normalizedBoxCode": "5806454001",
+      "displayBoxCode": "5806454-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10441936.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/5806454-001/69/",
+      "price": 1780,
+      "priceWithFee": 1842.3,
+      "transactedAt": "2026-08-03 22:22:15",
+      "productCode": "880177005",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1990年,1克,年龙,龙凤,凤克,克精,精制,制金,金币,评级"
+    },
     {
       "coinName": "1990年龙凤1克精制金币",
       "normalizedBoxCode": "8820306037",

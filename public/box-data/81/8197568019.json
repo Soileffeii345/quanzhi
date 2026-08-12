@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8197568019",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8197568019",
+      "displayBoxCode": "8197568-019",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1992年中国精制硬币5角",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10431630.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8197568-019/",
+      "price": 350,
+      "priceWithFee": 378,
+      "transactedAt": "2026-07-29 20:40:45",
+      "productCode": "878756010",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/878756010A.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1992年,年中,中国,国精,精制,制硬,硬币,币角,评级"
+    }
+  ]
+}

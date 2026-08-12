@@ -1,0 +1,48 @@
+{
+  "coinName": "1997年中国珍稀野生动物-朱鹮流通纪念币",
+  "slug": "3c56abaf",
+  "saleCount": 2,
+  "keywords": "币,1997年,年中,中国,国珍,珍稀,稀野,野生,生动,动物,物朱,朱鹮,鹮流,流通,通纪,纪念,念币",
+  "priceStats": {
+    "low": 75,
+    "high": 85,
+    "avg": 80,
+    "latest": 85
+  },
+  "records": [
+    {
+      "coinName": "1997年中国珍稀野生动物-朱鹮流通纪念币",
+      "normalizedBoxCode": "8184602109",
+      "displayBoxCode": "8184602-109",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10424849.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8184602-109/",
+      "price": 85,
+      "priceWithFee": 91.8,
+      "transactedAt": "2026-07-29 20:23:25",
+      "productCode": "877753030",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1997年,年中,中国,国珍,珍稀,稀野,野生,生动,动物,物朱,朱鹮,鹮流,流通,通纪,纪念,念币"
+    },
+    {
+      "coinName": "1997年中国珍稀野生动物-朱鹮流通纪念币",
+      "normalizedBoxCode": "8184602105",
+      "displayBoxCode": "8184602-105",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10424843.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8184602-105/",
+      "price": 75,
+      "priceWithFee": 81,
+      "transactedAt": "2026-07-29 19:47:25",
+      "productCode": "877753024",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1997年,年中,中国,国珍,珍稀,稀野,野生,生动,动物,物朱,朱鹮,鹮流,流通,通纪,纪念,念币"
+    }
+  ]
+}

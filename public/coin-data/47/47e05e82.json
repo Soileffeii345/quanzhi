@@ -1,15 +1,32 @@
 {
   "coinName": "1997年熊猫15.552克普制银币",
   "slug": "47e05e82",
-  "saleCount": 2,
-  "keywords": "银,币,1997年,2盎司,熊猫,年熊,猫盎,盎司,司普,普制,制银,银币",
+  "saleCount": 3,
+  "keywords": "银,币,1997年,2盎司,熊猫,年熊,猫盎,盎司,司普,普制,制银,银币,币二,二枚",
   "priceStats": {
     "low": 460,
-    "high": 500,
-    "avg": 480,
-    "latest": 460
+    "high": 880,
+    "avg": 613,
+    "latest": 880
   },
   "records": [
+    {
+      "coinName": "1997年熊猫1/2盎司普制银币二枚",
+      "normalizedBoxCode": "8358461021",
+      "displayBoxCode": "8358461-021",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-jiuyin/10433881.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8358461-021/69/",
+      "price": 880,
+      "priceWithFee": 910.8,
+      "transactedAt": "2026-08-03 20:23:30",
+      "productCode": "878997005",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1997年,2盎司,熊猫,年熊,猫盎,盎司,司普,普制,制银,银币,币二,二枚"
+    },
     {
       "coinName": "1997年熊猫1/2盎司普制银币",
       "normalizedBoxCode": "6744674005",

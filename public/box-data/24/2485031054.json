@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2485031054",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2485031054",
+      "displayBoxCode": "2485031-054",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "民国二十七年晋察冀边区银行伍角",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jiefangquzhichao/10399457.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2485031-054/",
+      "price": 360,
+      "priceWithFee": 399.6,
+      "transactedAt": "2026-08-06 21:38:05",
+      "productCode": "874824018",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/874824018B.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国二,二十,十七,七年,年晋,晋察,察冀,冀边,边区,区银,银行,行伍,伍角"
+    }
+  ]
+}

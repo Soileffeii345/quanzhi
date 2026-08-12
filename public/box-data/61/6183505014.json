@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6183505014",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6183505014",
+      "displayBoxCode": "6183505-014",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1986年国际和平年1/3盎司精制金币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10429920.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6183505-014/",
+      "price": 41000,
+      "priceWithFee": 42435,
+      "transactedAt": "2026-07-30 20:34:45",
+      "productCode": "878494001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/878494001A.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1986年,3盎司,年国,国际,际和,和平,平年,年盎,盎司,司精,精制,制金,金币,评级"
+    }
+  ]
+}

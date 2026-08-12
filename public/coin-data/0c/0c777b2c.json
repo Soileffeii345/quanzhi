@@ -1,15 +1,32 @@
 {
   "coinName": "第三版人民币2元古币水印",
   "slug": "0c777b2c",
-  "saleCount": 3,
+  "saleCount": 4,
   "keywords": "币,第三,三版,版人,人民,民币,币元,元古,古币,币水,水印",
   "priceStats": {
-    "low": 2900,
+    "low": 1780,
     "high": 3900,
-    "avg": 3267,
-    "latest": 2900
+    "avg": 2895,
+    "latest": 1780
   },
   "records": [
+    {
+      "coinName": "第三版人民币2元古币水印",
+      "normalizedBoxCode": "2343316003",
+      "displayBoxCode": "2343316-003",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/disanbanrenminbi/10435899.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2343316-003/",
+      "price": 1780,
+      "priceWithFee": 1922.4,
+      "transactedAt": "2026-08-06 19:55:35",
+      "productCode": "879028002",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,第三,三版,版人,人民,民币,币元,元古,古币,币水,水印"
+    },
     {
       "coinName": "第三版人民币2元古币水印",
       "normalizedBoxCode": "7020518011",

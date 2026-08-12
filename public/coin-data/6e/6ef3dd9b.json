@@ -1,0 +1,31 @@
+{
+  "coinName": "久阿尼西银币",
+  "slug": "6ef3dd9b",
+  "saleCount": 1,
+  "keywords": "银,币,久阿,阿尼,尼西,西银,银币,币六,六点,点版",
+  "priceStats": {
+    "low": 1140,
+    "high": 1140,
+    "avg": 1140,
+    "latest": 1140
+  },
+  "records": [
+    {
+      "coinName": "久阿尼西银币（六点版）",
+      "normalizedBoxCode": "88554848",
+      "displayBoxCode": "88554848",
+      "gradingCompany": "PCGS",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguojindaijizhibi/10400449.shtml",
+      "officialCertUrl": "https://cn.pcgs.com/cert/88554848",
+      "price": 1140,
+      "priceWithFee": 1231.2,
+      "transactedAt": "2026-08-03 21:14:05",
+      "productCode": "874962048",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,久阿,阿尼,尼西,西银,银币,币六,六点,点版"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8753125002",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8753125002",
+      "displayBoxCode": "8753125-002",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1993年宋庆龄诞辰100周年-坐像30克精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10429913.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8753125-002/",
+      "price": 19400,
+      "priceWithFee": 20079,
+      "transactedAt": "2026-07-30 19:36:05",
+      "productCode": "878491001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/878491001A.jpg",
+      "ocrConfidence": 32,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1993年,30克,年宋,宋庆,庆龄,龄诞,诞辰,辰周,周年,年坐,坐像,像克,克精,精制,制银,银币,评级"
+    }
+  ]
+}

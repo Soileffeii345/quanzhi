@@ -1,15 +1,32 @@
 {
   "coinName": "第四套/第四版人民币1980年版1元连号",
   "slug": "4b10bbfc",
-  "saleCount": 10,
-  "keywords": "币,1980年,第四,四套,套第,四版,版人,人民,民币,币年,年版,版元,元连,连号,号十,十枚,金,号二,二枚,枚红,红金,金龙,龙荧,荧光,光版,号三,三枚",
+  "saleCount": 11,
+  "keywords": "金,币,1980年,第四,四套,套第,四版,版人,人民,民币,币年,年版,版元,元连,连号,号十,十枚,枚红,红金,金龙,龙荧,荧光,光版,号二,二枚,号三,三枚",
   "priceStats": {
-    "low": 75,
+    "low": 50,
     "high": 2650,
-    "avg": 432,
-    "latest": 2650
+    "avg": 397,
+    "latest": 50
   },
   "records": [
+    {
+      "coinName": "第四套/第四版人民币1980年版1元连号十枚（红金龙荧光版）",
+      "normalizedBoxCode": "1045423553",
+      "displayBoxCode": "1045423-553",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/disibanrenminbi/10449996.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1045423-553/",
+      "price": 50,
+      "priceWithFee": 54,
+      "transactedAt": "2026-08-08 21:24:35",
+      "productCode": "880964007",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1980年,第四,四套,套第,四版,版人,人民,民币,币年,年版,版元,元连,连号,号十,十枚,枚红,红金,金龙,龙荧,荧光,光版"
+    },
     {
       "coinName": "第四套/第四版人民币1980年版1元连号十枚",
       "normalizedBoxCode": "1772759000",

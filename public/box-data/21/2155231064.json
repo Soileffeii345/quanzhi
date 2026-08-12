@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2155231064",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2155231064",
+      "displayBoxCode": "2155231-064",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "民国三十四年中央银行壹仟圆",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10394881.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2155231-064/",
+      "price": 510,
+      "priceWithFee": 566.1,
+      "transactedAt": "2026-07-30 19:22:10",
+      "productCode": "873834014",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/873834014B.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国三,三十,十四,四年,年中,中央,央银,银行,行壹,壹仟,仟圆"
+    }
+  ]
+}

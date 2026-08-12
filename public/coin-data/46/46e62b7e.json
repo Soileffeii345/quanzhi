@@ -1,15 +1,32 @@
 {
   "coinName": "民国二十年广东省银行银毫券伍圆",
   "slug": "46e62b7e",
-  "saleCount": 1,
+  "saleCount": 2,
   "keywords": "银,历史币,民国,国二,二十,十年,年广,广东,东省,省银,银行,行银,银毫,毫券,券伍,伍圆",
   "priceStats": {
     "low": 180,
-    "high": 180,
-    "avg": 180,
-    "latest": 180
+    "high": 260,
+    "avg": 220,
+    "latest": 260
   },
   "records": [
+    {
+      "coinName": "民国二十年广东省银行银毫券伍圆",
+      "normalizedBoxCode": "2485442051",
+      "displayBoxCode": "2485442-051",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/minguoshengshigejiyinhangzhichao/10395159.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2485442-051/",
+      "price": 260,
+      "priceWithFee": 288.6,
+      "transactedAt": "2026-07-30 21:42:40",
+      "productCode": "874269009",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国二,二十,十年,年广,广东,东省,省银,银行,行银,银毫,毫券,券伍,伍圆"
+    },
     {
       "coinName": "民国二十年广东省银行银毫券伍圆",
       "normalizedBoxCode": "2049717025",

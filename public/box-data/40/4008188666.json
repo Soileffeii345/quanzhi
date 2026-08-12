@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4008188666",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4008188666",
+      "displayBoxCode": "4008188-666",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2026年30克熊猫金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/594363.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4008188-666/",
+      "price": 27300,
+      "priceWithFee": null,
+      "transactedAt": "2026-07-02 20:46:32",
+      "productCode": "KH140808",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260701/large_sell_hicxxem16bblurpz.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2026年,30克,熊猫,年克,克熊,猫金,金币"
+    }
+  ]
+}

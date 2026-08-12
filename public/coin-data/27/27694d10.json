@@ -1,0 +1,31 @@
+{
+  "coinName": "2018年熊猫150克普制金币",
+  "slug": "27694d10",
+  "saleCount": 1,
+  "keywords": "金,币,2018年,150克,熊猫,年熊,猫克,克普,普制,制金,金币",
+  "priceStats": {
+    "low": 133000,
+    "high": 133000,
+    "avg": 133000,
+    "latest": 133000
+  },
+  "records": [
+    {
+      "coinName": "2018年熊猫150克普制金币",
+      "normalizedBoxCode": "2018010800",
+      "displayBoxCode": "2018010-800",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-xinjin/10442315.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2018010-800/",
+      "price": 133000,
+      "priceWithFee": 137655,
+      "transactedAt": "2026-08-06 20:50:55",
+      "productCode": "880274001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2018年,150克,熊猫,年熊,猫克,克普,普制,制金,金币"
+    }
+  ]
+}

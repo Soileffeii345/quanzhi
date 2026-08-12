@@ -1,15 +1,49 @@
 {
   "coinName": "1990年生肖31.104克精制金币",
   "slug": "3b996159",
-  "saleCount": 3,
+  "saleCount": 5,
   "keywords": "金,币,1990年,1盎司,生肖,年庚,庚午,午马,马年,年生,肖盎,盎司,司精,精制,制金,金币,评级",
   "priceStats": {
-    "low": 35000,
+    "low": 34500,
     "high": 35500,
-    "avg": 35167,
+    "avg": 35000,
     "latest": 35000
   },
   "records": [
+    {
+      "coinName": "1990年庚午马年生肖1盎司精制金币",
+      "normalizedBoxCode": "4536145031",
+      "displayBoxCode": "4536145-031",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-jin/10436424.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4536145-031/69/",
+      "price": 35000,
+      "priceWithFee": 36225,
+      "transactedAt": "2026-07-30 21:49:25",
+      "productCode": "879465002",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1990年,1盎司,生肖,年庚,庚午,午马,马年,年生,肖盎,盎司,司精,精制,制金,金币,评级"
+    },
+    {
+      "coinName": "1990年庚午马年生肖1盎司精制金币",
+      "normalizedBoxCode": "6177730004",
+      "displayBoxCode": "6177730-004",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-jin/10436425.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6177730-004/",
+      "price": 34500,
+      "priceWithFee": 35707.5,
+      "transactedAt": "2026-07-30 21:03:25",
+      "productCode": "879465003",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1990年,1盎司,生肖,年庚,庚午,午马,马年,年生,肖盎,盎司,司精,精制,制金,金币,评级"
+    },
     {
       "coinName": "1990年庚午马年生肖1盎司精制金币",
       "normalizedBoxCode": "6194549006",

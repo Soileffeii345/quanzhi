@@ -1,15 +1,32 @@
 {
   "coinName": "2007年银币",
   "slug": "7e40c887",
-  "saleCount": 1,
-  "keywords": "银,币,2007年,年中,中国,国银,银行,行香,香港,港有,有限,限公,公司,司港,港币,币伍,伍佰,佰圆,外国/特区",
+  "saleCount": 2,
+  "keywords": "银,币,2007年,年中,中国,国银,银行,行港,港币,币元,行香,香港,港有,有限,限公,公司,司港,币伍,伍佰,佰圆,外国/特区",
   "priceStats": {
-    "low": 1000,
+    "low": 790,
     "high": 1000,
-    "avg": 1000,
-    "latest": 1000
+    "avg": 895,
+    "latest": 790
   },
   "records": [
+    {
+      "coinName": "2007年中国银行港币500元",
+      "normalizedBoxCode": "2503385047",
+      "displayBoxCode": "2503385-047",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/liantichao-jinianchao/10444953.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2503385-047/",
+      "price": 790,
+      "priceWithFee": 853.2,
+      "transactedAt": "2026-08-06 19:01:25",
+      "productCode": "880519001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2007年,年中,中国,国银,银行,行港,港币,币元"
+    },
     {
       "coinName": "2007年中国银行（香港）有限公司港币伍佰圆",
       "normalizedBoxCode": "1861579053",

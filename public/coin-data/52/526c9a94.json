@@ -1,0 +1,48 @@
+{
+  "coinName": "2000年熊猫3.11克普制金币",
+  "slug": "526c9a94",
+  "saleCount": 2,
+  "keywords": "金,币,2000年,10盎司,熊猫,年熊,猫盎,盎司,司普,普制,制金,金币,币上,上海,海版",
+  "priceStats": {
+    "low": 4500,
+    "high": 4850,
+    "avg": 4675,
+    "latest": 4500
+  },
+  "records": [
+    {
+      "coinName": "2000年熊猫1/10盎司普制金币",
+      "normalizedBoxCode": "4403926002",
+      "displayBoxCode": "4403926-002",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-jiujin/10436399.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4403926-002/",
+      "price": 4500,
+      "priceWithFee": 4657.5,
+      "transactedAt": "2026-08-06 20:47:35",
+      "productCode": "879389008",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2000年,10盎司,熊猫,年熊,猫盎,盎司,司普,普制,制金,金币"
+    },
+    {
+      "coinName": "2000年熊猫1/10盎司普制金币（上海版）",
+      "normalizedBoxCode": "5756001002",
+      "displayBoxCode": "5756001-002",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-jiujin/10435787.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/5756001-002/69/",
+      "price": 4850,
+      "priceWithFee": 5019.75,
+      "transactedAt": "2026-07-30 21:52:45",
+      "productCode": "879101001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2000年,10盎司,熊猫,年熊,猫盎,盎司,司普,普制,制金,金币,币上,上海,海版"
+    }
+  ]
+}

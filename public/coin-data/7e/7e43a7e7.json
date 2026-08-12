@@ -1,0 +1,31 @@
+{
+  "coinName": "2009年生肖",
+  "slug": "7e43a7e7",
+  "saleCount": 1,
+  "keywords": "币,2009年,生肖,年年,年生,肖流,流通,通纪,纪念,念币,币四,四枚",
+  "priceStats": {
+    "low": 80,
+    "high": 80,
+    "avg": 80,
+    "latest": 80
+  },
+  "records": [
+    {
+      "coinName": "2009年-2016年生肖流通纪念币四枚",
+      "normalizedBoxCode": "4316106055",
+      "displayBoxCode": "4316106-055",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10425124.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4316106-055/69/",
+      "price": 80,
+      "priceWithFee": 86.4,
+      "transactedAt": "2026-07-29 19:23:25",
+      "productCode": "877935002",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2009年,生肖,年年,年生,肖流,流通,通纪,纪念,念币,币四,四枚"
+    }
+  ]
+}

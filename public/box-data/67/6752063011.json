@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6752063011",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6752063011",
+      "displayBoxCode": "6752063-011",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "coinName": "1974年中国硬币壹分",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10431627.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6752063-011/69/",
+      "price": 310,
+      "priceWithFee": 334.8,
+      "transactedAt": "2026-07-29 21:00:45",
+      "productCode": "878756007",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/878756007A.jpg",
+      "ocrConfidence": 39,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1974年,年中,中国,国硬,硬币,币壹,壹分"
+    }
+  ]
+}

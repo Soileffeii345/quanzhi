@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8754703034",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8754703034",
+      "displayBoxCode": "8754703-034",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1984年第23届奥运会-女子排球1/2盎司精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10443217.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8754703-034/69/",
+      "price": 1600,
+      "priceWithFee": 1656,
+      "transactedAt": "2026-08-03 22:07:40",
+      "productCode": "880261025",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/31/880261025A.jpg",
+      "ocrConfidence": 30,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1984年,2盎司,奥运,年第,第届,届奥,运会,会女,女子,子排,排球,球盎,盎司,司精,精制,制银,银币,评级"
+    }
+  ]
+}

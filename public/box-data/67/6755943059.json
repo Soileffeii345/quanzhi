@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6755943059",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6755943059",
+      "displayBoxCode": "6755943-059",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1987年中美友好1盎司精制金章",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10446871.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6755943-059/69/",
+      "price": 31500,
+      "priceWithFee": 32602.5,
+      "transactedAt": "2026-08-10 22:07:10",
+      "productCode": "880849005",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/32/880849005A.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,章,1987年,1盎司,年中,中美,美友,友好,好盎,盎司,司精,精制,制金,金章,评级"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "coinName": "2007年生肖15.552克银币",
+  "slug": "28bc5869",
+  "saleCount": 1,
+  "keywords": "银,币,2007年,2盎司,生肖,年澳,澳大,大利,利亚,亚盎,盎司,司生,肖猪,猪彩,彩银,银币,外国/特区",
+  "priceStats": {
+    "low": 460,
+    "high": 460,
+    "avg": 460,
+    "latest": 460
+  },
+  "records": [
+    {
+      "coinName": "2007年澳大利亚1/2盎司生肖猪彩银币",
+      "normalizedBoxCode": "88130069",
+      "displayBoxCode": "88130069",
+      "gradingCompany": "PCGS",
+      "grade": "MS68",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/322208.html",
+      "officialCertUrl": "https://cn.pcgs.com/cert/88130069",
+      "price": 460,
+      "priceWithFee": null,
+      "transactedAt": "2026-03-29 08:48:26",
+      "productCode": "KH126154",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2007年,2盎司,生肖,年澳,澳大,大利,利亚,亚盎,盎司,司生,肖猪,猪彩,彩银,银币,外国/特区"
+    }
+  ]
+}

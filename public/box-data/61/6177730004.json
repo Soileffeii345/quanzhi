@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6177730004",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6177730004",
+      "displayBoxCode": "6177730-004",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1990年庚午马年生肖1盎司精制金币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-jin/10436425.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6177730-004/",
+      "price": 34500,
+      "priceWithFee": 35707.5,
+      "transactedAt": "2026-07-30 21:03:25",
+      "productCode": "879465003",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/31/879465003A.jpg",
+      "ocrConfidence": 32,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1990年,1盎司,生肖,年庚,庚午,午马,马年,年生,肖盎,盎司,司精,精制,制金,金币,评级"
+    }
+  ]
+}

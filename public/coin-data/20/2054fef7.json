@@ -1,0 +1,31 @@
+{
+  "coinName": "香港渣打银行拾圆",
+  "slug": "2054fef7",
+  "saleCount": 1,
+  "keywords": "银,香港,港渣,渣打,打银,银行,行拾,拾圆,外国/特区",
+  "priceStats": {
+    "low": 360,
+    "high": 360,
+    "avg": 360,
+    "latest": 360
+  },
+  "records": [
+    {
+      "coinName": "香港渣打银行拾圆",
+      "normalizedBoxCode": "2313229126",
+      "displayBoxCode": "2313229-126",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xianggangzhichao/10435092.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2313229-126/",
+      "price": 360,
+      "priceWithFee": 399.6,
+      "transactedAt": "2026-08-04 19:30:05",
+      "productCode": "878688003",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,香港,港渣,渣打,打银,银行,行拾,拾圆,外国/特区"
+    }
+  ]
+}

@@ -1,15 +1,32 @@
 {
   "coinName": "第二版人民币水库5角浅版有水印",
   "slug": "6de7e547",
-  "saleCount": 17,
+  "saleCount": 18,
   "keywords": "币,第二,二版,版人,人民,民币,币水,水库,库角,角浅,浅版,版有,有水,水印,印二,二枚",
   "priceStats": {
     "low": 240,
     "high": 560,
-    "avg": 374,
-    "latest": 560
+    "avg": 368,
+    "latest": 280
   },
   "records": [
+    {
+      "coinName": "第二版人民币水库5角浅版有水印",
+      "normalizedBoxCode": "2485527017",
+      "displayBoxCode": "2485527-017",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/dierbanrenminbi/10431951.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2485527-017/",
+      "price": 280,
+      "priceWithFee": 302.4,
+      "transactedAt": "2026-07-30 20:45:40",
+      "productCode": "878699001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,第二,二版,版人,人民,民币,币水,水库,库角,角浅,浅版,版有,有水,水印"
+    },
     {
       "coinName": "第二版人民币水库5角浅版有水印二枚",
       "normalizedBoxCode": "8004333009",

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8817042024",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8817042024",
+      "displayBoxCode": "8817042-024",
+      "gradingCompany": "NGC",
+      "grade": "PF70 ULTRA CAMEO",
+      "coinName": "2026年水月观音镀金纪念章",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/tongzhang/10431291.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8817042-024/70/",
+      "price": 230,
+      "priceWithFee": 255.3,
+      "transactedAt": "2026-07-31 20:41:00",
+      "productCode": "878707006",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/878707006A.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,章,2026年,宗教,年水,水月,月观,观音,音镀,镀金,金纪,纪念,念章"
+    }
+  ]
+}

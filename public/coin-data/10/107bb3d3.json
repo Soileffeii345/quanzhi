@@ -1,0 +1,31 @@
+{
+  "coinName": "民国三十年中国农民银行伍佰圆",
+  "slug": "107bb3d3",
+  "saleCount": 1,
+  "keywords": "银,历史币,民国,国三,三十,十年,年中,中国,国农,农民,民银,银行,行伍,伍佰,佰圆",
+  "priceStats": {
+    "low": 1040,
+    "high": 1040,
+    "avg": 1040,
+    "latest": 1040
+  },
+  "records": [
+    {
+      "coinName": "民国三十年中国农民银行伍佰圆",
+      "normalizedBoxCode": "2275671052",
+      "displayBoxCode": "2275671-052",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10412234.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2275671-052/",
+      "price": 1040,
+      "priceWithFee": 1154.4,
+      "transactedAt": "2026-08-06 21:41:50",
+      "productCode": "876366008",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国三,三十,十年,年中,中国,国农,农民,民银,银行,行伍,伍佰,佰圆"
+    }
+  ]
+}

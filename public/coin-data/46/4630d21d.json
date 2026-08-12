@@ -1,0 +1,31 @@
+{
+  "coinName": "1985年中国硬币贰分",
+  "slug": "4630d21d",
+  "saleCount": 1,
+  "keywords": "币,1985年,年中,中国,国硬,硬币,币贰,贰分",
+  "priceStats": {
+    "low": 95,
+    "high": 95,
+    "avg": 95,
+    "latest": 95
+  },
+  "records": [
+    {
+      "coinName": "1985年中国硬币贰分",
+      "normalizedBoxCode": "5814788069",
+      "displayBoxCode": "5814788-069",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10441534.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/5814788-069/",
+      "price": 95,
+      "priceWithFee": 102.6,
+      "transactedAt": "2026-08-05 20:40:05",
+      "productCode": "879992010",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1985年,年中,中国,国硬,硬币,币贰,贰分"
+    }
+  ]
+}

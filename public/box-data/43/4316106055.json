@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4316106055",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4316106055",
+      "displayBoxCode": "4316106-055",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "coinName": "2009年-2016年生肖流通纪念币四枚",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10425124.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4316106-055/69/",
+      "price": 80,
+      "priceWithFee": 86.4,
+      "transactedAt": "2026-07-29 19:23:25",
+      "productCode": "877935002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/877935002A.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2009年,生肖,年年,年生,肖流,流通,通纪,纪念,念币,币四,四枚"
+    }
+  ]
+}

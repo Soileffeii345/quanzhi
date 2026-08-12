@@ -1,0 +1,31 @@
+{
+  "coinName": "2016年-2022年流通纪念币13枚",
+  "slug": "450d90be",
+  "saleCount": 1,
+  "keywords": "币,2016年,年年,年流,流通,通纪,纪念,念币,币枚",
+  "priceStats": {
+    "low": 280,
+    "high": 280,
+    "avg": 280,
+    "latest": 280
+  },
+  "records": [
+    {
+      "coinName": "2016年-2022年流通纪念币13枚",
+      "normalizedBoxCode": "6857359069",
+      "displayBoxCode": "6857359-069",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10441576.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6857359-069/",
+      "price": 280,
+      "priceWithFee": 302.4,
+      "transactedAt": "2026-08-05 20:06:35",
+      "productCode": "880035007",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2016年,年年,年流,流通,通纪,纪念,念币,币枚"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "coinName": "1990年第四版人民币贰圆",
+  "slug": "058283c3",
+  "saleCount": 1,
+  "keywords": "币,1990年,年第,第四,四版,版人,人民,民币,币贰,贰圆",
+  "priceStats": {
+    "low": 160,
+    "high": 160,
+    "avg": 160,
+    "latest": 160
+  },
+  "records": [
+    {
+      "coinName": "1990年第四版人民币贰圆",
+      "normalizedBoxCode": "7058248105",
+      "displayBoxCode": "7058248-105",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/487280.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/7058248-105/",
+      "price": 160,
+      "priceWithFee": null,
+      "transactedAt": "2025-08-11 17:03:44",
+      "productCode": "KH077972",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1990年,年第,第四,四版,版人,人民,民币,币贰,贰圆"
+    }
+  ]
+}

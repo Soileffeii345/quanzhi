@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2225732043",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2225732043",
+      "displayBoxCode": "2225732-043",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "民国二十年交通银行上海地名壹圆",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10401702.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2225732-043/",
+      "price": 460,
+      "priceWithFee": 510.6,
+      "transactedAt": "2026-08-06 19:28:30",
+      "productCode": "874987010",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/874987010B.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国二,二十,十年,年交,交通,通银,银行,行上,上海,海地,地名,名壹,壹圆"
+    }
+  ]
+}

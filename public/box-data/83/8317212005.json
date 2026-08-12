@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8317212005",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8317212005",
+      "displayBoxCode": "8317212-005",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2019年己亥猪年生肖1公斤精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10437083.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8317212-005/",
+      "price": 19600,
+      "priceWithFee": 20286,
+      "transactedAt": "2026-08-06 19:31:05",
+      "productCode": "879468004",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/31/879468004A.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2019年,1公斤,生肖,年己,己亥,亥猪,猪年,年生,肖公,公斤,斤精,精制,制银,银币,评级"
+    }
+  ]
+}

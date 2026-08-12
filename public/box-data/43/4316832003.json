@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4316832003",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4316832003",
+      "displayBoxCode": "4316832-003",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2016年吉祥文化-五福拱寿30克精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10435730.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4316832-003/69/",
+      "price": 610,
+      "priceWithFee": 631.35,
+      "transactedAt": "2026-08-03 20:37:40",
+      "productCode": "879089009",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/31/879089009A.jpg",
+      "ocrConfidence": 39,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2016年,30克,吉祥文化,年吉,吉祥,祥文,文化,化五,五福,福拱,拱寿,寿克,克精,精制,制银,银币,评级"
+    }
+  ]
+}

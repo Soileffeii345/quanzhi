@@ -1,15 +1,32 @@
 {
   "coinName": "1913年银币",
   "slug": "49d34f5e",
-  "saleCount": 1,
-  "keywords": "银,币,1913年,年德,德国,国普,普鲁,鲁士,士战,战胜,胜拿,拿破,破仑,仑马,马克,克银,银币,币版,外国/特区",
+  "saleCount": 2,
+  "keywords": "银,币,1913年,年英,英比,比实,实业,业银,银行,行湖,湖南,南通,通用,用银,银币,币伍,伍两,年德,德国,国普,普鲁,鲁士,士战,战胜,胜拿,拿破,破仑,仑马,马克,克银,币版,外国/特区",
   "priceStats": {
     "low": 3200,
-    "high": 3200,
-    "avg": 3200,
-    "latest": 3200
+    "high": 4600,
+    "avg": 3900,
+    "latest": 4600
   },
   "records": [
+    {
+      "coinName": "1913年英比实业银行湖南通用银币伍两",
+      "normalizedBoxCode": "2316015022",
+      "displayBoxCode": "2316015-022",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/yangshangkechao/10412755.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2316015-022/",
+      "price": 4600,
+      "priceWithFee": 5106,
+      "transactedAt": "2026-08-06 20:46:50",
+      "productCode": "876676001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1913年,年英,英比,比实,实业,业银,银行,行湖,湖南,南通,通用,用银,银币,币伍,伍两"
+    },
     {
       "coinName": "1913年德国普鲁士战胜拿破仑3马克银币(P版)",
       "normalizedBoxCode": "3935041006",

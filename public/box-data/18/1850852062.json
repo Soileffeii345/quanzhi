@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "1850852062",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "1850852062",
+      "displayBoxCode": "1850852-062",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "流通纸币若干",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/231176.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1850852-062/",
+      "price": 950,
+      "priceWithFee": null,
+      "transactedAt": "2021-05-27 09:30:25",
+      "productCode": "KH017682.....17690",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20210524/large_9789_5_1621863339.jpeg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,流通,通纸,纸币,币若,若干"
+    }
+  ]
+}

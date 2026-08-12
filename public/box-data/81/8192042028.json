@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8192042028",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8192042028",
+      "displayBoxCode": "8192042-028",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2025年30克熊猫金币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/598090.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8192042-028/",
+      "price": 27130,
+      "priceWithFee": null,
+      "transactedAt": "2026-07-18 10:37:38",
+      "productCode": "KH142178",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260718/large_sell_ow4nxebfcbr4zjvn.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2025年,30克,熊猫,年克,克熊,猫金,金币"
+    }
+  ]
+}

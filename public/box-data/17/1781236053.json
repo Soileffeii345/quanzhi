@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "1781236053",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "1781236053",
+      "displayBoxCode": "1781236-053",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "第四套/第四版人民币1980年版2元十枚（绿钻荧光版）",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/disibanrenminbi/10451183.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1781236-053/",
+      "price": 510,
+      "priceWithFee": 550.8,
+      "transactedAt": "2026-08-08 21:08:35",
+      "productCode": "881230001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/32/881230001E.jpg",
+      "ocrConfidence": 30,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1980年,第四,四套,套第,四版,版人,人民,民币,币年,年版,版元,元十,十枚,枚绿,绿钻,钻荧,荧光,光版"
+    }
+  ]
+}

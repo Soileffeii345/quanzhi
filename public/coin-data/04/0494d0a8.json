@@ -1,12 +1,12 @@
 {
   "coinName": "2020年3盎司金币",
   "slug": "0494d0a8",
-  "saleCount": 1,
-  "keywords": "金,银,币,2020年,3盎司,年纽,纽埃,埃矩,矩阵,阵艺,艺术,术系,系列,列古,古斯,斯塔,塔夫,夫克,克里,里姆,姆名,名画,画黄,黄金,金泪,泪盎,盎司,司彩,彩银,银币",
+  "saleCount": 3,
+  "keywords": "金,银,币,2020年,3盎司,年纽,纽埃,埃矩,矩阵,阵艺,艺术,术系,系列,列古,古斯,斯塔,塔夫,夫克,克里,里姆,姆名,名画,画黄,黄金,金泪,泪盎,盎司,司彩,彩银,银币,埃盎,司黄,金眼,眼泪,泪彩",
   "priceStats": {
     "low": 2500,
-    "high": 2500,
-    "avg": 2500,
+    "high": 3000,
+    "avg": 2833,
     "latest": 2500
   },
   "records": [
@@ -26,6 +26,40 @@
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "金,银,币,2020年,3盎司,年纽,纽埃,埃矩,矩阵,阵艺,艺术,术系,系列,列古,古斯,斯塔,塔夫,夫克,克里,里姆,姆名,名画,画黄,黄金,金泪,泪盎,盎司,司彩,彩银,银币"
+    },
+    {
+      "coinName": "2020年纽埃3盎司黄金眼泪彩银币",
+      "normalizedBoxCode": "0101005007",
+      "displayBoxCode": "0101005-007",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/553096.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/0101005-007/",
+      "price": 3000,
+      "priceWithFee": null,
+      "transactedAt": "2026-03-08 22:07:35",
+      "productCode": "KH123405",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,2020年,3盎司,年纽,纽埃,埃盎,盎司,司黄,黄金,金眼,眼泪,泪彩,彩银,银币"
+    },
+    {
+      "coinName": "2020年纽埃3盎司黄金眼泪彩银币",
+      "normalizedBoxCode": "6192929001",
+      "displayBoxCode": "6192929-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/553096.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6192929-001/69/",
+      "price": 3000,
+      "priceWithFee": null,
+      "transactedAt": "2026-03-08 22:07:35",
+      "productCode": "KH123405",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,2020年,3盎司,年纽,纽埃,埃盎,盎司,司黄,黄金,金眼,眼泪,泪彩,彩银,银币"
     }
   ]
 }

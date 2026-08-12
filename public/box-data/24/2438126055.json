@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2438126055",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2438126055",
+      "displayBoxCode": "2438126-055",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "民国十六年交通银行天津地名壹圆票样",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10397096.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2438126-055/",
+      "price": 4750,
+      "priceWithFee": 5272.5,
+      "transactedAt": "2026-08-06 21:48:05",
+      "productCode": "874270015",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/874270015B.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,钞,历史币,民国,国十,十六,六年,年交,交通,通银,银行,行天,天津,津地,地名,名壹,壹圆,圆票,票样"
+    }
+  ]
+}

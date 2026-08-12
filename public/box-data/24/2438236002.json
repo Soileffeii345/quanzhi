@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2438236002",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2438236002",
+      "displayBoxCode": "2438236-002",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "第四套/第四版人民币1980年版10元",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/disibanrenminbi/10440301.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2438236-002/",
+      "price": 4700,
+      "priceWithFee": 5076,
+      "transactedAt": "2026-08-06 19:13:30",
+      "productCode": "879972010",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/31/879972010B.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1980年,第四,四套,套第,四版,版人,人民,民币,币年,年版,版元"
+    }
+  ]
+}

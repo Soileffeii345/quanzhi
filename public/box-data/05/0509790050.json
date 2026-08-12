@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "0509790050",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "0509790050",
+      "displayBoxCode": "0509790-050",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2019年民国二十一年孙像船洋金本位币壹圆30克银章、民国十八年孙像地球双旗壹圆仿古镀银纪念章各一枚，共二枚",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/tongzhang/10408891.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/0509790-050/",
+      "price": 640,
+      "priceWithFee": 710.4,
+      "transactedAt": "2026-07-31 20:37:40",
+      "productCode": "876082004",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/876082004A.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,章,2019年,30克,历史币,孙小头,小头,船洋,年民,民国,国二,二十,十一,一年,年孙,孙像,像船,洋金,金本,本位,位币,币壹,壹圆,圆克,克银,银章,章民,国十,十八,八年,像地,地球,球双,双旗,旗壹,圆仿,仿古,古镀,镀银,银纪,纪念,念章,章各,各一,一枚,枚共,共二,二枚"
+    }
+  ]
+}

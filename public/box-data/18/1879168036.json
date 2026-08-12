@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "1879168036",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "1879168036",
+      "displayBoxCode": "1879168-036",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "民国三年湖北官钱局铜元壹百枚",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/minguoshengshigejiyinhangzhichao/10412753.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1879168-036/",
+      "price": 340,
+      "priceWithFee": 377.4,
+      "transactedAt": "2026-08-06 19:38:30",
+      "productCode": "876608005",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/876608005B.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "铜,历史币,民国,国三,三年,年湖,湖北,北官,官钱,钱局,局铜,铜元,元壹,壹百,百枚"
+    }
+  ]
+}

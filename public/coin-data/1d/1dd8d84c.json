@@ -1,15 +1,32 @@
 {
   "coinName": "1996年熊猫31.104克普制银币",
   "slug": "1dd8d84c",
-  "saleCount": 6,
-  "keywords": "银,币,1996年,1盎司,熊猫,年熊,猫盎,盎司,司普,普制,制银,银币,币大,大字,字版,币小,小字",
+  "saleCount": 7,
+  "keywords": "银,币,1996年,1盎司,熊猫,年中,中国,国第,第届,届亚,亚洲,洲国,国际,际集,集邮,邮展,展览,览熊,猫图,图盎,盎司,司普,普制,制银,银币,年熊,猫盎,币大,大字,字版,币小,小字",
   "priceStats": {
     "low": 610,
     "high": 720,
-    "avg": 693,
-    "latest": 720
+    "avg": 686,
+    "latest": 640
   },
   "records": [
+    {
+      "coinName": "1996年中国第9届亚洲国际集邮展览-熊猫图1盎司普制银币",
+      "normalizedBoxCode": "3879437028",
+      "displayBoxCode": "3879437-028",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10435724.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3879437-028/69/",
+      "price": 640,
+      "priceWithFee": 662.4,
+      "transactedAt": "2026-08-03 21:38:30",
+      "productCode": "879089003",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1996年,1盎司,熊猫,年中,中国,国第,第届,届亚,亚洲,洲国,国际,际集,集邮,邮展,展览,览熊,猫图,图盎,盎司,司普,普制,制银,银币"
+    },
     {
       "coinName": "1996年熊猫1盎司普制银币（大字版）",
       "normalizedBoxCode": "8763911010",

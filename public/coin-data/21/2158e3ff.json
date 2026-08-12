@@ -1,0 +1,65 @@
+{
+  "coinName": "2018年人民币发行70周年纪念钞伍拾圆18枚",
+  "slug": "2158e3ff",
+  "saleCount": 3,
+  "keywords": "币,钞,2018年,年人,人民,民币,币发,发行,行周,周年,年纪,纪念,念钞,钞伍,伍拾,拾圆,圆枚",
+  "priceStats": {
+    "low": 950,
+    "high": 950,
+    "avg": 950,
+    "latest": 950
+  },
+  "records": [
+    {
+      "coinName": "2018年人民币发行70周年纪念钞伍拾圆18枚",
+      "normalizedBoxCode": "1151830252",
+      "displayBoxCode": "1151830-252",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/liantichao-jinianchao/10441563.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1151830-252/",
+      "price": 950,
+      "priceWithFee": 1026,
+      "transactedAt": "2026-08-04 20:30:25",
+      "productCode": "880034003",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,钞,2018年,年人,人民,民币,币发,发行,行周,周年,年纪,纪念,念钞,钞伍,伍拾,拾圆,圆枚"
+    },
+    {
+      "coinName": "2018年人民币发行70周年纪念钞伍拾圆18枚",
+      "normalizedBoxCode": "4151830242",
+      "displayBoxCode": "4151830-242",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/liantichao-jinianchao/10441563.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4151830-242/",
+      "price": 950,
+      "priceWithFee": 1026,
+      "transactedAt": "2026-08-04 20:30:25",
+      "productCode": "880034003",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,钞,2018年,年人,人民,民币,币发,发行,行周,周年,年纪,纪念,念钞,钞伍,伍拾,拾圆,圆枚"
+    },
+    {
+      "coinName": "2018年人民币发行70周年纪念钞伍拾圆18枚",
+      "normalizedBoxCode": "4151860250",
+      "displayBoxCode": "4151860-250",
+      "gradingCompany": "NGC",
+      "grade": "Ms 68",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/liantichao-jinianchao/10441563.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4151860-250/68/",
+      "price": 950,
+      "priceWithFee": 1026,
+      "transactedAt": "2026-08-04 20:30:25",
+      "productCode": "880034003",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,钞,2018年,年人,人民,民币,币发,发行,行周,周年,年纪,纪念,念钞,钞伍,伍拾,拾圆,圆枚"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2263480117",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2263480117",
+      "displayBoxCode": "2263480-117",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1940年中央储备银行伍角",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/riweizhengquanhuobi/10379491.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2263480-117/",
+      "price": 230,
+      "priceWithFee": 255.3,
+      "transactedAt": "2026-07-23 19:54:10",
+      "productCode": "872384003",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/27/872384003B.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,1940年,年中,中央,央储,储备,备银,银行,行伍,伍角"
+    }
+  ]
+}

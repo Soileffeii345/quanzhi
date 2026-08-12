@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2319420004",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2319420004",
+      "displayBoxCode": "2319420-004",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "民国十四年边业银行贰角正反面票样各一枚",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shangyeyinhangzhichao/10412294.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2319420-004/",
+      "price": 6300,
+      "priceWithFee": 6993,
+      "transactedAt": "2026-08-06 21:53:05",
+      "productCode": "876435001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/876435001B.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,钞,历史币,民国,国十,十四,四年,年边,边业,业银,银行,行贰,贰角,角正,正反,反面,面票,票样,样各,各一,一枚"
+    }
+  ]
+}

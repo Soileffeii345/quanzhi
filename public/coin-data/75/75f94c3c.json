@@ -1,15 +1,32 @@
 {
   "coinName": "第三版人民币轮船5分、飞机2分、汽车1分",
   "slug": "75f94c3c",
-  "saleCount": 1,
-  "keywords": "币,第三,三版,版人,人民,民币,币轮,轮船,船分,分飞,飞机,机分,分汽,汽车,车分,分各,各一,一枚",
+  "saleCount": 2,
+  "keywords": "币,第三,三版,版人,人民,民币,币轮,轮船,船分,分飞,飞机,机分,分汽,汽车,车分,分各,各一,一枚,枚共,共三,三枚",
   "priceStats": {
-    "low": 330,
+    "low": 320,
     "high": 330,
-    "avg": 330,
-    "latest": 330
+    "avg": 325,
+    "latest": 320
   },
   "records": [
+    {
+      "coinName": "第三版人民币轮船5分、飞机2分、汽车1分各一枚，共三枚",
+      "normalizedBoxCode": "8035063085",
+      "displayBoxCode": "8035063-085",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/disanbanrenminbi/10450207.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8035063-085/",
+      "price": 320,
+      "priceWithFee": 345.6,
+      "transactedAt": "2026-08-08 21:09:50",
+      "productCode": "881035024",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,第三,三版,版人,人民,民币,币轮,轮船,船分,分飞,飞机,机分,分汽,汽车,车分,分各,各一,一枚,枚共,共三,三枚"
+    },
     {
       "coinName": "第三版人民币轮船5分、飞机2分、汽车1分各一枚",
       "normalizedBoxCode": "1746017050",

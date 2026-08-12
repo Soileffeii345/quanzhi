@@ -1,15 +1,49 @@
 {
   "coinName": "1991年22克精制银币",
   "slug": "576f4667",
-  "saleCount": 8,
+  "saleCount": 10,
   "keywords": "银,币,1991年,22克,年中,中国,国杰,杰出,出历,历史,史人,人物,物第,第组,组曹,曹雪,雪芹,芹克,克精,精制,制银,银币,评级",
   "priceStats": {
     "low": 410,
     "high": 540,
     "avg": 483,
-    "latest": 450
+    "latest": 540
   },
   "records": [
+    {
+      "coinName": "1991年中国杰出历史人物第（8）组-曹雪芹22克精制银币",
+      "normalizedBoxCode": "6741518005",
+      "displayBoxCode": "6741518-005",
+      "gradingCompany": "NGC",
+      "grade": "PF69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10389791.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6741518-005/69/",
+      "price": 540,
+      "priceWithFee": 558.9,
+      "transactedAt": "2026-08-03 21:11:00",
+      "productCode": "873492004",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1991年,22克,年中,中国,国杰,杰出,出历,历史,史人,人物,物第,第组,组曹,曹雪,雪芹,芹克,克精,精制,制银,银币,评级"
+    },
+    {
+      "coinName": "1991年中国杰出历史人物第（8）组-曹雪芹22克精制银币",
+      "normalizedBoxCode": "6741518010",
+      "displayBoxCode": "6741518-010",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10389795.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6741518-010/",
+      "price": 430,
+      "priceWithFee": 445.05,
+      "transactedAt": "2026-08-03 20:43:55",
+      "productCode": "873492008",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1991年,22克,年中,中国,国杰,杰出,出历,历史,史人,人物,物第,第组,组曹,曹雪,雪芹,芹克,克精,精制,制银,银币,评级"
+    },
     {
       "coinName": "1991年中国杰出历史人物第（8）组-曹雪芹22克精制银币",
       "normalizedBoxCode": "6741518007",

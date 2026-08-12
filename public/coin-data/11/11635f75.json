@@ -1,15 +1,49 @@
 {
   "coinName": "1990年27克精制银币",
   "slug": "11635f75",
-  "saleCount": 5,
-  "keywords": "银,币,1990年,27克,年第,第届,届亚,亚运,运会,会第,第组,组男,男子,子足,足球,球克,克精,精制,制银,银币,评级,组女,女子,子垒,垒球,子吊,吊环,环克,子标,标枪,枪克",
+  "saleCount": 7,
+  "keywords": "银,币,1990年,27克,年第,第届,届世,世界,界杯,杯足,足球,球赛,赛扑,扑球,球克,克精,精制,制银,银币,评级,年世,界文,文化,化名,名人,人第,第组,组贝,贝多,多芬,芬克,币二,二枚,届亚,亚运,运会,会第,组男,男子,子足,组女,女子,子垒,垒球,子吊,吊环,环克,子标,标枪,枪克",
   "priceStats": {
     "low": 400,
-    "high": 600,
-    "avg": 462,
-    "latest": 600
+    "high": 1260,
+    "avg": 586,
+    "latest": 530
   },
   "records": [
+    {
+      "coinName": "1990年第14届世界杯足球赛-扑球27克精制银币",
+      "normalizedBoxCode": "8754703039",
+      "displayBoxCode": "8754703-039",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10443222.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8754703-039/69/",
+      "price": 530,
+      "priceWithFee": 548.55,
+      "transactedAt": "2026-08-03 21:58:30",
+      "productCode": "880261030",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1990年,27克,年第,第届,届世,世界,界杯,杯足,足球,球赛,赛扑,扑球,球克,克精,精制,制银,银币,评级"
+    },
+    {
+      "coinName": "1990年世界文化名人第（1）组-贝多芬27克精制银币二枚",
+      "normalizedBoxCode": "8187130003",
+      "displayBoxCode": "8187130-003",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10433880.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8187130-003/69/",
+      "price": 1260,
+      "priceWithFee": 1304.1,
+      "transactedAt": "2026-08-03 21:51:25",
+      "productCode": "878997004",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1990年,27克,年世,世界,界文,文化,化名,名人,人第,第组,组贝,贝多,多芬,芬克,克精,精制,制银,银币,币二,二枚,评级"
+    },
     {
       "coinName": "1990年第11届亚运会第（2）组-男子足球27克精制银币",
       "normalizedBoxCode": "8818532186",

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "5850435006",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "5850435006",
+      "displayBoxCode": "5850435-006",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "民国开国纪念币孙像上六角星壹圆银元",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguojindaijizhibi/10405542.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/5850435-006/",
+      "price": 690,
+      "priceWithFee": 745.2,
+      "transactedAt": "2026-08-03 19:47:05",
+      "productCode": "875836001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/875836001A.jpg",
+      "ocrConfidence": 30,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,历史币,孙小头,小头,民国,国开,开国,国纪,纪念,念币,币孙,孙像,像上,上六,六角,角星,星壹,壹圆,圆银,银元"
+    }
+  ]
+}

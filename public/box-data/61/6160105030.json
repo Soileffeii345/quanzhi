@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6160105030",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6160105030",
+      "displayBoxCode": "6160105-030",
+      "gradingCompany": "NGC",
+      "grade": "MS 66",
+      "coinName": "1999年中国珍稀野生动物-中华鲟流通纪念币一枚、1998年中国珍稀野生动物-褐马鸡流通纪念币一枚、1996年中国珍稀野生动物-白鳍豚流通纪念币一枚",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10429965.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6160105-030/66/",
+      "price": 200,
+      "priceWithFee": 216,
+      "transactedAt": "2026-07-29 19:36:05",
+      "productCode": "878637001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/26/871684005A.jpg",
+      "ocrConfidence": 42,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1999年,年中,中国,国珍,珍稀,稀野,野生,生动,动物,物中,中华,华鲟,鲟流,流通,通纪,纪念,念币,币一,一枚,枚年,物褐,褐马,马鸡,鸡流,物白,白鳍,鳍豚,豚流"
+    }
+  ]
+}

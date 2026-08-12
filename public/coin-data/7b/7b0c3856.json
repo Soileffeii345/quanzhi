@@ -1,15 +1,32 @@
 {
   "coinName": "第四套/第四版人民币1996年版1元",
   "slug": "7b0c3856",
-  "saleCount": 18,
+  "saleCount": 21,
   "keywords": "币,1996年,第四,四套,套第,四版,版人,人民,民币,币年,年版,版元,元二,二枚",
   "priceStats": {
     "low": 60,
     "high": 1220,
-    "avg": 301,
-    "latest": 95
+    "avg": 342,
+    "latest": 230
   },
   "records": [
+    {
+      "coinName": "第四套/第四版人民币1996年版1元",
+      "normalizedBoxCode": "8040491023",
+      "displayBoxCode": "8040491-023",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/disibanrenminbi/10449176.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8040491-023/",
+      "price": 230,
+      "priceWithFee": 248.4,
+      "transactedAt": "2026-08-08 21:11:50",
+      "productCode": "880822037",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1996年,第四,四套,套第,四版,版人,人民,民币,币年,年版,版元"
+    },
     {
       "coinName": "第四套/第四版人民币1996年版1元",
       "normalizedBoxCode": "1948025098",
@@ -23,6 +40,40 @@
       "priceWithFee": 102.6,
       "transactedAt": "2026-08-08 20:07:35",
       "productCode": "880840084",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1996年,第四,四套,套第,四版,版人,人民,民币,币年,年版,版元"
+    },
+    {
+      "coinName": "第四套/第四版人民币1996年版1元",
+      "normalizedBoxCode": "1949942029",
+      "displayBoxCode": "1949942-029",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/disibanrenminbi/10435143.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1949942-029/",
+      "price": 650,
+      "priceWithFee": 702,
+      "transactedAt": "2026-08-01 19:55:05",
+      "productCode": "879113006",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1996年,第四,四套,套第,四版,版人,人民,民币,币年,年版,版元"
+    },
+    {
+      "coinName": "第四套/第四版人民币1996年版1元",
+      "normalizedBoxCode": "2220971024",
+      "displayBoxCode": "2220971-024",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/disibanrenminbi/10435142.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2220971-024/",
+      "price": 890,
+      "priceWithFee": 961.2,
+      "transactedAt": "2026-08-01 19:32:05",
+      "productCode": "879113005",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "币,1996年,第四,四套,套第,四版,版人,人民,民币,币年,年版,版元"

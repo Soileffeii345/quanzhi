@@ -1,0 +1,31 @@
+{
+  "coinName": "1996年麒麟31.104克精制银币",
+  "slug": "2cfcf000",
+  "saleCount": 1,
+  "keywords": "银,币,1996年,1盎司,年麒,麒麟,麟盎,盎司,司精,精制,制银,银币,评级",
+  "priceStats": {
+    "low": 1000,
+    "high": 1000,
+    "avg": 1000,
+    "latest": 1000
+  },
+  "records": [
+    {
+      "coinName": "1996年麒麟1盎司精制银币",
+      "normalizedBoxCode": "8765667046",
+      "displayBoxCode": "8765667-046",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10443228.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8765667-046/",
+      "price": 1000,
+      "priceWithFee": 1035,
+      "transactedAt": "2026-08-03 22:08:05",
+      "productCode": "880261036",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1996年,1盎司,年麒,麒麟,麟盎,盎司,司精,精制,制银,银币,评级"
+    }
+  ]
+}

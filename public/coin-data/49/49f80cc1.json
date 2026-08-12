@@ -1,0 +1,31 @@
+{
+  "coinName": "1934年银币",
+  "slug": "49f80cc1",
+  "saleCount": 1,
+  "keywords": "银,1934年,历史币,苏区,年中,中华,华苏,苏维,维埃,埃共,共和,和国,国国,国家,家银,银行,行湘,湘赣,赣省,省分,分行,行伍,伍分",
+  "priceStats": {
+    "low": 3200,
+    "high": 3200,
+    "avg": 3200,
+    "latest": 3200
+  },
+  "records": [
+    {
+      "coinName": "1934年中华苏维埃共和国国家银行湘赣省分行伍分",
+      "normalizedBoxCode": "2349866065",
+      "displayBoxCode": "2349866-065",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jiefangquzhichao/10399152.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2349866-065/",
+      "price": 3200,
+      "priceWithFee": 3552,
+      "transactedAt": "2026-07-30 20:07:10",
+      "productCode": "875004007",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,1934年,历史币,苏区,年中,中华,华苏,苏维,维埃,埃共,共和,和国,国国,国家,家银,银行,行湘,湘赣,赣省,省分,分行,行伍,伍分"
+    }
+  ]
+}

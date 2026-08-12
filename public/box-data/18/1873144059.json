@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "1873144059",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "1873144059",
+      "displayBoxCode": "1873144-059",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "民国三十八年江西省银行辅币券贰角",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/minguoshengshigejiyinhangzhichao/10380292.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1873144-059/",
+      "price": 260,
+      "priceWithFee": 288.6,
+      "transactedAt": "2026-07-28 21:46:35",
+      "productCode": "872355003",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/27/872355003B.jpg",
+      "ocrConfidence": 42,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,历史币,民国,国三,三十,十八,八年,年江,江西,西省,省银,银行,行辅,辅币,币券,券贰,贰角"
+    }
+  ]
+}

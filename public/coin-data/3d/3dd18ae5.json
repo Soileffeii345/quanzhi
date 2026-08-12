@@ -1,0 +1,31 @@
+{
+  "coinName": "1996年丝绸之路22克精制银币",
+  "slug": "3dd18ae5",
+  "saleCount": 1,
+  "keywords": "银,币,1996年,22克,年中,中国,国丝,丝绸,绸之,之路,路第,第组,组通,通商,商图,图载,载乐,乐图,图克,克精,精制,制银,银币,币各,各一,一枚,枚共,共二,二枚,评级",
+  "priceStats": {
+    "low": 840,
+    "high": 840,
+    "avg": 840,
+    "latest": 840
+  },
+  "records": [
+    {
+      "coinName": "1996年中国丝绸之路第（2）组-通商图、载乐图22克精制银币各一枚，共二枚",
+      "normalizedBoxCode": "8360996005",
+      "displayBoxCode": "8360996-005",
+      "gradingCompany": "NGC",
+      "grade": "PF 68 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10433892.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8360996-005/68/",
+      "price": 840,
+      "priceWithFee": 869.4,
+      "transactedAt": "2026-08-03 21:51:50",
+      "productCode": "878997016",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1996年,22克,年中,中国,国丝,丝绸,绸之,之路,路第,第组,组通,通商,商图,图载,载乐,乐图,图克,克精,精制,制银,银币,币各,各一,一枚,枚共,共二,二枚,评级"
+    }
+  ]
+}

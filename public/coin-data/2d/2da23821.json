@@ -1,15 +1,49 @@
 {
   "coinName": "2003年15.552克精制金币",
   "slug": "2da23821",
-  "saleCount": 5,
-  "keywords": "金,币,2003年,2盎司,年中,中国,国古,古典,典文,文学,学名,名著,著西,西游,游记,记第,第组,组猴,猴王,王出,出世,世盎,盎司,司精,精制,制彩,彩金,金币,评级,宗教,年佛,佛指,指舍,舍利,利盎,制金,著红,红楼,楼梦,梦第,组黛,黛玉,玉夺,夺魁,魁盎,司八,八边,边形,形精",
+  "saleCount": 7,
+  "keywords": "金,币,2003年,2盎司,年中,中国,国古,古典,典文,文学,学名,名著,著红,红楼,楼梦,梦第,第组,组黛,黛玉,玉夺,夺魁,魁盎,盎司,司八,八边,边形,形精,精制,制彩,彩金,金币,评级,著西,西游,游记,记第,组猴,猴王,王出,出世,世盎,司精,宗教,年佛,佛指,指舍,舍利,利盎,制金",
   "priceStats": {
     "low": 15200,
-    "high": 25500,
-    "avg": 21080,
-    "latest": 15200
+    "high": 36500,
+    "avg": 23486,
+    "latest": 36500
   },
   "records": [
+    {
+      "coinName": "2003年中国古典文学名著《红楼梦》第（3）组-黛玉夺魁1/2盎司八边形精制彩金币",
+      "normalizedBoxCode": "8821701001",
+      "displayBoxCode": "8821701-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10429922.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8821701-001/70/",
+      "price": 36500,
+      "priceWithFee": 37777.5,
+      "transactedAt": "2026-07-30 20:35:25",
+      "productCode": "878494003",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2003年,2盎司,年中,中国,国古,古典,典文,文学,学名,名著,著红,红楼,楼梦,梦第,第组,组黛,黛玉,玉夺,夺魁,魁盎,盎司,司八,八边,边形,形精,精制,制彩,彩金,金币,评级"
+    },
+    {
+      "coinName": "2003年中国古典文学名著《红楼梦》第（3）组-黛玉夺魁1/2盎司八边形精制彩金币",
+      "normalizedBoxCode": "8610819056",
+      "displayBoxCode": "8610819-056",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10407970.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8610819-056/",
+      "price": 22500,
+      "priceWithFee": 23287.5,
+      "transactedAt": "2026-07-30 20:27:25",
+      "productCode": "876107001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2003年,2盎司,年中,中国,国古,古典,典文,文学,学名,名著,著红,红楼,楼梦,梦第,第组,组黛,黛玉,玉夺,夺魁,魁盎,盎司,司八,八边,边形,形精,精制,制彩,彩金,金币,评级"
+    },
     {
       "coinName": "2003年中国古典文学名著《西游记》第（1）组-猴王出世1/2盎司精制彩金币",
       "normalizedBoxCode": "6720526005",

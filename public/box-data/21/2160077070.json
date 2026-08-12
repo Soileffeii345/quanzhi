@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2160077070",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2160077070",
+      "displayBoxCode": "2160077-070",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "民国三十七年长城银行冀察热辽流通券伍仟圆",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jiefangquzhichao/10412235.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2160077-070/",
+      "price": 510,
+      "priceWithFee": 566.1,
+      "transactedAt": "2026-08-06 19:37:15",
+      "productCode": "876366009",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/876366009B.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国三,三十,十七,七年,年长,长城,城银,银行,行冀,冀察,察热,热辽,辽流,流通,通券,券伍,伍仟,仟圆"
+    }
+  ]
+}

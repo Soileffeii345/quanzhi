@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "9025080200",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "9025080200",
+      "displayBoxCode": "9025080-200",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2025年吉祥文化-永结同心3克精制金币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10451417.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/9025080-200/",
+      "price": 3800,
+      "priceWithFee": 3933,
+      "transactedAt": "2026-08-08 20:59:30",
+      "productCode": "881143011",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/32/881143011A.jpg",
+      "ocrConfidence": 31,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2025年,3克,吉祥文化,年吉,吉祥,祥文,文化,化永,永结,结同,同心,心克,克精,精制,制金,金币,评级"
+    }
+  ]
+}

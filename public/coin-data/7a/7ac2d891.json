@@ -1,15 +1,32 @@
 {
   "coinName": "2026年生肖15克精制铂金币",
   "slug": "7ac2d891",
-  "saleCount": 1,
+  "saleCount": 2,
   "keywords": "金,贵金属,币,2026年,15克,生肖,年丙,丙午,午马,马年,年生,肖克,克精,精制,制铂,铂金,金币,评级",
   "priceStats": {
     "low": 7700,
-    "high": 7700,
-    "avg": 7700,
-    "latest": 7700
+    "high": 7800,
+    "avg": 7750,
+    "latest": 7800
   },
   "records": [
+    {
+      "coinName": "2026年丙午马年生肖15克精制铂金币",
+      "normalizedBoxCode": "8659623001",
+      "displayBoxCode": "8659623-001",
+      "gradingCompany": "NGC",
+      "grade": "PF70 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-bojin/10429741.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8659623-001/70/",
+      "price": 7800,
+      "priceWithFee": 8073,
+      "transactedAt": "2026-07-30 21:10:05",
+      "productCode": "878496001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,贵金属,币,2026年,15克,生肖,年丙,丙午,午马,马年,年生,肖克,克精,精制,制铂,铂金,金币,评级"
+    },
     {
       "coinName": "2026年丙午马年生肖15克精制铂金币",
       "normalizedBoxCode": "8653335002",

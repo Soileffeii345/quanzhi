@@ -1,15 +1,49 @@
 {
   "coinName": "1983年22克精制银币",
   "slug": "3c5d9748",
-  "saleCount": 2,
+  "saleCount": 4,
   "keywords": "银,币,1983年,22克,年马,马可,可波,波罗,罗克,克精,精制,制银,银币,评级",
   "priceStats": {
-    "low": 950,
+    "low": 910,
     "high": 960,
-    "avg": 955,
-    "latest": 960
+    "avg": 933,
+    "latest": 910
   },
   "records": [
+    {
+      "coinName": "1983年马可波罗22克精制银币",
+      "normalizedBoxCode": "8588549007",
+      "displayBoxCode": "8588549-007",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10432560.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8588549-007/69/",
+      "price": 910,
+      "priceWithFee": 941.85,
+      "transactedAt": "2026-08-03 22:01:00",
+      "productCode": "878833004",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1983年,22克,年马,马可,可波,波罗,罗克,克精,精制,制银,银币,评级"
+    },
+    {
+      "coinName": "1983年马可波罗22克精制银币",
+      "normalizedBoxCode": "8754835002",
+      "displayBoxCode": "8754835-002",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10433901.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8754835-002/",
+      "price": 910,
+      "priceWithFee": 941.85,
+      "transactedAt": "2026-08-03 21:35:10",
+      "productCode": "878997025",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1983年,22克,年马,马可,可波,波罗,罗克,克精,精制,制银,银币,评级"
+    },
     {
       "coinName": "1983年马可波罗22克精制银币",
       "normalizedBoxCode": "4894807019",

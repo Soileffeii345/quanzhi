@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "1851401005",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "1851401005",
+      "displayBoxCode": "1851401-005",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2019年NGC上海恩颉藏商务信息咨询有限公司开业五周年纪念1克金箔票样",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10409917.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1851401-005/",
+      "price": 1120,
+      "priceWithFee": 1159.2,
+      "transactedAt": "2026-08-10 21:55:10",
+      "productCode": "876290040",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/876290040B.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,钞,2019年,1克,年上,上海,海恩,恩颉,颉藏,藏商,商务,务信,信息,息咨,咨询,询有,有限,限公,公司,司开,开业,业五,五周,周年,年纪,纪念,念克,克金,金箔,箔票,票样,评级"
+    }
+  ]
+}

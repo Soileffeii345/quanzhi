@@ -1,0 +1,31 @@
+{
+  "coinName": "民国十七年直隶省金库兑换券壹圆",
+  "slug": "001f8afc",
+  "saleCount": 1,
+  "keywords": "金,历史币,民国,国十,十七,七年,年直,直隶,隶省,省金,金库,库兑,兑换,换券,券壹,壹圆",
+  "priceStats": {
+    "low": 740,
+    "high": 740,
+    "avg": 740,
+    "latest": 740
+  },
+  "records": [
+    {
+      "coinName": "民国十七年直隶省金库兑换券壹圆",
+      "normalizedBoxCode": "1921372003",
+      "displayBoxCode": "1921372-003",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/junyongpiao/10403979.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1921372-003/",
+      "price": 740,
+      "priceWithFee": 821.4,
+      "transactedAt": "2026-07-30 21:28:40",
+      "productCode": "874941016",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,历史币,民国,国十,十七,七年,年直,直隶,隶省,省金,金库,库兑,兑换,换券,券壹,壹圆"
+    }
+  ]
+}

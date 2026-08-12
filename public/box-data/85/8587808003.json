@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8587808003",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8587808003",
+      "displayBoxCode": "8587808-003",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1984年中国杰出历史人物第（1）组-秦始皇1/3盎司精制金币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10433928.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8587808-003/69/",
+      "price": 10200,
+      "priceWithFee": 10557,
+      "transactedAt": "2026-07-30 21:22:05",
+      "productCode": "878995008",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/878995008A.jpg",
+      "ocrConfidence": 48,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1984年,3盎司,年中,中国,国杰,杰出,出历,历史,史人,人物,物第,第组,组秦,秦始,始皇,皇盎,盎司,司精,精制,制金,金币,评级"
+    }
+  ]
+}

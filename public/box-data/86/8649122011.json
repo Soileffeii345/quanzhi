@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8649122011",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8649122011",
+      "displayBoxCode": "8649122-011",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2024年吉祥文化-心心相印30克心形精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10451415.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8649122-011/70/",
+      "price": 1000,
+      "priceWithFee": 1035,
+      "transactedAt": "2026-08-08 20:31:30",
+      "productCode": "881143009",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/32/881143009A.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2024年,30克,吉祥文化,年吉,吉祥,祥文,文化,化心,心心,心相,相印,印克,克心,心形,形精,精制,制银,银币,评级"
+    }
+  ]
+}

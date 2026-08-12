@@ -1,0 +1,31 @@
+{
+  "coinName": "2017年龙凤金币",
+  "slug": "411a04d2",
+  "saleCount": 1,
+  "keywords": "金,章,2017年,历史币,年民,民国,国十,十二,二年,年造,造龙,龙凤,凤壹,壹圆,圆纪,纪念,念章,章年,年山,山鬼,鬼花,花钱,钱镀,镀金,金纪,章各,各一,一枚,枚共,共二,二枚",
+  "priceStats": {
+    "low": 340,
+    "high": 340,
+    "avg": 340,
+    "latest": 340
+  },
+  "records": [
+    {
+      "coinName": "2017年民国十二年造龙凤壹圆纪念章、2019年山鬼花钱镀金纪念章各一枚，共二枚",
+      "normalizedBoxCode": "5815392019",
+      "displayBoxCode": "5815392-019",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/tongzhang/10408890.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/5815392-019/70/",
+      "price": 340,
+      "priceWithFee": 377.4,
+      "transactedAt": "2026-07-31 20:09:20",
+      "productCode": "876082003",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,章,2017年,历史币,年民,民国,国十,十二,二年,年造,造龙,龙凤,凤壹,壹圆,圆纪,纪念,念章,章年,年山,山鬼,鬼花,花钱,钱镀,镀金,金纪,章各,各一,一枚,枚共,共二,二枚"
+    }
+  ]
+}

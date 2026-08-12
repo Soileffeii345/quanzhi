@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6738760001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6738760001",
+      "displayBoxCode": "6738760-001",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2009年、2010年环境保护精制流通纪念币各一枚，共二枚",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10441522.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6738760-001/",
+      "price": 430,
+      "priceWithFee": 464.4,
+      "transactedAt": "2026-08-05 20:03:35",
+      "productCode": "879976014",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/31/879976014A.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2009年,年年,年环,环境,境保,保护,护精,精制,制流,流通,通纪,纪念,念币,币各,各一,一枚,枚共,共二,二枚,评级"
+    }
+  ]
+}

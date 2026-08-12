@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8765667047",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8765667047",
+      "displayBoxCode": "8765667-047",
+      "gradingCompany": "NGC",
+      "grade": "PF 68 ULTRA CAMEO",
+      "coinName": "1994年麒麟1盎司精制银币（P版）",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10443225.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8765667-047/68/",
+      "price": 1620,
+      "priceWithFee": 1676.7,
+      "transactedAt": "2026-08-03 21:48:30",
+      "productCode": "880261033",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/31/880261033A.jpg",
+      "ocrConfidence": 32,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1994年,1盎司,年麒,麒麟,麟盎,盎司,司精,精制,制银,银币,币版,评级"
+    }
+  ]
+}

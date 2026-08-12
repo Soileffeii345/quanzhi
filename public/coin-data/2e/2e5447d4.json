@@ -1,0 +1,31 @@
+{
+  "coinName": "湘鄂赣省工农银行铜元贰佰文",
+  "slug": "2e5447d4",
+  "saleCount": 1,
+  "keywords": "银,铜,湘鄂,鄂赣,赣省,省工,工农,农银,银行,行铜,铜元,元贰,贰佰,佰文",
+  "priceStats": {
+    "low": 1980,
+    "high": 1980,
+    "avg": 1980,
+    "latest": 1980
+  },
+  "records": [
+    {
+      "coinName": "湘鄂赣省工农银行铜元贰佰文",
+      "normalizedBoxCode": "2349866013",
+      "displayBoxCode": "2349866-013",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jiefangquzhichao/10399154.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2349866-013/",
+      "price": 1980,
+      "priceWithFee": 2197.8,
+      "transactedAt": "2026-07-30 21:25:40",
+      "productCode": "875004009",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,铜,湘鄂,鄂赣,赣省,省工,工农,农银,银行,行铜,铜元,元贰,贰佰,佰文"
+    }
+  ]
+}

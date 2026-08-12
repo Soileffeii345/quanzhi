@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "89522671",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "89522671",
+      "displayBoxCode": "89522671",
+      "gradingCompany": "PCGS",
+      "grade": "MS64",
+      "coinName": "机制光绪通宝宝福",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguojindaijizhibi/10400435.shtml",
+      "officialCertUrl": "https://cn.pcgs.com/cert/89522671",
+      "price": 580,
+      "priceWithFee": 626.4,
+      "transactedAt": "2026-08-03 21:02:05",
+      "productCode": "874962034",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/874962034A.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "历史币,机制,制光,光绪,绪通,通宝,宝宝,宝福"
+    }
+  ]
+}

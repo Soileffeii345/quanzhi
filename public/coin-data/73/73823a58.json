@@ -1,15 +1,32 @@
 {
   "coinName": "第一版人民币炼钢200元",
   "slug": "73823a58",
-  "saleCount": 1,
+  "saleCount": 2,
   "keywords": "币,第一,一版,版人,人民,民币,币炼,炼钢,钢元",
   "priceStats": {
-    "low": 4150,
+    "low": 2200,
     "high": 4150,
-    "avg": 4150,
-    "latest": 4150
+    "avg": 3175,
+    "latest": 2200
   },
   "records": [
+    {
+      "coinName": "第一版人民币炼钢200元",
+      "normalizedBoxCode": "1914717017",
+      "displayBoxCode": "1914717-017",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/diyibanrenminbi/10443579.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1914717-017/",
+      "price": 2200,
+      "priceWithFee": 2420,
+      "transactedAt": "2026-08-06 21:26:50",
+      "productCode": "880221001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,第一,一版,版人,人民,民币,币炼,炼钢,钢元"
+    },
     {
       "coinName": "第一版人民币炼钢200元",
       "normalizedBoxCode": "2338560006",

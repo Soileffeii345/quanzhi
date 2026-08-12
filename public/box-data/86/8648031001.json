@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8648031001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8648031001",
+      "displayBoxCode": "8648031-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 65 ULTRA CAMEO",
+      "coinName": "2017年法国5盎司米其林季萨瓦餐厅鸡蛋彩银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/555918.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8648031-001/65/",
+      "price": 2900,
+      "priceWithFee": null,
+      "transactedAt": "2026-04-16 16:11:31",
+      "productCode": "KH129219",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260224/large_sell_2agfpfyrvvbvgpjb.jpg",
+      "ocrConfidence": 39,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2017年,5盎司,年法,法国,国盎,盎司,司米,米其,其林,林季,季萨,萨瓦,瓦餐,餐厅,厅鸡,鸡蛋,蛋彩,彩银,银币,外国/特区"
+    }
+  ]
+}

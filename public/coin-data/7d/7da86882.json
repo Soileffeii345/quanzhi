@@ -1,0 +1,31 @@
+{
+  "coinName": "1988年生肖31.104克精制铂金币",
+  "slug": "7da86882",
+  "saleCount": 1,
+  "keywords": "金,贵金属,币,1988年,1盎司,生肖,年戊,戊辰,辰龙,龙年,年生,肖盎,盎司,司精,精制,制铂,铂金,金币,评级",
+  "priceStats": {
+    "low": 27000,
+    "high": 27000,
+    "avg": 27000,
+    "latest": 27000
+  },
+  "records": [
+    {
+      "coinName": "1988年戊辰龙年生肖1盎司精制铂金币",
+      "normalizedBoxCode": "8824912001",
+      "displayBoxCode": "8824912-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-bojin/10426621.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8824912-001/69/",
+      "price": 27000,
+      "priceWithFee": 27945,
+      "transactedAt": "2026-07-30 20:31:25",
+      "productCode": "878162001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,贵金属,币,1988年,1盎司,生肖,年戊,戊辰,辰龙,龙年,年生,肖盎,盎司,司精,精制,制铂,铂金,金币,评级"
+    }
+  ]
+}

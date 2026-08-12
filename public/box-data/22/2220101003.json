@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2220101003",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2220101003",
+      "displayBoxCode": "2220101-003",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "第三版人民币枣红1角",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/disanbanrenminbi/10412242.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2220101-003/",
+      "price": 2850,
+      "priceWithFee": 3078,
+      "transactedAt": "2026-08-06 19:15:35",
+      "productCode": "876366016",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/876366016B.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,第三,三版,版人,人民,民币,币枣,枣红,红角"
+    }
+  ]
+}

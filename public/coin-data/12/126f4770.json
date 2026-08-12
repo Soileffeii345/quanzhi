@@ -1,7 +1,7 @@
 {
   "coinName": "2001年京剧15.552克精制金币",
   "slug": "126f4770",
-  "saleCount": 2,
+  "saleCount": 3,
   "keywords": "金,币,2001年,2盎司,戏曲,年中,中国,国京,京剧,剧艺,艺术,术第,第组,组群,群英,英会,会盎,盎司,司精,精制,制彩,彩金,金币,评级",
   "priceStats": {
     "low": 14600,
@@ -23,6 +23,23 @@
       "priceWithFee": 15525,
       "transactedAt": "2026-08-06 21:02:35",
       "productCode": "880490006",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2001年,2盎司,戏曲,年中,中国,国京,京剧,剧艺,艺术,术第,第组,组群,群英,英会,会盎,盎司,司精,精制,制彩,彩金,金币,评级"
+    },
+    {
+      "coinName": "2001年中国京剧艺术第（3）组-群英会1/2盎司精制彩金币",
+      "normalizedBoxCode": "8610819033",
+      "displayBoxCode": "8610819-033",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10433417.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8610819-033/69/",
+      "price": 14800,
+      "priceWithFee": 15318,
+      "transactedAt": "2026-07-30 20:48:45",
+      "productCode": "878943002",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "金,币,2001年,2盎司,戏曲,年中,中国,国京,京剧,剧艺,艺术,术第,第组,组群,群英,英会,会盎,盎司,司精,精制,制彩,彩金,金币,评级"

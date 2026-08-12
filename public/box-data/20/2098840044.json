@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2098840044",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2098840044",
+      "displayBoxCode": "2098840-044",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2022年卡塔尔世界杯塑料钞",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10439633.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2098840-044/",
+      "price": 230,
+      "priceWithFee": 255.3,
+      "transactedAt": "2026-08-04 22:20:45",
+      "productCode": "879761009",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/31/879761009B.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,2022年,年卡,卡塔,塔尔,尔世,世界,界杯,杯塑,塑料,料钞"
+    }
+  ]
+}

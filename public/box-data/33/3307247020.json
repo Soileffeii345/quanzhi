@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "3307247020",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "3307247020",
+      "displayBoxCode": "3307247-020",
+      "gradingCompany": "NGC",
+      "grade": "PF 67 ULTRA CAMEO",
+      "coinName": "1997年中国传统文化第（2）组-庄子22克精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10440196.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3307247-020/67/",
+      "price": 420,
+      "priceWithFee": 434.7,
+      "transactedAt": "2026-08-03 21:16:50",
+      "productCode": "879959008",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/31/879959008A.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1997年,22克,年中,中国,国传,传统,统文,文化,化第,第组,组庄,庄子,子克,克精,精制,制银,银币,评级"
+    }
+  ]
+}

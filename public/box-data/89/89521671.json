@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "89521671",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "89521671",
+      "displayBoxCode": "89521671",
+      "gradingCompany": "PCGS",
+      "grade": "待复核",
+      "coinName": "民国三十七年一分铜币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguojindaijizhibi/10400430.shtml",
+      "officialCertUrl": "https://cn.pcgs.com/cert/89521671",
+      "price": 310,
+      "priceWithFee": 334.8,
+      "transactedAt": "2026-08-03 19:21:35",
+      "productCode": "874962029",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/874962029A.jpg",
+      "ocrConfidence": 37,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "铜,币,历史币,民国,国三,三十,十七,七年,年一,一分,分铜,铜币"
+    }
+  ]
+}

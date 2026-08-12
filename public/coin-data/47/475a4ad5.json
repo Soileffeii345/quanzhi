@@ -1,0 +1,48 @@
+{
+  "coinName": "2002年秦始皇陵及兵马俑坑精制",
+  "slug": "475a4ad5",
+  "saleCount": 2,
+  "keywords": "币,2002年,年世,世界,界文,文化,化遗,遗产,产秦,秦始,始皇,皇陵,陵及,及兵,兵马,马俑,俑坑,坑年,产曲,曲阜,阜孔,孔庙,庙孔,孔林,林孔,孔府,府年,产颐,颐和,和园,园精,精制,制流,流通,通纪,纪念,念币,币各,各一,一枚,枚共,共三,三枚,评级,坑精,币二,二枚",
+  "priceStats": {
+    "low": 580,
+    "high": 760,
+    "avg": 670,
+    "latest": 760
+  },
+  "records": [
+    {
+      "coinName": "2002年世界文化遗产-秦始皇陵及兵马俑坑、2003年世界文化遗产-曲阜孔庙孔林孔府、2006年世界文化遗产-颐和园精制流通纪念币各一枚，共三枚",
+      "normalizedBoxCode": "6179019004",
+      "displayBoxCode": "6179019-004",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10415378.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6179019-004/",
+      "price": 760,
+      "priceWithFee": 820.8,
+      "transactedAt": "2026-07-29 20:06:05",
+      "productCode": "876732003",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2002年,年世,世界,界文,文化,化遗,遗产,产秦,秦始,始皇,皇陵,陵及,及兵,兵马,马俑,俑坑,坑年,产曲,曲阜,阜孔,孔庙,庙孔,孔林,林孔,孔府,府年,产颐,颐和,和园,园精,精制,制流,流通,通纪,纪念,念币,币各,各一,一枚,枚共,共三,三枚,评级"
+    },
+    {
+      "coinName": "2002年世界文化遗产-秦始皇陵及兵马俑坑精制流通纪念币二枚",
+      "normalizedBoxCode": "6169936000",
+      "displayBoxCode": "6169936-000",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10415294.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6169936-000/69/",
+      "price": 580,
+      "priceWithFee": 626.4,
+      "transactedAt": "2026-07-29 19:03:25",
+      "productCode": "876792002",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2002年,年世,世界,界文,文化,化遗,遗产,产秦,秦始,始皇,皇陵,陵及,及兵,兵马,马俑,俑坑,坑精,精制,制流,流通,通纪,纪念,念币,币二,二枚,评级"
+    }
+  ]
+}

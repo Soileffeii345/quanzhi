@@ -1,0 +1,31 @@
+{
+  "coinName": "2003年美国鹰洋31.104克银币",
+  "slug": "142325d3",
+  "saleCount": 1,
+  "keywords": "银,币,2003年,1盎司,鹰洋,年美,美国,国鹰,洋盎,盎司,司银,银币,外国/特区",
+  "priceStats": {
+    "low": 480,
+    "high": 480,
+    "avg": 480,
+    "latest": 480
+  },
+  "records": [
+    {
+      "coinName": "2003年美国鹰洋1盎司银币",
+      "normalizedBoxCode": "8657410016",
+      "displayBoxCode": "8657410-016",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/meiguoyingyang/10417007.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8657410-016/",
+      "price": 480,
+      "priceWithFee": 508.8,
+      "transactedAt": "2026-07-24 19:22:35",
+      "productCode": "877048015",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2003年,1盎司,鹰洋,年美,美国,国鹰,洋盎,盎司,司银,银币,外国/特区"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6409450124",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6409450124",
+      "displayBoxCode": "6409450-124",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1981年长城币伍角",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10423639.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6409450-124/",
+      "price": 80,
+      "priceWithFee": 86.4,
+      "transactedAt": "2026-07-29 20:17:25",
+      "productCode": "877788002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/877788002A.jpg",
+      "ocrConfidence": 29,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1981年,年长,长城,城币,币伍,伍角"
+    }
+  ]
+}

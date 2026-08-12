@@ -1,0 +1,31 @@
+{
+  "coinName": "2020年2盎司金币",
+  "slug": "0482b827",
+  "saleCount": 1,
+  "keywords": "金,银,币,2020年,2盎司,年纽,纽埃,埃盎,盎司,司太,太阳,阳神,神阿,阿波,波罗,罗高,高浮,浮雕,雕仿,仿古,古镀,镀金,金银,银币",
+  "priceStats": {
+    "low": 1550,
+    "high": 1550,
+    "avg": 1550,
+    "latest": 1550
+  },
+  "records": [
+    {
+      "coinName": "2020年纽埃2盎司太阳神阿波罗高浮雕仿古\"镀金\"银币",
+      "normalizedBoxCode": "6050796002",
+      "displayBoxCode": "6050796-002",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/553421.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6050796-002/",
+      "price": 1550,
+      "priceWithFee": null,
+      "transactedAt": "2026-04-13 17:36:14",
+      "productCode": "KH129796",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,2020年,2盎司,年纽,纽埃,埃盎,盎司,司太,太阳,阳神,神阿,阿波,波罗,罗高,高浮,浮雕,雕仿,仿古,古镀,镀金,金银,银币"
+    }
+  ]
+}

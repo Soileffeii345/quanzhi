@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2399938025",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2399938025",
+      "displayBoxCode": "2399938-025",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "民国三十四年中央储备银行伍仟圆票样",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/difangsipiao/10403518.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2399938-025/",
+      "price": 1960,
+      "priceWithFee": 2175.6,
+      "transactedAt": "2026-07-30 22:17:40",
+      "productCode": "874940023",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/874940023B.jpg",
+      "ocrConfidence": 29,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,钞,历史币,民国,国三,三十,十四,四年,年中,中央,央储,储备,备银,银行,行伍,伍仟,仟圆,圆票,票样"
+    }
+  ]
+}

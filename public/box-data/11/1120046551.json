@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "1120046551",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "1120046551",
+      "displayBoxCode": "1120046-551",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "清-乾隆通宝、道光通宝、嘉庆通宝各3枚一套，共6枚2套",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/guqian/10404379.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1120046-551/",
+      "price": 100,
+      "priceWithFee": 110,
+      "transactedAt": "2026-08-03 21:37:35",
+      "productCode": "875625001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/875625001A.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "清乾,乾隆,隆通,通宝,宝道,道光,光通,宝嘉,嘉庆,庆通,宝各,各枚,枚一,一套,套共,共枚,枚套"
+    }
+  ]
+}

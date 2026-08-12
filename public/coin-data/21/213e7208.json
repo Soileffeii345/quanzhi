@@ -1,12 +1,12 @@
 {
   "coinName": "2013年生肖精制",
   "slug": "213e7208",
-  "saleCount": 14,
+  "saleCount": 15,
   "keywords": "币,2013年,生肖,吉祥文化,年癸,癸巳,巳蛇,蛇年,年生,肖贺,贺岁,岁精,精制,制流,流通,通纪,纪念,念币,评级,肖精,币二,二枚,币四,四枚",
   "priceStats": {
     "low": 75,
     "high": 1720,
-    "avg": 633,
+    "avg": 603,
     "latest": 1500
   },
   "records": [
@@ -40,6 +40,23 @@
       "priceWithFee": 172.8,
       "transactedAt": "2026-08-05 19:50:35",
       "productCode": "879529006",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2013年,生肖,年癸,癸巳,巳蛇,蛇年,年生,肖精,精制,制流,流通,通纪,纪念,念币,评级"
+    },
+    {
+      "coinName": "2013年癸巳蛇年生肖精制流通纪念币",
+      "normalizedBoxCode": "6174628042",
+      "displayBoxCode": "6174628-042",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10440250.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6174628-042/",
+      "price": 180,
+      "priceWithFee": 194.4,
+      "transactedAt": "2026-08-05 19:03:35",
+      "productCode": "879956008",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "币,2013年,生肖,年癸,癸巳,巳蛇,蛇年,年生,肖精,精制,制流,流通,通纪,纪念,念币,评级"

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8184609070",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8184609070",
+      "displayBoxCode": "8184609-070",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1999年中国珍稀野生动物-金斑喙凤蝶流通纪念币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10424850.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8184609-070/",
+      "price": 85,
+      "priceWithFee": 91.8,
+      "transactedAt": "2026-07-29 20:24:05",
+      "productCode": "877753031",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/877753031A.jpg",
+      "ocrConfidence": 31,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1999年,年中,中国,国珍,珍稀,稀野,野生,生动,动物,物金,金斑,斑喙,喙凤,凤蝶,蝶流,流通,通纪,纪念,念币"
+    }
+  ]
+}

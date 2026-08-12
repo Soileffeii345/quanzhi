@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4894962002",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4894962002",
+      "displayBoxCode": "4894962-002",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2002年中国古典文学名著《红楼梦》第（2）组-元春归省1盎司六边形精制彩银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10441546.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4894962-002/69/",
+      "price": 840,
+      "priceWithFee": 869.4,
+      "transactedAt": "2026-08-03 21:19:45",
+      "productCode": "879993002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/31/879993002A.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2002年,1盎司,年中,中国,国古,古典,典文,文学,学名,名著,著红,红楼,楼梦,梦第,第组,组元,元春,春归,归省,省盎,盎司,司六,六边,边形,形精,精制,制彩,彩银,银币,评级"
+    }
+  ]
+}

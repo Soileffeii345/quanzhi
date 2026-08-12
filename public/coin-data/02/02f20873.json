@@ -1,12 +1,12 @@
 {
   "coinName": "1989年27克精制银币",
   "slug": "02f20873",
-  "saleCount": 6,
-  "keywords": "银,币,1989年,27克,年中,中华,华人,人民,民共,共和,和国,国成,成立,立周,周年,年克,克精,精制,制银,银币,币二,二枚,枚一,一套,评级,年第,第届,届世,世界,界杯,杯足,足球,球赛,赛铲,铲球,球克",
+  "saleCount": 7,
+  "keywords": "银,币,1989年,27克,年中,中华,华人,人民,民共,共和,和国,国成,成立,立周,周年,年克,克精,精制,制银,银币,币二,二枚,枚一,一套,评级,年第,第届,届世,世界,界杯,杯足,足球,球赛,赛铲,铲球,球克,币一,一枚,枚年,赛克,套共,共三,三枚",
   "priceStats": {
     "low": 550,
     "high": 4000,
-    "avg": 1200,
+    "avg": 1297,
     "latest": 4000
   },
   "records": [
@@ -26,6 +26,23 @@
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "银,币,1989年,27克,年中,中华,华人,人民,民共,共和,和国,国成,成立,立周,周年,年克,克精,精制,制银,银币,币二,二枚,枚一,一套,评级"
+    },
+    {
+      "coinName": "1989年第14届世界杯足球赛-铲球27克精制银币一枚、1990年第14届世界杯足球赛27克精制银币二枚一套，共三枚",
+      "normalizedBoxCode": "8754835049",
+      "displayBoxCode": "8754835-049",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10433940.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8754835-049/69/",
+      "price": 1880,
+      "priceWithFee": 1945.8,
+      "transactedAt": "2026-07-30 19:55:25",
+      "productCode": "878995020",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1989年,27克,年第,第届,届世,世界,界杯,杯足,足球,球赛,赛铲,铲球,球克,克精,精制,制银,银币,币一,一枚,枚年,赛克,币二,二枚,枚一,一套,套共,共三,三枚,评级"
     },
     {
       "coinName": "1989年第14届世界杯足球赛-铲球27克精制银币",

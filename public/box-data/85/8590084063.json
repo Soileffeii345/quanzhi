@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8590084063",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8590084063",
+      "displayBoxCode": "8590084-063",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1999年中华人民共和国成立50周年1盎司精制银币三枚一套",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10432557.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8590084-063/69/",
+      "price": 1840,
+      "priceWithFee": 1904.4,
+      "transactedAt": "2026-07-30 19:58:45",
+      "productCode": "878833001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/878833001A.jpg",
+      "ocrConfidence": 37,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1999年,1盎司,年中,中华,华人,人民,民共,共和,和国,国成,成立,立周,周年,年盎,盎司,司精,精制,制银,银币,币三,三枚,枚一,一套,评级"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2252932095",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2252932095",
+      "displayBoxCode": "2252932-095",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "民国同来刘记壹吊",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/difangsipiao/10381399.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2252932-095/",
+      "price": 810,
+      "priceWithFee": 899.1,
+      "transactedAt": "2026-07-28 21:51:20",
+      "productCode": "872765001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/27/872765001B.jpg",
+      "ocrConfidence": 26,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "历史币,民国,国同,同来,来刘,刘记,记壹,壹吊"
+    }
+  ]
+}

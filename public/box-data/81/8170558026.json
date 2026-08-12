@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8170558026",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8170558026",
+      "displayBoxCode": "8170558-026",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 CAMEO",
+      "coinName": "1990年第十一届亚洲运动会精制流通纪念币二枚一套",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10431542.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8170558-026/69/",
+      "price": 3050,
+      "priceWithFee": 3294,
+      "transactedAt": "2026-07-29 19:15:25",
+      "productCode": "878719001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/878719001A.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1990年,年第,第十,十一,一届,届亚,亚洲,洲运,运动,动会,会精,精制,制流,流通,通纪,纪念,念币,币二,二枚,枚一,一套,评级"
+    }
+  ]
+}

@@ -1,15 +1,49 @@
 {
   "coinName": "1993年熊猫31.104克普制银币",
   "slug": "07af218f",
-  "saleCount": 2,
+  "saleCount": 4,
   "keywords": "银,币,1993年,1盎司,熊猫,年熊,猫盎,盎司,司普,普制,制银,银币,币小,小字,字版,币大,大字",
   "priceStats": {
     "low": 870,
-    "high": 1220,
-    "avg": 1045,
-    "latest": 870
+    "high": 1480,
+    "avg": 1153,
+    "latest": 1040
   },
   "records": [
+    {
+      "coinName": "1993年熊猫1盎司普制银币（小字版）",
+      "normalizedBoxCode": "8765667016",
+      "displayBoxCode": "8765667-016",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-jiuyin/10443204.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8765667-016/",
+      "price": 1040,
+      "priceWithFee": 1076.4,
+      "transactedAt": "2026-08-03 21:21:50",
+      "productCode": "880261012",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1993年,1盎司,熊猫,年熊,猫盎,盎司,司普,普制,制银,银币,币小,小字,字版"
+    },
+    {
+      "coinName": "1993年熊猫1盎司普制银币（大字版）",
+      "normalizedBoxCode": "8765667013",
+      "displayBoxCode": "8765667-013",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-jiuyin/10443203.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8765667-013/69/",
+      "price": 1480,
+      "priceWithFee": 1531.8,
+      "transactedAt": "2026-08-03 19:46:00",
+      "productCode": "880261011",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1993年,1盎司,熊猫,年熊,猫盎,盎司,司普,普制,制银,银币,币大,大字,字版"
+    },
     {
       "coinName": "1993年熊猫1盎司普制银币（小字版）",
       "normalizedBoxCode": "8764089002",

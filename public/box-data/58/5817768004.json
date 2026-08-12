@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "5817768004",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "5817768004",
+      "displayBoxCode": "5817768-004",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2009年己丑牛年生肖精制流通纪念币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10431616.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/5817768-004/",
+      "price": 500,
+      "priceWithFee": 540,
+      "transactedAt": "2026-07-29 20:02:05",
+      "productCode": "878686009",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/878686009A.jpg",
+      "ocrConfidence": 48,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2009年,生肖,年己,己丑,丑牛,牛年,年生,肖精,精制,制流,流通,通纪,纪念,念币,评级"
+    }
+  ]
+}

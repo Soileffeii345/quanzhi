@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6044688006",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6044688006",
+      "displayBoxCode": "6044688-006",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1986年中国硬币伍分",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10441540.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6044688-006/",
+      "price": 110,
+      "priceWithFee": 118.8,
+      "transactedAt": "2026-08-05 20:55:05",
+      "productCode": "879992016",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/31/879992016A.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1986年,年中,中国,国硬,硬币,币伍,伍分"
+    }
+  ]
+}

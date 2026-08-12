@@ -1,0 +1,48 @@
+{
+  "coinName": "民国三年交通银行天津地名伍圆",
+  "slug": "30cedf2e",
+  "saleCount": 2,
+  "keywords": "银,历史币,民国,国三,三年,年交,交通,通银,银行,行天,天津,津地,地名,名伍,伍圆,圆二,二枚",
+  "priceStats": {
+    "low": 510,
+    "high": 1440,
+    "avg": 975,
+    "latest": 1440
+  },
+  "records": [
+    {
+      "coinName": "民国三年交通银行天津地名伍圆",
+      "normalizedBoxCode": "2399911010",
+      "displayBoxCode": "2399911-010",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10414713.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2399911-010/",
+      "price": 1440,
+      "priceWithFee": 1598.4,
+      "transactedAt": "2026-08-06 21:04:45",
+      "productCode": "876747004",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国三,三年,年交,交通,通银,银行,行天,天津,津地,地名,名伍,伍圆"
+    },
+    {
+      "coinName": "民国三年交通银行天津地名伍圆二枚",
+      "normalizedBoxCode": "2133885051",
+      "displayBoxCode": "2133885-051",
+      "gradingCompany": "NGC",
+      "grade": "PR 15",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10394922.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2133885-051/15/",
+      "price": 510,
+      "priceWithFee": 566.1,
+      "transactedAt": "2026-07-30 19:29:40",
+      "productCode": "873834055",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国三,三年,年交,交通,通银,银行,行天,天津,津地,地名,名伍,伍圆,圆二,二枚"
+    }
+  ]
+}

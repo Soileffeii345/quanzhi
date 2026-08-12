@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "7022522001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "7022522001",
+      "displayBoxCode": "7022522-001",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2000年迎接新世纪纪念钞壹佰圆",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/27920.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/7022522-001/",
+      "price": 2400,
+      "priceWithFee": null,
+      "transactedAt": "2015-12-03 16:38:33",
+      "productCode": "BJ002869",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20151110/large_1_1447146446.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,2000年,年迎,迎接,接新,新世,世纪,纪纪,纪念,念钞,钞壹,壹佰,佰圆"
+    }
+  ]
+}

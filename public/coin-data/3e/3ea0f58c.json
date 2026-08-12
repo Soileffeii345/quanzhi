@@ -1,0 +1,31 @@
+{
+  "coinName": "1972年第三版人民币凸版伍角",
+  "slug": "3ea0f58c",
+  "saleCount": 1,
+  "keywords": "币,1972年,年第,第三,三版,版人,人民,民币,币凸,凸版,版伍,伍角",
+  "priceStats": {
+    "low": 250,
+    "high": 250,
+    "avg": 250,
+    "latest": 250
+  },
+  "records": [
+    {
+      "coinName": "1972年第三版人民币凸版伍角",
+      "normalizedBoxCode": "1852329071",
+      "displayBoxCode": "1852329-071",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/534173.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1852329-071/",
+      "price": 250,
+      "priceWithFee": null,
+      "transactedAt": "2026-01-21 21:12:00",
+      "productCode": "KH108495",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1972年,年第,第三,三版,版人,人民,民币,币凸,凸版,版伍,伍角"
+    }
+  ]
+}

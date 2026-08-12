@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "50163105",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "50163105",
+      "displayBoxCode": "50163105",
+      "gradingCompany": "PCGS",
+      "grade": "待复核",
+      "coinName": "2025年第十三届香港国际钱币联合展销会、大开门app线上专场、世界钱币及纸币、上海拍卖行2024年秋季钱币拍卖会、",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/qitaqianbi/10421286.shtml",
+      "officialCertUrl": "https://cn.pcgs.com/cert/50163105",
+      "price": 50,
+      "priceWithFee": 55.5,
+      "transactedAt": "2026-07-31 20:36:00",
+      "productCode": "876717003",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/876717003D.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,2025年,年第,第十,十三,三届,届香,香港,港国,国际,际钱,钱币,币联,联合,合展,展销,销会,会大,大开,开门,门线,线上,上专,专场,场世,世界,界钱,币及,及纸,纸币,币上,上海,海拍,拍卖,卖行,行年,年秋,秋季,季钱,币拍,卖会,外国/特区"
+    }
+  ]
+}

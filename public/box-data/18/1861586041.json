@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "1861586041",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "1861586041",
+      "displayBoxCode": "1861586-041",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2012年中国银行港币伍拾圆",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/liantichao-jinianchao/10431756.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1861586-041/",
+      "price": 200,
+      "priceWithFee": 216,
+      "transactedAt": "2026-08-01 19:52:45",
+      "productCode": "878682008",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/878682008B.jpg",
+      "ocrConfidence": 37,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2012年,年中,中国,国银,银行,行港,港币,币伍,伍拾,拾圆"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "coinName": "民国三年交通银行上海地名伍圆",
+  "slug": "458be201",
+  "saleCount": 2,
+  "keywords": "银,历史币,民国,国三,三年,年交,交通,通银,银行,行上,上海,海地,地名,名伍,伍圆",
+  "priceStats": {
+    "low": 720,
+    "high": 750,
+    "avg": 735,
+    "latest": 750
+  },
+  "records": [
+    {
+      "coinName": "民国三年交通银行上海地名伍圆",
+      "normalizedBoxCode": "2315251008",
+      "displayBoxCode": "2315251-008",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10410571.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2315251-008/",
+      "price": 750,
+      "priceWithFee": 832.5,
+      "transactedAt": "2026-08-06 19:43:55",
+      "productCode": "876315019",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国三,三年,年交,交通,通银,银行,行上,上海,海地,地名,名伍,伍圆"
+    },
+    {
+      "coinName": "民国三年交通银行上海地名伍圆",
+      "normalizedBoxCode": "2315251001",
+      "displayBoxCode": "2315251-001",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10403500.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2315251-001/",
+      "price": 720,
+      "priceWithFee": 799.2,
+      "transactedAt": "2026-07-30 21:19:10",
+      "productCode": "874940005",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国三,三年,年交,交通,通银,银行,行上,上海,海地,地名,名伍,伍圆"
+    }
+  ]
+}

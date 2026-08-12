@@ -1,15 +1,32 @@
 {
   "coinName": "2016年150克银币",
   "slug": "167ae05a",
-  "saleCount": 1,
-  "keywords": "银,币,2016年,150克,年克,克汤,汤显,显祖,祖银,银币",
+  "saleCount": 2,
+  "keywords": "银,章,2016年,150克,年世,世界,界遗,遗产,产大,大足,足石,石刻,刻克,克银,银章,币,年克,克汤,汤显,显祖,祖银,银币",
   "priceStats": {
-    "low": 9000,
+    "low": 4350,
     "high": 9000,
-    "avg": 9000,
-    "latest": 9000
+    "avg": 6675,
+    "latest": 4350
   },
   "records": [
+    {
+      "coinName": "2016年世界遗产-大足石刻150克银章",
+      "normalizedBoxCode": "6737223001",
+      "displayBoxCode": "6737223-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 68 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10439879.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6737223-001/68/",
+      "price": 4350,
+      "priceWithFee": 4502.25,
+      "transactedAt": "2026-08-06 19:43:25",
+      "productCode": "879528005",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,章,2016年,150克,年世,世界,界遗,遗产,产大,大足,足石,石刻,刻克,克银,银章"
+    },
     {
       "coinName": "2016年150克汤显祖银币",
       "normalizedBoxCode": "4421766005",

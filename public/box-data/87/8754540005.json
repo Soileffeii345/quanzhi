@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8754540005",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8754540005",
+      "displayBoxCode": "8754540-005",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "coinName": "1996年中国邮政100周年-大龙邮票1盎司普制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10405252.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8754540-005/69/",
+      "price": 790,
+      "priceWithFee": 817.65,
+      "transactedAt": "2026-08-03 19:48:30",
+      "productCode": "875556001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/875556001A.jpg",
+      "ocrConfidence": 40,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,钞,1996年,1盎司,年中,中国,国邮,邮政,政周,周年,年大,大龙,龙邮,邮票,票盎,盎司,司普,普制,制银,银币"
+    }
+  ]
+}

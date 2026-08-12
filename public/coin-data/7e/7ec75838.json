@@ -1,0 +1,31 @@
+{
+  "coinName": "2004年生肖3.11克普制金币",
+  "slug": "7ec75838",
+  "saleCount": 1,
+  "keywords": "金,币,2004年,10盎司,生肖,年甲,甲申,申猴,猴年,年生,肖盎,盎司,司普,普制,制金,金币",
+  "priceStats": {
+    "low": 3300,
+    "high": 3300,
+    "avg": 3300,
+    "latest": 3300
+  },
+  "records": [
+    {
+      "coinName": "2004年甲申猴年生肖1/10盎司普制金币",
+      "normalizedBoxCode": "6389886059",
+      "displayBoxCode": "6389886-059",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-jin/10430050.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6389886-059/69/",
+      "price": 3300,
+      "priceWithFee": 3415.5,
+      "transactedAt": "2026-07-30 20:45:25",
+      "productCode": "878535010",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2004年,10盎司,生肖,年甲,甲申,申猴,猴年,年生,肖盎,盎司,司普,普制,制金,金币"
+    }
+  ]
+}

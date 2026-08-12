@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8187205174",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8187205174",
+      "displayBoxCode": "8187205-174",
+      "gradingCompany": "NGC",
+      "grade": "PF 58 ULTRA CAMEO",
+      "coinName": "1992年珍稀动物第（3）组-雪豹27克精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10433896.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8187205-174/58/",
+      "price": 680,
+      "priceWithFee": 703.8,
+      "transactedAt": "2026-08-03 20:25:10",
+      "productCode": "878997020",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/878997020A.jpg",
+      "ocrConfidence": 37,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1992年,27克,年珍,珍稀,稀动,动物,物第,第组,组雪,雪豹,豹克,克精,精制,制银,银币,评级"
+    }
+  ]
+}

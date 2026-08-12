@@ -1,0 +1,31 @@
+{
+  "coinName": "2011年银币",
+  "slug": "7e31fa4c",
+  "saleCount": 1,
+  "keywords": "银,币,2011年,年拉,拉脱,脱维,维亚,亚诗,诗人,人亚,亚历,历山,山大,大查,查克,克斯,斯银,银币",
+  "priceStats": {
+    "low": 1050,
+    "high": 1050,
+    "avg": 1050,
+    "latest": 1050
+  },
+  "records": [
+    {
+      "coinName": "2011年拉脱维亚诗人亚历山大查克斯银币",
+      "normalizedBoxCode": "3362712011",
+      "displayBoxCode": "3362712-011",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/562374.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3362712-011/70/",
+      "price": 1050,
+      "priceWithFee": null,
+      "transactedAt": "2026-03-14 06:06:41",
+      "productCode": "KH124533",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2011年,年拉,拉脱,脱维,维亚,亚诗,诗人,人亚,亚历,历山,山大,大查,查克,克斯,斯银,银币"
+    }
+  ]
+}

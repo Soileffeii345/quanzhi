@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "7021690047",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "7021690047",
+      "displayBoxCode": "7021690-047",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "第二版人民币拖拉机1角",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/dierbanrenminbi/10450212.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/7021690-047/",
+      "price": 1560,
+      "priceWithFee": 1684.8,
+      "transactedAt": "2026-08-08 20:33:20",
+      "productCode": "881035029",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/32/881035029B.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,第二,二版,版人,人民,民币,币拖,拖拉,拉机,机角"
+    }
+  ]
+}

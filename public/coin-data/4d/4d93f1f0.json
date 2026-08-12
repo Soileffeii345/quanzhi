@@ -1,0 +1,48 @@
+{
+  "coinName": "2012年5盎司银币",
+  "slug": "4d93f1f0",
+  "saleCount": 2,
+  "keywords": "银,章,2012年,5盎司,年中,中国,国石,石窟,窟艺,艺术,术龙,龙门,门石,窟盎,盎司,司银,银章,术敦,敦煌,煌莫,莫高,高窟",
+  "priceStats": {
+    "low": 6700,
+    "high": 6700,
+    "avg": 6700,
+    "latest": 6700
+  },
+  "records": [
+    {
+      "coinName": "2012年中国石窟艺术-龙门石窟5盎司银章",
+      "normalizedBoxCode": "4406894004",
+      "displayBoxCode": "4406894-004",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10423631.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4406894-004/69/",
+      "price": 6700,
+      "priceWithFee": 6934.5,
+      "transactedAt": "2026-07-30 19:38:05",
+      "productCode": "877648006",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,章,2012年,5盎司,年中,中国,国石,石窟,窟艺,艺术,术龙,龙门,门石,窟盎,盎司,司银,银章"
+    },
+    {
+      "coinName": "2012年中国石窟艺术-敦煌莫高窟5盎司银章",
+      "normalizedBoxCode": "4406894001",
+      "displayBoxCode": "4406894-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10423630.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4406894-001/69/",
+      "price": 6700,
+      "priceWithFee": 6934.5,
+      "transactedAt": "2026-07-30 19:31:25",
+      "productCode": "877648005",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,章,2012年,5盎司,年中,中国,国石,石窟,窟艺,艺术,术敦,敦煌,煌莫,莫高,高窟,窟盎,盎司,司银,银章"
+    }
+  ]
+}

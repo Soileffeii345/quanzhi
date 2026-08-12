@@ -1,0 +1,31 @@
+{
+  "coinName": "民国十七年中央银行上海地名壹百圆",
+  "slug": "58ba5edd",
+  "saleCount": 1,
+  "keywords": "银,历史币,民国,国十,十七,七年,年中,中央,央银,银行,行上,上海,海地,地名,名壹,壹百,百圆",
+  "priceStats": {
+    "low": 1440,
+    "high": 1440,
+    "avg": 1440,
+    "latest": 1440
+  },
+  "records": [
+    {
+      "coinName": "民国十七年中央银行上海地名壹百圆",
+      "normalizedBoxCode": "2102159020",
+      "displayBoxCode": "2102159-020",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10394888.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2102159-020/",
+      "price": 1440,
+      "priceWithFee": 1598.4,
+      "transactedAt": "2026-07-30 19:50:10",
+      "productCode": "873834021",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国十,十七,七年,年中,中央,央银,银行,行上,上海,海地,地名,名壹,壹百,百圆"
+    }
+  ]
+}

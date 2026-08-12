@@ -1,0 +1,48 @@
+{
+  "coinName": "民国三十一年中央银行伍圆",
+  "slug": "4e31b9c1",
+  "saleCount": 2,
+  "keywords": "银,历史币,民国,国三,三十,十一,一年,年中,中央,央银,银行,行伍,伍圆",
+  "priceStats": {
+    "low": 460,
+    "high": 850,
+    "avg": 655,
+    "latest": 850
+  },
+  "records": [
+    {
+      "coinName": "民国三十一年中央银行伍圆",
+      "normalizedBoxCode": "2160120042",
+      "displayBoxCode": "2160120-042",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10401708.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2160120-042/",
+      "price": 850,
+      "priceWithFee": 943.5,
+      "transactedAt": "2026-08-06 19:29:20",
+      "productCode": "874987016",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国三,三十,十一,一年,年中,中央,央银,银行,行伍,伍圆"
+    },
+    {
+      "coinName": "民国三十一年中央银行伍圆",
+      "normalizedBoxCode": "2064329034",
+      "displayBoxCode": "2064329-034",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10394897.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2064329-034/",
+      "price": 460,
+      "priceWithFee": 510.6,
+      "transactedAt": "2026-07-30 19:51:10",
+      "productCode": "873834030",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国三,三十,十一,一年,年中,中央,央银,银行,行伍,伍圆"
+    }
+  ]
+}

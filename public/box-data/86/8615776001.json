@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8615776001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8615776001",
+      "displayBoxCode": "8615776-001",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2026年萨摩亚1盎司生肖马银币",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/584840.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8615776-001/",
+      "price": 1400,
+      "priceWithFee": null,
+      "transactedAt": "2026-07-01 11:32:57",
+      "productCode": "KH139039",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260528/large_sell_cffhboszyphcv0ie.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2026年,1盎司,生肖,年萨,萨摩,摩亚,亚盎,盎司,司生,肖马,马银,银币"
+    }
+  ]
+}

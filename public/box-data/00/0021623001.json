@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "0021623001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "0021623001",
+      "displayBoxCode": "0021623-001",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1986年1/2盎司第13届世界杯足球赛银币证书",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/554488.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/0021623-001/",
+      "price": 280,
+      "priceWithFee": null,
+      "transactedAt": "2026-03-23 19:06:34",
+      "productCode": "KH126411",
+      "evidenceImageUrl": "https://images.yjzx.com/AuctionImages/20260211/large_sell_fzmcpl9nhvrfzsfm.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1986年,2盎司,年盎,盎司,司第,第届,届世,世界,界杯,杯足,足球,球赛,赛银,银币,币证,证书"
+    }
+  ]
+}

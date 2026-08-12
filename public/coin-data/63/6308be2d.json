@@ -1,0 +1,31 @@
+{
+  "coinName": "2004年生肖2公斤银币",
+  "slug": "6308be2d",
+  "saleCount": 1,
+  "keywords": "银,币,2004年,2公斤,生肖,年澳,澳大,大利,利亚,亚猴,猴年,年生,肖公,公斤,斤银,银币,外国/特区",
+  "priceStats": {
+    "low": 7500,
+    "high": 7500,
+    "avg": 7500,
+    "latest": 7500
+  },
+  "records": [
+    {
+      "coinName": "2004年澳大利亚猴年生肖1/2公斤银币",
+      "normalizedBoxCode": "8824986004",
+      "displayBoxCode": "8824986-004",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/wgjsbizhang/10449259.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8824986-004/69/",
+      "price": 7500,
+      "priceWithFee": 7950,
+      "transactedAt": "2026-08-07 20:07:35",
+      "productCode": "881125004",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2004年,2公斤,生肖,年澳,澳大,大利,利亚,亚猴,猴年,年生,肖公,公斤,斤银,银币,外国/特区"
+    }
+  ]
+}

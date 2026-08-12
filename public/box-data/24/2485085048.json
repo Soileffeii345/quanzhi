@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2485085048",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2485085048",
+      "displayBoxCode": "2485085-048",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1979年中国银行外汇兑换券壹角五星水印",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waihuiduihuanquan/10438351.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2485085-048/",
+      "price": 220,
+      "priceWithFee": 237.6,
+      "transactedAt": "2026-08-01 21:35:25",
+      "productCode": "879103010",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/31/879103010B.jpg",
+      "ocrConfidence": 45,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,1979年,年中,中国,国银,银行,行外,外汇,汇兑,兑换,换券,券壹,壹角,角五,五星,星水,水印"
+    }
+  ]
+}

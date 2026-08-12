@@ -1,15 +1,32 @@
 {
   "coinName": "2012年熊猫31.104克精制金币",
   "slug": "3bf6c1b5",
-  "saleCount": 1,
+  "saleCount": 2,
   "keywords": "金,币,2012年,1盎司,熊猫,年熊,猫金,金币,币发,发行,行周,周年,年盎,盎司,司精,精制,制金,评级",
   "priceStats": {
-    "low": 32000,
+    "low": 30500,
     "high": 32000,
-    "avg": 32000,
-    "latest": 32000
+    "avg": 31250,
+    "latest": 30500
   },
   "records": [
+    {
+      "coinName": "2012年熊猫金币发行30周年1盎司精制金币",
+      "normalizedBoxCode": "8817038003",
+      "displayBoxCode": "8817038-003",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-jiujin/10446876.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8817038-003/69/",
+      "price": 30500,
+      "priceWithFee": 31567.5,
+      "transactedAt": "2026-08-10 21:57:40",
+      "productCode": "880849010",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2012年,1盎司,熊猫,年熊,猫金,金币,币发,发行,行周,周年,年盎,盎司,司精,精制,制金,评级"
+    },
     {
       "coinName": "2012年熊猫金币发行30周年1盎司精制金币",
       "normalizedBoxCode": "8819609028",

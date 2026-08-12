@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "1310800194",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "1310800194",
+      "displayBoxCode": "1310800-194",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "中华苏维埃共和国一分铜币（后铸版）、民国三年军政府造四川铜币壹百文铜币（甘肃砂版）各一枚，共二枚",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguojindaijizhibi/10397326.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1310800-194/",
+      "price": 220,
+      "priceWithFee": 237.6,
+      "transactedAt": "2026-08-03 21:17:05",
+      "productCode": "874902002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/28/874902002A.jpg",
+      "ocrConfidence": 29,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "铜,币,历史币,四川,川造,苏区,甘肃版,中华,华苏,苏维,维埃,埃共,共和,和国,国一,一分,分铜,铜币,币后,后铸,铸版,版民,民国,国三,三年,年军,军政,政府,府造,造四,川铜,币壹,壹百,百文,文铜,币甘,甘肃,肃砂,砂版,版各,各一,一枚,枚共,共二,二枚"
+    }
+  ]
+}

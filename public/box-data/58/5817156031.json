@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "5817156031",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "5817156031",
+      "displayBoxCode": "5817156-031",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1999年庆祝中华人民共和国澳门特别行政区成立精制流通纪念币二枚一套",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10415295.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/5817156-031/69/",
+      "price": 450,
+      "priceWithFee": 486,
+      "transactedAt": "2026-07-29 19:38:45",
+      "productCode": "876792003",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/876792003A.jpg",
+      "ocrConfidence": 42,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1999年,年庆,庆祝,祝中,中华,华人,人民,民共,共和,和国,国澳,澳门,门特,特别,别行,行政,政区,区成,成立,立精,精制,制流,流通,通纪,纪念,念币,币二,二枚,枚一,一套,评级,外国/特区"
+    }
+  ]
+}

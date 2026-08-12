@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2387672003",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2387672003",
+      "displayBoxCode": "2387672-003",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "民国三十年航空救国券美金拾圆",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/gupiao-zhaiquan/10390965.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2387672-003/",
+      "price": 930,
+      "priceWithFee": 1032.3,
+      "transactedAt": "2026-07-30 19:06:10",
+      "productCode": "873696001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/27/873696001B.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,历史币,民国,国三,三十,十年,年航,航空,空救,救国,国券,券美,美金,金拾,拾圆"
+    }
+  ]
+}

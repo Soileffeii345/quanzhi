@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4546407004",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4546407004",
+      "displayBoxCode": "4546407-004",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1985年中国硬币伍分",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10441539.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4546407-004/",
+      "price": 130,
+      "priceWithFee": 140.4,
+      "transactedAt": "2026-08-05 20:59:35",
+      "productCode": "879992015",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/31/879992015A.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1985年,年中,中国,国硬,硬币,币伍,伍分"
+    }
+  ]
+}

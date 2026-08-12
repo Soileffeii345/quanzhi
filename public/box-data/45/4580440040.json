@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4580440040",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4580440040",
+      "displayBoxCode": "4580440-040",
+      "gradingCompany": "NGC",
+      "grade": "PF 68 ULTRA CAMEO",
+      "coinName": "1994年中国古代科技发明发现第（3）组-慧星发现22克精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10443154.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4580440-040/68/",
+      "price": 710,
+      "priceWithFee": 734.85,
+      "transactedAt": "2026-08-03 20:13:05",
+      "productCode": "880286009",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/31/880286009A.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1994年,22克,年中,中国,国古,古代,代科,科技,技发,发明,明发,发现,现第,第组,组慧,慧星,星发,现克,克精,精制,制银,银币,评级"
+    }
+  ]
+}

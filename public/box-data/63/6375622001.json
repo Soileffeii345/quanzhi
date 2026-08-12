@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6375622001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6375622001",
+      "displayBoxCode": "6375622-001",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1990第11届亚洲运动会-舞剑精制流通纪念币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10441510.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6375622-001/",
+      "price": 2050,
+      "priceWithFee": 2214,
+      "transactedAt": "2026-08-05 20:02:05",
+      "productCode": "879976002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/31/879976002A.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,第届,届亚,亚洲,洲运,运动,动会,会舞,舞剑,剑精,精制,制流,流通,通纪,纪念,念币,评级"
+    }
+  ]
+}

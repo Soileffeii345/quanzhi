@@ -1,0 +1,65 @@
+{
+  "coinName": "2011年31.104克精制金币",
+  "slug": "3c2ee275",
+  "saleCount": 3,
+  "keywords": "金,银,币,2011年,1盎司,年世,世界,界自,自然,然基,基金,金会,会成,成立,立周,周年,年藏,藏羚,羚羊,羊盎,盎司,司精,精制,制银,银币,币二,二枚,评级",
+  "priceStats": {
+    "low": 560,
+    "high": 1420,
+    "avg": 903,
+    "latest": 1420
+  },
+  "records": [
+    {
+      "coinName": "2011年世界自然基金会成立50周年-藏羚羊1盎司精制银币二枚",
+      "normalizedBoxCode": "8204480025",
+      "displayBoxCode": "8204480-025",
+      "gradingCompany": "NGC",
+      "grade": "PF70 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10428968.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8204480-025/70/",
+      "price": 1420,
+      "priceWithFee": 1469.7,
+      "transactedAt": "2026-08-03 21:59:45",
+      "productCode": "878278005",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,2011年,1盎司,年世,世界,界自,自然,然基,基金,金会,会成,成立,立周,周年,年藏,藏羚,羚羊,羊盎,盎司,司精,精制,制银,银币,币二,二枚,评级"
+    },
+    {
+      "coinName": "2011年世界自然基金会成立50周年-藏羚羊1盎司精制银币",
+      "normalizedBoxCode": "8188108042",
+      "displayBoxCode": "8188108-042",
+      "gradingCompany": "NGC",
+      "grade": "PF70 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10428967.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8188108-042/70/",
+      "price": 730,
+      "priceWithFee": 755.55,
+      "transactedAt": "2026-08-03 19:50:10",
+      "productCode": "878278004",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,2011年,1盎司,年世,世界,界自,自然,然基,基金,金会,会成,成立,立周,周年,年藏,藏羚,羚羊,羊盎,盎司,司精,精制,制银,银币,评级"
+    },
+    {
+      "coinName": "2011年世界自然基金会成立50周年-藏羚羊1盎司精制银币",
+      "normalizedBoxCode": "8204480044",
+      "displayBoxCode": "8204480-044",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10428966.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8204480-044/69/",
+      "price": 560,
+      "priceWithFee": 579.6,
+      "transactedAt": "2026-08-03 19:31:25",
+      "productCode": "878278003",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,2011年,1盎司,年世,世界,界自,自然,然基,基金,金会,会成,成立,立周,周年,年藏,藏羚,羚羊,羊盎,盎司,司精,精制,制银,银币,评级"
+    }
+  ]
+}

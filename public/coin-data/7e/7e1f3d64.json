@@ -1,0 +1,65 @@
+{
+  "coinName": "2024年贺岁",
+  "slug": "7e1f3d64",
+  "saleCount": 3,
+  "keywords": "钞,2024年,生肖,吉祥文化,年贺,贺岁,岁龙,龙年,年纪,纪念,念钞",
+  "priceStats": {
+    "low": 400,
+    "high": 2900,
+    "avg": 1833,
+    "latest": 2200
+  },
+  "records": [
+    {
+      "coinName": "2024年贺岁龙年纪念钞",
+      "normalizedBoxCode": "2328213109",
+      "displayBoxCode": "2328213-109",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/571980.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2328213-109/",
+      "price": 2200,
+      "priceWithFee": null,
+      "transactedAt": "2026-05-07 10:13:24",
+      "productCode": "KH132821",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,2024年,生肖,吉祥文化,年贺,贺岁,岁龙,龙年,年纪,纪念,念钞"
+    },
+    {
+      "coinName": "2024年贺岁龙年纪念钞",
+      "normalizedBoxCode": "2344452048",
+      "displayBoxCode": "2344452-048",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/477917.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2344452-048/",
+      "price": 400,
+      "priceWithFee": null,
+      "transactedAt": "2025-05-17 20:15:20",
+      "productCode": "KH066661",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,2024年,生肖,吉祥文化,年贺,贺岁,岁龙,龙年,年纪,纪念,念钞"
+    },
+    {
+      "coinName": "2024年贺岁龙年纪念钞",
+      "normalizedBoxCode": "1033362024",
+      "displayBoxCode": "1033362-024",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/413992.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1033362-024/",
+      "price": 2900,
+      "priceWithFee": null,
+      "transactedAt": "2024-01-25 14:11:46",
+      "productCode": "KH051514",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,2024年,生肖,吉祥文化,年贺,贺岁,岁龙,龙年,年纪,纪念,念钞"
+    }
+  ]
+}

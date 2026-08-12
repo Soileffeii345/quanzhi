@@ -1,15 +1,49 @@
 {
   "coinName": "1994年3盎司精制金币",
   "slug": "21170851",
-  "saleCount": 1,
+  "saleCount": 3,
   "keywords": "金,币,1994年,3盎司,年世,世界,界文,文化,化名,名人,人第,第组,组周,周文,文王,王盎,盎司,司精,精制,制金,金币,评级",
   "priceStats": {
-    "low": 18200,
+    "low": 15400,
     "high": 18200,
-    "avg": 18200,
-    "latest": 18200
+    "avg": 16400,
+    "latest": 15400
   },
   "records": [
+    {
+      "coinName": "1994年世界文化名人第（4）组-周文王1/3盎司精制金币",
+      "normalizedBoxCode": "8587808010",
+      "displayBoxCode": "8587808-010",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10433927.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8587808-010/69/",
+      "price": 15400,
+      "priceWithFee": 15939,
+      "transactedAt": "2026-07-30 20:54:45",
+      "productCode": "878995007",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1994年,3盎司,年世,世界,界文,文化,化名,名人,人第,第组,组周,周文,文王,王盎,盎司,司精,精制,制金,金币,评级"
+    },
+    {
+      "coinName": "1994年世界文化名人第（4）组-周文王1/3盎司精制金币",
+      "normalizedBoxCode": "6050433049",
+      "displayBoxCode": "6050433-049",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10429916.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6050433-049/69/",
+      "price": 15600,
+      "priceWithFee": 16146,
+      "transactedAt": "2026-07-30 20:34:05",
+      "productCode": "878492001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1994年,3盎司,年世,世界,界文,文化,化名,名人,人第,第组,组周,周文,文王,王盎,盎司,司精,精制,制金,金币,评级"
+    },
     {
       "coinName": "1994年世界文化名人第（4）组-周文王1/3盎司精制金币",
       "normalizedBoxCode": "3849568001",

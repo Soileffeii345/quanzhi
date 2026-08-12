@@ -1,0 +1,31 @@
+{
+  "coinName": "民国三年交通银行上海地名拾圆连号",
+  "slug": "1cf15fd9",
+  "saleCount": 1,
+  "keywords": "银,历史币,民国,国三,三年,年交,交通,通银,银行,行上,上海,海地,地名,名拾,拾圆,圆连,连号,号二,二枚",
+  "priceStats": {
+    "low": 360,
+    "high": 360,
+    "avg": 360,
+    "latest": 360
+  },
+  "records": [
+    {
+      "coinName": "民国三年交通银行上海地名拾圆连号二枚",
+      "normalizedBoxCode": "2135984045",
+      "displayBoxCode": "2135984-045",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10394906.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2135984-045/",
+      "price": 360,
+      "priceWithFee": 399.6,
+      "transactedAt": "2026-07-30 19:26:40",
+      "productCode": "873834039",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国三,三年,年交,交通,通银,银行,行上,上海,海地,地名,名拾,拾圆,圆连,连号,号二,二枚"
+    }
+  ]
+}

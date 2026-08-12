@@ -1,15 +1,32 @@
 {
   "coinName": "2017年2盎司银币",
   "slug": "3318f452",
-  "saleCount": 1,
-  "keywords": "银,章,2017年,2盎司,年盎,盎司,司中,中国,国古,古典,典园,园林,林水,水绘,绘园,园银,银章",
+  "saleCount": 2,
+  "keywords": "银,币,2017年,2盎司,年纽,纽埃,埃盎,盎司,司宙,宙斯,斯仿,仿古,古银,银币,章,年盎,司中,中国,国古,古典,典园,园林,林水,水绘,绘园,园银,银章",
   "priceStats": {
     "low": 880,
-    "high": 880,
-    "avg": 880,
-    "latest": 880
+    "high": 1600,
+    "avg": 1240,
+    "latest": 1600
   },
   "records": [
+    {
+      "coinName": "2017年纽埃2盎司宙斯仿古银币",
+      "normalizedBoxCode": "4891812002",
+      "displayBoxCode": "4891812-002",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "platform": "易金在线",
+      "detailUrl": "https://www.yjzx.com/web2020/sell/detail/574288.html",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4891812-002/69/",
+      "price": 1600,
+      "priceWithFee": null,
+      "transactedAt": "2026-05-12 08:54:44",
+      "productCode": "KH134233",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2017年,2盎司,年纽,纽埃,埃盎,盎司,司宙,宙斯,斯仿,仿古,古银,银币"
+    },
     {
       "coinName": "2017年2盎司中国古典园林水绘园银章",
       "normalizedBoxCode": "4642971010",

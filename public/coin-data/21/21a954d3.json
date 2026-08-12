@@ -1,15 +1,32 @@
 {
   "coinName": "第二版人民币拖拉机1角",
   "slug": "21a954d3",
-  "saleCount": 3,
+  "saleCount": 4,
   "keywords": "币,第二,二版,版人,人民,民币,币拖,拖拉,拉机,机角",
   "priceStats": {
     "low": 700,
-    "high": 1200,
-    "avg": 1007,
-    "latest": 1120
+    "high": 1560,
+    "avg": 1145,
+    "latest": 1560
   },
   "records": [
+    {
+      "coinName": "第二版人民币拖拉机1角",
+      "normalizedBoxCode": "7021690047",
+      "displayBoxCode": "7021690-047",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/dierbanrenminbi/10450212.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/7021690-047/",
+      "price": 1560,
+      "priceWithFee": 1684.8,
+      "transactedAt": "2026-08-08 20:33:20",
+      "productCode": "881035029",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,第二,二版,版人,人民,民币,币拖,拖拉,拉机,机角"
+    },
     {
       "coinName": "第二版人民币拖拉机1角",
       "normalizedBoxCode": "7046916060",
