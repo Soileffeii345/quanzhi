@@ -1,11 +1,6 @@
 name: Daily verified-data update
 
 on:
-  push:
-    branches: [main]
-    paths:
-      - ".github/workflows/daily-update.yml"
-      - "bootstrap/quanzhi.sqlite.gz"
   schedule:
     # Monday-Saturday: Beijing time 08:00, incremental only.
     - cron: "0 0 * * 1-6"
