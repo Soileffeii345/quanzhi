@@ -326,10 +326,10 @@ export default function Home() {
         priceLabel: r.priceWithFee === null ? "成交价" : `成交价（含佣¥${r.priceWithFee.toLocaleString()}）`,
         time: r.transactedAt,
         timeLabel: "成交时间",
-        status: r.verificationStatus === "user_screenshot" ? "截图证据·原链接待复核"
-          : r.saleStatus === "在售" ? "🟢 在售"
-          : r.verificationStatus === "official_pending" ? "交易页已核验 · 官方待确认"
-          : "已售",
+        status: r.verificationStatus === "user_screenshot" ? "待复核"
+          : r.saleStatus === "在售" ? "在售 · 原交易页状态已核对"
+          : r.verificationStatus === "verified" ? "已成交 / 已结束 · 评级机构官网已核验"
+          : "已成交 / 已结束 · 原交易页已核对 · 评级机构官网待复核",
         url: r.detailUrl,
         match: databaseData.match === "exact" ? "exact-box" : "keyword",
         coinName: r.coinName,

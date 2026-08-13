@@ -116,17 +116,17 @@ function formatBeijingTime(value) {
   }).format(date).replaceAll("/", "-");
 }
 
-const statusMap = {
-  verified: "双重核验成交",
-  image_exact: "成交页核验通过",
-  official_pending: "成交页已核验 · 官方待复核",
-  active_listing: "🟣 原页面在售",
+const verificationMap = {
+  verified: "评级机构官网已核验",
+  image_exact: "原交易页已核对 · 评级机构官网待复核",
+  official_pending: "原交易页已核对 · 评级机构官网待复核",
+  active_listing: "原交易页在售状态已核对",
   ocr_pending_review: "待人工复核",
-  ocr_double_match: "盒号双重识别",
-  youbao_trade: "成交页核验通过",
-  youbao_active: "🟣 原页面在售",
-  transaction_check_failed: "原页面复核失败",
-  ocr_mismatch: "盒号识别不一致",
+  ocr_double_match: "盒号图片识别待复核",
+  youbao_trade: "原交易页已核对 · 评级机构官网待复核",
+  youbao_active: "原交易页在售状态已核对",
+  transaction_check_failed: "原交易页暂时无法确认",
+  ocr_mismatch: "盒号图片识别不一致",
 };
 
 const platformColors = {
@@ -171,7 +171,8 @@ for (const r of rows) {
     <td style="color:${platformColors[r.platform] || "#1f2937"};font-weight:500">${esc(r.platform)}</td>
     <td style="text-align:right;font-weight:600">${r.price !== null ? `${isActive ? "报价 " : "成交 "}¥${r.price.toLocaleString()}` : "—"}</td>
     <td style="font-size:12px;color:#6b7280">${esc(displayTime) || "—"}<br/><span style="font-size:10px;color:#98a2b3">${isActive ? "采集时间" : "成交时间"}</span></td>
-    <td style="font-size:12px">${statusMap[r.verification_status] || esc(r.verification_status)}</td>
+    <td style="font-size:12px;font-weight:600;color:${isActive ? "#067647" : "#344054"}">${isActive ? "在售" : "已成交 / 已结束"}</td>
+    <td style="font-size:12px">${verificationMap[r.verification_status] || "待复核"}</td>
     <td style="font-size:12px">${r.detail_url ? `<a href="${esc(r.detail_url)}" target="_blank">交易页↗</a>` : "—"}</td>
     <td style="font-size:12px">${r.official_cert_url ? `<a href="${esc(r.official_cert_url)}" target="_blank">NGC/PCGS↗</a>` : "—"}</td>
     <td style="font-size:12px">${r.evidence_image_url ? `<a href="${esc(r.evidence_image_url)}" target="_blank">标签图↗</a>` : "—"}</td>
@@ -297,9 +298,10 @@ const html = `<!DOCTYPE html>
           <th>平台</th>
           <th style="text-align:right">成交价 / 当前报价</th>
           <th>成交时间 / 采集时间</th>
-          <th>状态</th>
-          <th>交易页</th>
-          <th>官方认证</th>
+          <th>商品状态</th>
+          <th>核验状态</th>
+          <th>原交易页</th>
+          <th>评级机构官网</th>
           <th>标签图</th>
         </tr>
       </thead>

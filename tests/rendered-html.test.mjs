@@ -47,8 +47,11 @@ test("database page exposes truthful freshness and combinable filters", async ()
   assert.match(databasePage, /数据页面生成于/);
   assert.match(databasePage, /更新失败时继续保留上一版已验证数据/);
   assert.match(databasePage, /全部平台/);
-  assert.match(databasePage, /成交页已核验 · 官方待复核/);
-  assert.match(databasePage, /🟣 原页面在售/);
+  assert.match(databasePage, /商品状态/);
+  assert.match(databasePage, /核验状态/);
+  assert.match(databasePage, /原交易页已核对 · 评级机构官网待复核/);
+  assert.doesNotMatch(databasePage, /成交页已核验/);
+  assert.match(databasePage, /原交易页在售状态已核对/);
   assert.match(databasePage, /activePlatform !== 'all'/);
   assert.match(databasePage, /const pageSize = 100/);
   assert.match(databasePage, /上一页/);

@@ -766,7 +766,7 @@ export default function CoinPage({ searchParams }: { searchParams?: { name?: str
                               <span style={{ color: "#c0c7d0", fontSize: 12 }}>—</span>
                             )}
                             <span style={{ display: "block", marginTop: 5, color: r.verificationStatus === "official_pending" ? "#b54708" : "#027a48", fontSize: 9, whiteSpace: "nowrap" }}>
-                              {r.verificationStatus === "official_pending" ? "交易页已核验 · 官方待确认" : "交易记录已核验"}
+                              {r.verificationStatus === "verified" ? "评级机构官网已核验" : "原交易页已核对 · 评级机构官网待复核"}
                             </span>
                           </td>
                         </tr>
