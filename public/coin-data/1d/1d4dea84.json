@@ -1,15 +1,32 @@
 {
   "coinName": "民国二十六年中国农民银行贰角",
   "slug": "1d4dea84",
-  "saleCount": 4,
+  "saleCount": 5,
   "keywords": "银,历史币,民国,国二,二十,十六,六年,年中,中国,国农,农民,民银,银行,行贰,贰角",
   "priceStats": {
     "low": 270,
     "high": 1360,
-    "avg": 663,
-    "latest": 1360
+    "avg": 692,
+    "latest": 810
   },
   "records": [
+    {
+      "coinName": "民国二十六年中国农民银行贰角",
+      "normalizedBoxCode": "2105036048",
+      "displayBoxCode": "2105036-048",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10421162.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2105036-048/",
+      "price": 810,
+      "priceWithFee": 899.1,
+      "transactedAt": "2026-08-13 21:50:40",
+      "productCode": "877420002",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国二,二十,十六,六年,年中,中国,国农,农民,民银,银行,行贰,贰角"
+    },
     {
       "coinName": "民国二十六年中国农民银行贰角",
       "normalizedBoxCode": "1401647039",

@@ -1,15 +1,32 @@
 {
   "coinName": "2000年生肖3.11克普制金币",
   "slug": "414b3234",
-  "saleCount": 2,
+  "saleCount": 3,
   "keywords": "金,币,2000年,10盎司,生肖,年庚,庚辰,辰龙,龙年,年生,肖盎,盎司,司普,普制,制金,金币",
   "priceStats": {
     "low": 4100,
     "high": 4350,
-    "avg": 4225,
-    "latest": 4350
+    "avg": 4233,
+    "latest": 4250
   },
   "records": [
+    {
+      "coinName": "2000年庚辰龙年生肖1/10盎司普制金币",
+      "normalizedBoxCode": "8185636009",
+      "displayBoxCode": "8185636-009",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-jin/10447812.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8185636-009/69/",
+      "price": 4250,
+      "priceWithFee": 4398.75,
+      "transactedAt": "2026-08-13 20:25:55",
+      "productCode": "881199001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2000年,10盎司,生肖,年庚,庚辰,辰龙,龙年,年生,肖盎,盎司,司普,普制,制金,金币"
+    },
     {
       "coinName": "2000年庚辰龙年生肖1/10盎司普制金币",
       "normalizedBoxCode": "8192718001",

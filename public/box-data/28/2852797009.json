@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2852797009",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2852797009",
+      "displayBoxCode": "2852797-009",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1998年熊猫1/4盎司普制金币（大字版）",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-jiujin/10447058.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2852797-009/",
+      "price": 41000,
+      "priceWithFee": 42435,
+      "transactedAt": "2026-08-13 20:53:25",
+      "productCode": "880847004",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/32/880847004A.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1998年,4盎司,熊猫,年熊,猫盎,盎司,司普,普制,制金,金币,币大,大字,字版"
+    }
+  ]
+}

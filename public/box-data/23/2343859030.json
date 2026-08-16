@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2343859030",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2343859030",
+      "displayBoxCode": "2343859-030",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "民国九年兴业银行伍圆",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shangyeyinhangzhichao/10422285.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2343859-030/",
+      "price": 2000,
+      "priceWithFee": 2220,
+      "transactedAt": "2026-08-13 21:18:10",
+      "productCode": "877402006",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/877402006B.jpg",
+      "ocrConfidence": 28,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国九,九年,年兴,兴业,业银,银行,行伍,伍圆"
+    }
+  ]
+}

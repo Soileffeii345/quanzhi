@@ -1,0 +1,31 @@
+{
+  "coinName": "2017年铜币",
+  "slug": "7e2eb360",
+  "saleCount": 1,
+  "keywords": "金,铜,币,章,2017年,历史币,年二,二十,十四,四福,福紫,紫铜,铜纪,纪念,念章,章一,一枚,枚年,年光,光绪,绪丙,丙午,午年,年造,造大,大清,清金,金币,币库,库平,平一,一两,两镀,镀金,金纪",
+  "priceStats": {
+    "low": 310,
+    "high": 310,
+    "avg": 310,
+    "latest": 310
+  },
+  "records": [
+    {
+      "coinName": "2017年二十四福紫铜纪念章一枚、2021年“光绪丙午年造大清金币库平一两”镀金纪念章一枚",
+      "normalizedBoxCode": "8659740004",
+      "displayBoxCode": "8659740-004",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/tongzhang/10448598.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8659740-004/70/",
+      "price": 310,
+      "priceWithFee": 344.1,
+      "transactedAt": "2026-08-14 19:54:20",
+      "productCode": "881054010",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,铜,币,章,2017年,历史币,年二,二十,十四,四福,福紫,紫铜,铜纪,纪念,念章,章一,一枚,枚年,年光,光绪,绪丙,丙午,午年,年造,造大,大清,清金,金币,币库,库平,平一,一两,两镀,镀金,金纪"
+    }
+  ]
+}

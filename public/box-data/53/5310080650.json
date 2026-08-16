@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "5310080650",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "5310080650",
+      "displayBoxCode": "5310080-650",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "毛主席像章",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/tongzhang/10436232.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/5310080-650/",
+      "price": 25,
+      "priceWithFee": 27.75,
+      "transactedAt": "2026-08-14 20:10:10",
+      "productCode": "878872001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/31/878872001A.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "章,毛主,主席,席像,像章"
+    }
+  ]
+}

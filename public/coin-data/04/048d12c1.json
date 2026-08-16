@@ -1,15 +1,32 @@
 {
   "coinName": "1993年熊猫31.104克精制银币",
   "slug": "048d12c1",
-  "saleCount": 8,
+  "saleCount": 9,
   "keywords": "银,币,1993年,1盎司,熊猫,年熊,猫盎,盎司,司精,精制,制银,银币,币版,评级",
   "priceStats": {
     "low": 1560,
-    "high": 2600,
-    "avg": 2016,
-    "latest": 1560
+    "high": 11000,
+    "avg": 3014,
+    "latest": 11000
   },
   "records": [
+    {
+      "coinName": "1993年熊猫1盎司精制银币（P版）",
+      "normalizedBoxCode": "8776694006",
+      "displayBoxCode": "8776694-006",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-jiuyin/10409981.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8776694-006/70/",
+      "price": 11000,
+      "priceWithFee": 11385,
+      "transactedAt": "2026-08-13 19:47:35",
+      "productCode": "875969004",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1993年,1盎司,熊猫,年熊,猫盎,盎司,司精,精制,制银,银币,币版,评级"
+    },
     {
       "coinName": "1993年熊猫1盎司精制银币（P版）",
       "normalizedBoxCode": "8765667036",

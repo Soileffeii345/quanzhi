@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8203342049",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8203342049",
+      "displayBoxCode": "8203342-049",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2022年孔雀明王镀金纪念章",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/tongzhang/10448596.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8203342-049/",
+      "price": 160,
+      "priceWithFee": 177.6,
+      "transactedAt": "2026-08-14 19:33:30",
+      "productCode": "881054008",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/32/881054008A.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,章,2022年,年孔,孔雀,雀明,明王,王镀,镀金,金纪,纪念,念章"
+    }
+  ]
+}

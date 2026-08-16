@@ -1,0 +1,31 @@
+{
+  "coinName": "2012年奥运会156.295克银币",
+  "slug": "52193c99",
+  "saleCount": 1,
+  "keywords": "银,币,2012年,156.295克,奥运,年英,英国,国伦,伦敦,敦奥,运会,会飞,飞马,马克,克银,银币,外国/特区",
+  "priceStats": {
+    "low": 3050,
+    "high": 3050,
+    "avg": 3050,
+    "latest": 3050
+  },
+  "records": [
+    {
+      "coinName": "2012年英国伦敦奥运会飞马156.295克银币",
+      "normalizedBoxCode": "6333311059",
+      "displayBoxCode": "6333311-059",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/wgjsbizhang/10164703.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6333311-059/69/",
+      "price": 3050,
+      "priceWithFee": 3233,
+      "transactedAt": "2026-08-14 19:36:45",
+      "productCode": "847781008",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2012年,156.295克,奥运,年英,英国,国伦,伦敦,敦奥,运会,会飞,飞马,马克,克银,银币,外国/特区"
+    }
+  ]
+}

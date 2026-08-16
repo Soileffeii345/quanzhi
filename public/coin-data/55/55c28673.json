@@ -1,0 +1,31 @@
+{
+  "coinName": "同治二十年崇德全贰千文",
+  "slug": "55c28673",
+  "saleCount": 1,
+  "keywords": "同治,治二,二十,十年,年崇,崇德,德全,全贰,贰千,千文",
+  "priceStats": {
+    "low": 810,
+    "high": 810,
+    "avg": 810,
+    "latest": 810
+  },
+  "records": [
+    {
+      "coinName": "同治二十年崇德全贰千文",
+      "normalizedBoxCode": "1510273776",
+      "displayBoxCode": "1510273-776",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/mingqingzhichao/10424908.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1510273-776/",
+      "price": 810,
+      "priceWithFee": 899.1,
+      "transactedAt": "2026-08-13 21:16:10",
+      "productCode": "877857007",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "同治,治二,二十,十年,年崇,崇德,德全,全贰,贰千,千文"
+    }
+  ]
+}

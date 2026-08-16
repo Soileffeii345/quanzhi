@@ -1,0 +1,31 @@
+{
+  "coinName": "2024年5盎司金币",
+  "slug": "38a1f4ae",
+  "saleCount": 1,
+  "keywords": "金,银,币,2024年,5盎司,年纽,纽埃,埃金,金牛,牛座,座夜,夜光,光变,变色,色高,高浮,浮雕,雕盎,盎司,司银,银币",
+  "priceStats": {
+    "low": 4700,
+    "high": 4700,
+    "avg": 4700,
+    "latest": 4700
+  },
+  "records": [
+    {
+      "coinName": "2024年纽埃金牛座夜光变色高浮雕5盎司银币",
+      "normalizedBoxCode": "8504447009",
+      "displayBoxCode": "8504447-009",
+      "gradingCompany": "NGC",
+      "grade": "MS 70",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/wgjsbizhang/10274491.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8504447-009/70/",
+      "price": 4700,
+      "priceWithFee": 4982,
+      "transactedAt": "2026-08-14 19:30:55",
+      "productCode": "860995004",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,2024年,5盎司,年纽,纽埃,埃金,金牛,牛座,座夜,夜光,光变,变色,色高,高浮,浮雕,雕盎,盎司,司银,银币"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "3449538036",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "3449538036",
+      "displayBoxCode": "3449538-036",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2003年莲花观音1/10盎司精制幻彩金币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10447074.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3449538-036/70/",
+      "price": 3850,
+      "priceWithFee": 3984.75,
+      "transactedAt": "2026-08-13 20:51:45",
+      "productCode": "880845001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/32/880845001A.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2003年,10盎司,宗教,年莲,莲花,花观,观音,音盎,盎司,司精,精制,制幻,幻彩,彩金,金币,评级"
+    }
+  ]
+}

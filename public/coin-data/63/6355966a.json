@@ -1,15 +1,32 @@
 {
   "coinName": "1981年生肖8克精制金币",
   "slug": "6355966a",
-  "saleCount": 2,
+  "saleCount": 3,
   "keywords": "金,币,1981年,8克,生肖,年辛,辛酉,酉鸡,鸡年,年生,肖克,克精,精制,制金,金币,评级",
   "priceStats": {
-    "low": 22000,
+    "low": 20000,
     "high": 22500,
-    "avg": 22250,
-    "latest": 22000
+    "avg": 21500,
+    "latest": 20000
   },
   "records": [
+    {
+      "coinName": "1981年辛酉鸡年生肖8克精制金币",
+      "normalizedBoxCode": "8601854003",
+      "displayBoxCode": "8601854-003",
+      "gradingCompany": "NGC",
+      "grade": "PF 68 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-jin/10439319.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8601854-003/68/",
+      "price": 20000,
+      "priceWithFee": 20700,
+      "transactedAt": "2026-08-13 21:08:25",
+      "productCode": "879634006",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1981年,8克,生肖,年辛,辛酉,酉鸡,鸡年,年生,肖克,克精,精制,制金,金币,评级"
+    },
     {
       "coinName": "1981年辛酉鸡年生肖8克精制金币",
       "normalizedBoxCode": "8760855003",

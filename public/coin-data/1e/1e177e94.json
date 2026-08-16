@@ -1,15 +1,32 @@
 {
   "coinName": "1999年熊猫7.776克普制金币",
   "slug": "1e177e94",
-  "saleCount": 1,
+  "saleCount": 2,
   "keywords": "金,币,1999年,4盎司,熊猫,年熊,猫盎,盎司,司普,普制,制金,金币,币大,大字,字版",
   "priceStats": {
     "low": 9700,
-    "high": 9700,
-    "avg": 9700,
-    "latest": 9700
+    "high": 14400,
+    "avg": 12050,
+    "latest": 14400
   },
   "records": [
+    {
+      "coinName": "1999年熊猫1/4盎司普制金币（大字版Plain1）",
+      "normalizedBoxCode": "8753022013",
+      "displayBoxCode": "8753022-013",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-jiujin/10447059.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8753022-013/69/",
+      "price": 14400,
+      "priceWithFee": 14904,
+      "transactedAt": "2026-08-13 20:54:15",
+      "productCode": "880847005",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1999年,4盎司,熊猫,年熊,猫盎,盎司,司普,普制,制金,金币,币大,大字,字版"
+    },
     {
       "coinName": "1999年熊猫1/4盎司普制金币(大字版 PLAIN 1)",
       "normalizedBoxCode": "8758193023",

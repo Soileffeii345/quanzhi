@@ -1,15 +1,32 @@
 {
   "coinName": "上海造币厂1981年-1992年十二生肖纪念章12枚",
   "slug": "666ddc64",
-  "saleCount": 1,
+  "saleCount": 2,
   "keywords": "币,章,1981年,生肖,上海,海造,造币,币厂,厂年,年年,年十,十二,二生,肖纪,纪念,念章,章枚,枚一,一套",
   "priceStats": {
-    "low": 85,
+    "low": 80,
     "high": 85,
-    "avg": 85,
-    "latest": 85
+    "avg": 83,
+    "latest": 80
   },
   "records": [
+    {
+      "coinName": "上海造币厂1981年-1992年十二生肖纪念章12枚一套",
+      "normalizedBoxCode": "2500220115",
+      "displayBoxCode": "2500220-115",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/tongzhang/9898737.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2500220-115/",
+      "price": 80,
+      "priceWithFee": 88.8,
+      "transactedAt": "2026-08-14 19:18:30",
+      "productCode": "816108037",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,章,1981年,生肖,上海,海造,造币,币厂,厂年,年年,年十,十二,二生,肖纪,纪念,念章,章枚,枚一,一套"
+    },
     {
       "coinName": "上海造币厂1981年-1992年十二生肖纪念章12枚一套",
       "normalizedBoxCode": "2500220123",

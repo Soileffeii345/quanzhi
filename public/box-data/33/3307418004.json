@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "3307418004",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "3307418004",
+      "displayBoxCode": "3307418-004",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "coinName": "2005年中国工商银行股份有限公司成立熊猫加字1/4盎司普制金币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10447063.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3307418-004/69/",
+      "price": 7500,
+      "priceWithFee": 7762.5,
+      "transactedAt": "2026-08-13 21:05:55",
+      "productCode": "880847009",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/32/880847009A.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,2005年,4盎司,熊猫,年中,中国,国工,工商,商银,银行,行股,股份,份有,有限,限公,公司,司成,成立,立熊,猫加,加字,字盎,盎司,司普,普制,制金,金币"
+    }
+  ]
+}

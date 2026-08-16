@@ -1,15 +1,32 @@
 {
   "coinName": "1987年熊猫20盎司金币",
   "slug": "7aca1e7f",
-  "saleCount": 3,
-  "keywords": "金,币,1987年,20盎司,熊猫,年盎,盎司,司熊,猫金,金币,币版",
+  "saleCount": 4,
+  "keywords": "金,章,1987年,20盎司,熊猫,年中,中日,日友,友好,好大,大熊,猫童,童童,童盎,盎司,司金,金章,币,年盎,司熊,猫金,金币,币版",
   "priceStats": {
     "low": 1300,
     "high": 2400,
-    "avg": 1667,
-    "latest": 2400
+    "avg": 1725,
+    "latest": 1900
   },
   "records": [
+    {
+      "coinName": "1987年中日友好-大熊猫童童1/20盎司金章",
+      "normalizedBoxCode": "6727296026",
+      "displayBoxCode": "6727296-026",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10447061.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6727296-026/69/",
+      "price": 1900,
+      "priceWithFee": 1966.5,
+      "transactedAt": "2026-08-13 21:05:05",
+      "productCode": "880847007",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,章,1987年,20盎司,熊猫,年中,中日,日友,友好,好大,大熊,猫童,童童,童盎,盎司,司金,金章"
+    },
     {
       "coinName": "1987年1/20盎司熊猫金币(S版)",
       "normalizedBoxCode": "8181780048",

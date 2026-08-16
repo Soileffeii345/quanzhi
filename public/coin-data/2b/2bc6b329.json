@@ -1,0 +1,31 @@
+{
+  "coinName": "毛主席像章",
+  "slug": "2bc6b329",
+  "saleCount": 1,
+  "keywords": "章,毛主,主席,席像,像章",
+  "priceStats": {
+    "low": 25,
+    "high": 25,
+    "avg": 25,
+    "latest": 25
+  },
+  "records": [
+    {
+      "coinName": "毛主席像章",
+      "normalizedBoxCode": "5310080650",
+      "displayBoxCode": "5310080-650",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/tongzhang/10436232.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/5310080-650/",
+      "price": 25,
+      "priceWithFee": 27.75,
+      "transactedAt": "2026-08-14 20:10:10",
+      "productCode": "878872001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "章,毛主,主席,席像,像章"
+    }
+  ]
+}

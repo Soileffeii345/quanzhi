@@ -1,15 +1,32 @@
 {
   "coinName": "1902年铜币",
   "slug": "49c0a722",
-  "saleCount": 1,
+  "saleCount": 2,
   "keywords": "铜,章,1902年,年英,英国,国爱,爱德,德华,华七,七世,世加,加冕,冕大,大典,典铜,铜章,外国/特区",
   "priceStats": {
-    "low": 700,
+    "low": 520,
     "high": 700,
-    "avg": 700,
-    "latest": 700
+    "avg": 610,
+    "latest": 520
   },
   "records": [
+    {
+      "coinName": "1902年英国爱德华七世加冕大典铜章",
+      "normalizedBoxCode": "8815433001",
+      "displayBoxCode": "8815433-001",
+      "gradingCompany": "NGC",
+      "grade": "MS 62",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianbi/10458064.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8815433-001/62/",
+      "price": 520,
+      "priceWithFee": 577.2,
+      "transactedAt": "2026-08-14 19:17:35",
+      "productCode": "882270001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "铜,章,1902年,年英,英国,国爱,爱德,德华,华七,七世,世加,加冕,冕大,大典,典铜,铜章,外国/特区"
+    },
     {
       "coinName": "1902年英国爱德华七世加冕大典铜章",
       "normalizedBoxCode": "8815433001",

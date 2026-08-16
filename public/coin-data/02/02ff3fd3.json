@@ -1,0 +1,31 @@
+{
+  "coinName": "民国二十七年广饶金融临时调剂券贰角",
+  "slug": "02ff3fd3",
+  "saleCount": 1,
+  "keywords": "金,历史币,民国,国二,二十,十七,七年,年广,广饶,饶金,金融,融临,临时,时调,调剂,剂券,券贰,贰角",
+  "priceStats": {
+    "low": 1980,
+    "high": 1980,
+    "avg": 1980,
+    "latest": 1980
+  },
+  "records": [
+    {
+      "coinName": "民国二十七年广饶金融临时调剂券贰角",
+      "normalizedBoxCode": "2012939098",
+      "displayBoxCode": "2012939-098",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/difangsipiao/10415405.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2012939-098/",
+      "price": 1980,
+      "priceWithFee": 2197.8,
+      "transactedAt": "2026-08-13 21:15:40",
+      "productCode": "877017001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,历史币,民国,国二,二十,十七,七年,年广,广饶,饶金,金融,融临,临时,时调,调剂,剂券,券贰,贰角"
+    }
+  ]
+}

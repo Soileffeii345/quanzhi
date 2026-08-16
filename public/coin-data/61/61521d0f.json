@@ -1,0 +1,31 @@
+{
+  "coinName": "2022年5盎司银币",
+  "slug": "61521d0f",
+  "saleCount": 1,
+  "keywords": "银,币,2022年,5盎司,年帕,帕劳,劳像,像素,素艺,艺术,术系,系列,列孟,孟加,加拉,拉虎,虎盎,盎司,司银,银币",
+  "priceStats": {
+    "low": 4100,
+    "high": 4100,
+    "avg": 4100,
+    "latest": 4100
+  },
+  "records": [
+    {
+      "coinName": "2022年帕劳像素艺术系列孟加拉虎5盎司银币",
+      "normalizedBoxCode": "8504447007",
+      "displayBoxCode": "8504447-007",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/wgjsbizhang/10274502.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8504447-007/69/",
+      "price": 4100,
+      "priceWithFee": 4346,
+      "transactedAt": "2026-08-14 19:33:25",
+      "productCode": "860995015",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2022年,5盎司,年帕,帕劳,劳像,像素,素艺,艺术,术系,系列,列孟,孟加,加拉,拉虎,虎盎,盎司,司银,银币"
+    }
+  ]
+}

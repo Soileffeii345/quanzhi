@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8752692001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8752692001",
+      "displayBoxCode": "8752692-001",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "coinName": "1996年中国熊猫金币发行15周年1/4盎司普制金币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-jiujin/10447056.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8752692-001/69/",
+      "price": 8000,
+      "priceWithFee": 8280,
+      "transactedAt": "2026-08-13 20:52:35",
+      "productCode": "880847002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/32/880847002A.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1996年,4盎司,熊猫,年中,中国,国熊,猫金,金币,币发,发行,行周,周年,年盎,盎司,司普,普制,制金"
+    }
+  ]
+}

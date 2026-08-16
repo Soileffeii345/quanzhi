@@ -1,15 +1,32 @@
 {
   "coinName": "2022年金币",
   "slug": "7e1fbd2f",
-  "saleCount": 2,
-  "keywords": "金,银,章,2022年,年孔,孔雀,雀明,明王,王镀,镀金,金镀,镀银,银纪,纪念,念章,章各,各一,一枚,枚共,共二,二枚",
+  "saleCount": 3,
+  "keywords": "金,章,2022年,年孔,孔雀,雀明,明王,王镀,镀金,金纪,纪念,念章,银,金镀,镀银,银纪,章各,各一,一枚,枚共,共二,二枚",
   "priceStats": {
-    "low": 390,
+    "low": 160,
     "high": 390,
-    "avg": 390,
-    "latest": 390
+    "avg": 313,
+    "latest": 160
   },
   "records": [
+    {
+      "coinName": "2022年孔雀明王镀金纪念章",
+      "normalizedBoxCode": "8203342049",
+      "displayBoxCode": "8203342-049",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/tongzhang/10448596.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8203342-049/",
+      "price": 160,
+      "priceWithFee": 177.6,
+      "transactedAt": "2026-08-14 19:33:30",
+      "productCode": "881054008",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,章,2022年,年孔,孔雀,雀明,明王,王镀,镀金,金纪,纪念,念章"
+    },
     {
       "coinName": "2022年孔雀明王镀金、镀银纪念章各一枚，共二枚",
       "normalizedBoxCode": "8203342041",

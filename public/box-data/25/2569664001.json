@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2569664001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2569664001",
+      "displayBoxCode": "2569664-001",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1934年中华苏维埃共和国国家银行贰角",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jiefangquzhichao/10381243.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2569664-001/",
+      "price": 22500,
+      "priceWithFee": 24975,
+      "transactedAt": "2026-08-13 21:35:10",
+      "productCode": "872983002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/27/872983002B.jpg",
+      "ocrConfidence": 28,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,1934年,历史币,苏区,年中,中华,华苏,苏维,维埃,埃共,共和,和国,国国,国家,家银,银行,行贰,贰角"
+    }
+  ]
+}

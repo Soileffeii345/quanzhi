@@ -1,0 +1,31 @@
+{
+  "coinName": "民国十二年河南省银行当拾铜元伍拾枚",
+  "slug": "227ff896",
+  "saleCount": 1,
+  "keywords": "银,铜,历史币,民国,国十,十二,二年,年河,河南,南省,省银,银行,行当,当拾,拾铜,铜元,元伍,伍拾,拾枚",
+  "priceStats": {
+    "low": 450,
+    "high": 450,
+    "avg": 450,
+    "latest": 450
+  },
+  "records": [
+    {
+      "coinName": "民国十二年河南省银行当拾铜元伍拾枚",
+      "normalizedBoxCode": "2160153011",
+      "displayBoxCode": "2160153-011",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/minguoshengshigejiyinhangzhichao/10421905.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2160153-011/",
+      "price": 450,
+      "priceWithFee": 499.5,
+      "transactedAt": "2026-08-13 21:27:40",
+      "productCode": "877733005",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,铜,历史币,民国,国十,十二,二年,年河,河南,南省,省银,银行,行当,当拾,拾铜,铜元,元伍,伍拾,拾枚"
+    }
+  ]
+}

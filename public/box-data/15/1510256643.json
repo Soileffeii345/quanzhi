@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "1510256643",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "1510256643",
+      "displayBoxCode": "1510256-643",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "宣统三年湖南益阳二堡忠恕通铜元壹百枚",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/mingqingzhichao/10424913.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1510256-643/",
+      "price": 750,
+      "priceWithFee": 832.5,
+      "transactedAt": "2026-08-13 21:16:40",
+      "productCode": "877857012",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/877857012B.jpg",
+      "ocrConfidence": 25,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "铜,历史币,宣三,宣统,统三,三年,年湖,湖南,南益,益阳,阳二,二堡,堡忠,忠恕,恕通,通铜,铜元,元壹,壹百,百枚"
+    }
+  ]
+}

@@ -1,15 +1,32 @@
 {
   "coinName": "民国三十七年台湾银行壹仟圆",
   "slug": "513a48de",
-  "saleCount": 1,
+  "saleCount": 2,
   "keywords": "银,历史币,民国,国三,三十,十七,七年,年台,台湾,湾银,银行,行壹,壹仟,仟圆",
   "priceStats": {
-    "low": 1420,
+    "low": 1400,
     "high": 1420,
-    "avg": 1420,
-    "latest": 1420
+    "avg": 1410,
+    "latest": 1400
   },
   "records": [
+    {
+      "coinName": "民国三十七年台湾银行壹仟圆",
+      "normalizedBoxCode": "2316015015",
+      "displayBoxCode": "2316015-015",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/taiwanzaoqizhichao/10421170.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2316015-015/",
+      "price": 1400,
+      "priceWithFee": 1554,
+      "transactedAt": "2026-08-13 21:41:10",
+      "productCode": "877420010",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国三,三十,十七,七年,年台,台湾,湾银,银行,行壹,壹仟,仟圆"
+    },
     {
       "coinName": "民国三十七年台湾银行壹仟圆",
       "normalizedBoxCode": "2316015012",

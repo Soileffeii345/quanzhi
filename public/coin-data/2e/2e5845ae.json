@@ -1,15 +1,32 @@
 {
   "coinName": "2003年3.11克精制金币",
   "slug": "2e5845ae",
-  "saleCount": 2,
+  "saleCount": 3,
   "keywords": "金,币,2003年,10盎司,宗教,年莲,莲花,花观,观音,音盎,盎司,司精,精制,制幻,幻彩,彩金,金币,评级",
   "priceStats": {
     "low": 3350,
     "high": 4100,
-    "avg": 3725,
-    "latest": 4100
+    "avg": 3767,
+    "latest": 3850
   },
   "records": [
+    {
+      "coinName": "2003年莲花观音1/10盎司精制幻彩金币",
+      "normalizedBoxCode": "3449538036",
+      "displayBoxCode": "3449538-036",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10447074.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3449538-036/70/",
+      "price": 3850,
+      "priceWithFee": 3984.75,
+      "transactedAt": "2026-08-13 20:51:45",
+      "productCode": "880845001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2003年,10盎司,宗教,年莲,莲花,花观,观音,音盎,盎司,司精,精制,制幻,幻彩,彩金,金币,评级"
+    },
     {
       "coinName": "2003年莲花观音1/10盎司精制幻彩金币",
       "normalizedBoxCode": "6333277083",

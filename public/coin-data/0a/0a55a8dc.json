@@ -1,15 +1,32 @@
 {
   "coinName": "民国二十五年中央银行壹圆",
   "slug": "0a55a8dc",
-  "saleCount": 5,
+  "saleCount": 6,
   "keywords": "银,历史币,民国,国二,二十,十五,五年,年中,中央,央银,银行,行壹,壹圆",
   "priceStats": {
     "low": 220,
     "high": 2300,
-    "avg": 856,
-    "latest": 1100
+    "avg": 830,
+    "latest": 700
   },
   "records": [
+    {
+      "coinName": "民国二十五年中央银行壹圆",
+      "normalizedBoxCode": "2320655039",
+      "displayBoxCode": "2320655-039",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10419028.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2320655-039/",
+      "price": 700,
+      "priceWithFee": 777,
+      "transactedAt": "2026-08-13 22:10:10",
+      "productCode": "877203001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国二,二十,十五,五年,年中,中央,央银,银行,行壹,壹圆"
+    },
     {
       "coinName": "民国二十五年中央银行壹圆",
       "normalizedBoxCode": "2137168015",

@@ -1,15 +1,32 @@
 {
   "coinName": "1994年熊猫3.11克普制金币",
   "slug": "56787d29",
-  "saleCount": 1,
-  "keywords": "金,币,1994年,10盎司,熊猫,年熊,猫盎,盎司,司普,普制,制金,金币,币小,小字,字版",
+  "saleCount": 2,
+  "keywords": "金,币,1994年,10盎司,熊猫,年熊,猫盎,盎司,司普,普制,制金,金币,币大,大字,字版,币小,小字",
   "priceStats": {
     "low": 4600,
-    "high": 4600,
-    "avg": 4600,
-    "latest": 4600
+    "high": 6000,
+    "avg": 5300,
+    "latest": 6000
   },
   "records": [
+    {
+      "coinName": "1994年熊猫1/10盎司普制金币(大字版)",
+      "normalizedBoxCode": "8610733013",
+      "displayBoxCode": "8610733-013",
+      "gradingCompany": "NGC",
+      "grade": "MS 70",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-jiujin/10362341.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8610733-013/70/",
+      "price": 6000,
+      "priceWithFee": 6210,
+      "transactedAt": "2026-08-13 20:55:55",
+      "productCode": "870693001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1994年,10盎司,熊猫,年熊,猫盎,盎司,司普,普制,制金,金币,币大,大字,字版"
+    },
     {
       "coinName": "1994年熊猫1/10盎司普制金币（小字版）",
       "normalizedBoxCode": "8762037018",

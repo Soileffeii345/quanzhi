@@ -1,0 +1,31 @@
+{
+  "coinName": "民国二十六年河南农工银行伍角",
+  "slug": "6aa4f26d",
+  "saleCount": 1,
+  "keywords": "银,历史币,民国,国二,二十,十六,六年,年河,河南,南农,农工,工银,银行,行伍,伍角",
+  "priceStats": {
+    "low": 770,
+    "high": 770,
+    "avg": 770,
+    "latest": 770
+  },
+  "records": [
+    {
+      "coinName": "民国二十六年河南农工银行伍角",
+      "normalizedBoxCode": "2160153013",
+      "displayBoxCode": "2160153-013",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/minguoshengshigejiyinhangzhichao/10421906.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2160153-013/",
+      "price": 770,
+      "priceWithFee": 854.7,
+      "transactedAt": "2026-08-13 22:12:10",
+      "productCode": "877733006",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国二,二十,十六,六年,年河,河南,南农,农工,工银,银行,行伍,伍角"
+    }
+  ]
+}

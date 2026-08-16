@@ -1,0 +1,31 @@
+{
+  "coinName": "1996年熊猫31.104克精制金币",
+  "slug": "119d0bc1",
+  "saleCount": 1,
+  "keywords": "金,币,1996年,1盎司,熊猫,年熊,猫盎,盎司,司精,精制,制金,金币,评级",
+  "priceStats": {
+    "low": 75000,
+    "high": 75000,
+    "avg": 75000,
+    "latest": 75000
+  },
+  "records": [
+    {
+      "coinName": "1996年熊猫1盎司精制金币",
+      "normalizedBoxCode": "6284006002",
+      "displayBoxCode": "6284006-002",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-jiujin/10447060.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6284006-002/",
+      "price": 75000,
+      "priceWithFee": 77625,
+      "transactedAt": "2026-08-13 20:28:25",
+      "productCode": "880847006",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1996年,1盎司,熊猫,年熊,猫盎,盎司,司精,精制,制金,金币,评级"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6743769014",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6743769014",
+      "displayBoxCode": "6743769-014",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1987年美国旧金山国际硬币展-大熊猫1盎司金章",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10447064.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6743769-014/69/",
+      "price": 34000,
+      "priceWithFee": 35190,
+      "transactedAt": "2026-08-13 20:55:05",
+      "productCode": "880847010",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/32/880847010A.jpg",
+      "ocrConfidence": 0,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,章,1987年,1盎司,熊猫,年美,美国,国旧,旧金,金山,山国,国际,际硬,硬币,币展,展大,大熊,猫盎,盎司,司金,金章,外国/特区"
+    }
+  ]
+}

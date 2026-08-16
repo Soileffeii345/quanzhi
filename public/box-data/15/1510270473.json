@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "1510270473",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "1510270473",
+      "displayBoxCode": "1510270-473",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "光绪年清代空白票",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/mingqingzhichao/10424909.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1510270-473/",
+      "price": 330,
+      "priceWithFee": 366.3,
+      "transactedAt": "2026-08-13 21:47:10",
+      "productCode": "877857008",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/30/877857008A.jpg",
+      "ocrConfidence": 25,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,历史币,光绪,绪年,年清,清代,代空,空白,白票"
+    }
+  ]
+}

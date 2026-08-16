@@ -1,15 +1,32 @@
 {
   "coinName": "1987年熊猫31.104克金币",
   "slug": "0c8f99d5",
-  "saleCount": 1,
-  "keywords": "金,银,币,1987年,1盎司,熊猫,年熊,猫金,金币,币发,发行,行五,五周,周年,年盎,盎司,司银,银币",
+  "saleCount": 2,
+  "keywords": "金,币,章,1987年,1盎司,熊猫,年美,美国,国旧,旧金,金山,山国,国际,际硬,硬币,币展,展大,大熊,猫盎,盎司,司金,金章,外国/特区,银,年熊,猫金,金币,币发,发行,行五,五周,周年,年盎,司银,银币",
   "priceStats": {
     "low": 3800,
-    "high": 3800,
-    "avg": 3800,
-    "latest": 3800
+    "high": 34000,
+    "avg": 18900,
+    "latest": 34000
   },
   "records": [
+    {
+      "coinName": "1987年美国旧金山国际硬币展-大熊猫1盎司金章",
+      "normalizedBoxCode": "6743769014",
+      "displayBoxCode": "6743769-014",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10447064.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6743769-014/69/",
+      "price": 34000,
+      "priceWithFee": 35190,
+      "transactedAt": "2026-08-13 20:55:05",
+      "productCode": "880847010",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,章,1987年,1盎司,熊猫,年美,美国,国旧,旧金,金山,山国,国际,际硬,硬币,币展,展大,大熊,猫盎,盎司,司金,金章,外国/特区"
+    },
     {
       "coinName": "1987年熊猫金币发行五周年1盎司银币",
       "normalizedBoxCode": "8544088030",
