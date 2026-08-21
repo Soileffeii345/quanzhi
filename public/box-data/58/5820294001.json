@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "5820294001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "5820294001",
+      "displayBoxCode": "5820294-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1987年熊猫金币发行五周年1盎司银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-jiuyin/10452719.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/5820294-001/69/",
+      "price": 3600,
+      "priceWithFee": 3726,
+      "transactedAt": "2026-08-17 20:08:10",
+      "productCode": "881522004",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/32/881522004A.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,1987年,1盎司,熊猫,年熊,猫金,金币,币发,发行,行五,五周,周年,年盎,盎司,司银,银币"
+    }
+  ]
+}

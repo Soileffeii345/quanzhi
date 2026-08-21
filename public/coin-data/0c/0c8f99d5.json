@@ -1,15 +1,32 @@
 {
   "coinName": "1987年熊猫31.104克金币",
   "slug": "0c8f99d5",
-  "saleCount": 2,
-  "keywords": "金,币,章,1987年,1盎司,熊猫,年美,美国,国旧,旧金,金山,山国,国际,际硬,硬币,币展,展大,大熊,猫盎,盎司,司金,金章,外国/特区,银,年熊,猫金,金币,币发,发行,行五,五周,周年,年盎,司银,银币",
+  "saleCount": 3,
+  "keywords": "金,银,币,1987年,1盎司,熊猫,年熊,猫金,金币,币发,发行,行五,五周,周年,年盎,盎司,司银,银币,章,年美,美国,国旧,旧金,金山,山国,国际,际硬,硬币,币展,展大,大熊,猫盎,司金,金章,外国/特区",
   "priceStats": {
-    "low": 3800,
+    "low": 3600,
     "high": 34000,
-    "avg": 18900,
-    "latest": 34000
+    "avg": 13800,
+    "latest": 3600
   },
   "records": [
+    {
+      "coinName": "1987年熊猫金币发行五周年1盎司银币",
+      "normalizedBoxCode": "5820294001",
+      "displayBoxCode": "5820294-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-jiuyin/10452719.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/5820294-001/69/",
+      "price": 3600,
+      "priceWithFee": 3726,
+      "transactedAt": "2026-08-17 20:08:10",
+      "productCode": "881522004",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,1987年,1盎司,熊猫,年熊,猫金,金币,币发,发行,行五,五周,周年,年盎,盎司,司银,银币"
+    },
     {
       "coinName": "1987年美国旧金山国际硬币展-大熊猫1盎司金章",
       "normalizedBoxCode": "6743769014",

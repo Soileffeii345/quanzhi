@@ -1,15 +1,32 @@
 {
   "coinName": "2000年生肖31.104克精制银币",
   "slug": "6dd75bb3",
-  "saleCount": 7,
+  "saleCount": 8,
   "keywords": "银,币,2000年,1盎司,生肖,年庚,庚辰,辰龙,龙年,年生,肖盎,盎司,司精,精制,制彩,彩银,银币,评级",
   "priceStats": {
     "low": 1520,
     "high": 2200,
-    "avg": 1923,
-    "latest": 1980
+    "avg": 1883,
+    "latest": 1600
   },
   "records": [
+    {
+      "coinName": "2000年庚辰龙年生肖1盎司精制彩银币",
+      "normalizedBoxCode": "4324540023",
+      "displayBoxCode": "4324540-023",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10458805.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4324540-023/",
+      "price": 1600,
+      "priceWithFee": 1656,
+      "transactedAt": "2026-08-17 20:17:40",
+      "productCode": "882373001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2000年,1盎司,生肖,年庚,庚辰,辰龙,龙年,年生,肖盎,盎司,司精,精制,制彩,彩银,银币,评级"
+    },
     {
       "coinName": "2000年庚辰龙年生肖1盎司精制彩银币",
       "normalizedBoxCode": "8571183002",

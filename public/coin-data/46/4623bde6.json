@@ -1,0 +1,31 @@
+{
+  "coinName": "清代-云南131.3克银锭",
+  "slug": "4623bde6",
+  "saleCount": 1,
+  "keywords": "银,131.3克,清代,代云,云南,南克,克银,银锭",
+  "priceStats": {
+    "low": 2350,
+    "high": 2350,
+    "avg": 2350,
+    "latest": 2350
+  },
+  "records": [
+    {
+      "coinName": "清代-云南131.3克银锭",
+      "normalizedBoxCode": "1610075947",
+      "displayBoxCode": "1610075-947",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/yinding/10430036.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1610075-947/",
+      "price": 2350,
+      "priceWithFee": 2608.5,
+      "transactedAt": "2026-08-17 22:03:35",
+      "productCode": "878650001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,131.3克,清代,代云,云南,南克,克银,银锭"
+    }
+  ]
+}

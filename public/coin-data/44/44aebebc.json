@@ -1,0 +1,31 @@
+{
+  "coinName": "第一版人民币驴子与矿车50元",
+  "slug": "44aebebc",
+  "saleCount": 1,
+  "keywords": "币,第一,一版,版人,人民,民币,币驴,驴子,子与,与矿,矿车,车元",
+  "priceStats": {
+    "low": 12000,
+    "high": 12000,
+    "avg": 12000,
+    "latest": 12000
+  },
+  "records": [
+    {
+      "coinName": "第一版人民币驴子与矿车50元",
+      "normalizedBoxCode": "2484811003",
+      "displayBoxCode": "2484811-003",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/diyibanrenminbi/10430039.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2484811-003/",
+      "price": 12000,
+      "priceWithFee": 13200,
+      "transactedAt": "2026-08-20 21:08:30",
+      "productCode": "878533001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,第一,一版,版人,人民,民币,币驴,驴子,子与,与矿,矿车,车元"
+    }
+  ]
+}

@@ -1,15 +1,32 @@
 {
   "coinName": "1984年熊猫27克精制银币",
   "slug": "1ab77b83",
-  "saleCount": 1,
+  "saleCount": 2,
   "keywords": "银,币,1984年,27克,熊猫,年熊,猫克,克精,精制,制银,银币,评级",
   "priceStats": {
-    "low": 13000,
+    "low": 10200,
     "high": 13000,
-    "avg": 13000,
-    "latest": 13000
+    "avg": 11600,
+    "latest": 10200
   },
   "records": [
+    {
+      "coinName": "1984年熊猫27克精制银币",
+      "normalizedBoxCode": "6046321017",
+      "displayBoxCode": "6046321-017",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-jiuyin/10452718.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6046321-017/69/",
+      "price": 10200,
+      "priceWithFee": 10557,
+      "transactedAt": "2026-08-17 20:45:40",
+      "productCode": "881522003",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1984年,27克,熊猫,年熊,猫克,克精,精制,制银,银币,评级"
+    },
     {
       "coinName": "1984年熊猫27克精制银币",
       "normalizedBoxCode": "8205639054",

@@ -1,15 +1,32 @@
 {
   "coinName": "1996年生肖31.104克精制银币",
   "slug": "0f465ba4",
-  "saleCount": 5,
+  "saleCount": 6,
   "keywords": "银,币,1996年,1盎司,生肖,年丙,丙子,子鼠,鼠年,年生,肖盎,盎司,司精,精制,制银,银币,评级",
   "priceStats": {
     "low": 2250,
     "high": 3200,
-    "avg": 2510,
-    "latest": 2450
+    "avg": 2467,
+    "latest": 2250
   },
   "records": [
+    {
+      "coinName": "1996年丙子鼠年生肖1盎司精制银币",
+      "normalizedBoxCode": "6723793004",
+      "displayBoxCode": "6723793-004",
+      "gradingCompany": "NGC",
+      "grade": "PF 68 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10461727.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6723793-004/68/",
+      "price": 2250,
+      "priceWithFee": 2328.75,
+      "transactedAt": "2026-08-17 20:29:40",
+      "productCode": "882670001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1996年,1盎司,生肖,年丙,丙子,子鼠,鼠年,年生,肖盎,盎司,司精,精制,制银,银币,评级"
+    },
     {
       "coinName": "1996年丙子鼠年生肖1盎司精制银币",
       "normalizedBoxCode": "6723793004",

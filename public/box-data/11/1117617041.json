@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "1117617041",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "1117617041",
+      "displayBoxCode": "1117617-041",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "清-咸丰元宝宝巩当百",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/guqian/10417397.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1117617-041/",
+      "price": 1780,
+      "priceWithFee": 1958,
+      "transactedAt": "2026-08-17 21:41:05",
+      "productCode": "876920001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/29/876920001A.jpg",
+      "ocrConfidence": 42,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "清咸,咸丰,丰元,元宝,宝宝,宝巩,巩当,当百"
+    }
+  ]
+}

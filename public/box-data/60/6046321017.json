@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6046321017",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6046321017",
+      "displayBoxCode": "6046321-017",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1984年熊猫27克精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-jiuyin/10452718.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6046321-017/69/",
+      "price": 10200,
+      "priceWithFee": 10557,
+      "transactedAt": "2026-08-17 20:45:40",
+      "productCode": "881522003",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/32/881522003A.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1984年,27克,熊猫,年熊,猫克,克精,精制,制银,银币,评级"
+    }
+  ]
+}

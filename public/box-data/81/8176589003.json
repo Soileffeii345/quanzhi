@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8176589003",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8176589003",
+      "displayBoxCode": "8176589-003",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1990年龙凤2克精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10435044.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8176589-003/69/",
+      "price": 740,
+      "priceWithFee": 765.9,
+      "transactedAt": "2026-08-17 20:00:40",
+      "productCode": "879090005",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/31/879090005A.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1990年,2克,年龙,龙凤,凤克,克精,精制,制银,银币,评级"
+    }
+  ]
+}
