@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-21T01:31:00.529Z",
-  "totalCoins": 2800,
-  "totalSales": 10633,
+  "generatedAt": "2026-08-22T01:24:48.778Z",
+  "totalCoins": 2802,
+  "totalSales": 10639,
   "coins": [
     {
       "coinName": "2025年中国龙31.104克普制银币",
@@ -4824,6 +4824,16 @@
       "priceHigh": 910
     },
     {
+      "coinName": "民国三十七年长城银行冀察热辽流通券伍佰圆",
+      "slug": "6b0c6402",
+      "saleCount": 4,
+      "keywords": "银,历史币,民国,国三,三十,十七,七年,年长,长城,城银,银行,行冀,冀察,察热,热辽,辽流,流通,通券,券伍,伍佰,佰圆",
+      "latestPrice": 1800,
+      "latestDate": "2026-08-18 22:08:05",
+      "priceLow": 1800,
+      "priceHigh": 4550
+    },
+    {
       "coinName": "第三版人民币2元古币水印",
       "slug": "0c777b2c",
       "saleCount": 4,
@@ -6804,16 +6814,6 @@
       "priceHigh": 7620
     },
     {
-      "coinName": "民国三十七年长城银行冀察热辽流通券伍佰圆",
-      "slug": "6b0c6402",
-      "saleCount": 3,
-      "keywords": "银,历史币,民国,国三,三十,十七,七年,年长,长城,城银,银行,行冀,冀察,察热,热辽,辽流,流通,通券,券伍,伍佰,佰圆",
-      "latestPrice": 3150,
-      "latestDate": "2026-07-30 19:32:10",
-      "priceLow": 2950,
-      "priceHigh": 4550
-    },
-    {
       "coinName": "2021年伯利兹纸钞",
       "slug": "2d4e81fb",
       "saleCount": 3,
@@ -6872,6 +6872,16 @@
       "latestDate": "2026-07-21 22:11:20",
       "priceLow": 85,
       "priceHigh": 90
+    },
+    {
+      "coinName": "丹麦纸币",
+      "slug": "560a8d03",
+      "saleCount": 3,
+      "keywords": "币,丹麦,麦纸,纸币",
+      "latestPrice": 180,
+      "latestDate": "2026-08-18 22:21:05",
+      "priceLow": 180,
+      "priceHigh": 200
     },
     {
       "coinName": "1984年奥运会7.776克精制银币",
@@ -9472,6 +9482,16 @@
       "latestDate": "2026-07-25 21:34:10",
       "priceLow": 3950,
       "priceHigh": 7500
+    },
+    {
+      "coinName": "民国十五年瑞昌汉中地名铜元壹串文",
+      "slug": "7ebcb9d6",
+      "saleCount": 2,
+      "keywords": "铜,历史币,民国,国十,十五,五年,年瑞,瑞昌,昌汉,汉中,中地,地名,名铜,铜元,元壹,壹串,串文",
+      "latestPrice": 510,
+      "latestDate": "2026-08-18 22:04:20",
+      "priceLow": 360,
+      "priceHigh": 510
     },
     {
       "coinName": "民国二十四年交通银行壹圆",
@@ -16484,16 +16504,6 @@
       "priceHigh": 2500
     },
     {
-      "coinName": "民国十五年瑞昌汉中地名铜元壹串文",
-      "slug": "7ebcb9d6",
-      "saleCount": 1,
-      "keywords": "铜,历史币,民国,国十,十五,五年,年瑞,瑞昌,昌汉,汉中,中地,地名,名铜,铜元,元壹,壹串,串文",
-      "latestPrice": 360,
-      "latestDate": "2026-07-14 21:09:20",
-      "priceLow": 360,
-      "priceHigh": 360
-    },
-    {
       "coinName": "第四套/第四版人民币1980年版10元、第三版人民币1元",
       "slug": "7578c1fd",
       "saleCount": 1,
@@ -18314,6 +18324,16 @@
       "priceHigh": 130
     },
     {
+      "coinName": "2025年福克兰群岛塑料钞",
+      "slug": "79707973",
+      "saleCount": 1,
+      "keywords": "钞,2025年,年福,福克,克兰,兰群,群岛,岛塑,塑料,料钞",
+      "latestPrice": 200,
+      "latestDate": "2026-08-18 22:16:35",
+      "priceLow": 200,
+      "priceHigh": 200
+    },
+    {
       "coinName": "2005年香港特别行政区政府港币10元",
       "slug": "44a4b540",
       "saleCount": 1,
@@ -18324,14 +18344,14 @@
       "priceHigh": 65
     },
     {
-      "coinName": "丹麦纸币",
-      "slug": "560a8d03",
+      "coinName": "2015年英国5英镑塑料钞",
+      "slug": "01b638d2",
       "saleCount": 1,
-      "keywords": "币,丹麦,麦纸,纸币",
-      "latestPrice": 190,
-      "latestDate": "2026-08-11 22:02:05",
-      "priceLow": 190,
-      "priceHigh": 190
+      "keywords": "钞,2015年,年英,英国,国英,英镑,镑塑,塑料,料钞,外国/特区",
+      "latestPrice": 140,
+      "latestDate": "2026-08-18 22:16:20",
+      "priceLow": 140,
+      "priceHigh": 140
     },
     {
       "coinName": "清-咸丰重宝宝昌当五十",

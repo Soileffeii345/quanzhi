@@ -1,0 +1,31 @@
+{
+  "coinName": "2015年英国5英镑塑料钞",
+  "slug": "01b638d2",
+  "saleCount": 1,
+  "keywords": "钞,2015年,年英,英国,国英,英镑,镑塑,塑料,料钞,外国/特区",
+  "priceStats": {
+    "low": 140,
+    "high": 140,
+    "avg": 140,
+    "latest": 140
+  },
+  "records": [
+    {
+      "coinName": "2015年英国5英镑塑料钞",
+      "normalizedBoxCode": "2588760073",
+      "displayBoxCode": "2588760-073",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10453142.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2588760-073/",
+      "price": 140,
+      "priceWithFee": 155.4,
+      "transactedAt": "2026-08-18 22:16:20",
+      "productCode": "881534008",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,2015年,年英,英国,国英,英镑,镑塑,塑料,料钞,外国/特区"
+    }
+  ]
+}

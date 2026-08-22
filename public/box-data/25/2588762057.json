@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2588762057",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2588762057",
+      "displayBoxCode": "2588762-057",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "丹麦纸币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10453136.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2588762-057/",
+      "price": 180,
+      "priceWithFee": 199.8,
+      "transactedAt": "2026-08-18 22:21:05",
+      "productCode": "881534002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/32/881534002B.jpg",
+      "ocrConfidence": 28,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,丹麦,麦纸,纸币"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "coinName": "2025年福克兰群岛塑料钞",
+  "slug": "79707973",
+  "saleCount": 1,
+  "keywords": "钞,2025年,年福,福克,克兰,兰群,群岛,岛塑,塑料,料钞",
+  "priceStats": {
+    "low": 200,
+    "high": 200,
+    "avg": 200,
+    "latest": 200
+  },
+  "records": [
+    {
+      "coinName": "2025年福克兰群岛塑料钞",
+      "normalizedBoxCode": "2588758089",
+      "displayBoxCode": "2588758-089",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10453146.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2588758-089/",
+      "price": 200,
+      "priceWithFee": 222,
+      "transactedAt": "2026-08-18 22:16:35",
+      "productCode": "881534012",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,2025年,年福,福克,克兰,兰群,群岛,岛塑,塑料,料钞"
+    }
+  ]
+}

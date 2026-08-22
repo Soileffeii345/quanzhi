@@ -1,15 +1,49 @@
 {
   "coinName": "丹麦纸币",
   "slug": "560a8d03",
-  "saleCount": 1,
+  "saleCount": 3,
   "keywords": "币,丹麦,麦纸,纸币",
   "priceStats": {
-    "low": 190,
-    "high": 190,
+    "low": 180,
+    "high": 200,
     "avg": 190,
-    "latest": 190
+    "latest": 180
   },
   "records": [
+    {
+      "coinName": "丹麦纸币",
+      "normalizedBoxCode": "2588762057",
+      "displayBoxCode": "2588762-057",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10453136.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2588762-057/",
+      "price": 180,
+      "priceWithFee": 199.8,
+      "transactedAt": "2026-08-18 22:21:05",
+      "productCode": "881534002",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,丹麦,麦纸,纸币"
+    },
+    {
+      "coinName": "丹麦纸币",
+      "normalizedBoxCode": "2588762076",
+      "displayBoxCode": "2588762-076",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10453135.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2588762-076/",
+      "price": 200,
+      "priceWithFee": 222,
+      "transactedAt": "2026-08-18 22:15:35",
+      "productCode": "881534001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,丹麦,麦纸,纸币"
+    },
     {
       "coinName": "丹麦纸币",
       "normalizedBoxCode": "2588762054",
