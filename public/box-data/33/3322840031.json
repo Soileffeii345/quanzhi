@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "3322840031",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "3322840031",
+      "displayBoxCode": "3322840-031",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1989年英国权利法案300周年加厚版31.96克银币两枚一套",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/wgjsbizhang/10475492.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3322840-031/",
+      "price": 1620,
+      "priceWithFee": 1717.2,
+      "transactedAt": "2026-08-21 19:29:05",
+      "productCode": "884038003",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/34/884038003A.jpg",
+      "ocrConfidence": 42,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1989年,31.96克,年英,英国,国权,权利,利法,法案,案周,周年,年加,加厚,厚版,版克,克银,银币,币两,两枚,枚一,一套,外国/特区"
+    }
+  ]
+}

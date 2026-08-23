@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2022020200",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2022020200",
+      "displayBoxCode": "2022020-200",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2022年壬寅虎年生肖30克梅花形精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10474949.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2022020-200/",
+      "price": 860,
+      "priceWithFee": 890.1,
+      "transactedAt": "2026-08-22 21:11:50",
+      "productCode": "883999005",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/34/883999005A.jpg",
+      "ocrConfidence": 32,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2022年,30克,生肖,年壬,壬寅,寅虎,虎年,年生,肖克,克梅,梅花,花形,形精,精制,制银,银币,评级"
+    }
+  ]
+}

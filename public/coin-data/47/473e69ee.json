@@ -1,15 +1,32 @@
 {
   "coinName": "2008年奥运会",
   "slug": "473e69ee",
-  "saleCount": 11,
+  "saleCount": 12,
   "keywords": "钞,2008年,奥运,年第,第届,届奥,运会,会纪,纪念,念钞,钞拾,拾圆,币,钞港,港币,币澳,澳门,门币,币贰,贰拾,圆各,各一,一枚,枚共,共二,二枚,外国/特区",
   "priceStats": {
     "low": 340,
     "high": 3650,
-    "avg": 2435,
-    "latest": 2500
+    "avg": 2437,
+    "latest": 2450
   },
   "records": [
+    {
+      "coinName": "2008年第29届奥运会纪念钞拾圆",
+      "normalizedBoxCode": "2555408078",
+      "displayBoxCode": "2555408-078",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/liantichao-jinianchao/10464191.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2555408-078/",
+      "price": 2450,
+      "priceWithFee": 2646,
+      "transactedAt": "2026-08-22 21:25:35",
+      "productCode": "882734017",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,2008年,奥运,年第,第届,届奥,运会,会纪,纪念,念钞,钞拾,拾圆"
+    },
     {
       "coinName": "2008年第29届奥运会纪念钞拾圆",
       "normalizedBoxCode": "2491842093",

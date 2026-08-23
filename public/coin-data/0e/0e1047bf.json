@@ -1,0 +1,31 @@
+{
+  "coinName": "2017年10克金币",
+  "slug": "0e1047bf",
+  "saleCount": 1,
+  "keywords": "金,币,2017年,10克,年英,英属,属南,南极,极领,领地,地食,食蟹,蟹海,海豹,豹克,克蓝,蓝色,色钛,钛金,金属,属币",
+  "priceStats": {
+    "low": 620,
+    "high": 620,
+    "avg": 620,
+    "latest": 620
+  },
+  "records": [
+    {
+      "coinName": "2017年英属南极领地食蟹海豹10克蓝色钛金属币",
+      "normalizedBoxCode": "8822840039",
+      "displayBoxCode": "8822840-039",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianbi/10475490.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8822840-039/",
+      "price": 620,
+      "priceWithFee": 688.2,
+      "transactedAt": "2026-08-21 19:27:05",
+      "productCode": "884038001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2017年,10克,年英,英属,属南,南极,极领,领地,地食,食蟹,蟹海,海豹,豹克,克蓝,蓝色,色钛,钛金,金属,属币"
+    }
+  ]
+}

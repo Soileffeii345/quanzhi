@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-22T01:24:48.778Z",
-  "totalCoins": 2802,
-  "totalSales": 10639,
+  "generatedAt": "2026-08-23T00:44:01.973Z",
+  "totalCoins": 2805,
+  "totalSales": 10645,
   "coins": [
     {
       "coinName": "2025年中国龙31.104克普制银币",
@@ -1254,6 +1254,16 @@
       "priceHigh": 2050
     },
     {
+      "coinName": "2008年奥运会",
+      "slug": "473e69ee",
+      "saleCount": 12,
+      "keywords": "钞,2008年,奥运,年第,第届,届奥,运会,会纪,纪念,念钞,钞拾,拾圆,币,钞港,港币,币澳,澳门,门币,币贰,贰拾,圆各,各一,一枚,枚共,共二,二枚,外国/特区",
+      "latestPrice": 2450,
+      "latestDate": "2026-08-22 21:25:35",
+      "priceLow": 340,
+      "priceHigh": 3650
+    },
+    {
       "coinName": "1990年7.776克金币",
       "slug": "714daeae",
       "saleCount": 12,
@@ -1454,16 +1464,6 @@
       "priceHigh": 3500
     },
     {
-      "coinName": "2008年奥运会",
-      "slug": "473e69ee",
-      "saleCount": 11,
-      "keywords": "钞,2008年,奥运,年第,第届,届奥,运会,会纪,纪念,念钞,钞拾,拾圆,币,钞港,港币,币澳,澳门,门币,币贰,贰拾,圆各,各一,一枚,枚共,共二,二枚,外国/特区",
-      "latestPrice": 2500,
-      "latestDate": "2026-08-08 20:15:50",
-      "priceLow": 340,
-      "priceHigh": 3650
-    },
-    {
       "coinName": "1990年奥运会3盎司金币",
       "slug": "577dcfda",
       "saleCount": 11,
@@ -1612,6 +1612,16 @@
       "latestDate": "2026-08-08 19:08:05",
       "priceLow": 930,
       "priceHigh": 2150
+    },
+    {
+      "coinName": "第二版人民币天安门黑1元",
+      "slug": "4fd58230",
+      "saleCount": 10,
+      "keywords": "币,第二,二版,版人,人民,民币,币天,天安,安门,门黑,黑元",
+      "latestPrice": 2900,
+      "latestDate": "2026-08-21 19:18:25",
+      "priceLow": 740,
+      "priceHigh": 6100
     },
     {
       "coinName": "第三版人民币2角红冠3罗马平版",
@@ -1812,16 +1822,6 @@
       "latestDate": "2026-08-06 21:51:25",
       "priceLow": 2750,
       "priceHigh": 72000
-    },
-    {
-      "coinName": "第二版人民币天安门黑1元",
-      "slug": "4fd58230",
-      "saleCount": 9,
-      "keywords": "币,第二,二版,版人,人民,民币,币天,天安,安门,门黑,黑元",
-      "latestPrice": 6100,
-      "latestDate": "2026-08-08 20:43:35",
-      "priceLow": 740,
-      "priceHigh": 6100
     },
     {
       "coinName": "第三版人民币背绿1角",
@@ -8674,6 +8674,16 @@
       "priceHigh": 90
     },
     {
+      "coinName": "第四套/第四版人民币小全套",
+      "slug": "43c320db",
+      "saleCount": 2,
+      "keywords": "币,第四,四套,套第,四版,版人,人民,民币,币小,小全,全套,套其,其中,中角,角角,角为,为赠,赠品,品流,流水,水号,号末,末四,四位,位同,同号",
+      "latestPrice": 2700,
+      "latestDate": "2026-08-22 21:00:35",
+      "priceLow": 260,
+      "priceHigh": 2700
+    },
+    {
       "coinName": "2009年生肖1公斤银币",
       "slug": "569b254f",
       "saleCount": 2,
@@ -13544,16 +13554,6 @@
       "priceHigh": 640
     },
     {
-      "coinName": "第四套/第四版人民币小全套",
-      "slug": "43c320db",
-      "saleCount": 1,
-      "keywords": "币,第四,四套,套第,四版,版人,人民,民币,币小,小全,全套,套其,其中,中角,角角,角为,为赠,赠品,品流,流水,水号,号末,末四,四位,位同,同号",
-      "latestPrice": 260,
-      "latestDate": "2026-08-04 20:17:05",
-      "priceLow": 260,
-      "priceHigh": 260
-    },
-    {
       "coinName": "2023年生肖3克金币",
       "slug": "651c6d5b",
       "saleCount": 1,
@@ -14592,6 +14592,16 @@
       "latestDate": "2026-08-08 20:22:50",
       "priceLow": 1400,
       "priceHigh": 1400
+    },
+    {
+      "coinName": "2022年生肖30克精制银币",
+      "slug": "0f12eb33",
+      "saleCount": 1,
+      "keywords": "银,币,2022年,30克,生肖,年壬,壬寅,寅虎,虎年,年生,肖克,克梅,梅花,花形,形精,精制,制银,银币,评级",
+      "latestPrice": 860,
+      "latestDate": "2026-08-22 21:11:50",
+      "priceLow": 860,
+      "priceHigh": 860
     },
     {
       "coinName": "1994年8克精制金币",
@@ -18662,6 +18672,16 @@
       "latestDate": "2026-06-29 21:10:35",
       "priceLow": 560,
       "priceHigh": 560
+    },
+    {
+      "coinName": "1989年31.96克加厚银币",
+      "slug": "1c15332f",
+      "saleCount": 1,
+      "keywords": "银,币,1989年,31.96克,年英,英国,国权,权利,利法,法案,案周,周年,年加,加厚,厚版,版克,克银,银币,币两,两枚,枚一,一套,外国/特区",
+      "latestPrice": 1620,
+      "latestDate": "2026-08-21 19:29:05",
+      "priceLow": 1620,
+      "priceHigh": 1620
     },
     {
       "coinName": "2023年春季钱币拍卖会 钱币",
@@ -27632,6 +27652,16 @@
       "latestDate": "2026-07-24 20:05:05",
       "priceLow": 1320,
       "priceHigh": 1320
+    },
+    {
+      "coinName": "2017年10克金币",
+      "slug": "0e1047bf",
+      "saleCount": 1,
+      "keywords": "金,币,2017年,10克,年英,英属,属南,南极,极领,领地,地食,食蟹,蟹海,海豹,豹克,克蓝,蓝色,色钛,钛金,金属,属币",
+      "latestPrice": 620,
+      "latestDate": "2026-08-21 19:27:05",
+      "priceLow": 620,
+      "priceHigh": 620
     },
     {
       "coinName": "2021年50克银币",

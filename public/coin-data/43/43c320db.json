@@ -1,15 +1,32 @@
 {
   "coinName": "第四套/第四版人民币小全套",
   "slug": "43c320db",
-  "saleCount": 1,
+  "saleCount": 2,
   "keywords": "币,第四,四套,套第,四版,版人,人民,民币,币小,小全,全套,套其,其中,中角,角角,角为,为赠,赠品,品流,流水,水号,号末,末四,四位,位同,同号",
   "priceStats": {
     "low": 260,
-    "high": 260,
-    "avg": 260,
-    "latest": 260
+    "high": 2700,
+    "avg": 1480,
+    "latest": 2700
   },
   "records": [
+    {
+      "coinName": "第四套/第四版人民币小全套(其中1角、5角为赠品)",
+      "normalizedBoxCode": "0800016354",
+      "displayBoxCode": "0800016-354",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/disibanrenminbi/10464189.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/0800016-354/",
+      "price": 2700,
+      "priceWithFee": 2916,
+      "transactedAt": "2026-08-22 21:00:35",
+      "productCode": "882734015",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,第四,四套,套第,四版,版人,人民,民币,币小,小全,全套,套其,其中,中角,角角,角为,为赠,赠品"
+    },
     {
       "coinName": "第四套/第四版人民币小全套(其中1角、5角为赠品，流水号末四位同号)",
       "normalizedBoxCode": "0529742978",
