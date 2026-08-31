@@ -1,15 +1,32 @@
 {
   "coinName": "明清 银锭",
   "slug": "7b287a1b",
-  "saleCount": 2,
+  "saleCount": 3,
   "keywords": "银,明清,清银,银锭",
   "priceStats": {
-    "low": 1820,
+    "low": 1720,
     "high": 1900,
-    "avg": 1860,
-    "latest": 1820
+    "avg": 1813,
+    "latest": 1720
   },
   "records": [
+    {
+      "coinName": "明清 银锭",
+      "normalizedBoxCode": "1610044233",
+      "displayBoxCode": "1610044-233",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/yinding/10437203.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1610044-233/",
+      "price": 1720,
+      "priceWithFee": 1909.2,
+      "transactedAt": "2026-08-24 21:28:35",
+      "productCode": "879624001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,明清,清银,银锭"
+    },
     {
       "coinName": "明清 银锭",
       "normalizedBoxCode": "1610085591",

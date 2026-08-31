@@ -1,15 +1,32 @@
 {
   "coinName": "1990年龙凤2克精制银币",
   "slug": "41f3606f",
-  "saleCount": 6,
+  "saleCount": 7,
   "keywords": "银,币,1990年,2克,年龙,龙凤,凤克,克精,精制,制银,银币,评级",
   "priceStats": {
     "low": 510,
     "high": 3900,
-    "avg": 1762,
-    "latest": 3900
+    "avg": 1617,
+    "latest": 750
   },
   "records": [
+    {
+      "coinName": "1990年龙凤2克精制银币",
+      "normalizedBoxCode": "6718135029",
+      "displayBoxCode": "6718135-029",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10435045.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6718135-029/",
+      "price": 750,
+      "priceWithFee": 776.25,
+      "transactedAt": "2026-08-24 21:16:40",
+      "productCode": "879090006",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1990年,2克,年龙,龙凤,凤克,克精,精制,制银,银币,评级"
+    },
     {
       "coinName": "1990年龙凤2克精制银币",
       "normalizedBoxCode": "8540883023",

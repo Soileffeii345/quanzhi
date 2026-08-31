@@ -1,0 +1,48 @@
+{
+  "coinName": "2003年生肖31.104克普制银币",
+  "slug": "6fc2b940",
+  "saleCount": 2,
+  "keywords": "银,币,2003年,1盎司,生肖,年癸,癸未,未羊,羊年,年生,肖盎,盎司,司普,普制,制银,银币",
+  "priceStats": {
+    "low": 1240,
+    "high": 1300,
+    "avg": 1270,
+    "latest": 1240
+  },
+  "records": [
+    {
+      "coinName": "2003年癸未羊年生肖1盎司普制银币",
+      "normalizedBoxCode": "8760896014",
+      "displayBoxCode": "8760896-014",
+      "gradingCompany": "NGC",
+      "grade": "MS 70",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10470713.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8760896-014/70/",
+      "price": 1240,
+      "priceWithFee": 1283.4,
+      "transactedAt": "2026-08-24 20:56:40",
+      "productCode": "883605007",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2003年,1盎司,生肖,年癸,癸未,未羊,羊年,年生,肖盎,盎司,司普,普制,制银,银币"
+    },
+    {
+      "coinName": "2003年癸未羊年生肖1盎司普制银币",
+      "normalizedBoxCode": "8760896013",
+      "displayBoxCode": "8760896-013",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10470712.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8760896-013/",
+      "price": 1300,
+      "priceWithFee": 1345.5,
+      "transactedAt": "2026-08-24 20:02:40",
+      "productCode": "883605006",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2003年,1盎司,生肖,年癸,癸未,未羊,羊年,年生,肖盎,盎司,司普,普制,制银,银币"
+    }
+  ]
+}

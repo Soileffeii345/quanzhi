@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8617466001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8617466001",
+      "displayBoxCode": "8617466-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "1999年己卯兔年生肖1盎司精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10474506.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8617466-001/69/",
+      "price": 1580,
+      "priceWithFee": 1635.3,
+      "transactedAt": "2026-08-24 20:20:10",
+      "productCode": "884142004",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/34/884142004A.jpg",
+      "ocrConfidence": 38,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1999年,1盎司,生肖,年己,己卯,卯兔,兔年,年生,肖盎,盎司,司精,精制,制银,银币,评级"
+    }
+  ]
+}

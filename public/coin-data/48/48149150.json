@@ -1,15 +1,32 @@
 {
   "coinName": "民国十年袁像壹圆银元",
   "slug": "48149150",
-  "saleCount": 1,
+  "saleCount": 2,
   "keywords": "银,历史币,袁大头,大头,袁头,民国,国十,十年,年袁,袁像,像壹,壹圆,圆银,银元",
   "priceStats": {
-    "low": 1800,
+    "low": 910,
     "high": 1800,
-    "avg": 1800,
-    "latest": 1800
+    "avg": 1355,
+    "latest": 910
   },
   "records": [
+    {
+      "coinName": "民国十年袁像壹圆银元",
+      "normalizedBoxCode": "1213398457",
+      "displayBoxCode": "1213398-457",
+      "gradingCompany": "NGC",
+      "grade": "XF 02",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguojindaijizhibi/10416984.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1213398-457/02/",
+      "price": 910,
+      "priceWithFee": 982.8,
+      "transactedAt": "2026-08-24 19:39:35",
+      "productCode": "877050004",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,袁大头,大头,袁头,民国,国十,十年,年袁,袁像,像壹,壹圆,圆银,银元"
+    },
     {
       "coinName": "民国十年袁像壹圆银元",
       "normalizedBoxCode": "80701921",

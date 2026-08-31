@@ -1,0 +1,31 @@
+{
+  "coinName": "清 顺治通宝宝源",
+  "slug": "516939fd",
+  "saleCount": 1,
+  "keywords": "清顺,顺治,治通,通宝,宝宝,宝源",
+  "priceStats": {
+    "low": 240,
+    "high": 240,
+    "avg": 240,
+    "latest": 240
+  },
+  "records": [
+    {
+      "coinName": "清 顺治通宝宝源",
+      "normalizedBoxCode": "1118102281",
+      "displayBoxCode": "1118102-281",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/guqian/10441067.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1118102-281/",
+      "price": 240,
+      "priceWithFee": 264,
+      "transactedAt": "2026-08-24 21:21:05",
+      "productCode": "880023017",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "清顺,顺治,治通,通宝,宝宝,宝源"
+    }
+  ]
+}

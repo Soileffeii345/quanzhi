@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "1120157659",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "1120157659",
+      "displayBoxCode": "1120157-659",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "明 万历通宝鬼万历",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/guqian/10441061.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1120157-659/",
+      "price": 160,
+      "priceWithFee": 176,
+      "transactedAt": "2026-08-24 20:42:35",
+      "productCode": "880023011",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/31/880023011A.jpg",
+      "ocrConfidence": 38,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "明万,万历,历通,通宝,宝鬼,鬼万"
+    }
+  ]
+}

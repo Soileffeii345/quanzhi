@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8545372013",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8545372013",
+      "displayBoxCode": "8545372-013",
+      "gradingCompany": "NGC",
+      "grade": "PF 68",
+      "coinName": "1983年熊猫12.7克精制铜币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-tong/10472772.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8545372-013/68/",
+      "price": 1580,
+      "priceWithFee": 1635.3,
+      "transactedAt": "2026-08-24 21:01:10",
+      "productCode": "884082001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/34/884082001A.jpg",
+      "ocrConfidence": 31,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "铜,币,1983年,12.7克,熊猫,年熊,猫克,克精,精制,制铜,铜币,评级"
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-29T06:18:23.990Z",
-  "totalCoins": 2805,
-  "totalSales": 10645,
+  "generatedAt": "2026-08-31T04:32:10.922Z",
+  "totalCoins": 2810,
+  "totalSales": 10663,
   "coins": [
     {
       "coinName": "2025年中国龙31.104克普制银币",
@@ -374,6 +374,16 @@
       "priceHigh": 5100
     },
     {
+      "coinName": "2021年70克银币",
+      "slug": "10c11b67",
+      "saleCount": 28,
+      "keywords": "银,章,2021年,70克,宗教,年千,千手,手观,观音,音克,克银,银章",
+      "latestPrice": 2150,
+      "latestDate": "2026-08-24 20:54:10",
+      "priceLow": 1660,
+      "priceHigh": 2350
+    },
+    {
       "coinName": "第三版人民币2元五星水印",
       "slug": "09b03f7a",
       "saleCount": 27,
@@ -402,16 +412,6 @@
       "latestDate": "2026-04-24 10:01:12",
       "priceLow": 5550,
       "priceHigh": 27345
-    },
-    {
-      "coinName": "2021年70克银币",
-      "slug": "10c11b67",
-      "saleCount": 26,
-      "keywords": "银,章,2021年,70克,宗教,年千,千手,手观,观音,音克,克银,银章",
-      "latestPrice": 1720,
-      "latestDate": "2026-08-10 21:08:10",
-      "priceLow": 1660,
-      "priceHigh": 2350
     },
     {
       "coinName": "第四套/第四版人民币1996年版1元",
@@ -2034,6 +2034,16 @@
       "priceHigh": 31000
     },
     {
+      "coinName": "民国三年袁像壹圆银元",
+      "slug": "50859b18",
+      "saleCount": 8,
+      "keywords": "银,历史币,袁大头,大头,袁头,民国,国三,三年,年袁,袁像,像壹,壹圆,圆银,银元",
+      "latestPrice": 920,
+      "latestDate": "2026-08-24 19:39:05",
+      "priceLow": 870,
+      "priceHigh": 3200
+    },
+    {
       "coinName": "第一版人民币驮运100元",
       "slug": "5eff9917",
       "saleCount": 8,
@@ -2354,6 +2364,16 @@
       "priceHigh": 920
     },
     {
+      "coinName": "1990年生肖15克精制银币",
+      "slug": "3da7a57d",
+      "saleCount": 8,
+      "keywords": "银,币,1990年,15克,生肖,年庚,庚午,午马,马年,年生,肖克,克精,精制,制银,银币,评级",
+      "latestPrice": 1220,
+      "latestDate": "2026-08-24 20:01:40",
+      "priceLow": 980,
+      "priceHigh": 1820
+    },
+    {
       "coinName": "2025年生肖15克铂币",
       "slug": "4d573635",
       "saleCount": 8,
@@ -2432,16 +2452,6 @@
       "latestDate": "2026-08-08 19:44:50",
       "priceLow": 60,
       "priceHigh": 470
-    },
-    {
-      "coinName": "民国三年袁像壹圆银元",
-      "slug": "50859b18",
-      "saleCount": 7,
-      "keywords": "银,历史币,袁大头,大头,袁头,民国,国三,三年,年袁,袁像,像壹,壹圆,圆银,银元",
-      "latestPrice": 1040,
-      "latestDate": "2026-08-17 19:51:05",
-      "priceLow": 870,
-      "priceHigh": 3200
     },
     {
       "coinName": "2017年熊猫30克金币",
@@ -2774,6 +2784,16 @@
       "priceHigh": 15615
     },
     {
+      "coinName": "1990年龙凤2克精制银币",
+      "slug": "41f3606f",
+      "saleCount": 7,
+      "keywords": "银,币,1990年,2克,年龙,龙凤,凤克,克精,精制,制银,银币,评级",
+      "latestPrice": 750,
+      "latestDate": "2026-08-24 21:16:40",
+      "priceLow": 510,
+      "priceHigh": 3900
+    },
+    {
       "coinName": "2019年8克金币",
       "slug": "11a3a486",
       "saleCount": 7,
@@ -2852,16 +2872,6 @@
       "latestDate": "2026-08-07 19:37:14",
       "priceLow": 980,
       "priceHigh": 1700
-    },
-    {
-      "coinName": "1990年生肖15克精制银币",
-      "slug": "3da7a57d",
-      "saleCount": 7,
-      "keywords": "银,币,1990年,15克,生肖,年庚,庚午,午马,马年,年生,肖克,克精,精制,制银,银币,评级",
-      "latestPrice": 1800,
-      "latestDate": "2026-08-03 21:27:40",
-      "priceLow": 980,
-      "priceHigh": 1820
     },
     {
       "coinName": "1990年27克精制银币",
@@ -3444,16 +3454,6 @@
       "priceHigh": 830
     },
     {
-      "coinName": "1990年龙凤2克精制银币",
-      "slug": "41f3606f",
-      "saleCount": 6,
-      "keywords": "银,币,1990年,2克,年龙,龙凤,凤克,克精,精制,制银,银币,评级",
-      "latestPrice": 3900,
-      "latestDate": "2026-08-17 21:01:40",
-      "priceLow": 510,
-      "priceHigh": 3900
-    },
-    {
       "coinName": "2006年生肖31.104克精制银币",
       "slug": "65d536d3",
       "saleCount": 6,
@@ -3582,6 +3582,16 @@
       "latestDate": "2026-06-10 17:44:33",
       "priceLow": 1850,
       "priceHigh": 7300
+    },
+    {
+      "coinName": "1999年生肖31.104克精制银币",
+      "slug": "06e35b19",
+      "saleCount": 6,
+      "keywords": "银,币,1999年,1盎司,生肖,年己,己卯,卯兔,兔年,年生,肖盎,盎司,司精,精制,制银,银币,评级,年已,已卯,制彩,彩银",
+      "latestPrice": 1580,
+      "latestDate": "2026-08-24 20:20:10",
+      "priceLow": 910,
+      "priceHigh": 1580
     },
     {
       "coinName": "1988年精制银币",
@@ -4474,16 +4484,6 @@
       "priceHigh": 22000
     },
     {
-      "coinName": "1999年生肖31.104克精制银币",
-      "slug": "06e35b19",
-      "saleCount": 5,
-      "keywords": "银,币,1999年,1盎司,生肖,年已,已卯,卯兔,兔年,年生,肖盎,盎司,司精,精制,制银,银币,评级,年己,己卯,制彩,彩银",
-      "latestPrice": 1300,
-      "latestDate": "2026-08-03 20:08:55",
-      "priceLow": 910,
-      "priceHigh": 1420
-    },
-    {
       "coinName": "2004年3.11克精制铂金币",
       "slug": "37a5f0f5",
       "saleCount": 5,
@@ -4562,6 +4562,16 @@
       "latestDate": "2026-05-10 03:09:15",
       "priceLow": 1250,
       "priceHigh": 2000
+    },
+    {
+      "coinName": "1990年熊猫3.11克普制金币",
+      "slug": "18fc5725",
+      "saleCount": 5,
+      "keywords": "金,币,1990年,10盎司,熊猫,年熊,猫盎,盎司,司普,普制,制金,金币,币大,大字,字版,币小,小字",
+      "latestPrice": 3600,
+      "latestDate": "2026-08-24 21:47:40",
+      "priceLow": 3150,
+      "priceHigh": 3850
     },
     {
       "coinName": "2006年生肖31.104克普制银币",
@@ -6114,16 +6124,6 @@
       "priceHigh": 1480
     },
     {
-      "coinName": "1990年熊猫3.11克普制金币",
-      "slug": "18fc5725",
-      "saleCount": 4,
-      "keywords": "金,币,1990年,10盎司,熊猫,年熊,猫盎,盎司,司普,普制,制金,金币,币小,小字,字版,币大,大字",
-      "latestPrice": 3850,
-      "latestDate": "2026-07-30 21:26:45",
-      "priceLow": 3150,
-      "priceHigh": 3850
-    },
-    {
       "coinName": "2026年生肖30克精制银币",
       "slug": "065fe9d1",
       "saleCount": 4,
@@ -6324,6 +6324,16 @@
       "priceHigh": 150
     },
     {
+      "coinName": "民国二十二年孙像船洋壹圆银元",
+      "slug": "292f087c",
+      "saleCount": 3,
+      "keywords": "银,历史币,孙小头,小头,船洋,民国,国二,二十,十二,二年,年孙,孙像,像船,洋壹,壹圆,圆银,银元",
+      "latestPrice": 1680,
+      "latestDate": "2026-08-24 19:40:35",
+      "priceLow": 1660,
+      "priceHigh": 3650
+    },
+    {
       "coinName": "2025年第十三届香港国际钱币联合展销会、大开门app线上专场、世界钱币及纸币、上海拍卖行2024年秋季钱币拍卖会、",
       "slug": "2db2e853",
       "saleCount": 3,
@@ -6352,6 +6362,16 @@
       "latestDate": "2025-06-23 11:45:07",
       "priceLow": 21200,
       "priceHigh": 36800
+    },
+    {
+      "coinName": "明清 银锭",
+      "slug": "7b287a1b",
+      "saleCount": 3,
+      "keywords": "银,明清,清银,银锭",
+      "latestPrice": 1720,
+      "latestDate": "2026-08-24 21:28:35",
+      "priceLow": 1720,
+      "priceHigh": 1900
     },
     {
       "coinName": "第一版人民币工厂1元",
@@ -8374,6 +8394,16 @@
       "priceHigh": 13000
     },
     {
+      "coinName": "1983年熊猫12.7克精制铜币",
+      "slug": "38cb7e39",
+      "saleCount": 3,
+      "keywords": "铜,币,1983年,12.7克,熊猫,年熊,猫克,克精,精制,制铜,铜币,评级",
+      "latestPrice": 1580,
+      "latestDate": "2026-08-24 21:01:10",
+      "priceLow": 1580,
+      "priceHigh": 2900
+    },
+    {
       "coinName": "2021年书法8克金币",
       "slug": "095a582e",
       "saleCount": 3,
@@ -8754,14 +8784,14 @@
       "priceHigh": 100
     },
     {
-      "coinName": "民国二十二年孙像船洋壹圆银元",
-      "slug": "292f087c",
+      "coinName": "民国十年袁像壹圆银元",
+      "slug": "48149150",
       "saleCount": 2,
-      "keywords": "银,历史币,孙小头,小头,船洋,民国,国二,二十,十二,二年,年孙,孙像,像船,洋壹,壹圆,圆银,银元",
-      "latestPrice": 1660,
-      "latestDate": "2026-08-10 19:58:05",
-      "priceLow": 1660,
-      "priceHigh": 3650
+      "keywords": "银,历史币,袁大头,大头,袁头,民国,国十,十年,年袁,袁像,像壹,壹圆,圆银,银元",
+      "latestPrice": 910,
+      "latestDate": "2026-08-24 19:39:35",
+      "priceLow": 910,
+      "priceHigh": 1800
     },
     {
       "coinName": "福建官局造光绪元宝十文铜币",
@@ -8822,16 +8852,6 @@
       "latestDate": "2026-06-27 19:48:10",
       "priceLow": 250,
       "priceHigh": 250
-    },
-    {
-      "coinName": "明清 银锭",
-      "slug": "7b287a1b",
-      "saleCount": 2,
-      "keywords": "银,明清,清银,银锭",
-      "latestPrice": 1820,
-      "latestDate": "2026-07-27 21:44:35",
-      "priceLow": 1820,
-      "priceHigh": 1900
     },
     {
       "coinName": "2011年金银币",
@@ -11304,6 +11324,16 @@
       "priceHigh": 510
     },
     {
+      "coinName": "民国开国纪念币孙像上六角星壹圆银元",
+      "slug": "476359b8",
+      "saleCount": 2,
+      "keywords": "银,币,历史币,孙小头,小头,民国,国开,开国,国纪,纪念,念币,币孙,孙像,像上,上六,六角,角星,星壹,壹圆,圆银,银元",
+      "latestPrice": 700,
+      "latestDate": "2026-08-24 19:40:05",
+      "priceLow": 690,
+      "priceHigh": 700
+    },
+    {
       "coinName": "2011年熊猫5盎司银币",
       "slug": "150513a4",
       "saleCount": 2,
@@ -12704,16 +12734,6 @@
       "priceHigh": 9400
     },
     {
-      "coinName": "1983年熊猫12.7克精制铜币",
-      "slug": "38cb7e39",
-      "saleCount": 2,
-      "keywords": "铜,币,1983年,12.7克,熊猫,年熊,猫克,克精,精制,制铜,铜币,评级",
-      "latestPrice": 2900,
-      "latestDate": "2026-07-27 22:21:40",
-      "priceLow": 1740,
-      "priceHigh": 2900
-    },
-    {
       "coinName": "1993年8克精制金币",
       "slug": "5b714f28",
       "saleCount": 2,
@@ -13294,6 +13314,16 @@
       "priceHigh": 18200
     },
     {
+      "coinName": "2003年生肖31.104克普制银币",
+      "slug": "6fc2b940",
+      "saleCount": 2,
+      "keywords": "银,币,2003年,1盎司,生肖,年癸,癸未,未羊,羊年,年生,肖盎,盎司,司普,普制,制银,银币",
+      "latestPrice": 1240,
+      "latestDate": "2026-08-24 20:56:40",
+      "priceLow": 1240,
+      "priceHigh": 1300
+    },
+    {
       "coinName": "2023年生肖30克精制银币",
       "slug": "7649ca0e",
       "saleCount": 2,
@@ -13644,6 +13674,16 @@
       "priceHigh": 470
     },
     {
+      "coinName": "清 顺治通宝宝源",
+      "slug": "516939fd",
+      "saleCount": 1,
+      "keywords": "清顺,顺治,治通,通宝,宝宝,宝源",
+      "latestPrice": 240,
+      "latestDate": "2026-08-24 21:21:05",
+      "priceLow": 240,
+      "priceHigh": 240
+    },
+    {
       "coinName": "清-咸丰重宝宝浙当十",
       "slug": "2cd5bb13",
       "saleCount": 1,
@@ -13672,6 +13712,26 @@
       "latestDate": "2026-08-10 21:07:05",
       "priceLow": 360,
       "priceHigh": 360
+    },
+    {
+      "coinName": "明 万历通宝鬼万历",
+      "slug": "00c005a0",
+      "saleCount": 1,
+      "keywords": "明万,万历,历通,通宝,宝鬼,鬼万",
+      "latestPrice": 160,
+      "latestDate": "2026-08-24 20:42:35",
+      "priceLow": 160,
+      "priceHigh": 160
+    },
+    {
+      "coinName": "宋 圣宋元宝",
+      "slug": "3ad738e2",
+      "saleCount": 1,
+      "keywords": "宋圣,圣宋,宋元,元宝",
+      "latestPrice": 260,
+      "latestDate": "2026-08-24 21:20:35",
+      "priceLow": 260,
+      "priceHigh": 260
     },
     {
       "coinName": "清-雍正通宝宝巩",
@@ -20634,16 +20694,6 @@
       "priceHigh": 172000
     },
     {
-      "coinName": "民国开国纪念币孙像上六角星壹圆银元",
-      "slug": "476359b8",
-      "saleCount": 1,
-      "keywords": "银,币,历史币,孙小头,小头,民国,国开,开国,国纪,纪念,念币,币孙,孙像,像上,上六,六角,角星,星壹,壹圆,圆银,银元",
-      "latestPrice": 690,
-      "latestDate": "2026-08-03 19:47:05",
-      "priceLow": 690,
-      "priceHigh": 690
-    },
-    {
       "coinName": "湖北省造光绪元宝七钱二分银元",
       "slug": "54c51025",
       "saleCount": 1,
@@ -23512,16 +23562,6 @@
       "latestDate": "2026-07-30 22:23:40",
       "priceLow": 1680,
       "priceHigh": 1680
-    },
-    {
-      "coinName": "民国十年袁像壹圆银元",
-      "slug": "48149150",
-      "saleCount": 1,
-      "keywords": "银,历史币,袁大头,大头,袁头,民国,国十,十年,年袁,袁像,像壹,壹圆,圆银,银元",
-      "latestPrice": 1800,
-      "latestDate": "2026-08-03 21:11:35",
-      "priceLow": 1800,
-      "priceHigh": 1800
     },
     {
       "coinName": "民国二十五年中央银行壹佰圆",
@@ -27342,6 +27382,16 @@
       "latestDate": "2026-08-07 20:11:45",
       "priceLow": 1200,
       "priceHigh": 1200
+    },
+    {
+      "coinName": "1989年熊猫31.104克普制银币",
+      "slug": "4037b4ea",
+      "saleCount": 1,
+      "keywords": "银,币,1989年,1盎司,熊猫,年熊,猫盎,盎司,司普,普制,制银,银币",
+      "latestPrice": 870,
+      "latestDate": "2026-08-24 19:38:40",
+      "priceLow": 870,
+      "priceHigh": 870
     },
     {
       "coinName": "1982年20克银币",

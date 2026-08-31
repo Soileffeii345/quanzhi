@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "1120157680",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "1120157680",
+      "displayBoxCode": "1120157-680",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "宋 圣宋元宝",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/guqian/10441058.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1120157-680/",
+      "price": 260,
+      "priceWithFee": 286,
+      "transactedAt": "2026-08-24 21:20:35",
+      "productCode": "880023008",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/31/880023008A.jpg",
+      "ocrConfidence": 42,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "宋圣,圣宋,宋元,元宝"
+    }
+  ]
+}

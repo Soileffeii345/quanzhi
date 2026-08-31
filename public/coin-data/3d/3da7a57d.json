@@ -1,15 +1,32 @@
 {
   "coinName": "1990年生肖15克精制银币",
   "slug": "3da7a57d",
-  "saleCount": 7,
+  "saleCount": 8,
   "keywords": "银,币,1990年,15克,生肖,年庚,庚午,午马,马年,年生,肖克,克精,精制,制银,银币,评级",
   "priceStats": {
     "low": 980,
     "high": 1820,
-    "avg": 1461,
-    "latest": 1800
+    "avg": 1431,
+    "latest": 1220
   },
   "records": [
+    {
+      "coinName": "1990年庚午马年生肖15克精制银币",
+      "normalizedBoxCode": "8587816008",
+      "displayBoxCode": "8587816-008",
+      "gradingCompany": "NGC",
+      "grade": "PF 68 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10471791.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8587816-008/68/",
+      "price": 1220,
+      "priceWithFee": 1262.7,
+      "transactedAt": "2026-08-24 20:01:40",
+      "productCode": "883913003",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1990年,15克,生肖,年庚,庚午,午马,马年,年生,肖克,克精,精制,制银,银币,评级"
+    },
     {
       "coinName": "1990年庚午马年生肖15克精制银币",
       "normalizedBoxCode": "6758453034",

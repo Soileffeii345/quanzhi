@@ -1,15 +1,49 @@
 {
   "coinName": "2021年70克银币",
   "slug": "10c11b67",
-  "saleCount": 26,
+  "saleCount": 28,
   "keywords": "银,章,2021年,70克,宗教,年千,千手,手观,观音,音克,克银,银章",
   "priceStats": {
     "low": 1660,
     "high": 2350,
-    "avg": 1833,
-    "latest": 1720
+    "avg": 1852,
+    "latest": 2150
   },
   "records": [
+    {
+      "coinName": "2021年千手观音70克银章",
+      "normalizedBoxCode": "8571110055",
+      "displayBoxCode": "8571110-055",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10448554.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8571110-055/70/",
+      "price": 2150,
+      "priceWithFee": 2225.25,
+      "transactedAt": "2026-08-24 20:54:10",
+      "productCode": "881055016",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,章,2021年,70克,宗教,年千,千手,手观,观音,音克,克银,银章"
+    },
+    {
+      "coinName": "2021年千手观音70克银章",
+      "normalizedBoxCode": "8571110053",
+      "displayBoxCode": "8571110-053",
+      "gradingCompany": "NGC",
+      "grade": "PF70 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10448552.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8571110-053/70/",
+      "price": 2050,
+      "priceWithFee": 2121.75,
+      "transactedAt": "2026-08-24 19:59:10",
+      "productCode": "881055014",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,章,2021年,70克,宗教,年千,千手,手观,观音,音克,克银,银章"
+    },
     {
       "coinName": "2021年千手观音70克银章",
       "normalizedBoxCode": "8571110107",

@@ -1,15 +1,32 @@
 {
   "coinName": "1990年熊猫3.11克普制金币",
   "slug": "18fc5725",
-  "saleCount": 4,
-  "keywords": "金,币,1990年,10盎司,熊猫,年熊,猫盎,盎司,司普,普制,制金,金币,币小,小字,字版,币大,大字",
+  "saleCount": 5,
+  "keywords": "金,币,1990年,10盎司,熊猫,年熊,猫盎,盎司,司普,普制,制金,金币,币大,大字,字版,币小,小字",
   "priceStats": {
     "low": 3150,
     "high": 3850,
-    "avg": 3488,
-    "latest": 3850
+    "avg": 3510,
+    "latest": 3600
   },
   "records": [
+    {
+      "coinName": "1990年熊猫1/10盎司普制金币（大字版）",
+      "normalizedBoxCode": "8658382035",
+      "displayBoxCode": "8658382-035",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-jiujin/10473881.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8658382-035/69/",
+      "price": 3600,
+      "priceWithFee": 3726,
+      "transactedAt": "2026-08-24 21:47:40",
+      "productCode": "884191001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1990年,10盎司,熊猫,年熊,猫盎,盎司,司普,普制,制金,金币,币大,大字,字版"
+    },
     {
       "coinName": "1990年熊猫1/10盎司普制金币（小字版）",
       "normalizedBoxCode": "8781313009",

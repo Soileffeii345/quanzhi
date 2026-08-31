@@ -1,15 +1,32 @@
 {
   "coinName": "民国二十二年孙像船洋壹圆银元",
   "slug": "292f087c",
-  "saleCount": 2,
+  "saleCount": 3,
   "keywords": "银,历史币,孙小头,小头,船洋,民国,国二,二十,十二,二年,年孙,孙像,像船,洋壹,壹圆,圆银,银元",
   "priceStats": {
     "low": 1660,
     "high": 3650,
-    "avg": 2655,
-    "latest": 1660
+    "avg": 2330,
+    "latest": 1680
   },
   "records": [
+    {
+      "coinName": "民国二十二年孙像船洋壹圆银元",
+      "normalizedBoxCode": "6415171006",
+      "displayBoxCode": "6415171-006",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguojindaijizhibi/10416990.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6415171-006/",
+      "price": 1680,
+      "priceWithFee": 1814.4,
+      "transactedAt": "2026-08-24 19:40:35",
+      "productCode": "877050010",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,孙小头,小头,船洋,民国,国二,二十,十二,二年,年孙,孙像,像船,洋壹,壹圆,圆银,银元"
+    },
     {
       "coinName": "民国二十二年孙像船洋壹圆银元",
       "normalizedBoxCode": "1211795186",
