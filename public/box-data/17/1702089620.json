@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "1702089620",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "1702089620",
+      "displayBoxCode": "1702089-620",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1957年美国1美元纸钞",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10476965.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1702089-620/",
+      "price": 210,
+      "priceWithFee": 233.1,
+      "transactedAt": "2026-08-25 21:54:05",
+      "productCode": "884075003",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/34/884075003A.jpg",
+      "ocrConfidence": 43,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,1957年,年美,美国,国美,美元,元纸,纸钞,外国/特区"
+    }
+  ]
+}

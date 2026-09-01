@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-31T04:32:10.922Z",
-  "totalCoins": 2810,
-  "totalSales": 10663,
+  "generatedAt": "2026-09-01T04:17:24.679Z",
+  "totalCoins": 2812,
+  "totalSales": 10669,
   "coins": [
     {
       "coinName": "2025年中国龙31.104克普制银币",
@@ -3742,6 +3742,16 @@
       "latestDate": "2026-08-13 21:50:40",
       "priceLow": 270,
       "priceHigh": 1360
+    },
+    {
+      "coinName": "1957年美国1美元纸钞",
+      "slug": "74a4a46e",
+      "saleCount": 5,
+      "keywords": "钞,1957年,年美,美国,国美,美元,元纸,纸钞,外国/特区",
+      "latestPrice": 210,
+      "latestDate": "2026-08-25 21:54:05",
+      "priceLow": 180,
+      "priceHigh": 230
     },
     {
       "coinName": "民国二十四年广东省银行贰毫",
@@ -15192,6 +15202,16 @@
       "latestDate": "2026-07-14 21:42:20",
       "priceLow": 380,
       "priceHigh": 380
+    },
+    {
+      "coinName": "1935年美国1美元纸钞",
+      "slug": "65b2a8b2",
+      "saleCount": 1,
+      "keywords": "钞,1935年,年美,美国,国美,美元,元纸,纸钞,外国/特区",
+      "latestPrice": 160,
+      "latestDate": "2026-08-25 21:54:35",
+      "priceLow": 160,
+      "priceHigh": 160
     },
     {
       "coinName": "民国三年交通银行上海地名拾圆连号",
