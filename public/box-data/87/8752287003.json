@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8752287003",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8752287003",
+      "displayBoxCode": "8752287-003",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "上海造币厂造江西省赣州地区钱币学会纪念章",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/tongzhang/10474435.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8752287-003/",
+      "price": 500,
+      "priceWithFee": 555,
+      "transactedAt": "2026-08-28 19:51:50",
+      "productCode": "884056002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/34/884056002A.jpg",
+      "ocrConfidence": 38,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,章,上海,海造,造币,币厂,厂造,造江,江西,西省,省赣,赣州,州地,地区,区钱,钱币,币学,学会,会纪,纪念,念章"
+    }
+  ]
+}

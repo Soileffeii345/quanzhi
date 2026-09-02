@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6200188037",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6200188037",
+      "displayBoxCode": "6200188-037",
+      "gradingCompany": "NGC",
+      "grade": "MS 67",
+      "coinName": "1985年-1988年五大自治区流通纪念币五枚一套",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10468726.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6200188-037/67/",
+      "price": 1860,
+      "priceWithFee": 2008.8,
+      "transactedAt": "2026-08-26 19:56:20",
+      "productCode": "883500002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/34/883500002A.jpg",
+      "ocrConfidence": 32,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1985年,年年,年五,五大,大自,自治,治区,区流,流通,通纪,纪念,念币,币五,五枚,枚一,一套"
+    }
+  ]
+}

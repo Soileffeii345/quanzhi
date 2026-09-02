@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-01T04:17:24.679Z",
-  "totalCoins": 2812,
-  "totalSales": 10669,
+  "generatedAt": "2026-09-02T03:37:10.045Z",
+  "totalCoins": 2815,
+  "totalSales": 10673,
   "coins": [
     {
       "coinName": "2025年中国龙31.104克普制银币",
@@ -13164,6 +13164,16 @@
       "priceHigh": 720
     },
     {
+      "coinName": "上海造币厂造江西省赣州地区钱币学会纪念章",
+      "slug": "01ec1cfc",
+      "saleCount": 2,
+      "keywords": "币,章,上海,海造,造币,币厂,厂造,造江,江西,西省,省赣,赣州,州地,地区,区钱,钱币,币学,学会,会纪,纪念,念章",
+      "latestPrice": 500,
+      "latestDate": "2026-08-28 19:51:50",
+      "priceLow": 500,
+      "priceHigh": 500
+    },
+    {
       "coinName": "1999年熊猫7.776克普制金币",
       "slug": "1e177e94",
       "saleCount": 2,
@@ -20004,6 +20014,16 @@
       "priceHigh": 7800
     },
     {
+      "coinName": "2018年生肖铜币",
+      "slug": "2ceb64d6",
+      "saleCount": 1,
+      "keywords": "铜,章,2018年,生肖,年虎,虎年,年生,肖大,大铜,铜章",
+      "latestPrice": 1020,
+      "latestDate": "2026-08-28 19:56:50",
+      "priceLow": 1020,
+      "priceHigh": 1020
+    },
+    {
       "coinName": "1984年中国硬币壹分",
       "slug": "59e84225",
       "saleCount": 1,
@@ -21462,6 +21482,16 @@
       "latestDate": "2026-07-20 19:19:35",
       "priceLow": 55,
       "priceHigh": 55
+    },
+    {
+      "coinName": "1985年-1988年五大自治区流通纪念币",
+      "slug": "5539a420",
+      "saleCount": 1,
+      "keywords": "币,1985年,年年,年五,五大,大自,自治,治区,区流,流通,通纪,纪念,念币,币五,五枚,枚一,一套",
+      "latestPrice": 1860,
+      "latestDate": "2026-08-26 19:56:20",
+      "priceLow": 1860,
+      "priceHigh": 1860
     },
     {
       "coinName": "2022年熊猫30克普制银币",

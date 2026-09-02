@@ -1,0 +1,31 @@
+{
+  "coinName": "2018年生肖铜币",
+  "slug": "2ceb64d6",
+  "saleCount": 1,
+  "keywords": "铜,章,2018年,生肖,年虎,虎年,年生,肖大,大铜,铜章",
+  "priceStats": {
+    "low": 1020,
+    "high": 1020,
+    "avg": 1020,
+    "latest": 1020
+  },
+  "records": [
+    {
+      "coinName": "2018年虎年生肖大铜章",
+      "normalizedBoxCode": "4635872003",
+      "displayBoxCode": "4635872-003",
+      "gradingCompany": "NGC",
+      "grade": "MS 70",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/tongzhang/10477481.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4635872-003/70/",
+      "price": 1020,
+      "priceWithFee": 1132.2,
+      "transactedAt": "2026-08-28 19:56:50",
+      "productCode": "884623004",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "铜,章,2018年,生肖,年虎,虎年,年生,肖大,大铜,铜章"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8752287002",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8752287002",
+      "displayBoxCode": "8752287-002",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "上海造币厂造江西省赣州地区钱币学会纪念章",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/tongzhang/10474434.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8752287-002/69/",
+      "price": 500,
+      "priceWithFee": 555,
+      "transactedAt": "2026-08-28 19:05:10",
+      "productCode": "884056001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/34/884056001A.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,章,上海,海造,造币,币厂,厂造,造江,江西,西省,省赣,赣州,州地,地区,区钱,钱币,币学,学会,会纪,纪念,念章"
+    }
+  ]
+}
