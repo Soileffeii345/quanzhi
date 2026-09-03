@@ -1,0 +1,31 @@
+{
+  "coinName": "上海造币有限公司2016年远古生命系列之中华龙鸟大铜章",
+  "slug": "100b7b50",
+  "saleCount": 1,
+  "keywords": "铜,币,章,2016年,上海,海造,造币,币有,有限,限公,公司,司年,年远,远古,古生,生命,命系,系列,列之,之中,中华,华龙,龙鸟,鸟大,大铜,铜章",
+  "priceStats": {
+    "low": 720,
+    "high": 720,
+    "avg": 720,
+    "latest": 720
+  },
+  "records": [
+    {
+      "coinName": "上海造币有限公司2016年远古生命系列之中华龙鸟大铜章",
+      "normalizedBoxCode": "4403104009",
+      "displayBoxCode": "4403104-009",
+      "gradingCompany": "NGC",
+      "grade": "MS 70",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/tongzhang/10477605.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4403104-009/70/",
+      "price": 720,
+      "priceWithFee": 799.2,
+      "transactedAt": "2026-08-28 19:58:30",
+      "productCode": "884638001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "铜,币,章,2016年,上海,海造,造币,币有,有限,限公,公司,司年,年远,远古,古生,生命,命系,系列,列之,之中,中华,华龙,龙鸟,鸟大,大铜,铜章"
+    }
+  ]
+}

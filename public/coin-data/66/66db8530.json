@@ -1,15 +1,32 @@
 {
   "coinName": "2015年2盎司银币",
   "slug": "66db8530",
-  "saleCount": 6,
-  "keywords": "银,章,2015年,2盎司,年中,中国,国古,古典,典园,园林,林系,系列,列之,之个,个园,园盎,盎司,司银,银章,币,年盎,司九,九华,华山,山银,银币,司古,林避,避暑,暑山,山庄,庄银",
+  "saleCount": 7,
+  "keywords": "银,币,2015年,2盎司,年帕,帕劳,劳镶,镶嵌,嵌琥,琥珀,珀盎,盎司,司银,银币,章,年中,中国,国古,古典,典园,园林,林系,系列,列之,之个,个园,园盎,银章,年盎,司九,九华,华山,山银,司古,林避,避暑,暑山,山庄,庄银",
   "priceStats": {
     "low": 1380,
-    "high": 2000,
-    "avg": 1755,
-    "latest": 1380
+    "high": 2400,
+    "avg": 1847,
+    "latest": 2400
   },
   "records": [
+    {
+      "coinName": "2015年帕劳镶嵌琥珀2盎司银币",
+      "normalizedBoxCode": "4546193002",
+      "displayBoxCode": "4546193-002",
+      "gradingCompany": "NGC",
+      "grade": "MS 70",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/wgjsbizhang/10478246.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4546193-002/70/",
+      "price": 2400,
+      "priceWithFee": 2544,
+      "transactedAt": "2026-08-28 20:11:45",
+      "productCode": "884274001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2015年,2盎司,年帕,帕劳,劳镶,镶嵌,嵌琥,琥珀,珀盎,盎司,司银,银币"
+    },
     {
       "coinName": "2015年中国古典园林系列之个园2盎司银章",
       "normalizedBoxCode": "4318551016",

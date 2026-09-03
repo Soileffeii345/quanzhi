@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-02T03:37:10.045Z",
-  "totalCoins": 2815,
-  "totalSales": 10673,
+  "generatedAt": "2026-09-03T03:39:39.981Z",
+  "totalCoins": 2816,
+  "totalSales": 10678,
   "coins": [
     {
       "coinName": "2025年中国龙31.104克普制银币",
@@ -1964,6 +1964,16 @@
       "priceHigh": 1160
     },
     {
+      "coinName": "1990年龙凤2克精制银币",
+      "slug": "41f3606f",
+      "saleCount": 9,
+      "keywords": "银,币,1990年,2克,年龙,龙凤,凤克,克精,精制,制银,银币,评级",
+      "latestPrice": 6100,
+      "latestDate": "2026-08-31 21:32:40",
+      "priceLow": 510,
+      "priceHigh": 6100
+    },
+    {
       "coinName": "2021年吉祥文化3克金币",
       "slug": "563c3aa7",
       "saleCount": 9,
@@ -2434,6 +2444,16 @@
       "priceHigh": 190
     },
     {
+      "coinName": "2015年2盎司银币",
+      "slug": "66db8530",
+      "saleCount": 7,
+      "keywords": "银,币,2015年,2盎司,年帕,帕劳,劳镶,镶嵌,嵌琥,琥珀,珀盎,盎司,司银,银币,章,年中,中国,国古,古典,典园,园林,林系,系列,列之,之个,个园,园盎,银章,年盎,司九,九华,华山,山银,司古,林避,避暑,暑山,山庄,庄银",
+      "latestPrice": 2400,
+      "latestDate": "2026-08-28 20:11:45",
+      "priceLow": 1380,
+      "priceHigh": 2400
+    },
+    {
       "coinName": "2025年贺岁",
       "slug": "7e1eb103",
       "saleCount": 7,
@@ -2784,16 +2804,6 @@
       "priceHigh": 15615
     },
     {
-      "coinName": "1990年龙凤2克精制银币",
-      "slug": "41f3606f",
-      "saleCount": 7,
-      "keywords": "银,币,1990年,2克,年龙,龙凤,凤克,克精,精制,制银,银币,评级",
-      "latestPrice": 750,
-      "latestDate": "2026-08-24 21:16:40",
-      "priceLow": 510,
-      "priceHigh": 3900
-    },
-    {
       "coinName": "2019年8克金币",
       "slug": "11a3a486",
       "saleCount": 7,
@@ -2944,16 +2954,6 @@
       "priceHigh": 4500
     },
     {
-      "coinName": "2015年2盎司银币",
-      "slug": "66db8530",
-      "saleCount": 6,
-      "keywords": "银,章,2015年,2盎司,年中,中国,国古,古典,典园,园林,林系,系列,列之,之个,个园,园盎,盎司,司银,银章,币,年盎,司九,九华,华山,山银,银币,司古,林避,避暑,暑山,山庄,庄银",
-      "latestPrice": 1380,
-      "latestDate": "2026-07-13 21:08:30",
-      "priceLow": 1380,
-      "priceHigh": 2000
-    },
-    {
       "coinName": "2017年8克金币",
       "slug": "164df5c8",
       "saleCount": 6,
@@ -3062,6 +3062,16 @@
       "latestDate": "2026-08-06 20:21:00",
       "priceLow": 230,
       "priceHigh": 1480
+    },
+    {
+      "coinName": "第四套/第四版人民币1980年版100元",
+      "slug": "4c7c25f1",
+      "saleCount": 6,
+      "keywords": "币,1980年,第四,四套,套第,四版,版人,人民,民币,币年,年版,版元",
+      "latestPrice": 1160,
+      "latestDate": "2026-08-28 20:52:40",
+      "priceLow": 370,
+      "priceHigh": 1240
     },
     {
       "coinName": "1945年银币",
@@ -3782,16 +3792,6 @@
       "latestDate": "2026-08-08 19:45:20",
       "priceLow": 170,
       "priceHigh": 3155
-    },
-    {
-      "coinName": "第四套/第四版人民币1980年版100元",
-      "slug": "4c7c25f1",
-      "saleCount": 5,
-      "keywords": "币,1980年,第四,四套,套第,四版,版人,人民,民币,币年,年版,版元",
-      "latestPrice": 610,
-      "latestDate": "2026-07-28 21:01:20",
-      "priceLow": 370,
-      "priceHigh": 1240
     },
     {
       "coinName": "民国三十年中国农民银行壹圆",
@@ -19492,6 +19492,16 @@
       "latestDate": "2025-12-23 11:13:13",
       "priceLow": 7925,
       "priceHigh": 7925
+    },
+    {
+      "coinName": "上海造币有限公司2016年远古生命系列之中华龙鸟大铜章",
+      "slug": "100b7b50",
+      "saleCount": 1,
+      "keywords": "铜,币,章,2016年,上海,海造,造币,币有,有限,限公,公司,司年,年远,远古,古生,生命,命系,系列,列之,之中,中华,华龙,龙鸟,鸟大,大铜,铜章",
+      "latestPrice": 720,
+      "latestDate": "2026-08-28 19:58:30",
+      "priceLow": 720,
+      "priceHigh": 720
     },
     {
       "coinName": "2015年生肖3.11克精制金币",
