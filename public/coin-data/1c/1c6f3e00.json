@@ -1,0 +1,31 @@
+{
+  "coinName": "1912年俄国纸币",
+  "slug": "1c6f3e00",
+  "saleCount": 1,
+  "keywords": "币,1912年,年俄,俄国,国纸,纸币",
+  "priceStats": {
+    "low": 790,
+    "high": 790,
+    "avg": 790,
+    "latest": 790
+  },
+  "records": [
+    {
+      "coinName": "1912年俄国纸币",
+      "normalizedBoxCode": "2228044020",
+      "displayBoxCode": "2228044-020",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10482779.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2228044-020/",
+      "price": 790,
+      "priceWithFee": 876.9,
+      "transactedAt": "2026-09-01 22:23:05",
+      "productCode": "884862004",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1912年,年俄,俄国,国纸,纸币"
+    }
+  ]
+}

@@ -1,15 +1,32 @@
 {
   "coinName": "新加坡纸钞",
   "slug": "66ee2a6c",
-  "saleCount": 3,
+  "saleCount": 4,
   "keywords": "钞,新加,加坡,坡纸,纸钞",
   "priceStats": {
     "low": 90,
     "high": 170,
-    "avg": 118,
-    "latest": 170
+    "avg": 129,
+    "latest": 160
   },
   "records": [
+    {
+      "coinName": "新加坡纸钞",
+      "normalizedBoxCode": "2580938029",
+      "displayBoxCode": "2580938-029",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10463180.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2580938-029/",
+      "price": 160,
+      "priceWithFee": 177.6,
+      "transactedAt": "2026-09-01 22:21:05",
+      "productCode": "882808008",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,新加,加坡,坡纸,纸钞"
+    },
     {
       "coinName": "新加坡纸钞",
       "normalizedBoxCode": "2400705028",

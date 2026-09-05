@@ -1,15 +1,32 @@
 {
   "coinName": "日本银行券",
   "slug": "76f886b0",
-  "saleCount": 23,
+  "saleCount": 24,
   "keywords": "银,日本,本银,银行,行券,外国/特区",
   "priceStats": {
     "low": 100,
     "high": 670,
-    "avg": 193,
+    "avg": 192,
     "latest": 170
   },
   "records": [
+    {
+      "coinName": "日本银行券",
+      "normalizedBoxCode": "2580733050",
+      "displayBoxCode": "2580733-050",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10463184.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2580733-050/",
+      "price": 170,
+      "priceWithFee": 188.7,
+      "transactedAt": "2026-09-01 22:21:35",
+      "productCode": "882808012",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,日本,本银,银行,行券,外国/特区"
+    },
     {
       "coinName": "日本银行券",
       "normalizedBoxCode": "2340132054",

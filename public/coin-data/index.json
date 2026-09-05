@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-04T03:41:24.867Z",
-  "totalCoins": 2816,
-  "totalSales": 10681,
+  "generatedAt": "2026-09-05T03:37:24.397Z",
+  "totalCoins": 2818,
+  "totalSales": 10685,
   "coins": [
     {
       "coinName": "2025年中国龙31.104克普制银币",
@@ -444,6 +444,16 @@
       "priceHigh": 9600
     },
     {
+      "coinName": "日本银行券",
+      "slug": "76f886b0",
+      "saleCount": 24,
+      "keywords": "银,日本,本银,银行,行券,外国/特区",
+      "latestPrice": 170,
+      "latestDate": "2026-09-01 22:21:35",
+      "priceLow": 100,
+      "priceHigh": 670
+    },
+    {
       "coinName": "2011年7.776克金币",
       "slug": "0158067d",
       "saleCount": 24,
@@ -482,16 +492,6 @@
       "latestDate": "2026-08-06 21:35:10",
       "priceLow": 730,
       "priceHigh": 3600
-    },
-    {
-      "coinName": "日本银行券",
-      "slug": "76f886b0",
-      "saleCount": 23,
-      "keywords": "银,日本,本银,银行,行券,外国/特区",
-      "latestPrice": 170,
-      "latestDate": "2026-08-04 22:18:45",
-      "priceLow": 100,
-      "priceHigh": 670
     },
     {
       "coinName": "2015年熊猫31.104克普制银币",
@@ -4974,6 +4974,16 @@
       "priceHigh": 4250
     },
     {
+      "coinName": "新加坡纸钞",
+      "slug": "66ee2a6c",
+      "saleCount": 4,
+      "keywords": "钞,新加,加坡,坡纸,纸钞",
+      "latestPrice": 160,
+      "latestDate": "2026-09-01 22:21:05",
+      "priceLow": 90,
+      "priceHigh": 170
+    },
+    {
       "coinName": "越南纸币",
       "slug": "34929e61",
       "saleCount": 4,
@@ -6742,16 +6752,6 @@
       "latestDate": "2026-07-30 21:42:10",
       "priceLow": 780,
       "priceHigh": 1940
-    },
-    {
-      "coinName": "新加坡纸钞",
-      "slug": "66ee2a6c",
-      "saleCount": 3,
-      "keywords": "钞,新加,加坡,坡纸,纸钞",
-      "latestPrice": 170,
-      "latestDate": "2026-07-14 21:55:50",
-      "priceLow": 90,
-      "priceHigh": 170
     },
     {
       "coinName": "1988年黎巴嫩纸钞",
@@ -15824,6 +15824,16 @@
       "priceHigh": 280
     },
     {
+      "coinName": "1912年俄国纸币",
+      "slug": "1c6f3e00",
+      "saleCount": 1,
+      "keywords": "币,1912年,年俄,俄国,国纸,纸币",
+      "latestPrice": 790,
+      "latestDate": "2026-09-01 22:23:05",
+      "priceLow": 790,
+      "priceHigh": 790
+    },
+    {
       "coinName": "民国三十八年广东省银行大洋票壹角",
       "slug": "10fe65df",
       "saleCount": 1,
@@ -16502,6 +16512,16 @@
       "latestDate": "2026-07-16 20:56:40",
       "priceLow": 1760,
       "priceHigh": 1760
+    },
+    {
+      "coinName": "1935年美国1美元纸币、1963年美国2美元纸币",
+      "slug": "4bec8820",
+      "saleCount": 1,
+      "keywords": "币,1935年,年美,美国,国美,美元,元纸,纸币,币年,币各,各一,一枚,枚共,共二,二枚,外国/特区",
+      "latestPrice": 490,
+      "latestDate": "2026-09-01 22:17:50",
+      "priceLow": 490,
+      "priceHigh": 490
     },
     {
       "coinName": "民国十四年军需汇兑局兑换券壹角",
