@@ -1,15 +1,32 @@
 {
   "coinName": "民国三十一年中央银行壹百圆",
   "slug": "14978c4b",
-  "saleCount": 1,
+  "saleCount": 2,
   "keywords": "银,历史币,民国,国三,三十,十一,一年,年中,中央,央银,银行,行壹,壹百,百圆",
   "priceStats": {
-    "low": 1620,
+    "low": 1600,
     "high": 1620,
-    "avg": 1620,
-    "latest": 1620
+    "avg": 1610,
+    "latest": 1600
   },
   "records": [
+    {
+      "coinName": "民国三十一年中央银行壹百圆",
+      "normalizedBoxCode": "2162849024",
+      "displayBoxCode": "2162849-024",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10446711.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2162849-024/",
+      "price": 1600,
+      "priceWithFee": 1776,
+      "transactedAt": "2026-09-04 20:51:00",
+      "productCode": "881021001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国三,三十,十一,一年,年中,中央,央银,银行,行壹,壹百,百圆"
+    },
     {
       "coinName": "民国三十一年中央银行壹百圆",
       "normalizedBoxCode": "2162849024",

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "0250393000",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "0250393000",
+      "displayBoxCode": "0250393-000",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "民国二十四年中国银行伍圆连号四枚",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/sidayinhangzhichao/10446714.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/0250393-000/",
+      "price": 500,
+      "priceWithFee": 555,
+      "transactedAt": "2026-09-04 20:02:40",
+      "productCode": "881021004",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/27/872382006B.jpg",
+      "ocrConfidence": 24,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国二,二十,十四,四年,年中,中国,国银,银行,行伍,伍圆,圆连,连号,号四,四枚"
+    }
+  ]
+}

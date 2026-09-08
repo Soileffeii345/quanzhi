@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-07T03:38:32.480Z",
+  "generatedAt": "2026-09-08T03:45:26.954Z",
   "totalCoins": 2818,
-  "totalSales": 10685,
+  "totalSales": 10688,
   "coins": [
     {
       "coinName": "2025年中国龙31.104克普制银币",
@@ -4754,6 +4754,16 @@
       "priceHigh": 3500
     },
     {
+      "coinName": "民国三十四年中央银行伍仟圆",
+      "slug": "619b1045",
+      "saleCount": 4,
+      "keywords": "银,历史币,民国,国三,三十,十四,四年,年中,中央,央银,银行,行伍,伍仟,仟圆",
+      "latestPrice": 1000,
+      "latestDate": "2026-09-04 19:30:10",
+      "priceLow": 230,
+      "priceHigh": 2150
+    },
+    {
       "coinName": "民国三十年中央银行拾圆",
       "slug": "796941ce",
       "saleCount": 4,
@@ -6512,16 +6522,6 @@
       "latestDate": "2026-07-28 20:45:20",
       "priceLow": 140,
       "priceHigh": 1060
-    },
-    {
-      "coinName": "民国三十四年中央银行伍仟圆",
-      "slug": "619b1045",
-      "saleCount": 3,
-      "keywords": "银,历史币,民国,国三,三十,十四,四年,年中,中央,央银,银行,行伍,伍仟,仟圆",
-      "latestPrice": 1180,
-      "latestDate": "2026-07-30 21:50:10",
-      "priceLow": 230,
-      "priceHigh": 2150
     },
     {
       "coinName": "2021年生肖银币",
@@ -8714,6 +8714,16 @@
       "priceHigh": 90
     },
     {
+      "coinName": "民国二十四年中国银行伍圆连号",
+      "slug": "38a91d7d",
+      "saleCount": 2,
+      "keywords": "银,历史币,民国,国二,二十,十四,四年,年中,中国,国银,银行,行伍,伍圆,圆连,连号,号四,四枚,号二,二枚",
+      "latestPrice": 500,
+      "latestDate": "2026-09-04 20:02:40",
+      "priceLow": 470,
+      "priceHigh": 500
+    },
+    {
       "coinName": "第四套/第四版人民币小全套",
       "slug": "43c320db",
       "saleCount": 2,
@@ -9582,6 +9592,16 @@
       "latestDate": "2026-07-30 21:56:40",
       "priceLow": 680,
       "priceHigh": 1300
+    },
+    {
+      "coinName": "民国三十一年中央银行壹百圆",
+      "slug": "14978c4b",
+      "saleCount": 2,
+      "keywords": "银,历史币,民国,国三,三十,十一,一年,年中,中央,央银,银行,行壹,壹百,百圆",
+      "latestPrice": 1600,
+      "latestDate": "2026-09-04 20:51:00",
+      "priceLow": 1600,
+      "priceHigh": 1620
     },
     {
       "coinName": "1972年银币",
@@ -15544,16 +15564,6 @@
       "priceHigh": 80
     },
     {
-      "coinName": "民国三十一年中央银行壹百圆",
-      "slug": "14978c4b",
-      "saleCount": 1,
-      "keywords": "银,历史币,民国,国三,三十,十一,一年,年中,中央,央银,银行,行壹,壹百,百圆",
-      "latestPrice": 1620,
-      "latestDate": "2026-07-30 22:02:10",
-      "priceLow": 1620,
-      "priceHigh": 1620
-    },
-    {
       "coinName": "民国十七年中央银行上海地名伍拾圆",
       "slug": "58e71749",
       "saleCount": 1,
@@ -16532,16 +16542,6 @@
       "latestDate": "2026-07-30 21:30:10",
       "priceLow": 1380,
       "priceHigh": 1380
-    },
-    {
-      "coinName": "民国二十四年中国银行伍圆连号",
-      "slug": "38a91d7d",
-      "saleCount": 1,
-      "keywords": "银,历史币,民国,国二,二十,十四,四年,年中,中国,国银,银行,行伍,伍圆,圆连,连号,号二,二枚",
-      "latestPrice": 470,
-      "latestDate": "2026-08-06 20:09:20",
-      "priceLow": 470,
-      "priceHigh": 470
     },
     {
       "coinName": "美国100美元纸钞",
