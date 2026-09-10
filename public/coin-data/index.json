@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-09T03:49:17.796Z",
-  "totalCoins": 2818,
-  "totalSales": 10688,
+  "generatedAt": "2026-09-10T03:45:38.611Z",
+  "totalCoins": 2819,
+  "totalSales": 10690,
   "coins": [
     {
       "coinName": "2025年中国龙31.104克普制银币",
@@ -13134,6 +13134,16 @@
       "priceHigh": 7800
     },
     {
+      "coinName": "1993年加拿大枫叶31.104克银币",
+      "slug": "10d74961",
+      "saleCount": 2,
+      "keywords": "银,币,1993年,1盎司,年加,加拿,拿大,大枫,枫叶,叶盎,盎司,司银,银币,外国/特区",
+      "latestPrice": 550,
+      "latestDate": "2026-09-04 21:08:25",
+      "priceLow": 490,
+      "priceHigh": 550
+    },
+    {
       "coinName": "1993年熊猫15.552克普制银币",
       "slug": "2b01ea7a",
       "saleCount": 2,
@@ -14152,6 +14162,16 @@
       "latestDate": "2026-08-03 21:39:35",
       "priceLow": 1440,
       "priceHigh": 1440
+    },
+    {
+      "coinName": "2013年31.104克银币",
+      "slug": "1f85aeb8",
+      "saleCount": 1,
+      "keywords": "银,币,2013年,1盎司,年墨,墨西,西哥,哥自,自由,由女,女神,神盎,盎司,司银,银币,外国/特区",
+      "latestPrice": 520,
+      "latestDate": "2026-09-04 21:24:15",
+      "priceLow": 520,
+      "priceHigh": 520
     },
     {
       "coinName": "印度土邦银币",
@@ -26402,16 +26422,6 @@
       "latestDate": "2026-07-24 21:20:55",
       "priceLow": 500,
       "priceHigh": 500
-    },
-    {
-      "coinName": "1993年加拿大枫叶31.104克银币",
-      "slug": "10d74961",
-      "saleCount": 1,
-      "keywords": "银,币,1993年,1盎司,年加,加拿,拿大,大枫,枫叶,叶盎,盎司,司银,银币,外国/特区",
-      "latestPrice": 490,
-      "latestDate": "2026-07-24 19:21:45",
-      "priceLow": 490,
-      "priceHigh": 490
     },
     {
       "coinName": "1994年加拿大枫叶31.104克银币",

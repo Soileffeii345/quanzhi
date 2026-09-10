@@ -1,15 +1,32 @@
 {
   "coinName": "1993年加拿大枫叶31.104克银币",
   "slug": "10d74961",
-  "saleCount": 1,
+  "saleCount": 2,
   "keywords": "银,币,1993年,1盎司,年加,加拿,拿大,大枫,枫叶,叶盎,盎司,司银,银币,外国/特区",
   "priceStats": {
     "low": 490,
-    "high": 490,
-    "avg": 490,
-    "latest": 490
+    "high": 550,
+    "avg": 520,
+    "latest": 550
   },
   "records": [
+    {
+      "coinName": "1993年加拿大枫叶1盎司银币",
+      "normalizedBoxCode": "8657410014",
+      "displayBoxCode": "8657410-014",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jianadafengye/10489600.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8657410-014/",
+      "price": 550,
+      "priceWithFee": 583,
+      "transactedAt": "2026-09-04 21:08:25",
+      "productCode": "886011001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1993年,1盎司,年加,加拿,拿大,大枫,枫叶,叶盎,盎司,司银,银币,外国/特区"
+    },
     {
       "coinName": "1993年加拿大枫叶1盎司银币",
       "normalizedBoxCode": "8657410014",
