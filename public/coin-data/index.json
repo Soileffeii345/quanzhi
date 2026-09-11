@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-10T03:45:38.611Z",
+  "generatedAt": "2026-09-11T03:46:25.731Z",
   "totalCoins": 2819,
-  "totalSales": 10690,
+  "totalSales": 10691,
   "coins": [
     {
       "coinName": "2025年中国龙31.104克普制银币",
@@ -824,6 +824,16 @@
       "priceHigh": 11930
     },
     {
+      "coinName": "第二版人民币延安宝塔山2元",
+      "slug": "06f68b79",
+      "saleCount": 17,
+      "keywords": "币,第二,二版,版人,人民,民币,币延,延安,安宝,宝塔,塔山,山元",
+      "latestPrice": 1060,
+      "latestDate": "2026-09-05 21:12:10",
+      "priceLow": 730,
+      "priceHigh": 1860
+    },
+    {
       "coinName": "2016年银币",
       "slug": "7e2f3c67",
       "saleCount": 17,
@@ -902,16 +912,6 @@
       "latestDate": "2026-08-08 21:45:50",
       "priceLow": 140,
       "priceHigh": 8800
-    },
-    {
-      "coinName": "第二版人民币延安宝塔山2元",
-      "slug": "06f68b79",
-      "saleCount": 16,
-      "keywords": "币,第二,二版,版人,人民,民币,币延,延安,安宝,宝塔,塔山,山元",
-      "latestPrice": 1680,
-      "latestDate": "2026-08-06 21:58:55",
-      "priceLow": 730,
-      "priceHigh": 1860
     },
     {
       "coinName": "1940年银币",

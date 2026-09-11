@@ -1,15 +1,32 @@
 {
   "coinName": "第二版人民币延安宝塔山2元",
   "slug": "06f68b79",
-  "saleCount": 16,
+  "saleCount": 17,
   "keywords": "币,第二,二版,版人,人民,民币,币延,延安,安宝,宝塔,塔山,山元",
   "priceStats": {
     "low": 730,
     "high": 1860,
-    "avg": 1401,
-    "latest": 1680
+    "avg": 1381,
+    "latest": 1060
   },
   "records": [
+    {
+      "coinName": "第二版人民币延安宝塔山2元",
+      "normalizedBoxCode": "2562996003",
+      "displayBoxCode": "2562996-003",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/dierbanrenminbi/10497213.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2562996-003/",
+      "price": 1060,
+      "priceWithFee": 1144.8,
+      "transactedAt": "2026-09-05 21:12:10",
+      "productCode": "887005001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,第二,二版,版人,人民,民币,币延,延安,安宝,宝塔,塔山,山元"
+    },
     {
       "coinName": "第二版人民币延安宝塔山2元",
       "normalizedBoxCode": "1768650033",
