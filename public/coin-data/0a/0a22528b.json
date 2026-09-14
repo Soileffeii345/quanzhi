@@ -1,15 +1,32 @@
 {
   "coinName": "第三版人民币1元古币水印",
   "slug": "0a22528b",
-  "saleCount": 21,
+  "saleCount": 22,
   "keywords": "币,第三,三版,版人,人民,民币,币元,元古,古币,币水,水印",
   "priceStats": {
-    "low": 250,
+    "low": 220,
     "high": 1040,
-    "avg": 685,
-    "latest": 1040
+    "avg": 664,
+    "latest": 220
   },
   "records": [
+    {
+      "coinName": "第三版人民币1元古币水印",
+      "normalizedBoxCode": "7023529045",
+      "displayBoxCode": "7023529-045",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/disanbanrenminbi/10481571.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/7023529-045/",
+      "price": 220,
+      "priceWithFee": 237.6,
+      "transactedAt": "2026-09-05 21:24:10",
+      "productCode": "884847026",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,第三,三版,版人,人民,民币,币元,元古,古币,币水,水印"
+    },
     {
       "coinName": "第三版人民币1元古币水印",
       "normalizedBoxCode": "1401863004",

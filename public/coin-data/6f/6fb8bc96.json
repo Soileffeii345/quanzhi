@@ -1,15 +1,32 @@
 {
   "coinName": "第一版人民币列车50元",
   "slug": "6fb8bc96",
-  "saleCount": 2,
+  "saleCount": 3,
   "keywords": "币,第一,一版,版人,人民,民币,币列,列车,车七,七位,位数,数元",
   "priceStats": {
     "low": 3400,
     "high": 4500,
-    "avg": 3950,
+    "avg": 4133,
     "latest": 4500
   },
   "records": [
+    {
+      "coinName": "第一版人民币列车（七位数）50元",
+      "normalizedBoxCode": "2058293001",
+      "displayBoxCode": "2058293-001",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/diyibanrenminbi/10500714.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2058293-001/",
+      "price": 4500,
+      "priceWithFee": 4950,
+      "transactedAt": "2026-09-05 21:08:10",
+      "productCode": "887239006",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,第一,一版,版人,人民,民币,币列,列车,车七,七位,位数,数元"
+    },
     {
       "coinName": "第一版人民币列车（七位数）50元",
       "normalizedBoxCode": "2234244005",

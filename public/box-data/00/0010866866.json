@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "0010866866",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "0010866866",
+      "displayBoxCode": "0010866-866",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "第四套/第四版人民币1980年版50元连号十枚",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/disibanrenminbi/10481444.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/0010866-866/",
+      "price": 10400,
+      "priceWithFee": 11232,
+      "transactedAt": "2026-09-05 22:19:10",
+      "productCode": "884846020",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/34/884846020A.jpg",
+      "ocrConfidence": 26,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1980年,第四,四套,套第,四版,版人,人民,民币,币年,年版,版元,元连,连号,号十,十枚"
+    }
+  ]
+}

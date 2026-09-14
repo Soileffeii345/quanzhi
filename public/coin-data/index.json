@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-11T03:46:25.731Z",
-  "totalCoins": 2819,
-  "totalSales": 10691,
+  "generatedAt": "2026-09-14T04:05:25.926Z",
+  "totalCoins": 2820,
+  "totalSales": 10696,
   "coins": [
     {
       "coinName": "2025年中国龙31.104克普制银币",
@@ -514,6 +514,16 @@
       "priceHigh": 8400
     },
     {
+      "coinName": "第三版人民币1元古币水印",
+      "slug": "0a22528b",
+      "saleCount": 22,
+      "keywords": "币,第三,三版,版人,人民,民币,币元,元古,古币,币水,水印",
+      "latestPrice": 220,
+      "latestDate": "2026-09-05 21:24:10",
+      "priceLow": 220,
+      "priceHigh": 1040
+    },
+    {
       "coinName": "第四套/第四版人民币1990年版50元",
       "slug": "3175c1dc",
       "saleCount": 22,
@@ -572,16 +582,6 @@
       "latestDate": "2026-08-11 19:54:35",
       "priceLow": 170,
       "priceHigh": 720
-    },
-    {
-      "coinName": "第三版人民币1元古币水印",
-      "slug": "0a22528b",
-      "saleCount": 21,
-      "keywords": "币,第三,三版,版人,人民,民币,币元,元古,古币,币水,水印",
-      "latestPrice": 1040,
-      "latestDate": "2026-08-08 20:52:05",
-      "priceLow": 250,
-      "priceHigh": 1040
     },
     {
       "coinName": "第四套/第四版人民币1980年版5元",
@@ -1234,6 +1234,16 @@
       "priceHigh": 27130
     },
     {
+      "coinName": "第二版人民币民族大团结黄5元五星水印",
+      "slug": "798a9e80",
+      "saleCount": 12,
+      "keywords": "币,第二,二版,版人,人民,民币,币民,民族,族大,大团,团结,结黄,黄元,元五,五星,星水,水印",
+      "latestPrice": 1180,
+      "latestDate": "2026-09-05 21:08:40",
+      "priceLow": 660,
+      "priceHigh": 3800
+    },
+    {
       "coinName": "2017年熊猫15克金币",
       "slug": "716d0e05",
       "saleCount": 12,
@@ -1442,16 +1452,6 @@
       "latestDate": "2026-08-08 21:24:35",
       "priceLow": 50,
       "priceHigh": 2650
-    },
-    {
-      "coinName": "第二版人民币民族大团结黄5元五星水印",
-      "slug": "798a9e80",
-      "saleCount": 11,
-      "keywords": "币,第二,二版,版人,人民,民币,币民,民族,族大,大团,团结,结黄,黄元,元五,五星,星水,水印",
-      "latestPrice": 660,
-      "latestDate": "2026-08-08 20:39:05",
-      "priceLow": 660,
-      "priceHigh": 3800
     },
     {
       "coinName": "第四套/第四版人民币1980年版50元",
@@ -6424,6 +6424,16 @@
       "priceHigh": 1920
     },
     {
+      "coinName": "第一版人民币列车50元",
+      "slug": "6fb8bc96",
+      "saleCount": 3,
+      "keywords": "币,第一,一版,版人,人民,民币,币列,列车,车七,七位,位数,数元",
+      "latestPrice": 4500,
+      "latestDate": "2026-09-05 21:08:10",
+      "priceLow": 3400,
+      "priceHigh": 4500
+    },
+    {
       "coinName": "1997年银币",
       "slug": "4a6644ea",
       "saleCount": 3,
@@ -8704,6 +8714,16 @@
       "priceHigh": 580
     },
     {
+      "coinName": "第四套/第四版人民币1980年版50元连号",
+      "slug": "25a8c5b8",
+      "saleCount": 2,
+      "keywords": "币,1980年,第四,四套,套第,四版,版人,人民,民币,币年,年版,版元,元连,连号,号十,十枚,号二,二枚",
+      "latestPrice": 10400,
+      "latestDate": "2026-09-05 22:19:10",
+      "priceLow": 3450,
+      "priceHigh": 10400
+    },
+    {
       "coinName": "1999年罗马尼亚塑料钞",
       "slug": "51dd97ea",
       "saleCount": 2,
@@ -8942,16 +8962,6 @@
       "latestDate": "2026-05-06 06:25:39",
       "priceLow": 960,
       "priceHigh": 2450
-    },
-    {
-      "coinName": "第一版人民币列车50元",
-      "slug": "6fb8bc96",
-      "saleCount": 2,
-      "keywords": "币,第一,一版,版人,人民,民币,币列,列车,车七,七位,位数,数元",
-      "latestPrice": 4500,
-      "latestDate": "2026-07-09 20:01:40",
-      "priceLow": 3400,
-      "priceHigh": 4500
     },
     {
       "coinName": "民国二十六年中国银行拾圆",
@@ -14544,6 +14554,16 @@
       "priceHigh": 260
     },
     {
+      "coinName": "第一版人民币割稻200元票样",
+      "slug": "07c9b3ba",
+      "saleCount": 1,
+      "keywords": "币,钞,第一,一版,版人,人民,民币,币割,割稻,稻元,元票,票样",
+      "latestPrice": 3550,
+      "latestDate": "2026-09-05 21:10:10",
+      "priceLow": 3550,
+      "priceHigh": 3550
+    },
+    {
       "coinName": "第一版人民币轮船100元票样",
       "slug": "2c84fb9f",
       "saleCount": 1,
@@ -18162,16 +18182,6 @@
       "latestDate": "2026-07-02 19:14:35",
       "priceLow": 3050,
       "priceHigh": 3050
-    },
-    {
-      "coinName": "第四套/第四版人民币1980年版50元连号",
-      "slug": "25a8c5b8",
-      "saleCount": 1,
-      "keywords": "币,1980年,第四,四套,套第,四版,版人,人民,民币,币年,年版,版元,元连,连号,号二,二枚",
-      "latestPrice": 3450,
-      "latestDate": "2026-08-14 19:35:10",
-      "priceLow": 3450,
-      "priceHigh": 3450
     },
     {
       "coinName": "2008年第29届奥林匹克运动会纪念钞10元",
