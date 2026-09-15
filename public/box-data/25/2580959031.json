@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2580959031",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2580959031",
+      "displayBoxCode": "2580959-031",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1974年巴哈马纸钞",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10469894.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2580959-031/",
+      "price": 120,
+      "priceWithFee": 133.2,
+      "transactedAt": "2026-09-08 21:58:35",
+      "productCode": "883589008",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/33/883589008B.jpg",
+      "ocrConfidence": 32,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,1974年,年巴,巴哈,哈马,马纸,纸钞"
+    }
+  ]
+}

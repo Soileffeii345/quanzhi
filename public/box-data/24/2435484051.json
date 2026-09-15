@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2435484051",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2435484051",
+      "displayBoxCode": "2435484-051",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1968年以色列纸钞",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10469898.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2435484-051/",
+      "price": 220,
+      "priceWithFee": 244.2,
+      "transactedAt": "2026-09-08 21:59:05",
+      "productCode": "883589012",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/33/883589012B.jpg",
+      "ocrConfidence": 28,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,1968年,年以,以色,色列,列纸,纸钞"
+    }
+  ]
+}

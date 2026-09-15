@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-14T04:05:25.926Z",
-  "totalCoins": 2820,
-  "totalSales": 10696,
+  "generatedAt": "2026-09-15T04:04:02.038Z",
+  "totalCoins": 2823,
+  "totalSales": 10699,
   "coins": [
     {
       "coinName": "2025年中国龙31.104克普制银币",
@@ -17584,6 +17584,16 @@
       "priceHigh": 290
     },
     {
+      "coinName": "1968年以色列纸钞",
+      "slug": "37d85acb",
+      "saleCount": 1,
+      "keywords": "钞,1968年,年以,以色,色列,列纸,纸钞",
+      "latestPrice": 220,
+      "latestDate": "2026-09-08 21:59:05",
+      "priceLow": 220,
+      "priceHigh": 220
+    },
+    {
       "coinName": "民国军用钞票壹元",
       "slug": "0c9881f8",
       "saleCount": 1,
@@ -18372,6 +18382,26 @@
       "latestDate": "2026-08-11 21:58:20",
       "priceLow": 95,
       "priceHigh": 95
+    },
+    {
+      "coinName": "1974年巴哈马纸钞",
+      "slug": "7928f1cc",
+      "saleCount": 1,
+      "keywords": "钞,1974年,年巴,巴哈,哈马,马纸,纸钞",
+      "latestPrice": 120,
+      "latestDate": "2026-09-08 21:58:35",
+      "priceLow": 120,
+      "priceHigh": 120
+    },
+    {
+      "coinName": "2009年马恩岛纸钞",
+      "slug": "4482e216",
+      "saleCount": 1,
+      "keywords": "钞,2009年,年马,马恩,恩岛,岛纸,纸钞",
+      "latestPrice": 120,
+      "latestDate": "2026-09-08 21:47:20",
+      "priceLow": 120,
+      "priceHigh": 120
     },
     {
       "coinName": "渣打银行伍拾圆",
