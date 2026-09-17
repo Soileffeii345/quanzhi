@@ -1,0 +1,31 @@
+{
+  "coinName": "沈阳造币厂1993年毛泽东诞辰100周年纪念章",
+  "slug": "3d505d65",
+  "saleCount": 1,
+  "keywords": "币,章,1993年,沈阳,阳造,造币,币厂,厂年,年毛,毛泽,泽东,东诞,诞辰,辰周,周年,年纪,纪念,念章",
+  "priceStats": {
+    "low": 170,
+    "high": 170,
+    "avg": 170,
+    "latest": 170
+  },
+  "records": [
+    {
+      "coinName": "沈阳造币厂1993年毛泽东诞辰100周年纪念章",
+      "normalizedBoxCode": "8762881035",
+      "displayBoxCode": "8762881-035",
+      "gradingCompany": "NGC",
+      "grade": "PF 67 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/tongzhang/10505437.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8762881-035/67/",
+      "price": 170,
+      "priceWithFee": 188.7,
+      "transactedAt": "2026-09-11 19:30:10",
+      "productCode": "887869019",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,章,1993年,沈阳,阳造,造币,币厂,厂年,年毛,毛泽,泽东,东诞,诞辰,辰周,周年,年纪,纪念,念章"
+    }
+  ]
+}

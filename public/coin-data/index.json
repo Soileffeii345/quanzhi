@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-15T04:04:02.038Z",
-  "totalCoins": 2823,
-  "totalSales": 10699,
+  "generatedAt": "2026-09-17T04:05:21.113Z",
+  "totalCoins": 2824,
+  "totalSales": 10700,
   "coins": [
     {
       "coinName": "2025年中国龙31.104克普制银币",
@@ -27182,6 +27182,16 @@
       "latestDate": "2026-08-06 20:44:15",
       "priceLow": 19800,
       "priceHigh": 19800
+    },
+    {
+      "coinName": "沈阳造币厂1993年毛泽东诞辰100周年纪念章",
+      "slug": "3d505d65",
+      "saleCount": 1,
+      "keywords": "币,章,1993年,沈阳,阳造,造币,币厂,厂年,年毛,毛泽,泽东,东诞,诞辰,辰周,周年,年纪,纪念,念章",
+      "latestPrice": 170,
+      "latestDate": "2026-09-11 19:30:10",
+      "priceLow": 170,
+      "priceHigh": 170
     },
     {
       "coinName": "1997年熊猫15克金币",
