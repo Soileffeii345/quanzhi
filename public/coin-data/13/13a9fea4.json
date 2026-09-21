@@ -1,0 +1,31 @@
+{
+  "coinName": "上海造币有限公司发行2014年黄山风光铜章",
+  "slug": "13a9fea4",
+  "saleCount": 1,
+  "keywords": "铜,币,章,2014年,名山,上海,海造,造币,币有,有限,限公,公司,司发,发行,行年,年黄,黄山,山风,风光,光铜,铜章",
+  "priceStats": {
+    "low": 1020,
+    "high": 1020,
+    "avg": 1020,
+    "latest": 1020
+  },
+  "records": [
+    {
+      "coinName": "上海造币有限公司发行2014年黄山风光铜章",
+      "normalizedBoxCode": "3878166001",
+      "displayBoxCode": "3878166-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/tongzhang/10501131.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3878166-001/69/",
+      "price": 1020,
+      "priceWithFee": 1132.2,
+      "transactedAt": "2026-09-11 20:23:30",
+      "productCode": "887283031",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "铜,币,章,2014年,名山,上海,海造,造币,币有,有限,限公,公司,司发,发行,行年,年黄,黄山,山风,风光,光铜,铜章"
+    }
+  ]
+}

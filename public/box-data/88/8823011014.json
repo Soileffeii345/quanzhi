@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8823011014",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8823011014",
+      "displayBoxCode": "8823011-014",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "coinName": "2003年朝鲜穿山甲31克银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/wgjsbizhang/10495249.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8823011-014/69/",
+      "price": 690,
+      "priceWithFee": 731.4,
+      "transactedAt": "2026-09-11 20:19:15",
+      "productCode": "886542007",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/35/886542007A.jpg",
+      "ocrConfidence": 44,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2003年,31克,年朝,朝鲜,鲜穿,穿山,山甲,甲克,克银,银币"
+    }
+  ]
+}

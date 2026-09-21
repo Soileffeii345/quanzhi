@@ -1,0 +1,31 @@
+{
+  "coinName": "1922年铜币",
+  "slug": "49e4d824",
+  "saleCount": 1,
+  "keywords": "铜,章,1922年,年法,法国,国铜,铜章,外国/特区",
+  "priceStats": {
+    "low": 1100,
+    "high": 1100,
+    "avg": 1100,
+    "latest": 1100
+  },
+  "records": [
+    {
+      "coinName": "1922年法国铜章",
+      "normalizedBoxCode": "8193367004",
+      "displayBoxCode": "8193367-004",
+      "gradingCompany": "NGC",
+      "grade": "MS 64",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianbi/10506673.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8193367-004/64/",
+      "price": 1100,
+      "priceWithFee": 1221,
+      "transactedAt": "2026-09-11 20:15:05",
+      "productCode": "887743004",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "铜,章,1922年,年法,法国,国铜,铜章,外国/特区"
+    }
+  ]
+}
