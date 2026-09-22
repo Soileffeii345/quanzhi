@@ -1,15 +1,32 @@
 {
   "coinName": "2026年3克精制金币",
   "slug": "70bf1799",
-  "saleCount": 17,
-  "keywords": "金,币,2026年,3克,年国,国家,家宝,宝藏,藏融,融合,合交,交流,流克,克精,精制,制金,金币,评级,年守,守护,护地,地球,球家,家园,园克",
+  "saleCount": 18,
+  "keywords": "金,币,2026年,3克,年守,守护,护地,地球,球家,家园,园克,克精,精制,制金,金币,评级,年国,国家,家宝,宝藏,藏融,融合,合交,交流,流克",
   "priceStats": {
     "low": 3500,
     "high": 4750,
-    "avg": 4026,
-    "latest": 3700
+    "avg": 4028,
+    "latest": 4050
   },
   "records": [
+    {
+      "coinName": "2026年守护地球家园3克精制金币",
+      "normalizedBoxCode": "2026070100",
+      "displayBoxCode": "2026070-100",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10505310.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2026070-100/",
+      "price": 4050,
+      "priceWithFee": 4191.75,
+      "transactedAt": "2026-09-12 21:20:10",
+      "productCode": "887742001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2026年,3克,年守,守护,护地,地球,球家,家园,园克,克精,精制,制金,金币,评级"
+    },
     {
       "coinName": "2026年国家宝藏（融合交流）3克精制金币",
       "normalizedBoxCode": "8813565001",

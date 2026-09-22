@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2026070100",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2026070100",
+      "displayBoxCode": "2026070-100",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2026年守护地球家园3克精制金币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10505310.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2026070-100/",
+      "price": 4050,
+      "priceWithFee": 4191.75,
+      "transactedAt": "2026-09-12 21:20:10",
+      "productCode": "887742001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/36/887742001A.jpg",
+      "ocrConfidence": 29,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2026年,3克,年守,守护,护地,地球,球家,家园,园克,克精,精制,制金,金币,评级"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "coinName": "第一版人民币蓝工厂5元正反面票样",
+  "slug": "7234f732",
+  "saleCount": 1,
+  "keywords": "币,钞,第一,一版,版人,人民,民币,币蓝,蓝工,工厂,厂元,元正,正反,反面,面票,票样,样各,各一,一枚",
+  "priceStats": {
+    "low": 87000,
+    "high": 87000,
+    "avg": 87000,
+    "latest": 87000
+  },
+  "records": [
+    {
+      "coinName": "第一版人民币蓝工厂5元正反面票样各一枚",
+      "normalizedBoxCode": "2156112004",
+      "displayBoxCode": "2156112-004",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/diyibanrenminbi/10513388.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2156112-004/",
+      "price": 87000,
+      "priceWithFee": 95700,
+      "transactedAt": "2026-09-12 21:11:45",
+      "productCode": "888475005",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,钞,第一,一版,版人,人民,民币,币蓝,蓝工,工厂,厂元,元正,正反,反面,面票,票样,样各,各一,一枚"
+    }
+  ]
+}

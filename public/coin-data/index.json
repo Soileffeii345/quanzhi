@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-21T04:04:28.343Z",
-  "totalCoins": 2828,
-  "totalSales": 10704,
+  "generatedAt": "2026-09-22T04:03:24.330Z",
+  "totalCoins": 2829,
+  "totalSales": 10707,
   "coins": [
     {
       "coinName": "2025年中国龙31.104克普制银币",
@@ -156,10 +156,10 @@
     {
       "coinName": "第三版人民币10元",
       "slug": "50408a2e",
-      "saleCount": 58,
+      "saleCount": 59,
       "keywords": "币,第三,三版,版人,人民,民币,币元,元荧,荧光,光版",
-      "latestPrice": 470,
-      "latestDate": "2026-08-08 21:25:20",
+      "latestPrice": 370,
+      "latestDate": "2026-09-12 21:13:00",
       "priceLow": 120,
       "priceHigh": 4150
     },
@@ -764,6 +764,16 @@
       "priceHigh": 5300
     },
     {
+      "coinName": "2026年3克精制金币",
+      "slug": "70bf1799",
+      "saleCount": 18,
+      "keywords": "金,币,2026年,3克,年守,守护,护地,地球,球家,家园,园克,克精,精制,制金,金币,评级,年国,国家,家宝,宝藏,藏融,融合,合交,交流,流克",
+      "latestPrice": 4050,
+      "latestDate": "2026-09-12 21:20:10",
+      "priceLow": 3500,
+      "priceHigh": 4750
+    },
+    {
       "coinName": "泰国纸钞",
       "slug": "466374f8",
       "saleCount": 18,
@@ -882,16 +892,6 @@
       "latestDate": "2026-08-05 20:23:35",
       "priceLow": 100,
       "priceHigh": 2550
-    },
-    {
-      "coinName": "2026年3克精制金币",
-      "slug": "70bf1799",
-      "saleCount": 17,
-      "keywords": "金,币,2026年,3克,年国,国家,家宝,宝藏,藏融,融合,合交,交流,流克,克精,精制,制金,金币,评级,年守,守护,护地,地球,球家,家园,园克",
-      "latestPrice": 3700,
-      "latestDate": "2026-08-08 20:56:10",
-      "priceLow": 3500,
-      "priceHigh": 4750
     },
     {
       "coinName": "2021年8克金币",
@@ -15482,6 +15482,16 @@
       "latestDate": "2026-07-04 21:19:25",
       "priceLow": 240,
       "priceHigh": 240
+    },
+    {
+      "coinName": "第一版人民币蓝工厂5元正反面票样",
+      "slug": "7234f732",
+      "saleCount": 1,
+      "keywords": "币,钞,第一,一版,版人,人民,民币,币蓝,蓝工,工厂,厂元,元正,正反,反面,面票,票样,样各,各一,一枚",
+      "latestPrice": 87000,
+      "latestDate": "2026-09-12 21:11:45",
+      "priceLow": 87000,
+      "priceHigh": 87000
     },
     {
       "coinName": "第三版人民币1角蓝冠3罗马、红冠3罗马凸版",
