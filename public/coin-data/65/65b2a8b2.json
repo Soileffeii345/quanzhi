@@ -1,15 +1,49 @@
 {
   "coinName": "1935年美国1美元纸钞",
   "slug": "65b2a8b2",
-  "saleCount": 1,
+  "saleCount": 3,
   "keywords": "钞,1935年,年美,美国,国美,美元,元纸,纸钞,外国/特区",
   "priceStats": {
     "low": 160,
-    "high": 160,
-    "avg": 160,
-    "latest": 160
+    "high": 450,
+    "avg": 277,
+    "latest": 450
   },
   "records": [
+    {
+      "coinName": "1935年美国1美元纸钞",
+      "normalizedBoxCode": "2400782007",
+      "displayBoxCode": "2400782-007",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10492343.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2400782-007/",
+      "price": 450,
+      "priceWithFee": 499.5,
+      "transactedAt": "2026-09-15 21:43:05",
+      "productCode": "886103002",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,1935年,年美,美国,国美,美元,元纸,纸钞,外国/特区"
+    },
+    {
+      "coinName": "1935年美国1美元纸钞",
+      "normalizedBoxCode": "2400782004",
+      "displayBoxCode": "2400782-004",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10492342.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2400782-004/",
+      "price": 220,
+      "priceWithFee": 244.2,
+      "transactedAt": "2026-09-15 21:29:20",
+      "productCode": "886103001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,1935年,年美,美国,国美,美元,元纸,纸钞,外国/特区"
+    },
     {
       "coinName": "1935年美国1美元纸钞",
       "normalizedBoxCode": "2135967084",

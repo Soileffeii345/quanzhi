@@ -1,0 +1,31 @@
+{
+  "coinName": "1915年奥地利纸钞",
+  "slug": "15c71e63",
+  "saleCount": 1,
+  "keywords": "钞,1915年,年奥,奥地,地利,利纸,纸钞",
+  "priceStats": {
+    "low": 160,
+    "high": 160,
+    "avg": 160,
+    "latest": 160
+  },
+  "records": [
+    {
+      "coinName": "1915年奥地利纸钞",
+      "normalizedBoxCode": "2400775080",
+      "displayBoxCode": "2400775-080",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10492344.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2400775-080/",
+      "price": 160,
+      "priceWithFee": 177.6,
+      "transactedAt": "2026-09-15 21:43:20",
+      "productCode": "886103003",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,1915年,年奥,奥地,地利,利纸,纸钞"
+    }
+  ]
+}

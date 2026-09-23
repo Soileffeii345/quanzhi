@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2400773053",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2400773053",
+      "displayBoxCode": "2400773-053",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1958年古巴纸钞",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10492345.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2400773-053/",
+      "price": 130,
+      "priceWithFee": 144.3,
+      "transactedAt": "2026-09-15 21:29:35",
+      "productCode": "886103004",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/35/886103004B.jpg",
+      "ocrConfidence": 29,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,1958年,年古,古巴,巴纸,纸钞"
+    }
+  ]
+}

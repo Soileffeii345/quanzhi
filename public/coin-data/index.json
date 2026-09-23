@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-22T04:03:24.330Z",
-  "totalCoins": 2829,
-  "totalSales": 10707,
+  "generatedAt": "2026-09-23T03:59:22.803Z",
+  "totalCoins": 2831,
+  "totalSales": 10712,
   "coins": [
     {
       "coinName": "2025年中国龙31.104克普制银币",
@@ -6664,6 +6664,16 @@
       "priceHigh": 6300
     },
     {
+      "coinName": "1935年美国1美元纸钞",
+      "slug": "65b2a8b2",
+      "saleCount": 3,
+      "keywords": "钞,1935年,年美,美国,国美,美元,元纸,纸钞,外国/特区",
+      "latestPrice": 450,
+      "latestDate": "2026-09-15 21:43:05",
+      "priceLow": 160,
+      "priceHigh": 450
+    },
+    {
       "coinName": "民国二十六年中国农民银行壹角",
       "slug": "1d54a59b",
       "saleCount": 3,
@@ -9692,6 +9702,16 @@
       "latestDate": "2026-07-07 21:58:05",
       "priceLow": 100,
       "priceHigh": 110
+    },
+    {
+      "coinName": "1919年前苏联全方贫工之联合纸钞",
+      "slug": "34a7fbd5",
+      "saleCount": 2,
+      "keywords": "钞,1919年,年前,前苏,苏联,联全,全方,方贫,贫工,工之,之联,联合,合纸,纸钞,外国/特区",
+      "latestPrice": 260,
+      "latestDate": "2026-09-15 21:29:05",
+      "priceLow": 260,
+      "priceHigh": 600
     },
     {
       "coinName": "民国三十五年晋察冀边区银行壹仟圆",
@@ -15274,16 +15294,6 @@
       "priceHigh": 380
     },
     {
-      "coinName": "1935年美国1美元纸钞",
-      "slug": "65b2a8b2",
-      "saleCount": 1,
-      "keywords": "钞,1935年,年美,美国,国美,美元,元纸,纸钞,外国/特区",
-      "latestPrice": 160,
-      "latestDate": "2026-08-25 21:54:35",
-      "priceLow": 160,
-      "priceHigh": 160
-    },
-    {
       "coinName": "民国三年交通银行上海地名拾圆连号",
       "slug": "1cf15fd9",
       "saleCount": 1,
@@ -16012,16 +16022,6 @@
       "latestDate": "2026-07-23 20:12:40",
       "priceLow": 310,
       "priceHigh": 310
-    },
-    {
-      "coinName": "1919年前苏联全方贫工之联合纸钞",
-      "slug": "34a7fbd5",
-      "saleCount": 1,
-      "keywords": "钞,1919年,年前,前苏,苏联,联全,全方,方贫,贫工,工之,之联,联合,合纸,纸钞,外国/特区",
-      "latestPrice": 600,
-      "latestDate": "2026-07-30 22:23:10",
-      "priceLow": 600,
-      "priceHigh": 600
     },
     {
       "coinName": "民国十九年热河省兴业银行辅币汇兑券贰角",
@@ -17342,6 +17342,26 @@
       "latestDate": "2026-07-07 19:05:20",
       "priceLow": 95,
       "priceHigh": 95
+    },
+    {
+      "coinName": "1958年古巴纸钞",
+      "slug": "27d9903e",
+      "saleCount": 1,
+      "keywords": "钞,1958年,年古,古巴,巴纸,纸钞",
+      "latestPrice": 130,
+      "latestDate": "2026-09-15 21:29:35",
+      "priceLow": 130,
+      "priceHigh": 130
+    },
+    {
+      "coinName": "1915年奥地利纸钞",
+      "slug": "15c71e63",
+      "saleCount": 1,
+      "keywords": "钞,1915年,年奥,奥地,地利,利纸,纸钞",
+      "latestPrice": 160,
+      "latestDate": "2026-09-15 21:43:20",
+      "priceLow": 160,
+      "priceHigh": 160
     },
     {
       "coinName": "第一版人民币工农1元",

@@ -1,15 +1,32 @@
 {
   "coinName": "1919年前苏联全方贫工之联合纸钞",
   "slug": "34a7fbd5",
-  "saleCount": 1,
+  "saleCount": 2,
   "keywords": "钞,1919年,年前,前苏,苏联,联全,全方,方贫,贫工,工之,之联,联合,合纸,纸钞,外国/特区",
   "priceStats": {
-    "low": 600,
+    "low": 260,
     "high": 600,
-    "avg": 600,
-    "latest": 600
+    "avg": 430,
+    "latest": 260
   },
   "records": [
+    {
+      "coinName": "1919年前苏联全方贫工之联合纸钞",
+      "normalizedBoxCode": "6048264032",
+      "displayBoxCode": "6048264-032",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10476179.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6048264-032/",
+      "price": 260,
+      "priceWithFee": 288.6,
+      "transactedAt": "2026-09-15 21:29:05",
+      "productCode": "884069008",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,1919年,年前,前苏,苏联,联全,全方,方贫,贫工,工之,之联,联合,合纸,纸钞,外国/特区"
+    },
     {
       "coinName": "1919年前苏联全方贫工之联合纸钞",
       "normalizedBoxCode": "2252932012",
