@@ -1,15 +1,32 @@
 {
   "coinName": "1985年长城币",
   "slug": "6b489f42",
-  "saleCount": 11,
-  "keywords": "币,1985年,年长,长城,城币,币壹,壹圆,圆三,三枚,圆伍,伍角,角壹,壹角,角各,各一,一枚,枚共,共三",
+  "saleCount": 12,
+  "keywords": "币,1985年,年长,长城,城币,币壹,壹圆,圆无,无砖,砖版,圆三,三枚,圆伍,伍角,角壹,壹角,角各,各一,一枚,枚共,共三",
   "priceStats": {
     "low": 45,
     "high": 520,
-    "avg": 315,
-    "latest": 260
+    "avg": 308,
+    "latest": 230
   },
   "records": [
+    {
+      "coinName": "1985年长城币壹圆（无砖版）",
+      "normalizedBoxCode": "6715252004",
+      "displayBoxCode": "6715252-004",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10500977.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6715252-004/",
+      "price": 230,
+      "priceWithFee": 248.4,
+      "transactedAt": "2026-09-16 20:49:25",
+      "productCode": "886692009",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1985年,年长,长城,城币,币壹,壹圆,圆无,无砖,砖版"
+    },
     {
       "coinName": "1985年长城币壹圆",
       "normalizedBoxCode": "8617812023",

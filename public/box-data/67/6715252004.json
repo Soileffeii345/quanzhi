@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6715252004",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6715252004",
+      "displayBoxCode": "6715252-004",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1985年长城币壹圆（无砖版）",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10500977.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6715252-004/",
+      "price": 230,
+      "priceWithFee": 248.4,
+      "transactedAt": "2026-09-16 20:49:25",
+      "productCode": "886692009",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/36/886692009A.jpg",
+      "ocrConfidence": 30,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1985年,年长,长城,城币,币壹,壹圆,圆无,无砖,砖版"
+    }
+  ]
+}

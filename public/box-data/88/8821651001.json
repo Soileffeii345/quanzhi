@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8821651001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8821651001",
+      "displayBoxCode": "8821651-001",
+      "gradingCompany": "NGC",
+      "grade": "MS 67",
+      "coinName": "1988年中国人民银行成立40周年流通纪念币（实心民）",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10510515.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8821651-001/67/",
+      "price": 2850,
+      "priceWithFee": 3078,
+      "transactedAt": "2026-09-16 20:50:05",
+      "productCode": "888505001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/35/886131001A.jpg",
+      "ocrConfidence": 37,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1988年,年中,中国,国人,人民,民银,银行,行成,成立,立周,周年,年流,流通,通纪,纪念,念币,币实,实心,心民"
+    }
+  ]
+}
