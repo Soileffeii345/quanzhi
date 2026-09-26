@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-24T03:53:29.630Z",
-  "totalCoins": 2831,
-  "totalSales": 10716,
+  "generatedAt": "2026-09-26T04:11:52.883Z",
+  "totalCoins": 2832,
+  "totalSales": 10717,
   "coins": [
     {
       "coinName": "2025年中国龙31.104克普制银币",
@@ -24922,6 +24922,16 @@
       "latestDate": "2026-08-14 19:30:55",
       "priceLow": 4700,
       "priceHigh": 4700
+    },
+    {
+      "coinName": "2021年157.6克银币",
+      "slug": "14aee601",
+      "saleCount": 1,
+      "keywords": "银,币,2021年,157.6克,年加,加拿,拿大,大太,太阳,阳系,系克,克彩,彩银,银币,外国/特区",
+      "latestPrice": 6100,
+      "latestDate": "2026-09-18 20:51:45",
+      "priceLow": 6100,
+      "priceHigh": 6100
     },
     {
       "coinName": "2018年31克银币",
