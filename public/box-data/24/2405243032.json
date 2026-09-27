@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2405243032",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2405243032",
+      "displayBoxCode": "2405243-032",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "中国人民银行融资券伍拾萬圆",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/gupiao-zhaiquan/10541993.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2405243-032/",
+      "price": 1240,
+      "priceWithFee": 1376.4,
+      "transactedAt": "2026-09-26 22:05:50",
+      "productCode": "892128001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/39/892128001B.jpg",
+      "ocrConfidence": 37,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,中国,国人,人民,民银,银行,行融,融资,资券,券伍,伍拾,拾萬,萬圆"
+    }
+  ]
+}

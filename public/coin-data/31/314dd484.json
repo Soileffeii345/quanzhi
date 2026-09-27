@@ -1,0 +1,31 @@
+{
+  "coinName": "民国二十四年察哈尔商业钱局张家口地名壹角",
+  "slug": "314dd484",
+  "saleCount": 1,
+  "keywords": "历史币,民国,国二,二十,十四,四年,年察,察哈,哈尔,尔商,商业,业钱,钱局,局张,张家,家口,口地,地名,名壹,壹角",
+  "priceStats": {
+    "low": 1080,
+    "high": 1080,
+    "avg": 1080,
+    "latest": 1080
+  },
+  "records": [
+    {
+      "coinName": "民国二十四年察哈尔商业钱局张家口地名壹角",
+      "normalizedBoxCode": "2155536046",
+      "displayBoxCode": "2155536-046",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shangyeyinhangzhichao/10501860.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2155536-046/",
+      "price": 1080,
+      "priceWithFee": 1198.8,
+      "transactedAt": "2026-09-24 21:41:20",
+      "productCode": "886658009",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "历史币,民国,国二,二十,十四,四年,年察,察哈,哈尔,尔商,商业,业钱,钱局,局张,张家,家口,口地,地名,名壹,壹角"
+    }
+  ]
+}

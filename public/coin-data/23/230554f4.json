@@ -1,15 +1,32 @@
 {
   "coinName": "2026年生肖精制金银币",
   "slug": "230554f4",
-  "saleCount": 4,
+  "saleCount": 5,
   "keywords": "金,银,币,2026年,3克,生肖,年丙,丙午,午马,马年,年生,肖精,精制,制金,金银,银币,币二,二枚,枚一,一套,套含,含克,克金,金克,克银,评级,年甲,甲午,套卡,卡册,册含",
   "priceStats": {
     "low": 3550,
-    "high": 4150,
-    "avg": 3800,
-    "latest": 4150
+    "high": 5100,
+    "avg": 4060,
+    "latest": 5100
   },
   "records": [
+    {
+      "coinName": "2026年丙午马年生肖精制金银币二枚一套（含3克金、15克银）",
+      "normalizedBoxCode": "8655767001",
+      "displayBoxCode": "8655767-001",
+      "gradingCompany": "NGC",
+      "grade": "PF70 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-jin/10519046.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8655767-001/70/",
+      "price": 5100,
+      "priceWithFee": 5278.5,
+      "transactedAt": "2026-09-19 21:23:30",
+      "productCode": "889680001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,2026年,3克,生肖,年丙,丙午,午马,马年,年生,肖精,精制,制金,金银,银币,币二,二枚,枚一,一套,套含,含克,克金,金克,克银,评级"
+    },
     {
       "coinName": "2026年丙午马年生肖精制金银币二枚一套(含3克金、15克银)",
       "normalizedBoxCode": "8579181002",

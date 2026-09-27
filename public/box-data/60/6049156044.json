@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6049156044",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6049156044",
+      "displayBoxCode": "6049156-044",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1918年俄国纸币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10518508.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6049156-044/",
+      "price": 1620,
+      "priceWithFee": 1798.2,
+      "transactedAt": "2026-09-22 22:19:35",
+      "productCode": "888837004",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/37/888837004B.jpg",
+      "ocrConfidence": 28,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1918年,年俄,俄国,国纸,纸币"
+    }
+  ]
+}

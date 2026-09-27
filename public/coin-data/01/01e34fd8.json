@@ -1,0 +1,31 @@
+{
+  "coinName": "2016年22.2克银币",
+  "slug": "01e34fd8",
+  "saleCount": 1,
+  "keywords": "银,币,2016年,22.2克,年法,法国,国梵,梵克,克雅,雅宝,宝克,克银,银币,外国/特区",
+  "priceStats": {
+    "low": 1000,
+    "high": 1000,
+    "avg": 1000,
+    "latest": 1000
+  },
+  "records": [
+    {
+      "coinName": "2016年法国梵克雅宝22.2克银币",
+      "normalizedBoxCode": "8762881027",
+      "displayBoxCode": "8762881-027",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/wgjsbizhang/10528652.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8762881-027/69/",
+      "price": 1000,
+      "priceWithFee": 1060,
+      "transactedAt": "2026-09-25 19:37:35",
+      "productCode": "890634010",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2016年,22.2克,年法,法国,国梵,梵克,克雅,雅宝,宝克,克银,银币,外国/特区"
+    }
+  ]
+}

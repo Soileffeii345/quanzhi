@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8823010003",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8823010003",
+      "displayBoxCode": "8823010-003",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "coinName": "日本造币局国宝章牌系列-法隆寺仁王金刚力士155克银章",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/wgjsbizhang/10496332.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8823010-003/69/",
+      "price": 3600,
+      "priceWithFee": 3816,
+      "transactedAt": "2026-09-18 20:18:25",
+      "productCode": "886421006",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/35/886421006A.jpg",
+      "ocrConfidence": 46,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,章,155克,日本,本造,造币,币局,局国,国宝,宝章,章牌,牌系,系列,列法,法隆,隆寺,寺仁,仁王,王金,金刚,刚力,力士,士克,克银,银章,外国/特区"
+    }
+  ]
+}

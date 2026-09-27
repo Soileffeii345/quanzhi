@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-26T04:11:52.883Z",
-  "totalCoins": 2832,
-  "totalSales": 10717,
+  "generatedAt": "2026-09-27T02:15:15.445Z",
+  "totalCoins": 2845,
+  "totalSales": 10738,
   "coins": [
     {
       "coinName": "2025年中国龙31.104克普制银币",
@@ -86,10 +86,10 @@
     {
       "coinName": "第三版人民币1元五星水印",
       "slug": "075b16d9",
-      "saleCount": 83,
+      "saleCount": 84,
       "keywords": "币,第三,三版,版人,人民,民币,币元,元五,五星,星水,水印,印二,二枚",
-      "latestPrice": 610,
-      "latestDate": "2026-08-11 20:41:35",
+      "latestPrice": 330,
+      "latestDate": "2026-09-26 21:22:50",
       "priceLow": 65,
       "priceHigh": 650
     },
@@ -1134,6 +1134,16 @@
       "priceHigh": 34000
     },
     {
+      "coinName": "第二版人民币民族大团结黄5元五星水印",
+      "slug": "798a9e80",
+      "saleCount": 13,
+      "keywords": "币,第二,二版,版人,人民,民币,币民,民族,族大,大团,团结,结黄,黄元,元五,五星,星水,水印",
+      "latestPrice": 1260,
+      "latestDate": "2026-09-24 21:47:35",
+      "priceLow": 660,
+      "priceHigh": 3800
+    },
+    {
       "coinName": "1998年31.104克普制银币",
       "slug": "1924249f",
       "saleCount": 13,
@@ -1242,16 +1252,6 @@
       "latestDate": "2026-09-16 20:49:25",
       "priceLow": 45,
       "priceHigh": 520
-    },
-    {
-      "coinName": "第二版人民币民族大团结黄5元五星水印",
-      "slug": "798a9e80",
-      "saleCount": 12,
-      "keywords": "币,第二,二版,版人,人民,民币,币民,民族,族大,大团,团结,结黄,黄元,元五,五星,星水,水印",
-      "latestPrice": 1180,
-      "latestDate": "2026-09-05 21:08:40",
-      "priceLow": 660,
-      "priceHigh": 3800
     },
     {
       "coinName": "2017年熊猫15克金币",
@@ -2514,6 +2514,16 @@
       "priceHigh": 1540
     },
     {
+      "coinName": "2026年贺岁普制金银币",
+      "slug": "0759e236",
+      "saleCount": 7,
+      "keywords": "金,银,币,2026年,1克,吉祥文化,年福,福字,字贺,贺岁,岁普,普制,制金,金银,银币,币二,二枚,枚一,一套,套含,含克,克金,金克,克银",
+      "latestPrice": 1440,
+      "latestDate": "2026-09-26 21:14:15",
+      "priceLow": 1440,
+      "priceHigh": 2250
+    },
+    {
       "coinName": "1946年银币",
       "slug": "4a0b3e04",
       "saleCount": 7,
@@ -3112,16 +3122,6 @@
       "latestDate": "2026-08-03 22:09:20",
       "priceLow": 6100,
       "priceHigh": 13200
-    },
-    {
-      "coinName": "2026年贺岁普制金银币",
-      "slug": "0759e236",
-      "saleCount": 6,
-      "keywords": "金,银,币,2026年,1克,吉祥文化,年福,福字,字贺,贺岁,岁普,普制,制金,金银,银币,币二,二枚,枚一,一套,套含,含克,克金,金克,克银",
-      "latestPrice": 1620,
-      "latestDate": "2026-08-08 20:58:10",
-      "priceLow": 1600,
-      "priceHigh": 2250
     },
     {
       "coinName": "1982年银币",
@@ -3834,6 +3834,16 @@
       "priceHigh": 1240
     },
     {
+      "coinName": "民国三十七年长城银行冀察热辽流通券伍佰圆",
+      "slug": "6b0c6402",
+      "saleCount": 5,
+      "keywords": "银,历史币,民国,国三,三十,十七,七年,年长,长城,城银,银行,行冀,冀察,察热,热辽,辽流,流通,通券,券伍,伍佰,佰圆",
+      "latestPrice": 5700,
+      "latestDate": "2026-09-22 22:00:05",
+      "priceLow": 1800,
+      "priceHigh": 5700
+    },
+    {
       "coinName": "第三版人民币汽车1分",
       "slug": "1a9823b8",
       "saleCount": 5,
@@ -4474,6 +4484,16 @@
       "priceHigh": 10200
     },
     {
+      "coinName": "2026年生肖30克精制银币",
+      "slug": "065fe9d1",
+      "saleCount": 5,
+      "keywords": "银,币,2026年,30克,生肖,年丙,丙午,午马,马年,年生,肖克,克梅,梅花,花形,形精,精制,制银,银币,评级",
+      "latestPrice": 1000,
+      "latestDate": "2026-09-19 21:00:10",
+      "priceLow": 1000,
+      "priceHigh": 1360
+    },
+    {
       "coinName": "1995年3盎司精制银币",
       "slug": "5365d075",
       "saleCount": 5,
@@ -4522,6 +4542,16 @@
       "latestDate": "2026-05-26 13:00:59",
       "priceLow": 21600,
       "priceHigh": 35000
+    },
+    {
+      "coinName": "2026年生肖精制金银币",
+      "slug": "230554f4",
+      "saleCount": 5,
+      "keywords": "金,银,币,2026年,3克,生肖,年丙,丙午,午马,马年,年生,肖精,精制,制金,金银,银币,币二,二枚,枚一,一套,套含,含克,克金,金克,克银,评级,年甲,甲午,套卡,卡册,册含",
+      "latestPrice": 5100,
+      "latestDate": "2026-09-19 21:23:30",
+      "priceLow": 3550,
+      "priceHigh": 5100
     },
     {
       "coinName": "2025年30克银币",
@@ -4612,6 +4642,16 @@
       "latestDate": "2026-07-23 20:46:45",
       "priceLow": 19000,
       "priceHigh": 31500
+    },
+    {
+      "coinName": "2026年铜币",
+      "slug": "7e1d2740",
+      "saleCount": 5,
+      "keywords": "铜,章,2026年,年华,华严,严三,三圣,圣紫,紫铜,铜章,宗教,年水,水月,月观,观音,音紫",
+      "latestPrice": 180,
+      "latestDate": "2026-09-23 20:06:05",
+      "priceLow": 160,
+      "priceHigh": 190
     },
     {
       "coinName": "1994年熊猫金币",
@@ -4862,16 +4902,6 @@
       "latestDate": "2026-07-16 21:30:10",
       "priceLow": 700,
       "priceHigh": 910
-    },
-    {
-      "coinName": "民国三十七年长城银行冀察热辽流通券伍佰圆",
-      "slug": "6b0c6402",
-      "saleCount": 4,
-      "keywords": "银,历史币,民国,国三,三十,十七,七年,年长,长城,城银,银行,行冀,冀察,察热,热辽,辽流,流通,通券,券伍,伍佰,佰圆",
-      "latestPrice": 1800,
-      "latestDate": "2026-08-18 22:08:05",
-      "priceLow": 1800,
-      "priceHigh": 4550
     },
     {
       "coinName": "第三版人民币2元古币水印",
@@ -6124,16 +6154,6 @@
       "priceHigh": 18000
     },
     {
-      "coinName": "2026年生肖精制金银币",
-      "slug": "230554f4",
-      "saleCount": 4,
-      "keywords": "金,银,币,2026年,3克,生肖,年丙,丙午,午马,马年,年生,肖精,精制,制金,金银,银币,币二,二枚,枚一,一套,套含,含克,克金,金克,克银,评级,年甲,甲午,套卡,卡册,册含",
-      "latestPrice": 4150,
-      "latestDate": "2026-08-08 20:54:50",
-      "priceLow": 3550,
-      "priceHigh": 4150
-    },
-    {
       "coinName": "2025年国家公园",
       "slug": "61ba8f6e",
       "saleCount": 4,
@@ -6152,16 +6172,6 @@
       "latestDate": "2026-08-03 21:21:50",
       "priceLow": 870,
       "priceHigh": 1480
-    },
-    {
-      "coinName": "2026年生肖30克精制银币",
-      "slug": "065fe9d1",
-      "saleCount": 4,
-      "keywords": "银,币,2026年,30克,生肖,年丙,丙午,午马,马年,年生,肖克,克梅,梅花,花形,形精,精制,制银,银币,评级",
-      "latestPrice": 1360,
-      "latestDate": "2026-08-08 20:48:50",
-      "priceLow": 1000,
-      "priceHigh": 1360
     },
     {
       "coinName": "1997年生肖31.104克精制银币",
@@ -6222,16 +6232,6 @@
       "latestDate": "2026-08-03 22:20:10",
       "priceLow": 5800,
       "priceHigh": 6600
-    },
-    {
-      "coinName": "2026年铜币",
-      "slug": "7e1d2740",
-      "saleCount": 4,
-      "keywords": "铜,章,2026年,宗教,年水,水月,月观,观音,音紫,紫铜,铜章",
-      "latestPrice": 180,
-      "latestDate": "2026-08-07 19:56:00",
-      "priceLow": 160,
-      "priceHigh": 190
     },
     {
       "coinName": "2002年熊猫15.552克普制金币",
@@ -8762,6 +8762,16 @@
       "latestDate": "2026-08-22 21:00:35",
       "priceLow": 260,
       "priceHigh": 2700
+    },
+    {
+      "coinName": "2003年生肖3.11克精制金币",
+      "slug": "3ba48307",
+      "saleCount": 2,
+      "keywords": "金,币,2003年,10盎司,生肖,年癸,癸未,未羊,羊年,年生,肖盎,盎司,司精,精制,制彩,彩金,金币,评级",
+      "latestPrice": 3250,
+      "latestDate": "2026-09-24 21:43:30",
+      "priceLow": 3250,
+      "priceHigh": 3250
     },
     {
       "coinName": "2009年生肖1公斤银币",
@@ -15024,6 +15034,16 @@
       "priceHigh": 1300
     },
     {
+      "coinName": "美国1美元纸币",
+      "slug": "0f535bcb",
+      "saleCount": 1,
+      "keywords": "币,美国,国美,美元,元纸,纸币,外国/特区",
+      "latestPrice": 3100,
+      "latestDate": "2026-09-22 22:19:20",
+      "priceLow": 3100,
+      "priceHigh": 3100
+    },
+    {
       "coinName": "1850年美国1美元纸币",
       "slug": "2968a753",
       "saleCount": 1,
@@ -15492,6 +15512,16 @@
       "latestDate": "2026-07-04 21:19:25",
       "priceLow": 240,
       "priceHigh": 240
+    },
+    {
+      "coinName": "民国二十四年察哈尔商业钱局张家口地名壹角",
+      "slug": "314dd484",
+      "saleCount": 1,
+      "keywords": "历史币,民国,国二,二十,十四,四年,年察,察哈,哈尔,尔商,商业,业钱,钱局,局张,张家,家口,口地,地名,名壹,壹角",
+      "latestPrice": 1080,
+      "latestDate": "2026-09-24 21:41:20",
+      "priceLow": 1080,
+      "priceHigh": 1080
     },
     {
       "coinName": "第一版人民币蓝工厂5元正反面票样",
@@ -16142,6 +16172,16 @@
       "latestDate": "2026-07-28 21:32:50",
       "priceLow": 1080,
       "priceHigh": 1080
+    },
+    {
+      "coinName": "1992年中华人民共和国国库券伍拾圆",
+      "slug": "361ca219",
+      "saleCount": 1,
+      "keywords": "1992年,年中,中华,华人,人民,民共,共和,和国,国国,国库,库券,券伍,伍拾,拾圆",
+      "latestPrice": 340,
+      "latestDate": "2026-09-26 21:32:10",
+      "priceLow": 340,
+      "priceHigh": 340
     },
     {
       "coinName": "民国三十三年中央银行壹佰圆",
@@ -17434,6 +17474,16 @@
       "priceHigh": 370000
     },
     {
+      "coinName": "中国人民银行融资券伍拾萬圆",
+      "slug": "32411042",
+      "saleCount": 1,
+      "keywords": "银,中国,国人,人民,民银,银行,行融,融资,资券,券伍,伍拾,拾萬,萬圆",
+      "latestPrice": 1240,
+      "latestDate": "2026-09-26 22:05:50",
+      "priceLow": 1240,
+      "priceHigh": 1240
+    },
+    {
       "coinName": "1995年奥运会27克银币",
       "slug": "7b926feb",
       "saleCount": 1,
@@ -17462,6 +17512,16 @@
       "latestDate": "2026-07-16 21:22:40",
       "priceLow": 1260,
       "priceHigh": 1260
+    },
+    {
+      "coinName": "民国三十七年长城银行冀察热辽流通券壹佰圆",
+      "slug": "6b3698ee",
+      "saleCount": 1,
+      "keywords": "银,历史币,民国,国三,三十,十七,七年,年长,长城,城银,银行,行冀,冀察,察热,热辽,辽流,流通,通券,券壹,壹佰,佰圆",
+      "latestPrice": 1100,
+      "latestDate": "2026-09-24 21:50:05",
+      "priceLow": 1100,
+      "priceHigh": 1100
     },
     {
       "coinName": "民国三十三年北海银行山东地名伍拾圆",
@@ -21024,6 +21084,16 @@
       "priceHigh": 1180
     },
     {
+      "coinName": "香港政府壹圆",
+      "slug": "55098947",
+      "saleCount": 1,
+      "keywords": "香港,港政,政府,府壹,壹圆,外国/特区",
+      "latestPrice": 2050,
+      "latestDate": "2026-09-26 21:42:10",
+      "priceLow": 2050,
+      "priceHigh": 2050
+    },
+    {
       "coinName": "明治十七年日本26.96克银币",
       "slug": "382acf1e",
       "saleCount": 1,
@@ -21082,6 +21152,16 @@
       "latestDate": "2026-08-06 20:15:10",
       "priceLow": 810,
       "priceHigh": 810
+    },
+    {
+      "coinName": "1918年俄国纸币",
+      "slug": "0e704a3a",
+      "saleCount": 1,
+      "keywords": "币,1918年,年俄,俄国,国纸,纸币",
+      "latestPrice": 1620,
+      "latestDate": "2026-09-22 22:19:35",
+      "priceLow": 1620,
+      "priceHigh": 1620
     },
     {
       "coinName": "1993年15克铜币",
@@ -21162,6 +21242,16 @@
       "latestDate": "2026-07-02 20:58:50",
       "priceLow": 8800,
       "priceHigh": 8800
+    },
+    {
+      "coinName": "1959年香港政府壹圆",
+      "slug": "21cb7ef3",
+      "saleCount": 1,
+      "keywords": "1959年,年香,香港,港政,政府,府壹,壹圆,外国/特区",
+      "latestPrice": 710,
+      "latestDate": "2026-09-26 21:42:30",
+      "priceLow": 710,
+      "priceHigh": 710
     },
     {
       "coinName": "1995年京剧22克精制银币",
@@ -27254,6 +27344,16 @@
       "priceHigh": 19800
     },
     {
+      "coinName": "2016年22.2克银币",
+      "slug": "01e34fd8",
+      "saleCount": 1,
+      "keywords": "银,币,2016年,22.2克,年法,法国,国梵,梵克,克雅,雅宝,宝克,克银,银币,外国/特区",
+      "latestPrice": 1000,
+      "latestDate": "2026-09-25 19:37:35",
+      "priceLow": 1000,
+      "priceHigh": 1000
+    },
+    {
       "coinName": "沈阳造币厂1993年毛泽东诞辰100周年纪念章",
       "slug": "3d505d65",
       "saleCount": 1,
@@ -27934,6 +28034,16 @@
       "priceHigh": 2250
     },
     {
+      "coinName": "日本造币局国宝章牌系列-法隆寺仁王金刚力士155克银章",
+      "slug": "2b30e8b6",
+      "saleCount": 1,
+      "keywords": "金,银,币,章,155克,日本,本造,造币,币局,局国,国宝,宝章,章牌,牌系,系列,列法,法隆,隆寺,寺仁,仁王,王金,金刚,刚力,力士,士克,克银,银章,外国/特区",
+      "latestPrice": 3600,
+      "latestDate": "2026-09-18 20:18:25",
+      "priceLow": 3600,
+      "priceHigh": 3600
+    },
+    {
       "coinName": "2003年31克银币",
       "slug": "2e15ea7c",
       "saleCount": 1,
@@ -27942,6 +28052,26 @@
       "latestDate": "2026-09-11 20:19:15",
       "priceLow": 690,
       "priceHigh": 690
+    },
+    {
+      "coinName": "2005年生肖普制金银币",
+      "slug": "12b10361",
+      "saleCount": 1,
+      "keywords": "金,银,币,2005年,10盎司,生肖,年乙,乙酉,酉鸡,鸡年,年生,肖普,普制,制金,金银,银币,币二,二枚,枚一,一套,套含,含盎,盎司,司金,金盎,司银",
+      "latestPrice": 3900,
+      "latestDate": "2026-09-24 21:44:10",
+      "priceLow": 3900,
+      "priceHigh": 3900
+    },
+    {
+      "coinName": "2023年熊猫3克精制铂金币",
+      "slug": "4a12b19b",
+      "saleCount": 1,
+      "keywords": "金,贵金属,币,2023年,3克,熊猫,年熊,猫克,克精,精制,制铂,铂金,金币,评级",
+      "latestPrice": 1880,
+      "latestDate": "2026-09-19 21:24:20",
+      "priceLow": 1880,
+      "priceHigh": 1880
     },
     {
       "coinName": "2026年20克银币",

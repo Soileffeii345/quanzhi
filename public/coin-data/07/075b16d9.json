@@ -1,15 +1,32 @@
 {
   "coinName": "第三版人民币1元五星水印",
   "slug": "075b16d9",
-  "saleCount": 83,
+  "saleCount": 84,
   "keywords": "币,第三,三版,版人,人民,民币,币元,元五,五星,星水,水印,印二,二枚",
   "priceStats": {
     "low": 65,
     "high": 650,
-    "avg": 247,
-    "latest": 610
+    "avg": 248,
+    "latest": 330
   },
   "records": [
+    {
+      "coinName": "第三版人民币1元五星水印",
+      "normalizedBoxCode": "2226781038",
+      "displayBoxCode": "2226781-038",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/disanbanrenminbi/10504227.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2226781-038/",
+      "price": 330,
+      "priceWithFee": 356.4,
+      "transactedAt": "2026-09-26 21:22:50",
+      "productCode": "887632042",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,第三,三版,版人,人民,民币,币元,元五,五星,星水,水印"
+    },
     {
       "coinName": "第三版人民币1元五星水印",
       "normalizedBoxCode": "2396547004",

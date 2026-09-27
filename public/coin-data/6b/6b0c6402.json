@@ -1,15 +1,32 @@
 {
   "coinName": "民国三十七年长城银行冀察热辽流通券伍佰圆",
   "slug": "6b0c6402",
-  "saleCount": 4,
+  "saleCount": 5,
   "keywords": "银,历史币,民国,国三,三十,十七,七年,年长,长城,城银,银行,行冀,冀察,察热,热辽,辽流,流通,通券,券伍,伍佰,佰圆",
   "priceStats": {
     "low": 1800,
-    "high": 4550,
-    "avg": 3113,
-    "latest": 1800
+    "high": 5700,
+    "avg": 3630,
+    "latest": 5700
   },
   "records": [
+    {
+      "coinName": "民国三十七年长城银行冀察热辽流通券伍佰圆",
+      "normalizedBoxCode": "2327945012",
+      "displayBoxCode": "2327945-012",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jiefangquzhichao/10487717.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2327945-012/",
+      "price": 5700,
+      "priceWithFee": 6327,
+      "transactedAt": "2026-09-22 22:00:05",
+      "productCode": "885484010",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国三,三十,十七,七年,年长,长城,城银,银行,行冀,冀察,察热,热辽,辽流,流通,通券,券伍,伍佰,佰圆"
+    },
     {
       "coinName": "民国三十七年长城银行冀察热辽流通券伍佰圆",
       "normalizedBoxCode": "2120519008",

@@ -1,0 +1,31 @@
+{
+  "coinName": "2005年生肖普制金银币",
+  "slug": "12b10361",
+  "saleCount": 1,
+  "keywords": "金,银,币,2005年,10盎司,生肖,年乙,乙酉,酉鸡,鸡年,年生,肖普,普制,制金,金银,银币,币二,二枚,枚一,一套,套含,含盎,盎司,司金,金盎,司银",
+  "priceStats": {
+    "low": 3900,
+    "high": 3900,
+    "avg": 3900,
+    "latest": 3900
+  },
+  "records": [
+    {
+      "coinName": "2005年乙酉鸡年生肖普制金银币二枚一套（含1/10盎司金、1盎司银）",
+      "normalizedBoxCode": "8823049001",
+      "displayBoxCode": "8823049-001",
+      "gradingCompany": "NGC",
+      "grade": "MS 69",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-jin/10514869.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8823049-001/69/",
+      "price": 3900,
+      "priceWithFee": 4036.5,
+      "transactedAt": "2026-09-24 21:44:10",
+      "productCode": "888977003",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,2005年,10盎司,生肖,年乙,乙酉,酉鸡,鸡年,年生,肖普,普制,制金,金银,银币,币二,二枚,枚一,一套,套含,含盎,盎司,司金,金盎,司银"
+    }
+  ]
+}

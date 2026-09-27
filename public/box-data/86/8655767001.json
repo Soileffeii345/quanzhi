@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8655767001",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8655767001",
+      "displayBoxCode": "8655767-001",
+      "gradingCompany": "NGC",
+      "grade": "PF70 ULTRA CAMEO",
+      "coinName": "2026年丙午马年生肖精制金银币二枚一套（含3克金、15克银）",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-jin/10519046.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8655767-001/70/",
+      "price": 5100,
+      "priceWithFee": 5278.5,
+      "transactedAt": "2026-09-19 21:23:30",
+      "productCode": "889680001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/38/889680001A.jpg",
+      "ocrConfidence": 48,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,银,币,2026年,3克,生肖,年丙,丙午,午马,马年,年生,肖精,精制,制金,金银,银币,币二,二枚,枚一,一套,套含,含克,克金,金克,克银,评级"
+    }
+  ]
+}

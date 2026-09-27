@@ -1,0 +1,31 @@
+{
+  "coinName": "1992年中华人民共和国国库券伍拾圆",
+  "slug": "361ca219",
+  "saleCount": 1,
+  "keywords": "1992年,年中,中华,华人,人民,民共,共和,和国,国国,国库,库券,券伍,伍拾,拾圆",
+  "priceStats": {
+    "low": 340,
+    "high": 340,
+    "avg": 340,
+    "latest": 340
+  },
+  "records": [
+    {
+      "coinName": "1992年中华人民共和国国库券伍拾圆",
+      "normalizedBoxCode": "2253009033",
+      "displayBoxCode": "2253009-033",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/gupiao-zhaiquan/10363523.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2253009-033/",
+      "price": 340,
+      "priceWithFee": 377.4,
+      "transactedAt": "2026-09-26 21:32:10",
+      "productCode": "870118001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "1992年,年中,中华,华人,人民,民共,共和,和国,国国,国库,库券,券伍,伍拾,拾圆"
+    }
+  ]
+}

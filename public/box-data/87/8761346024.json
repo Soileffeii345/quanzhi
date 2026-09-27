@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8761346024",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8761346024",
+      "displayBoxCode": "8761346-024",
+      "gradingCompany": "NGC",
+      "grade": "PF 70",
+      "coinName": "2026年华严三圣紫铜章",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/tongzhang/10529947.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8761346-024/70/",
+      "price": 180,
+      "priceWithFee": 199.8,
+      "transactedAt": "2026-09-23 20:06:05",
+      "productCode": "891016004",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/38/891016004A.jpg",
+      "ocrConfidence": 31,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "铜,章,2026年,年华,华严,严三,三圣,圣紫,紫铜,铜章"
+    }
+  ]
+}

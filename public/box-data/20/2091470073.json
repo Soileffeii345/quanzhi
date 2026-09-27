@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2091470073",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2091470073",
+      "displayBoxCode": "2091470-073",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "美国1美元纸币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10518505.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2091470-073/",
+      "price": 3100,
+      "priceWithFee": 3441,
+      "transactedAt": "2026-09-22 22:19:20",
+      "productCode": "888837001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/37/888837001B.jpg",
+      "ocrConfidence": 42,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,美国,国美,美元,元纸,纸币,外国/特区"
+    }
+  ]
+}

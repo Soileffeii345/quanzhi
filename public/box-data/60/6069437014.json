@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6069437014",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6069437014",
+      "displayBoxCode": "6069437-014",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1959年香港政府壹圆",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xianggangzhichao/10543911.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6069437-014/",
+      "price": 710,
+      "priceWithFee": 788.1,
+      "transactedAt": "2026-09-26 21:42:30",
+      "productCode": "892580005",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/39/892580005B.jpg",
+      "ocrConfidence": 30,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "1959年,年香,香港,港政,政府,府壹,壹圆,外国/特区"
+    }
+  ]
+}

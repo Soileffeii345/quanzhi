@@ -1,0 +1,31 @@
+{
+  "coinName": "2023年熊猫3克精制铂金币",
+  "slug": "4a12b19b",
+  "saleCount": 1,
+  "keywords": "金,贵金属,币,2023年,3克,熊猫,年熊,猫克,克精,精制,制铂,铂金,金币,评级",
+  "priceStats": {
+    "low": 1880,
+    "high": 1880,
+    "avg": 1880,
+    "latest": 1880
+  },
+  "records": [
+    {
+      "coinName": "2023年熊猫3克精制铂金币",
+      "normalizedBoxCode": "8823062015",
+      "displayBoxCode": "8823062-015",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-nianjiyihou/10524040.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8823062-015/70/",
+      "price": 1880,
+      "priceWithFee": 1945.8,
+      "transactedAt": "2026-09-19 21:24:20",
+      "productCode": "890001008",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,贵金属,币,2023年,3克,熊猫,年熊,猫克,克精,精制,制铂,铂金,金币,评级"
+    }
+  ]
+}
