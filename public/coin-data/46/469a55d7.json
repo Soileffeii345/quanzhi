@@ -1,15 +1,32 @@
 {
   "coinName": "1984年中华人民共和国成立35周年流通纪念币",
   "slug": "469a55d7",
-  "saleCount": 4,
+  "saleCount": 5,
   "keywords": "币,1984年,年中,中华,华人,人民,民共,共和,和国,国成,成立,立周,周年,年流,流通,通纪,纪念,念币,币三,三枚,枚一,一套",
   "priceStats": {
     "low": 670,
     "high": 1120,
-    "avg": 798,
+    "avg": 780,
     "latest": 710
   },
   "records": [
+    {
+      "coinName": "1984年中华人民共和国成立35周年流通纪念币三枚一套",
+      "normalizedBoxCode": "5817995044",
+      "displayBoxCode": "5817995-044",
+      "gradingCompany": "NGC",
+      "grade": "MS 66",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10551069.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/5817995-044/66/",
+      "price": 710,
+      "priceWithFee": 766.8,
+      "transactedAt": "2026-09-30 22:02:05",
+      "productCode": "893281001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1984年,年中,中华,华人,人民,民共,共和,和国,国成,成立,立周,周年,年流,流通,通纪,纪念,念币,币三,三枚,枚一,一套"
+    },
     {
       "coinName": "1984年中华人民共和国成立35周年流通纪念币三枚一套",
       "normalizedBoxCode": "8815477050",

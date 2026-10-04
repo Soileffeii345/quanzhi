@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "1610092600",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "1610092600",
+      "displayBoxCode": "1610092-600",
+      "gradingCompany": "NGC",
+      "grade": "AU 38",
+      "coinName": "明清38.1克银锭（后加戳）",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/yinding/10507060.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1610092-600/38/",
+      "price": 990,
+      "priceWithFee": 1098.9,
+      "transactedAt": "2026-09-28 21:55:40",
+      "productCode": "887648002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/36/887648002A.jpg",
+      "ocrConfidence": 37,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,38.1克,明清,清克,克银,银锭,锭后,后加,加戳"
+    }
+  ]
+}

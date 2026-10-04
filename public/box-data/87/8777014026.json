@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8777014026",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8777014026",
+      "displayBoxCode": "8777014-026",
+      "gradingCompany": "NGC",
+      "grade": "PF 67 CAMEO",
+      "coinName": "1996年中国精制硬币壹角三枚",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10530852.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8777014-026/67/",
+      "price": 450,
+      "priceWithFee": 486,
+      "transactedAt": "2026-09-30 20:20:05",
+      "productCode": "890706002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/38/890706002A.jpg",
+      "ocrConfidence": 41,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1996年,年中,中国,国精,精制,制硬,硬币,币壹,壹角,角三,三枚,评级"
+    }
+  ]
+}

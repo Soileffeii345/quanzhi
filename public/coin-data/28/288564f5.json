@@ -1,15 +1,32 @@
 {
   "coinName": "明清87.2克银锭",
   "slug": "288564f5",
-  "saleCount": 1,
+  "saleCount": 2,
   "keywords": "银,87.2克,明清,清克,克银,银锭",
   "priceStats": {
-    "low": 2550,
+    "low": 2250,
     "high": 2550,
-    "avg": 2550,
-    "latest": 2550
+    "avg": 2400,
+    "latest": 2250
   },
   "records": [
+    {
+      "coinName": "明清87.2克银锭",
+      "normalizedBoxCode": "1610042536",
+      "displayBoxCode": "1610042-536",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/yinding/10507061.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1610042-536/",
+      "price": 2250,
+      "priceWithFee": 2497.5,
+      "transactedAt": "2026-09-28 21:56:10",
+      "productCode": "887648003",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,87.2克,明清,清克,克银,银锭"
+    },
     {
       "coinName": "明清87.2克银锭",
       "normalizedBoxCode": "1610042536",

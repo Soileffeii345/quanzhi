@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2400785029",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2400785029",
+      "displayBoxCode": "2400785-029",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "英格兰纸钞",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10520417.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2400785-029/",
+      "price": 150,
+      "priceWithFee": 166.5,
+      "transactedAt": "2026-09-29 21:12:35",
+      "productCode": "889631003",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/37/889631003B.jpg",
+      "ocrConfidence": 22,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,英格,格兰,兰纸,纸钞"
+    }
+  ]
+}

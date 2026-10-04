@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "4410848010",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "4410848010",
+      "displayBoxCode": "4410848-010",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1984年甲子鼠年生肖15克精制银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10539445.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4410848-010/",
+      "price": 2700,
+      "priceWithFee": 2794.5,
+      "transactedAt": "2026-09-28 20:26:05",
+      "productCode": "891870001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/38/891870001A.jpg",
+      "ocrConfidence": 31,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1984年,15克,生肖,年甲,甲子,子鼠,鼠年,年生,肖克,克精,精制,制银,银币,评级"
+    }
+  ]
+}

@@ -1,15 +1,49 @@
 {
   "coinName": "2026年铜币",
   "slug": "7e1d2740",
-  "saleCount": 5,
+  "saleCount": 7,
   "keywords": "铜,章,2026年,年华,华严,严三,三圣,圣紫,紫铜,铜章,宗教,年水,水月,月观,观音,音紫",
   "priceStats": {
     "low": 160,
     "high": 190,
-    "avg": 178,
-    "latest": 180
+    "avg": 176,
+    "latest": 160
   },
   "records": [
+    {
+      "coinName": "2026年华严三圣紫铜章",
+      "normalizedBoxCode": "8761346044",
+      "displayBoxCode": "8761346-044",
+      "gradingCompany": "NGC",
+      "grade": "PF 70",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/tongzhang/10529952.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8761346-044/70/",
+      "price": 160,
+      "priceWithFee": 177.6,
+      "transactedAt": "2026-09-30 20:41:05",
+      "productCode": "891016009",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "铜,章,2026年,年华,华严,严三,三圣,圣紫,紫铜,铜章"
+    },
+    {
+      "coinName": "2026年华严三圣紫铜章",
+      "normalizedBoxCode": "8761346054",
+      "displayBoxCode": "8761346-054",
+      "gradingCompany": "NGC",
+      "grade": "PF 70",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/tongzhang/10529951.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8761346-054/70/",
+      "price": 180,
+      "priceWithFee": 199.8,
+      "transactedAt": "2026-09-30 20:00:35",
+      "productCode": "891016008",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "铜,章,2026年,年华,华严,严三,三圣,圣紫,紫铜,铜章"
+    },
     {
       "coinName": "2026年华严三圣紫铜章",
       "normalizedBoxCode": "8761346024",

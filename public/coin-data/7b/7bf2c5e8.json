@@ -1,0 +1,31 @@
+{
+  "coinName": "英格兰纸钞",
+  "slug": "7bf2c5e8",
+  "saleCount": 1,
+  "keywords": "钞,英格,格兰,兰纸,纸钞",
+  "priceStats": {
+    "low": 150,
+    "high": 150,
+    "avg": 150,
+    "latest": 150
+  },
+  "records": [
+    {
+      "coinName": "英格兰纸钞",
+      "normalizedBoxCode": "2400785029",
+      "displayBoxCode": "2400785-029",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10520417.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2400785-029/",
+      "price": 150,
+      "priceWithFee": 166.5,
+      "transactedAt": "2026-09-29 21:12:35",
+      "productCode": "889631003",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,英格,格兰,兰纸,纸钞"
+    }
+  ]
+}

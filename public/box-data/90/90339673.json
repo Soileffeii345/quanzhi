@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "90339673",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "90339673",
+      "displayBoxCode": "90339673",
+      "gradingCompany": "PCGS",
+      "grade": "待复核",
+      "coinName": "明 兴朝通宝五厘",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/guqian/10509748.shtml",
+      "officialCertUrl": "https://cn.pcgs.com/cert/90339673",
+      "price": 590,
+      "priceWithFee": 649,
+      "transactedAt": "2026-09-28 21:36:40",
+      "productCode": "887954002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/36/887954002A.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "明兴,兴朝,朝通,通宝,宝五,五厘"
+    }
+  ]
+}

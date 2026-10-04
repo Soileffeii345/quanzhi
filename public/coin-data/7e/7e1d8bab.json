@@ -1,15 +1,32 @@
 {
   "coinName": "2026年金币",
   "slug": "7e1d8bab",
-  "saleCount": 12,
-  "keywords": "金,银,铜,章,2026年,宗教,年千,千手,手观,观音,音镀,镀金,金镀,镀银,银纪,纪念,念章,章紫,紫铜,铜章,章各,各一,一枚,枚共,共三,三枚,年水,水月,月观,金纪,共二,二枚",
+  "saleCount": 13,
+  "keywords": "金,章,2026年,年华,华严,严三,三圣,圣镀,镀金,金纪,纪念,念章,银,铜,宗教,年千,千手,手观,观音,音镀,金镀,镀银,银纪,章紫,紫铜,铜章,章各,各一,一枚,枚共,共三,三枚,年水,水月,月观,共二,二枚",
   "priceStats": {
     "low": 170,
     "high": 380,
-    "avg": 258,
-    "latest": 330
+    "avg": 253,
+    "latest": 190
   },
   "records": [
+    {
+      "coinName": "2026年华严三圣镀金纪念章",
+      "normalizedBoxCode": "8761343042",
+      "displayBoxCode": "8761343-042",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/tongzhang/10529972.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8761343-042/70/",
+      "price": 190,
+      "priceWithFee": 210.9,
+      "transactedAt": "2026-09-30 19:22:35",
+      "productCode": "891016029",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,章,2026年,年华,华严,严三,三圣,圣镀,镀金,金纪,纪念,念章"
+    },
     {
       "coinName": "2026年千手观音镀金、镀银纪念章、紫铜章各一枚，共三枚",
       "normalizedBoxCode": "7529532350",

@@ -1,15 +1,32 @@
 {
   "coinName": "1999年生肖3.11克精制金币",
   "slug": "21918762",
-  "saleCount": 1,
-  "keywords": "金,币,1999年,10盎司,生肖,年己,己卯,卯兔,兔年,年生,肖盎,盎司,司精,精制,制彩,彩金,金币,评级",
+  "saleCount": 2,
+  "keywords": "金,币,1999年,10盎司,生肖,年已,已卯,卯兔,兔年,年生,肖盎,盎司,司精,精制,制彩,彩金,金币,评级,年己,己卯",
   "priceStats": {
     "low": 3300,
-    "high": 3300,
-    "avg": 3300,
-    "latest": 3300
+    "high": 3650,
+    "avg": 3475,
+    "latest": 3650
   },
   "records": [
+    {
+      "coinName": "1999年已卯兔年生肖1/10盎司精制彩金币",
+      "normalizedBoxCode": "8500672007",
+      "displayBoxCode": "8500672-007",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-jin/10539791.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8500672-007/69/",
+      "price": 3650,
+      "priceWithFee": 3777.75,
+      "transactedAt": "2026-09-28 21:47:05",
+      "productCode": "891822001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,1999年,10盎司,生肖,年已,已卯,卯兔,兔年,年生,肖盎,盎司,司精,精制,制彩,彩金,金币,评级"
+    },
     {
       "coinName": "1999年己卯兔年生肖1/10盎司精制彩金币",
       "normalizedBoxCode": "8652262010",

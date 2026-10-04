@@ -1,15 +1,32 @@
 {
   "coinName": "2020年5克精制银币",
   "slug": "0a60a428",
-  "saleCount": 3,
-  "keywords": "银,币,2020年,5克,年紫,紫禁,禁城,城建,建成,成年,年克,克精,精制,制银,银币,币二,二枚,评级",
+  "saleCount": 4,
+  "keywords": "银,币,2020年,5克,年紫,紫禁,禁城,城建,建成,成年,年克,克精,精制,制银,银币,评级,币二,二枚",
   "priceStats": {
-    "low": 310,
+    "low": 210,
     "high": 360,
-    "avg": 327,
-    "latest": 360
+    "avg": 298,
+    "latest": 210
   },
   "records": [
+    {
+      "coinName": "2020年紫禁城建成600年5克精制银币",
+      "normalizedBoxCode": "6050619066",
+      "displayBoxCode": "6050619-066",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10526703.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6050619-066/69/",
+      "price": 210,
+      "priceWithFee": 217.35,
+      "transactedAt": "2026-09-28 20:24:35",
+      "productCode": "890699001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,2020年,5克,年紫,紫禁,禁城,城建,建成,成年,年克,克精,精制,制银,银币,评级"
+    },
     {
       "coinName": "2020年紫禁城建成600年5克精制银币二枚",
       "normalizedBoxCode": "6050619066",

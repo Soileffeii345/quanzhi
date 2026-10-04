@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "5802015010",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "5802015010",
+      "displayBoxCode": "5802015-010",
+      "gradingCompany": "NGC",
+      "grade": "MS 70",
+      "coinName": "2020年抗击新型冠状病毒肺炎223克银章",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10487673.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/5802015-010/70/",
+      "price": 4250,
+      "priceWithFee": 4398.75,
+      "transactedAt": "2026-09-28 21:07:05",
+      "productCode": "885654027",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/35/885654027A.jpg",
+      "ocrConfidence": 35,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,章,2020年,223克,年抗,抗击,击新,新型,型冠,冠状,状病,病毒,毒肺,肺炎,炎克,克银,银章"
+    }
+  ]
+}

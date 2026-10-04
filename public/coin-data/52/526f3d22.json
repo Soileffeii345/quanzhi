@@ -1,0 +1,48 @@
+{
+  "coinName": "清 雍正通宝宝源",
+  "slug": "526f3d22",
+  "saleCount": 2,
+  "keywords": "清雍,雍正,正通,通宝,宝宝,宝源",
+  "priceStats": {
+    "low": 530,
+    "high": 560,
+    "avg": 545,
+    "latest": 530
+  },
+  "records": [
+    {
+      "coinName": "清 雍正通宝宝源",
+      "normalizedBoxCode": "99466607",
+      "displayBoxCode": "99466607",
+      "gradingCompany": "PCGS",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/guqian/10509751.shtml",
+      "officialCertUrl": "https://cn.pcgs.com/cert/99466607",
+      "price": 530,
+      "priceWithFee": 583,
+      "transactedAt": "2026-09-28 21:37:40",
+      "productCode": "887954005",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "清雍,雍正,正通,通宝,宝宝,宝源"
+    },
+    {
+      "coinName": "清 雍正通宝宝源",
+      "normalizedBoxCode": "89875212",
+      "displayBoxCode": "89875212",
+      "gradingCompany": "PCGS",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/guqian/10509752.shtml",
+      "officialCertUrl": "https://cn.pcgs.com/cert/89875212",
+      "price": 560,
+      "priceWithFee": 616,
+      "transactedAt": "2026-09-28 21:07:40",
+      "productCode": "887954006",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "清雍,雍正,正通,通宝,宝宝,宝源"
+    }
+  ]
+}

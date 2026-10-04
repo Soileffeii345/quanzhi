@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "99466607",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "99466607",
+      "displayBoxCode": "99466607",
+      "gradingCompany": "PCGS",
+      "grade": "待复核",
+      "coinName": "清 雍正通宝宝源",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/guqian/10509751.shtml",
+      "officialCertUrl": "https://cn.pcgs.com/cert/99466607",
+      "price": 530,
+      "priceWithFee": 583,
+      "transactedAt": "2026-09-28 21:37:40",
+      "productCode": "887954005",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/36/887954005A.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "清雍,雍正,正通,通宝,宝宝,宝源"
+    }
+  ]
+}

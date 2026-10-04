@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8761343042",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8761343042",
+      "displayBoxCode": "8761343-042",
+      "gradingCompany": "NGC",
+      "grade": "PF 70 ULTRA CAMEO",
+      "coinName": "2026年华严三圣镀金纪念章",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/tongzhang/10529972.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8761343-042/70/",
+      "price": 190,
+      "priceWithFee": 210.9,
+      "transactedAt": "2026-09-30 19:22:35",
+      "productCode": "891016029",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/38/891016029A.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,章,2026年,年华,华严,严三,三圣,圣镀,镀金,金纪,纪念,念章"
+    }
+  ]
+}
