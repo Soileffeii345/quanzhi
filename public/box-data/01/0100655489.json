@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "0100655489",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "0100655489",
+      "displayBoxCode": "0100655-489",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "2022年千手观音纪念券",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10547698.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/0100655-489/",
+      "price": 85,
+      "priceWithFee": 94.35,
+      "transactedAt": "2026-10-06 21:46:45",
+      "productCode": "892848014",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/39/892848014B.jpg",
+      "ocrConfidence": 23,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "2022年,宗教,年千,千手,手观,观音,音纪,纪念,念券"
+    }
+  ]
+}

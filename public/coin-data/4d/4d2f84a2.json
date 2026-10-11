@@ -1,0 +1,31 @@
+{
+  "coinName": "民国十七年中华汇业银行天津壹角",
+  "slug": "4d2f84a2",
+  "saleCount": 1,
+  "keywords": "银,历史币,民国,国十,十七,七年,年中,中华,华汇,汇业,业银,银行,行天,天津,津壹,壹角",
+  "priceStats": {
+    "low": 6600,
+    "high": 6600,
+    "avg": 6600,
+    "latest": 6600
+  },
+  "records": [
+    {
+      "coinName": "民国十七年中华汇业银行天津壹角",
+      "normalizedBoxCode": "2277638036",
+      "displayBoxCode": "2277638-036",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/yangshangkechao/10520987.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2277638-036/",
+      "price": 6600,
+      "priceWithFee": 7326,
+      "transactedAt": "2026-10-08 21:51:00",
+      "productCode": "889152005",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国十,十七,七年,年中,中华,华汇,汇业,业银,银行,行天,天津,津壹,壹角"
+    }
+  ]
+}

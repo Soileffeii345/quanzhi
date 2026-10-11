@@ -1,0 +1,31 @@
+{
+  "coinName": "1982年中华人民共和国国库券壹佰圆",
+  "slug": "422a185c",
+  "saleCount": 1,
+  "keywords": "1982年,年中,中华,华人,人民,民共,共和,和国,国国,国库,库券,券壹,壹佰,佰圆",
+  "priceStats": {
+    "low": 10800,
+    "high": 10800,
+    "avg": 10800,
+    "latest": 10800
+  },
+  "records": [
+    {
+      "coinName": "1982年中华人民共和国国库券壹佰圆",
+      "normalizedBoxCode": "2596082016",
+      "displayBoxCode": "2596082-016",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/gupiao-zhaiquan/10536530.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2596082-016/",
+      "price": 10800,
+      "priceWithFee": 11988,
+      "transactedAt": "2026-10-10 21:38:05",
+      "productCode": "891501005",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "1982年,年中,中华,华人,人民,民共,共和,和国,国国,国库,库券,券壹,壹佰,佰圆"
+    }
+  ]
+}

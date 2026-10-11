@@ -1,0 +1,31 @@
+{
+  "coinName": "第一版人民币骆驼队10000元正反票样",
+  "slug": "7b777557",
+  "saleCount": 1,
+  "keywords": "币,钞,第一,一版,版人,人民,民币,币骆,骆驼,驼队,队元,元正,正反,反票,票样,样各,各一,一枚",
+  "priceStats": {
+    "low": 111000,
+    "high": 111000,
+    "avg": 111000,
+    "latest": 111000
+  },
+  "records": [
+    {
+      "coinName": "第一版人民币骆驼队10000元正反票样各一枚",
+      "normalizedBoxCode": "2557683011",
+      "displayBoxCode": "2557683-011",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/diyibanrenminbi/10542481.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2557683-011/",
+      "price": 111000,
+      "priceWithFee": 122100,
+      "transactedAt": "2026-10-08 21:34:20",
+      "productCode": "892314001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,钞,第一,一版,版人,人民,民币,币骆,骆驼,驼队,队元,元正,正反,反票,票样,样各,各一,一枚"
+    }
+  ]
+}

@@ -1,15 +1,32 @@
 {
   "coinName": "第四套/第四版人民币1996年版1元",
   "slug": "7b0c3856",
-  "saleCount": 25,
+  "saleCount": 26,
   "keywords": "币,1996年,第四,四套,套第,四版,版人,人民,民币,币年,年版,版元,元二,二枚",
   "priceStats": {
     "low": 60,
     "high": 13400,
-    "avg": 1240,
-    "latest": 3250
+    "avg": 1200,
+    "latest": 220
   },
   "records": [
+    {
+      "coinName": "第四套/第四版人民币1996年版1元",
+      "normalizedBoxCode": "2054699034",
+      "displayBoxCode": "2054699-034",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/disibanrenminbi/10529646.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2054699-034/",
+      "price": 220,
+      "priceWithFee": 237.6,
+      "transactedAt": "2026-10-05 19:15:10",
+      "productCode": "891069001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1996年,第四,四套,套第,四版,版人,人民,民币,币年,年版,版元"
+    },
     {
       "coinName": "第四套/第四版人民币1996年版1元",
       "normalizedBoxCode": "2331632001",

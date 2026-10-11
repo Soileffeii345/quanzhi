@@ -1,0 +1,48 @@
+{
+  "coinName": "2026年8克精制金币",
+  "slug": "65154c74",
+  "saleCount": 2,
+  "keywords": "金,币,2026年,8克,年江,江泽,泽民,民诞,诞辰,辰周,周年,年克,克精,精制,制金,金币,评级",
+  "priceStats": {
+    "low": 9100,
+    "high": 9200,
+    "avg": 9150,
+    "latest": 9100
+  },
+  "records": [
+    {
+      "coinName": "2026年江泽民诞辰100周年8克精制金币",
+      "normalizedBoxCode": "8835365009",
+      "displayBoxCode": "8835365-009",
+      "gradingCompany": "NGC",
+      "grade": "PF70 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10541914.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8835365-009/70/",
+      "price": 9100,
+      "priceWithFee": 9418.5,
+      "transactedAt": "2026-10-10 21:14:20",
+      "productCode": "892299003",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2026年,8克,年江,江泽,泽民,民诞,诞辰,辰周,周年,年克,克精,精制,制金,金币,评级"
+    },
+    {
+      "coinName": "2026年江泽民诞辰100周年8克精制金币",
+      "normalizedBoxCode": "8835365002",
+      "displayBoxCode": "8835365-002",
+      "gradingCompany": "NGC",
+      "grade": "PF70 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10541913.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8835365-002/70/",
+      "price": 9200,
+      "priceWithFee": 9522,
+      "transactedAt": "2026-10-10 21:10:10",
+      "productCode": "892299002",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2026年,8克,年江,江泽,泽民,民诞,诞辰,辰周,周年,年克,克精,精制,制金,金币,评级"
+    }
+  ]
+}

@@ -1,15 +1,32 @@
 {
   "coinName": "第四套/第四版人民币1980年版5元",
   "slug": "784a7d33",
-  "saleCount": 21,
+  "saleCount": 22,
   "keywords": "币,1980年,第四,四套,套第,四版,版人,人民,民币,币年,年版,版元,元多,多彩,彩松,松鹤,元苍,苍松,松翠,翠鹤,鹤荧,荧光,光版",
   "priceStats": {
     "low": 90,
     "high": 820,
     "avg": 290,
-    "latest": 350
+    "latest": 300
   },
   "records": [
+    {
+      "coinName": "第四套/第四版人民币1980年版5元",
+      "normalizedBoxCode": "2569749050",
+      "displayBoxCode": "2569749-050",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/disibanrenminbi/10509601.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2569749-050/",
+      "price": 300,
+      "priceWithFee": 324,
+      "transactedAt": "2026-10-06 21:37:45",
+      "productCode": "888301016",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1980年,第四,四套,套第,四版,版人,人民,民币,币年,年版,版元"
+    },
     {
       "coinName": "第四套/第四版人民币1980年版5元",
       "normalizedBoxCode": "2220011093",

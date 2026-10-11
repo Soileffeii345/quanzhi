@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "1849968003",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "1849968003",
+      "displayBoxCode": "1849968-003",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "第二版人民币天安门黑1元",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/dierbanrenminbi/10543468.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1849968-003/",
+      "price": 1460,
+      "priceWithFee": 1576.8,
+      "transactedAt": "2026-10-08 21:46:25",
+      "productCode": "892578001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/39/892578001B.jpg",
+      "ocrConfidence": 29,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,第二,二版,版人,人民,民币,币天,天安,安门,门黑,黑元"
+    }
+  ]
+}

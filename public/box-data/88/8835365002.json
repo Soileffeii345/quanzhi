@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8835365002",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8835365002",
+      "displayBoxCode": "8835365-002",
+      "gradingCompany": "NGC",
+      "grade": "PF70 ULTRA CAMEO",
+      "coinName": "2026年江泽民诞辰100周年8克精制金币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10541913.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8835365-002/70/",
+      "price": 9200,
+      "priceWithFee": 9522,
+      "transactedAt": "2026-10-10 21:10:10",
+      "productCode": "892299002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/39/892299002A.jpg",
+      "ocrConfidence": 36,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "金,币,2026年,8克,年江,江泽,泽民,民诞,诞辰,辰周,周年,年克,克精,精制,制金,金币,评级"
+    }
+  ]
+}
