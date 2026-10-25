@@ -1,15 +1,32 @@
 {
   "coinName": "1921年26.73克银币",
   "slug": "5d42ffb8",
-  "saleCount": 1,
+  "saleCount": 2,
   "keywords": "银,币,1921年,26.73克,年美,美国,国摩,摩根,根克,克银,银币,外国/特区",
   "priceStats": {
-    "low": 820,
+    "low": 660,
     "high": 820,
-    "avg": 820,
-    "latest": 820
+    "avg": 740,
+    "latest": 660
   },
   "records": [
+    {
+      "coinName": "1921年美国摩根26.73克银币",
+      "normalizedBoxCode": "24269655",
+      "displayBoxCode": "24269655",
+      "gradingCompany": "PCGS",
+      "grade": "MS64",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/wgjsbizhang/10567325.shtml",
+      "officialCertUrl": "https://cn.pcgs.com/cert/24269655",
+      "price": 660,
+      "priceWithFee": 699.6,
+      "transactedAt": "2026-10-23 19:01:05",
+      "productCode": "895273001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1921年,26.73克,年美,美国,国摩,摩根,根克,克银,银币,外国/特区"
+    },
     {
       "coinName": "1921年美国摩根26.73克银币",
       "normalizedBoxCode": "6739075019",

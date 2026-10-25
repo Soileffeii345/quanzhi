@@ -1,0 +1,31 @@
+{
+  "coinName": "1998年生肖3盎司精制银币",
+  "slug": "27732793",
+  "saleCount": 1,
+  "keywords": "银,币,1998年,3盎司,生肖,年戊,戊寅,寅虎,虎年,年生,肖盎,盎司,司梅,梅花,花形,形精,精制,制银,银币,评级",
+  "priceStats": {
+    "low": 1360,
+    "high": 1360,
+    "avg": 1360,
+    "latest": 1360
+  },
+  "records": [
+    {
+      "coinName": "1998年戊寅虎年生肖2/3盎司梅花形精制银币",
+      "normalizedBoxCode": "3682085001",
+      "displayBoxCode": "3682085-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 69 ULTRA CAMEO",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10546603.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3682085-001/69/",
+      "price": 1360,
+      "priceWithFee": 1407.6,
+      "transactedAt": "2026-10-12 21:37:40",
+      "productCode": "893072001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1998年,3盎司,生肖,年戊,戊寅,寅虎,虎年,年生,肖盎,盎司,司梅,梅花,花形,形精,精制,制银,银币,评级"
+    }
+  ]
+}

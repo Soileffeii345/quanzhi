@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "24269655",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "24269655",
+      "displayBoxCode": "24269655",
+      "gradingCompany": "PCGS",
+      "grade": "MS64",
+      "coinName": "1921年美国摩根26.73克银币",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/wgjsbizhang/10567325.shtml",
+      "officialCertUrl": "https://cn.pcgs.com/cert/24269655",
+      "price": 660,
+      "priceWithFee": 699.6,
+      "transactedAt": "2026-10-23 19:01:05",
+      "productCode": "895273001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/41/895273001A.jpg",
+      "ocrConfidence": 27,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,币,1921年,26.73克,年美,美国,国摩,摩根,根克,克银,银币,外国/特区"
+    }
+  ]
+}

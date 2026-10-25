@@ -1,0 +1,31 @@
+{
+  "coinName": "2014年30克银币",
+  "slug": "0b259ac5",
+  "saleCount": 1,
+  "keywords": "银,章,2014年,30克,年中,中国,国花,花钱,钱精,精品,品系,系列,列唯,唯善,善呈,呈和,和克,克银,银章",
+  "priceStats": {
+    "low": 780,
+    "high": 780,
+    "avg": 780,
+    "latest": 780
+  },
+  "records": [
+    {
+      "coinName": "2014年中国花钱精品系列-唯善呈和30克银章",
+      "normalizedBoxCode": "3878124001",
+      "displayBoxCode": "3878124-001",
+      "gradingCompany": "NGC",
+      "grade": "PF 69",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10528600.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/3878124-001/69/",
+      "price": 780,
+      "priceWithFee": 807.3,
+      "transactedAt": "2026-10-12 19:55:40",
+      "productCode": "890636018",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,章,2014年,30克,年中,中国,国花,花钱,钱精,精品,品系,系列,列唯,唯善,善呈,呈和,和克,克银,银章"
+    }
+  ]
+}

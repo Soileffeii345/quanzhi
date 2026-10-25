@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "1120462554",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "1120462554",
+      "displayBoxCode": "1120462-554",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "清-阿弥陀佛挂花六字箴言",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/guqian/10515350.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1120462-554/",
+      "price": 1140,
+      "priceWithFee": 1254,
+      "transactedAt": "2026-10-12 21:21:35",
+      "productCode": "889183009",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/37/889183009A.jpg",
+      "ocrConfidence": 29,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "宗教,清阿,阿弥,弥陀,陀佛,佛挂,挂花,花六,六字,字箴,箴言"
+    }
+  ]
+}

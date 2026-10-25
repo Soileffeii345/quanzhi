@@ -1,0 +1,31 @@
+{
+  "coinName": "第一版人民币渭河桥5000元票样",
+  "slug": "0ec118d1",
+  "saleCount": 1,
+  "keywords": "币,钞,第一,一版,版人,人民,民币,币渭,渭河,河桥,桥元,元票,票样",
+  "priceStats": {
+    "low": 34000,
+    "high": 34000,
+    "avg": 34000,
+    "latest": 34000
+  },
+  "records": [
+    {
+      "coinName": "第一版人民币渭河桥5000元票样",
+      "normalizedBoxCode": "1934501022",
+      "displayBoxCode": "1934501-022",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/diyibanrenminbi/10563865.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1934501-022/",
+      "price": 34000,
+      "priceWithFee": 37400,
+      "transactedAt": "2026-10-15 21:59:05",
+      "productCode": "895293003",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,钞,第一,一版,版人,人民,民币,币渭,渭河,河桥,桥元,元票,票样"
+    }
+  ]
+}

@@ -1,15 +1,32 @@
 {
   "coinName": "军务院撫军长唐继尧正面像拥护共和纪念库平三钱六分银元",
   "slug": "1d4bf1d5",
-  "saleCount": 2,
+  "saleCount": 3,
   "keywords": "银,唐头,唐正,军务,务院,院撫,撫军,军长,长唐,唐继,继尧,尧正,正面,面像,像拥,拥护,护共,共和,和纪,纪念,念库,库平,平三,三钱,钱六,六分,分银,银元",
   "priceStats": {
     "low": 2000,
     "high": 3400,
-    "avg": 2700,
-    "latest": 2000
+    "avg": 2550,
+    "latest": 2250
   },
   "records": [
+    {
+      "coinName": "军务院撫军长唐继尧正面像拥护共和纪念库平三钱六分银元",
+      "normalizedBoxCode": "1212041134",
+      "displayBoxCode": "1212041-134",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguojindaijizhibi/10512405.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1212041-134/",
+      "price": 2250,
+      "priceWithFee": 2430,
+      "transactedAt": "2026-10-12 19:53:35",
+      "productCode": "888566002",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,唐头,唐正,军务,务院,院撫,撫军,军长,长唐,唐继,继尧,尧正,正面,面像,像拥,拥护,护共,共和,和纪,纪念,念库,库平,平三,三钱,钱六,六分,分银,银元"
+    },
     {
       "coinName": "军务院撫军长唐继尧正面像拥护共和纪念库平三钱六分银元",
       "normalizedBoxCode": "8581344001",

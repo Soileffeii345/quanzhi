@@ -1,0 +1,31 @@
+{
+  "coinName": "清-雍正通宝宝泉",
+  "slug": "69ba291c",
+  "saleCount": 1,
+  "keywords": "清雍,雍正,正通,通宝,宝宝,宝泉",
+  "priceStats": {
+    "low": 790,
+    "high": 790,
+    "avg": 790,
+    "latest": 790
+  },
+  "records": [
+    {
+      "coinName": "清-雍正通宝宝泉",
+      "normalizedBoxCode": "89648155",
+      "displayBoxCode": "89648155",
+      "gradingCompany": "PCGS",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/guqian/10518696.shtml",
+      "officialCertUrl": "https://cn.pcgs.com/cert/89648155",
+      "price": 790,
+      "priceWithFee": 869,
+      "transactedAt": "2026-10-12 21:02:05",
+      "productCode": "889537001",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "清雍,雍正,正通,通宝,宝宝,宝泉"
+    }
+  ]
+}

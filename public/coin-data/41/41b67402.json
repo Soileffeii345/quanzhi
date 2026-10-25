@@ -1,0 +1,31 @@
+{
+  "coinName": "民国-福寿双全连体钱银质",
+  "slug": "41b67402",
+  "saleCount": 1,
+  "keywords": "银,历史币,民国,国福,福寿,寿双,双全,全连,连体,体钱,钱银,银质",
+  "priceStats": {
+    "low": 1120,
+    "high": 1120,
+    "avg": 1120,
+    "latest": 1120
+  },
+  "records": [
+    {
+      "coinName": "民国-福寿双全连体钱银质",
+      "normalizedBoxCode": "1120620546",
+      "displayBoxCode": "1120620-546",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/guqian/10515349.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1120620-546/",
+      "price": 1120,
+      "priceWithFee": 1232,
+      "transactedAt": "2026-10-12 21:43:35",
+      "productCode": "889183008",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,历史币,民国,国福,福寿,寿双,双全,全连,连体,体钱,钱银,银质"
+    }
+  ]
+}

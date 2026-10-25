@@ -1,0 +1,48 @@
+{
+  "coinName": "1977年荷兰纸钞",
+  "slug": "26a5f1b2",
+  "saleCount": 2,
+  "keywords": "钞,1977年,年荷,荷兰,兰纸,纸钞",
+  "priceStats": {
+    "low": 950,
+    "high": 950,
+    "avg": 950,
+    "latest": 950
+  },
+  "records": [
+    {
+      "coinName": "1977年荷兰纸钞",
+      "normalizedBoxCode": "4713705063",
+      "displayBoxCode": "4713705-063",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10543474.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/4713705-063/",
+      "price": 950,
+      "priceWithFee": 1054.5,
+      "transactedAt": "2026-10-13 22:15:55",
+      "productCode": "892578007",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,1977年,年荷,荷兰,兰纸,纸钞"
+    },
+    {
+      "coinName": "1977年荷兰纸钞",
+      "normalizedBoxCode": "8051808010",
+      "displayBoxCode": "8051808-010",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10543474.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8051808-010/",
+      "price": 950,
+      "priceWithFee": 1054.5,
+      "transactedAt": "2026-10-13 22:15:55",
+      "productCode": "892578007",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,1977年,年荷,荷兰,兰纸,纸钞"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "89648155",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "89648155",
+      "displayBoxCode": "89648155",
+      "gradingCompany": "PCGS",
+      "grade": "待复核",
+      "coinName": "清-雍正通宝宝泉",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/guqian/10518696.shtml",
+      "officialCertUrl": "https://cn.pcgs.com/cert/89648155",
+      "price": 790,
+      "priceWithFee": 869,
+      "transactedAt": "2026-10-12 21:02:05",
+      "productCode": "889537001",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/37/889537001A.jpg",
+      "ocrConfidence": 33,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "清雍,雍正,正通,通宝,宝宝,宝泉"
+    }
+  ]
+}

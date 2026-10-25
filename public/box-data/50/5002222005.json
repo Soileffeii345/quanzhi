@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "5002222005",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "5002222005",
+      "displayBoxCode": "5002222-005",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "第一版人民币工农10元票样",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/diyibanrenminbi/10563868.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/5002222-005/",
+      "price": 7800,
+      "priceWithFee": 8580,
+      "transactedAt": "2026-10-15 21:59:35",
+      "productCode": "895293006",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/41/895293006B.jpg",
+      "ocrConfidence": 28,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,钞,第一,一版,版人,人民,民币,币工,工农,农元,元票,票样"
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-20T04:05:43.853Z",
-  "totalCoins": 2857,
-  "totalSales": 10777,
+  "generatedAt": "2026-10-25T02:07:37.343Z",
+  "totalCoins": 2867,
+  "totalSales": 10800,
   "coins": [
     {
       "coinName": "2025年中国龙31.104克普制银币",
@@ -206,10 +206,10 @@
     {
       "coinName": "第三版人民币5元",
       "slug": "0d15a046",
-      "saleCount": 44,
+      "saleCount": 46,
       "keywords": "币,第三,三版,版人,人民,民币,币元,元二,二枚,金,元金,金浅,浅版",
-      "latestPrice": 620,
-      "latestDate": "2026-10-05 19:16:00",
+      "latestPrice": 320,
+      "latestDate": "2026-10-17 22:12:40",
       "priceLow": 240,
       "priceHigh": 9200
     },
@@ -264,6 +264,16 @@
       "priceHigh": 9400
     },
     {
+      "coinName": "1979年银币",
+      "slug": "4a432caa",
+      "saleCount": 36,
+      "keywords": "银,钞,1979年,年中,中国,国银,银行,行外,外汇,汇兑,兑换,换券,券壹,壹圆,圆票,票样,券伍,伍拾,拾圆,伍圆,券元,券角,角五,五星,星水,水印,壹角,角火,火炬,炬水,圆拾,圆各,各一,一枚,元票,券拾,印票,币,年儿,儿童,童年,年浇,浇花,花银,银币,币无,无标",
+      "latestPrice": 690,
+      "latestDate": "2026-10-17 22:16:10",
+      "priceLow": 35,
+      "priceHigh": 6000
+    },
+    {
       "coinName": "1983年长城币",
       "slug": "6b6cd044",
       "saleCount": 36,
@@ -272,16 +282,6 @@
       "latestDate": "2026-08-05 19:29:35",
       "priceLow": 250,
       "priceHigh": 2400
-    },
-    {
-      "coinName": "1979年银币",
-      "slug": "4a432caa",
-      "saleCount": 35,
-      "keywords": "银,钞,1979年,年中,中国,国银,银行,行外,外汇,汇兑,兑换,换券,券伍,伍拾,拾圆,圆票,票样,伍圆,券元,券角,角五,五星,星水,水印,券壹,壹角,角火,火炬,炬水,圆拾,圆各,各一,一枚,壹圆,元票,券拾,印票,币,年儿,儿童,童年,年浇,浇花,花银,银币,币无,无标",
-      "latestPrice": 1080,
-      "latestDate": "2026-08-11 20:15:35",
-      "priceLow": 35,
-      "priceHigh": 6000
     },
     {
       "coinName": "1995年奥运会3盎司金币",
@@ -544,6 +544,16 @@
       "priceHigh": 820
     },
     {
+      "coinName": "2025年吉祥文化30克精制银币",
+      "slug": "0d8c69ba",
+      "saleCount": 22,
+      "keywords": "银,币,2025年,30克,吉祥文化,年吉,吉祥,祥文,文化,化永,永结,结同,同心,心克,克心,心形,形精,精制,制银,银币,评级,克精,化瑞,瑞气,气盈,盈门,门克,克方,方孔,孔圆,圆形",
+      "latestPrice": 1680,
+      "latestDate": "2026-10-12 20:00:10",
+      "priceLow": 1540,
+      "priceHigh": 3000
+    },
+    {
       "coinName": "1984年精制",
       "slug": "4a4f5c43",
       "saleCount": 22,
@@ -592,16 +602,6 @@
       "latestDate": "2026-08-11 19:54:35",
       "priceLow": 170,
       "priceHigh": 720
-    },
-    {
-      "coinName": "2025年吉祥文化30克精制银币",
-      "slug": "0d8c69ba",
-      "saleCount": 21,
-      "keywords": "银,币,2025年,30克,吉祥文化,年吉,吉祥,祥文,文化,化永,永结,结同,同心,心克,克精,精制,制银,银币,评级,克心,心形,形精,化瑞,瑞气,气盈,盈门,门克,克方,方孔,孔圆,圆形",
-      "latestPrice": 2450,
-      "latestDate": "2026-08-08 20:16:10",
-      "priceLow": 1540,
-      "priceHigh": 3000
     },
     {
       "coinName": "2016年熊猫30克银币",
@@ -674,6 +674,16 @@
       "priceHigh": 380
     },
     {
+      "coinName": "第二版人民币水库5角浅版有水印",
+      "slug": "6de7e547",
+      "saleCount": 19,
+      "keywords": "币,第二,二版,版人,人民,民币,币水,水库,库角,角浅,浅版,版有,有水,水印,印二,二枚",
+      "latestPrice": 300,
+      "latestDate": "2026-10-17 22:12:10",
+      "priceLow": 240,
+      "priceHigh": 560
+    },
+    {
       "coinName": "第四套/第四版人民币1980年版2角",
       "slug": "784ab55f",
       "saleCount": 19,
@@ -742,16 +752,6 @@
       "latestDate": "2026-02-05 00:17:09",
       "priceLow": 2100,
       "priceHigh": 4850
-    },
-    {
-      "coinName": "第二版人民币水库5角浅版有水印",
-      "slug": "6de7e547",
-      "saleCount": 18,
-      "keywords": "币,第二,二版,版人,人民,民币,币水,水库,库角,角浅,浅版,版有,有水,水印,印二,二枚",
-      "latestPrice": 280,
-      "latestDate": "2026-07-30 20:45:40",
-      "priceLow": 240,
-      "priceHigh": 560
     },
     {
       "coinName": "1949年银币",
@@ -1154,6 +1154,16 @@
       "priceHigh": 3800
     },
     {
+      "coinName": "第四套/第四版人民币1980年版50元",
+      "slug": "7e6ffe9d",
+      "saleCount": 13,
+      "keywords": "币,1980年,第四,四套,套第,四版,版人,人民,民币,币年,年版,版元",
+      "latestPrice": 1540,
+      "latestDate": "2026-10-15 22:04:35",
+      "priceLow": 550,
+      "priceHigh": 3500
+    },
+    {
       "coinName": "2008年奥运会",
       "slug": "473e69ee",
       "saleCount": 13,
@@ -1292,16 +1302,6 @@
       "latestDate": "2026-06-06 08:55:12",
       "priceLow": 200,
       "priceHigh": 18325
-    },
-    {
-      "coinName": "第四套/第四版人民币1980年版50元",
-      "slug": "7e6ffe9d",
-      "saleCount": 12,
-      "keywords": "币,1980年,第四,四套,套第,四版,版人,人民,民币,币年,年版,版元",
-      "latestPrice": 3050,
-      "latestDate": "2026-10-05 19:24:20",
-      "priceLow": 550,
-      "priceHigh": 3500
     },
     {
       "coinName": "1980年中国硬币伍分",
@@ -1644,6 +1644,16 @@
       "priceHigh": 870
     },
     {
+      "coinName": "第三版人民币背绿1角",
+      "slug": "0fbacc24",
+      "saleCount": 10,
+      "keywords": "币,第三,三版,版人,人民,民币,币背,背绿,绿角",
+      "latestPrice": 3050,
+      "latestDate": "2026-10-17 21:19:40",
+      "priceLow": 2350,
+      "priceHigh": 3900
+    },
+    {
       "coinName": "第三版人民币1角蓝冠3罗马",
       "slug": "557b567c",
       "saleCount": 10,
@@ -1832,16 +1842,6 @@
       "latestDate": "2026-08-06 21:51:25",
       "priceLow": 2750,
       "priceHigh": 72000
-    },
-    {
-      "coinName": "第三版人民币背绿1角",
-      "slug": "0fbacc24",
-      "saleCount": 9,
-      "keywords": "币,第三,三版,版人,人民,民币,币背,背绿,绿角",
-      "latestPrice": 2400,
-      "latestDate": "2026-08-08 20:17:20",
-      "priceLow": 2350,
-      "priceHigh": 3900
     },
     {
       "coinName": "2004年3盎司金币",
@@ -3814,6 +3814,16 @@
       "priceHigh": 940
     },
     {
+      "coinName": "第二版人民币轮船5分",
+      "slug": "6bf952cd",
+      "saleCount": 5,
+      "keywords": "币,第二,二版,版人,人民,民币,币轮,轮船,船分",
+      "latestPrice": 970,
+      "latestDate": "2026-10-17 21:57:40",
+      "priceLow": 970,
+      "priceHigh": 4800
+    },
+    {
       "coinName": "2008年7.776克金币",
       "slug": "6a6ac3d7",
       "saleCount": 5,
@@ -4772,16 +4782,6 @@
       "latestDate": "2026-07-30 21:38:10",
       "priceLow": 3000,
       "priceHigh": 10200
-    },
-    {
-      "coinName": "第二版人民币轮船5分",
-      "slug": "6bf952cd",
-      "saleCount": 4,
-      "keywords": "币,第二,二版,版人,人民,民币,币轮,轮船,船分",
-      "latestPrice": 1340,
-      "latestDate": "2026-08-01 21:40:25",
-      "priceLow": 1340,
-      "priceHigh": 4800
     },
     {
       "coinName": "第二版人民币水库5角深版无水印",
@@ -6372,6 +6372,16 @@
       "latestDate": "2026-08-24 19:40:35",
       "priceLow": 1660,
       "priceHigh": 3650
+    },
+    {
+      "coinName": "军务院撫军长唐继尧正面像拥护共和纪念库平三钱六分银元",
+      "slug": "1d4bf1d5",
+      "saleCount": 3,
+      "keywords": "银,唐头,唐正,军务,务院,院撫,撫军,军长,长唐,唐继,继尧,尧正,正面,面像,像拥,拥护,护共,共和,和纪,纪念,念库,库平,平三,三钱,钱六,六分,分银,银元",
+      "latestPrice": 2250,
+      "latestDate": "2026-10-12 19:53:35",
+      "priceLow": 2000,
+      "priceHigh": 3400
     },
     {
       "coinName": "2025年第十三届香港国际钱币联合展销会、大开门app线上专场、世界钱币及纸币、上海拍卖行2024年秋季钱币拍卖会、",
@@ -8854,6 +8864,16 @@
       "priceHigh": 1020
     },
     {
+      "coinName": "明-兴朝通宝壹分",
+      "slug": "3af46359",
+      "saleCount": 2,
+      "keywords": "明兴,兴朝,朝通,通宝,宝壹,壹分",
+      "latestPrice": 830,
+      "latestDate": "2026-10-12 21:28:35",
+      "priceLow": 830,
+      "priceHigh": 1300
+    },
+    {
       "coinName": "清-乾隆通宝、道光通宝、嘉庆通宝各3枚",
       "slug": "53aaa042",
       "saleCount": 2,
@@ -10034,6 +10054,16 @@
       "priceHigh": 1200
     },
     {
+      "coinName": "1921年26.73克银币",
+      "slug": "5d42ffb8",
+      "saleCount": 2,
+      "keywords": "银,币,1921年,26.73克,年美,美国,国摩,摩根,根克,克银,银币,外国/特区",
+      "latestPrice": 660,
+      "latestDate": "2026-10-23 19:01:05",
+      "priceLow": 660,
+      "priceHigh": 820
+    },
+    {
       "coinName": "1942年银币",
       "slug": "4a090c80",
       "saleCount": 2,
@@ -11104,6 +11134,16 @@
       "priceHigh": 1600
     },
     {
+      "coinName": "1977年荷兰纸钞",
+      "slug": "26a5f1b2",
+      "saleCount": 2,
+      "keywords": "钞,1977年,年荷,荷兰,兰纸,纸钞",
+      "latestPrice": 950,
+      "latestDate": "2026-10-13 22:15:55",
+      "priceLow": 950,
+      "priceHigh": 950
+    },
+    {
       "coinName": "1989年22克银币",
       "slug": "161a04da",
       "saleCount": 2,
@@ -11402,6 +11442,16 @@
       "latestDate": "2025-09-03 06:12:13",
       "priceLow": 6245,
       "priceHigh": 6650
+    },
+    {
+      "coinName": "1985年中国硬币贰分",
+      "slug": "4630d21d",
+      "saleCount": 2,
+      "keywords": "币,1985年,年中,中国,国硬,硬币,币贰,贰分",
+      "latestPrice": 320,
+      "latestDate": "2026-10-21 20:32:40",
+      "priceLow": 95,
+      "priceHigh": 320
     },
     {
       "coinName": "2000年京剧31.104克银币",
@@ -12372,16 +12422,6 @@
       "latestDate": "2026-06-07 09:24:20",
       "priceLow": 25860,
       "priceHigh": 30110
-    },
-    {
-      "coinName": "军务院撫军长唐继尧正面像拥护共和纪念库平三钱六分银元",
-      "slug": "1d4bf1d5",
-      "saleCount": 2,
-      "keywords": "银,唐头,唐正,军务,务院,院撫,撫军,军长,长唐,唐继,继尧,尧正,正面,面像,像拥,拥护,护共,共和,和纪,纪念,念库,库平,平三,三钱,钱六,六分,分银,银元",
-      "latestPrice": 2000,
-      "latestDate": "2026-08-03 19:47:35",
-      "priceLow": 2000,
-      "priceHigh": 3400
     },
     {
       "coinName": "2021年3克金币",
@@ -13804,16 +13844,6 @@
       "priceHigh": 1780
     },
     {
-      "coinName": "明-兴朝通宝壹分",
-      "slug": "3af46359",
-      "saleCount": 1,
-      "keywords": "明兴,兴朝,朝通,通宝,宝壹,壹分",
-      "latestPrice": 1300,
-      "latestDate": "2026-08-10 21:22:35",
-      "priceLow": 1300,
-      "priceHigh": 1300
-    },
-    {
       "coinName": "明-天启通宝十一两",
       "slug": "7d0a350c",
       "saleCount": 1,
@@ -13922,6 +13952,26 @@
       "latestDate": "2026-08-10 21:05:05",
       "priceLow": 310,
       "priceHigh": 310
+    },
+    {
+      "coinName": "清-阿弥陀佛挂花六字箴言",
+      "slug": "1bd2a001",
+      "saleCount": 1,
+      "keywords": "宗教,清阿,阿弥,弥陀,陀佛,佛挂,挂花,花六,六字,字箴,箴言",
+      "latestPrice": 1140,
+      "latestDate": "2026-10-12 21:21:35",
+      "priceLow": 1140,
+      "priceHigh": 1140
+    },
+    {
+      "coinName": "民国-福寿双全连体钱银质",
+      "slug": "41b67402",
+      "saleCount": 1,
+      "keywords": "银,历史币,民国,国福,福寿,寿双,双全,全连,连体,体钱,钱银,银质",
+      "latestPrice": 1120,
+      "latestDate": "2026-10-12 21:43:35",
+      "priceLow": 1120,
+      "priceHigh": 1120
     },
     {
       "coinName": "清-道光通宝宝泉大样",
@@ -14622,6 +14672,16 @@
       "latestDate": "2026-06-27 21:45:25",
       "priceLow": 150,
       "priceHigh": 150
+    },
+    {
+      "coinName": "第一版人民币渭河桥5000元票样",
+      "slug": "0ec118d1",
+      "saleCount": 1,
+      "keywords": "币,钞,第一,一版,版人,人民,民币,币渭,渭河,河桥,桥元,元票,票样",
+      "latestPrice": 34000,
+      "latestDate": "2026-10-15 21:59:05",
+      "priceLow": 34000,
+      "priceHigh": 34000
     },
     {
       "coinName": "第三版人民币5角平版无水印连号",
@@ -16322,6 +16382,16 @@
       "latestDate": "2026-07-30 21:57:10",
       "priceLow": 2400,
       "priceHigh": 2400
+    },
+    {
+      "coinName": "民国二十二年察哈尔商业钱局张家口地名贰拾枚、民国三十二年中央储备银行伍百圆",
+      "slug": "3753be60",
+      "saleCount": 1,
+      "keywords": "银,历史币,民国,国二,二十,十二,二年,年察,察哈,哈尔,尔商,商业,业钱,钱局,局张,张家,家口,口地,地名,名贰,贰拾,拾枚,枚民,国三,三十,年中,中央,央储,储备,备银,银行,行伍,伍百,百圆,圆各,各一,一枚,枚共,共二,二枚",
+      "latestPrice": 10000,
+      "latestDate": "2026-10-15 22:03:05",
+      "priceLow": 10000,
+      "priceHigh": 10000
     },
     {
       "coinName": "1965年银币",
@@ -18934,6 +19004,16 @@
       "priceHigh": 16000
     },
     {
+      "coinName": "1982年荷兰纸钞",
+      "slug": "1aaa7fea",
+      "saleCount": 1,
+      "keywords": "钞,1982年,年荷,荷兰,兰纸,纸钞",
+      "latestPrice": 820,
+      "latestDate": "2026-10-13 22:21:20",
+      "priceLow": 820,
+      "priceHigh": 820
+    },
+    {
       "coinName": "1994年麒麟31.104克精制金币",
       "slug": "19925347",
       "saleCount": 1,
@@ -19244,6 +19324,16 @@
       "priceHigh": 7700
     },
     {
+      "coinName": "1998年生肖3盎司精制银币",
+      "slug": "27732793",
+      "saleCount": 1,
+      "keywords": "银,币,1998年,3盎司,生肖,年戊,戊寅,寅虎,虎年,年生,肖盎,盎司,司梅,梅花,花形,形精,精制,制银,银币,评级",
+      "latestPrice": 1360,
+      "latestDate": "2026-10-12 21:37:40",
+      "priceLow": 1360,
+      "priceHigh": 1360
+    },
+    {
       "coinName": "1987年精制银币",
       "slug": "22aa849d",
       "saleCount": 1,
@@ -19362,6 +19452,16 @@
       "latestDate": "2023-04-12 16:55:43",
       "priceLow": 4150,
       "priceHigh": 4150
+    },
+    {
+      "coinName": "2014年30克银币",
+      "slug": "0b259ac5",
+      "saleCount": 1,
+      "keywords": "银,章,2014年,30克,年中,中国,国花,花钱,钱精,精品,品系,系列,列唯,唯善,善呈,呈和,和克,克银,银章",
+      "latestPrice": 780,
+      "latestDate": "2026-10-12 19:55:40",
+      "priceLow": 780,
+      "priceHigh": 780
     },
     {
       "coinName": "上海造币有限公司发行2014年黄山风光铜章",
@@ -20694,6 +20794,16 @@
       "priceHigh": 880
     },
     {
+      "coinName": "第一版人民币工农10元票样",
+      "slug": "4f0634c9",
+      "saleCount": 1,
+      "keywords": "币,钞,第一,一版,版人,人民,民币,币工,工农,农元,元票,票样",
+      "latestPrice": 7800,
+      "latestDate": "2026-10-15 21:59:35",
+      "priceLow": 7800,
+      "priceHigh": 7800
+    },
+    {
       "coinName": "第四套/第四版人民币1980年版2元32枚、1990年版2元一枚，共33枚",
       "slug": "62b20cf5",
       "saleCount": 1,
@@ -20992,16 +21102,6 @@
       "latestDate": "2025-07-11 18:03:54",
       "priceLow": 9120,
       "priceHigh": 9120
-    },
-    {
-      "coinName": "1985年中国硬币贰分",
-      "slug": "4630d21d",
-      "saleCount": 1,
-      "keywords": "币,1985年,年中,中国,国硬,硬币,币贰,贰分",
-      "latestPrice": 95,
-      "latestDate": "2026-08-05 20:40:05",
-      "priceLow": 95,
-      "priceHigh": 95
     },
     {
       "coinName": "2017年龙凤金币",
@@ -23152,16 +23252,6 @@
       "latestDate": "2025-08-26 16:59:53",
       "priceLow": 1450,
       "priceHigh": 1450
-    },
-    {
-      "coinName": "1921年26.73克银币",
-      "slug": "5d42ffb8",
-      "saleCount": 1,
-      "keywords": "银,币,1921年,26.73克,年美,美国,国摩,摩根,根克,克银,银币,外国/特区",
-      "latestPrice": 820,
-      "latestDate": "2026-07-27 20:44:05",
-      "priceLow": 820,
-      "priceHigh": 820
     },
     {
       "coinName": "2023年吉祥文化30克精制银币",
@@ -28402,6 +28492,16 @@
       "latestDate": "2026-07-20 19:17:05",
       "priceLow": 2150,
       "priceHigh": 2150
+    },
+    {
+      "coinName": "清-雍正通宝宝泉",
+      "slug": "69ba291c",
+      "saleCount": 1,
+      "keywords": "清雍,雍正,正通,通宝,宝宝,宝泉",
+      "latestPrice": 790,
+      "latestDate": "2026-10-12 21:02:05",
+      "priceLow": 790,
+      "priceHigh": 790
     },
     {
       "coinName": "清 顺治通宝东一厘",

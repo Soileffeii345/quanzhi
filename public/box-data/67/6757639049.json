@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "6757639049",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "6757639049",
+      "displayBoxCode": "6757639-049",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1985年中国硬币贰分",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10567206.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/6757639-049/",
+      "price": 320,
+      "priceWithFee": 345.6,
+      "transactedAt": "2026-10-21 20:32:40",
+      "productCode": "895830002",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/41/895830002A.jpg",
+      "ocrConfidence": 34,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,1985年,年中,中国,国硬,硬币,币贰,贰分"
+    }
+  ]
+}

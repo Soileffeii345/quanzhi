@@ -1,15 +1,32 @@
 {
   "coinName": "第三版人民币背绿1角",
   "slug": "0fbacc24",
-  "saleCount": 9,
+  "saleCount": 10,
   "keywords": "币,第三,三版,版人,人民,民币,币背,背绿,绿角",
   "priceStats": {
     "low": 2350,
     "high": 3900,
-    "avg": 2844,
-    "latest": 2400
+    "avg": 2865,
+    "latest": 3050
   },
   "records": [
+    {
+      "coinName": "第三版人民币背绿1角",
+      "normalizedBoxCode": "2066628011",
+      "displayBoxCode": "2066628-011",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/disanbanrenminbi/10531152.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2066628-011/",
+      "price": 3050,
+      "priceWithFee": 3294,
+      "transactedAt": "2026-10-17 21:19:40",
+      "productCode": "890856003",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,第三,三版,版人,人民,民币,币背,背绿,绿角"
+    },
     {
       "coinName": "第三版人民币背绿1角",
       "normalizedBoxCode": "8044256007",

@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "2066628011",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "2066628011",
+      "displayBoxCode": "2066628-011",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "第三版人民币背绿1角",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/disanbanrenminbi/10531152.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2066628-011/",
+      "price": 3050,
+      "priceWithFee": 3294,
+      "transactedAt": "2026-10-17 21:19:40",
+      "productCode": "890856003",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/38/890856003B.jpg",
+      "ocrConfidence": 37,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "币,第三,三版,版人,人民,民币,币背,背绿,绿角"
+    }
+  ]
+}

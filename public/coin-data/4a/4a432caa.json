@@ -1,15 +1,32 @@
 {
   "coinName": "1979年银币",
   "slug": "4a432caa",
-  "saleCount": 35,
-  "keywords": "银,钞,1979年,年中,中国,国银,银行,行外,外汇,汇兑,兑换,换券,券伍,伍拾,拾圆,圆票,票样,伍圆,券元,券角,角五,五星,星水,水印,券壹,壹角,角火,火炬,炬水,圆拾,圆各,各一,一枚,壹圆,元票,券拾,印票,币,年儿,儿童,童年,年浇,浇花,花银,银币,币无,无标",
+  "saleCount": 36,
+  "keywords": "银,钞,1979年,年中,中国,国银,银行,行外,外汇,汇兑,兑换,换券,券壹,壹圆,圆票,票样,券伍,伍拾,拾圆,伍圆,券元,券角,角五,五星,星水,水印,壹角,角火,火炬,炬水,圆拾,圆各,各一,一枚,元票,券拾,印票,币,年儿,儿童,童年,年浇,浇花,花银,银币,币无,无标",
   "priceStats": {
     "low": 35,
     "high": 6000,
-    "avg": 762,
-    "latest": 1080
+    "avg": 760,
+    "latest": 690
   },
   "records": [
+    {
+      "coinName": "1979年中国银行外汇兑换券壹圆票样",
+      "normalizedBoxCode": "1882811077",
+      "displayBoxCode": "1882811-077",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waihuiduihuanquan/10567355.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/1882811-077/",
+      "price": 690,
+      "priceWithFee": 745.2,
+      "transactedAt": "2026-10-17 22:16:10",
+      "productCode": "895526018",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "银,钞,1979年,年中,中国,国银,银行,行外,外汇,汇兑,兑换,换券,券壹,壹圆,圆票,票样"
+    },
     {
       "coinName": "1979年中国银行外汇兑换券伍拾圆票样",
       "normalizedBoxCode": "2572223090",

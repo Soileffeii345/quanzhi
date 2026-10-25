@@ -1,0 +1,31 @@
+{
+  "coinName": "1982年荷兰纸钞",
+  "slug": "1aaa7fea",
+  "saleCount": 1,
+  "keywords": "钞,1982年,年荷,荷兰,兰纸,纸钞",
+  "priceStats": {
+    "low": 820,
+    "high": 820,
+    "avg": 820,
+    "latest": 820
+  },
+  "records": [
+    {
+      "coinName": "1982年荷兰纸钞",
+      "normalizedBoxCode": "2895911883",
+      "displayBoxCode": "2895911-883",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10543399.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/2895911-883/",
+      "price": 820,
+      "priceWithFee": 910.2,
+      "transactedAt": "2026-10-13 22:21:20",
+      "productCode": "892451020",
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,1982年,年荷,荷兰,兰纸,纸钞"
+    }
+  ]
+}

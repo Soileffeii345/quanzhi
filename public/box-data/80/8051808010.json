@@ -1,0 +1,26 @@
+{
+  "ok": true,
+  "query": "8051808010",
+  "match": "exact",
+  "records": [
+    {
+      "normalizedBoxCode": "8051808010",
+      "displayBoxCode": "8051808-010",
+      "gradingCompany": "NGC",
+      "grade": "待复核",
+      "coinName": "1977年荷兰纸钞",
+      "platform": "赵涌在线",
+      "detailUrl": "https://zhaoonline.com/waiguozhichao/10543474.shtml",
+      "officialCertUrl": "https://www.ngccoin.com/certlookup/8051808-010/",
+      "price": 950,
+      "priceWithFee": 1054.5,
+      "transactedAt": "2026-10-13 22:15:55",
+      "productCode": "892578007",
+      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/39/892578007B.jpg",
+      "ocrConfidence": 37,
+      "verificationStatus": "official_pending",
+      "saleStatus": "已售",
+      "keywords": "钞,1977年,年荷,荷兰,兰纸,纸钞"
+    }
+  ]
+}
