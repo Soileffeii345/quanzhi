@@ -1,12 +1,12 @@
 {
   "coinName": "2026年中国龙31.104克普制银币",
   "slug": "03723c0d",
-  "saleCount": 185,
+  "saleCount": 184,
   "keywords": "银,币,2026年,31.104克,年中,中国,国龙,龙克,克普,普制,制银,银币,币龙,龙的,的奇,奇迹,迹智,智能,能卡,币卡,卡册,龙腾,腾献,献瑞,瑞智,金,币金,金总,总封,封装,装智",
   "priceStats": {
     "low": 580,
     "high": 5700,
-    "avg": 1018,
+    "avg": 1005,
     "latest": 1560
   },
   "records": [
@@ -2474,23 +2474,6 @@
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "银,币,2026年,31.104克,年中,中国,国龙,龙克,克普,普制,制银,银币"
-    },
-    {
-      "coinName": "2026年中国龙31.104克普制银币（卡册）",
-      "normalizedBoxCode": "8381818205",
-      "displayBoxCode": "8381818-205",
-      "gradingCompany": "NGC",
-      "grade": "MS 70",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10378896.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/8381818-205/70/",
-      "price": 3250,
-      "priceWithFee": 3363.75,
-      "transactedAt": "2026-07-02 20:30:50",
-      "productCode": "872399007",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "银,币,2026年,31.104克,年中,中国,国龙,龙克,克普,普制,制银,银币,币卡,卡册"
     },
     {
       "coinName": "2026年中国龙31.104克普制银币",

@@ -1,7 +1,7 @@
 {
   "coinName": "1995年15.552克精制银币",
   "slug": "37abff37",
-  "saleCount": 3,
+  "saleCount": 2,
   "keywords": "银,币,1995年,2盎司,年妈,妈祖,祖盎,盎司,司精,精制,制银,银币,评级",
   "priceStats": {
     "low": 1300,
@@ -40,23 +40,6 @@
       "priceWithFee": 1511.1,
       "transactedAt": "2026-07-20 21:06:40",
       "productCode": "875918015",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "银,币,1995年,2盎司,年妈,妈祖,祖盎,盎司,司精,精制,制银,银币,评级"
-    },
-    {
-      "coinName": "1995年妈祖1/2盎司精制银币",
-      "normalizedBoxCode": "8192950007",
-      "displayBoxCode": "8192950-007",
-      "gradingCompany": "NGC",
-      "grade": "PF 69 ULTRA CAMEO",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10369427.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/8192950-007/69/",
-      "price": 1380,
-      "priceWithFee": 1428.3,
-      "transactedAt": "2026-07-02 20:22:10",
-      "productCode": "871149007",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "银,币,1995年,2盎司,年妈,妈祖,祖盎,盎司,司精,精制,制银,银币,评级"

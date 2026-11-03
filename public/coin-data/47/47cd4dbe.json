@@ -1,12 +1,12 @@
 {
   "coinName": "2025年15克精制银币",
   "slug": "47cd4dbe",
-  "saleCount": 18,
+  "saleCount": 16,
   "keywords": "银,币,2025年,15克,年国,国家,家宝,宝藏,藏统,统一,一气,气象,象克,克精,精制,制银,银币,币三,三枚,枚一,一套,评级,象击,击鼓,鼓说,说唱,唱俑,俑克",
   "priceStats": {
     "low": 500,
     "high": 4150,
-    "avg": 3558,
+    "avg": 3494,
     "latest": 4050
   },
   "records": [
@@ -278,40 +278,6 @@
       "priceWithFee": 4295.25,
       "transactedAt": "2026-07-04 19:34:35",
       "productCode": "872533004",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "银,币,2025年,15克,年国,国家,家宝,宝藏,藏统,统一,一气,气象,象克,克精,精制,制银,银币,币三,三枚,枚一,一套,评级"
-    },
-    {
-      "coinName": "2025年国家宝藏（统一气象）15克精制银币三枚一套",
-      "normalizedBoxCode": "5610200023",
-      "displayBoxCode": "5610200-023",
-      "gradingCompany": "NGC",
-      "grade": "PF70 ULTRA CAMEO",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10379516.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/5610200-023/70/",
-      "price": 4100,
-      "priceWithFee": 4243.5,
-      "transactedAt": "2026-07-02 20:25:30",
-      "productCode": "872428004",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "银,币,2025年,15克,年国,国家,家宝,宝藏,藏统,统一,一气,气象,象克,克精,精制,制银,银币,币三,三枚,枚一,一套,评级"
-    },
-    {
-      "coinName": "2025年国家宝藏（统一气象）15克精制银币三枚一套",
-      "normalizedBoxCode": "8602933041",
-      "displayBoxCode": "8602933-041",
-      "gradingCompany": "NGC",
-      "grade": "PF 70 ULTRA CAMEO",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10379515.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/8602933-041/70/",
-      "price": 4050,
-      "priceWithFee": 4191.75,
-      "transactedAt": "2026-07-02 20:14:10",
-      "productCode": "872428003",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "银,币,2025年,15克,年国,国家,家宝,宝藏,藏统,统一,一气,气象,象克,克精,精制,制银,银币,币三,三枚,枚一,一套,评级"

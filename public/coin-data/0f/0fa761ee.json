@@ -1,12 +1,12 @@
 {
   "coinName": "2025年中国龙31.104克普制银币",
   "slug": "0fa761ee",
-  "saleCount": 358,
+  "saleCount": 357,
   "keywords": "银,币,2025年,31.104克,年中,中国,国龙,龙克,克普,普制,制银,银币,币卡,卡册,币二,二枚,枚卡,币新,新千,千里,里江,江山,山图,图智,智能,能卡,年第,第十,十五,五届,届全,全国,国运,运动,动会,会中,龙加,加字,字克,币第,会纪,纪念,念券,券各,各一,一枚,枚共,共二,枚广,广东,东卡,币三,三枚,币深,深圳,圳国,国宝,宝造,造币,币有,有限,限公,公司,司封,封装,装智,金,币金,金总,总封,币龙,龙的,的奇,奇迹,迹智,枚金",
   "priceStats": {
     "low": 600,
     "high": 7300,
-    "avg": 1255,
+    "avg": 1253,
     "latest": 1320
   },
   "records": [
@@ -4599,23 +4599,6 @@
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "银,币,2025年,31.104克,年中,中国,国龙,龙克,克普,普制,制银,银币"
-    },
-    {
-      "coinName": "2025年中国龙31.104克普制银币（卡册）",
-      "normalizedBoxCode": "8671925028",
-      "displayBoxCode": "8671925-028",
-      "gradingCompany": "NGC",
-      "grade": "MS 69",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10378899.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/8671925-028/69/",
-      "price": 2100,
-      "priceWithFee": 2173.5,
-      "transactedAt": "2026-07-02 20:31:30",
-      "productCode": "872399010",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "银,币,2025年,31.104克,年中,中国,国龙,龙克,克普,普制,制银,银币,币卡,卡册"
     },
     {
       "coinName": "2025年中国龙31.104克普制银币二枚（金总封装智能卡）",

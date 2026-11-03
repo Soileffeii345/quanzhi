@@ -1,12 +1,12 @@
 {
   "coinName": "2003年31.104克精制银币",
   "slug": "6052dc65",
-  "saleCount": 3,
+  "saleCount": 2,
   "keywords": "银,币,2003年,1盎司,年中,中国,国民,民俗,俗春,春节,节盎,盎司,司精,精制,制银,银币,评级,国古,古典,典文,文学,学名,名著,著西,西游,游记,记第,第组,组盎,制彩,彩银,币二,二枚,枚一,一套",
   "priceStats": {
     "low": 790,
     "high": 2550,
-    "avg": 1410,
+    "avg": 1670,
     "latest": 790
   },
   "records": [
@@ -23,23 +23,6 @@
       "priceWithFee": 817.65,
       "transactedAt": "2026-07-27 19:38:40",
       "productCode": "877342014",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "银,币,2003年,1盎司,年中,中国,国民,民俗,俗春,春节,节盎,盎司,司精,精制,制银,银币,评级"
-    },
-    {
-      "coinName": "2003年中国民俗-春节1盎司精制银币",
-      "normalizedBoxCode": "4896509020",
-      "displayBoxCode": "4896509-020",
-      "gradingCompany": "NGC",
-      "grade": "PF70 ULTRA CAMEO",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10373896.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/4896509-020/70/",
-      "price": 890,
-      "priceWithFee": 921.15,
-      "transactedAt": "2026-07-02 20:17:30",
-      "productCode": "871688001",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "银,币,2003年,1盎司,年中,中国,国民,民俗,俗春,春节,节盎,盎司,司精,精制,制银,银币,评级"

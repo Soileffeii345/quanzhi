@@ -1,12 +1,12 @@
 {
   "coinName": "1991年孙中山31.104克精制银币",
   "slug": "229e8f81",
-  "saleCount": 2,
+  "saleCount": 1,
   "keywords": "银,币,1991年,1盎司,孙小头,孙中山,小头,年辛,辛亥,亥革,革命,命周,周年,年孙,孙中,中山,山立,立像,像盎,盎司,司精,精制,制银,银币,评级",
   "priceStats": {
     "low": 6100,
-    "high": 6500,
-    "avg": 6300,
+    "high": 6100,
+    "avg": 6100,
     "latest": 6100
   },
   "records": [
@@ -23,23 +23,6 @@
       "priceWithFee": 6313.5,
       "transactedAt": "2026-07-09 20:13:25",
       "productCode": "873690009",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "银,币,1991年,1盎司,孙小头,孙中山,小头,年辛,辛亥,亥革,革命,命周,周年,年孙,孙中,中山,山立,立像,像盎,盎司,司精,精制,制银,银币,评级"
-    },
-    {
-      "coinName": "1991年辛亥革命80周年-孙中山立像1盎司精制银币",
-      "normalizedBoxCode": "8757225007",
-      "displayBoxCode": "8757225-007",
-      "gradingCompany": "NGC",
-      "grade": "PF 69 ULTRA CAMEO",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10367524.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/8757225-007/69/",
-      "price": 6500,
-      "priceWithFee": 6727.5,
-      "transactedAt": "2026-07-02 20:23:30",
-      "productCode": "871168003",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "银,币,1991年,1盎司,孙小头,孙中山,小头,年辛,辛亥,亥革,革命,命周,周年,年孙,孙中,中山,山立,立像,像盎,盎司,司精,精制,制银,银币,评级"

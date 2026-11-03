@@ -1,12 +1,12 @@
 {
   "coinName": "第三版人民币1角背绿水印",
   "slug": "22c67700",
-  "saleCount": 6,
+  "saleCount": 5,
   "keywords": "币,第三,三版,版人,人民,民币,币角,角背,背绿,绿水,水印",
   "priceStats": {
     "low": 7500,
     "high": 40500,
-    "avg": 21683,
+    "avg": 22220,
     "latest": 7500
   },
   "records": [
@@ -23,23 +23,6 @@
       "priceWithFee": 8100,
       "transactedAt": "2026-07-09 19:25:10",
       "productCode": "872761009",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "币,第三,三版,版人,人民,民币,币角,角背,背绿,绿水,水印"
-    },
-    {
-      "coinName": "第三版人民币1角背绿水印",
-      "normalizedBoxCode": "2148788093",
-      "displayBoxCode": "2148788-093",
-      "gradingCompany": "NGC",
-      "grade": "待复核",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/disanbanrenminbi/10362072.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/2148788-093/",
-      "price": 19000,
-      "priceWithFee": 20520,
-      "transactedAt": "2026-07-02 20:16:05",
-      "productCode": "870608001",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "币,第三,三版,版人,人民,民币,币角,角背,背绿,绿水,水印"
