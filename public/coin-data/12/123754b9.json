@@ -1,12 +1,12 @@
 {
   "coinName": "第三版人民币5角凸版水印",
   "slug": "123754b9",
-  "saleCount": 69,
+  "saleCount": 68,
   "keywords": "币,第三,三版,版人,人民,民币,币角,角凸,凸版,版水,水印,印二,二枚",
   "priceStats": {
     "low": 75,
-    "high": 2750,
-    "avg": 287,
+    "high": 990,
+    "avg": 251,
     "latest": 160
   },
   "records": [
@@ -1128,23 +1128,6 @@
       "priceWithFee": 259.2,
       "transactedAt": "2026-07-03 19:56:50",
       "productCode": "870023001",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "币,第三,三版,版人,人民,民币,币角,角凸,凸版,版水,水印"
-    },
-    {
-      "coinName": "第三版人民币5角凸版水印",
-      "normalizedBoxCode": "1948497003",
-      "displayBoxCode": "1948497-003",
-      "gradingCompany": "NGC",
-      "grade": "待复核",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/disanbanrenminbi/10363232.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/1948497-003/",
-      "price": 2750,
-      "priceWithFee": 2970,
-      "transactedAt": "2026-07-02 19:27:05",
-      "productCode": "870542003",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "币,第三,三版,版人,人民,民币,币角,角凸,凸版,版水,水印"

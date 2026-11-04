@@ -1,12 +1,12 @@
 {
   "coinName": "第三版人民币5角平版无水印",
   "slug": "3ae25734",
-  "saleCount": 63,
+  "saleCount": 61,
   "keywords": "币,第三,三版,版人,人民,民币,币角,角平,平版,版无,无水,水印,印二,二枚",
   "priceStats": {
     "low": 60,
     "high": 4850,
-    "avg": 383,
+    "avg": 339,
     "latest": 110
   },
   "records": [
@@ -992,40 +992,6 @@
       "priceWithFee": 432,
       "transactedAt": "2026-07-03 19:28:30",
       "productCode": "869595001",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "币,第三,三版,版人,人民,民币,币角,角平,平版,版无,无水,水印"
-    },
-    {
-      "coinName": "第三版人民币5角平版无水印",
-      "normalizedBoxCode": "1948497008",
-      "displayBoxCode": "1948497-008",
-      "gradingCompany": "NGC",
-      "grade": "待复核",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/disanbanrenminbi/10363231.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/1948497-008/",
-      "price": 1960,
-      "priceWithFee": 2116.8,
-      "transactedAt": "2026-07-02 19:26:35",
-      "productCode": "870542002",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "币,第三,三版,版人,人民,民币,币角,角平,平版,版无,无水,水印"
-    },
-    {
-      "coinName": "第三版人民币5角平版无水印",
-      "normalizedBoxCode": "2060241003",
-      "displayBoxCode": "2060241-003",
-      "gradingCompany": "NGC",
-      "grade": "待复核",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/disanbanrenminbi/10363230.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/2060241-003/",
-      "price": 1500,
-      "priceWithFee": 1620,
-      "transactedAt": "2026-07-02 19:23:05",
-      "productCode": "870542001",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "币,第三,三版,版人,人民,民币,币角,角平,平版,版无,无水,水印"

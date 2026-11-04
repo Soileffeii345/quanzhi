@@ -1,12 +1,12 @@
 {
   "coinName": "2026年生肖",
   "slug": "7e211c08",
-  "saleCount": 309,
+  "saleCount": 307,
   "keywords": "钞,2026年,生肖,年马,马年,年生,肖纪,纪念,念钞,钞元,币,年丙,丙午,午马,肖流,流通,通纪,念币,元连,连号,号十,十枚,号枚,元三,三枚,元四,四枚,号二,二枚,元二,币二,年甲,甲午",
   "priceStats": {
     "low": 55,
     "high": 4450,
-    "avg": 261,
+    "avg": 255,
     "latest": 280
   },
   "records": [
@@ -4072,40 +4072,6 @@
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "钞,2026年,生肖,年马,马年,年生,肖纪,纪念,念钞,钞元,元连,连号,号十,十枚"
-    },
-    {
-      "coinName": "2026年马年生肖纪念钞20元",
-      "normalizedBoxCode": "1015969056",
-      "displayBoxCode": "1015969-056",
-      "gradingCompany": "NGC",
-      "grade": "待复核",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/liantichao-jinianchao/10366007.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/1015969-056/",
-      "price": 1240,
-      "priceWithFee": 1339.2,
-      "transactedAt": "2026-07-02 19:17:35",
-      "productCode": "870437003",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "钞,2026年,生肖,年马,马年,年生,肖纪,纪念,念钞,钞元"
-    },
-    {
-      "coinName": "2026年马年生肖纪念钞20元",
-      "normalizedBoxCode": "4016009059",
-      "displayBoxCode": "4016009-059",
-      "gradingCompany": "NGC",
-      "grade": "待复核",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/liantichao-jinianchao/10366006.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/4016009-059/",
-      "price": 1220,
-      "priceWithFee": 1317.6,
-      "transactedAt": "2026-07-02 19:00:35",
-      "productCode": "870437002",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "钞,2026年,生肖,年马,马年,年生,肖纪,纪念,念钞,钞元"
     },
     {
       "coinName": "2026年甲午马年生肖流通纪念币",

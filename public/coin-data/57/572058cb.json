@@ -1,12 +1,12 @@
 {
   "coinName": "1980年中国硬币伍分",
   "slug": "572058cb",
-  "saleCount": 12,
+  "saleCount": 11,
   "keywords": "币,1980年,年中,中国,国硬,硬币,币伍,伍分",
   "priceStats": {
     "low": 500,
     "high": 2050,
-    "avg": 943,
+    "avg": 933,
     "latest": 530
   },
   "records": [
@@ -125,23 +125,6 @@
       "priceWithFee": 810,
       "transactedAt": "2026-07-15 20:38:40",
       "productCode": "875161010",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "币,1980年,年中,中国,国硬,硬币,币伍,伍分"
-    },
-    {
-      "coinName": "1980年中国硬币伍分",
-      "normalizedBoxCode": "6053155012",
-      "displayBoxCode": "6053155-012",
-      "gradingCompany": "NGC",
-      "grade": "MS 67",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10358596.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/6053155-012/67/",
-      "price": 1060,
-      "priceWithFee": 1144.8,
-      "transactedAt": "2026-07-01 21:26:05",
-      "productCode": "869945014",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "币,1980年,年中,中国,国硬,硬币,币伍,伍分"

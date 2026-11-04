@@ -1,12 +1,12 @@
 {
   "coinName": "1980年中国硬币贰分",
   "slug": "57185648",
-  "saleCount": 8,
+  "saleCount": 7,
   "keywords": "币,1980年,年中,中国,国硬,硬币,币贰,贰分",
   "priceStats": {
     "low": 450,
-    "high": 950,
-    "avg": 711,
+    "high": 820,
+    "avg": 677,
     "latest": 560
   },
   "records": [
@@ -91,23 +91,6 @@
       "priceWithFee": 810,
       "transactedAt": "2026-07-15 21:37:50",
       "productCode": "875161009",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "币,1980年,年中,中国,国硬,硬币,币贰,贰分"
-    },
-    {
-      "coinName": "1980年中国硬币贰分",
-      "normalizedBoxCode": "6150811047",
-      "displayBoxCode": "6150811-047",
-      "gradingCompany": "NGC",
-      "grade": "待复核",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10358590.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/6150811-047/",
-      "price": 950,
-      "priceWithFee": 1026,
-      "transactedAt": "2026-07-01 21:24:35",
-      "productCode": "869945008",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "币,1980年,年中,中国,国硬,硬币,币贰,贰分"

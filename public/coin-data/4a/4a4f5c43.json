@@ -1,12 +1,12 @@
 {
   "coinName": "1984年精制",
   "slug": "4a4f5c43",
-  "saleCount": 22,
+  "saleCount": 21,
   "keywords": "币,1984年,年中,中华,华人,人民,民共,共和,和国,国成,成立,立周,周年,年开,开国,国大,大典,典精,精制,制流,流通,通纪,纪念,念币,评级,年精,币三,三枚,枚一,一套,年民,民族,族团,团结,结精,年祖,祖国,国万,万岁,岁精,岁民,币各,各一,一枚,族大,大团",
   "priceStats": {
     "low": 280,
-    "high": 2400,
-    "avg": 1039,
+    "high": 2200,
+    "avg": 974,
     "latest": 1380
   },
   "records": [
@@ -227,23 +227,6 @@
       "priceWithFee": 2376,
       "transactedAt": "2026-07-15 19:20:05",
       "productCode": "873070001",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "币,1984年,年中,中华,华人,人民,民共,共和,和国,国成,成立,立周,周年,年开,开国,国大,大典,典精,精制,制流,流通,通纪,纪念,念币,评级"
-    },
-    {
-      "coinName": "1984年中华人民共和国成立35周年-开国大典精制流通纪念币",
-      "normalizedBoxCode": "8764779001",
-      "displayBoxCode": "8764779-001",
-      "gradingCompany": "NGC",
-      "grade": "待复核",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10359264.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/8764779-001/",
-      "price": 2400,
-      "priceWithFee": 2592,
-      "transactedAt": "2026-07-01 21:23:35",
-      "productCode": "870487001",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "币,1984年,年中,中华,华人,人民,民共,共和,和国,国成,成立,立周,周年,年开,开国,国大,大典,典精,精制,制流,流通,通纪,纪念,念币,评级"
