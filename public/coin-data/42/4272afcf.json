@@ -1,12 +1,12 @@
 {
   "coinName": "2026年武夷山",
   "slug": "4272afcf",
-  "saleCount": 10,
+  "saleCount": 9,
   "keywords": "币,2026年,名山,年武,武夷,夷山,山国,国家,家公,公园,园流,流通,通纪,纪念,念币,币二,二枚",
   "priceStats": {
     "low": 120,
     "high": 2800,
-    "avg": 761,
+    "avg": 819,
     "latest": 1400
   },
   "records": [
@@ -111,23 +111,6 @@
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "币,2026年,名山,年武,武夷,夷山,山国,国家,家公,公园,园流,流通,通纪,纪念,念币"
-    },
-    {
-      "coinName": "2026年武夷山国家公园流通纪念币二枚",
-      "normalizedBoxCode": "8827528031",
-      "displayBoxCode": "8827528-031",
-      "gradingCompany": "NGC",
-      "grade": "待复核",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10365339.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/8827528-031/",
-      "price": 240,
-      "priceWithFee": 259.2,
-      "transactedAt": "2026-07-01 20:47:05",
-      "productCode": "870640003",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "币,2026年,名山,年武,武夷,夷山,山国,国家,家公,公园,园流,流通,通纪,纪念,念币,币二,二枚"
     },
     {
       "coinName": "2026年武夷山国家公园流通纪念币二枚",

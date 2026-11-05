@@ -1,12 +1,12 @@
 {
   "coinName": "1980年长城币",
   "slug": "6ba319c7",
-  "saleCount": 30,
+  "saleCount": 29,
   "keywords": "币,1980年,年长,长城,城币,币壹,壹圆,圆无,无砖,砖版,版伍,伍角,角贰,贰角,角壹,壹角,角各,各一,一枚,枚共,共四,四枚,角二,二枚,币四,枚一,一套,币贰,角伍,币伍",
   "priceStats": {
     "low": 95,
     "high": 3900,
-    "avg": 840,
+    "avg": 848,
     "latest": 2950
   },
   "records": [
@@ -417,23 +417,6 @@
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "币,1980年,年长,长城,城币,币伍,伍角"
-    },
-    {
-      "coinName": "1980年长城币壹圆",
-      "normalizedBoxCode": "8824751006",
-      "displayBoxCode": "8824751-006",
-      "gradingCompany": "NGC",
-      "grade": "待复核",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10376716.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/8824751-006/",
-      "price": 620,
-      "priceWithFee": 669.6,
-      "transactedAt": "2026-07-01 20:36:05",
-      "productCode": "872115001",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "币,1980年,年长,长城,城币,币壹,壹圆"
     },
     {
       "coinName": "1980年长城币壹圆",

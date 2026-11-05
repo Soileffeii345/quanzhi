@@ -1,12 +1,12 @@
 {
   "coinName": "1995年精制",
   "slug": "4a620125",
-  "saleCount": 6,
-  "keywords": "币,1995年,年中,中国,国精,精制,制硬,硬币,币伍,伍分,分贰,贰分,分壹,壹分,分各,各一,一枚,枚共,共三,三枚,评级,伍角,币角,币壹,壹圆,壹角",
+  "saleCount": 5,
+  "keywords": "币,1995年,年中,中国,国精,精制,制硬,硬币,币伍,伍分,分贰,贰分,分壹,壹分,分各,各一,一枚,枚共,共三,三枚,评级,伍角,币角,币壹,壹角,壹圆",
   "priceStats": {
     "low": 55,
-    "high": 640,
-    "avg": 228,
+    "high": 260,
+    "avg": 145,
     "latest": 260
   },
   "records": [
@@ -60,23 +60,6 @@
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "币,1995年,年中,中国,国精,精制,制硬,硬币,币角,评级"
-    },
-    {
-      "coinName": "1995年中国精制硬币壹圆",
-      "normalizedBoxCode": "8547620063",
-      "displayBoxCode": "8547620-063",
-      "gradingCompany": "NGC",
-      "grade": "PF 68 ULTRA CAMEO",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10366710.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/8547620-063/68/",
-      "price": 640,
-      "priceWithFee": 691.2,
-      "transactedAt": "2026-07-01 20:43:35",
-      "productCode": "871166005",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "币,1995年,年中,中国,国精,精制,制硬,硬币,币壹,壹圆,评级"
     },
     {
       "coinName": "1995年中国精制硬币壹角",

@@ -1,12 +1,12 @@
 {
   "coinName": "2005年精制",
   "slug": "7e450c4c",
-  "saleCount": 22,
+  "saleCount": 19,
   "keywords": "币,2005年,年中,中国,国宝,宝岛,岛台,台湾,湾敬,敬字,字亭,亭精,精制,制流,流通,通纪,纪念,念币,评级,年世,世界,界文,文化,化遗,遗产,产青,青城,城山,山与,与都,都江,江堰,堰精,产丽,丽江,江古,古城,城精,币二,二枚,年陈,陈云,云诞,诞辰,辰周,周年,年精",
   "priceStats": {
     "low": 110,
     "high": 660,
-    "avg": 326,
+    "avg": 356,
     "latest": 580
   },
   "records": [
@@ -179,57 +179,6 @@
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "币,2005年,年中,中国,国宝,宝岛,岛台,台湾,湾敬,敬字,字亭,亭精,精制,制流,流通,通纪,纪念,念币,评级"
-    },
-    {
-      "coinName": "2005年世界文化遗产-青城山与都江堰精制流通纪念币",
-      "normalizedBoxCode": "8659676058",
-      "displayBoxCode": "8659676-058",
-      "gradingCompany": "NGC",
-      "grade": "待复核",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10369526.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/8659676-058/",
-      "price": 140,
-      "priceWithFee": 151.2,
-      "transactedAt": "2026-07-01 21:02:35",
-      "productCode": "871224020",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "币,2005年,年世,世界,界文,文化,化遗,遗产,产青,青城,城山,山与,与都,都江,江堰,堰精,精制,制流,流通,通纪,纪念,念币,评级"
-    },
-    {
-      "coinName": "2005年世界文化遗产-青城山与都江堰精制流通纪念币",
-      "normalizedBoxCode": "8659676048",
-      "displayBoxCode": "8659676-048",
-      "gradingCompany": "NGC",
-      "grade": "待复核",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10369525.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/8659676-048/",
-      "price": 140,
-      "priceWithFee": 151.2,
-      "transactedAt": "2026-07-01 21:02:05",
-      "productCode": "871224019",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "币,2005年,年世,世界,界文,文化,化遗,遗产,产青,青城,城山,山与,与都,都江,江堰,堰精,精制,制流,流通,通纪,纪念,念币,评级"
-    },
-    {
-      "coinName": "2005年世界文化遗产-青城山与都江堰精制流通纪念币",
-      "normalizedBoxCode": "8574280044",
-      "displayBoxCode": "8574280-044",
-      "gradingCompany": "NGC",
-      "grade": "PF 68 ULTRA CAMEO",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10376522.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/8574280-044/68/",
-      "price": 120,
-      "priceWithFee": 129.6,
-      "transactedAt": "2026-07-01 20:37:05",
-      "productCode": "871769005",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "币,2005年,年世,世界,界文,文化,化遗,遗产,产青,青城,城山,山与,与都,都江,江堰,堰精,精制,制流,流通,通纪,纪念,念币,评级"
     },
     {
       "coinName": "2005年世界文化遗产-青城山与都江堰精制流通纪念币",

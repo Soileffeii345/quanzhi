@@ -1,12 +1,12 @@
 {
   "coinName": "2004年精制",
   "slug": "7e4598ad",
-  "saleCount": 33,
-  "keywords": "币,2004年,年中,中国,国宝,宝岛,岛台,台湾,湾日,日月,月潭,潭精,精制,制流,流通,通纪,纪念,念币,评级,年世,世界,界文,文化,化遗,遗产,产苏,苏州,州古,古典,典园,园林,林精,潭鹅,鹅銮,銮鼻,鼻精,币各,各一,一枚,枚共,共二,二枚,产周,周口,口店,店北,北京,京人,人遗,遗址,址精,币二,湾鹅,鼻日,年人,人民,民代,代表,表大,大会,会成,成立,立周,周年,年精,址苏",
+  "saleCount": 30,
+  "keywords": "币,2004年,年中,中国,国宝,宝岛,岛台,台湾,湾日,日月,月潭,潭精,精制,制流,流通,通纪,纪念,念币,评级,年世,世界,界文,文化,化遗,遗产,产苏,苏州,州古,古典,典园,园林,林精,潭鹅,鹅銮,銮鼻,鼻精,币各,各一,一枚,枚共,共二,二枚,产周,周口,口店,店北,北京,京人,人遗,遗址,址精,币二,址苏,湾鹅,鼻日",
   "priceStats": {
     "low": 120,
     "high": 820,
-    "avg": 343,
+    "avg": 345,
     "latest": 120
   },
   "records": [
@@ -196,57 +196,6 @@
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "币,2004年,年世,世界,界文,文化,化遗,遗产,产苏,苏州,州古,古典,典园,园林,林精,精制,制流,流通,通纪,纪念,念币,评级"
-    },
-    {
-      "coinName": "2004年世界文化遗产-周口店“北京人”遗址精制流通纪念币",
-      "normalizedBoxCode": "8659676022",
-      "displayBoxCode": "8659676-022",
-      "gradingCompany": "NGC",
-      "grade": "待复核",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10369514.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/8659676-022/",
-      "price": 200,
-      "priceWithFee": 216,
-      "transactedAt": "2026-07-01 21:00:35",
-      "productCode": "871224008",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "币,2004年,年世,世界,界文,文化,化遗,遗产,产周,周口,口店,店北,北京,京人,人遗,遗址,址精,精制,制流,流通,通纪,纪念,念币,评级"
-    },
-    {
-      "coinName": "2004年中国宝岛台湾-鹅銮鼻、日月潭精制流通纪念币各一枚，共二枚",
-      "normalizedBoxCode": "5757196108",
-      "displayBoxCode": "5757196-108",
-      "gradingCompany": "NGC",
-      "grade": "PF 69 ULTRA CAMEO",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10372245.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/5757196-108/69/",
-      "price": 620,
-      "priceWithFee": 669.6,
-      "transactedAt": "2026-07-01 20:55:35",
-      "productCode": "871391030",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "币,2004年,年中,中国,国宝,宝岛,岛台,台湾,湾鹅,鹅銮,銮鼻,鼻日,日月,月潭,潭精,精制,制流,流通,通纪,纪念,念币,币各,各一,一枚,枚共,共二,二枚,评级"
-    },
-    {
-      "coinName": "2004年人民代表大会成立50周年精制流通纪念币",
-      "normalizedBoxCode": "5818661011",
-      "displayBoxCode": "5818661-011",
-      "gradingCompany": "NGC",
-      "grade": "待复核",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10372218.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/5818661-011/",
-      "price": 140,
-      "priceWithFee": 151.2,
-      "transactedAt": "2026-07-01 20:52:05",
-      "productCode": "871391003",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "币,2004年,年人,人民,民代,代表,表大,大会,会成,成立,立周,周年,年精,精制,制流,流通,通纪,纪念,念币,评级"
     },
     {
       "coinName": "2004年世界文化遗产-周口店“北京人”遗址精制流通纪念币",

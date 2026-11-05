@@ -1,12 +1,12 @@
 {
   "coinName": "1983年长城币精制",
   "slug": "062e7570",
-  "saleCount": 6,
-  "keywords": "币,1983年,年精,精制,制长,长城,城币,币壹,壹圆,评级,壹角,币伍,伍角",
+  "saleCount": 5,
+  "keywords": "币,1983年,年精,精制,制长,长城,城币,币壹,壹圆,评级,币伍,伍角,壹角",
   "priceStats": {
-    "low": 870,
+    "low": 1320,
     "high": 8800,
-    "avg": 4428,
+    "avg": 5140,
     "latest": 8000
   },
   "records": [
@@ -43,23 +43,6 @@
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "币,1983年,年精,精制,制长,长城,城币,币壹,壹圆,评级"
-    },
-    {
-      "coinName": "1983年精制长城币壹角",
-      "normalizedBoxCode": "8547627060",
-      "displayBoxCode": "8547627-060",
-      "gradingCompany": "NGC",
-      "grade": "PF 68 CAMEO",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10355224.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/8547627-060/68/",
-      "price": 870,
-      "priceWithFee": 939.6,
-      "transactedAt": "2026-07-01 20:48:05",
-      "productCode": "869634008",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "币,1983年,年精,精制,制长,长城,城币,币壹,壹角,评级"
     },
     {
       "coinName": "1983年精制长城币伍角",
