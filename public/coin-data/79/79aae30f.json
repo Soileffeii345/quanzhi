@@ -1,12 +1,12 @@
 {
   "coinName": "1998年中国珍稀野生动物-扬子鳄流通纪念币",
   "slug": "79aae30f",
-  "saleCount": 5,
-  "keywords": "币,1998年,年中,中国,国珍,珍稀,稀野,野生,生动,动物,物扬,扬子,子鳄,鳄流,流通,通纪,纪念,念币,币二,二枚",
+  "saleCount": 4,
+  "keywords": "币,1998年,年中,中国,国珍,珍稀,稀野,野生,生动,动物,物扬,扬子,子鳄,鳄流,流通,通纪,纪念,念币",
   "priceStats": {
-    "low": 120,
+    "low": 300,
     "high": 1040,
-    "avg": 488,
+    "avg": 580,
     "latest": 660
   },
   "records": [
@@ -43,23 +43,6 @@
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "币,1998年,年中,中国,国珍,珍稀,稀野,野生,生动,动物,物扬,扬子,子鳄,鳄流,流通,通纪,纪念,念币"
-    },
-    {
-      "coinName": "1998年中国珍稀野生动物-扬子鳄流通纪念币二枚",
-      "normalizedBoxCode": "6193688008",
-      "displayBoxCode": "6193688-008",
-      "gradingCompany": "NGC",
-      "grade": "待复核",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10373833.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/6193688-008/",
-      "price": 120,
-      "priceWithFee": 129.6,
-      "transactedAt": "2026-07-01 20:01:35",
-      "productCode": "871771002",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "币,1998年,年中,中国,国珍,珍稀,稀野,野生,生动,动物,物扬,扬子,子鳄,鳄流,流通,通纪,纪念,念币,币二,二枚"
     },
     {
       "coinName": "1998年中国珍稀野生动物-扬子鳄流通纪念币",

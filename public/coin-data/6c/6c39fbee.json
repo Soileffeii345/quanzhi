@@ -1,12 +1,12 @@
 {
   "coinName": "1981年长城币精制",
   "slug": "6c39fbee",
-  "saleCount": 4,
+  "saleCount": 3,
   "keywords": "币,1981年,年精,精制,制长,长城,城币,币伍,伍角,评级,币贰,贰角",
   "priceStats": {
     "low": 790,
     "high": 1720,
-    "avg": 1368,
+    "avg": 1377,
     "latest": 1620
   },
   "records": [
@@ -60,23 +60,6 @@
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "币,1981年,年精,精制,制长,长城,城币,币贰,贰角,评级"
-    },
-    {
-      "coinName": "1981年精制长城币伍角",
-      "normalizedBoxCode": "3306816019",
-      "displayBoxCode": "3306816-019",
-      "gradingCompany": "NGC",
-      "grade": "待复核",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10370833.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/3306816-019/",
-      "price": 1340,
-      "priceWithFee": 1447.2,
-      "transactedAt": "2026-07-01 20:29:05",
-      "productCode": "871557003",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "币,1981年,年精,精制,制长,长城,城币,币伍,伍角,评级"
     }
   ]
 }

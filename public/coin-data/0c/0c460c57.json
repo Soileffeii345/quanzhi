@@ -1,12 +1,12 @@
 {
   "coinName": "1993年毛泽东精制",
   "slug": "0c460c57",
-  "saleCount": 6,
+  "saleCount": 5,
   "keywords": "币,1993年,年毛,毛泽,泽东,东诞,诞辰,辰周,周年,年精,精制,制流,流通,通纪,纪念,念币,评级,制纪",
   "priceStats": {
     "low": 90,
     "high": 2400,
-    "avg": 878,
+    "avg": 1024,
     "latest": 90
   },
   "records": [
@@ -40,23 +40,6 @@
       "priceWithFee": 226.8,
       "transactedAt": "2026-07-29 20:22:05",
       "productCode": "877753012",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "币,1993年,年毛,毛泽,泽东,东诞,诞辰,辰周,周年,年精,精制,制流,流通,通纪,纪念,念币,评级"
-    },
-    {
-      "coinName": "1993年毛泽东诞辰100周年精制流通纪念币",
-      "normalizedBoxCode": "8761461009",
-      "displayBoxCode": "8761461-009",
-      "gradingCompany": "NGC",
-      "grade": "PF65 ULTRA CAMEO",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10369263.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/8761461-009/65/",
-      "price": 150,
-      "priceWithFee": 162,
-      "transactedAt": "2026-07-01 20:19:35",
-      "productCode": "871225006",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "币,1993年,年毛,毛泽,泽东,东诞,诞辰,辰周,周年,年精,精制,制流,流通,通纪,纪念,念币,评级"

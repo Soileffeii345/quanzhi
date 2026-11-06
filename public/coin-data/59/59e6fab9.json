@@ -1,12 +1,12 @@
 {
   "coinName": "1984年中国硬币伍分",
   "slug": "59e6fab9",
-  "saleCount": 4,
+  "saleCount": 3,
   "keywords": "币,1984年,年中,中国,国硬,硬币,币伍,伍分",
   "priceStats": {
     "low": 50,
     "high": 190,
-    "avg": 119,
+    "avg": 98,
     "latest": 50
   },
   "records": [
@@ -40,23 +40,6 @@
       "priceWithFee": 205.2,
       "transactedAt": "2026-07-08 20:20:45",
       "productCode": "873537003",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "币,1984年,年中,中国,国硬,硬币,币伍,伍分"
-    },
-    {
-      "coinName": "1984年中国硬币伍分",
-      "normalizedBoxCode": "8198500034",
-      "displayBoxCode": "8198500-034",
-      "gradingCompany": "NGC",
-      "grade": "MS 69",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10373841.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/8198500-034/69/",
-      "price": 180,
-      "priceWithFee": 194.4,
-      "transactedAt": "2026-07-01 20:30:05",
-      "productCode": "871771010",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "币,1984年,年中,中国,国硬,硬币,币伍,伍分"

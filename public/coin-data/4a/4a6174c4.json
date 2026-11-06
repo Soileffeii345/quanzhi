@@ -1,12 +1,12 @@
 {
   "coinName": "1994年精制",
   "slug": "4a6174c4",
-  "saleCount": 20,
+  "saleCount": 18,
   "keywords": "币,1994年,年中,中国,国精,精制,制硬,硬币,币角,角贰,贰分,分壹,壹分,分年,角各,各一,一枚,枚共,共四,四枚,评级,年希,希望,望工,工程,程精,制流,流通,通纪,纪念,念币,币伍,伍角",
   "priceStats": {
     "low": 60,
-    "high": 1300,
-    "avg": 668,
+    "high": 1280,
+    "avg": 651,
     "latest": 270
   },
   "records": [
@@ -227,40 +227,6 @@
       "priceWithFee": 972,
       "transactedAt": "2026-07-15 19:59:40",
       "productCode": "875388001",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "币,1994年,年希,希望,望工,工程,程精,精制,制流,流通,通纪,纪念,念币,评级"
-    },
-    {
-      "coinName": "1994年希望工程精制流通纪念币",
-      "normalizedBoxCode": "6728455053",
-      "displayBoxCode": "6728455-053",
-      "gradingCompany": "NGC",
-      "grade": "PF 67 ULTRA CAMEO",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10365302.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/6728455-053/67/",
-      "price": 340,
-      "priceWithFee": 367.2,
-      "transactedAt": "2026-07-01 20:22:35",
-      "productCode": "870611007",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "币,1994年,年希,希望,望工,工程,程精,精制,制流,流通,通纪,纪念,念币,评级"
-    },
-    {
-      "coinName": "1994年希望工程精制流通纪念币",
-      "normalizedBoxCode": "8194308028",
-      "displayBoxCode": "8194308-028",
-      "gradingCompany": "NGC",
-      "grade": "PF 69 ULTRA CAMEO",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10365298.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/8194308-028/69/",
-      "price": 1300,
-      "priceWithFee": 1404,
-      "transactedAt": "2026-07-01 20:22:05",
-      "productCode": "870611003",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "币,1994年,年希,希望,望工,工程,程精,精制,制流,流通,通纪,纪念,念币,评级"

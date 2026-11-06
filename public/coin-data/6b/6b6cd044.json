@@ -1,12 +1,12 @@
 {
   "coinName": "1983年长城币",
   "slug": "6b6cd044",
-  "saleCount": 35,
+  "saleCount": 34,
   "keywords": "币,1983年,年长,长城,城币,币壹,壹角,币贰,贰角,币伍,伍角,壹圆",
   "priceStats": {
     "low": 250,
     "high": 2400,
-    "avg": 601,
+    "avg": 604,
     "latest": 2150
   },
   "records": [
@@ -448,23 +448,6 @@
       "priceWithFee": 540,
       "transactedAt": "2026-07-08 20:12:05",
       "productCode": "872258001",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "币,1983年,年长,长城,城币,币壹,壹圆"
-    },
-    {
-      "coinName": "1983年长城币壹圆",
-      "normalizedBoxCode": "8824751003",
-      "displayBoxCode": "8824751-003",
-      "gradingCompany": "NGC",
-      "grade": "待复核",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10376719.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/8824751-003/",
-      "price": 500,
-      "priceWithFee": 540,
-      "transactedAt": "2026-07-01 20:08:35",
-      "productCode": "872115004",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "币,1983年,年长,长城,城币,币壹,壹圆"

@@ -1,12 +1,12 @@
 {
   "coinName": "1997年中国珍稀野生动物-丹顶鹤流通纪念币",
   "slug": "77bcc123",
-  "saleCount": 4,
-  "keywords": "币,1997年,年中,中国,国珍,珍稀,稀野,野生,生动,动物,物丹,丹顶,顶鹤,鹤流,流通,通纪,纪念,念币,币二,二枚",
+  "saleCount": 3,
+  "keywords": "币,1997年,年中,中国,国珍,珍稀,稀野,野生,生动,动物,物丹,丹顶,顶鹤,鹤流,流通,通纪,纪念,念币",
   "priceStats": {
-    "low": 120,
+    "low": 220,
     "high": 340,
-    "avg": 230,
+    "avg": 267,
     "latest": 220
   },
   "records": [
@@ -43,23 +43,6 @@
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "币,1997年,年中,中国,国珍,珍稀,稀野,野生,生动,动物,物丹,丹顶,顶鹤,鹤流,流通,通纪,纪念,念币"
-    },
-    {
-      "coinName": "1997年中国珍稀野生动物-丹顶鹤流通纪念币二枚",
-      "normalizedBoxCode": "6722498008",
-      "displayBoxCode": "6722498-008",
-      "gradingCompany": "NGC",
-      "grade": "待复核",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10373832.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/6722498-008/",
-      "price": 120,
-      "priceWithFee": 129.6,
-      "transactedAt": "2026-07-01 20:01:05",
-      "productCode": "871771001",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "币,1997年,年中,中国,国珍,珍稀,稀野,野生,生动,动物,物丹,丹顶,顶鹤,鹤流,流通,通纪,纪念,念币,币二,二枚"
     },
     {
       "coinName": "1997年中国珍稀野生动物-丹顶鹤流通纪念币",

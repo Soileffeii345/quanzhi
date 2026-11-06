@@ -1,12 +1,12 @@
 {
   "coinName": "2008年精制",
   "slug": "7e436729",
-  "saleCount": 16,
-  "keywords": "币,2008年,年第,第届,届奥,奥林,林匹,匹克,克运,运动,动会,会体,体操,操精,精制,制流,流通,通纪,纪念,念币,评级,会击,击剑,剑精,会乒,乒乓,乓球,球精,会游,游泳,泳精,会足,足球,会马,马术,术精,会举,举重,重精",
+  "saleCount": 13,
+  "keywords": "币,2008年,年第,第届,届奥,奥林,林匹,匹克,克运,运动,动会,会体,体操,操精,精制,制流,流通,通纪,纪念,念币,评级,会击,击剑,剑精,会乒,乒乓,乓球,球精,会游,游泳,泳精,会足,足球,会举,举重,重精",
   "priceStats": {
     "low": 100,
     "high": 2550,
-    "avg": 314,
+    "avg": 359,
     "latest": 2550
   },
   "records": [
@@ -111,57 +111,6 @@
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "币,2008年,年第,第届,届奥,奥林,林匹,匹克,克运,运动,动会,会足,足球,球精,精制,制流,流通,通纪,纪念,念币,评级"
-    },
-    {
-      "coinName": "2008年第29届奥林匹克运动会-击剑精制流通纪念币",
-      "normalizedBoxCode": "6196929011",
-      "displayBoxCode": "6196929-011",
-      "gradingCompany": "NGC",
-      "grade": "PF 69 ULTRA CAMEO",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10373711.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/6196929-011/69/",
-      "price": 120,
-      "priceWithFee": 129.6,
-      "transactedAt": "2026-07-01 20:07:05",
-      "productCode": "871385007",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "币,2008年,年第,第届,届奥,奥林,林匹,匹克,克运,运动,动会,会击,击剑,剑精,精制,制流,流通,通纪,纪念,念币,评级"
-    },
-    {
-      "coinName": "2008年第29届奥林匹克运动会-体操精制流通纪念币",
-      "normalizedBoxCode": "6196929037",
-      "displayBoxCode": "6196929-037",
-      "gradingCompany": "NGC",
-      "grade": "PF 69 ULTRA CAMEO",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10373710.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/6196929-037/69/",
-      "price": 120,
-      "priceWithFee": 129.6,
-      "transactedAt": "2026-07-01 20:06:35",
-      "productCode": "871385006",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "币,2008年,年第,第届,届奥,奥林,林匹,匹克,克运,运动,动会,会体,体操,操精,精制,制流,流通,通纪,纪念,念币,评级"
-    },
-    {
-      "coinName": "2008年第29届奥林匹克运动会-马术精制流通纪念币",
-      "normalizedBoxCode": "6179990051",
-      "displayBoxCode": "6179990-051",
-      "gradingCompany": "NGC",
-      "grade": "待复核",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10373708.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/6179990-051/",
-      "price": 120,
-      "priceWithFee": 129.6,
-      "transactedAt": "2026-07-01 20:06:05",
-      "productCode": "871385004",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "币,2008年,年第,第届,届奥,奥林,林匹,匹克,克运,运动,动会,会马,马术,术精,精制,制流,流通,通纪,纪念,念币,评级"
     },
     {
       "coinName": "2008年第29届奥林匹克运动会-举重精制流通纪念币",
