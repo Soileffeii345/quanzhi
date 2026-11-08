@@ -1,12 +1,12 @@
 {
   "coinName": "2025年京剧",
   "slug": "7e26cb6b",
-  "saleCount": 8,
-  "keywords": "币,2025年,戏曲,年中,中国,国京,京剧,剧艺,艺术,术流,流通,通纪,纪念,念币,术净,净角,角流,币二,二枚",
+  "saleCount": 6,
+  "keywords": "币,2025年,戏曲,年中,中国,国京,京剧,剧艺,艺术,术流,流通,通纪,纪念,念币,术净,净角,角流",
   "priceStats": {
-    "low": 50,
+    "low": 140,
     "high": 190,
-    "avg": 144,
+    "avg": 157,
     "latest": 160
   },
   "records": [
@@ -94,40 +94,6 @@
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "币,2025年,戏曲,年中,中国,国京,京剧,剧艺,艺术,术净,净角,角流,流通,通纪,纪念,念币"
-    },
-    {
-      "coinName": "2025年中国京剧艺术（净角）流通纪念币二枚",
-      "normalizedBoxCode": "8653812009",
-      "displayBoxCode": "8653812-009",
-      "gradingCompany": "NGC",
-      "grade": "待复核",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10352611.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/8653812-009/",
-      "price": 50,
-      "priceWithFee": 54,
-      "transactedAt": "2026-07-01 19:04:35",
-      "productCode": "869161012",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "币,2025年,戏曲,年中,中国,国京,京剧,剧艺,艺术,术净,净角,角流,流通,通纪,纪念,念币,币二,二枚"
-    },
-    {
-      "coinName": "2025年中国京剧艺术流通纪念币",
-      "normalizedBoxCode": "8653882010",
-      "displayBoxCode": "8653882-010",
-      "gradingCompany": "NGC",
-      "grade": "MS 69",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10365342.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/8653882-010/69/",
-      "price": 160,
-      "priceWithFee": 172.8,
-      "transactedAt": "2026-07-01 19:02:05",
-      "productCode": "870640006",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "币,2025年,戏曲,年中,中国,国京,京剧,剧艺,艺术,术流,流通,通纪,纪念,念币"
     },
     {
       "coinName": "2025年中国京剧艺术（净角）流通纪念币",

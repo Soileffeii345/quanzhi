@@ -1,12 +1,12 @@
 {
   "coinName": "2005年生肖精制",
   "slug": "27117977",
-  "saleCount": 7,
+  "saleCount": 6,
   "keywords": "币,2005年,生肖,吉祥文化,年乙,乙酉,酉鸡,鸡年,年生,肖贺,贺岁,岁精,精制,制流,流通,通纪,纪念,念币,评级,肖精",
   "priceStats": {
-    "low": 310,
+    "low": 860,
     "high": 1440,
-    "avg": 926,
+    "avg": 1028,
     "latest": 920
   },
   "records": [
@@ -108,23 +108,6 @@
       "priceWithFee": 928.8,
       "transactedAt": "2026-07-08 19:52:45",
       "productCode": "873574010",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "币,2005年,生肖,年乙,乙酉,酉鸡,鸡年,年生,肖精,精制,制流,流通,通纪,纪念,念币,评级"
-    },
-    {
-      "coinName": "2005年乙酉鸡年生肖精制流通纪念币",
-      "normalizedBoxCode": "8657508023",
-      "displayBoxCode": "8657508-023",
-      "gradingCompany": "NGC",
-      "grade": "PF 68 ULTRA CAMEO",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10376523.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/8657508-023/68/",
-      "price": 310,
-      "priceWithFee": 334.8,
-      "transactedAt": "2026-07-01 19:16:35",
-      "productCode": "871769006",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "币,2005年,生肖,年乙,乙酉,酉鸡,鸡年,年生,肖精,精制,制流,流通,通纪,纪念,念币,评级"

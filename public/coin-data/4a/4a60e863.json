@@ -1,12 +1,12 @@
 {
   "coinName": "1993年精制",
   "slug": "4a60e863",
-  "saleCount": 7,
+  "saleCount": 6,
   "keywords": "币,1993年,年中,中国,国精,精制,制硬,硬币,币伍,伍角,角二,二枚,评级,年宋,宋庆,庆龄,龄诞,诞辰,辰周,周年,年精,制流,流通,通纪,纪念,念币",
   "priceStats": {
     "low": 150,
     "high": 910,
-    "avg": 533,
+    "avg": 577,
     "latest": 620
   },
   "records": [
@@ -77,23 +77,6 @@
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "币,1993年,年中,中国,国精,精制,制硬,硬币,币伍,伍角,评级"
-    },
-    {
-      "coinName": "1993年宋庆龄诞辰100周年精制流通纪念币",
-      "normalizedBoxCode": "8761461005",
-      "displayBoxCode": "8761461-005",
-      "gradingCompany": "NGC",
-      "grade": "待复核",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10369260.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/8761461-005/",
-      "price": 270,
-      "priceWithFee": 291.6,
-      "transactedAt": "2026-07-01 19:26:05",
-      "productCode": "871225003",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "币,1993年,年宋,宋庆,庆龄,龄诞,诞辰,辰周,周年,年精,精制,制流,流通,通纪,纪念,念币,评级"
     },
     {
       "coinName": "1993年宋庆龄诞辰100周年精制流通纪念币",

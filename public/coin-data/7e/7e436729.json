@@ -1,12 +1,12 @@
 {
   "coinName": "2008年精制",
   "slug": "7e436729",
-  "saleCount": 13,
+  "saleCount": 10,
   "keywords": "币,2008年,年第,第届,届奥,奥林,林匹,匹克,克运,运动,动会,会体,体操,操精,精制,制流,流通,通纪,纪念,念币,评级,会击,击剑,剑精,会乒,乒乓,乓球,球精,会游,游泳,泳精,会足,足球,会举,举重,重精",
   "priceStats": {
     "low": 100,
     "high": 2550,
-    "avg": 359,
+    "avg": 415,
     "latest": 2550
   },
   "records": [
@@ -128,57 +128,6 @@
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "币,2008年,年第,第届,届奥,奥林,林匹,匹克,克运,运动,动会,会举,举重,重精,精制,制流,流通,通纪,纪念,念币,评级"
-    },
-    {
-      "coinName": "2008年第29届奥林匹克运动会-游泳精制流通纪念币",
-      "normalizedBoxCode": "6180278035",
-      "displayBoxCode": "6180278-035",
-      "gradingCompany": "NGC",
-      "grade": "PF 69 ULTRA CAMEO",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10373682.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/6180278-035/69/",
-      "price": 110,
-      "priceWithFee": 118.8,
-      "transactedAt": "2026-07-01 19:33:35",
-      "productCode": "871971001",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "币,2008年,年第,第届,届奥,奥林,林匹,匹克,克运,运动,动会,会游,游泳,泳精,精制,制流,流通,通纪,纪念,念币,评级"
-    },
-    {
-      "coinName": "2008年第29届奥林匹克运动会-游泳精制流通纪念币",
-      "normalizedBoxCode": "8617877052",
-      "displayBoxCode": "8617877-052",
-      "gradingCompany": "NGC",
-      "grade": "PF 69 ULTRA CAMEO",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10366711.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/8617877-052/69/",
-      "price": 220,
-      "priceWithFee": 237.6,
-      "transactedAt": "2026-07-01 19:25:05",
-      "productCode": "871166006",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "币,2008年,年第,第届,届奥,奥林,林匹,匹克,克运,运动,动会,会游,游泳,泳精,精制,制流,流通,通纪,纪念,念币,评级"
-    },
-    {
-      "coinName": "2008年第29届奥林匹克运动会-乒乓球精制流通纪念币",
-      "normalizedBoxCode": "8617875042",
-      "displayBoxCode": "8617875-042",
-      "gradingCompany": "NGC",
-      "grade": "PF 69 ULTRA CAMEO",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10366706.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/8617875-042/69/",
-      "price": 190,
-      "priceWithFee": 205.2,
-      "transactedAt": "2026-07-01 19:24:35",
-      "productCode": "871166001",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "币,2008年,年第,第届,届奥,奥林,林匹,匹克,克运,运动,动会,会乒,乒乓,乓球,球精,精制,制流,流通,通纪,纪念,念币,评级"
     },
     {
       "coinName": "2008年第29届奥林匹克运动会-乒乓球精制流通纪念币",

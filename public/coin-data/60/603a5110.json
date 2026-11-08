@@ -1,12 +1,12 @@
 {
   "coinName": "第四套/第四版人民币1990年版100元",
   "slug": "603a5110",
-  "saleCount": 16,
+  "saleCount": 15,
   "keywords": "币,1990年,第四,四套,套第,四版,版人,人民,民币,币年,年版,版元",
   "priceStats": {
     "low": 140,
     "high": 8800,
-    "avg": 1473,
+    "avg": 1487,
     "latest": 190
   },
   "records": [
@@ -261,23 +261,6 @@
       "priceWithFee": 864,
       "transactedAt": "2026-07-07 19:14:35",
       "productCode": "872332005",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "币,1990年,第四,四套,套第,四版,版人,人民,民币,币年,年版,版元"
-    },
-    {
-      "coinName": "第四套/第四版人民币1990年版100元",
-      "normalizedBoxCode": "1847151088",
-      "displayBoxCode": "1847151-088",
-      "gradingCompany": "NGC",
-      "grade": "待复核",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/disibanrenminbi/10374408.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/1847151-088/",
-      "price": 1260,
-      "priceWithFee": 1360.8,
-      "transactedAt": "2026-06-30 21:01:20",
-      "productCode": "871990002",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "币,1990年,第四,四套,套第,四版,版人,人民,民币,币年,年版,版元"

@@ -1,12 +1,12 @@
 {
   "coinName": "2024年毛里求斯塑料钞",
   "slug": "0081ea21",
-  "saleCount": 5,
+  "saleCount": 4,
   "keywords": "钞,2024年,年毛,毛里,里求,求斯,斯塑,塑料,料钞",
   "priceStats": {
     "low": 65,
-    "high": 95,
-    "avg": 82,
+    "high": 90,
+    "avg": 79,
     "latest": 70
   },
   "records": [
@@ -74,23 +74,6 @@
       "priceWithFee": 99.9,
       "transactedAt": "2026-07-07 21:59:35",
       "productCode": "871453005",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "钞,2024年,年毛,毛里,里求,求斯,斯塑,塑料,料钞"
-    },
-    {
-      "coinName": "2024年毛里求斯塑料钞",
-      "normalizedBoxCode": "2400753093",
-      "displayBoxCode": "2400753-093",
-      "gradingCompany": "NGC",
-      "grade": "待复核",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/waiguozhichao/10372913.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/2400753-093/",
-      "price": 95,
-      "priceWithFee": 105.45,
-      "transactedAt": "2026-06-30 22:44:50",
-      "productCode": "871226087",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "钞,2024年,年毛,毛里,里求,求斯,斯塑,塑料,料钞"

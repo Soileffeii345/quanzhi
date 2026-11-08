@@ -1,12 +1,12 @@
 {
   "coinName": "2004年邓小平精制",
   "slug": "79f4ea18",
-  "saleCount": 14,
+  "saleCount": 13,
   "keywords": "币,2004年,年邓,邓小,小平,平诞,诞辰,辰周,周年,年精,精制,制流,流通,通纪,纪念,念币,评级,通币,币二,二枚",
   "priceStats": {
     "low": 260,
     "high": 1520,
-    "avg": 713,
+    "avg": 745,
     "latest": 1080
   },
   "records": [
@@ -213,23 +213,6 @@
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "币,2004年,年邓,邓小,小平,平诞,诞辰,辰周,周年,年精,精制,制流,流通,通纪,纪念,念币,币二,二枚,评级"
-    },
-    {
-      "coinName": "2004年邓小平诞辰100周年精制流通纪念币",
-      "normalizedBoxCode": "8547628027",
-      "displayBoxCode": "8547628-027",
-      "gradingCompany": "NGC",
-      "grade": "PF 68 ULTRA CAMEO",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10378207.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/8547628-027/68/",
-      "price": 290,
-      "priceWithFee": 313.2,
-      "transactedAt": "2026-07-01 19:19:35",
-      "productCode": "872528001",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "币,2004年,年邓,邓小,小平,平诞,诞辰,辰周,周年,年精,精制,制流,流通,通纪,纪念,念币,评级"
     },
     {
       "coinName": "2004年邓小平诞辰100周年精制流通纪念币",

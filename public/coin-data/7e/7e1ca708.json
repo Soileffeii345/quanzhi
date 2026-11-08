@@ -1,12 +1,12 @@
 {
   "coinName": "2024年龙钞",
   "slug": "7e1ca708",
-  "saleCount": 92,
+  "saleCount": 90,
   "keywords": "钞,2024年,年龙,龙钞,钞元,元连,连号,号十,十枚,元二,二枚,元三,三枚,号三",
   "priceStats": {
     "low": 110,
-    "high": 3600,
-    "avg": 419,
+    "high": 3200,
+    "avg": 387,
     "latest": 150
   },
   "records": [
@@ -1366,40 +1366,6 @@
       "priceWithFee": 183.6,
       "transactedAt": "2026-07-04 19:31:45",
       "productCode": "872239002",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "钞,2024年,年龙,龙钞,钞元"
-    },
-    {
-      "coinName": "2024年龙钞20元",
-      "normalizedBoxCode": "4080810052",
-      "displayBoxCode": "4080810-052",
-      "gradingCompany": "NGC",
-      "grade": "待复核",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/liantichao-jinianchao/10376779.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/4080810-052/",
-      "price": 3600,
-      "priceWithFee": 3888,
-      "transactedAt": "2026-06-30 20:50:50",
-      "productCode": "872128005",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "钞,2024年,年龙,龙钞,钞元"
-    },
-    {
-      "coinName": "2024年龙钞20元",
-      "normalizedBoxCode": "1019060126",
-      "displayBoxCode": "1019060-126",
-      "gradingCompany": "NGC",
-      "grade": "待复核",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/liantichao-jinianchao/10362242.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/1019060-126/",
-      "price": 170,
-      "priceWithFee": 183.6,
-      "transactedAt": "2026-06-30 20:22:35",
-      "productCode": "870656003",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "钞,2024年,年龙,龙钞,钞元"

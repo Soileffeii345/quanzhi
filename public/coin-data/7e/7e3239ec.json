@@ -1,12 +1,12 @@
 {
   "coinName": "2015年航天",
   "slug": "7e3239ec",
-  "saleCount": 25,
-  "keywords": "币,2015年,年航,航天,天流,流通,通纪,纪念,念币,钞,天纪,念钞,钞壹,壹佰,佰圆,钞元,元二,二枚,圆二,枚豹,豹子,子号,圆六,六枚,圆年,年人,人民,民币,币发,发行,行周,周年,年伍,伍拾,拾元,元纪",
+  "saleCount": 24,
+  "keywords": "币,2015年,年航,航天,天流,流通,通纪,纪念,念币,钞,天纪,念钞,钞壹,壹佰,佰圆,钞元,元二,二枚,圆二,枚豹,豹子,子号,圆年,年人,人民,民币,币发,发行,行周,周年,年伍,伍拾,拾元,元纪",
   "priceStats": {
     "low": 35,
-    "high": 720,
-    "avg": 271,
+    "high": 540,
+    "avg": 252,
     "latest": 35
   },
   "records": [
@@ -383,23 +383,6 @@
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "钞,2015年,年航,航天,天纪,纪念,念钞,钞壹,壹佰,佰圆"
-    },
-    {
-      "coinName": "2015年航天纪念钞壹佰圆六枚",
-      "normalizedBoxCode": "2296851829",
-      "displayBoxCode": "2296851-829",
-      "gradingCompany": "NGC",
-      "grade": "待复核",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/liantichao-jinianchao/10369766.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/2296851-829/",
-      "price": 720,
-      "priceWithFee": 777.6,
-      "transactedAt": "2026-06-30 21:05:35",
-      "productCode": "871143002",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "钞,2015年,年航,航天,天纪,纪念,念钞,钞壹,壹佰,佰圆,圆六,六枚"
     },
     {
       "coinName": "2015年航天纪念钞壹佰圆",

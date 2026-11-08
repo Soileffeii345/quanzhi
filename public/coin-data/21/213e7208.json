@@ -1,12 +1,12 @@
 {
   "coinName": "2013年生肖精制",
   "slug": "213e7208",
-  "saleCount": 13,
+  "saleCount": 12,
   "keywords": "币,2013年,生肖,吉祥文化,年癸,癸巳,巳蛇,蛇年,年生,肖贺,贺岁,岁精,精制,制流,流通,通纪,纪念,念币,评级,肖精,币二,二枚,币四,四枚",
   "priceStats": {
     "low": 75,
     "high": 1720,
-    "avg": 483,
+    "avg": 515,
     "latest": 1500
   },
   "records": [
@@ -196,23 +196,6 @@
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "币,2013年,生肖,吉祥文化,年癸,癸巳,巳蛇,蛇年,年生,肖贺,贺岁,岁精,精制,制流,流通,通纪,纪念,念币,评级"
-    },
-    {
-      "coinName": "2013年癸巳蛇年生肖精制流通纪念币",
-      "normalizedBoxCode": "5813048066",
-      "displayBoxCode": "5813048-066",
-      "gradingCompany": "NGC",
-      "grade": "PF 66 ULTRA CAMEO",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10372224.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/5813048-066/66/",
-      "price": 100,
-      "priceWithFee": 108,
-      "transactedAt": "2026-07-01 19:06:05",
-      "productCode": "871391009",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "币,2013年,生肖,年癸,癸巳,巳蛇,蛇年,年生,肖精,精制,制流,流通,通纪,纪念,念币,评级"
     },
     {
       "coinName": "2013年癸巳蛇年生肖精制流通纪念币",

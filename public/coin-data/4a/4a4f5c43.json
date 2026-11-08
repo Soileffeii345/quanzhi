@@ -1,12 +1,12 @@
 {
   "coinName": "1984年精制",
   "slug": "4a4f5c43",
-  "saleCount": 17,
+  "saleCount": 15,
   "keywords": "币,1984年,年中,中华,华人,人民,民共,共和,和国,国成,成立,立周,周年,年开,开国,国大,大典,典精,精制,制流,流通,通纪,纪念,念币,评级,年精,币三,三枚,枚一,一套,年民,民族,族团,团结,结精,年祖,祖国,国万,万岁,岁精,岁民,币各,各一,一枚,族大,大团",
   "priceStats": {
     "low": 280,
     "high": 2200,
-    "avg": 1038,
+    "avg": 1119,
     "latest": 1380
   },
   "records": [
@@ -230,40 +230,6 @@
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "币,1984年,年中,中华,华人,人民,民共,共和,和国,国成,成立,立周,周年,年开,开国,国大,大典,典精,精制,制流,流通,通纪,纪念,念币,评级"
-    },
-    {
-      "coinName": "1984年中华人民共和国成立35周年-祖国万岁精制流通纪念币",
-      "normalizedBoxCode": "8761461002",
-      "displayBoxCode": "8761461-002",
-      "gradingCompany": "NGC",
-      "grade": "待复核",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10369267.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/8761461-002/",
-      "price": 440,
-      "priceWithFee": 475.2,
-      "transactedAt": "2026-07-01 19:27:35",
-      "productCode": "871225010",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "币,1984年,年中,中华,华人,人民,民共,共和,和国,国成,成立,立周,周年,年祖,祖国,国万,万岁,岁精,精制,制流,流通,通纪,纪念,念币,评级"
-    },
-    {
-      "coinName": "1984年中华人民共和国成立35周年-民族团结精制流通纪念币",
-      "normalizedBoxCode": "8761461001",
-      "displayBoxCode": "8761461-001",
-      "gradingCompany": "NGC",
-      "grade": "PF 67 ULTRA CAMEO",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10369266.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/8761461-001/67/",
-      "price": 420,
-      "priceWithFee": 453.6,
-      "transactedAt": "2026-07-01 19:27:05",
-      "productCode": "871225009",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "币,1984年,年中,中华,华人,人民,民共,共和,和国,国成,成立,立周,周年,年民,民族,族团,团结,结精,精制,制流,流通,通纪,纪念,念币,评级"
     },
     {
       "coinName": "1984年中华人民共和国成立35周年-民族大团结精制流通纪念币",

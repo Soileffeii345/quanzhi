@@ -1,12 +1,12 @@
 {
   "coinName": "2025年中国人民抗日战争暨世界反法西斯战争胜利80周年流通纪念币",
   "slug": "2eeaec8d",
-  "saleCount": 6,
+  "saleCount": 4,
   "keywords": "币,2025年,年中,中国,国人,人民,民抗,抗日,日战,战争,争暨,暨世,世界,界反,反法,法西,西斯,斯战,争胜,胜利,利周,周年,年流,流通,通纪,纪念,念币,币四,四枚",
   "priceStats": {
     "low": 150,
     "high": 240,
-    "avg": 198,
+    "avg": 190,
     "latest": 240
   },
   "records": [
@@ -57,40 +57,6 @@
       "priceWithFee": 194.4,
       "transactedAt": "2026-07-15 19:08:00",
       "productCode": "874369006",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "币,2025年,年中,中国,国人,人民,民抗,抗日,日战,战争,争暨,暨世,世界,界反,反法,法西,西斯,斯战,争胜,胜利,利周,周年,年流,流通,通纪,纪念,念币"
-    },
-    {
-      "coinName": "2025年中国人民抗日战争暨世界反法西斯战争胜利80周年流通纪念币",
-      "normalizedBoxCode": "8577802044",
-      "displayBoxCode": "8577802-044",
-      "gradingCompany": "NGC",
-      "grade": "MS 69",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10365756.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/8577802-044/69/",
-      "price": 190,
-      "priceWithFee": 205.2,
-      "transactedAt": "2026-07-01 19:28:35",
-      "productCode": "870514005",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "币,2025年,年中,中国,国人,人民,民抗,抗日,日战,战争,争暨,暨世,世界,界反,反法,法西,西斯,斯战,争胜,胜利,利周,周年,年流,流通,通纪,纪念,念币"
-    },
-    {
-      "coinName": "2025年中国人民抗日战争暨世界反法西斯战争胜利80周年流通纪念币",
-      "normalizedBoxCode": "8577802045",
-      "displayBoxCode": "8577802-045",
-      "gradingCompany": "NGC",
-      "grade": "MS 69",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10365755.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/8577802-045/69/",
-      "price": 240,
-      "priceWithFee": 259.2,
-      "transactedAt": "2026-07-01 19:01:05",
-      "productCode": "870514004",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "币,2025年,年中,中国,国人,人民,民抗,抗日,日战,战争,争暨,暨世,世界,界反,反法,法西,西斯,斯战,争胜,胜利,利周,周年,年流,流通,通纪,纪念,念币"

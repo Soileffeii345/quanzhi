@@ -1,12 +1,12 @@
 {
   "coinName": "赞比亚纸钞",
   "slug": "42a31f47",
-  "saleCount": 2,
+  "saleCount": 1,
   "keywords": "钞,赞比,比亚,亚纸,纸钞",
   "priceStats": {
-    "low": 60,
+    "low": 65,
     "high": 65,
-    "avg": 63,
+    "avg": 65,
     "latest": 65
   },
   "records": [
@@ -23,23 +23,6 @@
       "priceWithFee": 72.15,
       "transactedAt": "2026-07-28 22:18:35",
       "productCode": "878638002",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "钞,赞比,比亚,亚纸,纸钞"
-    },
-    {
-      "coinName": "赞比亚纸钞",
-      "normalizedBoxCode": "1848473060",
-      "displayBoxCode": "1848473-060",
-      "gradingCompany": "NGC",
-      "grade": "待复核",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/waiguozhichao/10373885.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/1848473-060/",
-      "price": 60,
-      "priceWithFee": 66.6,
-      "transactedAt": "2026-06-30 22:50:35",
-      "productCode": "871685015",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "钞,赞比,比亚,亚纸,纸钞"

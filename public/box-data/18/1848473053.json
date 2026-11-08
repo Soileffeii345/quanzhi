@@ -21,25 +21,6 @@
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "钞,白俄,俄罗,罗斯,斯纸,纸钞,外国/特区"
-    },
-    {
-      "normalizedBoxCode": "1848473053",
-      "displayBoxCode": "1848473-053",
-      "gradingCompany": "NGC",
-      "grade": "待复核",
-      "coinName": "白俄罗斯纸钞",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/waiguozhichao/10373884.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/1848473-053/",
-      "price": 60,
-      "priceWithFee": 66.6,
-      "transactedAt": "2026-06-30 22:50:20",
-      "productCode": "871685014",
-      "evidenceImageUrl": "https://img3.zhaoonline.com/2026/26/871685014B.jpg",
-      "ocrConfidence": 28,
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "钞,白俄,俄罗,罗斯,斯纸,纸钞,外国/特区"
     }
   ]
 }
