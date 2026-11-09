@@ -1,12 +1,12 @@
 {
   "coinName": "2018年香港特别行政区政府港币10元塑料钞",
   "slug": "0a3c93b4",
-  "saleCount": 6,
+  "saleCount": 5,
   "keywords": "币,钞,2018年,年香,香港,港特,特别,别行,行政,政区,区政,政府,府港,港币,币元,元塑,塑料,料钞,外国/特区",
   "priceStats": {
-    "low": 90,
+    "low": 95,
     "high": 160,
-    "avg": 118,
+    "avg": 123,
     "latest": 95
   },
   "records": [
@@ -74,23 +74,6 @@
       "priceWithFee": 140.4,
       "transactedAt": "2026-07-25 19:14:40",
       "productCode": "877014002",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "币,钞,2018年,年香,香港,港特,特别,别行,行政,政区,区政,政府,府港,港币,币元,元塑,塑料,料钞,外国/特区"
-    },
-    {
-      "coinName": "2018年香港特别行政区政府港币10元塑料钞",
-      "normalizedBoxCode": "2485426005",
-      "displayBoxCode": "2485426-005",
-      "gradingCompany": "NGC",
-      "grade": "待复核",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/liantichao-jinianchao/10374837.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/2485426-005/",
-      "price": 90,
-      "priceWithFee": 97.2,
-      "transactedAt": "2026-06-30 19:56:20",
-      "productCode": "870896002",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "币,钞,2018年,年香,香港,港特,特别,别行,行政,政区,区政,政府,府港,港币,币元,元塑,塑料,料钞,外国/特区"

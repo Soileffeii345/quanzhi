@@ -1,12 +1,12 @@
 {
   "coinName": "1999年中国珍稀野生动物-中华鲟流通纪念币",
   "slug": "2c312b0c",
-  "saleCount": 7,
+  "saleCount": 6,
   "keywords": "币,1999年,年中,中国,国珍,珍稀,稀野,野生,生动,动物,物中,中华,华鲟,鲟流,流通,通纪,纪念,念币",
   "priceStats": {
     "low": 75,
     "high": 460,
-    "avg": 262,
+    "avg": 259,
     "latest": 75
   },
   "records": [
@@ -57,23 +57,6 @@
       "priceWithFee": 129.6,
       "transactedAt": "2026-07-15 19:58:50",
       "productCode": "874882010",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "币,1999年,年中,中国,国珍,珍稀,稀野,野生,生动,动物,物中,中华,华鲟,鲟流,流通,通纪,纪念,念币"
-    },
-    {
-      "coinName": "1999年中国珍稀野生动物-中华鲟流通纪念币",
-      "normalizedBoxCode": "6766361024",
-      "displayBoxCode": "6766361-024",
-      "gradingCompany": "NGC",
-      "grade": "待复核",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10373165.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/6766361-024/",
-      "price": 280,
-      "priceWithFee": 302.4,
-      "transactedAt": "2026-07-01 19:52:05",
-      "productCode": "871894001",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "币,1999年,年中,中国,国珍,珍稀,稀野,野生,生动,动物,物中,中华,华鲟,鲟流,流通,通纪,纪念,念币"

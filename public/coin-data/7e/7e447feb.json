@@ -1,12 +1,12 @@
 {
   "coinName": "2006年精制",
   "slug": "7e447feb",
-  "saleCount": 11,
+  "saleCount": 10,
   "keywords": "币,2006年,年世,世界,界文,文化,化遗,遗产,产颐,颐和,和园,园精,精制,制流,流通,通纪,纪念,念币,评级",
   "priceStats": {
     "low": 85,
     "high": 380,
-    "avg": 163,
+    "avg": 150,
     "latest": 110
   },
   "records": [
@@ -57,23 +57,6 @@
       "priceWithFee": 194.4,
       "transactedAt": "2026-07-15 19:34:15",
       "productCode": "875567001",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "币,2006年,年世,世界,界文,文化,化遗,遗产,产颐,颐和,和园,园精,精制,制流,流通,通纪,纪念,念币,评级"
-    },
-    {
-      "coinName": "2006年世界文化遗产-颐和园精制流通纪念币",
-      "normalizedBoxCode": "5817197006",
-      "displayBoxCode": "5817197-006",
-      "gradingCompany": "NGC",
-      "grade": "待复核",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/zhongguoliutongjinianbi/10365754.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/5817197-006/",
-      "price": 300,
-      "priceWithFee": 324,
-      "transactedAt": "2026-07-01 19:50:05",
-      "productCode": "870514003",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "币,2006年,年世,世界,界文,文化,化遗,遗产,产颐,颐和,和园,园精,精制,制流,流通,通纪,纪念,念币,评级"
