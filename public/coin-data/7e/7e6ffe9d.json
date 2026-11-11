@@ -1,12 +1,12 @@
 {
   "coinName": "第四套/第四版人民币1980年版50元",
   "slug": "7e6ffe9d",
-  "saleCount": 13,
+  "saleCount": 12,
   "keywords": "币,1980年,第四,四套,套第,四版,版人,人民,民币,币年,年版,版元",
   "priceStats": {
     "low": 550,
     "high": 3500,
-    "avg": 1582,
+    "avg": 1548,
     "latest": 1540
   },
   "records": [
@@ -210,23 +210,6 @@
       "priceWithFee": 1069.2,
       "transactedAt": "2026-07-04 22:21:25",
       "productCode": "872727005",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "币,1980年,第四,四套,套第,四版,版人,人民,民币,币年,年版,版元"
-    },
-    {
-      "coinName": "第四套/第四版人民币1980年版50元",
-      "normalizedBoxCode": "2231577032",
-      "displayBoxCode": "2231577-032",
-      "gradingCompany": "NGC",
-      "grade": "待复核",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/disibanrenminbi/10357336.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/2231577-032/",
-      "price": 1980,
-      "priceWithFee": 2138.4,
-      "transactedAt": "2026-06-30 18:35:50",
-      "productCode": "870146002",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "币,1980年,第四,四套,套第,四版,版人,人民,民币,币年,年版,版元"

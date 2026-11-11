@@ -1,12 +1,12 @@
 {
   "coinName": "2018年人民币发行70周年纪念钞50元",
   "slug": "6232be55",
-  "saleCount": 7,
+  "saleCount": 6,
   "keywords": "币,钞,2018年,年人,人民,民币,币发,发行,行周,周年,年纪,纪念,念钞,钞元",
   "priceStats": {
     "low": 60,
     "high": 470,
-    "avg": 279,
+    "avg": 277,
     "latest": 300
   },
   "records": [
@@ -108,23 +108,6 @@
       "priceWithFee": 64.8,
       "transactedAt": "2026-07-04 22:29:25",
       "productCode": "870560009",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "币,钞,2018年,年人,人民,民币,币发,发行,行周,周年,年纪,纪念,念钞,钞元"
-    },
-    {
-      "coinName": "2018年人民币发行70周年纪念钞50元",
-      "normalizedBoxCode": "2015503073",
-      "displayBoxCode": "2015503-073",
-      "gradingCompany": "NGC",
-      "grade": "待复核",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/liantichao-jinianchao/10361079.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/2015503-073/",
-      "price": 290,
-      "priceWithFee": 313.2,
-      "transactedAt": "2026-06-30 19:17:35",
-      "productCode": "869852001",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "币,钞,2018年,年人,人民,民币,币发,发行,行周,周年,年纪,纪念,念钞,钞元"

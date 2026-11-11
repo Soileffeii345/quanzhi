@@ -1,12 +1,12 @@
 {
   "coinName": "2019年5克银币",
   "slug": "11a4e1e4",
-  "saleCount": 8,
+  "saleCount": 7,
   "keywords": "银,2019年,5克,年上,上海,海成,成立,立周,周年,年纪,纪念,念克,克银,银箔,箔二,二枚,评级,箔三,三枚,海恩,恩颉,颉藏,藏商,商务,务信,信息,息咨,咨询,询有,有限,限公,公司,司开,开业,业五,五周,年克",
   "priceStats": {
     "low": 100,
     "high": 320,
-    "avg": 250,
+    "avg": 256,
     "latest": 300
   },
   "records": [
@@ -128,23 +128,6 @@
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "银,2019年,5克,年上,上海,海恩,恩颉,颉藏,藏商,商务,务信,信息,息咨,咨询,询有,有限,限公,公司,司开,开业,业五,五周,周年,年克,克银,银箔"
-    },
-    {
-      "coinName": "2019年上海NGC成立5周年纪念5克银箔",
-      "normalizedBoxCode": "1773980029",
-      "displayBoxCode": "1773980-029",
-      "gradingCompany": "NGC",
-      "grade": "待复核",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/liantichao-jinianchao/10373425.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/1773980-029/",
-      "price": 210,
-      "priceWithFee": 226.8,
-      "transactedAt": "2026-06-30 19:02:20",
-      "productCode": "871925001",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "银,2019年,5克,年上,上海,海成,成立,立周,周年,年纪,纪念,念克,克银,银箔,评级"
     }
   ]
 }

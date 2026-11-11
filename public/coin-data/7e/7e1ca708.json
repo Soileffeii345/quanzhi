@@ -1,12 +1,12 @@
 {
   "coinName": "2024年龙钞",
   "slug": "7e1ca708",
-  "saleCount": 90,
+  "saleCount": 89,
   "keywords": "钞,2024年,年龙,龙钞,钞元,元连,连号,号十,十枚,元二,二枚,元三,三枚,号三",
   "priceStats": {
     "low": 110,
     "high": 3200,
-    "avg": 387,
+    "avg": 389,
     "latest": 150
   },
   "records": [
@@ -1366,23 +1366,6 @@
       "priceWithFee": 183.6,
       "transactedAt": "2026-07-04 19:31:45",
       "productCode": "872239002",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "钞,2024年,年龙,龙钞,钞元"
-    },
-    {
-      "coinName": "2024年龙钞20元",
-      "normalizedBoxCode": "1020690216",
-      "displayBoxCode": "1020690-216",
-      "gradingCompany": "NGC",
-      "grade": "待复核",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/liantichao-jinianchao/10362241.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/1020690-216/",
-      "price": 160,
-      "priceWithFee": 172.8,
-      "transactedAt": "2026-06-30 18:39:05",
-      "productCode": "870656002",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "钞,2024年,年龙,龙钞,钞元"

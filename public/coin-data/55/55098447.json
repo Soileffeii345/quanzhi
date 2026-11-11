@@ -1,12 +1,12 @@
 {
   "coinName": "香港政府壹分",
   "slug": "55098447",
-  "saleCount": 10,
+  "saleCount": 8,
   "keywords": "香港,港政,政府,府壹,壹分,外国/特区",
   "priceStats": {
     "low": 80,
     "high": 150,
-    "avg": 112,
+    "avg": 110,
     "latest": 80
   },
   "records": [
@@ -142,40 +142,6 @@
       "priceWithFee": 133.2,
       "transactedAt": "2026-07-07 19:39:50",
       "productCode": "871451005",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "香港,港政,政府,府壹,壹分,外国/特区"
-    },
-    {
-      "coinName": "香港政府壹分",
-      "normalizedBoxCode": "2240917018",
-      "displayBoxCode": "2240917-018",
-      "gradingCompany": "NGC",
-      "grade": "待复核",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/xianggangzhichao/10371338.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/2240917-018/",
-      "price": 150,
-      "priceWithFee": 166.5,
-      "transactedAt": "2026-06-30 19:13:20",
-      "productCode": "871227019",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "香港,港政,政府,府壹,壹分,外国/特区"
-    },
-    {
-      "coinName": "香港政府壹分",
-      "normalizedBoxCode": "2240917019",
-      "displayBoxCode": "2240917-019",
-      "gradingCompany": "NGC",
-      "grade": "待复核",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/xianggangzhichao/10371336.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/2240917-019/",
-      "price": 90,
-      "priceWithFee": 99.9,
-      "transactedAt": "2026-06-30 19:13:05",
-      "productCode": "871227017",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "香港,港政,政府,府壹,壹分,外国/特区"

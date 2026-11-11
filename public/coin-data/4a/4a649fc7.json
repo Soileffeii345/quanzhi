@@ -1,12 +1,12 @@
 {
   "coinName": "1994年银币",
   "slug": "4a649fc7",
-  "saleCount": 7,
+  "saleCount": 6,
   "keywords": "银,1994年,年香,香港,港渣,渣打,打银,银行,行伍,伍拾,拾圆,外国/特区,币,年中,中国,国银,行港,港币,币元,行贰,贰拾,港上,上海,海汇,汇丰,丰银,币壹,壹佰,佰元",
   "priceStats": {
     "low": 140,
     "high": 1120,
-    "avg": 447,
+    "avg": 345,
     "latest": 230
   },
   "records": [
@@ -111,23 +111,6 @@
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "银,币,1994年,年香,香港,港上,上海,海汇,汇丰,丰银,银行,行港,港币,币壹,壹佰,佰元,外国/特区"
-    },
-    {
-      "coinName": "1994年中国银行港币500元",
-      "normalizedBoxCode": "2380361018",
-      "displayBoxCode": "2380361-018",
-      "gradingCompany": "NGC",
-      "grade": "待复核",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/xianggangzhichao/10366054.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/2380361-018/",
-      "price": 1060,
-      "priceWithFee": 1176.6,
-      "transactedAt": "2026-06-30 19:00:50",
-      "productCode": "870512002",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "银,币,1994年,年中,中国,国银,银行,行港,港币,币元"
     }
   ]
 }
