@@ -1,32 +1,15 @@
 {
   "coinName": "2004年3.11克铂金币",
   "slug": "0c72b07f",
-  "saleCount": 2,
+  "saleCount": 1,
   "keywords": "金,贵金属,币,2004年,10盎司,宗教,年观,观音,音盎,盎司,司铂,铂金,金币",
   "priceStats": {
     "low": 1900,
-    "high": 2000,
-    "avg": 1950,
-    "latest": 2000
+    "high": 1900,
+    "avg": 1900,
+    "latest": 1900
   },
   "records": [
-    {
-      "coinName": "2004年观音1/10盎司铂金币",
-      "normalizedBoxCode": "8817036015",
-      "displayBoxCode": "8817036-015",
-      "gradingCompany": "NGC",
-      "grade": "PF 69 ULTRA CAMEO",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/jinianxilie-bojin/10372452.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/8817036-015/69/",
-      "price": 2000,
-      "priceWithFee": 2070,
-      "transactedAt": "2026-06-29 22:10:35",
-      "productCode": "871489005",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "金,贵金属,币,2004年,10盎司,宗教,年观,观音,音盎,盎司,司铂,铂金,金币"
-    },
     {
       "coinName": "2004年观音1/10盎司铂金币",
       "normalizedBoxCode": "8819606001",

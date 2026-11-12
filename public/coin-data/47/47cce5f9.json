@@ -1,12 +1,12 @@
 {
   "coinName": "2025年15克精制金币",
   "slug": "47cce5f9",
-  "saleCount": 7,
+  "saleCount": 6,
   "keywords": "金,币,2025年,15克,年国,国家,家宝,宝藏,藏统,统一,一气,气象,象克,克长,长方,方形,形精,精制,制金,金币,评级",
   "priceStats": {
     "low": 24500,
     "high": 40000,
-    "avg": 30429,
+    "avg": 30417,
     "latest": 24500
   },
   "records": [
@@ -74,23 +74,6 @@
       "priceWithFee": 28980,
       "transactedAt": "2026-07-02 20:38:10",
       "productCode": "872401001",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "金,币,2025年,15克,年国,国家,家宝,宝藏,藏统,统一,一气,气象,象克,克长,长方,方形,形精,精制,制金,金币,评级"
-    },
-    {
-      "coinName": "2025年国家宝藏（统一气象）15克长方形精制金币",
-      "normalizedBoxCode": "8611566001",
-      "displayBoxCode": "8611566-001",
-      "gradingCompany": "NGC",
-      "grade": "PF 70 ULTRA CAMEO",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10373831.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/8611566-001/70/",
-      "price": 30500,
-      "priceWithFee": 31567.5,
-      "transactedAt": "2026-06-29 22:01:00",
-      "productCode": "871487001",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "金,币,2025年,15克,年国,国家,家宝,宝藏,藏统,统一,一气,气象,象克,克长,长方,方形,形精,精制,制金,金币,评级"

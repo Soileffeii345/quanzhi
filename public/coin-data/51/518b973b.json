@@ -1,32 +1,15 @@
 {
   "coinName": "1994年麒麟7.776克精制金币",
   "slug": "518b973b",
-  "saleCount": 4,
-  "keywords": "金,币,1994年,4盎司,年麒,麒麟,麟盎,盎司,司精,精制,制金,金币,评级,银,司金,金盎,司银,银精,制双,双金,金属,属币",
+  "saleCount": 3,
+  "keywords": "金,银,币,1994年,4盎司,年麒,麒麟,麟盎,盎司,司金,金盎,司银,银精,精制,制双,双金,金属,属币,评级",
   "priceStats": {
-    "low": 8700,
+    "low": 19800,
     "high": 21500,
-    "avg": 17875,
-    "latest": 8700
+    "avg": 20933,
+    "latest": 19800
   },
   "records": [
-    {
-      "coinName": "1994年麒麟1/4盎司精制金币",
-      "normalizedBoxCode": "8817036022",
-      "displayBoxCode": "8817036-022",
-      "gradingCompany": "NGC",
-      "grade": "PF 69 ULTRA CAMEO",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/jinianxilie-jin/10372451.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/8817036-022/69/",
-      "price": 8700,
-      "priceWithFee": 9004.5,
-      "transactedAt": "2026-06-29 22:03:55",
-      "productCode": "871489004",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "金,币,1994年,4盎司,年麒,麒麟,麟盎,盎司,司精,精制,制金,金币,评级"
-    },
     {
       "coinName": "1994年麒麟1/4盎司金+1/8盎司银精制双金属币",
       "normalizedBoxCode": "8547628067",
