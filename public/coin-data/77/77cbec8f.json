@@ -1,12 +1,12 @@
 {
   "coinName": "2013年生肖31.104克精制银币",
   "slug": "77cbec8f",
-  "saleCount": 38,
+  "saleCount": 37,
   "keywords": "银,币,2013年,1盎司,生肖,年癸,癸巳,巳蛇,蛇年,年生,肖盎,盎司,司扇,扇形,形精,精制,制银,银币,评级,司梅,梅花,花形",
   "priceStats": {
     "low": 490,
     "high": 720,
-    "avg": 551,
+    "avg": 550,
     "latest": 540
   },
   "records": [
@@ -533,23 +533,6 @@
       "priceWithFee": 589.95,
       "transactedAt": "2026-07-06 19:30:55",
       "productCode": "870968061",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "银,币,2013年,1盎司,生肖,年癸,癸巳,巳蛇,蛇年,年生,肖盎,盎司,司扇,扇形,形精,精制,制银,银币,评级"
-    },
-    {
-      "coinName": "2013年癸巳蛇年生肖1盎司扇形精制银币",
-      "normalizedBoxCode": "5803717020",
-      "displayBoxCode": "5803717-020",
-      "gradingCompany": "NGC",
-      "grade": "PF 69 ULTRA CAMEO",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10369222.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/5803717-020/69/",
-      "price": 580,
-      "priceWithFee": 600.3,
-      "transactedAt": "2026-06-29 21:23:30",
-      "productCode": "870968059",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "银,币,2013年,1盎司,生肖,年癸,癸巳,巳蛇,蛇年,年生,肖盎,盎司,司扇,扇形,形精,精制,制银,银币,评级"

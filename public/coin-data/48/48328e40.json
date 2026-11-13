@@ -1,12 +1,12 @@
 {
   "coinName": "2012年熊猫31.104克普制银币",
   "slug": "48328e40",
-  "saleCount": 3,
-  "keywords": "银,币,2012年,1盎司,熊猫,年招,招商,商银,银行,行成,成立,立周,周年,年暨,暨上,上市,市周,年熊,猫加,加字,字盎,盎司,司普,普制,制银,银币,猫盎,年华,华夏,夏银,年盎,司熊,字普",
+  "saleCount": 2,
+  "keywords": "银,币,2012年,1盎司,熊猫,年招,招商,商银,银行,行成,成立,立周,周年,年暨,暨上,上市,市周,年熊,猫加,加字,字盎,盎司,司普,普制,制银,银币,猫盎",
   "priceStats": {
     "low": 530,
     "high": 930,
-    "avg": 663,
+    "avg": 730,
     "latest": 930
   },
   "records": [
@@ -43,23 +43,6 @@
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "银,币,2012年,1盎司,熊猫,年熊,猫盎,盎司,司普,普制,制银,银币"
-    },
-    {
-      "coinName": "2012年华夏银行成立20周年1盎司熊猫加字普制银币",
-      "normalizedBoxCode": "3878179005",
-      "displayBoxCode": "3878179-005",
-      "gradingCompany": "NGC",
-      "grade": "MS 69",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10377136.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/3878179-005/69/",
-      "price": 530,
-      "priceWithFee": 548.55,
-      "transactedAt": "2026-06-29 21:38:55",
-      "productCode": "872183001",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "银,币,2012年,1盎司,熊猫,年华,华夏,夏银,银行,行成,成立,立周,周年,年盎,盎司,司熊,猫加,加字,字普,普制,制银,银币"
     }
   ]
 }

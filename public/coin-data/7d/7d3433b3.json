@@ -1,12 +1,12 @@
 {
   "coinName": "1988年22克精制银币",
   "slug": "7d3433b3",
-  "saleCount": 8,
-  "keywords": "银,币,1988年,22克,年中,中国,国杰,杰出,出历,历史,史人,人物,物第,第组,组岳,岳飞,飞克,克精,精制,制银,银币,评级,组苏,苏轼,轼克,组毕,毕昇,昇克",
+  "saleCount": 6,
+  "keywords": "银,币,1988年,22克,年中,中国,国杰,杰出,出历,历史,史人,人物,物第,第组,组岳,岳飞,飞克,克精,精制,制银,银币,评级,组苏,苏轼,轼克",
   "priceStats": {
     "low": 400,
     "high": 750,
-    "avg": 529,
+    "avg": 533,
     "latest": 400
   },
   "records": [
@@ -108,40 +108,6 @@
       "priceWithFee": 476.1,
       "transactedAt": "2026-07-13 19:38:55",
       "productCode": "873492013",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "银,币,1988年,22克,年中,中国,国杰,杰出,出历,历史,史人,人物,物第,第组,组岳,岳飞,飞克,克精,精制,制银,银币,评级"
-    },
-    {
-      "coinName": "1988年中国杰出历史人物第（5）组-毕昇22克精制银币",
-      "normalizedBoxCode": "8755291014",
-      "displayBoxCode": "8755291-014",
-      "gradingCompany": "NGC",
-      "grade": "PF 68 ULTRA CAMEO",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10367496.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/8755291-014/68/",
-      "price": 440,
-      "priceWithFee": 455.4,
-      "transactedAt": "2026-06-29 21:13:05",
-      "productCode": "871175008",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "银,币,1988年,22克,年中,中国,国杰,杰出,出历,历史,史人,人物,物第,第组,组毕,毕昇,昇克,克精,精制,制银,银币,评级"
-    },
-    {
-      "coinName": "1988年中国杰出历史人物第（5）组-岳飞22克精制银币",
-      "normalizedBoxCode": "8755291018",
-      "displayBoxCode": "8755291-018",
-      "gradingCompany": "NGC",
-      "grade": "PF 68 ULTRA CAMEO",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10367495.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/8755291-018/68/",
-      "price": 590,
-      "priceWithFee": 610.65,
-      "transactedAt": "2026-06-29 21:03:05",
-      "productCode": "871175007",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "银,币,1988年,22克,年中,中国,国杰,杰出,出历,历史,史人,人物,物第,第组,组岳,岳飞,飞克,克精,精制,制银,银币,评级"

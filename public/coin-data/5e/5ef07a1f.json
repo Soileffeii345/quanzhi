@@ -1,12 +1,12 @@
 {
   "coinName": "2026年熊猫30克普制银币",
   "slug": "5ef07a1f",
-  "saleCount": 20,
+  "saleCount": 19,
   "keywords": "银,币,2026年,30克,熊猫,年熊,猫克,克普,普制,制银,银币,币卡,卡册,币二,二枚",
   "priceStats": {
     "low": 590,
     "high": 1260,
-    "avg": 783,
+    "avg": 762,
     "latest": 780
   },
   "records": [
@@ -264,23 +264,6 @@
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "银,币,2026年,30克,熊猫,年熊,猫克,克普,普制,制银,银币"
-    },
-    {
-      "coinName": "2026年熊猫30克普制银币二枚",
-      "normalizedBoxCode": "8615588053",
-      "displayBoxCode": "8615588-053",
-      "gradingCompany": "NGC",
-      "grade": "MS70",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-xinyin/10377117.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/8615588-053/70/",
-      "price": 1180,
-      "priceWithFee": 1221.3,
-      "transactedAt": "2026-06-29 21:49:45",
-      "productCode": "871749002",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "银,币,2026年,30克,熊猫,年熊,猫克,克普,普制,制银,银币,币二,二枚"
     },
     {
       "coinName": "2026年熊猫30克普制银币（卡册）",

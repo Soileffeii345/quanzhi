@@ -1,12 +1,12 @@
 {
   "coinName": "1989年生肖31.104克精制银币",
   "slug": "131880fa",
-  "saleCount": 6,
+  "saleCount": 5,
   "keywords": "银,币,1989年,1盎司,生肖,年己,己巳,巳蛇,蛇年,年生,肖盎,盎司,司精,精制,制银,银币,评级",
   "priceStats": {
     "low": 1940,
     "high": 3850,
-    "avg": 2623,
+    "avg": 2728,
     "latest": 2200
   },
   "records": [
@@ -40,23 +40,6 @@
       "priceWithFee": 2007.9,
       "transactedAt": "2026-07-09 20:10:45",
       "productCode": "873939006",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "银,币,1989年,1盎司,生肖,年己,己巳,巳蛇,蛇年,年生,肖盎,盎司,司精,精制,制银,银币,评级"
-    },
-    {
-      "coinName": "1989年己巳蛇年生肖1盎司精制银币",
-      "normalizedBoxCode": "6758450003",
-      "displayBoxCode": "6758450-003",
-      "gradingCompany": "NGC",
-      "grade": "PF 67 ULTRA CAMEO",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10376587.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/6758450-003/67/",
-      "price": 2100,
-      "priceWithFee": 2173.5,
-      "transactedAt": "2026-06-29 21:30:35",
-      "productCode": "872163015",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "银,币,1989年,1盎司,生肖,年己,己巳,巳蛇,蛇年,年生,肖盎,盎司,司精,精制,制银,银币,评级"

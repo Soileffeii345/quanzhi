@@ -1,12 +1,12 @@
 {
   "coinName": "2016年生肖31.104克精制银币",
   "slug": "720a5cb4",
-  "saleCount": 7,
+  "saleCount": 5,
   "keywords": "银,币,2016年,1盎司,生肖,年丙,丙申,申猴,猴年,年生,肖盎,盎司,司精,精制,制彩,彩银,银币,评级,司扇,扇形,形精,制银",
   "priceStats": {
     "low": 560,
     "high": 710,
-    "avg": 640,
+    "avg": 644,
     "latest": 640
   },
   "records": [
@@ -74,40 +74,6 @@
       "priceWithFee": 724.5,
       "transactedAt": "2026-07-06 20:05:55",
       "productCode": "872386017",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "银,币,2016年,1盎司,生肖,年丙,丙申,申猴,猴年,年生,肖盎,盎司,司精,精制,制彩,彩银,银币,评级"
-    },
-    {
-      "coinName": "2016年丙申猴年生肖1盎司精制彩银币",
-      "normalizedBoxCode": "4312145014",
-      "displayBoxCode": "4312145-014",
-      "gradingCompany": "NGC",
-      "grade": "PF69 ULTRA CAMEO",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10377146.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/4312145-014/69/",
-      "price": 600,
-      "priceWithFee": 621,
-      "transactedAt": "2026-06-29 21:43:05",
-      "productCode": "872183011",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "银,币,2016年,1盎司,生肖,年丙,丙申,申猴,猴年,年生,肖盎,盎司,司精,精制,制彩,彩银,银币,评级"
-    },
-    {
-      "coinName": "2016年丙申猴年生肖1盎司精制彩银币",
-      "normalizedBoxCode": "4410390003",
-      "displayBoxCode": "4410390-003",
-      "gradingCompany": "NGC",
-      "grade": "PF 70 ULTRA CAMEO",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10363176.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/4410390-003/70/",
-      "price": 660,
-      "priceWithFee": 683.1,
-      "transactedAt": "2026-06-29 21:22:40",
-      "productCode": "870614005",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "银,币,2016年,1盎司,生肖,年丙,丙申,申猴,猴年,年生,肖盎,盎司,司精,精制,制彩,彩银,银币,评级"
