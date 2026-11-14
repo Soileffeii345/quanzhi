@@ -1,12 +1,12 @@
 {
   "coinName": "1985年22克精制银币",
   "slug": "2556794a",
-  "saleCount": 9,
+  "saleCount": 7,
   "keywords": "银,币,1985年,22克,年中,中国,国杰,杰出,出历,历史,史人,人物,物第,第组,组老,老子,子克,克精,精制,制银,银币,评级,组屈,屈原,原克",
   "priceStats": {
-    "low": 490,
+    "low": 620,
     "high": 930,
-    "avg": 784,
+    "avg": 831,
     "latest": 910
   },
   "records": [
@@ -111,40 +111,6 @@
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "银,币,1985年,22克,年中,中国,国杰,杰出,出历,历史,史人,人物,物第,第组,组老,老子,子克,克精,精制,制银,银币,评级"
-    },
-    {
-      "coinName": "1985年中国杰出历史人物第（2）组-屈原22克精制银币",
-      "normalizedBoxCode": "8757935001",
-      "displayBoxCode": "8757935-001",
-      "gradingCompany": "NGC",
-      "grade": "PF 69 ULTRA CAMEO",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10363033.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/8757935-001/69/",
-      "price": 750,
-      "priceWithFee": 776.25,
-      "transactedAt": "2026-06-29 21:01:00",
-      "productCode": "870630004",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "银,币,1985年,22克,年中,中国,国杰,杰出,出历,历史,史人,人物,物第,第组,组屈,屈原,原克,克精,精制,制银,银币,评级"
-    },
-    {
-      "coinName": "1985年中国杰出历史人物第（2）组-屈原22克精制银币",
-      "normalizedBoxCode": "8755290016",
-      "displayBoxCode": "8755290-016",
-      "gradingCompany": "NGC",
-      "grade": "PF 68 ULTRA CAMEO",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10367492.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/8755290-016/68/",
-      "price": 490,
-      "priceWithFee": 507.15,
-      "transactedAt": "2026-06-29 20:29:20",
-      "productCode": "871175004",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "银,币,1985年,22克,年中,中国,国杰,杰出,出历,历史,史人,人物,物第,第组,组屈,屈原,原克,克精,精制,制银,银币,评级"
     },
     {
       "coinName": "1985年中国杰出历史人物第（2）组-老子22克精制银币",

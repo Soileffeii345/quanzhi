@@ -1,12 +1,12 @@
 {
   "coinName": "1990年27克精制银币",
   "slug": "11635f75",
-  "saleCount": 7,
-  "keywords": "银,币,1990年,27克,年第,第届,届世,世界,界杯,杯足,足球,球赛,赛扑,扑球,球克,克精,精制,制银,银币,评级,年世,界文,文化,化名,名人,人第,第组,组贝,贝多,多芬,芬克,币二,二枚,届亚,亚运,运会,会第,组男,男子,子足,组女,女子,子垒,垒球,子吊,吊环,环克,子标,标枪,枪克",
+  "saleCount": 3,
+  "keywords": "银,币,1990年,27克,年第,第届,届世,世界,界杯,杯足,足球,球赛,赛扑,扑球,球克,克精,精制,制银,银币,评级,年世,界文,文化,化名,名人,人第,第组,组贝,贝多,多芬,芬克,币二,二枚,届亚,亚运,运会,会第,组男,男子,子足",
   "priceStats": {
-    "low": 400,
+    "low": 530,
     "high": 1260,
-    "avg": 586,
+    "avg": 797,
     "latest": 530
   },
   "records": [
@@ -60,74 +60,6 @@
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "银,币,1990年,27克,年第,第届,届亚,亚运,运会,会第,第组,组男,男子,子足,足球,球克,克精,精制,制银,银币,评级"
-    },
-    {
-      "coinName": "1990年第11届亚运会第（2）组-男子足球27克精制银币",
-      "normalizedBoxCode": "8760583040",
-      "displayBoxCode": "8760583-040",
-      "gradingCompany": "NGC",
-      "grade": "PF67 ULTRA CAMEO",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10367501.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/8760583-040/67/",
-      "price": 420,
-      "priceWithFee": 434.7,
-      "transactedAt": "2026-06-29 20:31:00",
-      "productCode": "871175013",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "银,币,1990年,27克,年第,第届,届亚,亚运,运会,会第,第组,组男,男子,子足,足球,球克,克精,精制,制银,银币,评级"
-    },
-    {
-      "coinName": "1990年第11届亚运会第（2）组-女子垒球27克精制银币",
-      "normalizedBoxCode": "8760583042",
-      "displayBoxCode": "8760583-042",
-      "gradingCompany": "NGC",
-      "grade": "待复核",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10367500.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/8760583-042/",
-      "price": 480,
-      "priceWithFee": 496.8,
-      "transactedAt": "2026-06-29 20:30:35",
-      "productCode": "871175012",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "银,币,1990年,27克,年第,第届,届亚,亚运,运会,会第,第组,组女,女子,子垒,垒球,球克,克精,精制,制银,银币,评级"
-    },
-    {
-      "coinName": "1990年第11届亚运会第（2）组-男子吊环27克精制银币",
-      "normalizedBoxCode": "8760583039",
-      "displayBoxCode": "8760583-039",
-      "gradingCompany": "NGC",
-      "grade": "PF67 ULTRA CAMEO",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10367499.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/8760583-039/67/",
-      "price": 410,
-      "priceWithFee": 424.35,
-      "transactedAt": "2026-06-29 20:30:10",
-      "productCode": "871175011",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "银,币,1990年,27克,年第,第届,届亚,亚运,运会,会第,第组,组男,男子,子吊,吊环,环克,克精,精制,制银,银币,评级"
-    },
-    {
-      "coinName": "1990年第11届亚运会第（2）组-男子标枪27克精制银币",
-      "normalizedBoxCode": "8760583041",
-      "displayBoxCode": "8760583-041",
-      "gradingCompany": "NGC",
-      "grade": "PF65 ULTRA CAMEO",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10367498.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/8760583-041/65/",
-      "price": 400,
-      "priceWithFee": 414,
-      "transactedAt": "2026-06-29 20:29:45",
-      "productCode": "871175010",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "银,币,1990年,27克,年第,第届,届亚,亚运,运会,会第,第组,组男,男子,子标,标枪,枪克,克精,精制,制银,银币,评级"
     }
   ]
 }

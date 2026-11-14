@@ -1,12 +1,12 @@
 {
   "coinName": "1992年奥运会27克精制银币",
   "slug": "09ad987c",
-  "saleCount": 4,
+  "saleCount": 3,
   "keywords": "银,币,1992年,27克,奥运,年第,第届,届冬,冬季,季奥,运会,会高,高台,台滑,滑雪,雪克,克精,精制,制银,银币,币二,二枚,评级,会克,枚一,一套",
   "priceStats": {
-    "low": 440,
+    "low": 540,
     "high": 1020,
-    "avg": 710,
+    "avg": 800,
     "latest": 840
   },
   "records": [
@@ -57,23 +57,6 @@
       "priceWithFee": 558.9,
       "transactedAt": "2026-07-13 20:44:20",
       "productCode": "873948010",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "银,币,1992年,27克,奥运,年第,第届,届冬,冬季,季奥,运会,会高,高台,台滑,滑雪,雪克,克精,精制,制银,银币,评级"
-    },
-    {
-      "coinName": "1992年第17届冬季奥运会-高台滑雪27克精制银币",
-      "normalizedBoxCode": "8756863027",
-      "displayBoxCode": "8756863-027",
-      "gradingCompany": "NGC",
-      "grade": "PF 68 CAMEO",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10367502.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/8756863-027/68/",
-      "price": 440,
-      "priceWithFee": 455.4,
-      "transactedAt": "2026-06-29 20:31:25",
-      "productCode": "871175014",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "银,币,1992年,27克,奥运,年第,第届,届冬,冬季,季奥,运会,会高,高台,台滑,滑雪,雪克,克精,精制,制银,银币,评级"

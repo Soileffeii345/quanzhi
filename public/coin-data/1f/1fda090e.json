@@ -1,12 +1,12 @@
 {
   "coinName": "2018年生肖30克精制银币",
   "slug": "1fda090e",
-  "saleCount": 7,
+  "saleCount": 4,
   "keywords": "银,币,2018年,30克,生肖,年戊,戊戌,戌狗,狗年,年生,肖克,克精,精制,制彩,彩银,银币,评级,克梅,梅花,花形,形精,制银",
   "priceStats": {
-    "low": 560,
+    "low": 580,
     "high": 820,
-    "avg": 616,
+    "avg": 648,
     "latest": 820
   },
   "records": [
@@ -60,57 +60,6 @@
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "银,币,2018年,30克,生肖,年戊,戊戌,戌狗,狗年,年生,肖克,克精,精制,制彩,彩银,银币,评级"
-    },
-    {
-      "coinName": "2018年戊戌狗年生肖30克精制彩银币",
-      "normalizedBoxCode": "8817036031",
-      "displayBoxCode": "8817036-031",
-      "gradingCompany": "NGC",
-      "grade": "PF 69 ULTRA CAMEO",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10372455.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/8817036-031/69/",
-      "price": 570,
-      "priceWithFee": 589.95,
-      "transactedAt": "2026-06-29 20:55:35",
-      "productCode": "871489008",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "银,币,2018年,30克,生肖,年戊,戊戌,戌狗,狗年,年生,肖克,克精,精制,制彩,彩银,银币,评级"
-    },
-    {
-      "coinName": "2018年戊戌狗年生肖30克精制彩银币",
-      "normalizedBoxCode": "8817036030",
-      "displayBoxCode": "8817036-030",
-      "gradingCompany": "NGC",
-      "grade": "PF 69 ULTRA CAMEO",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10372454.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/8817036-030/69/",
-      "price": 590,
-      "priceWithFee": 610.65,
-      "transactedAt": "2026-06-29 20:39:20",
-      "productCode": "871489007",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "银,币,2018年,30克,生肖,年戊,戊戌,戌狗,狗年,年生,肖克,克精,精制,制彩,彩银,银币,评级"
-    },
-    {
-      "coinName": "2018年戊戌狗年生肖30克精制银币",
-      "normalizedBoxCode": "8503992002",
-      "displayBoxCode": "8503992-002",
-      "gradingCompany": "NGC",
-      "grade": "待复核",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10371292.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/8503992-002/",
-      "price": 560,
-      "priceWithFee": 579.6,
-      "transactedAt": "2026-06-29 20:34:45",
-      "productCode": "871481002",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "银,币,2018年,30克,生肖,年戊,戊戌,戌狗,狗年,年生,肖克,克精,精制,制银,银币,评级"
     },
     {
       "coinName": "2018年戊戌狗年生肖30克精制彩银币",

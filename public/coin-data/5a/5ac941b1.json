@@ -1,12 +1,12 @@
 {
   "coinName": "2017年生肖30克精制银币",
   "slug": "5ac941b1",
-  "saleCount": 3,
-  "keywords": "银,币,2017年,30克,生肖,年丁,丁酉,酉鸡,鸡年,年生,肖克,克精,精制,制彩,彩银,银币,评级,制银",
+  "saleCount": 2,
+  "keywords": "银,币,2017年,30克,生肖,年丁,丁酉,酉鸡,鸡年,年生,肖克,克精,精制,制彩,彩银,银币,评级",
   "priceStats": {
     "low": 620,
     "high": 730,
-    "avg": 657,
+    "avg": 675,
     "latest": 730
   },
   "records": [
@@ -43,23 +43,6 @@
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "银,币,2017年,30克,生肖,年丁,丁酉,酉鸡,鸡年,年生,肖克,克精,精制,制彩,彩银,银币,评级"
-    },
-    {
-      "coinName": "2017年丁酉鸡年生肖30克精制银币",
-      "normalizedBoxCode": "8503992001",
-      "displayBoxCode": "8503992-001",
-      "gradingCompany": "NGC",
-      "grade": "PF 69 ULTRA CAMEO",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10371293.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/8503992-001/69/",
-      "price": 620,
-      "priceWithFee": 641.7,
-      "transactedAt": "2026-06-29 20:52:15",
-      "productCode": "871481003",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "银,币,2017年,30克,生肖,年丁,丁酉,酉鸡,鸡年,年生,肖克,克精,精制,制银,银币,评级"
     }
   ]
 }
