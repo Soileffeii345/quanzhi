@@ -1,12 +1,12 @@
 {
   "coinName": "2005年生肖31.104克精制银币",
   "slug": "3d7236ee",
-  "saleCount": 9,
+  "saleCount": 8,
   "keywords": "银,币,2005年,1盎司,生肖,年乙,乙酉,酉鸡,鸡年,年生,肖盎,盎司,司梅,梅花,花形,形精,精制,制银,银币,评级,司精,制彩,彩银",
   "priceStats": {
     "low": 690,
     "high": 1240,
-    "avg": 1067,
+    "avg": 1096,
     "latest": 690
   },
   "records": [
@@ -125,23 +125,6 @@
       "priceWithFee": 1283.4,
       "transactedAt": "2026-07-06 19:36:20",
       "productCode": "871558002",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "银,币,2005年,1盎司,生肖,年乙,乙酉,酉鸡,鸡年,年生,肖盎,盎司,司精,精制,制彩,彩银,银币,评级"
-    },
-    {
-      "coinName": "2005年乙酉鸡年生肖1盎司精制彩银币",
-      "normalizedBoxCode": "8581448001",
-      "displayBoxCode": "8581448-001",
-      "gradingCompany": "NGC",
-      "grade": "PF 69 ULTRA CAMEO",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10363026.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/8581448-001/69/",
-      "price": 830,
-      "priceWithFee": 859.05,
-      "transactedAt": "2026-06-29 19:47:40",
-      "productCode": "870559002",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "银,币,2005年,1盎司,生肖,年乙,乙酉,酉鸡,鸡年,年生,肖盎,盎司,司精,精制,制彩,彩银,银币,评级"

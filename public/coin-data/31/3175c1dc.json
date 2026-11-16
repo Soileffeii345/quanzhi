@@ -1,12 +1,12 @@
 {
   "coinName": "第四套/第四版人民币1990年版50元",
   "slug": "3175c1dc",
-  "saleCount": 20,
+  "saleCount": 18,
   "keywords": "币,1990年,第四,四套,套第,四版,版人,人民,民币,币年,年版,版元,元二,二枚",
   "priceStats": {
     "low": 140,
     "high": 1740,
-    "avg": 288,
+    "avg": 301,
     "latest": 400
   },
   "records": [
@@ -142,40 +142,6 @@
       "priceWithFee": 151.2,
       "transactedAt": "2026-07-04 19:00:25",
       "productCode": "872397001",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "币,1990年,第四,四套,套第,四版,版人,人民,民币,币年,年版,版元"
-    },
-    {
-      "coinName": "第四套/第四版人民币1990年版50元",
-      "normalizedBoxCode": "1742108036",
-      "displayBoxCode": "1742108-036",
-      "gradingCompany": "NGC",
-      "grade": "待复核",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/disibanrenminbi/10355255.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/1742108-036/",
-      "price": 190,
-      "priceWithFee": 205.2,
-      "transactedAt": "2026-06-27 22:32:40",
-      "productCode": "869682006",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "币,1990年,第四,四套,套第,四版,版人,人民,民币,币年,年版,版元"
-    },
-    {
-      "coinName": "第四套/第四版人民币1990年版50元",
-      "normalizedBoxCode": "2151851054",
-      "displayBoxCode": "2151851-054",
-      "gradingCompany": "NGC",
-      "grade": "待复核",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/disibanrenminbi/10355296.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/2151851-054/",
-      "price": 150,
-      "priceWithFee": 162,
-      "transactedAt": "2026-06-27 22:19:25",
-      "productCode": "869682047",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "币,1990年,第四,四套,套第,四版,版人,人民,民币,币年,年版,版元"

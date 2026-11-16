@@ -1,12 +1,12 @@
 {
   "coinName": "1997年22克精制银币",
   "slug": "1259ec6d",
-  "saleCount": 6,
+  "saleCount": 4,
   "keywords": "银,币,1997年,22克,年中,中国,国传,传统,统文,文化,化第,第组,组庄,庄子,子克,克精,精制,制银,银币,评级,组北,北京,京故,故宫,宫保,保和,和殿,殿克,组成,成吉,吉思,思汗,汗克",
   "priceStats": {
     "low": 420,
-    "high": 710,
-    "avg": 568,
+    "high": 670,
+    "avg": 550,
     "latest": 420
   },
   "records": [
@@ -60,40 +60,6 @@
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "银,币,1997年,22克,年中,中国,国传,传统,统文,文化,化第,第组,组北,北京,京故,故宫,宫保,保和,和殿,殿克,克精,精制,制银,银币,评级"
-    },
-    {
-      "coinName": "1997年中国传统文化第（2）组-成吉思汗22克精制银币",
-      "normalizedBoxCode": "8760583037",
-      "displayBoxCode": "8760583-037",
-      "gradingCompany": "NGC",
-      "grade": "PF 68 ULTRA CAMEO",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10367511.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/8760583-037/68/",
-      "price": 710,
-      "priceWithFee": 734.85,
-      "transactedAt": "2026-06-29 20:11:00",
-      "productCode": "871175023",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "银,币,1997年,22克,年中,中国,国传,传统,统文,文化,化第,第组,组成,成吉,吉思,思汗,汗克,克精,精制,制银,银币,评级"
-    },
-    {
-      "coinName": "1997年中国传统文化第（2）组-庄子22克精制银币",
-      "normalizedBoxCode": "8760583036",
-      "displayBoxCode": "8760583-036",
-      "gradingCompany": "NGC",
-      "grade": "PF 67 ULTRA CAMEO",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10367510.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/8760583-036/67/",
-      "price": 500,
-      "priceWithFee": 517.5,
-      "transactedAt": "2026-06-29 20:10:35",
-      "productCode": "871175022",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "银,币,1997年,22克,年中,中国,国传,传统,统文,文化,化第,第组,组庄,庄子,子克,克精,精制,制银,银币,评级"
     },
     {
       "coinName": "1997年中国传统文化第（2）组-成吉思汗22克精制银币",

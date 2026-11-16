@@ -1,12 +1,12 @@
 {
   "coinName": "第四套/第四版人民币1990年版2元",
   "slug": "7a9fa571",
-  "saleCount": 34,
+  "saleCount": 33,
   "keywords": "币,1990年,第四,四套,套第,四版,版人,人民,民币,币年,年版,版元",
   "priceStats": {
     "low": 70,
     "high": 9400,
-    "avg": 526,
+    "avg": 536,
     "latest": 370
   },
   "records": [
@@ -482,23 +482,6 @@
       "priceWithFee": 313.2,
       "transactedAt": "2026-07-04 20:28:45",
       "productCode": "870560010",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "币,1990年,第四,四套,套第,四版,版人,人民,民币,币年,年版,版元"
-    },
-    {
-      "coinName": "第四套/第四版人民币1990年版2元",
-      "normalizedBoxCode": "1777322026",
-      "displayBoxCode": "1777322-026",
-      "gradingCompany": "NGC",
-      "grade": "待复核",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/disibanrenminbi/10354853.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/1777322-026/",
-      "price": 200,
-      "priceWithFee": 216,
-      "transactedAt": "2026-06-27 22:29:55",
-      "productCode": "869257006",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "币,1990年,第四,四套,套第,四版,版人,人民,民币,币年,年版,版元"

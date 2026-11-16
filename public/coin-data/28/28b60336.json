@@ -1,12 +1,12 @@
 {
   "coinName": "1998年熊猫31.104克普制银币",
   "slug": "28b60336",
-  "saleCount": 11,
+  "saleCount": 10,
   "keywords": "银,币,1998年,1盎司,熊猫,年熊,猫盎,盎司,司普,普制,制银,银币,币小,小字,字版,币大,大字",
   "priceStats": {
     "low": 760,
     "high": 1520,
-    "avg": 1071,
+    "avg": 1099,
     "latest": 1000
   },
   "records": [
@@ -162,23 +162,6 @@
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "银,币,1998年,1盎司,熊猫,年熊,猫盎,盎司,司普,普制,制银,银币,币大,大字,字版"
-    },
-    {
-      "coinName": "1998年熊猫1盎司普制银币（小字版）",
-      "normalizedBoxCode": "8504629008",
-      "displayBoxCode": "8504629-008",
-      "gradingCompany": "NGC",
-      "grade": "待复核",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/xiongmaoxilie-jiuyin/10363028.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/8504629-008/",
-      "price": 790,
-      "priceWithFee": 817.65,
-      "transactedAt": "2026-06-29 20:25:35",
-      "productCode": "870559004",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "银,币,1998年,1盎司,熊猫,年熊,猫盎,盎司,司普,普制,制银,银币,币小,小字,字版"
     },
     {
       "coinName": "1998年熊猫1盎司普制银币（大字版）",
