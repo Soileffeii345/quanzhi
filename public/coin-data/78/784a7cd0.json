@@ -1,12 +1,12 @@
 {
   "coinName": "第四套/第四版人民币1980年版2元",
   "slug": "784a7cd0",
-  "saleCount": 28,
+  "saleCount": 27,
   "keywords": "币,1980年,第四,四套,套第,四版,版人,人民,民币,币年,年版,版元,元绿,绿钻,钻荧,荧光,光版,元十,十枚,枚绿,元连,连号,号枚,元二,二枚",
   "priceStats": {
     "low": 40,
     "high": 510,
-    "avg": 236,
+    "avg": 238,
     "latest": 310
   },
   "records": [
@@ -315,23 +315,6 @@
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "币,1980年,第四,四套,套第,四版,版人,人民,民币,币年,年版,版元"
-    },
-    {
-      "coinName": "第四套/第四版人民币1980年版2元(绿钻荧光版)",
-      "normalizedBoxCode": "2052690001",
-      "displayBoxCode": "2052690-001",
-      "gradingCompany": "NGC",
-      "grade": "待复核",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/disibanrenminbi/10355272.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/2052690-001/",
-      "price": 180,
-      "priceWithFee": 194.4,
-      "transactedAt": "2026-06-27 22:19:10",
-      "productCode": "869682023",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "币,1980年,第四,四套,套第,四版,版人,人民,民币,币年,年版,版元,元绿,绿钻,钻荧,荧光,光版"
     },
     {
       "coinName": "第四套/第四版人民币1980年版2元(绿钻荧光版)",
