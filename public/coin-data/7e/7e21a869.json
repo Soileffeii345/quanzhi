@@ -1,12 +1,12 @@
 {
   "coinName": "2025年生肖",
   "slug": "7e21a869",
-  "saleCount": 174,
+  "saleCount": 172,
   "keywords": "钞,2025年,生肖,年蛇,蛇年,年生,肖纪,纪念,念钞,钞元,元二,二枚,元连,连号,号十,十枚,号二,元三,三枚,元四,四枚,币,年乙,乙巳,巳蛇,肖流,流通,通纪,念币,币二",
   "priceStats": {
     "low": 30,
     "high": 1240,
-    "avg": 183,
+    "avg": 184,
     "latest": 320
   },
   "records": [
@@ -2695,40 +2695,6 @@
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "钞,2025年,生肖,年蛇,蛇年,年生,肖纪,纪念,念钞,钞元,元二,二枚"
-    },
-    {
-      "coinName": "2025年蛇年生肖纪念钞20元",
-      "normalizedBoxCode": "4090167520",
-      "displayBoxCode": "4090167-520",
-      "gradingCompany": "NGC",
-      "grade": "待复核",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/liantichao-jinianchao/10365312.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/4090167-520/",
-      "price": 110,
-      "priceWithFee": 118.8,
-      "transactedAt": "2026-06-27 21:34:25",
-      "productCode": "870456006",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "钞,2025年,生肖,年蛇,蛇年,年生,肖纪,纪念,念钞,钞元"
-    },
-    {
-      "coinName": "2025年蛇年生肖纪念钞20元",
-      "normalizedBoxCode": "0606202099",
-      "displayBoxCode": "0606202-099",
-      "gradingCompany": "NGC",
-      "grade": "待复核",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/liantichao-jinianchao/10360030.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/0606202-099/",
-      "price": 80,
-      "priceWithFee": 86.4,
-      "transactedAt": "2026-06-27 21:31:40",
-      "productCode": "870374015",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "钞,2025年,生肖,年蛇,蛇年,年生,肖纪,纪念,念钞,钞元"
     },
     {
       "coinName": "2025年蛇年生肖纪念钞20元",

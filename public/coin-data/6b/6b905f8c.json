@@ -1,12 +1,12 @@
 {
   "coinName": "2021年生肖30克精制银币",
   "slug": "6b905f8c",
-  "saleCount": 6,
-  "keywords": "银,币,2021年,30克,生肖,年辛,辛丑,丑牛,牛年,年生,肖克,克精,精制,制彩,彩银,银币,评级,克扇,扇形,形精,制银",
+  "saleCount": 5,
+  "keywords": "银,币,2021年,30克,生肖,年辛,辛丑,丑牛,牛年,年生,肖克,克精,精制,制彩,彩银,银币,评级",
   "priceStats": {
-    "low": 730,
+    "low": 750,
     "high": 830,
-    "avg": 783,
+    "avg": 794,
     "latest": 790
   },
   "records": [
@@ -94,23 +94,6 @@
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "银,币,2021年,30克,生肖,年辛,辛丑,丑牛,牛年,年生,肖克,克精,精制,制彩,彩银,银币,评级"
-    },
-    {
-      "coinName": "2021年辛丑牛年生肖30克扇形精制银币",
-      "normalizedBoxCode": "8761122025",
-      "displayBoxCode": "8761122-025",
-      "gradingCompany": "NGC",
-      "grade": "PF 69 ULTRA CAMEO",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10363180.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/8761122-025/69/",
-      "price": 730,
-      "priceWithFee": 755.55,
-      "transactedAt": "2026-06-27 21:29:35",
-      "productCode": "870614009",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "银,币,2021年,30克,生肖,年辛,辛丑,丑牛,牛年,年生,肖克,克扇,扇形,形精,精制,制银,银币,评级"
     }
   ]
 }

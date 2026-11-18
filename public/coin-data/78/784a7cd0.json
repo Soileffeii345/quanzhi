@@ -1,12 +1,12 @@
 {
   "coinName": "第四套/第四版人民币1980年版2元",
   "slug": "784a7cd0",
-  "saleCount": 27,
+  "saleCount": 24,
   "keywords": "币,1980年,第四,四套,套第,四版,版人,人民,民币,币年,年版,版元,元绿,绿钻,钻荧,荧光,光版,元十,十枚,枚绿,元连,连号,号枚,元二,二枚",
   "priceStats": {
     "low": 40,
     "high": 510,
-    "avg": 238,
+    "avg": 240,
     "latest": 310
   },
   "records": [
@@ -332,57 +332,6 @@
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "币,1980年,第四,四套,套第,四版,版人,人民,民币,币年,年版,版元,元绿,绿钻,钻荧,荧光,光版"
-    },
-    {
-      "coinName": "第四套/第四版人民币1980年版2元",
-      "normalizedBoxCode": "2052709021",
-      "displayBoxCode": "2052709-021",
-      "gradingCompany": "NGC",
-      "grade": "待复核",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/disibanrenminbi/10355277.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/2052709-021/",
-      "price": 240,
-      "priceWithFee": 259.2,
-      "transactedAt": "2026-06-27 21:25:40",
-      "productCode": "869682028",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "币,1980年,第四,四套,套第,四版,版人,人民,民币,币年,年版,版元"
-    },
-    {
-      "coinName": "第四套/第四版人民币1980年版2元(绿钻荧光版)",
-      "normalizedBoxCode": "2052690020",
-      "displayBoxCode": "2052690-020",
-      "gradingCompany": "NGC",
-      "grade": "待复核",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/disibanrenminbi/10355271.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/2052690-020/",
-      "price": 200,
-      "priceWithFee": 216,
-      "transactedAt": "2026-06-27 21:25:25",
-      "productCode": "869682022",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "币,1980年,第四,四套,套第,四版,版人,人民,民币,币年,年版,版元,元绿,绿钻,钻荧,荧光,光版"
-    },
-    {
-      "coinName": "第四套/第四版人民币1980年版2元",
-      "normalizedBoxCode": "2490463002",
-      "displayBoxCode": "2490463-002",
-      "gradingCompany": "NGC",
-      "grade": "待复核",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/disibanrenminbi/10355943.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/2490463-002/",
-      "price": 230,
-      "priceWithFee": 248.4,
-      "transactedAt": "2026-06-27 21:22:40",
-      "productCode": "869669002",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "币,1980年,第四,四套,套第,四版,版人,人民,民币,币年,年版,版元"
     },
     {
       "coinName": "第四套/第四版人民币1980年版2元",
