@@ -1,12 +1,12 @@
 {
   "coinName": "2018年人民币发行70周年纪念钞伍拾圆",
   "slug": "638ee57e",
-  "saleCount": 43,
+  "saleCount": 42,
   "keywords": "币,钞,2018年,年人,人民,民币,币发,发行,行周,周年,年纪,纪念,念钞,钞伍,伍拾,拾圆,圆二,二枚,圆三,三枚",
   "priceStats": {
     "low": 70,
-    "high": 520,
-    "avg": 210,
+    "high": 330,
+    "avg": 203,
     "latest": 150
   },
   "records": [
@@ -689,23 +689,6 @@
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "币,钞,2018年,年人,人民,民币,币发,发行,行周,周年,年纪,纪念,念钞,钞伍,伍拾,拾圆"
-    },
-    {
-      "coinName": "2018年人民币发行70周年纪念钞伍拾圆三枚",
-      "normalizedBoxCode": "2340750062",
-      "displayBoxCode": "2340750-062",
-      "gradingCompany": "NGC",
-      "grade": "待复核",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/liantichao-jinianchao/10358417.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/2340750-062/",
-      "price": 520,
-      "priceWithFee": 561.6,
-      "transactedAt": "2026-06-27 21:48:10",
-      "productCode": "869838002",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "币,钞,2018年,年人,人民,民币,币发,发行,行周,周年,年纪,纪念,念钞,钞伍,伍拾,拾圆,圆三,三枚"
     },
     {
       "coinName": "2018年人民币发行70周年纪念钞伍拾圆二枚",

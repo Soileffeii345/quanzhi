@@ -1,12 +1,12 @@
 {
   "coinName": "1998年31.104克普制银币",
   "slug": "1924249f",
-  "saleCount": 13,
+  "saleCount": 12,
   "keywords": "银,币,1998年,1盎司,年迎,迎春,春图,图盎,盎司,司普,普制,制银,银币,宗教,年莲,莲座,座观,观音,音盎,年大,大唐,唐镇,镇库,库盎,年妈,妈祖,祖盎",
   "priceStats": {
     "low": 520,
     "high": 1260,
-    "avg": 772,
+    "avg": 774,
     "latest": 660
   },
   "records": [
@@ -193,23 +193,6 @@
       "priceWithFee": 548.55,
       "transactedAt": "2026-07-20 20:35:10",
       "productCode": "875918028",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "银,币,1998年,1盎司,年迎,迎春,春图,图盎,盎司,司普,普制,制银,银币"
-    },
-    {
-      "coinName": "1998年迎春图1盎司普制银币",
-      "normalizedBoxCode": "2022547005",
-      "displayBoxCode": "2022547-005",
-      "gradingCompany": "NGC",
-      "grade": "待复核",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10369678.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/2022547-005/",
-      "price": 750,
-      "priceWithFee": 776.25,
-      "transactedAt": "2026-06-27 21:11:35",
-      "productCode": "871206007",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "银,币,1998年,1盎司,年迎,迎春,春图,图盎,盎司,司普,普制,制银,银币"
