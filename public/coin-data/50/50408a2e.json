@@ -1,7 +1,7 @@
 {
   "coinName": "第三版人民币10元",
   "slug": "50408a2e",
-  "saleCount": 58,
+  "saleCount": 57,
   "keywords": "币,第三,三版,版人,人民,民币,币元,元荧,荧光,光版",
   "priceStats": {
     "low": 120,
@@ -944,23 +944,6 @@
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "币,第三,三版,版人,人民,民币,币元,元荧,荧光,光版"
-    },
-    {
-      "coinName": "第三版人民币10元",
-      "normalizedBoxCode": "2154662014",
-      "displayBoxCode": "2154662-014",
-      "gradingCompany": "NGC",
-      "grade": "待复核",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/disanbanrenminbi/10366065.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/2154662-014/",
-      "price": 460,
-      "priceWithFee": 496.8,
-      "transactedAt": "2026-06-27 20:50:55",
-      "productCode": "871101008",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "币,第三,三版,版人,人民,民币,币元"
     },
     {
       "coinName": "第三版人民币10元",

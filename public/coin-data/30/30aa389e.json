@@ -1,12 +1,12 @@
 {
   "coinName": "第一版人民币立交桥20元",
   "slug": "30aa389e",
-  "saleCount": 4,
+  "saleCount": 3,
   "keywords": "币,第一,一版,版人,人民,民币,币立,立交,交桥,桥元",
   "priceStats": {
     "low": 3000,
     "high": 10200,
-    "avg": 6075,
+    "avg": 6400,
     "latest": 3000
   },
   "records": [
@@ -40,23 +40,6 @@
       "priceWithFee": 11220,
       "transactedAt": "2026-07-23 20:25:40",
       "productCode": "875132003",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "币,第一,一版,版人,人民,民币,币立,立交,交桥,桥元"
-    },
-    {
-      "coinName": "第一版人民币立交桥20元",
-      "normalizedBoxCode": "1989549003",
-      "displayBoxCode": "1989549-003",
-      "gradingCompany": "NGC",
-      "grade": "待复核",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/diyibanrenminbi/10358665.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/1989549-003/",
-      "price": 5100,
-      "priceWithFee": 5610,
-      "transactedAt": "2026-06-27 20:53:55",
-      "productCode": "870138012",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "币,第一,一版,版人,人民,民币,币立,立交,交桥,桥元"

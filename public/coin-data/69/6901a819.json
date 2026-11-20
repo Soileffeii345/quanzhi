@@ -1,32 +1,15 @@
 {
   "coinName": "第二版人民币大黑拾",
   "slug": "6901a819",
-  "saleCount": 2,
+  "saleCount": 1,
   "keywords": "币,第二,二版,版人,人民,民币,币大,大黑,黑拾",
   "priceStats": {
-    "low": 69000,
+    "low": 222000,
     "high": 222000,
-    "avg": 145500,
-    "latest": 69000
+    "avg": 222000,
+    "latest": 222000
   },
   "records": [
-    {
-      "coinName": "第二版人民币大黑拾",
-      "normalizedBoxCode": "2489228001",
-      "displayBoxCode": "2489228-001",
-      "gradingCompany": "NGC",
-      "grade": "待复核",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/dierbanrenminbi/10358670.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/2489228-001/",
-      "price": 69000,
-      "priceWithFee": 74520,
-      "transactedAt": "2026-06-27 20:54:10",
-      "productCode": "870138017",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "币,第二,二版,版人,人民,民币,币大,大黑,黑拾"
-    },
     {
       "coinName": "第二版人民币大黑拾",
       "normalizedBoxCode": "1871504002",

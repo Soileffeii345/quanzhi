@@ -1,32 +1,15 @@
 {
   "coinName": "2023年生肖30克精制银币",
   "slug": "7649ca0e",
-  "saleCount": 2,
+  "saleCount": 1,
   "keywords": "银,币,2023年,30克,生肖,年癸,癸卯,卯兔,兔年,年生,肖克,克扇,扇形,形精,精制,制银,银币,评级",
   "priceStats": {
     "low": 700,
-    "high": 920,
-    "avg": 810,
-    "latest": 920
+    "high": 700,
+    "avg": 700,
+    "latest": 700
   },
   "records": [
-    {
-      "coinName": "2023年癸卯兔年生肖30克扇形精制银币",
-      "normalizedBoxCode": "8761122022",
-      "displayBoxCode": "8761122-022",
-      "gradingCompany": "NGC",
-      "grade": "PF 70 ULTRA CAMEO",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/shengxiaoxilie-yin/10363179.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/8761122-022/70/",
-      "price": 920,
-      "priceWithFee": 952.2,
-      "transactedAt": "2026-06-27 20:45:35",
-      "productCode": "870614008",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "银,币,2023年,30克,生肖,年癸,癸卯,卯兔,兔年,年生,肖克,克扇,扇形,形精,精制,制银,银币,评级"
-    },
     {
       "coinName": "2023年癸卯兔年生肖30克扇形精制银币",
       "normalizedBoxCode": "8761122023",
