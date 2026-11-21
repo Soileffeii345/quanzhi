@@ -1,12 +1,12 @@
 {
   "coinName": "第三版人民币1角红冠3罗马凸版",
   "slug": "3cb868b7",
-  "saleCount": 81,
+  "saleCount": 79,
   "keywords": "币,第三,三版,版人,人民,民币,币角,角红,红冠,冠罗,罗马,马凸,凸版",
   "priceStats": {
     "low": 55,
     "high": 720,
-    "avg": 359,
+    "avg": 363,
     "latest": 340
   },
   "records": [
@@ -1349,40 +1349,6 @@
       "priceWithFee": 378,
       "transactedAt": "2026-07-04 20:58:05",
       "productCode": "870329007",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "币,第三,三版,版人,人民,民币,币角,角红,红冠,冠罗,罗马,马凸,凸版"
-    },
-    {
-      "coinName": "第三版人民币1角红冠3罗马凸版",
-      "normalizedBoxCode": "2223959020",
-      "displayBoxCode": "2223959-020",
-      "gradingCompany": "NGC",
-      "grade": "待复核",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/disanbanrenminbi/10355264.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/2223959-020/",
-      "price": 150,
-      "priceWithFee": 162,
-      "transactedAt": "2026-06-27 20:34:40",
-      "productCode": "869682015",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "币,第三,三版,版人,人民,民币,币角,角红,红冠,冠罗,罗马,马凸,凸版"
-    },
-    {
-      "coinName": "第三版人民币1角红冠3罗马凸版",
-      "normalizedBoxCode": "2223959016",
-      "displayBoxCode": "2223959-016",
-      "gradingCompany": "NGC",
-      "grade": "待复核",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/disanbanrenminbi/10355261.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/2223959-016/",
-      "price": 240,
-      "priceWithFee": 259.2,
-      "transactedAt": "2026-06-27 20:34:25",
-      "productCode": "869682012",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "币,第三,三版,版人,人民,民币,币角,角红,红冠,冠罗,罗马,马凸,凸版"
