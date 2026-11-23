@@ -1,12 +1,12 @@
 {
   "coinName": "第四套/第四版人民币1980年版1元",
   "slug": "784a7caf",
-  "saleCount": 61,
+  "saleCount": 59,
   "keywords": "币,1980年,第四,四套,套第,四版,版人,人民,民币,币年,年版,版元,元中,中国,国龙,龙荧,荧光,光版,金,元红,红金,金龙,元二,二枚,元金,龙王,王荧",
   "priceStats": {
     "low": 15,
-    "high": 7200,
-    "avg": 331,
+    "high": 1420,
+    "avg": 216,
     "latest": 240
   },
   "records": [
@@ -958,40 +958,6 @@
       "priceWithFee": 129.6,
       "transactedAt": "2026-07-04 19:17:45",
       "productCode": "872395013",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "币,1980年,第四,四套,套第,四版,版人,人民,民币,币年,年版,版元"
-    },
-    {
-      "coinName": "第四套/第四版人民币1980年版1元",
-      "normalizedBoxCode": "1868829011",
-      "displayBoxCode": "1868829-011",
-      "gradingCompany": "NGC",
-      "grade": "待复核",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/disibanrenminbi/10358664.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/1868829-011/",
-      "price": 7200,
-      "priceWithFee": 7776,
-      "transactedAt": "2026-06-27 20:12:10",
-      "productCode": "870138011",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "币,1980年,第四,四套,套第,四版,版人,人民,民币,币年,年版,版元"
-    },
-    {
-      "coinName": "第四套/第四版人民币1980年版1元",
-      "normalizedBoxCode": "2490463009",
-      "displayBoxCode": "2490463-009",
-      "gradingCompany": "NGC",
-      "grade": "待复核",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/disibanrenminbi/10355942.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/2490463-009/",
-      "price": 260,
-      "priceWithFee": 280.8,
-      "transactedAt": "2026-06-27 20:08:25",
-      "productCode": "869669001",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "币,1980年,第四,四套,套第,四版,版人,人民,民币,币年,年版,版元"

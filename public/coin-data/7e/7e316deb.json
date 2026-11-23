@@ -1,12 +1,12 @@
 {
   "coinName": "2012年银币",
   "slug": "7e316deb",
-  "saleCount": 5,
-  "keywords": "银,币,2012年,年香,香港,港渣,渣打,打银,银行,行港,港币,币伍,伍拾,拾圆,外国/特区,年中,中国,国银,行香,港有,有限,限公,公司,司港,币壹,壹仟,仟圆,壹佰,佰圆,奥运,年伦,伦敦,敦奥,运飞,飞马,马银,银币",
+  "saleCount": 4,
+  "keywords": "银,币,2012年,年香,香港,港渣,渣打,打银,银行,行港,港币,币伍,伍拾,拾圆,外国/特区,年中,中国,国银,行香,港有,有限,限公,公司,司港,币壹,壹仟,仟圆,奥运,年伦,伦敦,敦奥,运飞,飞马,马银,银币",
   "priceStats": {
     "low": 170,
     "high": 3155,
-    "avg": 1031,
+    "avg": 1186,
     "latest": 170
   },
   "records": [
@@ -60,23 +60,6 @@
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "银,币,2012年,年中,中国,国银,银行,行香,香港,港有,有限,限公,公司,司港,港币,币壹,壹仟,仟圆,外国/特区"
-    },
-    {
-      "coinName": "2012年中国银行（香港）有限公司港币壹佰圆",
-      "normalizedBoxCode": "2259421002",
-      "displayBoxCode": "2259421-002",
-      "gradingCompany": "NGC",
-      "grade": "待复核",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/liantichao-jinianchao/10358485.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/2259421-002/",
-      "price": 410,
-      "priceWithFee": 442.8,
-      "transactedAt": "2026-06-27 20:07:40",
-      "productCode": "869246001",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "银,币,2012年,年中,中国,国银,银行,行香,香港,港有,有限,限公,公司,司港,港币,币壹,壹佰,佰圆,外国/特区"
     },
     {
       "coinName": "2012年伦敦奥运飞马银币",

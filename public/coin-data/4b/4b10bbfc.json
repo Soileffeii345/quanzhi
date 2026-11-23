@@ -1,12 +1,12 @@
 {
   "coinName": "第四套/第四版人民币1980年版1元连号",
   "slug": "4b10bbfc",
-  "saleCount": 8,
+  "saleCount": 5,
   "keywords": "金,币,1980年,第四,四套,套第,四版,版人,人民,民币,币年,年版,版元,元连,连号,号十,十枚,枚红,红金,金龙,龙荧,荧光,光版,号二,二枚,号三,三枚",
   "priceStats": {
     "low": 50,
     "high": 2650,
-    "avg": 509,
+    "avg": 722,
     "latest": 50
   },
   "records": [
@@ -43,57 +43,6 @@
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "币,1980年,第四,四套,套第,四版,版人,人民,民币,币年,年版,版元,元连,连号,号十,十枚"
-    },
-    {
-      "coinName": "第四套/第四版人民币1980年版1元连号二枚",
-      "normalizedBoxCode": "1131862614",
-      "displayBoxCode": "1131862-614",
-      "gradingCompany": "NGC",
-      "grade": "待复核",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/disibanrenminbi/10353283.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/1131862-614/",
-      "price": 140,
-      "priceWithFee": 151.2,
-      "transactedAt": "2026-06-27 20:04:55",
-      "productCode": "869345006",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "币,1980年,第四,四套,套第,四版,版人,人民,民币,币年,年版,版元,元连,连号,号二,二枚"
-    },
-    {
-      "coinName": "第四套/第四版人民币1980年版1元连号二枚",
-      "normalizedBoxCode": "1775428014",
-      "displayBoxCode": "1775428-014",
-      "gradingCompany": "NGC",
-      "grade": "待复核",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/disibanrenminbi/10353283.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/1775428-014/",
-      "price": 140,
-      "priceWithFee": 151.2,
-      "transactedAt": "2026-06-27 20:04:55",
-      "productCode": "869345006",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "币,1980年,第四,四套,套第,四版,版人,人民,民币,币年,年版,版元,元连,连号,号二,二枚"
-    },
-    {
-      "coinName": "第四套/第四版人民币1980年版1元连号二枚",
-      "normalizedBoxCode": "1775428020",
-      "displayBoxCode": "1775428-020",
-      "gradingCompany": "NGC",
-      "grade": "待复核",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/disibanrenminbi/10353304.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/1775428-020/",
-      "price": 180,
-      "priceWithFee": 194.4,
-      "transactedAt": "2026-06-27 20:04:25",
-      "productCode": "869351011",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "币,1980年,第四,四套,套第,四版,版人,人民,民币,币年,年版,版元,元连,连号,号二,二枚"
     },
     {
       "coinName": "第四套/第四版人民币1980年版1元连号二枚",
