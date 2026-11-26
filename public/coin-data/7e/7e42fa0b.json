@@ -1,12 +1,12 @@
 {
   "coinName": "2003年银币",
   "slug": "7e42fa0b",
-  "saleCount": 14,
+  "saleCount": 13,
   "keywords": "银,币,2003年,年香,香港,港渣,渣打,打银,银行,行港,港币,币伍,伍佰,佰圆,外国/特区,币元,伍拾,拾圆,币壹,壹佰,港上,上海,海汇,汇丰,丰银,行有,有限,限公,公司,司港,年边,边红,红楼,楼梦,梦第,第组,组彩,彩银,银币",
   "priceStats": {
     "low": 100,
     "high": 3300,
-    "avg": 1388,
+    "avg": 1392,
     "latest": 1000
   },
   "records": [
@@ -145,23 +145,6 @@
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "银,币,2003年,年香,香港,港渣,渣打,打银,银行,行港,港币,币壹,壹佰,佰圆,外国/特区"
-    },
-    {
-      "coinName": "2003年香港渣打银行港币伍佰圆",
-      "normalizedBoxCode": "2504161048",
-      "displayBoxCode": "2504161-048",
-      "gradingCompany": "NGC",
-      "grade": "待复核",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/liantichao-jinianchao/10368261.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/2504161-048/",
-      "price": 1340,
-      "priceWithFee": 1447.2,
-      "transactedAt": "2026-06-27 19:53:40",
-      "productCode": "871302006",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "银,币,2003年,年香,香港,港渣,渣打,打银,银行,行港,港币,币伍,伍佰,佰圆,外国/特区"
     },
     {
       "coinName": "2003年8边红楼梦第3组彩银币",

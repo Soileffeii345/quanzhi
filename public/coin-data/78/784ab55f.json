@@ -1,12 +1,12 @@
 {
   "coinName": "第四套/第四版人民币1980年版2角",
   "slug": "784ab55f",
-  "saleCount": 19,
+  "saleCount": 18,
   "keywords": "币,1980年,第四,四套,套第,四版,版人,人民,民币,币年,年版,版角,角三,三枚,角二,二枚",
   "priceStats": {
     "low": 75,
     "high": 1440,
-    "avg": 322,
+    "avg": 330,
     "latest": 300
   },
   "records": [
@@ -295,23 +295,6 @@
       "priceWithFee": 378,
       "transactedAt": "2026-07-04 19:18:05",
       "productCode": "872395016",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "币,1980年,第四,四套,套第,四版,版人,人民,民币,币年,年版,版角"
-    },
-    {
-      "coinName": "第四套/第四版人民币1980年版2角",
-      "normalizedBoxCode": "2220538086",
-      "displayBoxCode": "2220538-086",
-      "gradingCompany": "NGC",
-      "grade": "待复核",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/disibanrenminbi/10365202.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/2220538-086/",
-      "price": 170,
-      "priceWithFee": 183.6,
-      "transactedAt": "2026-06-27 19:36:55",
-      "productCode": "870637006",
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "币,1980年,第四,四套,套第,四版,版人,人民,民币,币年,年版,版角"

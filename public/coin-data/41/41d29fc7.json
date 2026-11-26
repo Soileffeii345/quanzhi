@@ -1,12 +1,12 @@
 {
   "coinName": "2026年吉祥文化30克精制银币",
   "slug": "41d29fc7",
-  "saleCount": 52,
+  "saleCount": 50,
   "keywords": "银,币,2026年,30克,吉祥文化,年吉,吉祥,祥文,文化,化克,克心,心形,形精,精制,制银,银币,评级,克如,如意,意形,化如,形克,克精,克方,方孔,孔圆,圆形",
   "priceStats": {
     "low": 920,
     "high": 1660,
-    "avg": 1279,
+    "avg": 1268,
     "latest": 1020
   },
   "records": [
@@ -587,40 +587,6 @@
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "银,币,2026年,30克,吉祥文化,年吉,吉祥,祥文,文化,化克,克方,方孔,孔圆,圆形,形精,精制,制银,银币,评级"
-    },
-    {
-      "coinName": "2026年吉祥文化30克如意形精制银币",
-      "normalizedBoxCode": "8819600008",
-      "displayBoxCode": "8819600-008",
-      "gradingCompany": "NGC",
-      "grade": "PF 70 ULTRA CAMEO",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10361132.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/8819600-008/70/",
-      "price": 1520,
-      "priceWithFee": 1573.2,
-      "transactedAt": "2026-06-27 19:53:05",
-      "productCode": "870267003",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "银,币,2026年,30克,吉祥文化,年吉,吉祥,祥文,文化,化克,克如,如意,意形,形精,精制,制银,银币,评级"
-    },
-    {
-      "coinName": "2026年吉祥文化30克如意形精制银币",
-      "normalizedBoxCode": "8819690009",
-      "displayBoxCode": "8819690-009",
-      "gradingCompany": "NGC",
-      "grade": "PF 70 ULTRA CAMEO",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/jinianxilie-yin/10361131.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/8819690-009/70/",
-      "price": 1600,
-      "priceWithFee": 1656,
-      "transactedAt": "2026-06-27 19:52:35",
-      "productCode": "870267002",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "银,币,2026年,30克,吉祥文化,年吉,吉祥,祥文,文化,化克,克如,如意,意形,形精,精制,制银,银币,评级"
     },
     {
       "coinName": "2026年吉祥文化30克方孔圆形精制银币",

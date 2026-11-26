@@ -1,12 +1,12 @@
 {
   "coinName": "2016年银币",
   "slug": "7e2f3c67",
-  "saleCount": 15,
+  "saleCount": 14,
   "keywords": "银,币,2016年,年香,香港,港渣,渣打,打银,银行,行港,港币,币贰,贰拾,拾圆,外国/特区,港上,上海,海汇,汇丰,丰银,币壹,壹佰,佰圆,行有,有限,限公,公司,司港,币伍,伍拾,年渣,币元,行香,港港,圆二,二枚",
   "priceStats": {
     "low": 95,
     "high": 410,
-    "avg": 170,
+    "avg": 167,
     "latest": 100
   },
   "records": [
@@ -247,23 +247,6 @@
       "verificationStatus": "official_pending",
       "saleStatus": "已售",
       "keywords": "银,币,2016年,年香,香港,港上,上海,海汇,汇丰,丰银,银行,行港,港币,币贰,贰拾,拾圆,圆二,二枚,外国/特区"
-    },
-    {
-      "coinName": "2016年香港上海汇丰银行港币壹佰圆",
-      "normalizedBoxCode": "2488260050",
-      "displayBoxCode": "2488260-050",
-      "gradingCompany": "NGC",
-      "grade": "待复核",
-      "platform": "赵涌在线",
-      "detailUrl": "https://zhaoonline.com/liantichao-jinianchao/10358487.shtml",
-      "officialCertUrl": "https://www.ngccoin.com/certlookup/2488260-050/",
-      "price": 210,
-      "priceWithFee": 226.8,
-      "transactedAt": "2026-06-27 19:31:10",
-      "productCode": "869246003",
-      "verificationStatus": "official_pending",
-      "saleStatus": "已售",
-      "keywords": "银,币,2016年,年香,香港,港上,上海,海汇,汇丰,丰银,银行,行港,港币,币壹,壹佰,佰圆,外国/特区"
     }
   ]
 }
